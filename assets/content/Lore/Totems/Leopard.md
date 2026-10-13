@@ -14,7 +14,7 @@ Independent and secretive, leopards are solitary predators that prefer to hunt a
 
 ## Human Personality
 
-Preferring solitude, this individual is self-reliant and keeps to themselves. They are strategic, often hiding their successes from others to avoid unnecessary attention.
+The Leopard person is self-reliant and keeps to themselves. Successes are hidden from others so as not to draw attention.
 
 - **Physical:** Lean and muscular; quiet and agile.
 - **Behavioral:** Prefers solitude and secrecy, rarely seen but highly capable.

@@ -447,7 +447,7 @@ Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the pe
 
 - **Master Metalworking:** Raiaqu's technical mastery has no equal across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is complete.
 - **Uncompromising Standards:** He refuses to compromise on quality, which has made his name synonymous with excellence in weaponcraft. He will reject commissions that cannot meet his rigorous specifications.
-- **Profound Knowledge:** Beyond metalcraft, Raiaqu possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
+- **Deep Knowledge:** Beyond metalcraft, Raiaqu possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
 - **Ritual Expertise:** His devotion to Uzn'êra has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
 - **Leadership and Command:** Despite his age, Raiaqu commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
 

@@ -397,7 +397,7 @@ Hnirvmýl's runic mastery is unmatched in the northern lands; he can read omens 
 
 **Gnildrmýl Iron-Eye**—A rival seer who claims Hnirvmýl is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildrmýl has placed bounties on Hnirvmýl's head among mercenary bands.
 
-**The Quaesitorium Arcanum**—The Ordo Arcanis enforcement arm has taken an interest in Hnirvmýl's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
+**The Sekran Arcanum**—The Ordo Arcanis enforcement arm has taken an interest in Hnirvmýl's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
 
 ## Plot Hooks
 

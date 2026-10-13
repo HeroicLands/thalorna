@@ -14,7 +14,7 @@ data:
   culture: khelathiclt
   homes: [anlaghzetun]
   affiliations: {empireakhlth: {rank: 3}, uznera: {rank: 1}}
-  socialTies: {affiliation-aerarimmpr: patron}
+  socialTies: {affiliation-tarmex: patron}
   gender: male
   species: humanflk
   born: 669.179
@@ -456,11 +456,11 @@ Thefnutî's primary motivation is the creation of mechanical perfection—toys t
 
 - **Multi-Disciplinary Mastery**: He possesses significant abilities across woodworking, metalcraft, ceramics, and textile craft. This allows him to create complete works integrating multiple materials and techniques as one whole.
 
-- **Meticulous Attention to Detail**: His sharp perception and dexterity allow him to work at scales and tolerances that would challenge lesser craftsmen. He can create gear teeth so fine they require magnification to observe clearly.
+- **Attention to Detail**: His sharp perception and dexterity allow him to work at scales and tolerances that would challenge lesser craftsmen. He can create gear teeth so fine they require magnification to observe clearly.
 
 - **Inventor's Mind**: His creativity and reasoning combine to let him devise new solutions to mechanical problems while keeping to the traditional approach as a whole.
 
-- **Profound Understanding of Motion**: His knowledge of how mechanisms function at deep levels allows him to design toys and sculptures that perform with seemingly impossible fluidity and precision.
+- **Understanding of Motion**: His knowledge of how mechanisms function at deep levels allows him to design toys and sculptures that perform with seemingly impossible fluidity and precision.
 
 ### Weaknesses
 
@@ -484,7 +484,7 @@ Lady [[being-uznerashkag2|Uzner Ashkagar]]
 Scholar-Collector [[being-kheladenthlt|Khelâden Itha'Letu]]
 : A historian and antiquarian who employs Thefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Thefnutî's most celebrated works.
 
-[[affiliation-aerarimmpr|the Imperial Treasury]]
+[[affiliation-tarmex|the Imperial Treasury]]
 : Thefnutî has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
 
 Merchant Prince Zassor the Learned

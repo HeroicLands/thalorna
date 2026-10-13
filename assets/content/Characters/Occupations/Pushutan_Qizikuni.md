@@ -400,7 +400,7 @@ Pushûtan Qizîkûnî is a 41-year-old man who stands 5'7" tall and is of modera
 
 Born in the Tarûzel region to a noble family of Tarûzelian heritage, Pushûtan Qizîkûnî came into the world of the litigant through a combination of circumstance and aptitude.
 
-Pushûtan has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the Litigant's Guild. Pushûtan is respected for his analytical approach and ability to navigate complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
+Pushûtan has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the Litigant's Guild. Pushûtan is respected for his analytical approach and ability to handle complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
 
 ## Psyche
 
@@ -426,7 +426,7 @@ As a Tarûzelian litigant, Pushûtan occupies a recognized social niche within T
 
 ### Patrons
 
-Pushûtan's primary patron is Merchants and business owners seeking legal representation.. This relationship provides both opportunity and obligation.
+Pushûtan's primary patron is Merchants and business owners seeking legal representation. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Few; generally respected but occasionally challenged by ambitious newcomers.
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma**—Pushûtan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Litigant's Dilemma**—Pushûtan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Few; generally respected but occasionally challenged by ambitious newcomers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -401,7 +401,7 @@ Jéthra Llýdar is a 39-year-old woman who stands 5'6" tall and is slender. She 
 
 Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Jéthra Llýdar came into the world of the astrologer through a combination of circumstance and aptitude.
 
-Jéthra grew up in a bustling port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
+Jéthra grew up in a port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
 
 ## Psyche
 
@@ -427,7 +427,7 @@ As a Élavendri astrologer, Jéthra occupies a recognized social niche within É
 
 ### Patrons
 
-Jéthra's primary patron is Merchants and sailors who seek her advice.. This relationship provides both opportunity and obligation.
+Jéthra's primary patron is Merchants and sailors who seek her advice. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ None; generally well-liked.
 
 ## Plot Hooks
 
-1. **The Astrologer's Dilemma**—Jéthra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Astrologer's Dilemma**—Jéthra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—None; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

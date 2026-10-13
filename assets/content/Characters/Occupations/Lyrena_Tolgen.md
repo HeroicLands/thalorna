@@ -11,7 +11,7 @@ data:
   occupation: Skald
   lore: []
   culture: provenzianclt
-  homes: [lunacorte]
+  homes: [jalnazdal]
   affiliations: {kngdmprvnz: {rank: 2}, lusinia: {rank: 1}}
   gender: female
   species: humanflk
@@ -422,7 +422,7 @@ As a Provenzian skald, Lýrena occupies a recognized social niche within Provèn
 
 ### Patrons
 
-Lýrena's primary patron is Nordland leaders and wealthy families who value her craft.. This relationship provides both opportunity and obligation.
+Lýrena's primary patron is Nordland leaders and wealthy families who value her craft. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -430,7 +430,7 @@ More conservative skalds who disapprove of her modern influences.
 
 ## Plot Hooks
 
-1. **The Skald's Dilemma**—Lýrena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Skald's Dilemma**—Lýrena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—More conservative skalds who disapprove of her modern influences. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

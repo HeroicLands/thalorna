@@ -3,21 +3,21 @@ shortcode: orderqstn
 name: {full: The Divided Question of the Order, aliases: [The Question of the Order]}
 type: lore
 subType: literature
-description: "A divided question sung at a patron's table in Belpòrte at the Golden Harvest: Serdàle asks where the beloved stands in the order of what a man owes, Ilthòre seats her first, Serdàle keeps her off the list with the sea and the dead, and the judge both chose, Solvìma of Belpòrte, gives her judgment in the notary's form and settles nothing she was asked."
+description: "A divided question sung at a patron's table in Kalvèza at the Golden Harvest: Serdàle asks where the beloved stands in the order of what a man owes, Ilthòre seats her first, Serdàle keeps her off the list with the sea and the dead, and the judge both chose, Solvìma of Kalvèza, gives her judgment in the notary's form and settles nothing she was asked."
 tags: [draft, provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore
   form: divided-question
-  subjects: [place-belporte, affiliation-olvenia, lore-provenzianclt, affiliation-selmoros]
+  subjects: [place-kalveza, affiliation-olvenia, lore-provenzianclt, affiliation-selmoros]
   language: provnzlng
 
 # terran_analog: "The troubadour partimen or joc partit, in which one poet sets a dilemma, the other chooses a side and the first defends the other, ending in envois that name a judge; the courts of love and their mock judgments; the notarial instrument, for the form of the judgment."
 ---
 
-**The Divided Question of the Order** is a debate in song between two síladòrs, made at a patron's table in [[place-belporte|Belpòrte]] on the second night of the Festival of the Golden Harvest of [[affiliation-olvenia|Ólvenía]], when patrons commission singers for their tables and the temple squares. In a divided question one singer sets a question with two answers and gives the other the choice; the other chooses an answer and defends it, and the first must defend the one left over, however little he believes it. They sing in turn, a stanza each, and close with a short stanza apiece that names the judge they agreed on before they began.
+**The Divided Question of the Order** is a debate in song between two síladòrs, made at a patron's table in [[place-kalveza|Kalvèza]] on the second night of the Festival of the Golden Harvest of [[affiliation-olvenia|Ólvenía]], when patrons commission singers for their tables and the temple squares. In a divided question one singer sets a question with two answers and gives the other the choice; the other chooses an answer and defends it, and the first must defend the one left over, however little he believes it. They sing in turn, a stanza each, and close with a short stanza apiece that names the judge they agreed on before they began.
 
-**Serdàle** sets the question and **Ilthòre** chooses. The question is the one the order of duty leaves open. A Provenzian owes his house, his patron, his city and his clients, in that order, and the beloved of the courtly songs stands nowhere in it. The judge is **Solvìma** of Belpòrte, who keeps her own name. She gives her judgment in the form a notary uses for an award, as the custom of these debates allows, and the songbooks copy it after the song. The academies of rhetoric teach the debate for Serdàle's arguments and the judgment for its form.
+**Serdàle** sets the question and **Ilthòre** chooses. The question is the one the order of duty leaves open. A Provenzian owes his house, his patron, his city and his clients, in that order, and the beloved of the courtly songs stands nowhere in it. The judge is **Solvìma** of Kalvèza, who keeps her own name. She gives her judgment in the form a notary uses for an award, as the custom of these debates allows, and the songbooks copy it after the song. The academies of rhetoric teach the debate for Serdàle's arguments and the judgment for its form.
 
 : The Question {#question}
 
@@ -97,7 +97,7 @@ and his lady's at sea. Mine stands on dry ground.
 
 : The Judgment {#judgment}
 
-Heard at Belpòrte, in the house of the patron who gave the table, on the second night of the Festival of the Golden Harvest, before the company, by Solvìma of Belpòrte, chosen judge by both parties and sitting at their joint request.
+Heard at Kalvèza, in the house of the patron who gave the table, on the second night of the Festival of the Golden Harvest, before the company, by Solvìma of Kalvèza, chosen judge by both parties and sitting at their joint request.
 
 The parties are Serdàle and Ilthòre, síladòrs. The question is where the beloved stands in the order of what a man owes, which runs: his house, his patron, his city and his clients. Ilthòre holds that she stands first, before the house. Serdàle holds that she stands nowhere in it.
 
@@ -111,11 +111,11 @@ She finds, fourth, that neither party has asked the beloved where she stands. Th
 
 She awards the song to Ilthòre and the case to Serdàle, the cup to neither and the wine to the company. Each party shall pay the costs in a song before the festival closes.
 
-The judge records, as notice and not as judgment, that she has kept her own name for forty years in a house of Belpòrte that is not her father's, and that she stands where she pleases.
+The judge records, as notice and not as judgment, that she has kept her own name for forty years in a house of Kalvèza that is not her father's, and that she stands where she pleases.
 
 ## See Also
 
-- [[place-belporte|Belpòrte]]—the working port where the judgment was given
+- [[place-kalveza|Kalvèza]]—the working port where the judgment was given
 - [[affiliation-olvenia|Faith of Ólvenía]]—the Festival of the Golden Harvest, when patrons commission singers
 - [[affiliation-selmoros|Faith of Sélmoros]]—the priests who place the dead
 - [[lore-provenzianclt|Provenzian]]—the order of duty, the release of a client, the unnaming, and the name a married woman keeps

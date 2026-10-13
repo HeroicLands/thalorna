@@ -416,7 +416,7 @@ Fritia stands 5'9" tall with a light build. She has sun-tanned skin, black hair,
 
 # Dossier {#dossier}
 
-Fritia was born in the maritime city of Thálassos into a merchant family of modest means, though her father Frozebios once served as a music tutor to minor nobility. Her childhood was filled with the haunting melodies of her homeland—the cry of gulls mingling with lute-song drifting from harbors and squares. At age eight, her father gifted her a lute carved from the wood of a storm-felled oak, an instrument that would become her closest companion.
+Fritia was born in the maritime city of Thálassos into a merchant family of modest means, though her father Frozebios once was a music tutor to minor nobility. Her childhood was filled with the haunting melodies of her homeland—the cry of gulls mingling with lute-song drifting from harbors and squares. At age eight, her father gifted her a lute carved from the wood of a storm-felled oak, an instrument that would become her closest companion.
 
 Her formal training under the exacting Master Ósiris of the Minstrels' Guild lasted six grueling years. While other students labored over composition theory and courtly decorum, Fritia proved herself an improviser without equal, her fingers dancing across the strings with an intuitive grace that left her instructors both awed and unsettled. Yet her reluctance to master the rigid constraints of formal composition ultimately limited her advancement within the Guild's hierarchy—a source of quiet frustration to this day.
 

@@ -425,7 +425,7 @@ As a Vylarian musician (drums), Îmarakîs occupies a recognized social niche wi
 
 ### Patrons
 
-Îmarakîs's primary patron is Traveling performers and festival organizers.. This relationship provides both opportunity and obligation.
+Îmarakîs's primary patron is Traveling performers and festival organizers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Some traditional musicians who dislike her unconventional style.
 
 ## Plot Hooks
 
-1. **The Musician (Drums)'s Dilemma**—Îmarakîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Musician (Drums)'s Dilemma**—Îmarakîs faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—Some traditional musicians who dislike her unconventional style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

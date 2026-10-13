@@ -424,7 +424,7 @@ Drkshārana stands 5'7" tall with a light build. He has warm honey skin, dark br
 
 Born in the merchant quarters of a great city-state in [[place-vedyarargn|Vedyara]], Drkshārana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Driksha, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of **Vedāsthira**, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of Rāsikara who saw in the young Drkshārana the fluidity and adaptability that would define his path.
 
-For the past decade, Drkshārana has served his current employer with meticulous dedication, managing the intricate social choreography that accompanies life in a great-house household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
+For the past decade, Drkshārana has served his current employer with dedication, managing the social choreography that accompanies life in a great-house household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
 
 ## Psyche
 
@@ -434,14 +434,14 @@ Drkshārana possesses a quiet observational intelligence that borders on prescie
 
 ### Motivation
 
-Drkshārana seeks neither power nor wealth, but rather a deeper sense of purpose and belonging. The tattoo he wears is more than decoration; it represents his belief that life, like water, should flow around obstacles rather than resist them. He harbors a quiet ambition to earn genuine respect—not through dominance but through becoming so perfectly attuned to those around him that his service transcends duty and becomes something approaching art. Beneath this lies a half-buried longing to understand the world beyond the servants' passages, to trace the currents that move through power itself.
+Drkshārana seeks neither power nor wealth, but rather a deeper sense of purpose and belonging. The tattoo he wears is more than decoration; it represents his belief that life, like water, should flow around obstacles rather than resist them. He harbors a quiet ambition to earn respect—not through dominance but through becoming so perfectly attuned to those around him that his service goes beyond duty and becomes something approaching art. Beneath this lies a half-buried longing to understand the world beyond the servants' passages, to trace the currents that move through power itself.
 
 ### Strengths
 
-- **Exceptional Attentiveness**: Drkshārana possesses an almost supernatural awareness of his surroundings and the emotional states of those near him, allowing him to anticipate needs and respond with grace.
-- **Social Grace**: Years of service in elite households have honed his understanding of protocol, etiquette, and the unspoken rules governing polite society.
+- **Attentiveness**: Drkshārana possesses an almost supernatural awareness of his surroundings and the emotional states of those near him, allowing him to anticipate needs and respond with grace.
+- **Social Grace**: Years of service in elite households have honed his understanding of precedence, etiquette, and the unspoken rules governing polite society.
 - **Resilience Through Flexibility**: Like the waterfall of his tattoo, he adapts to circumstance, bends without breaking, and finds paths forward when direct resistance would fail.
-- **Culinary and Textile Skills**: His domestic expertise ranges from expert cookery to fine needlework, making him invaluable in household management.
+- **Culinary and Textile Skills**: His domestic expertise ranges from expert cookery to fine needlework, making him useful in household management.
 - **Climbing and Acrobatic Ability**: His light frame and years of navigating grand estates have made him surprisingly nimble, able to reach high shelves or move through spaces others cannot access.
 
 ### Weaknesses
@@ -460,7 +460,7 @@ Vedāsthira
 : The merchant administrator who first employed Drkshārana now advocates for him as the finest house servant in the city-state. Their relationship is one of quiet mutual respect, though Drkshārana often fears disappointing his patron.
 
 Chintāya
-: Vedāsthira's wife has grown to rely on Drkshārana's counsel in matters of household aesthetics and entertaining; she treats him with genuine warmth rare in the great-house households.
+: Vedāsthira's wife has grown to rely on Drkshārana's counsel in matters of household aesthetics and entertaining; she treats him with warmth rare in the great-house households.
 
 ### Enemies
 

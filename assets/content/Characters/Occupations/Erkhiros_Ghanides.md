@@ -425,7 +425,7 @@ As a Helionite teamster, Érkhiros occupies a recognized social niche within Hel
 
 ### Patrons
 
-Érkhiros's primary patron is Regular merchants who have trusted him for years.. This relationship provides both opportunity and obligation.
+Érkhiros's primary patron is Regular merchants who have trusted him for years. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ None; generally well-liked among fellow teamsters.
 
 ## Plot Hooks
 
-1. **The Teamster's Dilemma**—Érkhiros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Teamster's Dilemma**—Érkhiros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—None; generally well-liked among fellow teamsters. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

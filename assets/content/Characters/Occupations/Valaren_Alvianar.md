@@ -426,7 +426,7 @@ As a Tarvénan bureaucrat, Valáren occupies a recognized social niche within Ta
 
 ### Patrons
 
-Valáren's primary patron is A powerful city councilor who appreciates Valáren's cunning.. This relationship provides both opportunity and obligation.
+Valáren's primary patron is A powerful city councilor who appreciates Valáren's cunning. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Fellow bureaucrats who distrust his methods.
 
 ## Plot Hooks
 
-1. **The Bureaucrat's Dilemma**—Valáren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Bureaucrat's Dilemma**—Valáren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Fellow bureaucrats who distrust his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

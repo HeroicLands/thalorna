@@ -52,7 +52,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the League sits in the commonwealth, taxed by nobody and charged by the Collegium
+              the League sits in the commonwealth, taxed by nobody and charged by the Tevran
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: victim}

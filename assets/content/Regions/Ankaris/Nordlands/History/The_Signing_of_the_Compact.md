@@ -31,7 +31,7 @@ data:
           how: caused
           note: the empire hired the hirds it could not keep out
       unresolved:
-        - which Augustar first paid a Nordmen captain, which the north never asked and the empire's chroniclers date differently
+        - which Ôrzâs first paid a Nordmen captain, which the north never asked and the empire's chroniclers date differently
     - id: signing
       when: ~560
       kind: charter

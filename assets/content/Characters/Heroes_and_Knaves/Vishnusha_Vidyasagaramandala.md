@@ -464,7 +464,7 @@ Shilāvīra seeks to create a legacy that extends beyond extracted ore and profi
 
 ### Weaknesses
 
-- **Technological Limitations**: While excellent with traditional mining techniques, Shilāvīra struggles with newer, more complex mechanical equipment and novel engineering. He sometimes resists change even when it would prove beneficial.
+- **Limits with New Tools**: While excellent with traditional mining techniques, Shilāvīra struggles with newer, more complex mechanical equipment and novel engineering. He sometimes resists change even when it would prove beneficial.
 - **Limited Formal Education**: Shilāvīra's education was practical rather than theoretical. He cannot read complex technical texts or engage in mathematical analysis, limiting his ability to understand written regulations or theoretical mining science.
 - **Emotional Reserve**: His difficulty expressing emotions or articulating feelings means he often comes across as distant or unmoved, even when experiencing deep feeling. This can damage relationships and limit his ability to persuade through emotional appeal.
 - **Physical Limitations in Combat**: While extraordinarily strong, Shilāvīra has received no formal martial training and would be outmatched by a skilled warrior. His strength, great as it is, cannot compensate for technique and experience.

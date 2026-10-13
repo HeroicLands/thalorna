@@ -417,7 +417,7 @@ Resourceful, skilled in working with natural materials, imaginative.
 
 ## Social
 
-Brýnael is affiliated with None; works independently..
+Brýnael is affiliated with None; works independently.
 
 As a Élavendri toymaker, Brýnael occupies a recognized social niche within Élavendre society.
 
@@ -425,7 +425,7 @@ As a Élavendri toymaker, Brýnael occupies a recognized social niche within Él
 
 ### Patrons
 
-Brýnael's primary patron is Local villagers and travelers who seek rustic, handmade toys.. This relationship provides both opportunity and obligation.
+Brýnael's primary patron is Local villagers and travelers who seek rustic, handmade toys. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ None; she is well-liked but competes with more established toymakers.
 
 ## Plot Hooks
 
-1. **The Toymaker's Dilemma**—Brýnael faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Toymaker's Dilemma**—Brýnael faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—None; she is well-liked but competes with more established toymakers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

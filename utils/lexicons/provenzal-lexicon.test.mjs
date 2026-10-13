@@ -63,10 +63,10 @@ test("a worn word whose ancient form no Vylari row carries is an error", () => {
 test("a name in scope missing from the register is an error", () => {
     const broken = lexicon
         .split("\n")
-        .filter((line) => !line.startsWith("| **Lunacòrte**"))
+        .filter((line) => !line.startsWith("| **Jalnazdàl**"))
         .join("\n");
     assert.match(
         errors(broken).join("\n"),
-        /"Lunacòrte" is a Provenzal name the register does not register/,
+        /"Jalnazdàl" is a Provenzal name the register does not register/,
     );
 });

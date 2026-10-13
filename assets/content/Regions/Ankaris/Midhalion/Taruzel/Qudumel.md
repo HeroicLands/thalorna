@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: qudumel2
   population: 2300000
-  economy: [affiliation-aerarimmpr, lore-trzlncrncy]
+  economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]
   relations: {ashanpnthn: aligned, arldnpnthn: aligned}
@@ -84,7 +84,7 @@ It is also the city where the [[affiliation-ordoarcanis|Ordo Arcanis]] is weakes
 
 ## Commerce and Currency
 
-The caravans that unload at Qudûmel settle in the [[lore-trzlncrncy|Tarûzelian currency]], issued under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. Its Aurion, Argo and Bit follow the Vylarian denominations but rest on Tarûzelian reserves rather than on the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], and its Aurion is slightly underweight by the Vylarian standard. The banking runs through Merâzûnî-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
+The caravans that unload at Qudûmel settle in the [[lore-trzlncrncy|Tarûzelian currency]], issued under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. Its Solden, Ard and Bit follow the Vylarian denominations but rest on Tarûzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merâzûnî-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
 
 ## See Also
 

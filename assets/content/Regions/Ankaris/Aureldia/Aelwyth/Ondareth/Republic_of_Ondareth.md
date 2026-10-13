@@ -71,7 +71,7 @@ data:
       Clerk of the Senate: Keeper of the senate's record, its decrees and its correspondence.
   seat: thornbury
   population: 150000
-  economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
+  economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []
   relations:
@@ -99,7 +99,7 @@ Ondareth has cultivated its own diplomatic channels with the [[affiliation-vylar
 
 ## Commerce and Currency
 
-Republic of Ondareth uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Republic of Ondareth is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Republic of Ondareth uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Republic of Ondareth is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## Extent
 

@@ -20,7 +20,7 @@ The fence encloses a tract of the Alyssan plain. Inside it the soil is the same 
 
 ## Who Comes Here
 
-- **Quaesitores**, on the first commission the Quaesitorium holds: to establish what happened at Alyssa, which has never been closed.
+- **Quaesitores**, on the first commission the Sekran holds: to establish what happened at Alyssa, which has never been closed.
 - **Scholars of Velysâra**, to look at the fence.
 - **Treasure-seekers**, whom the Ordo's patrols stop.
 

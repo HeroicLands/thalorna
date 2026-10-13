@@ -436,20 +436,20 @@ By his fifties, Skraldthann had transformed himself entirely. Where he had once 
 
 ### Personality
 
-Skraldthann is brilliant, ambitious, and utterly insufferable to those who cannot appreciate his standards. He views his craft as high art and treats it with the seriousness of a sculptor or painter. Unfortunately, he has come to view humanity largely through the lens of whether they are worthy of wearing his creations. He has harsh opinions about bodies he considers unsuitable for his designs, tastes he deems crude, and aesthetic sensibilities he finds pedestrian.
+Skraldthann is brilliant, ambitious, and insufferable to those who cannot appreciate his standards. He views his craft as high art and treats it with the seriousness of a sculptor or painter. Unfortunately, he has come to view humanity largely through the lens of whether they are worthy of wearing his creations. He has harsh opinions about bodies he considers unsuitable for his designs, tastes he deems crude, and aesthetic sensibilities he finds pedestrian.
 
-Despite his arrogance, there is genuine passion beneath his sharp exterior. When discussing fabric or design, his whole demeanor changes—his eyes light up, his gestures become fluid and expressive, and one can glimpse the young man who fell in love with the clothier's craft decades ago. He is capable of unexpected generosity with those he respects, particularly younger artisans he deems worthy of mentorship.
+Despite his arrogance, there is real passion beneath his sharp exterior. When discussing fabric or design, his whole demeanor changes—his eyes light up, his gestures become fluid and expressive, and one can glimpse the young man who fell in love with the clothier's craft decades ago. He is capable of unexpected generosity with those he respects, particularly younger artisans he deems worthy of mentorship.
 
 ### Motivation
 
-Skraldthann is motivated by a desire for recognition and immortality through his art. He wants his name remembered as one of the great clothiers of the age—perhaps of all ages. He also seeks validation that his meticulous standards and refusal to compromise are justified, that beauty and excellence are objectively recognizable and worthy of pursuit regardless of cost. Beneath this lies a fear: that his tastes will become obsolete, that fashion will change and leave him irrelevant, that he will be forgotten.
+Skraldthann is motivated by a desire for recognition and immortality through his art. He wants his name remembered as one of the great clothiers of the age—perhaps of all ages. He also seeks validation that his standards and refusal to compromise are justified, that beauty and excellence are objectively recognizable and worthy of pursuit regardless of cost. Beneath this lies a fear: that his tastes will become obsolete, that fashion will change and leave him irrelevant, that he will be forgotten.
 
 ### Strengths
 
-- **Unparalleled Design Skill**: Skraldthann's ability to envision a garment and understand how it will move, fit, and transform the wearer is extraordinary. He can look at someone and immediately perceive what designs would suit them.
-- **Master Craftsman**: His technical skill is exceptional. His stitching is perfect, his understanding of fabric handling is encyclopedic, and his ability to execute complex designs flawlessly is legendary.
+- **Design Skill**: Skraldthann's ability to envision a garment and understand how it will move, fit, and transform the wearer is extraordinary. He can look at someone and immediately perceive what designs would suit them.
+- **Master Craftsman**: His technical skill is outstanding. His stitching is perfect, his understanding of fabric handling is encyclopedic, and his ability to execute complex designs flawlessly is famous.
 - **Knowledge of Rare Materials**: He has access to fabrics from across the known world and understands their properties in ways most clothiers never achieve. He can identify quality and authenticity at a glance.
-- **Networking and Influence**: Through decades in elite circles, Skraldthann has cultivated connections with nobility, wealthy merchants, and influential patrons who value his opinion on matters beyond fashion.
+- **Connections and Influence**: Through decades in elite circles, Skraldthann has cultivated connections with nobility, wealthy merchants, and influential patrons who value his opinion on matters beyond fashion.
 - **Theatrical Presentation**: He understands how to present his work to maximum effect, how to build anticipation, and how to make clients feel that acquiring his designs is a privilege worthy of their status.
 
 ### Weaknesses
@@ -476,7 +476,7 @@ The Court of the Kingdom of Norgaad
 ### Enemies
 
 Master Tailor Knarvthann Vraldumakh
-: Skraldthann's primary rival, whose more accessible and commercially successful designs have challenged Skraldthann's market dominance. Their competition is professional but venomous.
+: Skraldthann's primary rival, whose more accessible and commercially successful designs have challenged Skraldthann's market dominance. Their competition is a matter of trade but venomous.
 
 The Tailors' Guild
 : While Skraldthann holds prestigious membership, many guild members resent his elitism and his tendency to poach the best apprentices with promises of training superior to the guild provides.
@@ -493,10 +493,10 @@ Elite Social Circles of Norgaad
 : He moves in the highest social strata and is welcome at noble gatherings where his opinions on aesthetics are treated as gospel.
 
 [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Brother)
-: Skraldthann's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Skraldthann considers tentmaking a waste of genuine skill—[[being-dvrnvrhrfnsvld|Dvarnvir]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[being-dvrnvrhrfnsvld|Dvarnvir]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
+: Skraldthann's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Skraldthann considers tentmaking a waste of skill—[[being-dvrnvrhrfnsvld|Dvarnvir]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[being-dvrnvrhrfnsvld|Dvarnvir]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
 
 [[being-vrldmylhrfnsvld|Vrildmýl Hrafnsvald]] (Nephew)
-: Skraldthann's nephew, the son of [[being-dvrnvrhrfnsvld|Dvarnvir]], a young militia sergeant in Vithgard. Skraldthann finds [[being-vrldmylhrfnsvld|Vrildmýl]]'s martial lifestyle coarse and unglamorous, yet feels a genuine familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-vrldmylhrfnsvld|Vrildmýl]] wears awkwardly but with quiet appreciation.
+: Skraldthann's nephew, the son of [[being-dvrnvrhrfnsvld|Dvarnvir]], a young militia sergeant in Vithgard. Skraldthann finds [[being-vrldmylhrfnsvld|Vrildmýl]]'s martial lifestyle coarse and unglamorous, yet feels a familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-vrldmylhrfnsvld|Vrildmýl]] wears awkwardly but with quiet appreciation.
 
 ## Plot Hooks
 
@@ -508,4 +508,4 @@ Elite Social Circles of Norgaad
 
 4. **The Scarred Past**: Someone from Skraldthann's earlier years—someone he has worked hard to forget—appears with knowledge of the scar and what caused it. They threaten exposure unless Skraldthann undertakes a series of tasks. Investigating reveals that what happened decades ago was far more significant and darker than anyone suspected, potentially involving **magical artifacts or dangerous secrets** that remain relevant.
 
-5. **The Royal Commission**: The reigning **King of Norgaad** personally commissions Skraldthann to design coronation garments for an heir, granting him unprecedented access to the royal family. This should be the pinnacle of his career, but court intrigues reveal that factions are using the commission as a pawn in larger games. Skraldthann discovers that his designs themselves might carry political significance and be used to make statements about succession and power.
+5. **The Royal Commission**: The reigning **King of Norgaad** personally commissions Skraldthann to design coronation garments for an heir, granting him unprecedented access to the royal family. This should be the high point of his career, but court intrigues reveal that factions are using the commission as a pawn in larger games. Skraldthann discovers that his designs themselves might carry political significance and be used to make statements about succession and power.

@@ -454,7 +454,7 @@ Shâdezar's core motivation is the perpetuation and expansion of his bloodline's
 
 ### Strengths
 
-- **Unparalleled Physical Strength**: Shâdezar possesses immense raw power. He can lift, carry, and wield weapons that would strain ordinary warriors, and his physical power is famed among his people.
+- **Physical Strength**: Shâdezar possesses immense raw power. He can lift, carry, and wield weapons that would strain ordinary warriors, and his physical power is famed among his people.
 
 - **Warrior's Endurance**: He can fight for extended periods without tiring, maintaining peak performance in battles that would exhaust lesser warriors. His stamina is nearly as famed as his strength.
 
@@ -470,7 +470,7 @@ Shâdezar's core motivation is the perpetuation and expansion of his bloodline's
 
 - **Rigid Thinking and Poor Reasoning**: Shâdezar cannot adapt his plans when circumstances change unexpectedly. He is excellent at straightforward warfare but terrible at dealing with political complications or unconventional problems.
 
-- **Profound Lack of Empathy**: Shâdezar is indifferent to the suffering of his people or his enemies. This makes him an ineffective administrator, as he cannot understand why his people might resent heavy taxation or draft obligations.
+- **Lack of Empathy**: Shâdezar is indifferent to the suffering of his people or his enemies. This makes him an ineffective administrator, as he cannot understand why his people might resent heavy taxation or draft obligations.
 
 - **Limited Magical or Spiritual Understanding**: While Shâdezar respects the shamans of his people and will perform proper rituals, he has little real understanding of magic or spiritual power. Enemies using magical warfare can exploit his lack of comprehension.
 

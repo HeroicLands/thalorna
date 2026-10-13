@@ -432,7 +432,7 @@ Githara stands 6'0" tall with a medium build. She has rich copper skin, deep bla
 
 Born in the teak-rich highlands of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], Githara learned the language of trees before she learned to read. Her mother, Zaborêt the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Githara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
 
-Over the past decade, Githara has established herself as the most discerning timber selector in the Aû'Khelâthu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her invaluable to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
+Over the past decade, Githara has established herself as the most discerning timber selector in the Aû'Khelâthu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her useful to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
 
 Her devotion to Gewa'âtis the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
 
@@ -446,12 +446,12 @@ She is fiercely loyal to those she respects and unforgiving of incompetence or d
 
 ### Motivation
 
-Githara drives toward a singular vision: to prove that excellence in the timberwrights' craft is not a matter of gender but of dedication, knowledge, and unwavering standards. She seeks to leave a legacy of apprentices—preferably women—who will continue elevating the craft long after her own hands grow too stiff to work. The knowledge she guards so carefully must not be lost to prejudice or dismissal.
+Githara drives toward a singular vision: to prove that excellence in the timberwrights' craft is not a matter of gender but of dedication, knowledge, and standards. She seeks to leave a legacy of apprentices—preferably women—who will continue elevating the craft long after her own hands grow too stiff to work. The knowledge she guards so carefully must not be lost to prejudice or dismissal.
 
 ### Strengths
 
-- **Master of Tree Lore**: Possesses encyclopedic knowledge of wood species, growth patterns, and quality indicators. Can assess timber's integrity and optimal uses with uncanny accuracy.
-- **Rigorous Standards**: Her perfectionism ensures that only the finest materials leave her hands, creating demand for her expertise among the wealthiest craftspeople.
+- **Master of Tree Lore**: Possesses encyclopedic knowledge of wood species, growth patterns, and quality indicators. Can assess timber's integrity and best uses with uncanny accuracy.
+- **Rigorous Standards**: Her perfectionism means that only the finest materials leave her hands, creating demand for her expertise among the wealthiest craftspeople.
 - **Practical Wisdom**: Understands the seasons, weather patterns, and forest ecology that determine the best times and places to harvest timber.
 - **Physical Prowess**: Despite her precision work, possesses considerable strength and endurance for hauling, climbing, and the demanding physical labor of the timber trade.
 - **Teaching Ability**: Can convey complex knowledge of wood craft with patience, particularly to those she judges worthy of the knowledge.
@@ -469,7 +469,7 @@ Githara drives toward a singular vision: to prove that excellence in the timberw
 ### Patrons
 
 Master Therethu of Gar-Qelti
-: A renowned shipwright who purchases premium timber exclusively from Githara and has publicly defended her expertise against skeptics.
+: A shipwright who purchases premium timber exclusively from Githara and has publicly defended her expertise against skeptics.
 
 The Architect Imsazu
 : The lead designer for Aû'Khelâthu's new administrative complex, who insists on Githara's involvement in all timber specifications.
@@ -494,7 +494,7 @@ Timberwrights' Guild of Aû'Khelâthu
 : A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
 
 [[affiliation-genzetgewats|Genzet'Gewa'âtis]]
-: A devotional society of the Voyager's followers, where Githara serves as one of the lay teachers on journeys, transitions, and transformation.
+: A devotional society of the Voyager's followers, where Githara is one of the lay teachers on journeys, transitions, and transformation.
 
 The Craft Collective
 : An informal association of the finest artisans in the timber trade, who meet quarterly to share techniques and maintain standards.
@@ -507,6 +507,6 @@ The Craft Collective
 
 3. **The Student's Test**: Githara's most promising apprentice—a young woman named Qiya—is caught stealing inferior wood from the workshop and selling it to a competing merchant while telling customers it came from Githara's stock. Rather than simply expelling Qiya, Githara sees this as a test: of her principles, her teaching, and whether her mentorship has failed or merely been corrupted by desperation. She must uncover why Qiya did this—is it greed, coercion, or family hardship?—while deciding what redemption, if any, she can offer without betraying her own standards.
 
-4. **The Ancient Forest Initiative**: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Aû'Khelâthu's expansion. While many timberwrights celebrate the opportunity, Githara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must navigate the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while maintaining her professional standing and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
+4. **The Ancient Forest Initiative**: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Aû'Khelâthu's expansion. While many timberwrights celebrate the opportunity, Githara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must handle the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while keeping her standing in her trade and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
 
-5. **The Master's Gauntlet**: An aged master from a distant land arrives and challenges all the timberwrights of Aû'Khelâthu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Githara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the pinnacle of the craft. The competition becomes not just about creating a masterwork, but about forcing Aû'Khelâthu to finally acknowledge what Githara has always known: excellence transcends gender.
+5. **The Master's Gauntlet**: An aged master from a distant land arrives and challenges all the timberwrights of Aû'Khelâthu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Githara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the head of the craft. The competition becomes not just about creating a masterwork, but about forcing Aû'Khelâthu to finally acknowledge what Githara has always known: excellence goes beyond gender.

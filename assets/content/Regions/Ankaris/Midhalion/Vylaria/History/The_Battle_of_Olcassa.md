@@ -16,7 +16,7 @@ data:
       sources:
         - affiliation-vylarinmpr
         - affiliation-vylrnmltry
-        - affiliation-curiavylar
+        - affiliation-seldan
         - place-hylen
         - place-olcassafld
       summary: >-
@@ -44,11 +44,11 @@ data:
             knowledge: named
       who:
         - {ref: affiliation-vylrnmltry, role: instrument}
-        - {ref: affiliation-curiavylar, role: actor}
+        - {ref: affiliation-seldan, role: actor}
       follows:
         - event: "lore-brkensuccsn#succession"
           how: caused
-          note: the claims of the three Augustars are settled by the sword
+          note: the claims of the three Ôrzândoi are settled by the sword
       accounts:
         - by: affiliation-vylarinmpr
           says: >-

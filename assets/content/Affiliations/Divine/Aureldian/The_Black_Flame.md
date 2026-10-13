@@ -19,11 +19,11 @@ data:
       A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Flame-Warden above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
@@ -37,10 +37,10 @@ data:
       - level: 4
         title: Flame-Warden
         description: >-
-          Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
+          Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognizes no Hamsarn and no supreme authority, and alliances between Wardens are temporary.
     offices:
       Flame-Warden: >-
-        Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognizes no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
+        Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognizes no Hamsarn and no supreme authority, and alliances between Wardens are temporary.
       Scorchmaster: >-
         Those who have undergone the highest ordeals and proven themselves as warriors and believers; lieutenants to a Flame-Warden, who train acolytes and lead its operations.
       Aspirant: >-
@@ -88,7 +88,7 @@ Below each Flame-Warden stand the Scorchmaster initiates—those who have underg
 
 The entry-level initiates are called Acolytes of Ash or simply Aspirants. These are the newest members of the faith, those who have undergone the basic ordeals and sworn oaths to Ústaron's destructive vision. Aspirants often serve as foot soldiers in the faith's military enterprises, though those who survive and excel will eventually be elevated to Scorchmaster status.
 
-Importantly, the Black Flame recognizes no single Grand Pontifex or supreme authority. Each Flame-Warden operates independently, though they may forge temporary alliances with other warlords for larger campaigns. This decentralized structure makes the faith difficult to suppress—destroying one leader or cell does not significantly weaken the faith as a whole. It also creates frequent internal conflicts, as competing warlords vie for dominance and followers. These conflicts are sometimes resolved through single combat, sometimes through open warfare, and sometimes through political maneuvering.
+Importantly, the Black Flame recognizes no single Hamsarn or supreme authority. Each Flame-Warden operates independently, though they may forge temporary alliances with other warlords for larger campaigns. This decentralized structure makes the faith difficult to suppress—destroying one leader or cell does not significantly weaken the faith as a whole. It also creates frequent internal conflicts, as competing warlords vie for dominance and followers. These conflicts are sometimes resolved through single combat, sometimes through open warfare, and sometimes through political maneuvering.
 
 The [[affiliation-sonsmuspell|Sons of Eldheim]] are one of its military orders. They have gained ground in Stormveld and now try to seize Varokhi land as a route toward the wider Nordlands.
 

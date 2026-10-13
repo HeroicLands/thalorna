@@ -118,7 +118,7 @@ Norgaad's central position makes it the natural mediator among the Nordmen kingd
 
 Norgaad's iron and silver mines are the richest in the north, which makes it the wealthiest kingdom in raw resources, if not in trade. A district's officer weighs each camp's ore against what the king's smiths at Asgarthul are owed, and the road from the mountains carries iron, timber and salt south to the market at Tvarnmark.
 
-The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian coinage]] (aurion, argo and bit), and no chapter of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] operates in the Nordlands. Vylarian paper is _not_ honored here, so a traveler's note has to be exchanged for coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian coinage]] (elthêzâs, ankhrâ and bit), and no chapter of the [[affiliation-danvar|Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here, so a traveler's note has to be exchanged for coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

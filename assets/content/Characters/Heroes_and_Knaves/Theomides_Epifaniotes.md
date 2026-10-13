@@ -426,7 +426,7 @@ Vusukês stands 6'0" tall with a medium build. He has tanned weathered skin, bla
 
 # Dossier {#dossier}
 
-Vusukês was born in the mountain villages of the [[affiliation-byzarianlg|Byzarian League]], the fifth son of a merchant-turned-shepherd. While his older brothers pursued trade and politics, young Vusukês showed no interest in crowded markets or civic affairs. Instead, he spent his youth stalking the high passes and dense forests, learning the language of paw prints and scat, of wind direction and animal behavior. His father, initially disappointed, eventually recognized his son's singular gift and apprenticed him to **Master Iskandor the Gray**, a legendary trapper whose name was whispered with reverence in hunting lodges.
+Vusukês was born in the mountain villages of the [[affiliation-byzarianlg|Byzarian League]], the fifth son of a merchant-turned-shepherd. While his older brothers pursued trade and politics, young Vusukês showed no interest in crowded markets or civic affairs. Instead, he spent his youth stalking the high passes and dense forests, learning the language of paw prints and scat, of wind direction and animal behavior. His father, initially disappointed, eventually recognized his son's singular gift and apprenticed him to **Master Iskandor the Gray**, a trapper whose name was whispered with reverence in hunting lodges.
 
 Under Iskandor's guidance, Vusukês mastered every aspect of the hunter's craft. He learned to set snares that would catch even the wariest creature, to read the subtle signs that revealed which animals moved through a forest, to predict the migrations of game before they began. When Iskandor died—peacefully, in his sleep, in a hunter's lodge in the high country—Vusukês inherited not gold or land, but something far more valuable: thirty years of accumulated knowledge and a reputation beyond reproach.
 
@@ -442,20 +442,20 @@ His values are straightforward: respect the animals you kill, waste nothing from
 
 ### Motivation
 
-Vusukês is motivated by a desire to preserve the balance of the wild places he has come to love. The encroachment of civilization weighs on him, but rather than resist or flee entirely, he works to ensure that those who use the forest—hunters, farmers, merchants—do so responsibly. He also harbors a quiet determination to mentor a worthy successor to carry on Iskandor's legacy, though he has yet to find someone with the patience and humility required.
+Vusukês is motivated by a desire to preserve the balance of the wild places he has come to love. The encroachment of civilization weighs on him, but rather than resist or flee entirely, he works to see that those who use the forest—hunters, farmers, merchants—do so responsibly. He also harbors a quiet determination to mentor a worthy successor to carry on Iskandor's legacy, though he has yet to find someone with the patience and humility required.
 
 ### Strengths
 
 - **Master Tracker**: Vusukês can follow a trail through brush and stone that others would deem impossible. His understanding of animal behavior is encyclopedic, allowing him to predict movement and location with uncanny accuracy.
-- **Exceptional Awareness**: Years of reading subtle environmental clues have honed his senses to near-supernatural levels. He notices what others miss—the snap of a twig, the shift of wind, the displacement of undergrowth.
+- **Awareness**: Years of reading subtle environmental clues have honed his senses to near-supernatural levels. He notices what others miss—the snap of a twig, the shift of wind, the displacement of undergrowth.
 - **Expert Craftsman**: His knowledge of trapping, snare-craft, and leatherworking is extensive. He can fashion specialized tools and equipment for specific hunting challenges.
 - **Survival Mastery**: Vusukês can sustain himself indefinitely in wilderness. He knows which plants nourish and which poison, how to find water, how to predict weather.
-- **Physical Endurance**: Decades of work have made him remarkably resilient, capable of forced marches and back-breaking labor without complaint.
+- **Physical Endurance**: Decades of work have made him resilient, capable of forced marches and back-breaking labor without complaint.
 
 ### Weaknesses
 
 - **Social Isolation**: Vusukês struggles in urban environments and with the elaborate courtesies of city society. He finds small talk exhausting and formal negotiations almost unbearable.
-- **Commercial Inexperience**: His lack of bargaining skill has cost him dearly. He often accepts the first price offered, unable to navigate the politics of trade.
+- **Commercial Inexperience**: His lack of bargaining skill has cost him dearly. He often accepts the first price offered, unable to handle the politics of trade.
 - **Emotional Distance**: His reserve can be mistaken for coldness. He finds it difficult to express affection, concern, or gratitude in ways others readily understand.
 - **Prejudice Against Change**: Vusukês resists innovations and prefers the methods he knows. He can be stubborn about adopting new techniques, even when they might prove useful.
 - **Vulnerability to Civilization**: While supreme in the wild, Vusukês is somewhat helpless in urban settings, making him uncomfortable and slightly suspicious in cities.
@@ -496,6 +496,6 @@ The Hunters' Fraternity
 
 3. **The Beast in the Deep Forest**: A farmer's entire flock vanishes without blood or struggle. Vusukês' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
 
-4. **The Apprentice**: A young, idealistic ranger named **Faridéna Kassandazûr** seeks Vusukês out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is genuine mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukês' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
+4. **The Apprentice**: A young, idealistic ranger named **Faridéna Kassandazûr** seeks Vusukês out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukês' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
 
 5. **The Poacher's Betrayal**: **Shabríkos the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Vusukês must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Byzarian League** politics.

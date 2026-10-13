@@ -421,7 +421,7 @@ Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and 
 
 # Dossier {#dossier}
 
-Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
+Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], where he wandered from clan to clan, composing songs and telling tales of great heroes and battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
 
 ## Background
 
@@ -436,7 +436,7 @@ Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], wh
 - **Aura**: Has a presence that engages his audience.
 - **Will**: Persistent in pursuing his own interests.
 - **Reasoning**: Quick-thinking and strategic in social situations.
-- **Creativity**: Exceptionally creative, a master of tales and songs.
+- **Creativity**: Creative, a master of tales and songs.
 - **Empathy**: Reads people well, aiding his storytelling.
 - **Eloquence**: Gifted speaker and performer.
 - **Morality**: As a rogue skald, Dagmar enjoys his freedom and has a loose relationship with the mores of his culture. He’s willing to take advantage of situations as long as it benefits him.
@@ -446,7 +446,7 @@ Dagmar is a skald from the far northern reaches of [[place-norgaad|Norgaad]], wh
 
 ### Personality
 
-Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Dagmar sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
+Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is sincere. Dagmar sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
 
 ### Motivation
 
@@ -470,6 +470,6 @@ Local clans
 
 2. **The Jarl’s Last Tale**: A dying jarl summons Dagmar to record his life’s story, offering the promise of wealth and renown. However, Dagmar soon discovers dark truths hidden within the jarl’s deeds—secrets that, if revealed, could fracture alliances in Norgaad. Dagmar must decide whether to sing a sanitized version of history or risk exposing the jarl’s sins to the world.
 
-3. **The Festival of Forgotten Voices**: Dagmar learns of a remote village where, once every generation, a skald must perform to appease spirits bound to the land. The last skald to attempt the feat vanished without a trace, leaving the village cursed by endless storms. Dagmar’s reputation compels him to accept the challenge, but he must unravel the truth behind the ritual while ensuring his own survival.
+3. **The Festival of Forgotten Voices**: Dagmar learns of a remote village where, once every generation, a skald must perform to appease spirits bound to the land. The last skald to attempt the feat vanished without a trace, leaving the village cursed by endless storms. Dagmar’s reputation compels him to accept the challenge, but he must unravel the truth behind the ritual while staying alive.
 
-4. **The Tale That Never Ends**: Dagmar encounters an old skald who tells him a captivating story, only to vanish before finishing it. The incomplete tale haunts Dagmar, who begins to hear whispers of its continuation in dreams and rumors. As he chases the story’s threads, he realizes the tale may hold a clue to a greater threat—or an opportunity to craft a saga of his own.
+4. **The Tale That Never Ends**: Dagmar encounters an old skald who tells him a captivating story, only to vanish before finishing it. The incomplete tale haunts Dagmar, who begins to hear traces of its continuation in dreams and rumors. As he chases the story’s threads, he realizes the tale may hold a clue to a greater threat—or an opportunity to craft a saga of his own.

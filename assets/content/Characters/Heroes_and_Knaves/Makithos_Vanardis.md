@@ -443,7 +443,7 @@ Màkîthos is driven by a vision of theater as the highest form of human artisti
 
 ### Strengths
 
-- **Unparalleled Creative Genius**: Màkîthos's ability to craft layered, searching narratives and deploy language with exact control has no equal in the realm.
+- **Creative Genius**: Màkîthos's ability to craft layered, searching narratives and deploy language with exact control has no equal in the realm.
 - **Theatrical Performance**: As an actor himself, he possesses extraordinary stage presence and the ability to convey complex emotional states with minimal gesture or expression.
 - **Masterful Direction**: He can shape the performance of others with great skill, drawing out depths of emotion and authenticity through relentless coaching and demands for precision.
 - **Linguistic Virtuosity**: His command of language—including multiple dialects, poetic forms, and registers of speech—allows him to craft dialogue that rings true.

@@ -46,7 +46,7 @@ around it.
 
 Characteristically, Provènzia names the ground rather than the battle. Provenzians call a field a
 blood-field long before they can say which war made it, and for many of them nobody
-can. Three of the named fields have a battle on record: [[place-bldfldtiravlen|Tiravlen]], [[place-bldfldserravel|Serravel]] and [[place-bloodhills|the Blood Hills]].
+can. Three of the named fields have a battle on record: [[place-bldfldtiravlen|Tiravlen]], [[place-bldfldmalnebris|Malnebrìs]] and [[place-bloodhills|the Blood Hills]].
 
 ## Culture and Society
 

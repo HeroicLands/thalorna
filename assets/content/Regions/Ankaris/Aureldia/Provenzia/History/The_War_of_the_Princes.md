@@ -15,9 +15,9 @@ data:
       sources:
         - affiliation-kngdmprvnz
         - place-ceravelvale
-        - place-serramarca
-        - place-chastelclr
-        - place-lunacorte
+        - place-talothe
+        - place-durvalis
+        - place-jalnazdal
       summary: >-
         King Pâdran dies with no clear heir. One prince is backed by the centralizing houses of the coast, another by the Thânevar country and the regional lords who never loved the Charter; Céravel Vale and the eastern march are the battleground. House Dôrgaar is broken. The war ends with the accession of Dâlenar Lédravren, a compromise both sides can bear.
       standing: attested
@@ -27,10 +27,10 @@ data:
       where:
         locus: [place-ceravelvale]
         reach:
-          - place: place-chastelclr
+          - place: place-durvalis
             how: the town is raised after the war to hold the road a Tarvénian host used in the second year
             knowledge: named
-          - place: place-lunacorte
+          - place: place-jalnazdal
             how: the crown and the Council of Peers begin the long contest over prerogative that the court has not finished
             knowledge: named
           - place: place-belsaren
@@ -76,13 +76,13 @@ The war ended with neither prince. The moderate houses of both parties found a t
 
 - **Grudges.** Every great house still nurses a grievance from the war, and the families know which.
 - **Céravel's divided villages.** The Thânevar peasantry and the Provenzian minority remember different wars.
-- **House Dôrgaar's burned seat.** A gutted manor in the Sèrramarca, whose deeds were walled up in the cellar ([[place-ceravelvale|Céravel Vale]]).
-- **Chastèlclair.** The fortress town raised to hold the road ([[place-chastelclr|Chastèlclair]]).
+- **House Dôrgaar's burned seat.** A gutted manor in the Talòthe, whose deeds were walled up in the cellar ([[place-ceravelvale|Céravel Vale]]).
+- **Durvalìs.** The fortress town raised to hold the road ([[place-durvalis|Durvalìs]]).
 - **A crown that contests the Council.** The argument over prerogative and taxation that still occupies the court.
 
 ## See Also
 
 - [[place-ceravelvale|Céravel Vale]]—the battleground
-- [[place-chastelclr|Chastèlclair]]—the town raised after it
+- [[place-durvalis|Durvalìs]]—the town raised after it
 - [[being-branwldrgr|Brànwâal Dôrgaar]]—a mercenary captain of the broken house
 - [[lore-charterwar|The War of the Charter]]—the settlement whose silence on the succession caused it

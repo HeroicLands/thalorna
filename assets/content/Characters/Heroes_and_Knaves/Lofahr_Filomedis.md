@@ -436,7 +436,7 @@ When the Silver Vipers disbanded fifteen years ago amid rumors of internal schis
 
 ### Personality
 
-Lôfáhr maintains an exterior of professional detachment bordering on coldness, viewing emotional engagement as a liability in his line of work. He speaks in measured tones, choosing words with military precision. Subordinates respect him without quite liking him—he is neither cruel nor generous, simply efficient.
+Lôfáhr maintains an exterior of detachment bordering on coldness, viewing emotional engagement as a liability in his line of work. He speaks in measured tones, choosing words with military precision. Subordinates respect him without quite liking him—he is neither cruel nor generous, simply capable.
 
 Beneath this controlled exterior, however, Lôfáhr wrestles with the accumulated weight of his choices. Each contract leaves a small scar on his conscience, and the older he grows, the more these scars itch. He drinks more than is healthy, and his nights are often sleepless. Those few who have earned his trust see glimpses of a man fundamentally troubled by what he has become—a man wondering if a lifetime of warfare can ever be balanced by acts of mercy.
 
@@ -446,10 +446,10 @@ Lôfáhr no longer fights merely for gold, though he insists this to himself and
 
 ### Strengths
 
-- **Master of Blades and Strategy**: Lôfáhr's combat skills are legendary throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
-- **Exceptional Physical Prowess**: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
+- **Master of Blades and Strategy**: Lôfáhr's combat skills are famous throughout the League. His understanding of battlefield tactics, feint and counter, formation and breakpoint, gives him advantages independent of physical strength.
+- **Physical Prowess**: Strength, endurance, and agility combine with the tactical discipline to make him nearly unstoppable in direct confrontation. Few living swordsmen could match him.
 - **Unflappable Command Presence**: Soldiers fight harder and with greater courage under Lôfáhr's command. His reputation for never losing a contract creates confidence that borders on the supernatural.
-- **Intricate Knowledge of Warfare**: His deep expertise in military strategy, fortification assessment, and tactical deception makes him invaluable in siege situations and complex military engagements.
+- **Knowledge of Warfare**: His deep expertise in military strategy, fortification assessment, and tactical deception makes him useful in siege situations and complex military engagements.
 - **Network of Mercenary Contacts**: Decades in the profession have given him connections throughout the League and beyond—intelligence sources, safe houses, and allies in unexpected places.
 
 ### Weaknesses
@@ -457,7 +457,7 @@ Lôfáhr no longer fights merely for gold, though he insists this to himself and
 - **Moral Burden**: The accumulating weight of questionable decisions haunts him. He second-guesses choices, hesitates at crucial moments, and suffers from terrible nightmares.
 - **Limited Diplomatic Skills**: His tendency toward bluntness and his difficulty with emotional intelligence make him a poor negotiator outside of strictly military matters. Business deals often require intermediaries.
 - **Growing Cynicism**: His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
-- **Physical Decline**: At forty-five, Lôfáhr's reflexes, though still exceptional, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
+- **Physical Decline**: At forty-five, Lôfáhr's reflexes, though still excellent, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
 - **Isolation**: His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
 
 ## Social
@@ -487,7 +487,7 @@ The Byzarian League
 : Citizen in good standing, though his mercenary status makes him somewhat of an outsider in traditional society.
 
 The Independent Mercenary Council
-: A loose association of mercenary captains who maintain professional standards and negotiate pay rates. Lôfáhr holds significant influence.
+: A loose association of mercenary captains who keep common standards and negotiate pay. Lôfáhr holds significant influence.
 
 The Order of Árdavon (Order Aspect)
 : A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.

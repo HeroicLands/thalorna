@@ -5,7 +5,7 @@ name:
   aliases: [The Post-Imperial Settlement, The Settlement of Azénalès]
 type: lore
 subType: history
-description: "About 619 AF, the year after Provènzia's charter war ended, the Augustar Azénalès settles with the envoys of the Aurèldían crowns and the Byzarian League what the Empire still is: Provènzia's Charter recognized, the crowns and the League free of imperial governance and tax but inside the note system at a two-percent issuance fee, Heliónis a province on paper, and the far forts' commissions unpaid."
+description: "About 619 AF, the year after Provènzia's charter war ended, the Ôrzâs Azénalès settles with the envoys of the Aurèldían crowns and the Byzarian League what the Empire still is: Provènzia's Charter recognized, the crowns and the League free of imperial governance and tax but inside the note system at a two-percent issuance fee, Heliónis a province on paper, and the far forts' commissions unpaid."
 tags: [history, vylaria, thedrift]
 data:
   packFolder: vylaria
@@ -16,9 +16,9 @@ data:
       depth: region
       sources:
         - affiliation-vylarinmpr
-        - affiliation-aerarimmpr
-        - affiliation-magnumclgm
-        - affiliation-clgmrgntrrm
+        - affiliation-tarmex
+        - affiliation-tevran
+        - affiliation-danvar
         - affiliation-kngdmprvnz
         - affiliation-byzarianlg
         - place-aureldirgn
@@ -26,13 +26,13 @@ data:
         - place-helionis
         - place-orzara
       summary: >-
-        The Augustar Azénalès receives the envoys of the Aurèldían crowns and the Byzarian League and settles what the Empire still is. Provènzia's Charter is recognized. The crowns and the League are free of imperial governance and tax, and stay inside the note system at a two-percent issuance fee that goes to the Aerarium. Heliónis stays a province on the chancery's roll with its own magistrates and legions only where its cities ask for them by treaty. The far forts' commissions go unpaid, and the chancery stops pressing claims it cannot enforce.
+        The Ôrzâs Azénalès receives the envoys of the Aurèldían crowns and the Byzarian League and settles what the Empire still is. Provènzia's Charter is recognized. The crowns and the League are free of imperial governance and tax, and stay inside the note system at a two-percent issuance fee that goes to the Tarmex. Heliónis stays a province on the chancery's roll with its own magistrates and legions only where its cities ask for them by treaty. The far forts' commissions go unpaid, and the chancery stops pressing claims it cannot enforce.
       standing: attested
       names:
         - {name: the Settlement of the Crowns, by: affiliation-vylarinmpr}
         - name: the post-imperial settlement
-          by: affiliation-aerarimmpr
-          gloss: the Aerarium's name for the terms it has refused to reopen in every generation since
+          by: affiliation-tarmex
+          gloss: the Tarmex's name for the terms it has refused to reopen in every generation since
       where:
         locus: [place-orzara]
         reach:
@@ -42,7 +42,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the League sits in the commonwealth, taxed by nobody and charged by the Collegium
+              the League sits in the commonwealth, taxed by nobody and charged by the Tevran
             knowledge: named
           - place: place-helionis
             how: >-
@@ -54,7 +54,7 @@ data:
             knowledge: unlinked
       who:
         - {ref: affiliation-vylarinmpr, role: signatory}
-        - {ref: affiliation-aerarimmpr, role: actor}
+        - {ref: affiliation-tarmex, role: actor}
         - {ref: affiliation-kngdmprvnz, role: signatory}
         - {ref: affiliation-byzarianlg, role: signatory}
       follows:
@@ -73,7 +73,7 @@ data:
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            The Augustar Azénalès settled the Empire's relations with its former provinces, and the Aerarium has never since been asked to give up the note system.
+            The Ôrzâs Azénalès settled the Empire's relations with its former provinces, and the Tarmex has never since been asked to give up the note system.
           agrees: partly
           withholds: that the Empire kept the fee because it had lost the means to keep anything else
         - by: affiliation-kngdmprvnz
@@ -86,36 +86,36 @@ data:
           agrees: partly
         - by: affiliation-byzarianlg
           says: >-
-            The council sat in the Merchant Hall and paid its own garrisons, and the Augustar wrote down that we were free. We had already sworn it.
+            The council sat in the Merchant Hall and paid its own garrisons, and the Ôrzâs wrote down that we were free. We had already sworn it.
           agrees: partly
           withholds: that the League accepted the two-percent fee at the same table
       unresolved:
-        - whether the crowns' envoys met in one hall or the Augustar received them one at a time
+        - whether the crowns' envoys met in one hall or the Ôrzâs received them one at a time
 ---
 
-An Aurèldían factor, handing a Vylarian clerk a traveler's note at a counting-table in Ôrzâra, watches the clerk deduct the fee and write the sum in the margin. "Two in a hundred," the clerk says. "It was settled in Azénalès's time and nobody has reopened it. Your king calls it the Collegium's charge. The Aerarium calls it the Aerarium's. Both are right, and neither will say so to the other."
+An Aurèldían factor, handing a Vylarian clerk a traveler's note at a counting-table in Ôrzâra, watches the clerk deduct the fee and write the sum in the margin. "Two in a hundred," the clerk says. "It was settled in Azénalès's time and nobody has reopened it. Your king calls it the Tevran's charge. The Tarmex calls it the Tarmex's. Both are right, and neither will say so to the other."
 
 ## What the Empire Had Left
 
 By the time the estates of Provènzia made peace ([[lore-charterwar|The War of the Charter]]), the Empire had been losing provinces for a century. Tarvénia had stopped paying in the generation after the Three Winters ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The Byzarian League, annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn its Compact again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). Heliónis kept its cities' councils and had no governor it obeyed. The western crowns had armies of their own.
 
-What the Empire still had was the note system. The Aerarium minted the coin, the Collegium Argentariorum issued the notes, and the Magnum Collegium held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzánas]]). Every realm that had left the Empire still banked through it.
+What the Empire still had been the note system. The Tarmex minted the coin, the Danvar issued the notes, and the Tevran Maldor held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzánas]]). Every realm that had left the Empire still banked through it.
 
 ## The Terms
 
-In the year after the Charter's peace, the Augustar **Azénalès** of **House Mârdôvanês**, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Ôrzâra and set the terms down in one settlement.
+In the year after the Charter's peace, the Ôrzâs **Azénalès** of **House Mârdôvanês**, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Ôrzâra and set the terms down in one settlement.
 
 - **Provènzia's Charter** was recognized. The Empire stopped sending governors, and the Charter's king was acknowledged in the chancery's own style.
-- **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vylarian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Aerarium ([[affiliation-aerarimmpr|Aerarium Imperii]]).
+- **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vylarian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmex ([[affiliation-tarmex|Tarmex Orzan]]).
 - **Heliónis** stayed on the chancery's roll as a province. Its cities kept their own magistrates, and a legion sat in a Helionite city only where the city had asked for one by treaty. The roll names a province, and the cities govern themselves ([[place-helionis|Heliónis]]).
 - **The far forts** went unpaid. A fortress commander who held a post in the Hellád on an imperial commission kept the post and lost the pay, and some of their heirs hold the posts still.
 - **The claims the Empire could not enforce**, among them the Cervaron, stopped being pressed. The chancery has not raised the range with the clans since.
 
-The terms were not a defeat for the Aerarium and were not presented as one. The crowns were told they were partners in a commonwealth, and the fee was a banker's charge.
+The terms were not a defeat for the Tarmex and were not presented as one. The crowns were told they were partners in a commonwealth, and the fee was a banker's charge.
 
 ## What It Made
 
-The Aurèldían kingdoms and the Byzarian League became what every commerce section calls the post-imperial commonwealth: realms that answer to their own crowns and councils and bank through Ôrzâra. The Aerarium has refused to reopen the fee in every generation since, and the crowns have never had a way to refuse it.
+The Aurèldían kingdoms and the Byzarian League became what every commerce section calls the post-imperial commonwealth: realms that answer to their own crowns and councils and bank through Ôrzâra. The Tarmex has refused to reopen the fee in every generation since, and the crowns have never had a way to refuse it.
 
 Provènzia's Charter was tested within a lifetime, in a succession war the Empire watched from outside ([[lore-warprinces|The War of the Princes]]).
 
@@ -133,4 +133,4 @@ Provènzia's Charter was tested within a lifetime, in a succession war the Empir
 - [[lore-warprinces|The War of the Princes]]—Provènzia's first test of the Charter
 - [[lore-tarvfallsawy|Tarvénia Falls Away]]—the first crown to leave
 - [[lore-heladeastwar|The Eastern War]]—how the League came into the Empire
-- [[affiliation-aerarimmpr|Aerarium Imperii]] · [[affiliation-clgmrgntrrm|Collegium Argentariorum]]
+- [[affiliation-tarmex|Tarmex Orzan]] · [[affiliation-danvar|Danvar]]

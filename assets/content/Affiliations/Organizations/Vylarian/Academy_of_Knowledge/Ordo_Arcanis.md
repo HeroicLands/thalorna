@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A state-backed monopoly on arcane practice, governed by the Concilium Magnum of Praelati under an Archmagister and enforced by the Quaesitorium.
+      A state-backed monopoly on arcane practice, governed by the Verdan Maldor of Praelati under an Archmagister and enforced by the Sekran.
     ranks:
       - level: 1
         title: Initiati
@@ -35,11 +35,11 @@ data:
       - level: 5
         title: Praelati
         description: >-
-          Senior masters elevated by appointment of the existing Concilium, each holding a seat on the Concilium Magnum and typically leading a chapter.
+          Senior masters elevated by appointment of the existing Verdan, each holding a seat on the Verdan Maldor and typically leading a chapter.
       - level: 6
         title: Archmagister
         description: >-
-          The single most powerful position in the arcane world, elected by the Praelati for life, presiding over the Concilium Magnum and speaking for the Ordo to foreign powers.
+          The single most powerful position in the arcane world, elected by the Praelati for life, presiding over the Verdan Maldor and speaking for the Ordo to foreign powers.
     offices: {}
   seat: null
   population: null
@@ -52,7 +52,7 @@ sohl: {system: {commonSkills: []}}
 
 # headquarters: Alyssa, Vylarian Empire
 # region: Western Ankaris
-# founded: 73 BF, chartered under the Lex Arcana
+# founded: 73 BF, chartered under the Kandrol
 ---
 
 A tutor of the Ordo, sitting down with a child whose talent has just been reported and entered on the register, says two things first: "You are not in trouble, and you are not a prisoner; you are on the list, which means nobody will come looking for you now. And you will never teach what we teach you to anyone who is not one of us—not your sister, not your mother, not your best friend, not one small trick. Everything else I tell you this year is detail."
@@ -77,7 +77,7 @@ The legions, for all their discipline, were being slaughtered by powers they cou
 
 They found the dragons.
 
-How the Republic secured the dragons' aid is in no account of the war. The records of the period, which the Ordo took over from the Praefectura, are incomplete, and the Senate's archives from those decades have suffered convenient losses. What the accounts do agree on is what certain dragons do: they destabilize magic in their presence. Arcane forces become unpredictable and dangerous near them. Spells misfire, wards collapse, enchantments unravel, and a caster whose working is denied its shape takes the energy back, often fatally.
+How the Republic secured the dragons' aid is in no account of the war. The records of the period, which the Ordo took over from the Kandral, are incomplete, and the Senate's archives from those decades have suffered convenient losses. What the accounts do agree on is what certain dragons do: they destabilize magic in their presence. Arcane forces become unpredictable and dangerous near them. Spells misfire, wards collapse, enchantments unravel, and a caster whose working is denied its shape takes the energy back, often fatally.
 
 The **Dragon Riders**, warriors bonded to these dragons, became the Republic's decisive weapon. A Rider circling above a battlefield turned the enemy's greatest strength into its greatest weakness. Mage-generals who had shattered legions with a word saw their spells detonate in their own hands; shields that had turned a thousand arrows dissolved. The Helionite mages had built their whole strategy on magical superiority, and they were broken by its negation. Heliónis fell, one city-state after another, over twenty-three years.
 
@@ -87,34 +87,34 @@ The victory cost the Republic heavily in lives, in treasure and in devastated la
 
 The Ordo was made in stages, across two and a third centuries.
 
-In 312 BF, the year the last Helionite city fell, the Senate reached into the Panepistemium, took out the College of Arcane Philosophy, and placed it under a magistracy, the **Praefectura Arcana**. The Epistemium's own phrase for it is a vivisection. There was no negotiation: the Republic had just used dragons to destroy the mages who took the field against it in western Ankaris, and the Senate had no patience for debate about academic freedom. The Praefectura held the conquered Helionite masters—some on the register and lent like the rest, and a few on a roll of their own that was never lent and always guarded—and, in time, every arcanist born inside the Republic, on a register kept by a prefect who changed with the year's magistracies. It had a register and a garrison and no doctrine, and its registered mages were lent out to whoever the Senate owed.
+In 312 BF, the year the last Helionite city fell, the Senate reached into the Panepistemium, took out the College of Arcane Philosophy, and placed it under a magistracy, the **Kandral**. The Epistemium's own phrase for it is a vivisection. There was no negotiation: the Republic had just used dragons to destroy the mages who took the field against it in western Ankaris, and the Senate had no patience for debate about academic freedom. The Kandral held the conquered Helionite masters—some on the register and lent like the rest, and a few on a roll of their own that was never lent and always guarded—and, in time, every arcanist born inside the Republic, on a register kept by a prefect who changed with the year's magistracies. It had a register and a garrison and no doctrine, and its registered mages were lent out to whoever the Senate owed.
 
 The Helionite scholars, humbled by the catastrophe their own members had helped cause, supplied the philosophical architecture of what came next: the classification of magic into schools, the idea of structured training through progressive ranks, the conviction that arcane practice could be systematized and controlled. The enforcement was wholly Vylarian: legal authority, military backing, and the memory of the dragons that had ended the war. The institution carries the marks of both parents, the sophistication of one and the iron discipline of the other.
 
 In 75 BF the Senate ordered every registered practitioner in the Republic to bring their working-books to one place in the Alyssan country, to be copied into a single register. That was [[lore-recensio|the Recensio of Alyssa]]. In the fourth month an unchanneled release destroyed the books and killed most of the Republic's senior arcanists. A tract of good Alyssan land is bare to this day and is fenced at the Ordo's charge.
 
-In 73 BF the surviving masters drafted their own terms and the Senate took them. That instrument is the [[lore-lexarcana|Lex Arcana]], the charter of the Ordo Arcanis and the act the Ordo reckons its foundation from. The Ordo accepts the monopoly and its enforcement, the registration of every talent, and war service on demand. In exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as individuals. The clauses on property and on answering as a body were drafted by Helionite masters, and the Ordo has never published which. The same instrument constitutes the **Quaesitorium**, the Order's enforcement arm.
+In 73 BF the surviving masters drafted their own terms and the Senate took them. That instrument is the [[lore-kandrol|Kandrol]], the charter of the Ordo Arcanis and the act the Ordo reckons its foundation from. The Ordo accepts the monopoly and its enforcement, the registration of every talent, and war service on demand. In exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as individuals. The clauses on property and on answering as a body were drafted by Helionite masters, and the Ordo has never published which. The same instrument constitutes the **Sekran**, the Order's enforcement arm.
 
 The remaining colleges of the Epistemium (ethics, logic, metaphysics, natural philosophy and the rest) stayed in place, diminished and shaken. The Ordo is technically the College of Arcane Philosophy within the Epistemium to this day, and it likes the arrangement, because it gives the Ordo a claim to authority over all knowledge, not only the arcane. In practice the Ordo dwarfs every other college combined, and the Epistemium has become something close to a university system run by its military intelligence department.
 
-The Lex Arcana set out four principles that hold today:
+The Kandrol set out four principles that hold today:
 
 - **Monopoly:** Only members of the Ordo may practice, research or teach arcane lore. All other practice is illegal.
 - **Registration:** Every child who shows arcane talent must be reported to the Ordo and evaluated for enrollment.
 - **Regulation:** The Ordo sets standards for arcane practice, keeps lists of prohibited magics, and controls the trade in arcane materials and texts.
-- **Accountability:** The Ordo answers to the state (first the Senate, now the Augustar, as the Vylarians call their emperor), and the state grants it legal authority and institutional protection in return.
+- **Accountability:** The Ordo answers to the state (first the Senate, now the Ôrzâs, as the Vylarians call their emperor), and the state grants it legal authority and institutional protection in return.
 
-Many independent practitioners refused to submit. Some fled beyond Vylarian control and others went underground, and the early decades of the Ordo ([[lore-huntingyears|The Hunting Years]]) were taken up with bitter campaigns to enforce the monopoly: hunting down renegades, destroying rival traditions, and using the Quaesitorium as the instrument of arcane compliance. The memory of the Helionite wars gave the enforcers their argument: _remember what happened the last time mages were free to do as they pleased._
+Many independent practitioners refused to submit. Some fled beyond Vylarian control and others went underground, and the early decades of the Ordo ([[lore-huntingyears|The Hunting Years]]) were taken up with bitter campaigns to enforce the monopoly: hunting down renegades, destroying rival traditions, and using the Sekran as the instrument of arcane compliance. The memory of the Helionite wars gave the enforcers their argument: _remember what happened the last time mages were free to do as they pleased._
 
 ### The Dragons
 
-The Dragon Riders stood as a corps for more than two centuries after the last Helionite city fell. Around 45 BF the Republic, on the Ordo's counsel, did not renew its standing arrangement with the dragons, the Riders were disbanded, and the Eyrie of [[place-monsaquila|Mons Aquila]] was sealed. The reason usually given is that the property that made the dragons invaluable in war, their destabilization of magic, made them intolerable in peace: the Ordo could not work as a research and regulatory body beside creatures that made spells misfire and experiments end in disaster.
+The Dragon Riders stood as a corps for more than two centuries after the last Helionite city fell. Around 45 BF the Republic, on the Ordo's counsel, did not renew its standing arrangement with the dragons, the Riders were disbanded, and the Eyrie of [[place-arvel|Arvel]] was sealed. The reason usually given is that the property that made the dragons invaluable in war, their destabilization of magic, made them intolerable in peace: the Ordo could not work as a research and regulatory body beside creatures that made spells misfire and experiments end in disaster.
 
 The account that survives in the history notes is different. It holds that the Republic took the dragons' dead at Therádon and offered their return as the price of the dragons' help, and that the corps was kept on a lease renewed year by year until the Republic stopped renewing it ([[lore-dragondead|The Dragon Dead at Therádon]], [[lore-thebargain|The Bargain]] and [[lore-ridersdisb|The Lease Refused]] give it, and rest on a single source). The Republic's chancery and the Ordo's records say nothing of it, and a Senate archive that should hold the terms has lost the decades in question. Within a generation of the Ordo's founding the Dragon Riders were gone, and the Republic's relationship with dragons, and later the Empire's, had become a matter of silence.
 
 Whether the dragons remember what was done, and whether they hold the successors of the Republic to account, are questions the Ordo would prefer not to hear asked. A scholar who pursues them is discouraged, and in some places endangered.
 
-The Ordo outlasted the Republic's change into the Empire and helped to bring it about: its support was a large part of what legitimized the first Emperor's seizure of power. The Vylarian reckoning counts from that moment, with Year 1 the founding of the Vylarian Empire and earlier years dated Before the Founding (BF). The Ordo reckons its own founding from the Lex Arcana of 73 BF. Scholars outside the Ordo dispute the date, because the Ordo's records from the period are incomplete.
+The Ordo outlasted the Republic's change into the Empire and helped to bring it about: its support was a large part of what legitimized the first Emperor's seizure of power. The Vylarian reckoning counts from that moment, with Year 1 the founding of the Vylarian Empire and earlier years dated Before the Founding (BF). The Ordo reckons its own founding from the Kandrol of 73 BF. Scholars outside the Ordo dispute the date, because the Ordo's records from the period are incomplete.
 
 ## Structure
 
@@ -130,36 +130,36 @@ The Ordo sorts its members into five ranks, and a sixth place, the Archmagister'
 
 - **Magistri** (sing. _Magister_)—Masters. The governing rank. A Magister has shown mastery of a discipline and the political skill to survive the Order's internal politics. Every Magister has a vote in the chapter's council, and every chapter is governed by its council of Magistri. Seniority counts for far more than the vote: a Magister who has held the rank for decades, controls key resources and has trained a generation of Discipuli carries much more weight than one newly raised. The informal gradations of influence among the Magistri are as complex and unwritten as the politics of a royal court.
 
-- **Praelati** (sing. _Praelatus_)—Senior Masters. The highest rank below the Archmagister, and the Order's cardinals. Each holds a seat on the **Concilium Magnum**, the Order's supreme governing body. Smaller or less important chapters may have none, while the great chapters of [[affiliation-provinclys|Alyssa]] and [[place-helionis|Heliónis]] send several. The existing Concilium appoints each new Praelatus, which makes elevation an intensely political process. A Praelatus usually leads a chapter, though some prefer to wield influence from the Concilium without the burden of local administration, and some chapters are led by senior Magistri who lack the connections or the ambition to claim a seat.
+- **Praelati** (sing. _Praelatus_)—Senior Masters. The highest rank below the Archmagister, and the Order's cardinals. Each holds a seat on the **Verdan Maldor**, the Order's supreme governing body. Smaller or less important chapters may have none, while the great chapters of [[affiliation-provinclys|Alyssa]] and [[place-helionis|Heliónis]] send several. The existing Verdan appoints each new Praelatus, which makes elevation an intensely political process. A Praelatus usually leads a chapter, though some prefer to wield influence from the Verdan without the burden of local administration, and some chapters are led by senior Magistri who lack the connections or the ambition to claim a seat.
 
-### The Concilium Magnum
+### The Verdan Maldor
 
-The Concilium Magnum (the Great Council) is made up of the Praelati drawn from chapters across western Ankaris. It sets policy, settles disputes between chapters and colleges, manages the Order's resources, and pronounces judgment on questions of arcane law that exceed any single chapter's authority.
+The Verdan Maldor (the Great Council) is made up of the Praelati drawn from chapters across western Ankaris. It sets policy, settles disputes between chapters and colleges, manages the Order's resources, and pronounces judgment on questions of arcane law that exceed any single chapter's authority.
 
-The Archmagister leads the Concilium, and holds the single most powerful position in the arcane world. The Praelati elect the Archmagister for life, though "life" has occasionally been shortened by political rivals. The Archmagister presides over the Concilium, speaks for the Ordo to foreign powers, and may overrule individual chapters on matters that concern the whole Order. Wise Archmagisters use that power sparingly.
+The Archmagister leads the Verdan, and holds the single most powerful position in the arcane world. The Praelati elect the Archmagister for life, though "life" has occasionally been shortened by political rivals. The Archmagister presides over the Verdan, speaks for the Ordo to foreign powers, and may overrule individual chapters on matters that concern the whole Order. Wise Archmagisters use that power sparingly.
 
 ### Chapter Governance
 
 Each regional chapter is governed by its council of Magistri, one vote each. The Ordo is not a democracy. Formal votes are rare, and most decisions come out of a deliberation in which every Magister must be heard and some voices carry far more weight than others. Seniority, reputation, control of resources, networks of former students and alliances with powerful Praelati settle most questions long before a vote is called.
 
-Most chapters are led by a Praelatus, who is both the chapter's internal authority and its representative on the Concilium Magnum. A chapter without one is governed by a senior Magister, often one angling for elevation and using the chapter as a stepping stone. The alliances, feuds and slow accumulation of favors owed and debts called in are, in a word, arcane. Outsiders find the process incomprehensible, and insiders find it consuming.
+Most chapters are led by a Praelatus, who is both the chapter's internal authority and its representative on the Verdan Maldor. A chapter without one is governed by a senior Magister, often one angling for elevation and using the chapter as a stepping stone. The alliances, feuds and slow accumulation of favors owed and debts called in are, in a word, arcane. Outsiders find the process incomprehensible, and insiders find it consuming.
 
 ### The Héx Hodäi
 
 The Ordo teaches and sorts its members by the [[affiliation-hexhodai|Héx Hodäi]], the Six Ways, a classification of all magical phenomena into six schools, the Eídmata, arranged on a hexagonal diagram called the Sigillum. That note sets out the six Eídmata, the three oppositions that the Sigillum draws between them, and [[affiliation-kentra|Kentra]], the mastery of all six. Within the Ordo it is doctrine: an Initiatus is taught it as the structure of magic itself, and the Ordo's politics run along its lines.
 
-Two consequences matter here. Alliances across fellowships form most easily between neighboring Eídmata on the Sigillum, so a Magister seeking allies on a council looks first to the fellowships that flank their own. And the Ordo's promotions favor the politician over the transcendent: the practitioners who learn to work across all six schools, the Kentra, ought to be the natural Praelati, but the Praelati are likelier to be gifted politicians than gifted mages, and many a Kentra mage has spent a career as a quietly respected Magister while less talented and more ambitious colleagues rose to the Concilium.
+Two consequences matter here. Alliances across fellowships form most easily between neighboring Eídmata on the Sigillum, so a Magister seeking allies on a council looks first to the fellowships that flank their own. And the Ordo's promotions favor the politician over the transcendent: the practitioners who learn to work across all six schools, the Kentra, ought to be the natural Praelati, but the Praelati are likelier to be gifted politicians than gifted mages, and many a Kentra mage has spent a career as a quietly respected Magister while less talented and more ambitious colleagues rose to the Verdan.
 
 ### The Sodalitates (Fellowships)
 
 Each of the six Eídmata has a corresponding **Sodalitas** (pl. _Sodalitates_), a fellowship of practitioners who share it. The Sodalitates work something like religious orders within a church: they cut across the formal hierarchy of chapters and colleges, binding together mages who share a philosophical orientation wherever they are stationed and whatever practical discipline they study.
 
-- **[[affiliation-pyrethos|Sodalitas Pyréthos]]**—The Fellowship of Fire. Aggressive, ambitious and politically influential. Fire mages are drawn to combat magic and hold a disproportionate share of the Quaesitorium.
+- **[[affiliation-pyrethos|Sodalitas Pyréthos]]**—The Fellowship of Fire. Aggressive, ambitious and politically influential. Fire mages are drawn to combat magic and hold a disproportionate share of the Sekran.
 - **[[affiliation-hydalis|Sodalitas Hydälis]]**—The Fellowship of Water. Patient, adaptable, and associated with healing and divination. Water mages often serve as mediators in internal disputes.
 - **[[affiliation-zepharis|Sodalitas Zephäris]]**—The Fellowship of Air. Subtle, cerebral, and drawn to illusion, communication and the magic of the unseen. It is the smallest fellowship and is heavily represented among the Ordo's intelligence operatives.
 - **[[affiliation-physera|Sodalitas Physéra]]**—The Fellowship of Earth. Practical, conservative and deeply rooted in tradition. Earth mages dominate alchemy, herblore and the crafting of magical materials, and the fellowship is the largest by membership.
 - **[[affiliation-sideros|Sodalitas Sidéros]]**—The Fellowship of Metal. Precise and disciplined, associated with binding, warding and the imposition of arcane order. Metal mages have strong ties to the College of Enchantment.
-- **[[affiliation-pneumenos|Sodalitas Pnuménos]]**—The Fellowship of Spirit. Mystical, intense and sometimes unsettling: summoners, seers and practitioners who deal with entities beyond the material world. The other fellowships regard it warily, and the Quaesitorium supervises it most closely.
+- **[[affiliation-pneumenos|Sodalitas Pnuménos]]**—The Fellowship of Spirit. Mystical, intense and sometimes unsettling: summoners, seers and practitioners who deal with entities beyond the material world. The other fellowships regard it warily, and the Sekran supervises it most closely.
 
 Kentra mages belong to no Sodalitas, or rather have outgrown the one they began in. Some keep honorary ties to their original fellowship; others are regarded with awe and suspicion by former colleagues who can no longer follow how they think. There is no formal Sodalitas Kentra, though Kentra mages tend to find each other and form loose networks. The Ordo has debated whether to formalize a fellowship for them, and the Kentra mages have always resisted: organizing a group defined by transcending categories into a category of its own misses the point.
 
@@ -179,7 +179,7 @@ The Ordo also organizes its practical disciplines into colleges, a structure tha
 - **The College of Alchemy**—transmutation, potion-craft and material science
 - **The College of Divination**—prophecy, scrying and the interpretation of signs
 
-Each college keeps its own curriculum, its own internal hierarchy and its own political agenda. The rivalries between colleges are intense and sometimes bitter, and all of them answer to the Concilium Magnum.
+Each college keeps its own curriculum, its own internal hierarchy and its own political agenda. The rivalries between colleges are intense and sometimes bitter, and all of them answer to the Verdan Maldor.
 
 A mage thus holds three overlapping affiliations: a **Chapter** (geographic, where they are stationed), a **College** (practical, what discipline they study) and a **Sodalitas** (philosophical, how they perceive the arcane). The three axes of loyalty make the Ordo's internal politics extraordinarily complex. A Pyréthos mage in the College of Alchemy at the Heliónis chapter may have more in common with a Pyréthos mage of the College of Thaumaturgy in Alyssa than with the Hydälis mage beside them at chapter meetings.
 
@@ -201,7 +201,7 @@ The invisibility is deliberate. The Ordo learned from the catastrophes of the ag
 
 ### The Chapter Houses
 
-The chapter houses are formally [[affiliation-panepistmm|Panepistemium]] institutions, not Ordo ones, and the distinction is legal as well as cosmetic: the Lex Arcana chartered the Ordo inside the Epistemium, and the right to the door belongs to the Epistemium. The sign above the door bears the Epistemium seal. The scholars within teach logic, language, natural philosophy and law alongside arcane subjects, and to ordinary people a chapter house is a house of learning staffed by scholars of every discipline. Most people who deal with one never meet anything overtly magical. The Ordo controls every chapter house through its hierarchy, and the scholarly face is one of its most effective instruments of influence.
+The chapter houses are formally [[affiliation-panepistmm|Panepistemium]] institutions, not Ordo ones, and the distinction is legal as well as cosmetic: the Kandrol chartered the Ordo inside the Epistemium, and the right to the door belongs to the Epistemium. The sign above the door bears the Epistemium seal. The scholars within teach logic, language, natural philosophy and law alongside arcane subjects, and to ordinary people a chapter house is a house of learning staffed by scholars of every discipline. Most people who deal with one never meet anything overtly magical. The Ordo controls every chapter house through its hierarchy, and the scholarly face is one of its most effective instruments of influence.
 
 A typical chapter house is a walled compound, sometimes grand and sometimes modest, with libraries, laboratories, lecture halls, workshops, living quarters and extensive archives. The architecture varies by region (austere stone in Vylaria, elegant courtyards in Heliónis, fortified compounds in Moktur) and the function is the same everywhere: study, research and quiet power.
 
@@ -216,8 +216,8 @@ Four things keep a chapter house running:
 
 The Ordo keeps regional chapters in every significant city and territory within its sphere, and their strength varies enormously.
 
-- **[[affiliation-provinclys|Alyssa]]:** The Ordo's headquarters, at maximum strength and influence. The Concilium Magnum meets here.
-- **[[place-helionis|Heliónis]]:** Deeply rooted, as the intellectual birthplace of the Ordo, and among the most prestigious chapters, with the finest libraries and scholars. Local philosophical-magical traditions have negotiated autonomy, and the Quaesitorium treads carefully. The chapter's oldest teaching line runs to Therádon, not Thyrenae.
+- **[[affiliation-provinclys|Alyssa]]:** The Ordo's headquarters, at maximum strength and influence. The Verdan Maldor meets here.
+- **[[place-helionis|Heliónis]]:** Deeply rooted, as the intellectual birthplace of the Ordo, and among the most prestigious chapters, with the finest libraries and scholars. Local philosophical-magical traditions have negotiated autonomy, and the Sekran treads carefully. The chapter's oldest teaching line runs to Therádon, not Thyrenae.
 - **[[affiliation-provincvld|Sâlkhâlon]] and [[affiliation-provnchyln|Hylen]]:** Solid chapters with reliable imperial backing.
 - **[[affiliation-provncmktr|Moktur]]:** A limited presence. The frontier military governors tolerate the Ordo and do not prioritize its agenda.
 - **[[place-provenzrgn|Provènzia Region]]:** Present, but under royal oversight. Mages answer to the Provenzian crown as well as to the Ordo.
@@ -238,33 +238,33 @@ The Ordo has tried to extend its influence across the rest of Thalorna with mixe
 - **[[affiliation-kalihara|Kalihara]]:** No presence. The island is too remote and too self-sufficient to have drawn serious Ordo attention, and its one scholar, at [[place-ilovanu|Ilovanu]], studies there on his own account.
 - **[[affiliation-mtrrchybth|Bethua]]:** No presence. The Matriarchy has its own magical traditions and no interest in western institutions.
 
-## The Quaesitorium
+## The Sekran
 
-The Quaesitorium (formally _Quaesitorium Arcanum_, "the Arcane Inquisition") is the Ordo's enforcement arm, the division that makes sure no one practices magic outside the Order's authority. Its members, the **Quaesitores**, are investigators, hunters and, when necessary, executioners. The Lex Arcana constituted it a clause before the Ordo itself, and its first commission, to establish what happened at Alyssa and who did it, has never been closed.
+The Sekran (formally _Sekran Arcanum_, "the Arcane Inquisition") is the Ordo's enforcement arm, the division that makes sure no one practices magic outside the Order's authority. Its members, the **Quaesitores**, are investigators, hunters and, when necessary, executioners. The Kandrol constituted it a clause before the Ordo itself, and its first commission, to establish what happened at Alyssa and who did it, has never been closed.
 
 A Quaesitor's notary, writing up a search for the chapter's file, explains how the work is meant to look: "The Quaesitor can compel testimony, search property, seize arcane materials and detain a suspect. In Vylaria that rests on imperial law, and I cite the statute. Further out we rest on the Quaesitor's own standing, on frightening people, and on hired hands, and I cite nothing, because there is nothing to cite. What goes in the file is the outcome, and the best outcome is the quietest one: a name on the register."
 
 ### Methods
 
-The Quaesitorium chooses its method by the severity of the offense:
+The Sekran chooses its method by the severity of the offense:
 
 - **Recruitment:** The preferred outcome. Most unsanctioned practitioners are simply enrolled in the Ordo, often on restrictive terms. This is especially common with children and adolescents who have manifested talent without anyone reporting them.
 - **Confiscation:** Arcane materials, texts and artifacts held by unauthorized persons are seized and either destroyed or added to the Ordo's archives.
 - **Restriction:** Practitioners who cannot or will not be enrolled may be placed under binding oaths or magical constraints that limit their abilities.
 - **Imprisonment:** Persistent offenders and those judged dangerous are held in Ordo facilities, magical prisons kept at several places across western Ankaris.
-- **Elimination:** In extreme cases the Quaesitorium is authorized to kill: rogue mages who threaten public safety, practitioners of categorically forbidden arts, and fugitives who resist everything else.
+- **Elimination:** In extreme cases the Sekran is authorized to kill: rogue mages who threaten public safety, practitioners of categorically forbidden arts, and fugitives who resist everything else.
 
 ### Reputation
 
-The Quaesitorium is feared, respected and resented in roughly equal measure. In Vylaria and its core territories the Quaesitores are seen as a necessary protection against the chaos unregulated magic would bring, and official history keeps the age before the Ordo alive as a cautionary tale. Further from the center of Ordo power the Quaesitores are often seen as Vylarian enforcers imposing foreign authority, and their investigations can provoke as much resistance as cooperation.
+The Sekran is feared, respected and resented in roughly equal measure. In Vylaria and its core territories the Quaesitores are seen as a necessary protection against the chaos unregulated magic would bring, and official history keeps the age before the Ordo alive as a cautionary tale. Further from the center of Ordo power the Quaesitores are often seen as Vylarian enforcers imposing foreign authority, and their investigations can provoke as much resistance as cooperation.
 
-The Quaesitorium also runs its own network of agents, informants and sympathizers across western Ankaris, who report signs of unsanctioned magic. The network overlaps with the Vylarian Empire's own intelligence apparatus without being part of it, and the two cooperate while each guards its sources and methods.
+The Sekran also runs its own network of agents, informants and sympathizers across western Ankaris, who report signs of unsanctioned magic. The network overlaps with the Vylarian Empire's own intelligence apparatus without being part of it, and the two cooperate while each guards its sources and methods.
 
 ## Character
 
 The Ordo is ancient, conservative and institutional. It thinks in decades and centuries rather than days and months. Internal deliberation can take years, and the Order's decision-making is famously slow. Its factions argue endlessly over doctrine, jurisdiction, the interpretation of arcane theory and the right response to every conceivable threat.
 
-Once the Ordo decides and sets itself in motion, it is a juggernaut, patient and relentless, with resources most individuals and some nations cannot match. It does not forget, and it does not forgive defiance of its authority. A Quaesitorium investigation may lie dormant for years and be reopened when new intelligence surfaces or political conditions change.
+Once the Ordo decides and sets itself in motion, it is a juggernaut, patient and relentless, with resources most individuals and some nations cannot match. It does not forget, and it does not forgive defiance of its authority. A Sekran investigation may lie dormant for years and be reopened when new intelligence surfaces or political conditions change.
 
 The conservatism is the Ordo's greatest strength and its greatest weakness. Deep institutional memory and a cautious approach have carried it through wars, dynastic changes and the rise and fall of nations. The same conservatism makes it slow to adapt to new magical discoveries, new political realities and new threats.
 
@@ -276,7 +276,7 @@ The Ordo and the [[affiliation-vylarinmpr|Vylarian]] state have been intertwined
 
 ### The Ordo as Imperial Instrument
 
-The Ordo is enormously valuable to the Empire, and the court knows it. Through the Ordo, Vylaria projects power across northwestern Ankaris, even where the legions have no presence and the Augustar's writ has no legal force. A ruler under Ordo sanction can be crippled: court mages withdrawn, magical defenses stripped, arcane services cut off. The threat of censure is a diplomatic weapon the Empire uses with precision, and more than one foreign prince has found that defying Vylarian interests means losing the most powerful magical institution on the continent.
+The Ordo is enormously valuable to the Empire, and the court knows it. Through the Ordo, Vylaria projects power across northwestern Ankaris, even where the legions have no presence and the Ôrzâs's writ has no legal force. A ruler under Ordo sanction can be crippled: court mages withdrawn, magical defenses stripped, arcane services cut off. The threat of censure is a diplomatic weapon the Empire uses with precision, and more than one foreign prince has found that defying Vylarian interests means losing the most powerful magical institution on the continent.
 
 The Ordo supplies battlefield magic, intelligence through divination and arcane defenses for critical installations. It also lends credibility. Its endorsement legitimizes a ruler or a policy, and its disapproval can destabilize either. In return the Empire grants it legal authority, institutional protection, tax exemptions, and the political and military muscle to enforce the monopoly where the Ordo's own power is insufficient.
 
@@ -292,7 +292,7 @@ The Empire's decline has strained the arrangement to its limits. As the Empire w
 
 For some factions within the Ordo this is also an opportunity. The decline forces the Ordo to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In Provènzia the Ordo works under royal oversight, and the Provenzian crown has come to depend on its services. In Tarûzel the merchant guilds restrict the Ordo and also hire its mages. Even in Tarvénia, where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Ordo academies rather than leave the talent untrained.
 
-The Ordo is becoming a cross-realm institution whose authority derives from no single state but from its monopoly on essential services. The Vylarian reckoning still counts from the founding of the Empire in lands that no longer obey the Augustar, and in the same way the Ordo's standards, training, certifications and prohibitions are becoming the shared framework of arcane practice across western Ankaris, a framework that will outlast the Vylarian throne.
+The Ordo is becoming a cross-realm institution whose authority derives from no single state but from its monopoly on essential services. The Vylarian reckoning still counts from the founding of the Empire in lands that no longer obey the Ôrzâs, and in the same way the Ordo's standards, training, certifications and prohibitions are becoming the shared framework of arcane practice across western Ankaris, a framework that will outlast the Vylarian throne.
 
 The Ordo argues the point internally. Traditionalists hold to the imperial relationship, fearing that without military backing the Ordo would face challenges it could not survive. Reformers argue that it should cultivate its role as a pan-continental institution, the one organization every kingdom needs and none can replace. The most ambitious of them talk of a future in which the Ordo shapes the political order itself, crowning and uncrowning rulers by granting or withdrawing arcane sanction. The debate is among the most consequential in western Ankaris, and it is unresolved.
 
@@ -300,4 +300,4 @@ The Ordo argues the point internally. Traditionalists hold to the imperial relat
 
 The Ordo's pursuit of the fugitive siblings aboard [[affiliation-thetamzir|the Tamzîr]] shows the Order's methods at their most relentless. The sister, a damaged arcane prodigy, was the subject of Ordo experimentation. Her escape is a security breach, because she knows things the Ordo would prefer to keep secret, and an affront to its authority, because she is an extremely powerful unsanctioned practitioner beyond its control.
 
-The Ordo hunts the siblings through its preferred channels: Vylarian imperial agents, [[affiliation-auricompct|guild]] contacts in Tarûzelian ports, Quaesitorium investigators and hired bounty hunters. Its approach is patient and methodical. It does not need to catch the Tamzîr today; it needs only to make sure the crew can never stop running.
+The Ordo hunts the siblings through its preferred channels: Vylarian imperial agents, [[affiliation-auricompct|guild]] contacts in Tarûzelian ports, Sekran investigators and hired bounty hunters. Its approach is patient and methodical. It does not need to catch the Tamzîr today; it needs only to make sure the crew can never stop running.

@@ -422,19 +422,19 @@ Philetos stands 5'11\" tall with a heavy build. He has olive weathered skin, dar
 
 # Dossier {#dossier}
 
-Philetos Kleftes once served as a military strategist in [[affiliation-vylarinmpr|Vylaria]]’s armies, renowned for his ability to devise bold, unorthodox strategies. His cunning earned him many victories, but his methods were seen as too destructive and unpredictable by the conservative military hierarchy. After a particularly devastating campaign where he employed fire as a weapon, burning an entire enemy fortress to the ground, Philetos was forced into exile, accused of reckless conduct. The experience only hardened his conviction that the empire’s leaders were weak men who feared the very tools that could save them—a conviction that drew him naturally to [[affiliation-blackflame|The Black Flame]] and its doctrine that might makes right.
+Philetos Kleftes once was a military strategist in [[affiliation-vylarinmpr|Vylaria]]’s armies, known for his ability to devise bold, unorthodox strategies. His cunning earned him many victories, but his methods were seen as too destructive and unpredictable by the conservative military hierarchy. After a particularly devastating campaign where he employed fire as a weapon, burning an entire enemy fortress to the ground, Philetos was forced into exile, accused of reckless conduct. The experience only hardened his conviction that the empire’s leaders were weak men who feared the very tools that could save them—a conviction that drew him naturally to [[affiliation-blackflame|The Black Flame]] and its doctrine that might makes right.
 
-Bitter and exiled, Philetos turned to mercenary work, selling his tactical expertise to whoever could afford him. His faith in the Black Flame gave shape to his resentment: the empire hadn’t exiled him for being wrong, it had exiled him for being strong in a way it couldn’t control. When he met [[being-klstrtsxrchds|Kallistratos Exarchides]] at a political gathering in [[place-velysara|Velysâra]], their shared fascination with fire as both a weapon and a tool for transformation brought them together. Philetos saw in Kallistratos a kindred spirit, someone willing to embrace the destructive power of fire to achieve greater goals. He believes that Kallistratos’s ambitions to reshape the empire through fire and arcane power align perfectly with his own desire for redemption and vengeance—and with the Black Flame’s vision of a world where strength, not politics, determines who rules.
+Bitter and exiled, Philetos turned to mercenary work, selling his tactical skill to whoever could afford him. His faith in the Black Flame gave shape to his resentment: the empire hadn’t exiled him for being wrong, it had exiled him for being strong in a way it couldn’t control. When he met [[being-klstrtsxrchds|Kallistratos Exarchides]] at a political gathering in [[place-velysara|Velysâra]], their shared fascination with fire as both a weapon and a tool for transformation brought them together. Philetos saw in Kallistratos a kindred spirit, someone willing to embrace the destructive power of fire to achieve greater goals. He believes that Kallistratos’s ambitions to reshape the empire through fire and arcane power align perfectly with his own desire for redemption and vengeance—and with the Black Flame’s vision of a world where strength, not politics, determines who rules.
 
 ## Background
 
 ### Skills and Abilities
 
 - **Strength**: Philetos has spent years in battle, developing significant physical strength.
-- **Endurance**: His experience in long campaigns has given him remarkable stamina.
+- **Endurance**: His experience in long campaigns has given him stamina.
 - **Dexterity**: While not particularly graceful, Philetos is precise in his movements in battle.
 - **Agility**: He moves efficiently, relying on agility in combat to outmaneuver opponents.
-- **Perception**: His awareness of the battlefield is sharp, though not exceptionally so.
+- **Perception**: His awareness of the battlefield is sharp, though not so.
 - **Comeliness**: Philetos’s appearance is rugged and battle-worn, with a certain charisma.
 - **Aura**: His presence commands respect, especially among his troops.
 - **Will**: Philetos’s will is strong, honed through years of command and leadership.
@@ -446,7 +446,7 @@ Bitter and exiled, Philetos turned to mercenary work, selling his tactical exper
 - **Voice**: Unexpectedly, Philetos possesses a rich, smooth voice that can carry a tune with surprising beauty. Despite his rough exterior as a mercenary, his voice is deep and full, suited for songs that reflect tales of battle and camaraderie.
 - **Master Strategist**: Philetos excels in devising military strategies, particularly ones that use fire and heat as central elements in warfare. He is always thinking several steps ahead and can adapt quickly in chaotic situations.
 - **Warrior of Flame**: Philetos isn’t just a strategist—he has learned to use fire in battle, employing incendiary tactics such as firebombs and burning oil to enhance his combat abilities.
-- **Cold and Calculated**: Philetos has no qualms about using extreme measures to achieve victory. His strategic mind allows him to see opportunities where others see chaos, and he is unafraid to take risks if the potential rewards are high.
+- **Cold and Calculated**: Philetos has no qualms about using extreme measures to achieve victory. His mind for campaigns allows him to see opportunities where others see chaos, and he is unafraid to take risks if the potential rewards are high.
 
 ## Psyche
 

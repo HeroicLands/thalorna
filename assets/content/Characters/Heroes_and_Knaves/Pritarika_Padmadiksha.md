@@ -462,7 +462,7 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 - **Skilled at Arms**: While not a warrior by trade, Pritārika trained extensively in traditional martial disciplines. She can handle a rapier competently and rides with considerable skill, allowing her to maintain a physical presence of capability and confidence.
 
-- **Genuine Compassion**: Unlike many leaders who feign care, Pritārika's concern for her people's wellbeing is authentic. This authenticity—recognized by those under her rule—generates loyalty that fear and authority alone could never achieve.
+- **Compassion**: Unlike many leaders who feign care, Pritārika's concern for her people's wellbeing is authentic. This authenticity—recognized by those under her rule—generates loyalty that fear and authority alone could never achieve.
 
 ### Weaknesses
 
@@ -470,7 +470,7 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 - **Dangerous Compassion**: Her care for people sometimes prevents her from making the hard choices necessary for the greater good. She hesitates to punish the guilty if punishment will cause disproportionate suffering, a hesitation that can be exploited by those without her scruples.
 
-- **Profound Isolation**: Her position and her reforming views isolate her from true friendship. This isolation can manifest as moments of paralyzing self-doubt when she lacks external validation for difficult decisions.
+- **Isolation**: Her position and her reforming views isolate her from true friendship. This isolation can manifest as moments of paralyzing self-doubt when she lacks external validation for difficult decisions.
 
 - **Potential Vulnerability Regarding Her Husband's Death**: If convinced that Devānūra's death was murder rather than accident, Pritārika would be capable of extreme action, possibly undermining her own principles in pursuit of justice or revenge.
 

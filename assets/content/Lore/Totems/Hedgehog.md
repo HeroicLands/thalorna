@@ -14,7 +14,7 @@ Defensive and solitary, hedgehogs rely on their spines for protection and prefer
 
 ## Human Personality
 
-Preferring to stay hidden and alone, this individual relies on their defenses to navigate social interactions. They are self-protective and often choose solitude over socializing.
+Hedgehog people stay hidden and alone, and rely on their defenses when they must deal with others. Solitude is chosen over company.
 
 - **Physical:** Small, round build; defensive body language.
 - **Behavioral:** Prefers solitude, defensive and wary of threats.

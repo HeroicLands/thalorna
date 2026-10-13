@@ -435,7 +435,7 @@ Torvâsh is driven by a single, all-consuming purpose: the survival and dominanc
 ### Strengths
 
 - **Master of Warfare**: Torvâsh's skill in combat is famous throughout the region. He has killed more enemies than many warriors have faced, and his tactics are studied by military strategists across multiple realms.
-- **Exceptional Leadership**: He commands loyalty not through cruelty but through demonstrated competence and a real commitment to his tribe's welfare. His decisions have consistently preserved and strengthened the Dunhara.
+- **Leadership**: He commands loyalty not through cruelty but through demonstrated competence and a real commitment to his tribe's welfare. His decisions have consistently preserved and strengthened the Dunhara.
 - **Political Acumen**: Despite his tribal origins, Torvâsh understands the political realities of the settled kingdoms. He negotiates with empire ambassadors with the skill of a born diplomat.
 - **Unassailable Authority**: His position as chieftain is secure not through force but through the consensus of his people. Even rivals acknowledge his right to lead.
 - **Survival Instinct**: Torvâsh has survived assassination attempts, treachery, and combat that would have killed ordinary men. His instinct for danger is almost preternatural.

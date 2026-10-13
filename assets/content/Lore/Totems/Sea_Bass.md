@@ -14,7 +14,7 @@ Opportunistic and stealthy, sea bass lie in wait to ambush unsuspecting prey, ca
 
 ## Human Personality
 
-Strategic and patient, this individual waits for the perfect moment to act. They are skilled at identifying opportunities and exploit them with precision and discretion.
+A Sea Bass person is patient and waits for the perfect moment. Opportunities are spotted early and used with precision and discretion.
 
 - **Physical:** Streamlined, smooth body; fluid and silent movements.
 - **Behavioral:** Stealthy, takes full advantage of opportunities that arise.

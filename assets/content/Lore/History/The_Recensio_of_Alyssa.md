@@ -3,7 +3,7 @@ shortcode: recensio
 name: {full: The Recensio of Alyssa, aliases: [The Audit]}
 type: lore
 subType: history
-description: "In 75 BF the Praefectura assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register—and in the fourth month there is an unchanneled release."
+description: "In 75 BF the Kandral assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register—and in the fourth month there is an unchanneled release."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -35,7 +35,7 @@ data:
       accounts:
         - by: affiliation-ordoarcanis
           says: >-
-            An audit that became the most conspicuous arcane event in history, and very nearly ended the craft. Establishing what happened and who did it is the first commission of the Quaesitorium, and it has never been closed.
+            An audit that became the most conspicuous arcane event in history, and very nearly ended the craft. Establishing what happened and who did it is the first commission of the Sekran, and it has never been closed.
           agrees: partly
           withholds: what the inventory came up short of
         - by: affiliation-vylarinmpr
@@ -46,7 +46,7 @@ data:
         - whether the release was an accident or an act, which nobody has ever been able to say
         - what the inventory taken afterward came up one short of
         - what is under the fenced ground, which has never been dug
-        - why the masters who kept the Praefectura's holdings are not on the roll of the dead
+        - why the masters who kept the Kandral's holdings are not on the roll of the dead
 ---
 
 The Recensio was an audit. Every registered practitioner in the Republic was ordered to bring their
@@ -64,8 +64,8 @@ The books burned. Most of the Republic's senior arcanists died. A tract of good 
 nearly eight centuries later and is fenced at the [[affiliation-ordoarcanis|Ordo]]'s charge.
 
 A deliberate release is the kind of thing that ends sieges, which is precisely why nobody has ever
-been able to say whether this was an accident or an act—and why that question is the Quaesitorium's
+been able to say whether this was an accident or an act—and why that question is the Sekran's
 whole reason for existing.
 
-The audit did one other thing that is not in any account of it. It counted what the Praefectura held,
+The audit did one other thing that is not in any account of it. It counted what the Kandral held,
 and when the count was taken again afterward it came up short.

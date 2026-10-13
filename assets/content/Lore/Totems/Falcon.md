@@ -14,7 +14,7 @@ Precise and relentless, falcons are master hunters that dive at incredible speed
 
 ## Human Personality
 
-This person is a master of focus and determination, diving into tasks with unmatched precision. They relentlessly pursue their objectives, often succeeding due to their intense concentration.
+A Falcon person dives into a task with complete focus and precision. Concentration is what lets such a person see objectives through.
 
 - **Physical:** Streamlined, athletic build; intense, unwavering gaze.
 - **Behavioral:** Precise in actions, relentless in efforts and pursuits.

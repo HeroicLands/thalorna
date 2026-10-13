@@ -14,7 +14,7 @@ Majestic and communicative, whales are highly social marine mammals that travel 
 
 ## Human Personality
 
-Highly social and expressive, this person enjoys deep connections and uses communication to foster relationships. They navigate social settings with grace and clarity.
+Whale people are sociable and expressive, and value deep ties with others. They use speech to build relationships and handle company with grace and clarity.
 
 - **Physical:** Large, commanding presence; graceful in movement.
 - **Behavioral:** Majestic, highly communicative, cooperative in social structures.

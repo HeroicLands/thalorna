@@ -42,7 +42,7 @@ data:
         Ilmy-Qelt Nuw—chair of the Council of the Long Spear, presently Germeryt Qeltawes, unifying the guild's specialty divisions and speaking for it to the imperial administration.
   seat: null
   population: null
-  economy: [affiliation-magnumclgm]
+  economy: [affiliation-tevran]
   lore: []
   parents: []
   relations:
@@ -59,7 +59,7 @@ _Khelâthi: "The House of Hunters"—the guild of professional hunters of Aû'Kh
 - Type: Imperial chartered guild
 - Region: [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with regional chapter halls along the [[place-zumeleshrvr|Zumélesh]] and at the desert edge
 - Charter: Granted by the seventh [[lore-garauu|Gar-Aû]] of the present dynasty; renewed regularly since
-- Magnum Collegium status: Not a member; independent [[lore-khelathiclt|Khelâthi]] institution. It has no standing credential equivalence with the [[affiliation-magnumclgm|Magnum Collegium]], and a foreign hunter operating in Aû'Khelâthu needs a license granted case by case. The [[lore-taruzelianclt|Tarûzelian]] [[affiliation-vezakuni|Vezâkûnî]] has approached **Gar'Nuw** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
+- Tevran Maldor status: Not a member; independent [[lore-khelathiclt|Khelâthi]] institution. It has no standing credential equivalence with the [[affiliation-tevran|Tevran Maldor]], and a foreign hunter operating in Aû'Khelâthu needs a license granted case by case. The [[lore-taruzelianclt|Tarûzelian]] [[affiliation-vezakuni|Vezâkûnî]] has approached **Gar'Nuw** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
 
 ## Overview
 

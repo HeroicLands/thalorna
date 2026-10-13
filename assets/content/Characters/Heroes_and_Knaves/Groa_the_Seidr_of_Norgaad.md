@@ -445,13 +445,13 @@ The people called her a Seidr, a wise woman with psychic abilities and a connect
 
 Gróa’s talent for Seidr magic was recognized by the local village elders and she was sent to train with an older Seidr who lived alone in the mountains. Her training was harsh and involved deep spiritual practices, fasting, and long journeys into the wild where she would commune with spirits. During these rites, she developed an unique bond with the **Crow Spirit**, a creature known for its intelligence, cunning, and its ability to traverse both the physical and spiritual realms. Over time, Gróa began to adopt aspects of the crow herself, often staring at people intensely and developing a love for shiny objects, which she would collect obsessively.
 
-Gróa became a mendicant, traveling from clan to clan, offering her services as a Seidr. She would read the bones, summon spirits for advice, and perform powerful rituals to aid in battle or ensure good fortune. The people of Nordheim both revered and feared her. Some saw her as a wise woman, a bridge between the mortal world and the spirits. Others whispered that she was cursed, for her association with the crow—a bird of death—was unsettling.
+Gróa became a mendicant, traveling from clan to clan, offering her services as a Seidr. She would read the bones, summon spirits for advice, and perform powerful rituals to aid in battle or bring good fortune. The people of Nordheim both revered and feared her. Some saw her as a wise woman, a bridge between the mortal world and the spirits. Others whispered that she was cursed, for her association with the crow—a bird of death—was unsettling.
 
 ### The Transformation
 
 Gróa’s transformation from a wandering Seidr to a woman with a deeper purpose came when she received a powerful vision during a midwinter blót. In the vision, she was shown the unraveling threads of fate in Norgaad—her homeland would face internal strife, foreign invasions, but most of all the rise of an ancient evil from the depths of the sea. [[being-njorven|Njörven]], the Sea Wraith, a mythic creature long ago overthrown by **Thrúnvald**, is slowly awakening, his influence seeping back into the seas of Norgaad, causing unprecedented storms and sea unrest. His goal is to break free and exact revenge on the mortal world, especially the coastal clans that once worshipped him but have since turned to Thrúnvald. The Crow Spirit guided her in the vision, showing her that she must acquire three ancient relics created by Thrúnvald to seal away Njörven—the **Spear of Sigrid**, the **Crown of the Wyrm**, and the **Horn of Hafvald**—and use the ancient _Rituals of Binding_ to either re-imprison the spirit or appease his wrath. Her powers, and those of key companions, will be the key to saving her people.
 
-This singular event shook Gróa to her core and set her on a journey beyond the safety of her fjord-bound homeland. No longer content to serve as a wandering wise woman, Gróa knew she had to gather allies and confront the dangers that lay ahead, both physical and spiritual. Her mission now takes her into the heart of Nordheim and beyond, seeking to understand the forces at play and to restore balance before the darkness consumes Norgaad.
+This singular event shook Gróa to her core and set her on a journey beyond the safety of her fjord-bound homeland. No longer content to be a wandering wise woman, Gróa knew she had to gather allies and confront the dangers that lay ahead, both physical and spiritual. Her mission now takes her into the heart of Nordheim and beyond, seeking to understand the forces at play and to restore balance before the darkness consumes Norgaad.
 
 ### Companions
 
@@ -465,7 +465,7 @@ This singular event shook Gróa to her core and set her on a journey beyond the 
 - **Endurance**: She can handle long rituals but isn’t physically robust.
 - **Dexterity**: Her hands are steady for ritual and spellcraft but not particularly nimble.
 - **Agility**: Gróa moves with care and precision but isn’t especially quick.
-- **Perception**: Her ability to read the spirit world and her surroundings is exceptional.
+- **Perception**: Her ability to read the spirit world and her surroundings is outstanding.
 - **Comeliness**: Gróa’s appearance is plain, but her mystical presence adds a certain allure.
 - **Aura**: Her deep connection to the spirit world gives her a powerful mystical aura.
 - **Will**: Gróa is determined and focused on her magical path.
@@ -484,7 +484,7 @@ This singular event shook Gróa to her core and set her on a journey beyond the 
 
 ### Personality
 
-Gróa is enigmatic and quiet, often lost in thought or staring into the distance. She is prone to bouts of eerie silence followed by cryptic statements, and her mannerisms reflect her deep connection to the crow totem. She tends to stare at people as if seeing something beyond them, and she sometimes shakes her body or fluffs her cloak as though ruffling feathers. Gróa also has an unusual fondness for shiny objects, often collecting small trinkets or tokens. Though she is kind at heart, her detached and strange behavior makes it difficult for others to truly understand her.
+Gróa is quiet and hard to read, often lost in thought or staring into the distance. She is prone to bouts of eerie silence followed by cryptic statements, and her mannerisms reflect her deep connection to the crow totem. She tends to stare at people as if seeing something beyond them, and she sometimes shakes her body or fluffs her cloak as though ruffling feathers. Gróa also has an unusual fondness for shiny objects, often collecting small trinkets or tokens. Though she is kind at heart, her detached and strange behavior makes it difficult for others to truly understand her.
 
 Gróa is wise beyond her years, with a deep understanding of the spiritual world and the forces that shape destiny. However, she carries the weight of her vision heavily, and she is constantly searching for answers. She fears that she may not be able to stop the coming doom and worries that the Crow Spirit’s warnings may not be enough.
 
@@ -499,7 +499,7 @@ Gróa is wise beyond her years, with a deep understanding of the spiritual world
 
 ## Plot Hooks
 
-1. **The Whispers of the Ancestors**: During a midwinter ritual, Gróa hears a cacophony of voices from her ancestors, warning her of an ancient betrayal tied to her bloodline. She must uncover the truth hidden in her family’s history while grappling with the knowledge that the betrayal may be linked to the Crow Spirit’s mysterious guidance.
+1. **The Voices of the Ancestors**: During a midwinter ritual, Gróa hears a cacophony of voices from her ancestors, warning her of an ancient betrayal tied to her bloodline. She must uncover the truth hidden in her family’s history while grappling with the knowledge that the betrayal may be linked to the Crow Spirit’s mysterious guidance.
 
 2. **The Shattered Relic**: A vision shows Gróa a shattered artifact, the Crown of the Wyrm, said to be one of the three relics needed to seal away Njörven. She learns that the pieces are scattered across the frozen tundra of Norgaad and are guarded by jealous spirits who test her worthiness to wield such power.
 

@@ -111,10 +111,10 @@ data:
   population: 2500000
   economy:
     - lore-vylrncrncy
-    - affiliation-clgmrgntrrm
-    - affiliation-magnumclgm
-    - affiliation-curiafscls
-    - affiliation-aerarimmpr
+    - affiliation-danvar
+    - affiliation-tevran
+    - affiliation-tolvan
+    - affiliation-tarmex
   lore: [humanflk]
   parents: []
   relations: {arldnpnthn: aligned, vylarinmpr: rival, ordoarcanis: nemesis}
@@ -138,13 +138,13 @@ Nartûm is not expansionist, and it is not weak. Its army is small but professio
 
 ## Relations
 
-Nartûm keeps correct but cool relations with the Vylarian Empire. The break dates from about 224 AF, when the high priesthood refused obedience to an Augustar who would not proscribe the Black Flame and anointed a king of its own ([[lore-nartumrefuse|Nartûm Refuses the Empire]]). The empire regards Nartûm as a wayward province that should be reabsorbed, and Nartûm regards the empire as a corrupted institution that has strayed from the true path.
+Nartûm keeps correct but cool relations with the Vylarian Empire. The break dates from about 224 AF, when the high priesthood refused obedience to an Ôrzâs who would not proscribe the Black Flame and anointed a king of its own ([[lore-nartumrefuse|Nartûm Refuses the Empire]]). The empire regards Nartûm as a wayward province that should be reabsorbed, and Nartûm regards the empire as a corrupted institution that has strayed from the true path.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Nartûm. The kingdom holds the Ordo's secular power and political manipulation to be antithetical to proper spiritual life, and mages who work in Nartûm answer to the priesthood, not to the Ordo.
 
 ## Commerce and Currency
 
-The Holy Kingdom of Nartûm uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Holy Kingdom of Nartûm uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through the [[affiliation-danvar|Danvar]] moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

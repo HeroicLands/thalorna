@@ -11,7 +11,7 @@ data:
   occupation: Perfumer
   lore: []
   culture: provenzianclt
-  homes: [chastelclr]
+  homes: [durvalis]
   affiliations: {kngdmprvnz: {rank: 5}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
@@ -406,7 +406,7 @@ Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzi
 
 ### Personality
 
-Can be overwhelmed by competition, sometimes struggles with business logistics.
+Can be overwhelmed by competition, sometimes struggles with the business side.
 
 ### Motivation
 
@@ -426,7 +426,7 @@ As a Provenzian perfumer, Úrelè occupies a recognized social niche within Prov
 
 ### Patrons
 
-Úrelè's primary patron is Local residents and eco-conscious customers seeking natural fragrances.. This relationship provides both opportunity and obligation.
+Úrelè's primary patron is Local residents and eco-conscious customers seeking natural fragrances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Few; generally well-liked, though some competitors may see her as a threat.
 
 ## Plot Hooks
 
-1. **The Perfumer's Dilemma**—Úrelè faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Perfumer's Dilemma**—Úrelè faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—Few; generally well-liked, though some competitors may see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

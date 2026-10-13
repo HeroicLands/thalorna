@@ -428,7 +428,7 @@ As a Nordheimn laborer (farm), Nulthynda occupies a recognized social niche with
 
 ### Patrons
 
-Nulthynda's primary patron is Local farmers and builders who hire her for various projects.. This relationship provides both opportunity and obligation.
+Nulthynda's primary patron is Local farmers and builders who hire her for various projects. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,7 +436,7 @@ Few; well-respected in the community.
 
 ## Plot Hooks
 
-1. **The Laborer (farm)'s Dilemma**—Nulthynda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+1. **The Laborer (farm)'s Dilemma**—Nulthynda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 
 2. **Old Grudges**—Few; well-respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -22,7 +22,7 @@ Nothing crosses that a reaper sees by day. On the anniversary of the battle the 
 
 ## How It Is Treated
 
-The estate farms the field, sells its grain into the state granaries, and does not discuss it. The tenants leave the last sheaf standing for the dead. The Imperial Cult keeps a small shrine to both armies' Augustars at the field's edge, the only shrine in the Empire to a defeated claimant.
+The estate farms the field, sells its grain into the state granaries, and does not discuss it. The tenants leave the last sheaf standing for the dead. The Imperial Cult keeps a small shrine to both armies' Ôrzândoi at the field's edge, the only shrine in the Empire to a defeated claimant.
 
 The clergy of [[affiliation-selmoros|Sélmoros]] and [[affiliation-nahild|Náhild]] hold the Empire's dead between them, and it is Náhild's priests who go onto a field.
 

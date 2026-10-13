@@ -400,7 +400,7 @@ Kélyra Sálthar is a 42-year-old woman who stands 5'5" tall and is slender. She
 
 Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Kélyra Sálthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
-Kélyra comes from a family of civil servants and followed in their footsteps, working in the city’s treasury department. Known for her sharp mind and keen eye for detail, she has uncovered several cases of embezzlement. Her dedication to rooting out corruption has made her a few enemies among the more unscrupulous officials.
+Kélyra comes from a family of civil servants and followed in their footsteps, working in the city’s treasury department. Known for her sharp mind and eye for detail, she has uncovered several cases of embezzlement. Her dedication to rooting out corruption has made her a few enemies among the more unscrupulous officials.
 
 ## Psyche
 
@@ -426,7 +426,7 @@ As a Élavendri bureaucrat, Kélyra occupies a recognized social niche within É
 
 ### Patrons
 
-Kélyra's primary patron is The head of the treasury department who values her skills.. This relationship provides both opportunity and obligation.
+Kélyra's primary patron is The head of the treasury department who values her skills. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Corrupt officials she has exposed.
 
 ## Plot Hooks
 
-1. **The Bureaucrat's Dilemma**—Kélyra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Bureaucrat's Dilemma**—Kélyra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Corrupt officials she has exposed. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

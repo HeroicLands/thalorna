@@ -68,7 +68,7 @@ data:
       Clerk of the Council: Keeper of the Council's record, its charters and its correspondence.
   seat: calypsacity
   population: 45000
-  economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
+  economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []
   relations:
@@ -90,7 +90,7 @@ The city is nobody's vassal. It pays no tribute to the Nordmen kingdoms, owes no
 
 ## Character
 
-Calypsa's culture is the culture of a harbor that has had to welcome everyone. Nordmal is the working language of the docks and the old city; **Valtari**, a trade creole with deep Helionite roots, is spoken in the markets and among the younger merchant families; a traveler from [[place-provenzrgn|Provènzia Region]] or the [[affiliation-byzarianlg|Byzarian League]] will find themselves understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aurèldían hymns; the kitchens combine northern smoked fish with southern spice and olive oil; the local wine is, by the admission of its drinkers, indifferent.
+Calypsa's culture is the culture of a harbor that has had to welcome everyone. Nordmal is the working language of the docks and the old city; **Valtari**, a trade pidgin with deep Helionite roots, is spoken in the markets and among the younger merchant families; a traveler from [[place-provenzrgn|Provènzia Region]] or the [[affiliation-byzarianlg|Byzarian League]] will find themselves understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aurèldían hymns; the kitchens combine northern smoked fish with southern spice and olive oil; the local wine is, by the admission of its drinkers, indifferent.
 
 Calypsi civic life is dominated by the shipping houses—perhaps a dozen great families and twice as many lesser ones—whose fortunes rise and fall with the fortunes of their fleets. A family that loses three ships in a season may be elbowed from the Council within the year; a family that opens a new trade route may enter it. The resulting mobility gives Calypsi politics an unusually meritocratic flavor for Ankaris, though "merit" here means, specifically, the talent to make a ship pay.
 
@@ -144,7 +144,7 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 ## Commerce and Currency
 
-Calypsa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Calypsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Calypsa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Calypsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

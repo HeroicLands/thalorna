@@ -448,7 +448,7 @@ Korêmdânis is driven by a vision of mastery that goes beyond technical skill. 
 
 ### Strengths
 
-- **Unparalleled Melee Mastery**: She is the most dangerous warrior in her region. Her swordwork is nearly perfect, her technique economical and devastating, and her intuitive grasp of combat principles allows her to anticipate and counter opponent moves with preternatural accuracy.
+- **Melee Mastery**: She is the most dangerous warrior in her region. Her swordwork is nearly perfect, her technique economical and devastating, and her intuitive grasp of combat principles allows her to anticipate and counter opponent moves with preternatural accuracy.
 - **Supernatural Reflexes and Agility**: Her dexterity and agility, combined with her throwing skill, make her capable of feats of physical coordination that seem almost impossible. She can dodge attacks that others would consider unavoidable and strike with precision from impossible angles.
 - **Tactical Combat Intelligence**: Her perception, awareness, and command allow her to read a battlefield with great clarity and lead others with assurance.
 - **Physical Excellence**: Her strength combined with her dexterity and agility gives her a fine balance of power and speed, and she nearly always acts first in combat.

@@ -429,7 +429,7 @@ A rival farmer who often competes for the same markets.
 
 ## Plot Hooks
 
-1. **The Farmer's Dilemma**—Elfreda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Farmer's Dilemma**—Elfreda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—A rival farmer who often competes for the same markets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

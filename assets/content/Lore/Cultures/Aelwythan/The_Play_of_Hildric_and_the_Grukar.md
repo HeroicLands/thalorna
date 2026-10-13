@@ -163,9 +163,9 @@ A tooth as easy as a wisp of straw.
 
 **Old Tally.** What is thy fee, Doctor?
 
-**The Doctor.** One Aurion.
+**The Doctor.** One Solden.
 
-**Old Tally.** An Aurion! There is not an Aurion in this yard, nor in this town, saving the bridge's. Here is twenty Bits and a turnip.
+**Old Tally.** An Solden! There is not an Solden in this yard, nor in this town, saving the bridge's. Here is twenty Bits and a turnip.
 
 **The Doctor.** I will take the turnip in part of payment. Stand back, now, for here is physic. _He kneels by Hildric and speaks over him, very grand:_ "_Shâlor en kír a thél!_"
 
@@ -257,7 +257,7 @@ Fill up the bowl, ye gentles, an ye would.
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 Put in your Bits, and put your Argos in,
-And if ye've Aurions, that were no sin;
+And if ye've Soldeni, that were no sin;
 A notch for every coin, and one notch more,
 And the Twelve keep you till we play once more.
 ```

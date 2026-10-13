@@ -69,7 +69,7 @@ By 313 BF Thyrenae was the last city of Heliónis that had not yielded. The legi
 
 ## The Terms
 
-The Archon of the year, **Sôthanos Kôshamîdês**, sent to the legate and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the College of Arcane Philosophy out of the [[affiliation-panepistmm|Panepistemium]] that same month, and the Senate placed it under the Praefectura Arcana.
+The Archon of the year, **Sôthanos Kôshamîdês**, sent to the legate and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the College of Arcane Philosophy out of the [[affiliation-panepistmm|Panepistemium]] that same month, and the Senate placed it under the Kandral.
 
 ## What the Siege Left
 

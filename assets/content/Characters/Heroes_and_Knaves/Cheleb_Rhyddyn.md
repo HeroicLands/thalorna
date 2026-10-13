@@ -427,10 +427,10 @@ He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. 
 ### Skills and Abilities
 
 - **Tracking**: A master tracker who can follow a trail over rock, through water, and across landscapes that would defeat most pursuers. His Áelendi training makes him one of the finest woodsmen the Silent Talon has ever had.
-- **Archery**: An exceptional bowman, deadly at range and capable of the kind of precise, patient shooting that comes from a lifetime of hunting.
+- **Archery**: A bowman, deadly at range and capable of the kind of precise, patient shooting that comes from a lifetime of hunting.
 - **Survival**: Chéleb can live off the land indefinitely. He knows how to find water, build shelter, identify edible plants, and navigate by stars, wind, and terrain.
 - **Scouting**: Often sent ahead of the band to survey routes, identify ambush sites, and assess the terrain before the main group moves through.
-- **Spiritual Connection**: Chéleb maintains a deep bond with the spirits of the land, drawing on Áelendi traditions for guidance and protection. This connection is genuine and respected, even if his companions do not fully understand it.
+- **Spiritual Connection**: Chéleb maintains a deep bond with the spirits of the land, drawing on Áelendi traditions for guidance and protection. This connection is sincere and respected, even if his companions do not fully understand it.
 
 ## Psyche
 

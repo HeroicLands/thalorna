@@ -405,7 +405,7 @@ sohl:
 
 ![[theldnkhldr|Théldina Khalîdra]]{float=top-left}
 
-Théldina Khalîdra is beautiful in the way that a finely crafted instrument is beautiful—with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty—low, musical, and utterly commanding. She dresses in silk and velvet even aboard the Tamzîr, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
+Théldina Khalîdra is beautiful in the way that a finely crafted instrument is beautiful—with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty—low, musical, and commanding. She dresses in silk and velvet even aboard the Tamzîr, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
 
 # Dossier {#dossier}
 
@@ -431,7 +431,7 @@ Théldina rents a private cabin aboard the Tamzîr and maintains her independenc
 
 ### Personality
 
-Théldina is poised, witty, and socially devastating. She navigates conversation the way Féthar navigates reefs—with instinctive precision and a deceptive appearance of ease. She is genuinely cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
+Théldina is poised, witty, and socially devastating. She navigates conversation the way Féthar navigates reefs—with instinctive precision and a deceptive appearance of ease. She is cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
 
 ### Motivation
 
@@ -439,11 +439,11 @@ Théldina values her autonomy above all else. She chose the courtesan's path bec
 
 ### Strengths
 
-She is the most socially skilled person aboard the Tamzîr by an enormous margin. She can charm, manipulate, intimidate, and negotiate with equal facility. She is an accomplished musician, a trained herbalist, and surprisingly competent with a bow and dagger. Her network of contacts among the wealthy and powerful of multiple nations is an invaluable asset.
+She is the most socially skilled person aboard the Tamzîr by an enormous margin. She can charm, manipulate, intimidate, and negotiate with equal facility. She is an accomplished musician, a trained herbalist, and surprisingly competent with a bow and dagger. Her network of contacts among the wealthy and powerful of multiple nations is a useful asset.
 
 ### Weaknesses
 
-Théldina's emotional armor is nearly impenetrable, which isolates her from the crew and prevents genuine connection. Her pride can shade into arrogance, and she sometimes looks down on the crew's roughness in ways that create friction. Her secrets—whatever they are—make her a liability, because the crew cannot prepare for dangers they do not know exist.
+Théldina's emotional armor is nearly impenetrable, which isolates her from the crew and prevents connection. Her pride can shade into arrogance, and she sometimes looks down on the crew's roughness in ways that create friction. Her secrets—whatever they are—make her a liability, because the crew cannot prepare for dangers they do not know exist.
 
 ## Social
 
@@ -463,6 +463,6 @@ Licensed companion of the **Academy of the Silver Veil** (Heliónis). Passenger 
 
 1. **The Silver Veil's Reach**: A message arrives for Théldina from the Academy—a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzîr's interests. Théldina must choose between the institution that made her and the ragged family she has unexpectedly found.
 
-2. **A Client's Dangerous Secret**: One of Théldina's former clients contacts her desperately, claiming to possess information about the Ordo Arcanis that could protect Cibella Tamaro—but only if Théldina agrees to a meeting in a Vylarian port city crawling with imperial agents. The information may be genuine, a trap, or both.
+2. **A Client's Dangerous Secret**: One of Théldina's former clients contacts her desperately, claiming to possess information about the Ordo Arcanis that could protect Cibella Tamaro—but only if Théldina agrees to a meeting in a Vylarian port city crawling with imperial agents. The information may be real, a trap, or both.
 
 3. **The Mask Slips**: During a crisis aboard the Tamzîr, Théldina reveals combat skills and tactical knowledge that go far beyond what a courtesan—even a well-trained one—should possess. The crew begins to question who Théldina really is, and whether her presence aboard the ship is truly coincidental.

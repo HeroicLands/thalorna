@@ -424,7 +424,7 @@ As a Élavendri laborer (unskilled), Méthra occupies a recognized social niche 
 
 ### Patrons
 
-Méthra's primary patron is Local farmers and artisans who appreciate her help.. This relationship provides both opportunity and obligation.
+Méthra's primary patron is Local farmers and artisans who appreciate her help. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Few; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Laborer (unskilled)'s Dilemma**—Méthra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Laborer (unskilled)'s Dilemma**—Méthra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

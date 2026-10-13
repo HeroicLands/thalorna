@@ -458,13 +458,13 @@ Zanut is driven by the desire to heal suffering and to prove that her brother's 
 
 ### Strengths
 
-- **Exceptional Herbal and Alchemical Knowledge**: Her herblore and alchemy combine to make her extraordinarily knowledgeable about plant-based remedies. She understands the properties of hundreds of herbs, knows how to cultivate rare species, and can create complex potions and poultices of real medicinal value.
+- **Herbal and Alchemical Knowledge**: Her herblore and alchemy combine to make her extraordinarily knowledgeable about plant-based remedies. She understands the properties of hundreds of herbs, knows how to cultivate rare species, and can create complex potions and poultices of real medicinal value.
 
 - **Outstanding Medical Skill**: Her physician's training gives her formal knowledge of anatomy, diagnosis, and treatment that complements her herbal knowledge. She can diagnose complex illnesses, understand the course of a disease, and prescribe treatments that address root causes rather than mere symptoms.
 
 - **Scholarly Foundation**: Her script, folklore, heraldry, and mathematics provide the grounding that allows her to understand texts, maintain careful records, and grasp the theoretical foundations of her practice. She is well-read and capable of advanced study.
 
-- **Exceptional Reasoning and Perception**: Her reasoning and perception make her an excellent diagnostician. She can analyze complex medical situations, recognize patterns, and synthesize information from multiple sources into coherent understanding.
+- **Reasoning and Perception**: Her reasoning and perception make her an excellent diagnostician. She can analyze complex medical situations, recognize patterns, and synthesize information from multiple sources into coherent understanding.
 
 - **Combat Capability and Self-Defense**: Though not a warrior, her quickness, her archery, and her skill with a blade, combined with her dexterity, make her capable of defending herself. She is not defenseless, though she avoids violence when possible.
 

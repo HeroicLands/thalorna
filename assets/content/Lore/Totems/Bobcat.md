@@ -14,7 +14,7 @@ Secretive and cautious, bobcats are elusive hunters, using their stealth and pat
 
 ## Human Personality
 
-Elusive and careful, this individual is always cautious about their surroundings. They prefer to remain out of the spotlight and use their keen observation to make informed decisions.
+Bobcat people keep out of the light and watch their surroundings before they act. They decide from what they have seen.
 
 - **Physical:** Lean, agile physique; sharp, penetrating eyes.
 - **Behavioral:** Extremely cautious, prefers to stay under the radar, secretive.

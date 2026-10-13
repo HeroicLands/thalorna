@@ -14,7 +14,7 @@ Nocturnal and opportunistic, catfish are bottom-dwellers that take advantage of 
 
 ## Human Personality
 
-Preferring to work under the radar, this person takes advantage of situations that others might overlook. They are most active and productive in less obvious settings.
+The Catfish person works out of sight and takes the openings others pass by. Such people are most productive in places nobody is looking at.
 
 - **Physical:** Smooth skin with a slight sheen; sinuous movements.
 - **Behavioral:** Active at night, takes advantage of situations and opportunities.

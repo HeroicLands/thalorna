@@ -460,7 +460,7 @@ Razanash is motivated primarily by her commitment to her spiritual vows and to t
 
 ### Strengths
 
-- **Profound Spiritual Perception:** Razanash can sense spiritual currents, presences, and magical auras with great accuracy; she perceives patterns in dreams and signs that others miss entirely.
+- **Spiritual Perception:** Razanash can sense spiritual currents, presences, and magical auras with great accuracy; she perceives patterns in dreams and signs that others miss entirely.
 - **Master of Herbal Medicine:** Her knowledge of desert plants and their healing properties is encyclopedic; she can prepare remedies for almost any physical ailment, and her medicines are more effective than conventional healing.
 - **Skilled Diviner:** Her various divination practices—reading bones, interpreting visions, sensing auras—consistently provide accurate information about past events and probable futures.
 - **Shamanic Trance and Ritual:** She can enter deep trance states and conduct rituals that connect with spiritual forces; her ceremonies have demonstrable effects on reality.

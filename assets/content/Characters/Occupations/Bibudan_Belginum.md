@@ -402,7 +402,7 @@ Bibûdan Belginûm is a 26-year-old man who stands 5'11" tall and is of moderate
 
 Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Bibûdan Belginûm came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
-Bibûdan has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Bibûdan is known for his meticulous planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
+Bibûdan has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Bibûdan is known for his planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
 
 ## Psyche
 
@@ -428,7 +428,7 @@ As a Tarûzelian man-at-arms (sapper), Bibûdan occupies a recognized social nic
 
 ### Patrons
 
-Bibûdan's primary patron is Military leaders who require his expertise.. This relationship provides both opportunity and obligation.
+Bibûdan's primary patron is Military leaders who require his expertise. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,7 +436,7 @@ Few; respected for his skills.
 
 ## Plot Hooks
 
-1. **The Man-at-Arms (Sapper)'s Dilemma**—Bibûdan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Man-at-Arms (Sapper)'s Dilemma**—Bibûdan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Few; respected for his skills. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

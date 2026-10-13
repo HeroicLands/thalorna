@@ -182,4 +182,4 @@ The sin is the betrayal that followed. Within two years of independence the Conf
 | Warden of the Weights | The inspector of measures, coin and quality in a city's markets.                                                 |
 | zuvârum               | A city deputy: one of the Vezâkûnî's five deputies, one for each city-state.                                     |
 
-Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

@@ -430,9 +430,9 @@ Tabéso stands 6'2" tall with a heavy build. He has dark skin, dark hair, and da
 
 # Dossier {#dossier}
 
-Tabéso nu Fénjara is a renowned **tracker and hunter** from the Fénjara tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], whose people live on the forest's southern edge, where the savannah closes into gallery forest. The Nyáluba are famous for their unparalleled tracking skills, often said to be able to follow prey across both the physical and spirit realms. Tabéso grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen”—a mystical sense that allowed them to follow spiritual disturbances or beings.
+Tabéso nu Fénjara is a well known **tracker and hunter** from the Fénjara tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], whose people live on the forest's southern edge, where the savannah closes into gallery forest. The Nyáluba are famous for their tracking skills, often said to be able to follow prey across both the physical and spirit realms. Tabéso grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen”—a mystical sense that allowed them to follow spiritual disturbances or beings.
 
-Tabéso's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Tabéso was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most sought-after trackers in Xerathia.
+Tabéso's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Tabéso was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most trackers in Xerathia.
 
 When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Tabéso was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Tabéso joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
 
@@ -441,12 +441,12 @@ When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyálu
 ### Skills and Abilities
 
 - **Strength**: While Tabéso isn’t the strongest physically, his strength is well-suited to carrying out long hunts and navigating tough jungle terrain.
-- **Endurance**: His ability to survive and thrive in the harsh conditions of the jungle has given Tabéso remarkable stamina, allowing him to pursue prey for days without tiring.
+- **Endurance**: His ability to survive and thrive in the harsh conditions of the jungle has given Tabéso stamina, allowing him to pursue prey for days without tiring.
 - **Dexterity**: Tabéso is quick with his hands, whether it’s setting traps or handling his spear with expert precision.
 - **Agility**: Tabéso moves with grace and fluidity, making him almost invisible in the jungle, able to slip between trees and avoid danger with ease.
-- **Perception**: His heightened senses are his greatest asset, allowing him to see, hear, and even sense things that others cannot. This, combined with his spiritual abilities, makes him unparalleled in tracking.
+- **Perception**: His heightened senses are his greatest asset, allowing him to see, hear, and even sense things that others cannot. This, combined with his spiritual abilities, makes him unrivaled in tracking.
 - **Comeliness**: Tabéso’s appearance is unassuming, reflecting his practical nature. His looks are rugged and functional, suited to his life as a tracker and hunter.
-- **Aura**: His spiritual connection to the jungle and the unseen forces around him is profound, allowing him to interact with the spirit world in ways few others can.
+- **Aura**: His spiritual connection to the jungle and the unseen forces around him is deep, allowing him to interact with the spirit world in ways few others can.
 - **Will**: Tabéso’s calm and patient demeanor hides a deep inner strength. He remains focused on his tasks and is not easily swayed by distractions or danger.
 - **Reasoning**: Tabéso is practical and intelligent, using his knowledge of the natural world and the spirits to make sound decisions in both survival and battle.
 - **Creativity**: While not particularly imaginative, Tabéso’s experience allows him to adapt to new challenges and find effective solutions in the wild.
@@ -455,7 +455,7 @@ When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyálu
 - **Morality**: Tabéso’s connection to his culture’s spiritual and natural traditions governs his actions. He adheres to the codes of balance and respect for both the physical and spirit world.
 - **Voice**: Tabéso’s voice is surprisingly steady and clear, with a natural resonance that makes it suitable for singing traditional tribal songs during rituals and ceremonies.
 - **Tracker of the Unseen**: Tabéso’s unique family gift allows him to track both physical and spiritual entities. He can follow trails invisible to normal eyes and can sense disturbances in the spirit world that might indicate danger or the presence of spiritual entities.
-- **Survivalist**: Tabéso is an expert in survival, able to live off the land for long periods and navigate the most treacherous environments. He knows the jungles of Xerathia better than almost anyone, making him invaluable as a guide.
+- **Survivalist**: Tabéso is an expert in survival, able to live off the land for long periods and navigate the most treacherous environments. He knows the jungles of Xerathia better than almost anyone, making him useful as a guide.
 - **Spirit Hunter**: Tabéso is skilled in hunting both physical and spiritual creatures. His experience with spirit creatures, combined with his knowledge of ancient rituals, allows him to defend the group from spiritual threats that would otherwise be impossible to combat.
 
 ## Psyche
@@ -473,10 +473,10 @@ Tabéso is quiet, reserved, and deeply in tune with the world around him. His ca
 
 ## Plot Hooks
 
-1. **The Hunter Becomes the Hunted**: Tabéso’s reputation as a spirit tracker reaches the ears of a ruthless warlord who commands a small army of mercenaries. The warlord demands Tabéso’s aid in hunting a fabled spirit beast rumored to grant immortality. Refusing to help places Tabéso and his village in danger. Forced to cooperate, Tabéso must not only protect the sacred creature but also turn the hunt against the warlord, ensuring the creature remains a part of the spiritual balance.
+1. **The Hunter Becomes the Hunted**: Tabéso’s reputation as a spirit tracker reaches the ears of a ruthless warlord who commands a small army of mercenaries. The warlord demands Tabéso’s aid in hunting a fabled spirit beast rumored to grant immortality. Refusing to help places Tabéso and his village in danger. Forced to cooperate, Tabéso must not only protect the sacred creature but also turn the hunt against the warlord, so the creature remains a part of the spiritual balance.
 
-2. **The Jungle’s Last Stand**: A series of unnatural events—trees falling overnight, animals fleeing their habitats—suggest a deeper disturbance in the Xerathian jungles. Tabéso discovers that an ancient spirit, angered by the desecration of its sacred grounds, is punishing the land. As the tribes face dwindling resources and increasing conflict, Tabéso must convince rival tribes to unify in an intricate ritual to appease the spirit. Failure could lead to the spirit unleashing catastrophic floods across the jungle.
+2. **The Jungle’s Last Stand**: A series of unnatural events—trees falling overnight, animals fleeing their habitats—suggest a deeper disturbance in the Xerathian jungles. Tabéso discovers that an ancient spirit, angered by the desecration of its sacred grounds, is punishing the land. As the tribes face dwindling resources and increasing conflict, Tabéso must convince rival tribes to unify in a ritual to appease the spirit. Failure could lead to the spirit unleashing catastrophic floods across the jungle.
 
 3. **The Panther’s Return**: The spirit panther Tabéso defeated years ago begins to appear in his dreams, warning him of an impending spiritual imbalance. This time, the creature is not his adversary but a guide, leading him toward a hidden temple that holds the key to stabilizing the jungle’s fragile harmony. Along the way, Tabéso faces challengers who see his connection to the panther as a sign of weakness, testing his leadership and resolve.
 
-4. **The Spear of Ishuara**: A legendary artifact, the Spear of Ishuara, is said to possess the power to destroy even the most dangerous spiritual creatures. When an outsider attempts to claim the spear for personal gain, Tabéso must protect the artifact while confronting his tribe’s mistrust of outsiders. The journey to secure the spear leads him to uncover the truth about his family’s lineage and their role as guardians of the spiritual world.
+4. **The Spear of Ishuara**: An artifact, the Spear of Ishuara, is said to possess the power to destroy even the most dangerous spiritual creatures. When an outsider attempts to claim the spear for personal gain, Tabéso must protect the artifact while confronting his tribe’s mistrust of outsiders. The journey to secure the spear leads him to uncover the truth about his family’s lineage and their role as guardians of the spiritual world.

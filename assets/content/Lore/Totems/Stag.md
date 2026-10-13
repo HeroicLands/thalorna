@@ -14,7 +14,7 @@ Proud and vigilant, stags are territorial animals that display their strength an
 
 ## Human Personality
 
-Proud and steadfast, this person is highly aware of their strengths and maintains a vigilant stance. They display their capabilities confidently and are protective of their territory.
+The Stag person is proud and steady, knows their own strengths and stays on guard. Capabilities are shown with confidence, and territory is defended.
 
 - **Physical:** Strong, proud stance; alert and watchful eyes.
 - **Behavioral:** Proud, vigilant, always aware of surroundings.

@@ -398,7 +398,7 @@ Khurûtûsh Kalûrûm is a 45-year-old man who stands 6'1" tall and is of modera
 
 Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Khurûtûsh Kalûrûm came into the world of the swordmaster through a combination of circumstance and aptitude.
 
-Khurûtûsh is a veteran swordsman who once served as a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Khurûtûsh takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
+Khurûtûsh is a veteran swordsman who once was a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Khurûtûsh takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
 
 ## Psyche
 
@@ -424,7 +424,7 @@ As a Tarûzelian swordmaster, Khurûtûsh occupies a recognized social niche wit
 
 ### Patrons
 
-Khurûtûsh's primary patron is Wealthy nobles who hire him to train their children.. This relationship provides both opportunity and obligation.
+Khurûtûsh's primary patron is Wealthy nobles who hire him to train their children. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Rival swordmasters who challenge his reputation.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma**—Khurûtûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Swordmaster's Dilemma**—Khurûtûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Rival swordmasters who challenge his reputation. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

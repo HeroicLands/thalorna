@@ -429,11 +429,11 @@ Dôrashkâr was born in a small village on the margins of the [[affiliation-byza
 
 ### Training and Apprenticeship
 
-At fourteen, Dôrashkâr was contracted as a kitchen assistant to **Master Chef Valisar**, one of the most renowned cooks in the Byzarian League's greatest city. Valisar was a harsh but magnificent teacher who believed that cooking was a form of alchemy and that every student must understand both the philosophy and the mechanics of their craft. For twenty years, Dôrashkâr worked under Valisar's exacting eye, rising from chopping vegetables to planning entire feasts for the city's elite. Valisar taught him that true mastery came not from endless complexity but from perfect execution of fundamental technique and deep understanding of ingredients. When Valisar passed into age and retirement, he recommended Dôrashkâr to the proprietor of the **Copper Kettle**, a renowned tavern in a major trading city, where Dôrashkâr has now established himself for the past several years.
+At fourteen, Dôrashkâr was contracted as a kitchen assistant to **Master Chef Valisar**, one of the best known cooks in the Byzarian League's greatest city. Valisar was a harsh but magnificent teacher who believed that cooking was a form of alchemy and that every student must understand both the philosophy and the mechanics of their craft. For twenty years, Dôrashkâr worked under Valisar's exacting eye, rising from chopping vegetables to planning entire feasts for the city's elite. Valisar taught him that true mastery came not from endless complexity but from perfect execution of fundamental technique and deep understanding of ingredients. When Valisar passed into age and retirement, he recommended Dôrashkâr to the proprietor of the **Copper Kettle**, a tavern in a major trading city, where Dôrashkâr has now established himself for the past several years.
 
 ### Current Situation
 
-At the **Copper Kettle**, Dôrashkâr has transformed a decent tavern kitchen into a destination for merchants, scholars, and travelers who know that exceptional food can be found there. He works with whatever the local markets provide, never compromising on quality regardless of cost, and has built relationships with local farmers and suppliers who save their finest goods for him. He works longer hours than almost anyone else at the tavern, preparing stocks and doughs in the pre-dawn hours and maintaining the kitchen until well past the dinner service. He has refused several offers to train new cooks, claiming he lacks the patience for teaching, though the truth is more complex—he fears that showing others his methods would somehow diminish the sacred nature of his work.
+At the **Copper Kettle**, Dôrashkâr has transformed a decent tavern kitchen into a destination for merchants, scholars, and travelers who know that food can be found there. He works with whatever the local markets provide, never compromising on quality regardless of cost, and has built relationships with local farmers and suppliers who save their finest goods for him. He works longer hours than almost anyone else at the tavern, preparing stocks and doughs in the pre-dawn hours and maintaining the kitchen until well past the dinner service. He has refused several offers to train new cooks, claiming he lacks the patience for teaching, though the truth is more complex—he fears that showing others his methods would somehow diminish the sacred nature of his work.
 
 ## Psyche
 
@@ -441,11 +441,11 @@ At the **Copper Kettle**, Dôrashkâr has transformed a decent tavern kitchen in
 
 Dôrashkâr is a man of passionate, contained intensity. In the kitchen, he is fully present—every movement precise, every decision made with certainty, every ingredient treated with respect. Outside the kitchen, he is quieter, more reserved, as if the intensity required in his work has consumed the portion of himself available for broad socializing. He is not unfriendly, but neither is he particularly outgoing. He speaks in measured tones, often pausing mid-sentence to consider his words, and he has a tendency to become distracted when discussing subjects other than food. With those who understand cooking, however, he opens up considerably, and conversations about technique, ingredients, or the philosophy of flavor can draw him into hours of passionate discourse.
 
-His relationship with the god **Ústaron** is not one of formal piety but of genuine kinship. He sees in Ústaron's domain—fire, forge, transformation—a perfect mirror of his own work. Each meal is a kind of alchemy, raw ingredients transformed through heat and knowledge into sustenance that nourishes both body and spirit. He approaches his work as a form of prayer, a daily dedication to excellence and care.
+His relationship with the god **Ústaron** is not one of formal piety but of kinship. He sees in Ústaron's domain—fire, forge, transformation—a perfect mirror of his own work. Each meal is a kind of alchemy, raw ingredients transformed through heat and knowledge into sustenance that nourishes both body and spirit. He approaches his work as a form of prayer, a daily dedication to excellence and care.
 
 ### Motivation
 
-Dôrashkâr is driven by the conviction that food is one of humanity's greatest joys and that those who prepare it hold a sacred responsibility. He seeks to prove that exceptional food can be created anywhere, using whatever is available, if one possesses sufficient skill and dedication. On a personal level, he is haunted by the memory of his mother's frugal meals and driven to ensure that others never experience the deprivation of his childhood. He also harbors an unspoken desire for recognition—not the shallow accolades of the wealthy, but genuine acknowledgment from those who truly understand cooking that he is among the masters of his craft. He dreams, quietly, of one day writing a comprehensive treatise on cooking that would preserve and share the techniques and philosophies that Master Valisar imparted to him.
+Dôrashkâr is driven by the conviction that food is one of humanity's greatest joys and that those who prepare it hold a sacred responsibility. He seeks to prove that food can be created anywhere, using whatever is available, if one possesses sufficient skill and dedication. On a personal level, he is haunted by the memory of his mother's frugal meals and driven to see that others never experience the deprivation of his childhood. He also harbors an unspoken desire for recognition—not the shallow accolades of the wealthy, but acknowledgment from those who truly understand cooking that he is among the masters of his craft. He dreams, quietly, of one day writing a comprehensive treatise on cooking that would preserve and share the techniques and philosophies that Master Valisar imparted to him.
 
 ### Strengths
 
@@ -459,7 +459,7 @@ Dôrashkâr is driven by the conviction that food is one of humanity's greatest 
 ### Weaknesses
 
 - **Social Anxiety and Isolation**: His single-minded focus on cooking has left him socially awkward and somewhat isolated from broader community involvement. He struggles in situations requiring extensive social navigation or political finesse.
-- **Imposter Syndrome**: Despite his genuine mastery, he chronically underestimates his own talent and remains convinced that true masters (like his beloved Master Valisar) were somehow superior to him. He is vulnerable to criticism and quick to blame himself for any imperfection.
+- **Imposter Syndrome**: Despite his mastery, he chronically underestimates his own talent and remains convinced that true masters (like his beloved Master Valisar) were somehow superior to him. He is vulnerable to criticism and quick to blame himself for any imperfection.
 - **Limited Combat Training**: His sedentary kitchen work has left him without strength beyond the moderate level, and he has no training whatsoever in combat or self-defense. Physical confrontation would terrify him.
 - **Perfectionism and Rigidity**: His exacting standards can make him difficult to work with in the kitchen. He can become frustrated with others who don't share his commitment to perfection, leading to harsh words and alienation.
 - **Fear of Change**: Despite his creativity within cooking, he is surprisingly conservative about trying new approaches or leaving the comfortable structure of the **Copper Kettle**. He has turned down opportunities that might have advanced his reputation due to fear of the unknown.
@@ -491,14 +491,14 @@ The Synthetic Food Consortium
 ### Affiliations
 
 The Copper Kettle Tavern
-: His primary workplace and the center of his professional identity.
+: His primary workplace and the center of his working life.
 
 Informal Network of Master Cooks
 : Through reputation and occasional encounters, he maintains loose connections with other skilled cooks throughout the Byzarian League, though he rarely formalizes these relationships.
 
 ## Plot Hooks
 
-1. **The Lost Recipe of the Ages**: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but genuine magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Ghupifazûr**, seeks Dôrashkâr's help to reconstruct and test these ancient recipes. Success could elevate Dôrashkâr's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
+1. **The Lost Recipe of the Ages**: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Ghupifazûr**, seeks Dôrashkâr's help to reconstruct and test these ancient recipes. Success could elevate Dôrashkâr's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
 
 2. **The Culinary Competition**: The Council of the Byzarian League announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dôrashkâr's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
 

@@ -405,7 +405,7 @@ Jólren Álvianar is a 31-year-old man who stands 6'0" tall and is of moderate b
 
 Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Jólren Álvianar came into the world of the mason through a combination of circumstance and aptitude.
 
-Jólren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with intricate details and artistic flair. Jólren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
+Jólren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with details and artistic flair. Jólren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
 
 ## Psyche
 
@@ -431,7 +431,7 @@ As a Tarvénan mason, Jólren occupies a recognized social niche within Tarvéni
 
 ### Patrons
 
-Jólren's primary patron is Local builders and architects seeking quality craftsmanship.. This relationship provides both opportunity and obligation.
+Jólren's primary patron is Local builders and architects seeking quality craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -439,7 +439,7 @@ Few; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Mason's Dilemma**—Jólren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Mason's Dilemma**—Jólren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Few; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Kývarel is a barony in the western valleys of the [[place-zuravlenrgn|Zûravlen]] seaboard, and it is held together with the barony of Zûravlen by **Álegar alrí Zûravel**, who sits at [[place-mercadaure|Mercadaure]]. Its people are farmers and fruit-growers, and they will talk to any factor about their yields.
+Kývarel is a barony in the western valleys of the [[place-zuravlenrgn|Zûravlen]] seaboard, and it is held together with the barony of Zûravlen by **Álegar alrí Zûravel**, who sits at [[place-elthrembis|Elthrembìs]]. Its people are farmers and fruit-growers, and they will talk to any factor about their yields.
 
 ## The Field Nobody Discusses
 
@@ -30,4 +30,4 @@ The best land in the barony is the [[place-bldfldkyvarel|Blood-field of Kývarel
 
 - [[place-bldfldkyvarel|Blood-field of Kývarel]]—the quickened field in the barony
 - [[place-zuravlenrgn|Zûravlen]]—the seaboard and barony held with it
-- [[place-mercadaure|Mercadaure]]—the baron's seat
+- [[place-elthrembis|Elthrembìs]]—the baron's seat

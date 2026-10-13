@@ -101,12 +101,12 @@ Tarvénan women frequently retain their birth names after marriage, and in some 
 
 ## Male Given Names
 
-Alváren, Ránzio, Férrik, Tárel, Gonzárik, Álbrath, Dílaren, Rodrén, Garváneth, Bérnaro, Rámilo, Thárrez, Júlrek, Dómrik, Tavíro, Gérdan, Álverrik, Félmar, Estáril, Ívarno, Hónrik, Dílor, Mórezan, Ríkaris, Élsaro, Floréth, Gálver, Nátaren, Ródthal, Tórsaro, Bánrik, Gónthar, Lúkasen, Vánrik, Thélio, Járven, Mársel, Dómeth, Alvárik, Ténar, Hálrikos, Pédroth, Valáren, Kólrith, Sánrik, Jólren, Rúnaric, Lórsaro, Fárnio, Gésrik
+Alváren, Ránzio, Férrik, Tárel, Gurzánik, Álbrath, Dílaren, Kaldrén, Garváneth, Hornáro, Zelmíro, Thárrez, Orvék, Dómrik, Tavíro, Gérdan, Álverrik, Félmar, Estáril, Ívarno, Hónrik, Dílor, Mórezan, Ríkaris, Élsaro, Lizéth, Gálver, Nátaren, Ródthal, Tórsaro, Bánrik, Gónthar, Ukáren, Vánrik, Thélio, Járven, Hesmár, Dómeth, Alvárik, Ténar, Hálrikos, Gérthan, Valáren, Kólrith, Vélmar, Jólren, Rúnaric, Lórsaro, Fárnio, Gésrik
 
 ## Female Given Names
 
-Élara, Jiménael, Alária, Sofíenna, Táresa, Félina, Álvara, Bélenia, Isáris, Rósena, Tárilla, Éstara, Maríela, Júlena, Dálina, Eléris, Társia, Grácena, Rémila, Thária, Álmera, Lívana, Cárisa, Dórisa, Floríenna, Lucíra, Sélara, Márietha, Gálinda, Vióra, Lórena, Nátalia, Ánira, Estára, Pálina, Ríthara, Thalísa, Írella, Fálora, Grénia, Valéna, Miríanda, Lídara, Júlisa, Thésia, Cárenna, Evária, Távora, Sírella, Zórila
+Élara, Vilmára, Alária, Aléthra, Auvéla, Félina, Álvara, Bélenia, Uthéris, Lisméra, Tárilla, Éstara, Nevíra, Ilséna, Dálina, Eléris, Társia, Haldéna, Rémila, Thária, Álmera, Lívana, Cárisa, Dórisa, Floríenna, Zulíra, Sélara, Bevétha, Gálinda, Vióra, Dornésa, Hirálda, Ánira, Estára, Pálina, Ríthara, Eldíra, Írella, Fálora, Grénia, Valéna, Miríanda, Lídara, Ilmára, Thésia, Cárenna, Evária, Távora, Sírella, Zórila
 
 ## Clan Names
 
-Desolárdran—"Children of the Sun", Álvianar—"Noble Aspiration", Torvaleth—"From the Vale of Towers", Bránthira—"Flame of the Ravens", Róseneth—"Field of Roses", Valárion—"The Chosen Ones", Estánthar—"Guardians of the Eastern Star", Gráveth—"From the Gray Highlands", Castírenna—"Keepers of the Castle", Thalídran—"The Deep River People", Floréscar—"The Blooming Fields", Lóriseth—"From the Golden Forest", Delvánor—"The Bright Plains", Maríthran—"Lords of the Sea-Bright", Árenthal—"Eagles of the Mountain", Sánriceth—"Sacred Riches", Tárvallor—"Defenders of the Tower", Cáriselda—"Carved in Stone", Jútharen—"The Loyal Sons", Dómivar—"The Eternal Judges"
+Desolárdran—"Children of the Sun", Álvianar—"Noble Aspiration", Torvaleth—"From the Vale of Towers", Bránthira—"Flame of the Ravens", Róseneth—"Field of Roses", Valárion—"The Chosen Ones", Estánthar—"Guardians of the Eastern Star", Gráveth—"From the Gray Highlands", Durgána—"Keepers of the Castle", Thalídran—"The Deep River People", Floréscar—"The Blooming Fields", Lóriseth—"From the Golden Forest", Delvánor—"The Bright Plains", Ornéthran—"Lords of the Sea-Bright", Árenthal—"Eagles of the Mountain", Sánriceth—"Sacred Riches", Tárvallor—"Defenders of the Tower", Cáriselda—"Carved in Stone", Jútharen—"The Loyal Sons", Dómivar—"The Eternal Judges"

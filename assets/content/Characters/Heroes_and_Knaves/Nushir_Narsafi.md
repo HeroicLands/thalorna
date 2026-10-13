@@ -467,7 +467,7 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 - **Precise Technical Knowledge**: Her decades of work have given her intuitive mastery of the variables affecting her craft. She can judge temperature by sight alone, diagnose problems in products before they become apparent, and execute techniques with exacting precision.
 
-- **Efficient Production**: Despite her small operation, Nushir produces a volume of goods that would require significantly more staff elsewhere, managing through careful organization and elimination of waste.
+- **Steady Production**: Despite her small operation, Nushir produces a volume of goods that would require significantly more staff elsewhere, managing through careful organization and elimination of waste.
 
 - **Established Reputation**: Her name is synonymous with quality throughout the region, and those who truly value excellence continue to seek her products regardless of price.
 

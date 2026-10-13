@@ -8,7 +8,7 @@ data: {banner: null}
 # terran_analog: Provenzal is patterned on Occitan and Galician-Portuguese in tone (open vowels, liquids, consonants softened between vowels, nasal vowels from a lost n, finals worn to -a and a support -e), as a Romance tongue of the coast, with a layer of learned words taken back from the empire's law books like the learned doublets of the Romance tongues, and a layer of poetic loans from the north. Every inherited word is derived by the tables below from an ancient Vylari root in its accusative, and every loan from a row of the Vylari or Élavendri lexicon; every word is checked against Earth word lists.
 ---
 
-In a merchant's house in [[place-lunacorte|Lunacòrte]], a boy of twelve is learning to say the same thing twice. His tutor gives him a word, _nazdàl_, the court where his father's suits are heard, and then its learned twin, _nazdàlo_, the court of record the notaries write in; then _dochème_, a speech, and _dochèmo_, an oration of the kind the academies teach. By the end of the lesson he can hear which of the two a man has chosen, and why, and what it says about him. That is most of what a Provenzian education is for.
+In a merchant's house in [[place-jalnazdal|Jalnazdàl]], a boy of twelve is learning to say the same thing twice. His tutor gives him a word, _nazdàl_, the court where his father's suits are heard, and then its learned twin, _nazdàlo_, the court of record the notaries write in; then _dochème_, a speech, and _dochèmo_, an oration of the kind the academies teach. By the end of the lesson he can hear which of the two a man has chosen, and why, and what it says about him. That is most of what a Provenzian education is for.
 
 This is the word-hoard of [[skill-provnzlng|Provenzal]], the tongue of the [[lore-provenzianclt|Provenzians]]. It is the daughter of ancient Vylari that changed most in its sounds. It lost every case ending, made articles of all three of the old pointing words, softened its consonants between vowels and let the `n` between two vowels fall, leaving the vowel before it nasal. It has taken words twice from outside. The empire's law books gave it a learned layer, so that many words stand in two forms, the inherited one and the one the notaries took back. The fey-touched north gave it the words for light, dream, longing and song, which is why its lyric sounds like no other tongue's.
 
@@ -498,6 +498,14 @@ The country around each city is vineyard and orchard and the river that carries 
 | `elvàne`    | elavendri:`élvanë`   | n m   | weather, as a song speaks of it            | —          | —        |
 | `auremèl`   | elavendri:`áuremel`  | n m   | summer, in a lyric                         | —          | —        |
 | `perranèl`  | elavendri:`pérranel` | n m   | autumn, in a lyric                         | —          | —        |
+| `kalvèza`   | `*kâlpêzâ`           | n f   | a gate                                     | —          | —        |
+| `lizèla`    | `*lîzêlâ`            | n f   | a flower                                   | —          | —        |
+| `sathèr`    | `*sathêrôs`          | n m   | a wind                                     | —          | —        |
+| `kiràme`    | `*kirâmôs`           | adj   | bright; famous                             | —          | —        |
+| `talòthe`   | `*talôthôs`          | n m   | a standing stone; a boundary stone         | —          | —        |
+| `pirvèl`    | `*pîrkêlôs`          | n f   | an olive tree                              | —          | —        |
+| `torvìla`   | `*thôrgilâ`          | n f   | a tower                                    | —          | —        |
+| `melvàr`    | `*mêlwar`            | adj   | great                                      | —          | —        |
 
 ### The harbor and the sea
 
@@ -687,14 +695,14 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Chýnara Kórisvar**                    | [[being-chynrkrsvr\|Chýnara Kórisvar]]                                                                                  | `provenzal`   | —           |
 | **Fárila Válskyr**                      | [[being-farlvlskyr\|Fárila Válskyr]]                                                                                    | `provenzal`   | —           |
 | **Frýsala Válskyr**                     | [[being-fryslvlskyr\|Frýsala Válskyr]]                                                                                  | `provenzal`   | —           |
-| **Gália Rálwen**                        | [[being-galiaralwn\|Gália Rálwen]]                                                                                      | `provenzal`   | —           |
+| **Ilvéna Rálwen**                       | [[being-ilvnralwn\|Ilvéna Rálwen]]                                                                                      | `provenzal`   | —           |
 | **Hârlak Válskyr**                      | [[being-hrlkvlskyr\|Hârlak Válskyr]]                                                                                    | `provenzal`   | —           |
 | **Járaen Lýskal**                       | [[being-jaranlyskl\|Járaen Lýskal]]                                                                                     | `provenzal`   | —           |
 | **Kírisa Zýrand**                       | [[being-kiriszyrnd\|Kírisa Zýrand]]                                                                                     | `provenzal`   | —           |
 | **Lýraen Válskyr**                      | [[being-lyrnvlskyr\|Lýraen Válskyr]]                                                                                    | `provenzal`   | —           |
 | **Lýrena Tólgen**                       | [[being-lyrenatlgn\|Lýrena Tólgen]]                                                                                     | `provenzal`   | —           |
 | **Nílara Tólgen**                       | [[being-nilaratlgn\|Nílara Tólgen]]                                                                                     | `provenzal`   | —           |
-| **Óskar Brýlond**                       | [[being-oskrbrylnd\|Óskar Brýlond]]                                                                                     | `provenzal`   | —           |
+| **Órdan Brýlond**                       | [[being-ordnbrylnd\|Órdan Brýlond]]                                                                                     | `provenzal`   | —           |
 | **Rýlden Brânwyld**                     | [[being-ryldnbrnwyld\|Rýlden Brânwyld]]                                                                                 | `provenzal`   | —           |
 | **Târlig Tólgen**                       | [[being-tarligtlgn\|Târlig Tólgen]]                                                                                     | `provenzal`   | —           |
 | **Thâven Fárwèn**                       | [[being-thavenfrwn\|Thâven Fárwèn]]                                                                                     | `provenzal`   | —           |
@@ -754,13 +762,13 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Captain**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-slntlncmpny\|The Silent Talon Company]]                 | `translation` | —           |
 | **Serjeant**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
 | **Manorial Officer**                    | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
-| **Belpòrte**                            | [[place-belporte\|Belpòrte]]                                                                                            | `provenzal`   | —           |
+| **Kalvèza**                             | [[place-kalveza\|Kalvèza]]                                                                                              | `provenzal`   | —           |
 | **Blood-field of Calvènza**             | [[place-bldfldcalvenza\|Blood-field of Calvènza]]                                                                       | `translation` | —           |
 | **Dégavel**                             | [[place-degavel\|Dégavel]]                                                                                              | `provenzal`   | —           |
-| **Fiòrdaure**                           | [[place-fiordaure\|Fiòrdaure]]                                                                                          | `provenzal`   | —           |
-| **Lunacòrte**                           | [[place-lunacorte\|Lunacòrte]]                                                                                          | `provenzal`   | —           |
-| **Meridiàna**                           | [[place-meridiana\|Meridiàna]]                                                                                          | `provenzal`   | —           |
-| **Monvèrdre**                           | [[place-monverdre\|Monvèrdre]]                                                                                          | `provenzal`   | —           |
+| **Lizèla**                              | [[place-lizela\|Lizèla]]                                                                                                | `provenzal`   | —           |
+| **Jalnazdàl**                           | [[place-jalnazdal\|Jalnazdàl]]                                                                                          | `provenzal`   | —           |
+| **Korvathìs**                           | [[place-korvathis\|Korvathìs]]                                                                                          | `provenzal`   | —           |
+| **Palvòthe**                            | [[place-palvothe\|Palvòthe]]                                                                                            | `provenzal`   | —           |
 | **Shrine of Thúravel Hills**            | [[place-shrinethuravelhills\|Shrine of Thúravel Hills]]                                                                 | `translation` | —           |
 | **Thornwood**                           | [[place-thornwood\|Thornwood]]                                                                                          | `translation` | —           |
 | **Thúravel Hills**                      | [[place-thuravelhills\|Thúravel Hills]]                                                                                 | `translation` | —           |
@@ -769,19 +777,19 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Provenzia**                           | [[place-provenzrgn\|Provènzia Region]]                                                                                  | `provenzal`   | —           |
 | **Ravenshold**                          | [[place-ravenshold\|Ravenshold]]                                                                                        | `translation` | —           |
 | **Bélsaren**                            | [[place-belsaren\|Bélsaren]]                                                                                            | `provenzal`   | —           |
-| **Blood-field of Serravel**             | [[place-bldfldserravel\|Blood-field of Serravel]]                                                                       | `translation` | —           |
+| **Blood-field of Malnebrìs**            | [[place-bldfldmalnebris\|Blood-field of Malnebrìs]]                                                                     | `translation` | —           |
 | **Blood-field of Tiravlen**             | [[place-bldfldtiravlen\|Blood-field of Tiravlen]]                                                                       | `translation` | —           |
 | **Caêr Céravel**                        | [[place-caerceravel\|Caêr Céravel]]                                                                                     | `provenzal`   | —           |
 | **Céravel Castle**                      | [[place-caerceravel\|Caêr Céravel]]                                                                                     | `translation` | —           |
 | **Céravel Vale**                        | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `translation` | —           |
 | **Céravel**                             | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `provenzal`   | —           |
 | **Vale of Céravel**                     | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `translation` | —           |
-| **Chastèlclair**                        | [[place-chastelclr\|Chastèlclair]]                                                                                      | `provenzal`   | —           |
+| **Durvalìs**                            | [[place-durvalis\|Durvalìs]]                                                                                            | `provenzal`   | —           |
 | **Ilóvren**                             | [[place-ilovren\|Ilóvren]]                                                                                              | `provenzal`   | —           |
 | **Lake Tiravel**                        | [[place-tiravellake\|Lake Tiravel]]                                                                                     | `translation` | —           |
 | **Léravren**                            | [[place-leravren\|Léravren]]                                                                                            | `provenzal`   | —           |
-| **Sèrramarca**                          | [[place-serramarca\|Sèrramarca]]                                                                                        | `provenzal`   | —           |
-| **Valcèrise**                           | [[place-valcerise\|Valcèrise]]                                                                                          | `provenzal`   | —           |
+| **Talòthe**                             | [[place-talothe\|Talòthe]]                                                                                              | `provenzal`   | —           |
+| **Pirnebrìs**                           | [[place-pirnebris\|Pirnebrìs]]                                                                                          | `provenzal`   | —           |
 | **Batáren City**                        | [[place-batarencity\|Batáren City]]                                                                                     | `translation` | —           |
 | **Blood-field of Yhârvalen**            | [[place-bldfldyharvalen\|Blood-field of Yhârvalen]]                                                                     | `translation` | —           |
 | **Gulf of Batáren**                     | [[place-batarengulf\|Gulf of Batáren]]                                                                                  | `translation` | —           |
@@ -790,16 +798,16 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Mount Hýdraven**                      | [[place-hydravenmnt\|Mount Hýdraven]]                                                                                   | `translation` | —           |
 | **Sirmennë**                            | [[place-sirmenne\|Sirmennë]]                                                                                            | `provenzal`   | —           |
 | **Temporal Compass**                    | [[miscgear-temprlcmpss\|Temporal Compass]]                                                                              | `translation` | —           |
-| **Tramontàna**                          | [[place-tramontana\|Tramontàna]]                                                                                        | `provenzal`   | —           |
+| **Sathvòthe**                           | [[place-sathvothe\|Sathvòthe]]                                                                                          | `provenzal`   | —           |
 | **Yhârvalen Henge**                     | [[place-yharvalenhenge\|Yhârvalen Henge]]                                                                               | `translation` | —           |
 | **Blavéra**                             | [[place-blavera\|Blavéra]]                                                                                              | `provenzal`   | —           |
 | **Blood-field of Kývarel**              | [[place-bldfldkyvarel\|Blood-field of Kývarel]]                                                                         | `translation` | —           |
 | **Estivren**                            | [[place-estivren\|Estivren]]                                                                                            | `provenzal`   | —           |
 | **Hárivren City**                       | [[place-harivrencity\|Hárivren City]]                                                                                   | `translation` | —           |
 | **Kývarel**                             | [[place-kyvarel\|Kývarel]]                                                                                              | `provenzal`   | —           |
-| **Mercadaure**                          | [[place-mercadaure\|Mercadaure]]                                                                                        | `provenzal`   | —           |
-| **Portvent**                            | [[place-portvent\|Portvent]]                                                                                            | `provenzal`   | —           |
-| **Vergéval**                            | [[place-vergeval\|Vergéval]]                                                                                            | `provenzal`   | —           |
+| **Elthrembìs**                          | [[place-elthrembis\|Elthrembìs]]                                                                                        | `provenzal`   | —           |
+| **Volsathèr**                           | [[place-volsather\|Volsathèr]]                                                                                          | `provenzal`   | —           |
+| **Palnebrìs**                           | [[place-palnebris\|Palnebrìs]]                                                                                          | `provenzal`   | —           |
 | **Zûravlen Region**                     | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `translation` | —           |
 | **Zûravlen**                            | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `provenzal`   | —           |
 | **The Peach Country**                   | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `translation` | —           |
@@ -833,9 +841,9 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **The Silent Talon Company**            | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
 | **The Theater Collective**              | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
 | **Veteran**                             | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
-| **Giochi Grandi**                       | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `provenzal`   | —           |
-| **Provenzian Grand Games**              | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `translation` | —           |
-| **The Grand Games**                     | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `translation` | —           |
+| **Lordhème**                            | [[lore-lordheme\|Lordhème]]                                                                                             | `provenzal`   | —           |
+| **Provenzian Grand Games**              | [[lore-lordheme\|Lordhème]]                                                                                             | `translation` | —           |
+| **The Grand Games**                     | [[lore-lordheme\|Lordhème]]                                                                                             | `translation` | —           |
 | **Earldom of Hárivren**                 | [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                                                                         | `translation` | —           |
 | **Subject**                             | [[affiliation-brnyzrvln\|Barony of Zûravlen]], [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                          | `translation` | —           |
 | **Barony of Zûravlen**                  | [[affiliation-brnyzrvln\|Barony of Zûravlen]]                                                                           | `translation` | —           |
@@ -850,9 +858,9 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **The Battle of Céravel's Blood Hills** | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                                                                   | `translation` | —           |
 | **The Blood Hills**                     | [[place-bloodhills\|The Blood Hills]], [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                            | `translation` | —           |
 | **Céravel's Blood Hills**               | [[place-bloodhills\|The Blood Hills]]                                                                                   | `translation` | —           |
-| **Serravel**                            | [[lore-serravelbtl\|Serravel]]                                                                                          | `provenzal`   | —           |
-| **The First Great Raid**                | [[lore-serravelbtl\|Serravel]]                                                                                          | `translation` | —           |
-| **The First Raid**                      | [[lore-serravelbtl\|Serravel]]                                                                                          | `translation` | —           |
+| **Malnebrìs**                           | [[lore-malnebris\|Malnebrìs]]                                                                                           | `provenzal`   | —           |
+| **The First Great Raid**                | [[lore-malnebris\|Malnebrìs]]                                                                                           | `translation` | —           |
+| **The First Raid**                      | [[lore-malnebris\|Malnebrìs]]                                                                                           | `translation` | —           |
 | **The War of the Charter**              | [[lore-charterwar\|The War of the Charter]]                                                                             | `translation` | —           |
 | **The Nine Years' Refusal**             | [[lore-charterwar\|The War of the Charter]]                                                                             | `translation` | —           |
 | **The War of the Princes**              | [[lore-warprinces\|The War of the Princes]]                                                                             | `translation` | —           |
@@ -888,5 +896,22 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 
 A retired name is one the setting does not write. Each stands below with the name written in its place, and no page writes it.
 
-| Retired | Written instead | Why |
-| ------- | --------------- | --- |
+| Retired         | Written instead | Why                                                               |
+| --------------- | --------------- | ----------------------------------------------------------------- |
+| `Belpòrte`      | `Kalvèza`       | a name built of words of an Earth tongue, for the fair gate       |
+| `Fiòrdaure`     | `Lizèla`        | a name built of words of an Earth tongue, for the golden flower   |
+| `Lunacòrte`     | `Jalnazdàl`     | a name built of words of an Earth tongue, for the moon court      |
+| `Monvèrdre`     | `Palvòthe`      | a name built of words of an Earth tongue, for the green hill      |
+| `Chastèlclair`  | `Durvalìs`      | a name built of words of an Earth tongue, for the bright fort     |
+| `Sèrramarca`    | `Talòthe`       | a name built of words of an Earth tongue, for the boundary hills  |
+| `Valcèrise`     | `Pirnebrìs`     | a name built of words of an Earth tongue, for the olive valley    |
+| `Portvent`      | `Volsathèr`     | a name built of words of an Earth tongue, for the windy harbor    |
+| `Mercadaure`    | `Elthrembìs`    | a name built of words of an Earth tongue, for the golden square   |
+| `Serravel`      | `Malnebrìs`     | a name built of words of an Earth tongue, for the hill valley     |
+| `Vergéval`      | `Palnebrìs`     | a name built of words of an Earth tongue, for the green valley    |
+| `Meridiàna`     | `Korvathìs`     | a name built of words of an Earth tongue, for the sunward country |
+| `Tramontàna`    | `Sathvòthe`     | a name built of words of an Earth tongue, for the wind hills      |
+| `Giochi Grandi` | `Lordhème`      | a name built of words of an Earth tongue, for the great festival  |
+| `Óskar`         | `Órdan`         | an Earth personal name                                            |
+| `Ándren`        | `Ádrel`         | an Earth personal name                                            |
+| `Márek`         | `Sóren`         | an Earth personal name                                            |

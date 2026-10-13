@@ -425,7 +425,7 @@ As a Vylarian innkeeper, Chéagan occupies a recognized social niche within Vyla
 
 ### Patrons
 
-Chéagan's primary patron is Local farmers and traveling merchants.. This relationship provides both opportunity and obligation.
+Chéagan's primary patron is Local farmers and traveling merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ None; respected by the community.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Chéagan faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Innkeeper's Dilemma**—Chéagan faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—None; respected by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

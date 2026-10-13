@@ -9,4 +9,4 @@ tags: [draft]
 data: {culture: aureldianclt, packFolder: deitiesaureldian}
 ---
 
-Sélmoros, the Silent Judge, is the deity of death in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a black gate adorned with skeletal vines. Worship is kept in the [[affiliation-selmoros|Faith of Sélmoros]], a temple priesthood of acolytes in training, ordained clergy and the Pontifex Mortis above them; the lay faithful keep the feasts without office.
+Sélmoros, the Silent Judge, is the deity of death in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a black gate adorned with skeletal vines. Worship is kept in the [[affiliation-selmoros|Faith of Sélmoros]], a temple priesthood of acolytes in training, ordained clergy and the Kolsarn above them; the lay faithful keep the feasts without office.

@@ -415,7 +415,7 @@ Féthar grew up in a landlocked river town in northern [[place-provenzrgn|Provè
 
 ### Finding the Sea
 
-At seventeen, Féthar left home with his family's reluctant blessing, traveling south to the Provenzian coast where he apprenticed himself to a pilot. He discovered that his river-born instincts translated magnificently to open water. He had an uncanny feel for wind, current, and tide—an intuitive understanding of how a vessel moved through water that his mentors found remarkable. Within five years he had earned a reputation as one of the finest pilots on the southern coast.
+At seventeen, Féthar left home with his family's reluctant blessing, traveling south to the Provenzian coast where he apprenticed himself to a pilot. He discovered that his river-born instincts translated magnificently to open water. He had an uncanny feel for wind, current, and tide—an intuitive understanding of how a vessel moved through water that his mentors found notable. Within five years he had earned a reputation as one of the finest pilots on the southern coast.
 
 ### Aboard the Tamzîr
 
@@ -423,13 +423,13 @@ Féthar joined the Tamzîr seven years ago, hired as a replacement pilot after t
 
 ### Marriage
 
-Féthar married [[being-slvrvlskyr|Sélvara Válskyr]] three years ago, and their relationship is the ship's worst-kept secret turned open joy. He is besotted with his wife in a way that is both genuine and slightly comedic, and he is amusingly insecure about measuring up to the legendary warrior woman he somehow convinced to marry him. The crew alternately finds this endearing and insufferable.
+Féthar married [[being-slvrvlskyr|Sélvara Válskyr]] three years ago, and their relationship is the ship's worst-kept secret turned open joy. He is besotted with his wife in a way that is both real and slightly comedic, and he is amusingly insecure about measuring up to the warrior woman he somehow convinced to marry him. The crew alternately finds this endearing and insufferable.
 
 ## Psyche
 
 ### Personality
 
-Féthar is the Tamzîr's emotional counterweight—warm, funny, and relentlessly optimistic in a crew that trends toward cynicism and brooding. He uses humor to defuse tension and deflects his own anxieties with jokes. He is genuinely kind, with an easy way about him that puts strangers at ease. But beneath the clowning is a sharp mind and a steel nerve—in a crisis at the helm, Féthar becomes utterly focused, making split-second decisions with a calm that surprises those who know only his lighter side.
+Féthar is the Tamzîr's emotional counterweight—warm, funny, and relentlessly optimistic in a crew that trends toward cynicism and brooding. He uses humor to defuse tension and deflects his own anxieties with jokes. He is kind, with an easy way about him that puts strangers at ease. But beneath the clowning is a sharp mind and a steel nerve—in a crisis at the helm, Féthar becomes focused, making split-second decisions with a calm that surprises those who know only his lighter side.
 
 ### Motivation
 
@@ -437,7 +437,7 @@ Féthar is motivated by love—for his wife, for the sea, for the strange family
 
 ### Strengths
 
-He is arguably the finest pilot on the [[place-vylarianse|Vylarian Sea]], with an almost supernatural feel for ships and water. He is also the crew's emotional glue—his humor and warmth keep morale from collapsing during hard times. He is clever, observant in his own way, and possessed of a courage that is all the more impressive for being quiet rather than dramatic.
+He is arguably the finest pilot on the [[place-vylarianse|Vylarian Sea]], with an almost supernatural feel for ships and water. He is also the crew's emotional glue—his humor and warmth keep morale from collapsing during hard times. He is clever, observant in his own way, and has a courage that is all the more impressive for being quiet rather than dramatic.
 
 ### Weaknesses
 

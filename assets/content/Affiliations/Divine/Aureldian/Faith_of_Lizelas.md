@@ -16,14 +16,14 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Magistra Florarum above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Lizena above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
@@ -31,17 +31,17 @@ data:
         description: >-
           Initiates training in both spiritual practice and the practical work of the garden.
       - level: 3
-        title: Sacerdotes
+        title: Sarnor
         description: >-
           Ordained priestesses and priests serving as healers, midwives, gardeners and officiants at marriages.
       - level: 4
-        title: Magistra Florarum
+        title: Lizena
         description: >-
           High Priestess, and occasionally High Priest, though the role is more often filled by a woman.
     offices:
-      Magistra Florarum: >-
+      Lizena: >-
         High Priestess, and occasionally High Priest, though the role is more often filled by a woman.
-      Sacerdotes: >-
+      Sarnor: >-
         Ordained priestesses and priests serving as healers, midwives, gardeners and officiants at marriages.
       Acolytes of the Garden: >-
         Initiates training in both spiritual practice and the practical work of the garden.
@@ -73,9 +73,9 @@ Offerings to Lîzêlâs are abundant and sensory—fresh flowers, honey, wine, s
 
 ## Organization
 
-The priesthood of Lîzêlâs is led by the **Magistra Florarum**, the High Priestess (occasionally High Priest, though the role is more frequently filled by women). This figure is typically a middle-aged priestess of renowned skill in healing and gardening, someone whose wisdom and warmth draw the faithful and whose authority extends throughout the priesthood. The Magistra Florarum is a healer, teacher, and intermediary between the goddess and her people.
+The priesthood of Lîzêlâs is led by the **Lizena**, the High Priestess (occasionally High Priest, though the role is more frequently filled by women). This figure is typically a middle-aged priestess of renowned skill in healing and gardening, someone whose wisdom and warmth draw the faithful and whose authority extends throughout the priesthood. The Lizena is a healer, teacher, and intermediary between the goddess and her people.
 
-Below the Magistra stand the **Sacerdotes**, ordained priestesses and priests who serve as healers, midwives, gardeners, and officiants at marriages and fertility blessings. These priests are chosen for their skill in healing arts, their knowledge of herbs and plants, and their capacity for compassion. Many Sacerdotes maintain their own herb gardens or healing practices and are supported by their temples. The finest Sacerdotes are renowned healers sought by noble families and common people alike, trusted to deliver babies safely and to cure illnesses that other physicians cannot treat.
+Below the Lizena stand the **Sarnori**, ordained priestesses and priests who serve as healers, midwives, gardeners, and officiants at marriages and fertility blessings. These priests are chosen for their skill in healing arts, their knowledge of herbs and plants, and their capacity for compassion. Many Sarnori maintain their own herb gardens or healing practices and are supported by their temples. The finest Sarnori are renowned healers sought by noble families and common people alike, trusted to deliver babies safely and to cure illnesses that other physicians cannot treat.
 
 The third rank consists of **Acolytes of the Garden**, young initiates who train in herbalism, midwifery, healing, and the cultivation of gardens. These acolytes typically spend three to five years in apprenticeship, learning the properties of hundreds of plants, the techniques of childbirth assistance, and the pastoral care of the afflicted. Many eventually establish themselves as independent herbalists or midwives while maintaining ties to the priesthood.
 

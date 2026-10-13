@@ -453,7 +453,7 @@ Quztar's primary motivation is the preservation of craft excellence in an age in
 
 ### Strengths
 
-- **Unmatched Technical Mastery**: Quztar's thatch work is traditional technique at its highest. His roofs are engineered to last a century or more with only minimal maintenance, and the quality of his work is immediately apparent even to untrained eyes in the perfect slope and flawless finish.
+- **Technical Mastery**: Quztar's thatch work is traditional technique at its highest. His roofs are engineered to last a century or more with only minimal maintenance, and the quality of his work is immediately apparent even to untrained eyes in the perfect slope and flawless finish.
 
 - **Mentorship and Teaching Skill**: Despite his reserve, or perhaps because of it, Quztar is an excellent teacher. He understands how to break down complex techniques into components that students can master progressively, and his patience with learners is matched only by his intolerance of carelessness.
 

@@ -11,7 +11,7 @@ data:
   occupation: Bard
   lore: []
   culture: provenzianclt
-  homes: [fiordaure]
+  homes: [lizela]
   affiliations: {kngdmprvnz: {rank: 2}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
@@ -424,7 +424,7 @@ As a Provenzian bard, Bárnek occupies a recognized social niche within Provènz
 
 ### Patrons
 
-Bárnek's primary patron is Nobles and merchants who appreciate his storytelling.. This relationship provides both opportunity and obligation.
+Bárnek's primary patron is Nobles and merchants who appreciate his storytelling. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Some who distrust him due to his tendency to embellish stories.
 
 ## Plot Hooks
 
-1. **The Bard's Dilemma**—Bárnek faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Bard's Dilemma**—Bárnek faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
 2. **Old Grudges**—Some who distrust him due to his tendency to embellish stories. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

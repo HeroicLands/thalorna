@@ -412,11 +412,11 @@ Belgina Rusâkûnî is a young woman whose appearance perfectly reflects her pro
 
 ### Origin
 
-Belgina was born in the port of [[place-pashinar|Pashînar]], a bustling harbor in the [[affiliation-cnfdrtntrzlnstts|Tarûzelian Confederation]], the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot—watching, touching, learning. Her father never formally apprenticed her (the shipwrights' guild resists women in the craft, and Belgina is the exception), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
+Belgina was born in the port of [[place-pashinar|Pashînar]], a harbor in the [[affiliation-cnfdrtntrzlnstts|Tarûzelian Confederation]], the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot—watching, touching, learning. Her father never formally apprenticed her (the shipwrights' guild resists women in the craft, and Belgina is the exception), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
 
 ### The Gift
 
-Belgina possesses something that defies easy explanation—an intuitive sense for how things work. She can lay her hand on a hull and _feel_ where the stress is wrong, sense the grain of wood and know how it wants to bend. Her father called it a gift from the sea itself. Others have whispered that it borders on the arcane, though Belgina has no formal training in any mystical tradition. This instinct has allowed her to learn shipwright skills with astonishing speed, and she can diagnose and repair problems that baffle more experienced craftsmen.
+Belgina possesses something she cannot easily explain—an intuitive sense for how things work. She can lay her hand on a hull and _feel_ where the stress is wrong, sense the grain of wood and know how it wants to bend. Her father called it a gift from the sea itself. Others have whispered that it borders on the arcane, though Belgina has no formal training in any mystical tradition. This instinct has allowed her to learn shipwright skills with astonishing speed, and she can diagnose and repair problems that baffle more experienced craftsmen.
 
 ### Joining the Tamzîr
 
@@ -426,7 +426,7 @@ Belgina came aboard the Tamzîr two years ago when the ship limped into Pashîna
 
 ### Personality
 
-Belgina is sunny, enthusiastic, and possessed of an infectious optimism that seems impervious to the cynicism around her. She chatters about timber joints and hull designs with the same passion other people reserve for love affairs. She is genuinely kind, sees the best in people as a default, and has a gift for making even the most hardened crew members crack a smile. She is also tougher than she appears—growing up in a shipyard among rough workers gave her a resilience that her cheerful demeanor sometimes obscures.
+Belgina is sunny, enthusiastic, and has an optimism that the cynicism around her does not dent. She chatters about timber joints and hull designs with the same passion other people reserve for love affairs. She is kind, sees the best in people as a default, and has a gift for making even the most hardened crew members crack a smile. She is also tougher than she appears—growing up in a shipyard among rough workers gave her a resilience that her cheerful demeanor sometimes obscures.
 
 ### Motivation
 

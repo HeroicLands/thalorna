@@ -40,7 +40,7 @@ data:
           withholds: the commander's own name
         - by: affiliation-vylarinmpr
           says: >-
-            The legions took the delta apex in a single field battle, and the priesthood of the river crowned their commander. The province was held for the Augustar for as long as the Augustar could spare men to hold it.
+            The legions took the delta apex in a single field battle, and the priesthood of the river crowned their commander. The province was held for the Ôrzâs for as long as the Ôrzâs could spare men to hold it.
           agrees: partly
           withholds: the legions' losses, and the commander's name
       unresolved:
@@ -64,7 +64,7 @@ The Khelâthi dead lay where they fell. The Vylarian army held the field, and th
 
 The priesthood did what it does with every conqueror. It crowned the army's commander on the mound under a throne name, **Zab'el'Qar**, "lord in order," and entered his line as a house. The list gives his throne name and the formula _stood upon the mound; the list says nothing of whence he came_. No Khelâthi record holds the name he was born to.
 
-His son reigned after him as a Khelâthi, and the occupation closed with that reign in 2505 ST (395 AF) ([[lore-foreignhs|the Closing of the Foreign House]]). The Vylarian record says the legions took the apex in a single battle and that the province was held for the Augustar as long as men could be spared, and the two accounts agree on that much.
+His son reigned after him as a Khelâthi, and the occupation closed with that reign in 2505 ST (395 AF) ([[lore-foreignhs|the Closing of the Foreign House]]). The Vylarian record says the legions took the apex in a single battle and that the province was held for the Ôrzâs as long as men could be spared, and the two accounts agree on that much.
 
 ## What It Left
 

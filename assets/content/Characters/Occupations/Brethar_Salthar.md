@@ -426,7 +426,7 @@ As a Élavendri charcoaler, Bréthar occupies a recognized social niche within �
 
 ### Patrons
 
-Bréthar's primary patron is Local blacksmiths and villagers who purchase his charcoal.. This relationship provides both opportunity and obligation.
+Bréthar's primary patron is Local blacksmiths and villagers who purchase his charcoal. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Rival charcoalers who compete for territory.
 
 ## Plot Hooks
 
-1. **The Charcoaler's Dilemma**—Bréthar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Charcoaler's Dilemma**—Bréthar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Rival charcoalers who compete for territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -14,7 +14,7 @@ Timid and skittish, chickens are easily startled and rely on their quick reflexe
 
 ## Human Personality
 
-Easily startled and cautious, this individual seeks safety in familiarity and routine. They often rely on their quick reflexes and social networks to navigate potential threats.
+Chicken people startle easily and look for safety in familiar things and routine. Quick reflexes and a circle of acquaintances keep them clear of danger.
 
 - **Physical:** Smaller, less imposing frame; possibly quick, jittery movements.
 - **Behavioral:** Timid and easily startled, wary of risks and changes.

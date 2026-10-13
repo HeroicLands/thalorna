@@ -439,7 +439,7 @@ Now in her seventh decade, Arkhêa has achieved an almost monastic acceptance of
 
 ### Personality
 
-Arkhêa possesses a weary wisdom that comes only from surviving long enough to see cycles repeat. She speaks little, having learned that silence attracts less attention and consumes less energy than conversation. Yet when she does speak, her words carry unusual weight—the perspective of someone who has genuinely lost everything and found unexpected treasures in the ruins.
+Arkhêa possesses a weary wisdom that comes only from surviving long enough to see cycles repeat. She speaks little, having learned that silence attracts less attention and consumes less energy than conversation. Yet when she does speak, her words carry unusual weight—the perspective of someone who has lost everything and found unexpected treasures in the ruins.
 
 Her humor is dark and subtle, finding ironic amusement in the cruelties and ironies of fate. She nurses no illusions about human nature but holds no general bitterness either—people are what they are, kind or cruel, and survival requires understanding both equally. Those who encounter her often remark on an unexpected peace in her presence, as though her acceptance of loss somehow frees others from their own anxiety about falling into similar circumstances.
 
@@ -460,7 +460,7 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 - **Physical Fragility**: Her body, weakened by decades of malnutrition and harsh living, fails her with increasing frequency. A simple cold can become life-threatening. The limp is constant pain.
 - **Prone to Illness**: Immune system compromised, dental health deteriorated, and chronic conditions from long-term poverty make her susceptible to seasonal sicknesses and slower to recover.
 - **Limited Physical Capability**: She cannot fight, cannot run, cannot perform strenuous labor. Any confrontation relying on physical strength is lost.
-- **Social Invisibility as Weakness**: While she is invisible to the powerful, this invisibility also means she has no formal protections, no authorities to appeal to if she is wronged. She is genuinely vulnerable.
+- **Social Invisibility as Weakness**: While she is invisible to the powerful, this invisibility also means she has no formal protections, no authorities to appeal to if she is wronged. She is vulnerable.
 - **Accumulated Trauma**: The weight of sixty-two years, half spent in poverty, has left her prone to melancholy and difficulty with hope. She sometimes retreats into resignation that borders on suicidal thinking.
 
 ## Social

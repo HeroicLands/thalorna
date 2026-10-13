@@ -399,7 +399,7 @@ sohl:
 
 Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ánevira Tâbîrês came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Ánevira learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Ánevira is known for her intricate stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
+Ánevira learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Ánevira is known for her stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
 
 ## Psyche
 
@@ -417,7 +417,7 @@ Skilled in decorative stitching and embroidery, creative.
 
 ## Social
 
-Ánevira is affiliated with None; works independently in her father's old shop..
+Ánevira is affiliated with None; works independently in her father's old shop.
 
 As a Helionite tentmaker, Ánevira occupies a recognized social niche within Heliónis society.
 
@@ -425,7 +425,7 @@ As a Helionite tentmaker, Ánevira occupies a recognized social niche within Hel
 
 ### Patrons
 
-Ánevira's primary patron is Local travelers who appreciate her craftsmanship.. This relationship provides both opportunity and obligation.
+Ánevira's primary patron is Local travelers who appreciate her craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Competitors who criticize her decorative approach.
 
 ## Plot Hooks
 
-1. **The Tentmaker's Dilemma**—Ánevira faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Tentmaker's Dilemma**—Ánevira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 
 2. **Old Grudges**—Competitors who criticize her decorative approach. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

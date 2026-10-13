@@ -19,7 +19,7 @@ Citizenship is a personal, earned and largely non-heritable status. A man is not
 
 ## Earning the Citizenship
 
-For the common-born there are two roads: **the legions**, which is the road nearly everyone takes, and a **Senate grant**. The bargain is a statute of the second Augustar, Arkânamos, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
+For the common-born there are two roads: **the legions**, which is the road nearly everyone takes, and a **Senate grant**. The bargain is a statute of the second Ôrzâs, Arkânamos, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
 
 The army counts no one as a soldier before his **fifteenth birthday**. Boys may follow the camps and even fight, but they hold no rank and their service does not start the clock until then. A full term is **twenty years**, so a commoner who takes the oath at fifteen and lives to be discharged leaves the legions a **citizen of the Empire at thirty-five**, which in Vylaria is already a middle-aged man. The whole of the imperial military rests on this deal, and the commoner track of the [[affiliation-vylrnmltry|legions]] is, among other things, a machine for making citizens.
 
@@ -30,7 +30,7 @@ The Senate may grant the status to anyone, for some signal service to the Empire
 A citizen holds a bundle of privileges that no resident enjoys:
 
 - **The dole.** A guaranteed ration of grain and, in [[place-orzara|Ôrzâra]], oil and the price of the public games besides. It is a subsistence _floor_, not a living (see below).
-- **The right of residence in Ôrzâra.** Only citizens may dwell within the capital's pomerium by right. A resident needs a registered waiver, tied to an employer, from the [[affiliation-curiaurbis|courts]]; the Ôrzâra note describes how the waivers work.
+- **The right of residence in Ôrzâra.** Only citizens may dwell within the capital's thîrûthrimâ by right. A resident needs a registered waiver, tied to an employer, from the [[affiliation-verdanorzara|courts]]; the Ôrzâra note describes how the waivers work.
 - **Legal standing.** A citizen stands before the courts as a person of standing, with a **right of appeal** that rises to the imperial tribunals. He is spared the summary and degrading punishments dealt to residents: a condemned citizen is owed a trial and, at worst, a clean execution, never the lash or the arena without sentence.
 - **Eligibility.** Citizens may vote and hold civic office, and they have first claim on the salaried imperial posts the Empire reserves for the men who served it, the [[affiliation-vylrnmltry|City Watch]] above all.
 
@@ -48,11 +48,11 @@ The dole and its privileges are expensive, and the Empire is emphatically not ru
 
 ## The Citizenship in Decline
 
-As the Empire's reach and revenue shrink, the citizenship has become a burden the throne can neither comfortably afford nor safely cut. The dole is among the largest standing charges on a shrinking treasury, and the temptations of economy show first there: **arrears, short measure and cheaper grain in the ration**. Each is a quiet admission of decline, and each is dangerous, because the citizen-veterans know exactly what they are owed and exactly how to make their displeasure felt. Reform factions argue for trimming the rolls or means-testing the dole. The conservatives, the veterans and plain political prudence defend it. A _missed_ dole is the single spark every cautious Augustar (emperor) most dreads.
+As the Empire's reach and revenue shrink, the citizenship has become a burden the throne can neither comfortably afford nor safely cut. The dole is among the largest standing charges on a shrinking treasury, and the temptations of economy show first there: **arrears, short measure and cheaper grain in the ration**. Each is a quiet admission of decline, and each is dangerous, because the citizen-veterans know exactly what they are owed and exactly how to make their displeasure felt. Reform factions argue for trimming the rolls or means-testing the dole. The conservatives, the veterans and plain political prudence defend it. A _missed_ dole is the single spark every cautious Ôrzâs (emperor) most dreads.
 
 ## See Also
 
 - [[affiliation-vylrnmltry|The Vylarian Military]]—the legions, and the twenty-year road to the citizenship
 - [[place-orzara|Ôrzâra]]—where the citizen body concentrates; the right-of-residence rule and the dole in the capital
-- [[affiliation-curiaurbis|Curia Urbis]]—the civic courts that register resident waivers (and quietly sell them)
+- [[affiliation-verdanorzara|Verdan Ôrzâra]]—the civic courts that register resident waivers (and quietly sell them)
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the state whose membership this is

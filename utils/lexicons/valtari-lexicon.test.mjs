@@ -88,8 +88,8 @@ test("a throat sound the pidgin does not say is an error", () => {
 });
 
 test("a coined word copying its source language is an error, and any other match a warning", () => {
-    const broken = rowEdited("| `bunelo`", (line) =>
-        line.replace("`bunelo`", "`kalo`").replace(/\[\[skill-valtarlng[^\]]*\]\]/, "—"),
+    const broken = rowEdited("| `vildu`", (line) =>
+        line.replace("`vildu`", "`kalo`").replace(/\[\[skill-valtarlng[^\]]*\]\]/, "—"),
     );
     const gloss = glossOn(broken, "kalo");
     const source = allSources(SOURCES)[0];

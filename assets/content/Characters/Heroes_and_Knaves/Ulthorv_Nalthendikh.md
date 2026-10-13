@@ -459,7 +459,7 @@ Ulthorv burns with a singular focus: freedom. That freedom may come through legi
 ### Strengths
 
 - **Phenomenal Physical Strength** - Eight years of mining labor have left Ulthorv a monument of functional muscle. He can lift loads that would require teams of ordinary workers, and his endurance in physical labor is almost superhuman.
-- **Exceptional Endurance** - Beyond strength, his will to persist through exhaustion is extraordinary. He can work through pain and fatigue that would collapse lesser men, a trait that has kept him alive when others have perished.
+- **Endurance** - Beyond strength, his will to persist through exhaustion is extraordinary. He can work through pain and fatigue that would collapse lesser men, a trait that has kept him alive when others have perished.
 - **Keen Mineralogical Knowledge** - Years in the deep earth have given him an intimate understanding of rock types, ore deposits, and geological formations. He can navigate unmapped tunnels and read the earth like a book.
 - **Tactical Mining Engineering** - Though trained as a laborer rather than an engineer, his practical experience has given him intuitive understanding of how tunnels are structured, where weaknesses exist, and how to navigate or even collapse sections deliberately.
 - **Loyal Companion** - To those he considers truly allied, Ulthorv is as loyal as mountains are immovable. He will shield companions with his own body and has on multiple occasions.

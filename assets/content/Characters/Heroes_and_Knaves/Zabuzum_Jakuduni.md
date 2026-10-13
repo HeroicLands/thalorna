@@ -435,7 +435,7 @@ For the last twelve years, Bû has worked the [[place-vylarianse|Vylarian Sea]] 
 
 ### Personality
 
-Bû presents a dry, sardonic front to the world. He deflects with humor, commands with quiet authority, and trusts slowly. Beneath the cynicism is a man who still believes in something—he just cannot articulate what it is anymore. He is fiercely protective of his crew and will risk everything to bring them home, though he frames every act of decency as pragmatism. He has a stubborn streak that borders on self-destructive, and he would rather die than kneel to anyone who claims authority they have not earned.
+Bû presents a dry, sardonic front to the world. He deflects with humor, commands with authority, and trusts slowly. Beneath the cynicism is a man who still believes in something—he just cannot articulate what it is anymore. He is fiercely protective of his crew and will risk everything to bring them home, though he frames every act of decency as pragmatism. He has a stubborn streak that borders on self-destructive, and he would rather die than kneel to anyone who claims authority they have not earned.
 
 ### Motivation
 
@@ -447,7 +447,7 @@ Bû is a gifted tactician and a natural leader of small groups. He inspires loya
 
 ### Weaknesses
 
-His disillusionment has curdled into a reflexive distrust of institutions, authority, and anyone who claims to be working for the greater good. He drinks more than he should. He struggles to express genuine emotion and tends to push people away when they get too close. His stubborn independence sometimes blinds him to the value of compromise, and his willingness to take morally gray jobs has put his crew in danger more than once.
+His disillusionment has curdled into a reflexive distrust of institutions, authority, and anyone who claims to be working for the greater good. He drinks more than he should. He struggles to express emotion and tends to push people away when they get too close. His stubborn independence sometimes blinds him to the value of compromise, and his willingness to take morally gray jobs has put his crew in danger more than once.
 
 ## Social
 
@@ -465,7 +465,7 @@ Bû is captain of the **Tamzîr** and the unquestioned leader of her crew. He ma
 
 ## Plot Hooks
 
-1. **The War That Never Ended**: A former comrade from the Tarûzelian rebellion contacts Bû with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzîr, resulting in the deaths of sailors Bû commanded. The evidence is genuine, but pursuing it would mean returning to Tarûzel and confronting enemies with far more resources than a freelance ship captain can muster.
+1. **The War That Never Ended**: A former comrade from the Tarûzelian rebellion contacts Bû with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzîr, resulting in the deaths of sailors Bû commanded. The evidence is real, but pursuing it would mean returning to Tarûzel and confronting enemies with far more resources than a freelance ship captain can muster.
 
 2. **The Price of Passage**: A wealthy Vylarian merchant offers Bû an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzîr's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bû's contacts warns him that the merchant has ties to the Ordo Arcanis.
 

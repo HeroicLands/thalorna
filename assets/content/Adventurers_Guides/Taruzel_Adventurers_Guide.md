@@ -78,7 +78,7 @@ Spiced meats, flatbreads, honeyed pastries and strong coffee are the food of eve
 
 ## Coin and Script
 
-Land with Vylarian traveler's notes and the first moneylender you visit pushes them back across the table. The [[lore-trzlncrncy|Tarûzelian currency]] uses the Vylarian denominations—1 Aurion is 160 Argo, and 1 Argo is 8 Bits—but the coins are struck in Tarûzel and banked through the **Merâzûnî**, the treasury the Qubâsum runs. The Tarûzelian Aurion is about 7 percent light by the Vylarian standard. It passes at face value anywhere in the islands; a Vylarian or Khelâthi changer weighs it and pays less. Merâzûnî script is honored at any Merâzûnî-affiliated moneylender in the Confederation and at no Vylarian house, and the reverse holds too. A merchant crossing between the two converts through coin, usually at the Heliónite houses that keep accounts on both sides.
+Land with Vylarian traveler's notes and the first moneylender you visit pushes them back across the table. The [[lore-trzlncrncy|Tarûzelian currency]] uses the Vylarian denominations—1 Solden is 160 Ard, and 1 Ard is 8 Bits—but the coins are struck in Tarûzel and banked through the **Merâzûnî**, the treasury the Qubâsum runs. The Tarûzelian Solden is about 7 percent light by the Vylarian standard. It passes at face value anywhere in the islands; a Vylarian or Khelâthi changer weighs it and pays less. Merâzûnî script is honored at any Merâzûnî-affiliated moneylender in the Confederation and at no Vylarian house, and the reverse holds too. A merchant crossing between the two converts through coin, usually at the Heliónite houses that keep accounts on both sides.
 
 ## The Anger Under the Coast
 
@@ -154,6 +154,6 @@ Campaigns start well from a debt. A house calls in a loan from a captain who can
 | vezâkum               | A guild-warden; the senior _vezâkum_ of each trade sits on the Vezâkûnî's council.               |
 | Warden of the Weights | The inspector of measures, coin and quality in a city's markets.                                 |
 
-Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-taruzelianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

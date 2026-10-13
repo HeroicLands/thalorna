@@ -424,7 +424,7 @@ Fýléze stands 5'10" tall with a medium build. She has sun-tanned skin, brown h
 
 Fýléze was born into a merchant family of middling prosperity in the [[affiliation-byzarianlg|Byzarian League]], the third of four daughters. Where her sisters were groomed for advantageous marriages, Fýléze showed an early talent for the martial arts—a transgression her father initially forbade. When she was fourteen, bandits attacked a merchant convoy that included her aunt. Fýléze's mother, a woman of unexpected steel, taught her daughter in secret, and by sixteen, Fýléze had proven her worth beyond argument by helping defend a village against raiders.
 
-Rather than accept a husband or business partnership, Fýléze formally joined the **Mercenaries' Guild** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both exceptional skill and an uncommon moral compass. Unlike many mercenaries, Fýléze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
+Rather than accept a husband or business partnership, Fýléze formally joined the **Mercenaries' Guild** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both skill and an uncommon moral compass. Unlike many mercenaries, Fýléze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
 
 Now twenty-nine, she maintains her guild membership but operates with unusual independence, selecting clients based on merit rather than payment. She has become something between a mercenary and a hero-for-hire, drawing both respect and resentment from her peers.
 
@@ -432,21 +432,21 @@ Now twenty-nine, she maintains her guild membership but operates with unusual in
 
 ### Personality
 
-Fýléze is direct to the point of bluntness, valuing honesty over courtesy. This can make her seem cold to those who prefer social niceties, but those who work with her come to understand that her straightforwardness is not rudeness but rather profound respect for others' intelligence. She says what she means and trusts others to do the same. In combat, she is swift and decisive. In conversation, she listens more than she speaks, genuinely seeking to understand others' perspectives.
+Fýléze is direct to the point of bluntness, valuing honesty over courtesy. This can make her seem cold to those who prefer social niceties, but those who work with her come to understand that her straightforwardness is not rudeness but rather respect for others' intelligence. She says what she means and trusts others to do the same. In combat, she is swift and decisive. In conversation, she listens more than she speaks, seeking to understand others' perspectives.
 
 Her greatest strength may be her empathy—a trait unusual among mercenaries. She remembers the faces of those she has protected, follows up on their fates, and takes personal responsibility for her failures. This empathy is not sentimentality; it is disciplined compassion that drives her toward justice.
 
 ### Motivation
 
-Fýléze is motivated by a desire to protect those who cannot protect themselves. She has seen what unchecked violence and exploitation can do to communities and has made it her personal mission to be a counterweight to that darkness. She fights not for gold—though she accepts fair payment—but for the satisfaction of seeing families safe and communities restored. There is also a personal drive: a need to prove that a woman can be as formidable a warrior and leader as any man, and that strength can be wielded with integrity.
+Fýléze is motivated by a desire to protect those who cannot protect themselves. She has seen what unchecked violence and exploitation can do to communities and has made it her personal mission to be a counterweight to that darkness. She fights not for gold—though she accepts fair payment—but for the satisfaction of seeing families safe and communities restored. There is also a personal drive: a need to prove that a woman can be as strong a warrior and leader as any man, and that strength can be wielded with integrity.
 
 ### Strengths
 
-- **Master Swordswoman**: Fýléze's skill with a longsword and shield is exceptional. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
-- **Tactical Brilliance**: She can assess a situation rapidly and deploy limited resources to maximum effect. She has trained bandits with far larger numbers through intelligent positioning and psychological pressure.
-- **Natural Leader**: Her presence inspires confidence. Even untrained militia follow her orders without hesitation because she radiates competence and genuine concern for their welfare.
-- **Exceptional Endurance**: Years of conditioning give her remarkable stamina in prolonged combat or travel. She can maintain fighting effectiveness longer than most.
-- **Empathetic Judgment**: Her ability to read people allows her to negotiate effectively, understand civilian needs, and identify trustworthy allies quickly.
+- **Master Swordswoman**: Fýléze's skill with a longsword and shield is outstanding. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
+- **Tactical Brilliance**: She can assess a situation rapidly and deploy limited resources to maximum effect. She has trained bandits with far larger numbers through clever positioning and pressure on the enemy's nerves.
+- **Natural Leader**: Her presence inspires confidence. Even untrained militia follow her orders without hesitation because she radiates competence and concern for their welfare.
+- **Endurance**: Years of conditioning give her stamina in prolonged combat or travel. She can maintain fighting effectiveness longer than most.
+- **Reading People**: Her ability to read people allows her to negotiate effectively, understand civilian needs, and identify trustworthy allies quickly.
 
 ### Weaknesses
 
@@ -486,7 +486,7 @@ The Mercenaries' Guild of the Byzarian League
 : Fýléze maintains full membership, though she operates with unusual independence.
 
 The Protectors' Circle
-: An informal network of conscientious mercenaries who share information about genuinely dangerous criminals and support one another's defensive operations.
+: An informal network of conscientious mercenaries who share information about dangerous criminals and support one another's defensive operations.
 
 ## Plot Hooks
 
@@ -498,4 +498,4 @@ The Protectors' Circle
 
 4. **The Rival's Challenge**: **Korvas the Merciless** publicly challenges Fýléze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fýléze suspects he has some larger purpose in forcing this confrontation.
 
-5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fýléze discovers that some "safety operations" are actually harvesting refugees for slavery. She must navigate politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.
+5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fýléze discovers that some "safety operations" are actually harvesting refugees for slavery. She must handle politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.

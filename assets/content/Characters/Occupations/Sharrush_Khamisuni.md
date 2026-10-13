@@ -425,7 +425,7 @@ As a Tarûzelian locksmith, Sharrûsh occupies a recognized social niche within 
 
 ### Patrons
 
-Sharrûsh's primary patron is Nobles and local businesses who value his craftsmanship.. This relationship provides both opportunity and obligation.
+Sharrûsh's primary patron is Nobles and local businesses who value his craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ None; generally respected.
 
 ## Plot Hooks
 
-1. **The Locksmith's Dilemma**—Sharrûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Locksmith's Dilemma**—Sharrûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—None; generally respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

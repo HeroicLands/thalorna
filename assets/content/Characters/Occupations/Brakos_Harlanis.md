@@ -392,7 +392,7 @@ Brákôs wants what every soldier in a declining empire wants: a path to stabili
 
 ### Strengths
 
-He reads terrain and danger signs with preternatural accuracy. His horse is better-trained than any in the garrison. He remains calm under immediate threat and has genuine tactical sense—his ambush response three years ago was not luck but sound judgment under pressure.
+He reads terrain and danger signs with preternatural accuracy. His horse is better-trained than any in the garrison. He remains calm under immediate threat and has tactical sense—his ambush response three years ago was not luck but sound judgment under pressure.
 
 ## Social
 
@@ -402,7 +402,7 @@ Brákôs occupies an uncomfortable social position: too educated for common sold
 
 ### Patrons
 
-**Captain Rhúlis Mervian**—The garrison's senior irregular-war officer. Rhúlis values competence above all and has explicitly stated he will protect Brákôs from court-martial as long as Brákôs delivers accurate intelligence. Their relationship is transactional but genuine; Rhúlis is one of the few officers in Province of Alyssa who sees the empire's decline clearly and treats it as fact rather than heresy.
+**Captain Rhúlis Mervian**—The garrison's senior irregular-war officer. Rhúlis values competence above all and has explicitly stated he will protect Brákôs from court-martial as long as Brákôs delivers accurate intelligence. Their relationship is transactional but real; Rhúlis is one of the few officers in Province of Alyssa who sees the empire's decline clearly and treats it as fact rather than heresy.
 
 ### Enemies
 

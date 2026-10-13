@@ -400,7 +400,7 @@ Knulthvir Stormrót is a 34-year-old man who stands 5'6" tall and is of moderate
 
 Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Knulthvir Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
 
-Knulthvir hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Knulthvir has a reputation for being a formidable opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
+Knulthvir hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Knulthvir has a reputation for being a strong opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
 
 ## Psyche
 
@@ -426,7 +426,7 @@ As a Nordheimn litigant, Knulthvir occupies a recognized social niche within Nor
 
 ### Patrons
 
-Knulthvir's primary patron is Wealthy clients and local nobles.. This relationship provides both opportunity and obligation.
+Knulthvir's primary patron is Wealthy clients and local nobles. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ A few rival litigants who envy his success.
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma**—Knulthvir faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Litigant's Dilemma**—Knulthvir faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—A few rival litigants who envy his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

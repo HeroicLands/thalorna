@@ -24,10 +24,10 @@ Galváren occupies the green, mist-shrouded western coast of [[place-tarvenirgn|
 
 Its fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], ranging far into the open ocean for the great seasonal runs of cod, herring, and tuna.
 
-The capital, **Maréndal**, is a harbor town built along a natural bay where fishing boats, merchant vessels, and the occasional war galley crowd together.
+The capital, **Ornéthe**, is a harbor town built along a natural bay where fishing boats, merchant vessels, and the occasional war galley crowd together.
 
 ## See Also
 
 - [[affiliation-kngdmglvrn|Kingdom of Galváren]]—The kingdom that holds this land
 - [[place-tarvenirgn|Tarvénia Region]]—The enclosing region
-- [[place-marendal|Maréndal]]—The seat
+- [[place-ornethe|Ornéthe]]—The seat

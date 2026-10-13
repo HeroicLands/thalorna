@@ -49,7 +49,7 @@ data:
       Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
   seat: null
   population: null
-  economy: [affiliation-magnumclgm]
+  economy: [affiliation-tevran]
   lore: []
   parents: []
   relations: {}
@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: []}}
 - **Type:** Cultural federation
 - **Region:** [[place-provenzrgn|Provènzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
 - **Founded:** Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
-- **Magnum Collegium status:** Chartered member as the trade body covering theatrical production in Provènzia; holds the Performers' seat (jointly with the senior Aurèldían bardic guilds) on the [[affiliation-magnumclgm|Magnum Collegium's]] Curia Collegiorum. The Censores Collegiorum's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
+- **Tevran Maldor status:** Chartered member as the trade body covering theatrical production in Provènzia; holds the Performers' seat (jointly with the senior Aurèldían bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The Censors of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
 
 ## Overview
 

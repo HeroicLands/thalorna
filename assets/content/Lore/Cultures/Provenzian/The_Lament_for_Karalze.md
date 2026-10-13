@@ -3,17 +3,17 @@ shortcode: karalzelmnt
 name: {full: The Lament for Karàlze, aliases: [The Lament at the Door]}
 type: lore
 subType: literature
-description: "The lament the síladòr Sirrelùre made for his patron Karàlze of Valcèrise, killed holding the road at Serravel in a summer raid: the morning call at a door no one opens, the train left unplaced, the night the clients fetched their patron off a loud field, and the testimony the dead man could not speak, his wrongs with his goods, said for him at the tomb."
+description: "The lament the síladòr Sirrelùre made for his patron Karàlze of Pirnebrìs, killed holding the road at Malnebrìs in a summer raid: the morning call at a door no one opens, the train left unplaced, the night the clients fetched their patron off a loud field, and the testimony the dead man could not speak, his wrongs with his goods, said for him at the tomb."
 tags: [draft, provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore
   form: lament
   subjects:
-    - place-valcerise
-    - place-bldfldserravel
-    - lore-serravelbtl
-    - place-serramarca
+    - place-pirnebris
+    - place-bldfldmalnebris
+    - lore-malnebris
+    - place-talothe
     - affiliation-selmoros
     - lore-provenzianclt
   language: provnzlng
@@ -21,11 +21,11 @@ data:
 # terran_analog: "The troubadour planh, the formal lament for a dead lord sung by his own poet, for the praise, the catalogue of what the household has lost and the address to the heir; the stanza whose last line returns on one rhyme-word throughout; the deathbed confession made by another on behalf of one who died without it."
 ---
 
-**The Lament for Karàlze** is the lament the síladòr **Sirrelùre** made for his patron, **Karàlze** of [[place-valcerise|Valcèrise]], who went up to [[place-bldfldserravel|Serravel]] with the levy in the first raid of a summer and held the road there, where it narrows between the ridge and the stream ([[lore-serravelbtl|Serravel]]), and did not come down. Sirrelùre sang it first in the walled yard of Karàlze's house, at the morning call on the day after the burial, to the clients who had come to the door out of twenty years' habit and found no one to open it. Every stanza ends on the one word, the door, and the yard answers it.
+**The Lament for Karàlze** is the lament the síladòr **Sirrelùre** made for his patron, **Karàlze** of [[place-pirnebris|Pirnebrìs]], who went up to [[place-bldfldmalnebris|Malnebrìs]] with the levy in the first raid of a summer and held the road there, where it narrows between the ridge and the stream ([[lore-malnebris|Malnebrìs]]), and did not come down. Sirrelùre sang it first in the walled yard of Karàlze's house, at the morning call on the day after the burial, to the clients who had come to the door out of twenty years' habit and found no one to open it. Every stanza ends on the one word, the door, and the yard answers it.
 
 The lament keeps the parts a lament for a lord must have: his praise, the catalogue of the train he kept, the manner of his death and the address to his heir. It has two more. The first is the fetching. Karàlze lay on a field that is loud on still nights in the campaign season, and his clients went up to it after dark, which nobody does, and carried him down. The second is his testimony. He died with no priest of [[affiliation-selmoros|Sélmoros]] beside him and spoke no final account of his wrongs and goods, so his singer spoke it for him at the tomb on the road outside the wall, and the lament keeps it. Among his wrongs it sets the one his town lives on: that he sold the march its boots and remounts and did not pray for the passes to stay shut.
 
-The lament is sung through [[place-serramarca|the Sèrramarca]] when a patron dies, with the name changed and the stanzas of the fetching sung or left out as the death requires. The garrison at [[place-chastelclr|Chastèlclair]] sings it without the stanza of the wrongs. Valcèrise sings that stanza. The short closing stanza goes to **Ellevìrsa**, the widow, who kept her own name.
+The lament is sung through [[place-talothe|the Talòthe]] when a patron dies, with the name changed and the stanzas of the fetching sung or left out as the death requires. The garrison at [[place-durvalis|Durvalìs]] sings it without the stanza of the wrongs. Pirnebrìs sings that stanza. The short closing stanza goes to **Ellevìrsa**, the widow, who kept her own name.
 
 : The Lament for Karàlze {#lament}
 
@@ -37,10 +37,10 @@ in the yard among the rest, as a client should,
 and waited on the step, as I waited before.
 There is no one to open. That is the door.
 
-Karàlze of Valcèrise, whose yard was walled
+Karàlze of Pirnebrìs, whose yard was walled
 against the raids, whose gate stood wide when we called,
 whose table fed his train in the lean year,
-whose word the clerks at Chastèlclair would hear
+whose word the clerks at Durvalìs would hear
 and write down as a sum, and ask no more:
 who stood behind him stood behind a door.
 
@@ -67,14 +67,14 @@ in the one coin the march spends. We have no door.
 
 He went up with the levy when the snow
 let go the pass, and the first raid came below
-to Serravel, where the road between the ridge
+to Malnebrìs, where the road between the ridge
 and the stream is narrow as a blade's edge,
 and there he held it, as it was held before.
 The field is torn there. It has no door.
 
-They brought the word to Valcèrise at noon:
+They brought the word to Pirnebrìs at noon:
 that he lay on the field, and the night would soon
-come down on Serravel, and the field would wake
+come down on Malnebrìs, and the field would wake
 the way it wakes, and nobody would take
 the road up there by night, not for a lord, not for
 a son. And we, his train, stood at his door.
@@ -86,7 +86,7 @@ because a singer has no other choice
 of what to carry. And his widow wore
 her own name, and her cloak, and shut the door.
 
-At Serravel the field was loud. We heard
+At Malnebrìs the field was loud. We heard
 the horses, and the orders, word on word
 in both tongues, and a shield-line giving way,
 the old one, or this summer's, or one fray
@@ -130,7 +130,7 @@ the pass to stay shut. That I say at his door.
 
 The priest wrote down the goods, the wrongs, the whole,
 and said the rite, and gave the Judge his soul,
-and Serravel does not keep him. Only he,
+and Malnebrìs does not keep him. Only he,
 of all his train this morning, has a key,
 a place, a step to stand on, as before.
 We stand outside. He is inside the door.
@@ -150,8 +150,8 @@ is standing in the yard, and will remain.
 
 ## See Also
 
-- [[place-valcerise|Valcèrise]]—the walled yards, the orchards and the last market before the frontier
-- [[place-bldfldserravel|The Blood-field of Serravel]]—the field that is loud on still nights, and still being added to
-- [[lore-serravelbtl|Serravel]]—the road between the ridge and the stream, and the first raid
+- [[place-pirnebris|Pirnebrìs]]—the walled yards, the orchards and the last market before the frontier
+- [[place-bldfldmalnebris|The Blood-field of Malnebrìs]]—the field that is loud on still nights, and still being added to
+- [[lore-malnebris|Malnebrìs]]—the road between the ridge and the stream, and the first raid
 - [[affiliation-selmoros|Faith of Sélmoros]]—the final testimony and the rite at the tomb
 - [[lore-provenzianclt|Provenzian]]—the morning call, the train, the unplaced, and the fetching of the dead

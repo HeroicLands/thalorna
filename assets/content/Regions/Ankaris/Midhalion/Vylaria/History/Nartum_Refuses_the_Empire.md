@@ -2,10 +2,10 @@
 shortcode: nartumrefuse
 name:
   full: Nartûm Refuses the Empire
-  aliases: [The Anointing of Dharonôs, The Break with the Aquila]
+  aliases: [The Anointing of Dharonôs, The Break with the Ôrkhaimâ]
 type: lore
 subType: history
-description: "About 224 AF, after the Ústaran Schism, the Augustar Kàromphôs declines to proscribe the Black Flame; Nartûm's high priesthood withdraws from imperial obedience, anoints its own king, Dharonôs, and raises the Order of the Sacred Flame to hold its walls."
+description: "About 224 AF, after the Ústaran Schism, the Ôrzâs Kàromphôs declines to proscribe the Black Flame; Nartûm's high priesthood withdraws from imperial obedience, anoints its own king, Dharonôs, and raises the Order of the Sacred Flame to hold its walls."
 tags: [history, vylaria, ageconquest]
 data:
   culture: vylarianclt
@@ -22,7 +22,7 @@ data:
         - affiliation-blackflame
         - affiliation-sacredforge
       summary: >-
-        After the Ústaran Schism the orthodox clergy ask the Augustar Kàromphôs to proscribe the Black Flame, and he declines, because it has temples in his capital and officers in his legions. The high priesthood of Nartûm, the oldest sacred city of the heartland, withdraws from imperial obedience and anoints a king of its own, Dharonôs. It raises the Order of the Sacred Flame to hold its walls. The legions sent to reduce the city turn back at the first winter, and no Augustar has tried again.
+        After the Ústaran Schism the orthodox clergy ask the Ôrzâs Kàromphôs to proscribe the Black Flame, and he declines, because it has temples in his capital and officers in his legions. The high priesthood of Nartûm, the oldest sacred city of the heartland, withdraws from imperial obedience and anoints a king of its own, Dharonôs. It raises the Order of the Sacred Flame to hold its walls. The legions sent to reduce the city turn back at the first winter, and no Ôrzâs has tried again.
       standing: attested
       where:
         locus: [place-nartum]
@@ -64,13 +64,13 @@ The secretary of a Nartûmese priest-noble, briefing an envoy from Ôrzâra befo
 
 ## The Request
 
-The [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith into the [[affiliation-sacredforge|Sacred Forge]] and the [[affiliation-blackflame|Black Flame]] about 220. The orthodox clergy of the Empire went to the Augustar **Kàromphôs** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
+The [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith into the [[affiliation-sacredforge|Sacred Forge]] and the [[affiliation-blackflame|Black Flame]] about 220. The orthodox clergy of the Empire went to the Ôrzâs **Kàromphôs** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
 
 ## The Withdrawal
 
 The high priesthood of [[place-nartum|Nartûm]], the oldest sacred city of the heartland, did not accept the answer. About 224 it withdrew from imperial obedience. It anointed a king of its own, **Dharonôs**, the first to take the throne from the priesthood's hand, and raised the Order of the Sacred Flame, a body of knights, to hold the city's walls and the land around it.
 
-The Augustar sent legions to bring the city back. They reached Nartûm in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Augustar has sent a second army.
+The Ôrzâs sent legions to bring the city back. They reached Nartûm in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Ôrzâs has sent a second army.
 
 ## What It Left
 
@@ -82,7 +82,7 @@ The Augustar sent legions to bring the city back. They reached Nartûm in the au
 
 ## See Also
 
-- [[lore-ustaranschsm|The Ústaran Schism]]—the quarrel the Augustar would not settle
+- [[lore-ustaranschsm|The Ústaran Schism]]—the quarrel the Ôrzâs would not settle
 - [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]—the kingdom the withdrawal made
 - [[place-nartum|Nartûm]]—the holy city that held its walls
 - [[affiliation-blackflame|The Black Flame]]—the faith the Empire has never proscribed

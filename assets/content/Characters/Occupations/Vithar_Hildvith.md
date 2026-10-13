@@ -434,7 +434,7 @@ Blacksmiths who specialize in decorative weapons.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma**—Vithár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Weaponcrafter (Armorer)'s Dilemma**—Vithár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Blacksmiths who specialize in decorative weapons. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -374,7 +374,7 @@ Gnurthselda stands 5'3" with a lean, weathered frame that has been carved down t
 
 # Dossier {#dossier}
 
-Gnurthselda Hafringr was born to a shield-maiden lineage in [[place-nordheim|Nordheim]]'s frozen northern coast. Her mother, **Álfa Stormborn**, was legendary along the Thraldfjord: a warrior who commanded a crew of twenty raiders and died defending her hold against an Ibeerian incursion when Gnurthselda was barely four winters old. Gnurthselda has no memory of her mother, only the stories—how Álfa stood alone in a mountain pass, holding back thirty soldiers until the rest of her crew escaped. Those stories became a weight.
+Gnurthselda Hafringr was born to a shield-maiden lineage in [[place-nordheim|Nordheim]]'s frozen northern coast. Her mother, **Álfa Stormborn**, was famous along the Thraldfjord: a warrior who commanded a crew of twenty raiders and died defending her hold against an Ibeerian incursion when Gnurthselda was barely four winters old. Gnurthselda has no memory of her mother, only the stories—how Álfa stood alone in a mountain pass, holding back thirty soldiers until the rest of her crew escaped. Those stories became a weight.
 
 Her father, **Garón the Smith**, remarried quickly to a merchant woman and wanted Gnurthselda to abandon the warrior's path. He built her a life in trade, away from fighting. But at fourteen, Gnurthselda watched her father's new wife's nephew push a merchant off a dock during a dispute, and nobody moved to stop him. Something in her broke. She took up her mother's spear, left her father's house without farewell, and presented herself to the Thraldfjord fortress commander demanding service as a shield-maiden in the traditional way.
 
@@ -386,7 +386,7 @@ Now at forty years old, she is graying, scarred, and the only woman in Thraldfjo
 
 ### Personality
 
-Gnurthselda speaks rarely and never wastes words. She observes people the way a hunter observes prey—noting habits, weaknesses, patterns. This makes her appear cold, but those who have worked closely with her recognize a grim compassion. She is disgusted by casual cruelty and will walk away from commissions involving the abuse of the helpless. She respects only two things in humans: competence and genuine honor. Everything else is noise.
+Gnurthselda speaks rarely and never wastes words. She observes people the way a hunter observes prey—noting habits, weaknesses, patterns. This makes her appear cold, but those who have worked closely with her recognize a grim compassion. She is disgusted by casual cruelty and will walk away from commissions involving the abuse of the helpless. She respects only two things in humans: competence and honor. Everything else is noise.
 
 ### Motivation
 
@@ -394,7 +394,7 @@ Gnurthselda has spent forty years trying to prove that her mother's sacrifice me
 
 ### Strengths
 
-Her combat skill is exceptional—spear work with a fluidity that suggests decades of meditation alongside training. She reads people's intentions from their body language alone. She is immune to fear-tactics and intimidation, having already accepted her own likely death a thousand times.
+Her combat skill is outstanding—spear work with a fluidity that suggests decades of meditation alongside training. She reads people's intentions from their body language alone. She is immune to fear-tactics and intimidation, having already accepted her own likely death a thousand times.
 
 ## Social
 
@@ -408,7 +408,7 @@ Gnurthselda occupies a liminal space in Nordheim society: respected by warriors,
 
 ### Enemies
 
-**Merchant-Lord Karvik Kraldendikh**—A coastal merchant prince who wanted to hire Gnurthselda's services for a private war against a rival merchant. When she refused (the rival was protecting a village from his exploitation), Karvik circulated rumors that she was aging out of genuine combat ability and was taking refuge in the fortress as charity. The rumor is untrue and infuriates her, but he is powerful enough that she cannot safely kill him.
+**Merchant-Lord Karvik Kraldendikh**—A coastal merchant prince who wanted to hire Gnurthselda's services for a private war against a rival merchant. When she refused (the rival was protecting a village from his exploitation), Karvik circulated rumors that she was aging out of combat ability and was taking refuge in the fortress as charity. The rumor is untrue and infuriates her, but he is powerful enough that she cannot safely kill him.
 
 ## Plot Hooks
 

@@ -418,7 +418,7 @@ Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and b
 
 # Dossier {#dossier}
 
-Nari Sahravân is a daughter of the deep [[place-khzryndsrtrgn|Khazryn]]—the steppe and desert of the [[lore-sowidesclt|Sovidur]] tribes, far to the north and east, where each tribe keeps the old ways and the old gods and answers to no one beyond its own dovaq. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Āsháian]] faith, she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a sought-after figure among the clans, a mediator and healer who traveled between camps—until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
+Nari Sahravân is a daughter of the deep [[place-khzryndsrtrgn|Khazryn]]—the steppe and desert of the [[lore-sowidesclt|Sovidur]] tribes, far to the north and east, where each tribe keeps the old ways and the old gods and answers to no one beyond its own dowek. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Āsháian]] faith, she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a figure among the clans, a mediator and healer who traveled between camps—until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
 
 Nari and [[being-lmbhrpdhnn|Lámbhira]] crossed paths far from the Khazryn, in the southern [[place-midhalnrgn|Mídhalion]] borderlands, where a vision had carried Nari and a hunt had carried Lámbhira. Despite their initial wariness—the gentle healer and the killer-for-hire made an uneasy pair—they came to respect one another when Nari's craft saved Lámbhira from a mortal wound. Nari has read in her sight that Lámbhira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of Bethûa unsettles her—above all what the matriarchy does to its men—and she does not always keep that disquiet to herself.
 
@@ -430,9 +430,9 @@ Nari and [[being-lmbhrpdhnn|Lámbhira]] crossed paths far from the Khazryn, in t
 - **Endurance**: Nari is accustomed to the harsh desert climate and has developed a steady endurance for long journeys and difficult environments.
 - **Dexterity**: Nari has precise, deft hands, particularly when it comes to handling herbs and performing delicate healing tasks, though she is not an acrobat.
 - **Agility**: Her movements are fluid and light, reflecting her grace and ability to move easily through harsh desert terrain.
-- **Perception**: Nari’s sharp senses allow her to read both people and the environment with remarkable clarity. She is skilled at noticing subtle changes in nature and human behavior.
+- **Perception**: Nari’s sharp senses allow her to read both people and the environment with clarity. She is skilled at noticing subtle changes in nature and human behavior.
 - **Comeliness**: Nari possesses a quiet beauty that reflects her inner peace and wisdom. She doesn’t rely on physical beauty but carries herself with calm confidence.
-- **Aura**: Nari’s spiritual connection to the world is profound, and her mystical presence is palpable. She can influence the spiritual world through her rituals and healing magic.
+- **Aura**: Nari’s spiritual connection to the world is deep, and her mystical presence is strong. She can influence the spiritual world through her rituals and healing magic.
 - **Will**: Nari is calm and steadfast in her beliefs. While she may seem gentle, her inner strength and conviction are unshakeable.
 - **Reasoning**: Nari’s intellect is sharp, and her ability to reason through complex situations, both practical and spiritual, is highly developed.
 - **Creativity**: Nari’s understanding of the natural world and her mystical practices allow her to think creatively, especially when healing or solving problems.
@@ -442,13 +442,13 @@ Nari and [[being-lmbhrpdhnn|Lámbhira]] crossed paths far from the Khazryn, in t
 - **Voice**: Nari’s voice is calm and soothing, perfect for spiritual chants and rituals. Her connection to the spirit world is reflected in her soft, melodious tone.
 - **Healer and Herbalist**: Nari is an expert in herbal medicine, able to treat wounds and illnesses with a combination of traditional remedies and mystical healing techniques.
 - **Mystical Abilities**: Nari possesses a deep connection to the elemental forces of the desert. She can call upon the wind and sand in minor spells to assist the group, and she is skilled in divination, using the stars and elements to provide guidance.
-- **Nomadic Knowledge**: Nari’s intimate knowledge of the desert and steppe and their tribes makes her a valuable guide in harsh, arid country—including Bethûa's southern marches, so like and unlike her own Khazryn home. She can navigate treacherous terrain, find hidden water, and treat with nomad leaders whom Bethûans cannot.
+- **Nomadic Knowledge**: Nari’s intimate knowledge of the desert and steppe and their tribes makes her a valuable guide in harsh, arid country—including Bethûa's southern marches, so like and unlike her own Khazryn home. She can handle treacherous terrain, find hidden water, and treat with nomad leaders whom Bethûans cannot.
 
 ## Psyche
 
 ### Personality
 
-Nari is calm, wise, and deeply spiritual, often acting as a counterbalance to [[being-lmbhrpdhnn|Lámbhira]]’s more direct and action-oriented nature. She believes in the balance of the elements and the spiritual connection between all living things, but she is also practical, using her knowledge of herbs, medicine, and magic to solve problems. While she can seem aloof or enigmatic at times, Nari is deeply loyal to those she considers her allies.
+Nari is calm, wise, and deeply spiritual, often acting as a counterbalance to [[being-lmbhrpdhnn|Lámbhira]]’s more direct and action-oriented nature. She believes in the balance of the elements and the spiritual connection between all living things, but she is also practical, using her knowledge of herbs, medicine, and magic to solve problems. While she can seem aloof or hard to read at times, Nari is deeply loyal to those she considers her allies.
 
 ### Motivation
 

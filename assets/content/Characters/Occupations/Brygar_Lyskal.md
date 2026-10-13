@@ -370,13 +370,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Brýgar stands 5'9" with a heavy, stocky frame—broad in the chest and thick in the arms, built like a man who has lifted barrels since childhood. His blonde hair is thick and slightly unkempt, and his blue eyes are bright and friendly in a ruddy, dark-complexioned face that flushes easily when he laughs, which is often. His features are round and open, with a broad nose and a wide mouth that seems built for smiling. He is not a handsome man in any refined sense, but there is a warmth to his appearance that puts people at ease. He wears the [[place-chastelclr|Chastèlclair]] merchant-quarter guard uniform—padded tunic, leather bracers, short sword and cudgel at his belt—and has a habit of rolling his sleeves up regardless of weather, exposing thick forearms tanned dark from years of outdoor patrol.
+Brýgar stands 5'9" with a heavy, stocky frame—broad in the chest and thick in the arms, built like a man who has lifted barrels since childhood. His blonde hair is thick and slightly unkempt, and his blue eyes are bright and friendly in a ruddy, dark-complexioned face that flushes easily when he laughs, which is often. His features are round and open, with a broad nose and a wide mouth that seems built for smiling. He is not a handsome man in any refined sense, but there is a warmth to his appearance that puts people at ease. He wears the [[place-durvalis|Durvalìs]] merchant-quarter guard uniform—padded tunic, leather bracers, short sword and cudgel at his belt—and has a habit of rolling his sleeves up regardless of weather, exposing thick forearms tanned dark from years of outdoor patrol.
 
 # Dossier {#dossier}
 
-Brýgar was born and raised in the Chastèlclair's merchant quarter, the son of a cloth merchant of modest success. He knows every street, every business, every family in his assigned patrol area because they are literally his neighborhood. He joined the guard at twenty-two not out of ambition but out of practical recognition that his community needed functional policing and he could provide it. He is suited for the work by temperament and by knowledge rather than by any sense of profound calling.
+Brýgar was born and raised in the Durvalìs's merchant quarter, the son of a cloth merchant of modest success. He knows every street, every business, every family in his assigned patrol area because they are literally his neighborhood. He joined the guard at twenty-two not out of ambition but out of practical recognition that his community needed functional policing and he could provide it. He is suited for the work by temperament and by knowledge rather than by any sense of calling.
 
-At twenty-seven, he has been working the merchant quarter for five years. He is liked by the business owners because he grew up among them and understands their concerns. He is respected by younger people because he does not act superior to them. He knows approximately who is breaking what laws and has developed a sophisticated practice of managing minor crime while preventing serious violence. He has learned which merchants are skimming taxes (which he ignores), which are engaging in genuine deception (which he addresses), and which represent actual threats to community stability (which he works to eliminate).
+At twenty-seven, he has been working the merchant quarter for five years. He is liked by the business owners because he grew up among them and understands their concerns. He is respected by younger people because he does not act superior to them. He knows approximately who is breaking what laws and has developed a careful practice of managing minor crime while preventing serious violence. He has learned which merchants are skimming taxes (which he ignores), which are engaging in deception (which he addresses), and which represent actual threats to community stability (which he works to eliminate).
 
 His frame is heavy but not weak—he moves like a man comfortable in his own body, and his blonde hair and ruddy complexion mark him as local. He is the kind of guard that small communities need: rooted in place, known to everyone, predictable but not rigid.
 
@@ -384,15 +384,15 @@ His frame is heavy but not weak—he moves like a man comfortable in his own bod
 
 ### Personality
 
-Brýgar is friendly and genuinely interested in the people in his patrol area. He knows the names of merchants, their families, their current struggles. This makes him seem soft to more aggressive guards, but it is actually sophisticated community policing. He is not easily angered and will engage in lengthy conversation to resolve issues rather than resorting to physical enforcement. He has a good-natured sense of humor and is well-liked.
+Brýgar is friendly and interested in the people in his patrol area. He knows the names of merchants, their families, their current struggles. This makes him seem soft to more aggressive guards, but it is actually careful keeping of the peace. He is not easily angered and will engage in lengthy conversation to resolve issues rather than resorting to physical enforcement. He has a good-natured sense of humor and is well-liked.
 
 ### Motivation
 
-Brýgar's primary motivation is simply maintaining his community's stability and safety. He has no ambitions for advancement or external validation. His secondary motivation is proving that effective policing is possible without authoritarianism or corruption. He genuinely believes that knowing people and treating them with dignity is more effective than force.
+Brýgar's primary motivation is simply maintaining his community's stability and safety. He has no ambitions for advancement or external validation. His secondary motivation is proving that effective policing is possible without authoritarianism or corruption. He believes that knowing people and treating them with dignity is more effective than force.
 
 ### Strengths
 
-His knowledge of his patrol area is absolutely comprehensive. His ability to de-escalate conflict is exceptional. He is physically capable and would be a dangerous fighter if necessary, though he avoids confrontation. His emotional intelligence is significant.
+His knowledge of his patrol area is absolutely comprehensive. His ability to de-escalate conflict is outstanding. He is physically capable and would be a dangerous fighter if necessary, though he avoids confrontation. His emotional intelligence is significant.
 
 ## Social
 
@@ -402,7 +402,7 @@ Brýgar is fully integrated into his community in ways that other guards are not
 
 ### Patrons
 
-**Merchant Councilor Davine Artois**—The senior merchant representative on the city council. Davine's business is in the merchant quarter and he knows Brýgar well. He has become a genuine patron, using his political influence to ensure Brýgar's assignment remains stable and that the merchant quarter receives adequate resources.
+**Merchant Councilor Davine Artois**—The senior merchant representative on the city council. Davine's business is in the merchant quarter and he knows Brýgar well. He has become a patron, using his political influence to ensure Brýgar's assignment remains stable and that the merchant quarter receives adequate resources.
 
 ### Enemies
 

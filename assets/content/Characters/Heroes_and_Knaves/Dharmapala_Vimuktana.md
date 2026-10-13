@@ -437,7 +437,7 @@ Dharmapāla is motivated by the pursuit of mastery—the relentless refinement o
 
 ### Strengths
 
-- **Transcendent Agility**: His movement is poetry rendered into flesh—he can scale structures other warriors would consider impassable, contort through impossible spaces, and achieve acrobatic feats that seem to violate natural laws.
+- **Agility**: His movement is poetry rendered into flesh—he can scale structures other warriors would consider impassable, contort through impossible spaces, and achieve acrobatic feats that seem to violate natural laws.
 - **Threat Perception**: His perception and awareness are honed to supernatural sensitivity, capable of detecting threats hidden in crowd sounds, fleeting expressions, and small changes in the surroundings that others would miss entirely.
 - **Tactical Mastery**: His reasoning and planning are cold and precise, allowing him to calculate approaches to protection problems with mathematical certainty and adapt instantly to changing circumstances.
 - **Melee Perfection**: His dagger and short sword work demonstrates thousands of hours of drilling and refinement, resulting in a style that is minimalist, economical, and devastatingly effective.

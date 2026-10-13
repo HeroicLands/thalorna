@@ -459,7 +459,7 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 ### Strengths
 
 - **Master Herder:** Her animal craft combined with her deep feeling for her beasts allows her to manage, calm, and understand her flock with great precision and gentleness, and to achieve results through consent rather than coercion.
-- **Exceptional Horsemanship:** Her riding extends to managing all manner of livestock and allows her to cover large distances quickly while tending her herd or escorting dangerous clients.
+- **Horsemanship:** Her riding extends to managing all manner of livestock and allows her to cover large distances quickly while tending her herd or escorting dangerous clients.
 - **Wilderness Survival:** Her survival and tracking skills make her very capable in the wild; she can subsist in harsh conditions, find her way by subtle signs, and locate lost animals.
 - **Physical Prowess:** Her agility, climbing, acrobatics, and jumping make her capable in rough country; her archery and melee provide adequate combat ability if needed.
 - **Practical Herbalism:** Her knowledge of herbal remedies, perfumery, and physician skill allow her to treat animal (and human) injuries and illnesses using what grows around her.

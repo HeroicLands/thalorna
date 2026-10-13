@@ -418,7 +418,7 @@ Skilled with basic sewing techniques and natural dyes, good rapport with custome
 
 ## Social
 
-Kàlendrîs is affiliated with None, works independently..
+Kàlendrîs is affiliated with None, works independently.
 
 As a Vylarian clothier, Kàlendrîs occupies a recognized social niche within Vylaria society.
 
@@ -426,7 +426,7 @@ As a Vylarian clothier, Kàlendrîs occupies a recognized social niche within Vy
 
 ### Patrons
 
-Kàlendrîs's primary patron is Local villagers who need durable and affordable clothing.. This relationship provides both opportunity and obligation.
+Kàlendrîs's primary patron is Local villagers who need durable and affordable clothing. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ None; well-liked within her community.
 
 ## Plot Hooks
 
-1. **The Clothier's Dilemma**—Kàlendrîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Clothier's Dilemma**—Kàlendrîs faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—None; well-liked within her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

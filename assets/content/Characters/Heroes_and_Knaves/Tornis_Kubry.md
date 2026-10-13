@@ -421,13 +421,13 @@ That life ended in blood. A betrayal within his group led to a massacre, and Cal
 
 Tórnis presents himself as a simple, affable traveler. He is charming, easy to like, and always ready with a self-deprecating joke. Beneath the surface, however, he trusts no one completely and keeps everyone at a calculated distance. His past haunts him, and he is determined never to be caught off guard again.
 
-Recently, his carefully maintained emotional walls have developed a crack: he has begun developing genuine feelings for Elýsè, and he is not entirely sure what to do about it.
+Recently, his carefully maintained emotional walls have developed a crack: he has begun developing feelings for Elýsè, and he is not entirely sure what to do about it.
 
 ## Background
 
 ### Skills and Abilities
 
-- **Stealth**: Tórnis can move through hostile territory, urban streets, or fortified buildings without being detected. This is his primary professional skill and the reason the Silent Talon hired him.
+- **Stealth**: Tórnis can move through hostile territory, urban streets, or fortified buildings without being detected. This is his primary skill and the reason the Silent Talon hired him.
 - **Infiltration**: He can assume identities, blend into crowds, and gain access to places and people that are supposed to be inaccessible.
 - **Deception**: A natural liar with the charm to make it convincing. He reads people quickly and tells them what they want to hear.
 - **Scouting**: An experienced pathfinder who knows the roads—particularly the ones most people avoid. He is often sent ahead of the band to survey terrain, identify threats, and gather intelligence.
@@ -472,4 +472,4 @@ Former comrades from his brigand days who survived the massacre and may be looki
 
 2. **The Double Game**: Tórnis is sent to infiltrate a rival mercenary company, but discovers that the company's employer is connected to the betrayal that destroyed his old brigand band. The mission becomes personal, and Tórnis must choose between the Silent Talon's interests and his own need for answers.
 
-3. **Trust and Deception**: Elýsè begins to sense that Tórnis is hiding something fundamental about himself. As their relationship deepens, the weight of his secrets threatens to destroy the first genuine connection he has allowed himself in years.
+3. **Trust and Deception**: Elýsè begins to sense that Tórnis is hiding something fundamental about himself. As their relationship deepens, the weight of his secrets threatens to destroy the first connection he has allowed himself in years.

@@ -426,13 +426,13 @@ Kalída stands 5'7" tall with a light build. She has light tanned skin, black ha
 
 Born to the Kourkásios family, prosperous wine merchants of the Byzarian League, Kalída was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the Old Kingdom, studying under the aging master potter **Timolkâr the Glazemaster** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
 
-Within five years, her work had become renowned throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
+Within five years, her work had become known throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
 
 ## Psyche
 
 ### Personality
 
-Kalída is animated and vivacious in social settings, with a charm that is entirely genuine rather than calculated. She is quick to laugh, passionate in her enthusiasms, and genuinely interested in people—particularly in understanding what drives them. However, beneath this warmth lies an ambitious core; she carefully cultivates relationships with wealthy collectors and influential patrons, always conscious of how each connection might serve her artistic vision. She is not cold or manipulative, but rather pragmatically aware that artistic genius alone does not guarantee success or resources.
+Kalída is animated and vivacious in social settings, with a charm that is entirely rather than calculated. She is quick to laugh, passionate in her enthusiasms, and interested in people—particularly in understanding what drives them. However, beneath this warmth lies an ambitious core; she carefully cultivates relationships with wealthy collectors and influential patrons, always conscious of how each connection might serve her artistic vision. She is not cold or manipulative, but rather pragmatically aware that artistic genius alone does not guarantee success or resources.
 
 In her studio, she is a different person—intensely focused, sometimes to the point of losing track of time and neglecting sleep and meals. She can become frustrated when work does not match her mental vision, and her perfectionism occasionally manifests as harsh self-criticism. Yet these moments pass quickly, and she possesses a rare ability to laugh at her own failures and treat them as learning opportunities.
 
@@ -442,10 +442,10 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 
 ### Strengths
 
-- **Unparalleled Creativity**: With a Creativity score of 18, Kalída conceives of pottery forms and decorative techniques that others simply cannot imagine, allowing her to create genuinely revolutionary work.
+- **Creativity**: With a Creativity score of 18, Kalída conceives of pottery forms and decorative techniques that others simply cannot imagine, allowing her to create revolutionary work.
 - **Master Technician**: Her Ceramics skill at 14 (with 5 multipliers) combined with Glassworking at 14 makes her technically excellent, capable of executing even her most ambitious visions.
 - **Compelling Marketer**: Her Charm at 15 and Theatrics at 15 allow her to sell her work effectively, despite (or because of) the premium prices she commands.
-- **Refined Aesthetic**: Her Drawing at 16 and understanding of composition allow her to design vessels of exceptional visual harmony.
+- **Refined Aesthetic**: Her Drawing at 16 and understanding of composition allow her to design vessels of visual harmony.
 - **Physical Grace**: Her Dexterity of 15 and high Dancing score make her movements economical and assured, whether at the wheel or in formal settings.
 
 ### Weaknesses
@@ -483,7 +483,7 @@ The Artisans' Guild of Byzaría
 : Despite occasional friction with traditionalists, she maintains official membership and participates in guild exhibitions.
 
 The Circle of Innovators
-: A loose association of artists, craftspeople, and patrons committed to progressive techniques and challenging classical orthodoxy.
+: A loose association of artists, craftspeople, and patrons committed to new techniques and challenging classical orthodoxy.
 
 ## Plot Hooks
 
@@ -491,7 +491,7 @@ The Circle of Innovators
 
 2. **Commission from the Shadow Court**: A mysterious patron offers an enormous commission—enough to fund her ambitions for years—to create a series of vessels with very specific, unusual properties. The patron is deliberately vague about the purpose, but the designs Kalída is asked to create suggest uses both mystical and potentially harmful. She must decide whether to accept the work and risk becoming entangled with forces she doesn't understand.
 
-3. **The Rekindling**: **Andrónash**, her former lover, reappears with a proposal: collaborate on a joint project that would be revolutionary, combining sculpture and pottery into something entirely new. The work would be career-defining for both of them, but their romantic history is fraught with betrayal and heartbreak. She must decide whether artistic ambition can overcome personal wounds, or whether this is simply a trap designed to expose her vulnerabilities.
+3. **The Rekindling**: **Andrónash**, her former lover, reappears with a proposal: collaborate on a joint project that would be revolutionary, combining sculpture and pottery into something entirely new. The work would make the name of both of them, but their romantic history is fraught with betrayal and heartbreak. She must decide whether artistic ambition can overcome personal wounds, or whether this is simply a trap designed to expose her vulnerabilities.
 
 4. **Clay from Beyond**: A trader arrives with an extraordinary clay discovered in far southern lands, claimed to possess unique properties. Sample pieces fired from it display iridescence and colors impossible with ordinary glazing. However, the clay is both rare and expensive, and the trader's questions about her work and methods feel probing. Kalída must obtain sufficient quantities to pursue a revolutionary line of work while uncovering whether there is something more to the trader's interest than art appreciation.
 

@@ -426,7 +426,7 @@ Hlirthselda is 5’10" with a strong, athletic build, weighing about 180 pounds.
 
 # Dossier {#dossier}
 
-Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband, earning her respect.
+Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
 
 ## Background
 
@@ -475,6 +475,6 @@ raiders
 
 2. **Waves of Betrayal**: During a routine patrol, Hlirthselda intercepts raiders bearing symbols of Targud, a tribe her warband thought defeated. Investigation reveals that a nearby clan has secretly allied with the raiders to weaken Norgaad’s defenses. Hlirthselda must expose their treachery and rally her people, risking open conflict between the clans.
 
-3. **The Crimson Banner**: A rival shield-maiden challenges Hlirthselda to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Hlirthselda to navigate treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
+3. **The Crimson Banner**: A rival shield-maiden challenges Hlirthselda to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Hlirthselda to handle treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
 
 4. **The Ghosts of Vrathavn**: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavn, lamenting their unfulfilled oaths. Hlirthselda learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.

@@ -451,7 +451,7 @@ Megeti is driven by an almost religious belief in open books and the moral duty 
 - **Unassailable Integrity**: In a realm of shifting allegiances, her honesty is absolute. She cannot be bribed, intimidated, or logically talked out of her conclusions.
 - **Institutional Acumen**: Few understand the bureaucratic machinery of the Empire as thoroughly as she does. She knows who owes favors, what concessions are possible, and which officials can be pressured into cooperation.
 - **Written Authority**: Her authored reports carry the weight of imperial law. Judges and ministers treat her conclusions as near-inviolable.
-- **Exceptional Perception**: Her sharp eye extends beyond numbers; she reads people with the same precision she applies to accounts.
+- **Perception**: Her sharp eye extends beyond numbers; she reads people with the same precision she applies to accounts.
 
 ### Weaknesses
 
@@ -484,7 +484,7 @@ Methisî the Iron
 
 ### Affiliations
 
-[[affiliation-aerarimmpr|The Imperial Treasury]]
+[[affiliation-tarmex|The Imperial Treasury]]
 : Her primary institution and the source of her authority.
 
 The Scribes' Guild of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]

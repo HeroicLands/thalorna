@@ -14,7 +14,7 @@ Driven and enduring, tuna are powerful swimmers that migrate vast distances acro
 
 ## Human Personality
 
-Highly motivated and resilient, this person embarks on long-term pursuits with unwavering determination. They are powerful and persistent in achieving their objectives.
+Tuna people are driven and resilient, and take up long pursuits with fixed determination. They are powerful, and they persist until the objective is reached.
 
 - **Physical:** Robust, powerful build; exceptional stamina.
 - **Behavioral:** Highly driven, endures through long challenges and pursuits.

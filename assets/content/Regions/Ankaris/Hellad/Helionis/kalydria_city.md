@@ -22,7 +22,7 @@ The city's most distinctive institution is the **Academy of the Silver Veil**, w
 
 ## Making a Living
 
-Kalydria sells what it makes. Sculptors and painters trained here are sought by wealthy patrons across Mídhalión, and artists from elsewhere come to be trained. The city uses the Vylarian currency, with full access to the banking houses of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]].
+Kalydria sells what it makes. Sculptors and painters trained here are sought by wealthy patrons across Mídhalión, and artists from elsewhere come to be trained. The city uses the Vylarian currency, with full access to the banking houses of the [[affiliation-danvar|Danvar]].
 
 ## See Also
 

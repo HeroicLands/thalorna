@@ -428,7 +428,7 @@ As a Provenzian shaman, Vérynna occupies a recognized social niche within Prov�
 
 ### Patrons
 
-Vérynna's primary patron is Tribal elders who mentor her in the shamanic traditions.. This relationship provides both opportunity and obligation.
+Vérynna's primary patron is Tribal elders who mentor her in the shamanic traditions. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,7 +436,7 @@ Skeptics within the tribe who challenge her authority.
 
 ## Plot Hooks
 
-1. **The Shaman's Dilemma**—Vérynna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Shaman's Dilemma**—Vérynna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—Skeptics within the tribe who challenge her authority. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

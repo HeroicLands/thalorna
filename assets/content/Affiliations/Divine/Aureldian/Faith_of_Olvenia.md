@@ -19,11 +19,11 @@ data:
       A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the High Priestess of a Temple above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2

@@ -449,19 +449,19 @@ Now at forty-four, Dvarnvir owns one of the finest tentmaking operations in Vith
 
 ### Personality
 
-Dvarnvir is a quiet man of few unnecessary words, but when he speaks, people listen. His humor tends toward the wry and self-deprecating, often directed at his own aging joints or the follies of younger craftspeople. He is genuinely humble about his skill, attributing much of his success to learning from others rather than individual genius. This humility is not false modesty—he simply does not view himself as particularly special, only as someone who has worked very hard at a craft he loves.
+Dvarnvir is a quiet man of few unnecessary words, but when he speaks, people listen. His humor tends toward the wry and self-deprecating, often directed at his own aging joints or the follies of younger craftspeople. He is humble about his skill, attributing much of his success to learning from others rather than individual genius. This humility is not false modesty—he simply does not view himself as particularly special, only as someone who has worked very hard at a craft he loves.
 
 Despite his reserved nature, Dvarnvir possesses surprising warmth toward those who earn his respect. He remembers details about customers' lives, asks after their families, and has been known to revise prices downward for soldiers who've clearly fallen on hard times. His greatest frustration is not with competitors but with himself—he wars constantly with the knowledge that his output is limited by his commitment to quality, that some who need good tents cannot afford them because he refuses to cut corners.
 
 ### Motivation
 
-Dvarnvir is driven by a simple but profound conviction: good shelter saves lives. He remembers friends who died in inadequate tents, who succumbed to cold or rain because their equipment failed. Every tent he makes is a small rebellion against death, a statement that he has the power to protect people he will never meet. He works not for wealth or fame but for the purity of the craft itself and the knowledge that somewhere, in the mountains or on the road, someone is warm because of his labor.
+Dvarnvir is driven by a simple but deep conviction: good shelter saves lives. He remembers friends who died in inadequate tents, who succumbed to cold or rain because their equipment failed. Every tent he makes is a small rebellion against death, a statement that he has the power to protect people he will never meet. He works not for wealth or fame but for the purity of the craft itself and the knowledge that somewhere, in the mountains or on the road, someone is warm because of his labor.
 
 ### Strengths
 
 - **Master Tentmaker**: His skill with heavy fabrics and complex construction is extraordinary. He understands fabric properties, weatherproofing techniques, and structural principles that keep people alive in brutal conditions.
-- **Exceptional Problem-Solving**: Years of military experience combined with craftsmanship have given him the ability to see solutions others miss, to improve designs in subtle ways that yield major benefits.
-- **Practical Wisdom**: He possesses genuine knowledge about survival, shelter, and the logistics of extended journeys—skills useful far beyond tentmaking.
+- **Problem-Solving**: Years of military experience combined with craftsmanship have given him the ability to see solutions others miss, to improve designs in subtle ways that yield major benefits.
+- **Practical Wisdom**: He possesses knowledge about survival, shelter, and the provisioning of extended journeys—skills useful far beyond tentmaking.
 - **Reliable and Trustworthy**: His word is gold; he completes work on time, to specification, and with care that borders on religious devotion.
 - **Strong Endurance**: Despite his age, he can work long hours without tiring, and his body retains the functional strength of his military days.
 - **Respected Among Soldiers**: His reputation in military circles opens doors and grants trust that others must earn laboriously.
@@ -502,7 +502,7 @@ Unspoken Rivalry with Competitors
 ### Affiliations
 
 The Tentmakers' Guild of Vithgard
-: A professional organization where he serves as a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over quality standards versus profitability.
+: A guild where he is a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over the quality of work versus profit.
 
 The Old Soldiers' Lodge
 : An informal fraternity of veterans who gather monthly to share drink and stories. Dvarnvir contributes his skills and craftsmanship to the Lodge's projects.
@@ -515,9 +515,9 @@ The Old Soldiers' Lodge
 
 ## Plot Hooks
 
-1. **The Expedition of the Doomed**: A famous explorer, **Lady Alfrúd Glarvarukh**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of legendary danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the legendary city of **Hulavath**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
+1. **The Expedition of the Doomed**: A famous explorer, **Lady Alfrúd Glarvarukh**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the city of **Hulavath**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
 
-2. **The Sabotaged Supply**: Dvarnvir receives an urgent order from **Captain Hnarvthann Skalfarukh** for emergency tents to shelter troops caught in unexpected winter weather. He works frantically to deliver them on time, and the tents save lives. Days later, he learns that someone has planted evidence suggesting his materials were stolen from the Cloth Syndicate, and he is accused of receiving stolen goods. The real culprit may be **Kross**, trying to discredit him, or someone with a deeper political agenda. Dvarnvir must prove his innocence while uncovering who is orchestrating his ruin.
+2. **The Sabotaged Supply**: Dvarnvir receives an urgent order from **Captain Hnarvthann Skalfarukh** for emergency tents to shelter troops caught in unexpected winter weather. He works frantically to deliver them on time, and the tents save lives. Days later, he learns that someone has planted evidence suggesting his materials were stolen from the Cloth Syndicate, and he is accused of receiving stolen goods. The real culprit may be **Kross**, trying to discredit him, or someone with deeper political aims. Dvarnvir must prove his innocence while uncovering who is orchestrating his ruin.
 
 3. **The Talking Tent**: An old nomadic wanderer, **Zephyr the Unspeaking**, arrives at Dvarnvir's workshop requesting a specific tent design—one that matches a sketch the wanderer produces from memory. Dvarnvir realizes it matches designs described in fragments of old military records from before he was born. When he creates the tent according to specification, it seems to hum faintly in the wind, and people who sleep within it report vivid dreams of ancient times. The wanderer hints that this particular design contains subtle magical properties, and that **Zephyr** has been searching for someone capable of recreating it for years.
 

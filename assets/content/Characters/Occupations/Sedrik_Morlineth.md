@@ -427,7 +427,7 @@ As a Élavendri jailer, Sédrik occupies a recognized social niche within Élave
 
 ### Patrons
 
-Sédrik's primary patron is City officials who value his loyalty and service.. This relationship provides both opportunity and obligation.
+Sédrik's primary patron is City officials who value his loyalty and service. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ Some prisoners who hold grudges against him.
 
 ## Plot Hooks
 
-1. **The Jailer's Dilemma**—Sédrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Jailer's Dilemma**—Sédrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Some prisoners who hold grudges against him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

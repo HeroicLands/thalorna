@@ -14,7 +14,7 @@ Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly
 
 ## Human Personality
 
-This person exhibits a composed and methodical approach to life, showing remarkable resilience and consistent reliability, often providing stability and wisdom in both personal and professional settings.
+A Sturgeon person is composed and methodical, durable and reliable. Others count on the person for stability and good counsel, in private life and in work.
 
 - **Physical:** Strong build; steady and fluid in movement.
 - **Behavioral:** Steadfast, reserved, can endure a lot without complaint.

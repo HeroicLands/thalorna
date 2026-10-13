@@ -421,7 +421,7 @@ Svalthrinna was born on the storm-battered coast of Nordheim, the daughter of a 
 
 ### Shieldmaiden
 
-Svalthrinna became a shieldmaiden at fifteen, earning the title in the most direct way possible: a drunken Nordheimer sailor attempted to assault her, and she killed him with his own weapon. The act earned her respect among the warriors of her community, though her mixed blood ensured that respect was always tinged with suspicion. She trained obsessively, honing her skills with warhammer and shield until she was among the finest young fighters on the coast.
+Svalthrinna became a shieldmaiden at fifteen, earning the title in the most direct way possible: a drunken Nordheimer sailor attempted to assault her, and she killed him with his own weapon. The act won her respect among the warriors of her community, though her mixed blood meant that respect was always tinged with suspicion. She trained obsessively, honing her skills with warhammer and shield until she was among the finest young fighters on the coast.
 
 ### The Breaking Point
 
@@ -435,7 +435,7 @@ Since fleeing Nordheim, Svalthrinna has been adrift—a warrior without a clan, 
 
 ### Personality
 
-Svalthrinna is quiet, intense, and deeply private. She speaks sparingly and acts decisively. She has a dry, dark sense of humor that emerges rarely and without warning. She is uncomfortable with emotion—both her own and others'—and tends to withdraw when conversations become personal. In combat, she is transformed: focused, lethal, and possessed of a controlled fury that makes her one of the most dangerous fighters aboard the Tamzîr.
+Svalthrinna is quiet, intense, and deeply private. She speaks sparingly and acts decisively. She has a dry, dark sense of humor that emerges rarely and without warning. She is uncomfortable with emotion—both her own and others'—and tends to withdraw when conversations become personal. In combat, she is transformed: focused, lethal, with a controlled fury that makes her one of the most dangerous fighters aboard the Tamzîr.
 
 ### Motivation
 
@@ -443,7 +443,7 @@ Svalthrinna is searching for something to replace what she lost—a code, a purp
 
 ### Strengths
 
-Svalthrinna is a superb fighter—arguably the best pure warrior aboard the Tamzîr, with a melee skill that borders on the exceptional. She is also an excellent archer, a skilled metalworker and weaponcrafter, and possesses the wilderness survival skills of someone raised on a harsh frontier. Her awareness and perception are acute, making her an invaluable watchkeeper.
+Svalthrinna is a superb fighter—arguably the best pure warrior aboard the Tamzîr, with a melee skill that borders on the extraordinary. She is also an excellent archer, a skilled metalworker and weaponcrafter, and possesses the wilderness survival skills of someone raised on a harsh frontier. Her awareness and perception are acute, making her a useful watchkeeper.
 
 ### Weaknesses
 
@@ -467,7 +467,7 @@ Crewmember of the **Tamzîr**. She has formed a particular bond with [[being-slv
 
 1. **Blood-Price**: A Nordheimer longship arrives in a port where the Tamzîr is docked, and among its crew is a kinsman of the man Svalthrinna killed. Nordheim custom demands blood-price or combat. Svalthrinna must decide whether to face her past, flee again, or let the crew fight a battle that is hers alone.
 
-2. **The Old Gods Call**: Svalthrinna begins experiencing vivid dreams—visions she cannot explain and does not want. They carry the imagery of the Nordheim pantheon she has rejected, and they seem to be showing her something important. Whether this is genuine divine contact, suppressed trauma, or something connected to Cibella's arcane presence aboard the ship is unclear.
+2. **The Old Gods Call**: Svalthrinna begins experiencing vivid dreams—visions she cannot explain and does not want. They carry the imagery of the Nordheim pantheon she has rejected, and they seem to be showing her something important. Whether this is real divine contact, suppressed trauma, or something connected to Cibella's arcane presence aboard the ship is unclear.
 
 3. **The Weaponcrafter's Daughter**: Svalthrinna learns that her father has died and left his forge to her—along with debts, obligations, and a half-finished commission for a powerful Nordheimer jarl. Claiming the inheritance would mean returning to the life she fled. Abandoning it would mean losing the last connection to the parent who loved her unconditionally.
 

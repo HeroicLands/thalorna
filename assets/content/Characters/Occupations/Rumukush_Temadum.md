@@ -425,7 +425,7 @@ As a Tarûzelian bodyguard, Rumûkûsh occupies a recognized social niche within
 
 ### Patrons
 
-Rumûkûsh's primary patron is Merchants and minor lords requiring strong protection.. This relationship provides both opportunity and obligation.
+Rumûkûsh's primary patron is Merchants and minor lords requiring strong protection. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; generally well-respected but some may fear him.
 
 ## Plot Hooks
 
-1. **The Bodyguard's Dilemma**—Rumûkûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Bodyguard's Dilemma**—Rumûkûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Few; generally well-respected but some may fear him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

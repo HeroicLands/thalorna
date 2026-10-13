@@ -411,7 +411,7 @@ sohl:
 
 ![[grlfdrthgr|Garulf yra Druthgar wur Edrgrund]]{float=top-left}
 
-Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vára"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with genuine tenderness.
+Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vára"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with tenderness.
 
 # Dossier {#dossier}
 
@@ -431,7 +431,7 @@ Garulf's career as a freelance thug came to an abrupt end when a robbery went ca
 
 ### Aboard the Tamzîr
 
-Garulf has served as the Tamzîr's muscle for eight years. He is not particularly loyal to Bû or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
+Garulf has been the Tamzîr's muscle for eight years. He is not particularly loyal to Bû or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
 
 ## Psyche
 
@@ -445,7 +445,7 @@ Coin. Comfort. Survival. Garulf's motivations are refreshingly uncomplicated. He
 
 ### Strengths
 
-Garulf is a devastating fighter—one of the most dangerous individuals on the [[place-vylarianse|Vylarian Sea]] in a straight-up brawl. He is strong, tough, experienced, and utterly without hesitation in combat. He is also a skilled tracker and survivalist, comfortable in wilderness conditions that would break softer men. His practical intelligence is often underestimated.
+Garulf is a devastating fighter—one of the most dangerous individuals on the [[place-vylarianse|Vylarian Sea]] in a straight-up brawl. He is strong, tough, experienced, and without hesitation in combat. He is also a skilled tracker and survivalist, comfortable in wilderness conditions that would break softer men. His practical intelligence is often underestimated.
 
 ### Weaknesses
 
@@ -471,4 +471,4 @@ Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudgin
 
 2. **Blood Debt**: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzîr visits and is closing in.
 
-3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzîr—specifically, to ensure the ship is in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Ordo Arcanis]], and the real target is Cibella Tamaro. Garulf must decide what he is willing to sell and what he is not.
+3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzîr—specifically, to put the ship in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Ordo Arcanis]], and the real target is Cibella Tamaro. Garulf must decide what he is willing to sell and what he is not.

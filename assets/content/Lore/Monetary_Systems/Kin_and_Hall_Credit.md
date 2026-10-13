@@ -53,21 +53,21 @@ Kin-credit relationships have been the principal credit infrastructure of the st
 
 ### Áelendan and Aurèldían Variants
 
-The [[affiliation-aelndntrbs|Áelendan]] of Élavendre operate a smaller-scale kin-credit system that overlaps with the formal Vylarian commonwealth banking infrastructure of the Élavendren cities. An Áelendan family member can deal with the [[affiliation-magnumclgm|Magnum Collegium]]-chartered guilds and the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders in the cities, but within the Áelendan tribal communities of the deep forest and the [[place-drenavrspn|Drenavar foothills]], the older kin-credit system operates as the primary medium of substantial commerce. The dual presence creates interesting tensions—an Áelendan whose city dealings have produced substantial Collegium credit may find that credit not transferable into the tribal economy, where the relationship-based credit is what matters.
+The [[affiliation-aelndntrbs|Áelendan]] of Élavendre operate a smaller-scale kin-credit system that overlaps with the formal Vylarian commonwealth banking infrastructure of the Élavendren cities. An Áelendan family member can deal with the [[affiliation-tevran|Tevran Maldor]]-chartered guilds and the [[affiliation-danvar|Danvar]] moneylenders in the cities, but within the Áelendan tribal communities of the deep forest and the [[place-drenavrspn|Drenavar foothills]], the older kin-credit system operates as the primary medium of substantial commerce. The dual presence creates interesting tensions—an Áelendan whose city dealings have produced substantial Tevran credit may find that credit not transferable into the tribal economy, where the relationship-based credit is what matters.
 
 Similar dual systems operate in the more remote regions of every Aurèldían kingdom—the deep mountain valleys, the offshore islands, the frontier homesteads. The Vylarian banking infrastructure is the formal system; the older kin-and-clan credit is the informal-but-binding shadow.
 
 ## Comparison to Formal Banking
 
-|                                  | Vylarian Banking                                                  | Kin and Hall Credit                                  |
-| -------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------- |
-| **Institutional infrastructure** | Aerarium Imperii, Collegium Argentariorum, chartered moneylenders | None—operates through kin/clan/hall structure itself |
-| **Written instruments**          | Coins, notes, ledgers                                             | None—operates through public memory and recital      |
-| **Enforcement**                  | Imperial law, guild discipline, contract courts                   | Social pressure, kin obligation, public standing     |
-| **Time horizon**                 | Defined repayment dates                                           | Open-ended; settlement when circumstances support    |
-| **Mobility of debt**             | Notes transferable; assignable                                    | Bound to the specific parties and their kin          |
-| **Default consequence**          | Loss of credit access, possible court action                      | Loss of social standing across the kin network       |
-| **Range**                        | Continent-wide (within commonwealth)                              | Limited to kin/clan/hall network's reach             |
+|                                  | Vylarian Banking                                | Kin and Hall Credit                                  |
+| -------------------------------- | ----------------------------------------------- | ---------------------------------------------------- |
+| **Institutional infrastructure** | Tarmex Orzan, Danvar, chartered moneylenders    | None—operates through kin/clan/hall structure itself |
+| **Written instruments**          | Coins, notes, ledgers                           | None—operates through public memory and recital      |
+| **Enforcement**                  | Imperial law, guild discipline, contract courts | Social pressure, kin obligation, public standing     |
+| **Time horizon**                 | Defined repayment dates                         | Open-ended; settlement when circumstances support    |
+| **Mobility of debt**             | Notes transferable; assignable                  | Bound to the specific parties and their kin          |
+| **Default consequence**          | Loss of credit access, possible court action    | Loss of social standing across the kin network       |
+| **Range**                        | Continent-wide (within commonwealth)            | Limited to kin/clan/hall network's reach             |
 
 The two systems are not in competition. They handle different kinds of commerce. The Vylarian system handles transactions between strangers—anonymous market exchange across long distances. The kin-and-hall system handles transactions between parties whose relationship is itself the security of the transaction. In polities where both exist, they coexist: anonymous urban commerce in the formal banking system, intimate clan-and-hall commerce in the kin-credit system, with merchants who operate in both worlds maintaining accounts in each.
 

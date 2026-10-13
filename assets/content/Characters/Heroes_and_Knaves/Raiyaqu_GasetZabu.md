@@ -455,7 +455,7 @@ Raiyaqu Gasezabu is driven by a vision of the Empire of Aû'Khelâthu as a place
 
 ### Strengths
 
-- **Exceptional Charisma and Social Grace:** Raiyaqu's presence immediately puts people at ease; her interest in others makes even minor encounters feel meaningful. This translates to extraordinary influence in courtly and social contexts.
+- **Charisma and Social Grace:** Raiyaqu's presence immediately puts people at ease; her interest in others makes even minor encounters feel meaningful. This translates to extraordinary influence in courtly and social contexts.
 - **Keen Perception and Political Acumen:** She has a sharp and analytical mind; she reads social situations with precision and understands the currents of power and loyalty that move through noble society.
 - **Eloquent and Persuasive Speech:** When she chooses to advocate for a position, her combination of rhetorical skill and authentic conviction proves nearly irresistible; even opponents find themselves moved by her arguments.
 - **Vast Network of Talented Allies:** Her years of patronage have created a web of artisans, musicians, scholars, and craftspeople across multiple cities who owe her their success and maintain deep loyalty to her.
@@ -469,7 +469,7 @@ Raiyaqu Gasezabu is driven by a vision of the Empire of Aû'Khelâthu as a place
 - **Vulnerability to Emotional Manipulation:** Because she cares about people's well-being, those skilled in exploiting her sympathy can sway her judgment, particularly if they present themselves as artists or creative talents in need.
 - **Insufficient Political Ruthlessness:** In a nobility where alliances shift on advantage, Raiyaqu's reluctance to play cutthroat politics puts her at disadvantage against more pragmatic rivals who take it as natural that one house's gain is another's loss.
 - **Overextension Through Generosity:** Her tendency to commit resources to worthy causes without fully reckoning the sum can leave her financially strained or unable to deliver promised support.
-- **Inexperience with Genuine Hardship:** She has never truly suffered loss, failure, or deprivation, leaving her emotionally unprepared for the kinds of betrayals and cruelties that may come if her idealism is tested severely.
+- **Inexperience with Hardship:** She has never truly suffered loss, failure, or deprivation, leaving her emotionally unprepared for the kinds of betrayals and cruelties that may come if her idealism is tested severely.
 
 ## Social
 

@@ -63,7 +63,7 @@ data:
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: eshalshldg
   population: 150000
-  economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
+  economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []
   relations: {firstgods: aligned, kngdmlvndr: aligned, alndnwrdns: aligned, ordoarcanis: nemesis}
@@ -77,4 +77,4 @@ Sacred sites are a special category. Authority over them falls to the [[affiliat
 
 ## Commerce and Currency
 
-Áelendan Tribes uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Áelendan Tribes is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Áelendan Tribes uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Áelendan Tribes is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.

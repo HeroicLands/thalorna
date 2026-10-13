@@ -14,7 +14,7 @@ Mischievous and vindictive, crows are highly intelligent birds that can hold gru
 
 ## Human Personality
 
-Mischevous, curious, and resourceful, this person has a knack for problem-solving and enjoys playing tricks. They are curious and often use their wits to navigate complex situations.
+A Crow person is curious, playful and good at solving problems, and enjoys tricks. Wit gets such a person through tangled situations.
 
 - **Physical:** Keen, observant eyes; lean and agile.
 - **Behavioral:** Highly curious, resourceful in problem-solving and tool use.

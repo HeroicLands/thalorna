@@ -29,13 +29,13 @@ data:
         - {name: the Western Wars, by: affiliation-vylarinmpr}
         - name: the three centuries of conquest
           by: place-orzara
-          gloss: the length of the trophies the Via Triumphalis carries
+          gloss: the length of the trophies the Paldor carries
       where:
         locus: [place-tarvenirgn, place-leonrik, place-provenzrgn, place-elavendre]
         reach:
           - place: place-orzara
             how: >-
-              the Via Triumphalis is lined with the rostral columns, trophies and inscriptions of the wars, the longest boast in the city
+              the Paldor is lined with the rostral columns, trophies and inscriptions of the wars, the longest boast in the city
             knowledge: named
           - place: place-vylariargn
             how: >-
@@ -74,7 +74,7 @@ A chancery clerk, copying a map of the western provinces for the fourth time, ru
 
 ## The Lowlands and Léonrik
 
-The legions came west in earnest about the middle of the second century. They took the lowlands of [[place-tarvenirgn|Tarvénia]] and the southern coast, and held [[place-leonrik|Léonrik]] as an occupied march with walled towns and a chain of watchtowers to give warning of risings. [[affiliation-kngdmstrth|Astúrath]] they never took. Four expeditions went into its mountains, and the worst of them, in the reign of the Augustar Zôranthôs, was lost in the mountains. After that the Empire held the lowland approaches and left the mountains alone.
+The legions came west in earnest about the middle of the second century. They took the lowlands of [[place-tarvenirgn|Tarvénia]] and the southern coast, and held [[place-leonrik|Léonrik]] as an occupied march with walled towns and a chain of watchtowers to give warning of risings. [[affiliation-kngdmstrth|Astúrath]] they never took. Four expeditions went into its mountains, and the worst of them, in the reign of the Ôrzâs Zôranthôs, was lost in the mountains. After that the Empire held the lowland approaches and left the mountains alone.
 
 ## Provènzia and Élavendre
 
@@ -93,7 +93,7 @@ The western strait is the sea's only door to the ocean. The Empire fortified the
 - **Léonrik's watchtowers.** The chain of towers along the march, kept up by whichever lord holds the ground.
 - **Astúrath's boast.** A kingdom that was never conquered, and says so.
 - **The boundary-stones.** At the Cervaron passes, listed by the chancery and honored by the clans on the clans' terms.
-- **The Via Triumphalis.** Ôrzâra's avenue of the wars' trophies, the longest boast in the city.
+- **The Paldor.** Ôrzâra's avenue of the wars' trophies, the longest boast in the city.
 - **The strait forts.** The northern shore's fortifications, still garrisoned by whoever holds them.
 - **Provènzia's Vylarian law.** The architecture and the legal forms of the western province, which the kingdom kept after it left.
 

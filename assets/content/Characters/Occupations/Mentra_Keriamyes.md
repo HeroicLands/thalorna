@@ -398,7 +398,7 @@ Mêntrâ Kêrîamyês is a 27-year-old woman who stands 5'10" tall and is slende
 
 Mêntrâ Kêrîamyês is a glassworker of Belekos, the city of the merchant houses in the Alyssa country of [[place-vylariargn|Vylaría]], a Vylarian freewoman who makes colored windows and colored glass for houses that buy art to be seen buying it.
 
-Mêntrâ went into a glasshouse at fourteen because her family needed her wage, and stayed because she found she could see color in a way the masters could not. She served the collegium's seven years and came out with her seal and a name for windows nobody had seen before: patterns of her own, and colors laid against each other in ways the trade holds to be wrong and the buyers hold to be beautiful. In Belekos that is a living. The great merchant houses collect art because patronage is how a house shows its weight, and a window no rival house has is worth more to such a house than a window the temples approve. Her mother and sisters eat on what the houses pay.
+Mêntrâ went into a glasshouse at fourteen because her family needed her wage, and stayed because she found she could see color in a way the masters could not. She served the guild's seven years and came out with her seal and a name for windows nobody had seen before: patterns of her own, and colors laid against each other in ways the trade holds to be wrong and the buyers hold to be beautiful. In Belekos that is a living. The great merchant houses collect art because patronage is how a house shows its weight, and a window no rival house has is worth more to such a house than a window the temples approve. Her mother and sisters eat on what the houses pay.
 
 ## Psyche
 
@@ -416,7 +416,7 @@ Skilled in colored and decorative glass, inventive, quick to learn.
 
 ## Social
 
-Mêntrâ holds her seal from the Glassworkers' Collegium of Belekos, whose senior masters examined her and passed her, and have said since that they should not have.
+Mêntrâ holds her seal from the Glassworkers' Guild of Belekos, whose senior masters examined her and passed her, and have said since that they should not have.
 
 ## Companions
 
@@ -426,13 +426,13 @@ Mêntrâ's patrons are a merchant house of Belekos that has made her windows par
 
 ### Enemies
 
-The senior masters of the collegium, who hold her colors to be a fashion and her patterns a want of training; and a rival glasshouse that has begun copying her borders.
+The senior masters of the guild, who hold her colors to be a fashion and her patterns a want of training; and a rival glasshouse that has begun copying her borders.
 
 ## Plot Hooks
 
 1. **The Rival's Window**—A second merchant house has commissioned a window from Mêntrâ for the hall where it receives the first house's rivals, and her patron has heard of it.
 
-2. **The Master's Examination**—The collegium has called Mêntrâ to show a full window before the masters to confirm her seal, as it may under charter. The subject set is a traditional one.
+2. **The Master's Examination**—The guild has called Mêntrâ to show a full window before the masters to confirm her seal, as it may under charter. The subject set is a traditional one.
 
 3. **The Ledgers Go South**—Mêntrâ's patron house is moving its money out of Belekos and out of the empire, quietly, and has asked whether she will follow it to a foreign city where nobody knows her colors.
 

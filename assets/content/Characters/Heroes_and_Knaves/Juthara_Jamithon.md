@@ -424,7 +424,7 @@ Júthâra stands 5'11" tall with a medium build. She has warm amber skin, black 
 
 # Dossier {#dossier}
 
-Born into the Jâmîthôn family during the height of the Matriarchy's intellectual renaissance, Júthâra was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the renowned physician **Thessala the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
+Born into the Jâmîthôn family during the height of the Matriarchy's intellectual renaissance, Júthâra was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the physician **Thessala the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
 
 Her career took a darker turn when she accepted a commission from the ruling council to investigate a plague spreading through the outer provinces. During fieldwork in a remote village, she was attacked by infected victims who had turned feral—the source of her abdominal scar. She survived, but the experience transformed her from a clinical scholar into one obsessed with understanding the boundary between disease and corruption of the soul. For five years she disappeared from public life, conducting controversial experiments that earned her considerable censure.
 
@@ -436,7 +436,7 @@ Now at thirty-four years of age, Júthâra has emerged as a controversial but re
 
 Júthâra is a woman of fierce intellect and equally fierce conviction. Her mind moves with the speed of lightning, grasping implications and connections that escape ordinary scholars. She speaks with precise eloquence, though her words often carry an edge of impatience with slower minds. There is a melancholy undertone to her demeanor, a sense that she carries knowledge of terrible truths the world would prefer to ignore. Yet this darkness is balanced by moments of unexpected warmth, particularly when teaching promising students or discussing theoretical breakthroughs with peers who can match her intellect.
 
-She is deeply self-critical, often more harsh on herself than any external critic could be. This perfectionism drives her brilliance but also creates a tendency toward isolation and doubt. In social settings, she can be awkward and occasionally dismissive of pleasantries, though those who take time to know her discover a dry wit and genuine (if guarded) affection for those she trusts.
+She is deeply self-critical, often more harsh on herself than any external critic could be. This perfectionism drives her brilliance but also creates a tendency toward isolation and doubt. In social settings, she can be awkward and occasionally dismissive of pleasantries, though those who take time to know her discover a dry wit and real (if guarded) affection for those she trusts.
 
 ### Motivation
 

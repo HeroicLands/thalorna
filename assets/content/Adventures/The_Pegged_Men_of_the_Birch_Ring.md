@@ -52,7 +52,7 @@ The Sinalë do nothing. They do not fight, and the paths around the ring now tur
 - _Guile:_ a drum, a rope, or a song out of step with the walkers breaks the press. A bard of the Colleges steps out with half a verse.
 - _Parley:_ the clerk's lips move. He cannot speak, but he can write in the dirt with a finger while walking, and what he writes is the count of the pegs and the word _ask_.
 
-**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Sílken's, left on a day he could not enter). A Áuldalon sell-sword carries a purse of honest Vylarian silver, a few Argo.
+**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Sílken's, left on a day he could not enter). A Áuldalon sell-sword carries a purse of honest Vylarian silver, a few Ard.
 
 **Consequences.** A character who falls into step must be carried off the circuit by the others, and loses a night. A death at the circuit adds to the tally the working keeps, and the Magister feels it.
 
@@ -131,7 +131,7 @@ The Sinalë do nothing. They do not fight, and the paths around the ring now tur
 
 **Player choices.**
 
-- _Force:_ take the silver and the chest and leave. The silver is worth several hundred Argo as metal, which is a great deal. The chest is worth more to the people who want it.
+- _Force:_ take the silver and the chest and leave. The silver is worth several hundred Ard as metal, which is a great deal. The chest is worth more to the people who want it.
 - _Stealth:_ copy the letter and leave the chest for the Wardens to find.
 - _Guile:_ sell the silver to the Ordo and the letter to the Bardic Circle, and tell neither about the other.
 - _Parley:_ return the tokens to the Wardens, who know which grove or well each came from. They pay in the only coin they have, which is a Warden's word, and it opens doors in the interior that no royal writ opens.

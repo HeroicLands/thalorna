@@ -432,7 +432,7 @@ Few; generally well-respected, but may face jealousy from some.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma**—Thaldrá faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Common Seaman's Dilemma**—Thaldrá faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 
 2. **Old Grudges**—Few; generally well-respected, but may face jealousy from some. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

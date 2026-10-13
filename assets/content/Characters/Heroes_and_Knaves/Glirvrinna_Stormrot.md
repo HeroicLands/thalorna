@@ -448,7 +448,7 @@ Glirvrinna is driven by a desire to create beauty that endures, to produce work 
 - **Extraordinary Decorative Technique**: Glirvrinna's embroidery, dyeing, and pattern design are superb. Her work conveys emotion and narrative through purely textile means, creating garments and furnishings that tell stories through color and form.
 - **Color Theory Mastery**: She possesses an intuitive understanding of how colors interact, complement, and transform each other. Her dye work produces hues that seem impossible—shades of green that appear to shift in different light, crimsons that seem to pulse with warmth.
 - **Innovative Design**: While rooted in traditional forms, Glirvrinna's designs push boundaries, incorporating techniques and combinations that are truly novel. Her work frequently becomes copied by lesser artisans attempting to replicate her success.
-- **Efficient Production**: Despite her focus on beauty, she has learned to balance artistic ambition with practical schedules. She manages her workshop expertly, maintaining quality while meeting deadlines that would overwhelm less organized makers.
+- **Steady Production**: Despite her focus on beauty, she has learned to balance artistic ambition with practical schedules. She manages her workshop expertly, maintaining quality while meeting deadlines that would overwhelm less organized makers.
 - **Patron Engagement**: Unlike many artists, Glirvrinna enjoys discussing commissions with clients, translating their desires into artistic visions. She can elevate a vague request into something beautiful through collaborative process.
 
 ### Weaknesses

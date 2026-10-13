@@ -437,7 +437,7 @@ Elýsè Skýrn grew up as the daughter of an apothecary in a small village, lear
 
 Despite her success in Béravel, Elýsè grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join the [[affiliation-slntlncmpny|Silent Talon]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
 
-What Elýsè does not advertise is that her skills extend beyond conventional healing. She possesses genuine arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
+What Elýsè does not advertise is that her skills extend beyond conventional healing. She possesses arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
 
 Her relationship with Tórnis has recently added an unexpected complication to her carefully ordered life.
 
@@ -445,17 +445,17 @@ Her relationship with Tórnis has recently added an unexpected complication to h
 
 ### Skills and Abilities
 
-- **Healing**: Elýsè's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is remarkably low.
+- **Healing**: Elýsè's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is low.
 - **Alchemy**: Formally trained in the preparation of potions, tonics, and elixirs. She can identify and process rare herbs and compounds, and is always experimenting with new formulations.
 - **Herbalism**: An expert botanist with an encyclopedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
-- **Hidden Arcane Talent**: Elýsè possesses genuine magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
-- **Charm**: Elýsè has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is genuinely warm—but it also serves as effective camouflage for the things she chooses not to reveal.
+- **Hidden Arcane Talent**: Elýsè possesses magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
+- **Charm**: Elýsè has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is warm—but it also is effective camouflage for the things she chooses not to reveal.
 
 ## Psyche
 
 ### Personality
 
-Elýsè is calm, resourceful, and empathetic, with an infectious optimism that lifts the spirits of those around her. She is focused on her work, valuing knowledge and skill above all else. Beneath the warmth, however, she is quietly guarded—she prefers to keep personal matters to herself and is cautious about letting others too close to the parts of her life she has chosen to hide.
+Elýsè is calm, resourceful, and empathetic, with an optimism that lifts the spirits of those around her. She is focused on her work, valuing knowledge and skill above all else. Beneath the warmth, however, she is quietly guarded—she prefers to keep personal matters to herself and is cautious about letting others too close to the parts of her life she has chosen to hide.
 
 ### Motivation
 

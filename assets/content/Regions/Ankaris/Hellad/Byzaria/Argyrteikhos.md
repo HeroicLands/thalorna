@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: argyrteikhos2
   population: 1400000
-  economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
+  economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
   relations: {arldnpnthn: aligned}
@@ -92,7 +92,7 @@ Argýrteíkhos is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon
 
 ## Commerce and Currency
 
-Argýrteíkhos uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Argýrteíkhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Argýrteíkhos uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Argýrteíkhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

@@ -11,7 +11,7 @@ data:
   occupation: Pilot
   lore: []
   culture: tarvenanclt
-  homes: [castamere]
+  homes: [durgalis]
   affiliations: {kingdmtrvn: {rank: 5}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
@@ -401,9 +401,9 @@ Dálina Valárion is a 28-year-old woman who stands 5'9" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Dálina Valárion is a pilot of Castamere, a castle town of [[place-tarvenirgn|Tarvénia]], a daughter of a Tarvénan noble house who has the con of the family's cargo ship and keeps her house in the town when the ship is laid up.
+Dálina Valárion is a pilot of Dúrgalis, a castle town of [[place-tarvenirgn|Tarvénia]], a daughter of a Tarvénan noble house who has the con of the family's cargo ship and keeps her house in the town when the ship is laid up.
 
-Dálina comes of a house that holds a small lordship at Castamere and a ship at Valthári, the free port on the southern coast, and the ship has paid for the lordship for two generations. She went aboard it at twelve because her father had no son who wanted the sea, and she has been its pilot for eight years: she sets the course, reads the coast and the sky, and brings its cargoes in whole and on the day they are due. The crews respect her, because she has never lost a man to weather she could have avoided. She has a talent for handling a crew and none for the sums, and she has made herself a nuisance to the ship-owners' council at Valthári by arguing for the crews' share and rations in a port where the owners set both.
+Dálina comes of a house that holds a small lordship at Dúrgalis and a ship at Valthári, the free port on the southern coast, and the ship has paid for the lordship for two generations. She went aboard it at twelve because her father had no son who wanted the sea, and she has been its pilot for eight years: she sets the course, reads the coast and the sky, and brings its cargoes in whole and on the day they are due. The crews respect her, because she has never lost a man to weather she could have avoided. She has a talent for handling a crew and none for the sums, and she has made herself a nuisance to the ship-owners' council at Valthári by arguing for the crews' share and rations in a port where the owners set both.
 
 ## Psyche
 
@@ -421,7 +421,7 @@ A fine leader of a crew, speaks well and plainly, skilled in the stowing and han
 
 ## Social
 
-Dálina holds her license from the Pilots' Guild of Valthári, chartered under the Magnum Collegium, which examines every pilot who takes a ship in over the port's bar.
+Dálina holds her license from the Pilots' Guild of Valthári, chartered under the Tevran Maldor, which examines every pilot who takes a ship in over the port's bar.
 
 ## Companions
 

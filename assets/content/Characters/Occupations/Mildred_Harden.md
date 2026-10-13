@@ -429,7 +429,7 @@ Few; well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Mildred faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Innkeeper's Dilemma**—Mildred faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—Few; well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

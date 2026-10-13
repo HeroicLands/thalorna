@@ -11,7 +11,7 @@ data:
   occupation: Shipwright
   lore: []
   culture: tarvenanclt
-  homes: [solarden]
+  homes: [herthema]
   affiliations: {kingdmtrvn: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
@@ -450,7 +450,7 @@ A deeper motivation underlies this: Dómeth builds ships because they are perman
 
 ### Strengths
 
-- **Transcendent Shipwright Mastery**: His understanding of vessel construction encompasses technique and an almost intuitive grasp of how wood behaves in water, how forces distribute through structure, and how to create ships that are simultaneously stronger and lighter than conventional design permits.
+- **Shipwright Mastery**: His understanding of vessel construction encompasses technique and an almost intuitive grasp of how wood behaves in water, how forces distribute through structure, and how to create ships that are simultaneously stronger and lighter than conventional design permits.
 - **Materials Expertise**: His knowledge of timber types, their properties, strengths, and weaknesses is encyclopedic; he can select materials for specific purposes with an accuracy that borders on prophetic.
 - **Structural Reasoning**: His mathematical and reasoning faculties are strong, allowing him to calculate the stresses that will bear upon a vessel and design against them with precision.
 - **Leadership Through Respect**: Those who work under Dómeth recognize the integrity of his vision and respond with absolute dedication, resulting in construction crews of unusual coherence and quality.
@@ -479,7 +479,7 @@ Priestess-Keeper Maristela of Ólvenía's Temple
 
 ### Enemies
 
-Master-Craftsman Aldred the Efficient
+Master-Craftsman Aldred the Swift
 : A rival shipwright who has built his reputation on fast, cheap construction and views Dómeth's premium work as market distortion; Aldred actively spreads rumors that Gráveth vessels are overpriced relics and works to capture Dómeth's would-be customers.
 
 The Merchant's Association Reform Faction

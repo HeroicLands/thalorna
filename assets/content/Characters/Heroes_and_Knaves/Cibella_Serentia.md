@@ -398,7 +398,7 @@ sohl:
 
 ![[cibelasrnt|Cibella Serentia]]{float=top-left}
 
-Cibella Serentia is a young woman of startling beauty and deeply unsettling presence. She is slender and pale, with rich brown hair that hangs loose to her waist, hazel eyes that seem to focus on things that are not there, and a face that shifts between ethereal calm and sudden, piercing intensity without warning. Her most characteristic expression is a distant stare—fixed on some point beyond the walls, beyond the horizon, as if she sees something there that no one else can perceive. She does this even sitting in a closed room, and it is deeply unsettling to those around her. Her normal affect is remarkably childlike: she takes wonder and intense concentration at the most inconsequential or ordinary things—a knot in a plank, the way light moves through water, the pattern of someone's breathing—and then, without warning, will blurt out an insight of almost impossible depth or precision before retreating back into quiet fascination. She dresses simply in a linen robe and leather shoes, and she carries nothing. She needs nothing.
+Cibella Serentia is a young woman of startling beauty and deeply unsettling presence. She is slender and pale, with rich brown hair that hangs loose to her waist, hazel eyes that seem to focus on things that are not there, and a face that shifts between ethereal calm and sudden, piercing intensity without warning. Her most characteristic expression is a distant stare—fixed on some point beyond the walls, beyond the horizon, as if she sees something there that no one else can perceive. She does this even sitting in a closed room, and it is deeply unsettling to those around her. Her normal affect is childlike: she takes wonder and intense concentration at the most inconsequential or ordinary things—a knot in a plank, the way light moves through water, the pattern of someone's breathing—and then, without warning, will blurt out an insight of almost impossible depth or precision before retreating back into quiet fascination. She dresses simply in a linen robe and leather shoes, and she carries nothing. She needs nothing.
 
 # Dossier {#dossier}
 
@@ -406,7 +406,7 @@ Cibella Serentia is a young woman of startling beauty and deeply unsettling pres
 
 ### Origin
 
-Cibella was born in [[place-belekos|Belekos]] to the same wealthy merchant family as her brother Lucerian. From infancy, she was different. She spoke early, read earlier, and displayed an insatiable hunger for knowledge that outpaced every tutor her parents provided. By ten, she was solving mathematical problems that challenged university scholars. By twelve, her arcane aura—the ambient resonance that marks those with potential for magical ability—was measured as Profound, the highest classification. She was a genius in every measurable sense, and the world seemed limitless.
+Cibella was born in [[place-belekos|Belekos]] to the same wealthy merchant family as her brother Lucerian. From infancy, she was different. She spoke early, read earlier, and displayed an insatiable hunger for knowledge that outpaced every tutor her parents provided. By ten, she was solving mathematical problems that challenged university scholars. By twelve, her arcane aura—the ambient resonance that marks those with potential for magical ability—was measured as the highest classification. She was a genius in every measurable sense, and the world seemed limitless.
 
 ### The Academy
 
@@ -436,7 +436,7 @@ Cibella wants to feel safe. She wants the noise in her head to stop. She wants t
 
 ### Strengths
 
-Cibella's abilities are extraordinary—and entirely beyond her voluntary control. She is not in direct command of any of them. Her runecraft mastery exceeds that of Ordo scholars with decades more experience, but it surfaces unpredictably, often when she is drawing or calculating in a dissociative state. Her mathematical and analytical abilities are superhuman, but they emerge as sudden, unbidden insights rather than deliberate reasoning. Most unsettling are her physical capabilities: she is a devastating fighter with sword, dagger, and bare hands, possessed of preternatural reflexes and acts of impossible dexterity and agility—but she does not know this about herself. In calm moments she is passive, even helpless, and will stand idle while threatened, needing others to protect her. It is only when genuine danger reaches her that something deeper takes over—a wholly subconscious response that transforms her into a blur of lethal precision. The moment the threat passes, she reverts, often confused and frightened by what her body has done. She cannot summon these abilities at will, and she is frequently surprised by herself. She also possesses an intuitive awareness of arcane phenomena that allows her to perceive and interact with magical forces in ways that others cannot—she stares at things no one else can see, and what she sees there is real.
+Cibella's abilities are extraordinary—and entirely beyond her voluntary control. She is not in direct command of any of them. Her runecraft mastery exceeds that of Ordo scholars with decades more experience, but it surfaces unpredictably, often when she is drawing or calculating in a dissociative state. Her mathematical and analytical abilities are superhuman, but they emerge as sudden, unbidden insights rather than deliberate reasoning. Most unsettling are her physical capabilities: she is a devastating fighter with sword, dagger, and bare hands, with preternatural reflexes and acts of impossible dexterity and agility—but she does not know this about herself. In calm moments she is passive, even helpless, and will stand idle while threatened, needing others to protect her. It is only when danger reaches her that something deeper takes over—a wholly subconscious response that transforms her into a blur of lethal precision. The moment the threat passes, she reverts, often confused and frightened by what her body has done. She cannot summon these abilities at will, and she is frequently surprised by herself. She also possesses an intuitive awareness of arcane phenomena that allows her to perceive and interact with magical forces in ways that others cannot—she stares at things no one else can see, and what she sees there is real.
 
 ### Weaknesses
 
@@ -446,7 +446,7 @@ Cibella suffers from severe dissociation. She is not in control of her own abili
 
 ### Patrons
 
-Her brother [[being-lucernsrnt|Lucerian Serentia]] is her protector, caretaker, and most constant presence. The crew of the **Tamzîr** have become reluctant but genuine guardians.
+Her brother [[being-lucernsrnt|Lucerian Serentia]] is her protector, caretaker, and most constant presence. The crew of the **Tamzîr** have become reluctant but guardians.
 
 ### Enemies
 

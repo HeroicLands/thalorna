@@ -420,7 +420,7 @@ As a Tarvénan musician (lute), Ánira occupies a recognized social niche within
 
 ### Patrons
 
-Ánira's primary patron is Tavern owners and common folk who enjoy her music.. This relationship provides both opportunity and obligation.
+Ánira's primary patron is Tavern owners and common folk who enjoy her music. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -428,7 +428,7 @@ Jealous musicians who see her as competition.
 
 ## Plot Hooks
 
-1. **The Musician (Lute)'s Dilemma**—Ánira faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Musician (Lute)'s Dilemma**—Ánira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 
 2. **Old Grudges**—Jealous musicians who see her as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -421,7 +421,7 @@ A hard bargainer, knows the luxury trade, well connected in the halls and the ha
 
 ## Social
 
-Aldred holds his seal from the Merchants' Guild of Dunmere, chartered under the Magnum Collegium, and is one of the few of its members received in the king's hall.
+Aldred holds his seal from the Merchants' Guild of Dunmere, chartered under the Tevran Maldor, and is one of the few of its members received in the king's hall.
 
 ## Companions
 

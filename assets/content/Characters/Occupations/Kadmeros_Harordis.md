@@ -398,7 +398,7 @@ Kadméros Hârôrdîs is a 38-year-old man who stands 6'1" tall and is of modera
 
 Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kadméros Hârôrdîs came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
-Kadméros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his intricate carvings and quality craftsmanship, Kadméros is proud of his trade, though he often struggles to find steady customers in a small community.
+Kadméros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his carvings and quality craftsmanship, Kadméros is proud of his trade, though he often struggles to find steady customers in a small community.
 
 ## Psyche
 
@@ -416,7 +416,7 @@ Skilled in woodworking, detailed carving, and finishing techniques.
 
 ## Social
 
-Kadméros is affiliated with None; works independently in his family workshop..
+Kadméros is affiliated with None; works independently in his family workshop.
 
 As a Vylarian woodcrafter, Kadméros occupies a recognized social niche within Vylaria society.
 
@@ -424,7 +424,7 @@ As a Vylarian woodcrafter, Kadméros occupies a recognized social niche within V
 
 ### Patrons
 
-Kadméros's primary patron is Local villagers and travelers who appreciate handmade wooden items.. This relationship provides both opportunity and obligation.
+Kadméros's primary patron is Local villagers and travelers who appreciate handmade wooden items. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ None; he is generally well-liked.
 
 ## Plot Hooks
 
-1. **The Woodcrafter's Dilemma**—Kadméros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Woodcrafter's Dilemma**—Kadméros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—None; he is generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

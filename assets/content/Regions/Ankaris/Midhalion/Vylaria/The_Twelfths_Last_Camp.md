@@ -3,7 +3,7 @@ shortcode: twelfthcamp
 name: {full: The Twelfth's Last Camp, aliases: [The Cervaron Fort, The Wintering Fort]}
 type: place
 subType: site
-description: "A ruined frontier fort below the Cervaron passes where the last cohorts of the Twelfth Vesperine wintered about 680 AF, recently cleared of the undead by a border patrol; the legion's lost eagle may lie in it."
+description: "A ruined frontier fort below the Cervaron passes where the last cohorts of the Doran Hilvan wintered about 680 AF, recently cleared of the undead by a border patrol; the legion's lost eagle may lie in it."
 tags: [vylaria, frontier, ruin, fortress]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 A patrol sergeant, reporting to a Mokturan officer over a table in a border post, put the matter plainly. "We cleared it in the autumn. Eleven of them, in the barracks, in the old order of the watch, and they did not run. The captain says that is the end of it. I would not sleep there."
 
-The **Twelfth's Last Camp** is the ruin of a timber-and-stone fort on the Vylarian side of the [[place-vylariargn#the-cervaron-spine|Cervaron Spine]], below the passes. It is where the rear cohorts of the Twelfth Vesperine wintered when the legion went up into the range ([[lore-twelfthloss|The Loss of the Twelfth]]). A border patrol has recently cleared it of the undead.
+The **Twelfth's Last Camp** is the ruin of a timber-and-stone fort on the Vylarian side of the [[place-vylariargn#the-cervaron-spine|Cervaron Spine]], below the passes. It is where the rear cohorts of the Doran Hilvan wintered when the legion went up into the range ([[lore-twelfthloss|The Loss of the Twelfth]]). A border patrol has recently cleared it of the undead.
 
 ## What Is There
 

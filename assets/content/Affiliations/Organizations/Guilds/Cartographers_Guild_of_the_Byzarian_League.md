@@ -39,7 +39,7 @@ data:
         Chair of the Council of Masters, presently Olára Mareniês, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities.
   seat: null
   population: null
-  economy: [affiliation-magnumclgm]
+  economy: [affiliation-tevran]
   lore: []
   parents: []
   relations: {}
@@ -50,8 +50,8 @@ sohl: {system: {commonSkills: []}}
 
 - Type: chartered professional guild
 - Region: [[place-byzariargn|Byzaría]], with chapterhouses in every League city
-- Charter: originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|Magnum Collegium]] three centuries ago, when Byzaría was an imperial province; both charters remain operative—the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
-- Magnum Collegium status: full member; the Grand Cartographer holds the Cartographers' seat on the **Curia Collegiorum** at [[place-orzara|Ôrzâra]]
+- Charter: originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-tevran|Tevran Maldor]] three centuries ago, when Byzaría was an imperial province; both charters remain operative—the League charter as the guild's municipal foundation, the Tevran charter as its supra-realm standing
+- Tevran Maldor status: full member; the Grand Cartographer holds the Cartographers' seat on the **Council of the Tevran** at [[place-orzara|Ôrzâra]]
 
 ## Overview
 
@@ -82,7 +82,7 @@ In practice the standards have eroded under commercial pressure. Maps are commis
 ## Relations
 
 - The League council and military—primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
-- The [[affiliation-magnumclgm|Magnum Collegium]]—supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Collegium charter; the **Censores Collegiorum** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches Curia attention, the consequences for the guild's charter could be substantial.
+- The [[affiliation-tevran|Tevran Maldor]]—supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Tevran charter; the **Censors of the Tevran** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches the Council's attention, the consequences for the guild's charter could be substantial.
 - The Crime Syndicates of Thalorna, particularly the **Theft Syndicate of the Eastern Docks**—quietly major purchasers of guild work for purposes the guild's charter forbids.
 - The [[affiliation-blackledgr|Black Ledger]]—the guild's shadow. Most Ledger members are guild-trained, and many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist, and the city guard pretends the Council does not know.
 - Foreign powers—[[place-tarvenirgn|Tarvénia]], an unidentified northern confederation and at least one Vylarian province pay handsomely for League maps procured through irregular channels.

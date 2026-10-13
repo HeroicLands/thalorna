@@ -11,7 +11,7 @@ data:
   occupation: Salter
   lore: []
   culture: provenzianclt
-  homes: [chastelclr]
+  homes: [durvalis]
   affiliations: {kngdmprvnz: {rank: 2}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
@@ -398,9 +398,9 @@ Chýnara Kórisvar is a 29-year-old woman who stands 6'1" tall and is of moderat
 
 # Dossier {#dossier}
 
-Chýnara Kórisvar is a salter of Chastèlclair, the fortress town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
+Chýnara Kórisvar is a salter of Durvalìs, the fortress town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
 
-Chýnara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Valcèrise. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chýnara has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
+Chýnara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Pirnebrìs. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chýnara has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
 
 ## Psyche
 
@@ -438,4 +438,4 @@ A victualer of the town who buys cheap salt and cheaper fish, sells his barrels 
 
 3. **The Assize**—The rival victualer has brought a claim against Chýnara at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
 
-4. **The Passes Close Early**—The snow has come a month before its time with the salt carts still below Valcèrise. Chýnara has fish in the yard and no salt to cure it.
+4. **The Passes Close Early**—The snow has come a month before its time with the salt carts still below Pirnebrìs. Chýnara has fish in the yard and no salt to cure it.

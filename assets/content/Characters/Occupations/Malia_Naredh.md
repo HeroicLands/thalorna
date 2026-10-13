@@ -418,7 +418,7 @@ Empathetic toward animals, skilled in herding techniques, quick learner.
 
 ## Social
 
-Mália is affiliated with None; works independently..
+Mália is affiliated with None; works independently.
 
 As a Élavendri herder, Mália occupies a recognized social niche within Élavendre society.
 
@@ -426,7 +426,7 @@ As a Élavendri herder, Mália occupies a recognized social niche within Élaven
 
 ### Patrons
 
-Mália's primary patron is Local families who purchase her wool and lambs.. This relationship provides both opportunity and obligation.
+Mália's primary patron is Local families who purchase her wool and lambs. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Few, though some neighboring farmers see her as inexperienced.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma**—Mália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Herder's Dilemma**—Mália faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few, though some neighboring farmers see her as inexperienced. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

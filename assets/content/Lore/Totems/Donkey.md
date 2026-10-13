@@ -14,7 +14,7 @@ Patient and obstinate, donkeys are known for their stubbornness and will resist 
 
 ## Human Personality
 
-Stubborn and resilient, this person stands firm in their beliefs and resists being forced into actions they perceive as unreasonable. They are patient, enduring, and steadfast.
+A Donkey person digs in against anything that seems unreasonable and cannot be forced into it. Patient and enduring, such a person simply outlasts the pressure.
 
 - **Physical:** Compact, sturdy build; strong legs and back.
 - **Behavioral:** Extremely patient, often stubborn and resistant to change.

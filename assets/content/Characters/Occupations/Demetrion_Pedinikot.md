@@ -378,7 +378,7 @@ Ghorigios was born into a minor Byzarian merchant family and chose military serv
 
 Now at thirty-nine, he commands the evening bazaar patrol and maintains order in one of [[place-byzariargn|Byzaría]]'s most chaotic and profitable commercial spaces. His hair is receding noticeably and his thick mustache has gone more gray than black. Most people would describe him as unremarkable if they were forced to provide detail: he is neither tall nor short, neither muscular nor weak, neither young nor aged. He appears sleepy half the time, and people tend to underestimate him reflexively.
 
-Ghorigios understands that his apparent unremarkability is one of his greatest assets. Criminals and corrupt merchants are watching for aggressive, obvious authority. They do not notice the sleepy-looking guard who seems to be doing paperwork. He has used this advantage for twenty years to become genuinely effective at his work.
+Ghorigios understands that his apparent unremarkability is one of his greatest assets. Criminals and corrupt merchants are watching for aggressive, obvious authority. They do not notice the sleepy-looking guard who seems to be doing paperwork. He has used this advantage for twenty years to become effective at his work.
 
 ## Psyche
 
@@ -392,11 +392,11 @@ Ghorigios's primary motivation is maintaining functional order in a chaotic comm
 
 ### Strengths
 
-His ability to read people and situations is exceptional. His pattern recognition in criminal behavior is sophisticated and reliable. He is patient with tedious investigation. His knowledge of the bazaar and its networks is comprehensive.
+His ability to read people and situations is outstanding. He reads the habits of criminals well and reliably. He is patient with tedious investigation. His knowledge of the bazaar and its networks is comprehensive.
 
 ## Social
 
-Ghorigios is barely noticed by most bazaar users, which is precisely how he prefers it. He is respected by merchants who understand that his quiet effectiveness benefits them, and he is feared by criminals who recognize that his unremarkable appearance masks genuine competence.
+Ghorigios is barely noticed by most bazaar users, which is precisely how he prefers it. He is respected by merchants who understand that his quiet effectiveness benefits them, and he is feared by criminals who recognize that his unremarkable appearance masks competence.
 
 ## Companions
 

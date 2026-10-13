@@ -395,7 +395,7 @@ sohl:
 
 Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Álmera Desolárdran came into the world of the caravan guard through a combination of circumstance and aptitude.
 
-Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her an invaluable asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
+Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her a useful asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
 
 ## Psyche
 
@@ -421,7 +421,7 @@ As a Tarvénan caravan guard, Álmera occupies a recognized social niche within 
 
 ### Patrons
 
-Álmera's primary patron is Caravan leaders seeking a reliable scout and guard.. This relationship provides both opportunity and obligation.
+Álmera's primary patron is Caravan leaders seeking a reliable scout and guard. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -429,7 +429,7 @@ Few; generally well-liked among her peers.
 
 ## Plot Hooks
 
-1. **The Caravan Guard's Dilemma**—Álmera faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Caravan Guard's Dilemma**—Álmera faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 
 2. **Old Grudges**—Few; generally well-liked among her peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

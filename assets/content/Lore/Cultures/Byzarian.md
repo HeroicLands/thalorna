@@ -49,7 +49,7 @@ Her admiration is not a lesser form of the man's. Alýkos earns his standing by 
 
 A Byzarian can point to a handful of things that make the system work. **The register** of each city lists who is a freeman, and being struck from it voids every contract the person holds. **The charter** of a trade states its privileges and obligations in that order. **The seal** is a brass die with the master's own mark and the year it was issued; the cartographers' impressions are red wax on a civil commission and black on a military one, and no general in the League marches on a chart without a guild seal. **The standards** against which the Warden of the Weights inspects measures, coin and quality are the nearest the cities come to a sacred object. **The Cartographic Archive** holds every map a guild master has sealed since the charter was granted, and is the guild's treasure and its weak point.
 
-The League's **common tariff** is the closest it has to a founding document, and the **Merchant Hall** in Khrýshteíkhos, where council and exchange share one roof, is its standing temple of business. Each house keeps its own copies of every paper that binds it. **The paper-script** of the Collegium Argentariorum carries large sums across the League's borders and across the sea.
+The League's **common tariff** is the closest it has to a founding document, and the **Merchant Hall** in Khrýshteíkhos, where council and exchange share one roof, is its standing temple of business. Each house keeps its own copies of every paper that binds it. **The paper-script** of the Danvar carries large sums across the League's borders and across the sea.
 
 ## Faith on the Road and at the Tomb
 
@@ -180,4 +180,4 @@ The Cartographers' Guild shows the same pattern in a smaller place. Its seal mak
 | Unfree                | A person bound in service or debt-bondage, holding neither property nor the right to contract     |
 | Warden of the Weights | Inspector of measures, coin and quality in the markets; the highest civic honor in a League city  |
 
-Argo, Aurion, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ard, Solden, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

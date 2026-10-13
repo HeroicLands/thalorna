@@ -3,7 +3,7 @@ shortcode: deltaexped
 name: {full: The Delta Expedition, aliases: [The Crossing to the Delta]}
 type: lore
 subType: history
-description: "In 377 AF the Augustar Barnâkîs sends the Empire's strongest field army across the sea to the Khelâthi delta; it breaks the chariot corps at Khelaga, its commander is crowned in the Khelâthi manner, and the chancery enters him as a traitor and stops writing his name."
+description: "In 377 AF the Ôrzâs Barnâkîs sends the Empire's strongest field army across the sea to the Khelâthi delta; it breaks the chariot corps at Khelaga, its commander is crowned in the Khelâthi manner, and the chancery enters him as a traitor and stops writing his name."
 tags: [history, vylaria, ageconquest]
 data:
   culture: vylarianclt
@@ -20,7 +20,7 @@ data:
         - place-khelaga
         - lore-vylconquest
       summary: >-
-        The Augustar Barnâkîs sends the strongest field army the Empire has across the sea to the delta of the Khelâthi river. It breaks the chariot corps at Khelaga, and the priesthood of the river crowns its commander under the throne name Zab'el'Qar. He never comes home. The chancery enters him as a traitor and from that day does not write his name.
+        The Ôrzâs Barnâkîs sends the strongest field army the Empire has across the sea to the delta of the Khelâthi river. It breaks the chariot corps at Khelaga, and the priesthood of the river crowns its commander under the throne name Zab'el'Qar. He never comes home. The chancery enters him as a traitor and from that day does not write his name.
       standing: attested
       names:
         - {name: the Delta Expedition, by: affiliation-vylarinmpr}
@@ -53,7 +53,7 @@ data:
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            The legions crossed the sea, took the delta apex in a single field battle, and held the province for the Augustar for as long as the Augustar could spare men to hold it.
+            The legions crossed the sea, took the delta apex in a single field battle, and held the province for the Ôrzâs for as long as the Ôrzâs could spare men to hold it.
           agrees: partly
           withholds: the legions' losses, the commander's name and the fact that he did not return
         - by: affiliation-empireakhlth
@@ -66,11 +66,11 @@ data:
         - which senatorial house will not speak of him
 ---
 
-An archivist at the Officia, asked by a visiting scholar for the muster rolls of the year 377, brings the roll and lays it on the table open at the right place. The strongest field army in the Empire is entered in full, legion by legion, as it embarks. Its return is not entered, and the archivist does not offer a reason. "The roll ends at the quay," he says. "What happened after is in the other column."
+An archivist at the Offices, asked by a visiting scholar for the muster rolls of the year 377, brings the roll and lays it on the table open at the right place. The strongest field army in the Empire is entered in full, legion by legion, as it embarks. Its return is not entered, and the archivist does not offer a reason. "The roll ends at the quay," he says. "What happened after is in the other column."
 
 ## The Crossing
 
-The Augustar Barnâkîs reigned from about 362 and spent the first fifteen years of his reign on the Empire's other frontiers. In 377 he did what no Augustar before him had tried and sent the whole of a field army, the best of the legions the Western Wars had made, across 570 miles of open sea to the [[affiliation-empireakhlth|Khelâthi]] delta. The fleets that carried it were the largest the Empire had assembled, and the grain that fed it had to follow in more.
+The Ôrzâs Barnâkîs reigned from about 362 and spent the first fifteen years of his reign on the Empire's other frontiers. In 377 he did what no Ôrzâs before him had tried and sent the whole of a field army, the best of the legions the Western Wars had made, across 570 miles of open sea to the [[affiliation-empireakhlth|Khelâthi]] delta. The fleets that carried it were the largest the Empire had assembled, and the grain that fed it had to follow in more.
 
 The army landed at the delta and marched on [[place-khelaga|Khelaga]], where the river first divides. The Gar-Aû met it with the chariot corps, and the corps broke on the legions' line ([[lore-vylconquest|The Vylarian Conquest]] tells the battle from the Khelâthi bank).
 
@@ -95,6 +95,6 @@ The Empire lost its strongest field force for as long as the house reigned. Barn
 
 - [[lore-vylconquest|The Vylarian Conquest]]—the same battle from the Khelâthi side
 - [[lore-westernwars|The Western Wars]]—the campaigns that built the army
-- [[lore-brkensuccsn|The Broken Succession]]—what followed the Augustar's death
+- [[lore-brkensuccsn|The Broken Succession]]—what followed the Ôrzâs's death
 - [[place-chariotfld|The Chariot Field]] · [[place-shortway|The Short Way of Amralo'Methu]]—what it left across the sea
 - [[affiliation-vylarinmpr|Vylarian Empire]]

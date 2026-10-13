@@ -481,7 +481,7 @@ Shipbuilder Master Alden Coursewright
 
 ### Enemies
 
-Industrialist Merchant Grayson Thrift
+Merchant Grayson Thrift
 : A merchant who has turned much of the wood-working trade over to mills, creating cheaper, faster work at the cost of quality. Grayson views Tamūra's insistence on traditional methods as an impediment to progress and has publicly derided his approach as antiquated. Grayson actively seeks to undercut Tamūra's prices and steal his commissions.
 
 Rival Craftsman Marden the Swift

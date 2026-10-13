@@ -426,7 +426,7 @@ As a Helionite apothecary, Rísàkós occupies a recognized social niche within 
 
 ### Patrons
 
-Rísàkós's primary patron is Criminals, mercenaries, and desperate people.. This relationship provides both opportunity and obligation.
+Rísàkós's primary patron is Criminals, mercenaries, and desperate people. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ The city watch, who are suspicious of his dealings.
 
 ## Plot Hooks
 
-1. **The Apothecary's Dilemma**—Rísàkós faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Apothecary's Dilemma**—Rísàkós faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—The city watch, who are suspicious of his dealings. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

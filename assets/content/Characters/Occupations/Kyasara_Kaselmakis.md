@@ -420,7 +420,7 @@ As a Vylarian thespian, Kyàsârâ occupies a recognized social niche within Vyl
 
 ### Patrons
 
-Kyàsârâ's primary patron is Theater enthusiasts and local nobles who attend her performances.. This relationship provides both opportunity and obligation.
+Kyàsârâ's primary patron is Theater enthusiasts and local nobles who attend her performances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -428,7 +428,7 @@ Envious actresses who see her as a threat.
 
 ## Plot Hooks
 
-1. **The Thespian's Dilemma**—Kyàsârâ faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Thespian's Dilemma**—Kyàsârâ faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—Envious actresses who see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

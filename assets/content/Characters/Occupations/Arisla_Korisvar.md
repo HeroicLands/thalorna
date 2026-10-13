@@ -11,7 +11,7 @@ data:
   occupation: Herald
   lore: []
   culture: provenzianclt
-  homes: [chastelclr]
+  homes: [durvalis]
   affiliations: {kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
   gender: female
   species: humanflk

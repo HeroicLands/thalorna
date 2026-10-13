@@ -446,8 +446,8 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 
 ### Strengths
 
-- **Unparalleled Medical Expertise**: His physician skill, with four specializations, is mastery of the healing arts. There are few ailments within the Byzarian League that Alýkos cannot diagnose or treat with great effect. His knowledge encompasses herbalism, surgical technique, and the subtle signs of internal disease.
-- **Exceptional Perception**: His perception lets him notice minute signs—a discoloration of the lips suggesting anemia, a tremor indicating nerve damage, a subtle smell indicating certain infections. Few details escape his observation.
+- **Medical Expertise**: His physician skill, with four specializations, is mastery of the healing arts. There are few ailments within the Byzarian League that Alýkos cannot diagnose or treat with great effect. His knowledge encompasses herbalism, surgical technique, and the subtle signs of internal disease.
+- **Perception**: His perception lets him notice minute signs—a discoloration of the lips suggesting anemia, a tremor indicating nerve damage, a subtle smell indicating certain infections. Few details escape his observation.
 - **Extensive Herbal and Alchemical Knowledge**: His herblore and brewing skills are considerable, allowing him to create medicines, tinctures, and remedies of great potency. His knowledge of mineral properties and their medicinal uses has few equals.
 - **Eloquence and Discourse**: His ability to communicate complex medical concepts clearly makes him an effective teacher and consultant. Patients understand his explanations; students grasp his lessons; other healers respect his reasoning.
 - **Intellectual Reasoning**: His reasoning allows him to draw observations together into theories, identify patterns across diverse cases, and make intuitive leaps that advance his understanding of disease.

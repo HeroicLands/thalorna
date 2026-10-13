@@ -399,7 +399,7 @@ Jirâman Ashûrûnî is a 43-year-old man who stands 5'10" tall and is of modera
 
 Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Jirâman Ashûrûnî came into the world of the skald through a combination of circumstance and aptitude.
 
-Jirâman was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is renowned for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
+Jirâman was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is known for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
 
 ## Psyche
 
@@ -425,7 +425,7 @@ As a Tarûzelian skald, Jirâman occupies a recognized social niche within Tarû
 
 ### Patrons
 
-Jirâman's primary patron is Local chieftains and warriors who appreciate his tales of heroism.. This relationship provides both opportunity and obligation.
+Jirâman's primary patron is Local chieftains and warriors who appreciate his tales of heroism. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Rival skalds who envy his skill and fame.
 
 ## Plot Hooks
 
-1. **The Skald's Dilemma**—Jirâman faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Skald's Dilemma**—Jirâman faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Rival skalds who envy his skill and fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

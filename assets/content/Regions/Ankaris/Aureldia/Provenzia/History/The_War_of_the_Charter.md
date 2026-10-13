@@ -16,11 +16,11 @@ data:
         - affiliation-kngdmprvnz
         - place-provenzrgn
         - place-aureliane
-        - place-lunacorte
+        - place-jalnazdal
         - affiliation-sacredforge
         - affiliation-vylarinmpr
       summary: >-
-        Burdened with levies for the frontier and taxes for a distant Augustar, the province's estates refuse the governor. The Sacred Forge preaches against an Empire that tolerates the Flame, and the port cities and the Thânevar country fight the governor's legion for nine years. Nobody declares a kingdom. The peace grants a Charter of Rights, held by a king the estates choose, Ylârven of the Meridiàne house of Lédravren, and the Empire stops sending governors.
+        Burdened with levies for the frontier and taxes for a distant Ôrzâs, the province's estates refuse the governor. The Sacred Forge preaches against an Empire that tolerates the Flame, and the port cities and the Thânevar country fight the governor's legion for nine years. Nobody declares a kingdom. The peace grants a Charter of Rights, held by a king the estates choose, Ylârven of the Meridiàne house of Lédravren, and the Empire stops sending governors.
       standing: attested
       names:
         - {name: the War of the Charter, by: affiliation-kngdmprvnz}
@@ -28,13 +28,13 @@ data:
       where:
         locus: [place-provenzrgn]
         reach:
-          - place: place-lunacorte
+          - place: place-jalnazdal
             how: the Charter's first king settles his court on the coast, where the money is, and the kingdom is governed from it
             knowledge: named
           - place: place-aureliane
             how: the old provincial capital keeps the high courts and the academies and loses the court
             knowledge: named
-          - place: place-serramarca
+          - place: place-talothe
             how: the march is left to defend itself against Tarvénia, and the Tarvénian hosts press it while the province fights its governor
             knowledge: named
       who:
@@ -64,14 +64,14 @@ data:
           agrees: partly
       unresolved:
         - who first proposed that the estates choose a king
-        - what the Augustar's chancery thought it had granted
+        - what the Ôrzâs's chancery thought it had granted
 ---
 
 A province becomes a realm without ever declaring it, and keeps the forms. Provènzia is the case that is told best, and it is told as a war about a charter.
 
 ## The Refusal
 
-The province of the West had been a province for nearly five centuries. By about 609 AF it paid for a frontier it could not see and a distant Augustar it never met, in levies and taxes that rose with every year the Empire's grip loosened. The estates, the assemblies of nobles, towns and guilds that had advised the governors since the first century of the province, refused the governor a levy. When he sent his legion to collect it, they refused the legion.
+The province of the West had been a province for nearly five centuries. By about 609 AF it paid for a frontier it could not see and a distant Ôrzâs it never met, in levies and taxes that rose with every year the Empire's grip loosened. The estates, the assemblies of nobles, towns and guilds that had advised the governors since the first century of the province, refused the governor a levy. When he sent his legion to collect it, they refused the legion.
 
 ## Nine Years
 
@@ -86,7 +86,7 @@ The peace was a settlement, not a victory. The estates agreed to a king, so that
 ## What It Left
 
 - **The Charter of Rights and the Council of Peers.** The kingdom's constitution, and the long contest between the crown and the Council ([[affiliation-kngdmprvnz|The Kingdom of Provènzia]]).
-- **Lunacòrte as the capital.** The court settles on the coast, and [[place-aureliane|Aurèliane]] keeps the law and the learning ([[place-lunacorte|Lunacòrte]]).
+- **Jalnazdàl as the capital.** The court settles on the coast, and [[place-aureliane|Aurèliane]] keeps the law and the learning ([[place-jalnazdal|Jalnazdàl]]).
 - **The House of Lédravren.** The Charter's first king and his line, who hold the crown still.
 - **The Thânevar country's sense that the Charter was the cities'.** The country people keep the grievance in every generation.
 

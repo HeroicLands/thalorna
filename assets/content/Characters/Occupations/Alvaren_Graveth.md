@@ -11,7 +11,7 @@ data:
   occupation: Salter
   lore: []
   culture: tarvenanclt
-  homes: [valdes]
+  homes: [nebralis]
   affiliations: {kingdmtrvn: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk

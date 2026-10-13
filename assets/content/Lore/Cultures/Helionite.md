@@ -175,4 +175,4 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] was born out of that tradition at t
 | synkrysis    | The bringing together of all inquiry, the idea on which the Panepistemium was founded                                            |
 | trierarch    | Commander of a Pelagoran war-galley                                                                                              |
 
-Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

@@ -119,7 +119,7 @@ export const RETIRED = [
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Hrandrinna_Drekanott.md",
             "assets/content/Characters/Heroes_and_Knaves/Svulthyra_Solvargr.md",
-            "assets/content/Characters/Heroes_and_Knaves/Thalisa_Torvaleth.md",
+            "assets/content/Characters/Heroes_and_Knaves/Eldira_Torvaleth.md",
         ],
     },
     {

@@ -438,10 +438,10 @@ Nômasáhr is driven by the desire to regain his prominent position within the L
 ### Strengths
 
 - **Master of Law**: His law skill, with five multipliers, and his reasoning make him without equal in understanding the letter and spirit of commercial contracts and regulations. He can find loopholes others miss.
-- **Exceptional Orator**: His discourse and eloquence allow him to present arguments with compelling clarity that sways juries and negotiating partners alike.
+- **Orator**: His discourse and eloquence allow him to present arguments with compelling clarity that sways juries and negotiating partners alike.
 - **Strategic Thinker**: His combination of strong reasoning, will, and extensive practical experience makes him able to plan complex campaigns many moves in advance.
 - **Networked**: His decades in the League have given him connections throughout the merchant houses. Few merchants or advocates operate without considering his potential involvement or opposition.
-- **Diplomatic Protocol**: His heraldry and folklore make him well-versed in proper procedure and tradition, allowing him to work within (and sometimes exploit) formal structures.
+- **Diplomatic Procedure**: His heraldry and folklore make him well-versed in proper procedure and tradition, allowing him to work within (and sometimes exploit) formal structures.
 
 ### Weaknesses
 

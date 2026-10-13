@@ -429,7 +429,7 @@ As a Tarûzelian chandler, Bashîmûya occupies a recognized social niche within
 
 ### Patrons
 
-Bashîmûya's primary patron is Local villagers and merchants who appreciate her craftsmanship.. This relationship provides both opportunity and obligation.
+Bashîmûya's primary patron is Local villagers and merchants who appreciate her craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -437,7 +437,7 @@ A younger chandler who tries to undercut her prices.
 
 ## Plot Hooks
 
-1. **The Chandler's Dilemma**—Bashîmûya faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarûzel.
+1. **The Chandler's Dilemma**—Bashîmûya faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarûzel.
 
 2. **Old Grudges**—A younger chandler who tries to undercut her prices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

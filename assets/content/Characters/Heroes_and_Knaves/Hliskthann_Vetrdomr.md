@@ -448,7 +448,7 @@ Hliskthann is motivated by a simple but deep desire to provide protection and co
 ### Strengths
 
 - **Expert Weather Prediction**: Hliskthann's intimate knowledge of regional climate patterns allows him to design roofs perfectly suited to their environment. He can predict problems years in advance and build preventively.
-- **Meticulous Craftsmanship**: Every straw is placed with intention. His roofs are models of durability and function, often lasting two generations before significant repair is needed.
+- **Craftsmanship**: Every straw is placed with intention. His roofs are models of durability and function, often lasting two generations before significant repair is needed.
 - **Materials Knowledge**: Hliskthann understands the properties of every material available in his region—which grasses are most resilient, how to treat them for longevity, which woods provide the best support structure.
 - **Problem-Solving**: When encountering unusual architectural challenges or deteriorated structures, Hliskthann has an almost intuitive ability to devise new solutions that preserve both beauty and function.
 

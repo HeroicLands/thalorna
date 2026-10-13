@@ -11,7 +11,7 @@ data:
   occupation: Ostler
   lore: []
   culture: provenzianclt
-  homes: [fiordaure]
+  homes: [lizela]
   affiliations: {kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
@@ -449,7 +449,7 @@ Kjôrvan is driven by a desire to provide care and comfort to creatures that can
 
 ### Strengths
 
-- **Exceptional Animal Husbandry**: His mastery of animal care means he can diagnose and treat nearly any equine ailment, calm terrified horses, and understand their individual temperaments and needs with supernatural sensitivity.
+- **Animal Husbandry**: His mastery of animal care means he can diagnose and treat nearly any equine ailment, calm terrified horses, and understand their individual temperaments and needs with supernatural sensitivity.
 - **Practical Craftsmanship**: Strength in metalcraft, woodworking, and drawing allows him to repair tack, maintain stable facilities, and create tools perfectly suited to his purposes without needing to commission outside work.
 - **Keen Observation**: Sharp perception combined with trained awareness allows him to notice details others miss—the slight favoring of a horse's leg that indicates injury, the nervous energy of a traveler fleeing danger, the subtle tells that someone is being dishonest.
 - **Patient Teaching**: His calm demeanor and proven track record make him an excellent informal teacher, and many younger folk work under him hoping to learn his methods.

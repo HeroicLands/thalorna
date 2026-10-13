@@ -21,7 +21,7 @@ data:
 
 Provènzia is a region of diverse landscapes and climates, ranging from temperate plains to rugged mountains rich in minerals. Key geographical features include the Áelendan ranges, known for their deposits of precious metals and gemstones, and the fertile river valleys that are essential for agriculture and trade. The region also contains coastal settlements and riverine trade hubs that connect it to neighboring realms.
 
-The kingdom’s strategic position as a crossroads of trade and its mineral wealth make it both an economic hub and a target for external aggression. The Áelendan ranges host hidden mining communities, while urban centers like [[place-lunacorte|Lunacòrte]] serve as the royal and commercial capital and [[place-aureliane|Aurèliane]] as the seat of law and learning.
+The kingdom’s strategic position as a crossroads of trade and its mineral wealth make it both an economic hub and a target for external aggression. The Áelendan ranges host hidden mining communities, while urban centers like [[place-jalnazdal|Jalnazdàl]] serve as the royal and commercial capital and [[place-aureliane|Aurèliane]] as the seat of law and learning.
 
 #### Cultural and Political Dynamics
 

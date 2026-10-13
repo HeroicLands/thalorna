@@ -413,7 +413,7 @@ Skilled at managing a kiln, knows the coast's woods and what each burns to.
 
 ## Social
 
-Aldous holds his seal from the Woodworkers' Guild of Thornbury, chartered under the Magnum Collegium, which takes the charcoalers among its lesser members.
+Aldous holds his seal from the Woodworkers' Guild of Thornbury, chartered under the Tevran Maldor, which takes the charcoalers among its lesser members.
 
 ## Companions
 

@@ -440,7 +440,7 @@ Now, as the fifth decade of his life nears its close, Braldthann faces a changin
 
 ### Personality
 
-Braldthann is a man of few words and profound convictions. He speaks with the authority of someone who has proven himself through decades of uncompromising labor. There is no bombast in him, no need for flattery or recognition—his tents speak louder than any boast. He views the younger generation with a mixture of paternalism and disdain, believing that shortcuts and expediency have no place in honest work. Yet beneath his gruff exterior lies a steadfast loyalty to those he considers worthy; customers who return year after year find him capable of surprising generosity, and he has been known to repair defective work at no charge if the fault was genuinely his own.
+Braldthann is a man of few words and deep convictions. He speaks with the authority of someone who has proven himself through decades of uncompromising labor. There is no bombast in him, no need for flattery or recognition—his tents speak louder than any boast. He views the younger generation with a mixture of paternalism and disdain, believing that shortcuts and expediency have no place in honest work. Yet beneath his gruff exterior lies a steadfast loyalty to those he considers worthy; customers who return year after year find him capable of surprising generosity, and he has been known to repair defective work at no charge if the fault was his own.
 
 He is deeply religious, invoking **Svartbrandr** before major projects, believing the fire-god guides his hands through the hottest work—the application of fireproofing compounds and the sealing of seams. His workshop always contains an altar of stones, and he makes offerings whenever a commission is completed successfully.
 
@@ -450,9 +450,9 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 
 ### Strengths
 
-- **Master Craftsman**: Decades of experience make Braldthann unparalleled in creating weather-resistant, durable tents capable of withstanding the harshest conditions Nordheim can inflict. His double-weave technique is legendary among the military hierarchy.
+- **Master Craftsman**: Decades of experience make Braldthann unrivaled in creating weather-resistant, durable tents capable of withstanding the harshest conditions Nordheim can inflict. His double-weave technique is famous among the military hierarchy.
 - **Uncompromising Standards**: Every piece that leaves his workshop meets exacting specifications. His reputation for reliability is absolute—military officers and merchants place standing orders with complete confidence.
-- **Fire Ritualist**: His knowledge of fireproofing techniques and flame-resistant compounds is sophisticated, and he combines practical chemistry with spiritual practice dedicated to Svartbrandr.
+- **Fire Ritualist**: His knowledge of fireproofing techniques and flame-resistant compounds is deep, and he combines practical chemistry with spiritual practice dedicated to Svartbrandr.
 - **Leadership and Authority**: Though he commands respect more through competence than charisma, those in the craft world recognize his authority. Younger makers, despite their dismissal of his methods, often secretly consult his work.
 
 ### Weaknesses
@@ -460,7 +460,7 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 - **Resistance to Innovation**: Braldthann views any method not descended from his family's traditions as inherently inferior. He has rejected profitable opportunities because they would require learning new techniques.
 - **Aging Hands**: The arthritis creeping into his fingers is a silent threat he refuses to acknowledge. Some of the finest work now requires his apprentice's steadier hands, a reality that frustrates him deeply.
 - **Limited Flexibility**: His inability to adapt to market demands or even to customize designs beyond his established patterns has cost him contracts to more flexible competitors.
-- **Emotional Isolation**: His dismissal of younger craftsmen and outsiders has left him with few genuine friendships. His reputation protects his business but isolates his personal life.
+- **Emotional Isolation**: His dismissal of younger craftsmen and outsiders has left him with few friendships. His reputation protects his business but isolates his personal life.
 
 ## Social
 
@@ -475,7 +475,7 @@ Merchant-Prince Flarnvir Wayfarer
 ### Enemies
 
 Snurvmýl Fastworker
-: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Snurvmýl represents everything wrong with the new generation. The tension between them has created a genuine rivalry in the Guild.
+: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Snurvmýl represents everything wrong with the new generation. The tension between them has created a rivalry in the Guild.
 
 The Young Apprentices' Coalition
 : A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
@@ -483,7 +483,7 @@ The Young Apprentices' Coalition
 ### Affiliations
 
 Tentmakers' Guild of Nordheim
-: Braldthann holds a senior position and is frequently consulted on matters of craft standards, though his votes often fall on the losing side as the Guild gradually embraces efficiency over tradition.
+: Braldthann holds a senior position and is frequently consulted on matters of craft standards, though his votes often fall on the losing side as the Guild gradually favors speed over tradition.
 
 ## Plot Hooks
 

@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: bazunel2
   population: 2000000
-  economy: [affiliation-aerarimmpr, lore-trzlncrncy]
+  economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]
   relations: {arldnpnthn: aligned}
@@ -84,7 +84,7 @@ The city's academies are modest beside those of [[place-helionis|Heliónis]] or 
 
 ## Commerce and Currency
 
-Bazûnel's studios and yards are paid in the [[lore-trzlncrncy|Tarûzelian currency]], the Confederation's own system under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. It uses the Vylarian denominations (Aurion, Argo and Bit), but Tarûzelian reserves back it rather than the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], and its Aurion is slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Tarûzelian paper is not honored in Vylarian territory.
+Bazûnel's studios and yards are paid in the [[lore-trzlncrncy|Tarûzelian currency]], the Confederation's own system under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. It uses the Vylarian denominations (Solden, Ard and Bit), but Tarûzelian reserves back it rather than the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and its Solden is slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Tarûzelian paper is not honored in Vylarian territory.
 
 ## See Also
 

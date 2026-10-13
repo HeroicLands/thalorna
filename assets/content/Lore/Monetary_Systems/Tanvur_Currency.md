@@ -10,7 +10,7 @@ data: {culture: tanvuriclt}
 
 ## Overview
 
-A merchant who crosses into the [[affiliation-tanvurempr|Empire of Tānvür]] with a purse of Vylarian aurions is told at the frontier way-station what they are worth, and the number is not negotiable. Commerce in Tānvür runs on the same instrument as everything else in the empire, the register: a Shüknürk house's standing with the bureaus is its credit, a debt is an entry a magistrate's clerk can read, and the classification tablet a trader carries is what a bargain is made against. The empire's money is a ledger before it is a coin, and the system stands apart from the coin-and-script of [[lore-vylrncrncy|Vylaria]], the weight-pieces of [[lore-aukhlthcrncy|Aû'Khelâthu]], the banking of [[lore-vdyrnbnkng|Vedyara]] and the kin-credit of the tribal regions.
+A merchant who crosses into the [[affiliation-tanvurempr|Empire of Tānvür]] with a purse of Vylarian elthêzândoi is told at the frontier way-station what they are worth, and the number is not negotiable. Commerce in Tānvür runs on the same instrument as everything else in the empire, the register: a Shüknürk house's standing with the bureaus is its credit, a debt is an entry a magistrate's clerk can read, and the classification tablet a trader carries is what a bargain is made against. The empire's money is a ledger before it is a coin, and the system stands apart from the coin-and-script of [[lore-vylrncrncy|Vylaria]], the weight-pieces of [[lore-aukhlthcrncy|Aû'Khelâthu]], the banking of [[lore-vdyrnbnkng|Vedyara]] and the kin-credit of the tribal regions.
 
 ## Ledger-Credit
 

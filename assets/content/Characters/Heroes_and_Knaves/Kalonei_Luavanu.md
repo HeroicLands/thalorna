@@ -432,7 +432,7 @@ Kalonei Luavanu was born in the charcoal-burners' quarter behind the harbor of [
 
 ### The Better Burn
 
-In his early twenties he began to experiment beyond his father's ways, learning how different woods, kiln shapes and careful control of the burn changed what came out. The port's best smiths found that his charcoal burned hotter, cleaner and more evenly than any other, and they have bought from no one else since. Fifteen years ago he opened his own kilns, and he is now the most sought-after charcoaler on the coast, with more orders than his methods will ever let him fill.
+In his early twenties he began to experiment beyond his father's ways, learning how different woods, kiln shapes and careful control of the burn changed what came out. The port's best smiths found that his charcoal burned hotter, cleaner and more evenly than any other, and they have bought from no one else since. Fifteen years ago he opened his own kilns, and he is now the most charcoaler on the coast, with more orders than his methods will ever let him fill.
 
 ### The God of the Forge
 

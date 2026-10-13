@@ -434,7 +434,7 @@ Competing clothiers who view his reputation as a threat.
 
 ## Plot Hooks
 
-1. **The Clothier's Dilemma**—Edmund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Clothier's Dilemma**—Edmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Competing clothiers who view his reputation as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

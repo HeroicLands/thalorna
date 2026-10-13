@@ -463,7 +463,7 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 
 ### Strengths
 
-- **Exceptional Seamanship**: Brânalenîs' understanding of sailing, navigation, and the working of ships is of the first rank. She can read weather, currents, and ship handling with an almost intuitive accuracy that seems to border on prescience.
+- **Seamanship**: Brânalenîs' understanding of sailing, navigation, and the working of ships is of the first rank. She can read weather, currents, and ship handling with an almost intuitive accuracy that seems to border on prescience.
 - **Physical Excellence**: Her strength, agility, and climbing ability are outstanding even among lifelong sailors. She can accomplish feats of physical prowess that others cannot replicate.
 - **Quick Problem Solving**: She possesses a practical intelligence that enables her to rapidly assess problems and devise creative solutions, particularly in crisis situations.
 - **Dexterity and Hand-Eye Coordination**: Her hands are unusually skilled—fine control, rapid reaction times, and ability to execute complex physical tasks with precision.

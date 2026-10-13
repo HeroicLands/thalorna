@@ -402,7 +402,7 @@ Osmund Winwick is a 33-year-old man who stands 5'8" tall and is of moderate buil
 
 Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Osmund Winwick is a mercantyler (supercargo).
 
-Osmund is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Osmund has developed a keen understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
+Osmund is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Osmund has developed a understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
 
 ## Psyche
 
@@ -434,7 +434,7 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-1. **The Mercantyler (Supercargo)'s Dilemma**—Osmund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Mercantyler (Supercargo)'s Dilemma**—Osmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

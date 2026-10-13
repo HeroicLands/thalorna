@@ -424,7 +424,7 @@ sohl:
 
 ![[drzhvzhnr|Drazha Vezhnûr, Knight of the Black Flame]]{float=top-left}
 
-Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing around 235 pounds. His skin is a deep brown, and his body bears many scars from battles fought. His black hair is shaved close to his scalp, and his piercing dark eyes give him a predatory air. His face is hardened, with a broad nose, full lips, and a square jaw, often set in a grim expression. A tattoo of a flaming sword adorns his right arm, signifying his devotion to [[affiliation-blackflame|The Black Flame]]. Drazhan wears heavy, blackened steel armor etched with Black Flame symbols, and his weapon of choice is a wickedly curved greatsword that he wields with ease.
+Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing around 235 pounds. His skin is a deep brown, and his body bears many scars from battles fought. His black hair is shaved close to his scalp, and his piercing dark eyes give him a predatory air. His face is hardened, with a broad nose, full lips, and a square jaw, often set in a grim expression. A tattoo of a flaming sword adorns his right arm, signifying his devotion to [[affiliation-blackflame|The Black Flame]]. Drazhan wears heavy, blackened steel armor engraved with Black Flame symbols, and his weapon of choice is a wickedly curved greatsword that he wields with ease.
 
 # Dossier {#dossier}
 
@@ -442,7 +442,7 @@ As a Blazewarden, Drazhan became known for leading punitive raids down out of th
 
 ### The Blazing Oath and the Search for the Eye of Velok
 
-Drazhan’s most dangerous and ambitious mission began when he was chosen to lead a group of elite knights known as the **Blazing Oath**. This secretive faction within the Servants of Vezhnûrikos is dedicated to seeking out ancient relics of Ústaron, said to contain immense destructive power. Drazhan’s mission is to retrieve the **Eye of Velok**, a legendary gem rumored to hold the essence of a powerful fire demon bound to Ústaron.
+Drazhan’s most dangerous and ambitious mission began when he was chosen to lead a group of elite knights known as the **Blazing Oath**. This secretive faction within the Servants of Vezhnûrikos is dedicated to seeking out ancient relics of Ústaron, said to contain immense destructive power. Drazhan’s mission is to retrieve the **Eye of Velok**, a gem rumored to hold the essence of a powerful fire demon bound to Ústaron.
 
 The Eye is believed to be hidden within the [[place-ruinsarkor|Ruins of Arkor]], an ancient city buried beneath the sands of the Desert of Hek'ar. If recovered, the Eye could grant its bearer the ability to command fire on a massive scale, a power that Drazhan believes could fulfill Ústaron’s vision of a world engulfed in flames. However, many dangers stand in his way, including rival factions within the Black Flame, foreign mercenaries, and the harsh environment of the desert itself.
 
@@ -459,8 +459,8 @@ Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its des
 - **Perception**: He has a keen situational awareness.
 - **Comeliness**: His rugged appearance and battle-worn features give him a respectable, if not handsome, look.
 - **Aura**: Drazhan's metaphysical presence is unremarkable.
-- **Will**: He is unwavering in his duty and discipline, committed to his path.
-- **Reasoning**: He’s more of a tactician in battle than a scholar, so his reasoning is practical but not exceptional.
+- **Will**: He holds to his duty and discipline, committed to his path.
+- **Reasoning**: He’s more of a tactician in battle than a scholar, so his reasoning is practical but not outstanding.
 - **Creativity**: Drazhan is not inventive in battle but sticks to tried-and-true tactics.
 - **Empathy**: He tends to focus more on the mission and less on emotional nuance.
 - **Eloquence**: His words carry weight when needed, though he’s more a man of action.
@@ -473,7 +473,7 @@ Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its des
 
 Drazhan is a cold and calculating warrior who believes that pain and destruction are not only tools but sacred acts of devotion to Ústaron. He has no mercy for the weak and views suffering as a necessary path to strength. However, he also respects those who prove their worth in battle, valuing loyalty and strength above all else. His ultimate goal is to bring about the Black Flame’s vision of a world consumed by fire, and he sees the recovery of the **Eye of Velok** as the key to achieving this.
 
-Despite his unwavering faith, Drazhan is not without doubt. The deeper he delves into his mission, the more he begins to question whether his actions are truly serving Ústaron’s will or if he is merely being used by those in power within the church. This inner conflict, though rarely visible to others, drives him to seek the ultimate truth behind the Blazing Oath’s goals.
+Despite his faith, Drazhan is not without doubt. The further he goes into his mission, the more he begins to question whether his actions are truly serving Ústaron’s will or if he is merely being used by those in power within the church. This inner conflict, though rarely visible to others, drives him to seek the ultimate truth behind the Blazing Oath’s goals.
 
 ### Strengths
 
@@ -493,7 +493,7 @@ Zirael Aimapyrós
 ### Enemies
 
 Sir Thalion Râskar
-: A Árdavonian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Thalion has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Árdavonian outpost, and Thalion has since sworn to bring him to justice. The two are destined to clash again, as Thalion views Drazhan as the embodiment of everything he stands against.
+: A Árdavonian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Thalion has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Árdavonian outpost, and Thalion has since sworn to bring him to justice. The two are destined to clash again, as Thalion sees in Drazhan everything he stands against.
 
 Sir Vashek of Nakarys the Scourge
 : Once a fellow knight of the Blazing Oath, Sir Vashek turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Vashek’s defection as the ultimate betrayal and has vowed to hunt him down. However, Vashek has proven elusive, and members of his order continue to disrupt Servants of Vezhnûrikos operations throughout the Desert of Hek'ar.

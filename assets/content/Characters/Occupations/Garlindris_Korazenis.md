@@ -402,7 +402,7 @@ Garlîndris Korâzênis is a 45-year-old man who stands 5'9" tall and is of mode
 
 Born in the [[place-vylariargn|Vylaría]] region to a minor noble family of Vylarian heritage, Garlîndris Korâzênis came into the world of the herald through a combination of circumstance and aptitude.
 
-Garlîndris comes from a long line of minor nobility who have served as heralds for generations. Trained from a young age in the intricacies of heraldry, he is known for his commanding voice and meticulous attention to the details of protocol. He takes great pride in upholding the dignity of his family’s legacy and is often tasked with announcing important decrees and leading ceremonial events for the city’s nobility. His adherence to tradition sometimes makes him appear rigid, but his dedication to his craft is unquestionable.
+Garlîndris comes from a long line of minor nobility who have been heralds for generations. Trained from a young age in the intricacies of heraldry, he is known for his commanding voice and attention to the details of ceremony. He takes great pride in upholding the dignity of his family’s legacy and is often tasked with announcing important decrees and leading ceremonial events for the city’s nobility. His adherence to tradition sometimes makes him appear rigid, but his dedication to his craft is unquestionable.
 
 ## Psyche
 
@@ -428,7 +428,7 @@ As a Vylarian herald, Garlîndris occupies a recognized social niche within Vyla
 
 ### Patrons
 
-Garlîndris's primary patron is High-ranking nobles who value his skill and adherence to tradition.. This relationship provides both opportunity and obligation.
+Garlîndris's primary patron is High-ranking nobles who value his skill and adherence to tradition. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,7 +436,7 @@ Younger, more modern heralds who see him as outdated.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma**—Garlîndris faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Herald's Dilemma**—Garlîndris faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Younger, more modern heralds who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

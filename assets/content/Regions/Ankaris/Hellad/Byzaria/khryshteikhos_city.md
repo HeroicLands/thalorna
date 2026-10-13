@@ -23,7 +23,7 @@ A council of merchant-princes governs Khrýshteíkhos, and the ruling families h
 
 ## Character
 
-The city is renowned for its goldsmiths, its bankers and its silk markets. Centuries of accumulated wealth show in its architecture: gilded domes, marble colonnades and ornamental gardens that blend Helonic elegance with eastern opulence. The banks hold their wealth in the Vylarian currency and the paper-script of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]], and Khrýshteíkhos is a member of the post-imperial commonwealth, taking part in the whole banking system without answering to imperial governance or paying imperial tax.
+The city is renowned for its goldsmiths, its bankers and its silk markets. Centuries of accumulated wealth show in its architecture: gilded domes, marble colonnades and ornamental gardens that blend Helonic elegance with eastern opulence. The banks hold their wealth in the Vylarian currency and the paper-script of the [[affiliation-danvar|Danvar]], and Khrýshteíkhos is a member of the post-imperial commonwealth, taking part in the whole banking system without answering to imperial governance or paying imperial tax.
 
 ## See Also
 

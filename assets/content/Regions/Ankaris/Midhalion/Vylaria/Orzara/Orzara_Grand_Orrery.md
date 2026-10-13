@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder:
 
 ## Overview
 
-The doors of the Grand Orrery open at the great hours with a sound of deep bells, and a junior of the [[affiliation-pratrgstrm|Praetar Augustarum]] who has stood the hall's door at the changes of the watch can describe the next three minutes with his eyes shut. The Orrery, also called the Mechanical Court, is an enormous arcane-mechanical automaton housed in a hall of the [[place-palatimgnm|Grand Palace]] in [[place-orzara|Ôrzâra]]. It is part clock, part theater and part diplomatic weapon, built of brass, crystal, enchanted gears and animate puppets the size of living men.
+The doors of the Grand Orrery open at the great hours with a sound of deep bells, and a junior of the [[affiliation-sorvan|Sorvan]] who has stood the hall's door at the changes of the watch can describe the next three minutes with his eyes shut. The Orrery, also called the Mechanical Court, is an enormous arcane-mechanical automaton housed in a hall of the [[place-palvar|Grand Palace]] in [[place-orzara|Ôrzâra]]. It is part clock, part theater and part diplomatic weapon, built of brass, crystal, enchanted gears and animate puppets the size of living men.
 
 The guard shows a new recruit what to expect: "Stand to the side and keep your face still. The bells come first. Then armored legionaries roll out on hidden tracks and salute together, and gilded provinces come after them as crowned women who bow toward the throne. A clockwork eagle spreads its wings. Miniature augustars of the past pace a circuit and return. The joints whisper and the eyes glow with a soft light, and the first time you see it you will want to look at the visitors instead. Do that. Watching a stranger's face while the eagle opens its wings is the best part of the post."
 
@@ -22,6 +22,6 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] maintains the Orrery jealously. Onl
 
 ## See Also
 
-- [[place-palatimgnm|Palatium Magnum]]—the palace that houses it
+- [[place-palvar|Palvar]]—the palace that houses it
 - [[place-orzara|Ôrzâra]]—the city and the Hand of the Ordo
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the order that builds and keeps it

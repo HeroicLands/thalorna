@@ -452,9 +452,9 @@ Agélâra's driving passion is simple: she wants to create sanctuary. In a world
 
 ### Strengths
 
-- **Exceptional Hospitality and Social Grace**: She possesses an almost supernatural ability to make any guest feel welcomed, valued, and comfortable. People who stay at her Inn often report it as one of the most pleasant experiences of their travels.
+- **Hospitality and Social Grace**: She possesses an almost supernatural ability to make any guest feel welcomed, valued, and comfortable. People who stay at her Inn often report it as one of the most pleasant experiences of their travels.
 - **Masterful Cooking and Beverage Craft**: Her culinary skills are impressive, and her knowledge of brewing, wine selection, and spice pairings allows her to create experiences that delight even the most discerning palates.
-- **Remarkable Memory and Attention to Detail**: She remembers names, preferences, and personal details with eerie accuracy, creating connections with guests that extend far beyond standard innkeeper-customer relationships.
+- **Memory and Attention to Detail**: She remembers names, preferences, and personal details with eerie accuracy, creating connections with guests that extend far beyond standard innkeeper-customer relationships.
 - **Linguistic Ability**: She speaks four languages fluently, allowing her to communicate with travelers from across the known world and making her a bridge between peoples.
 - **Emotional Intelligence**: She reads people with extraordinary accuracy, understanding their needs and desires often before they articulate them. This makes her an excellent mediator and confidante.
 - **Financial Acumen and Record-Keeping**: Despite her people-focused nature, she is surprisingly skilled with the business and accounting aspects of running an establishment, maintaining detailed ledgers and watching her coin carefully.

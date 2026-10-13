@@ -11,4 +11,4 @@
 **Nordlands and Provènzia**
 
 - The Nordland characters carry Nordmal names in place of Old Norse and English ones, each keeping one name wherever they appear.
-- The Provenzians are heirs of the old Vylarian provinces, and Yhârvalen Henge stands on the Tramontàna coast where the Nordheim raiders came ashore.
+- The Provenzians are heirs of the old Vylarian provinces, and Yhârvalen Henge stands on the Sathvòthe coast where the Nordheim raiders came ashore.

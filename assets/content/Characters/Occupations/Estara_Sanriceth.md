@@ -11,7 +11,7 @@ data:
   occupation: Teamster
   lore: []
   culture: tarvenanclt
-  homes: [valdes]
+  homes: [nebralis]
   affiliations: {kingdmtrvn: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
@@ -396,7 +396,7 @@ Estára Sánriceth is a 29-year-old woman who stands 5'11" tall and is of modera
 
 # Dossier {#dossier}
 
-Estára Sánriceth is a teamster of Valdes, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvénan freewoman who took over her father's carts and teams when he died and hauls between the quays, the warehouses and the market for anyone with a load and a deadline.
+Estára Sánriceth is a teamster of Nebrális, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvénan freewoman who took over her father's carts and teams when he died and hauls between the quays, the warehouses and the market for anyone with a load and a deadline.
 
 Estára grew up on the box of her father's cart, and she could back a loaded wain through a market crowd before she could read. When her father died she was twenty-three and the trade expected the teams to go to a man; she kept them, kept his customers, and has added to both. She hauls whatever the port moves, and she hauls it when it is promised, which in a port where the tide sets the hour is what a warehouseman pays for. She takes risks with a load and a team when the hour is short that the older teamsters shake their heads at and could not do themselves. They respect her. They do not like that they have to.
 
@@ -416,13 +416,13 @@ Resourceful, skilled at working a team through crowded streets, good with horses
 
 ## Social
 
-Estára holds her father's seat in the Teamsters' Guild of Valdes, chartered under the Magnum Collegium, which licenses the carters and shares out the harbor's work.
+Estára holds her father's seat in the Teamsters' Guild of Nebrális, chartered under the Tevran Maldor, which licenses the carters and shares out the harbor's work.
 
 ## Companions
 
 ### Patrons
 
-Estára's patrons are the warehousemen of the Valdes quays, who send for her when a cargo must make the tide, and the ship-victualers.
+Estára's patrons are the warehousemen of the Nebrális quays, who send for her when a cargo must make the tide, and the ship-victualers.
 
 ### Enemies
 

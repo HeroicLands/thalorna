@@ -11,7 +11,7 @@ data:
   occupation: Thatcher
   lore: []
   culture: provenzianclt
-  homes: [belporte]
+  homes: [kalveza]
   affiliations: {kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
@@ -400,7 +400,7 @@ Târlig Tólgen is a 47-year-old man who stands 6'1" tall and is of moderate bui
 
 Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Târlig Tólgen came into the world of the thatcher through a combination of circumstance and aptitude.
 
-Târlig has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his meticulous work and the durability of his roofs, Târlig is often in high demand, though his services come at a slower pace due to his attention to detail.
+Târlig has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his work and the durability of his roofs, Târlig is often in high demand, though his services come at a slower pace due to his attention to detail.
 
 ## Psyche
 
@@ -426,7 +426,7 @@ As a Provenzian thatcher, Târlig occupies a recognized social niche within Prov
 
 ### Patrons
 
-Târlig's primary patron is Local farmers and villagers who need sturdy roofs.. This relationship provides both opportunity and obligation.
+Târlig's primary patron is Local farmers and villagers who need sturdy roofs. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ None, though some younger craftsmen see him as outdated.
 
 ## Plot Hooks
 
-1. **The Thatcher's Dilemma**—Târlig faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Thatcher's Dilemma**—Târlig faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
 2. **Old Grudges**—None, though some younger craftsmen see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

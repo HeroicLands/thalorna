@@ -427,7 +427,7 @@ As a Vylarian physician, Xâthrîon occupies a recognized social niche within Vy
 
 ### Patrons
 
-Xâthrîon's primary patron is Local nobles and community members seeking advanced medical treatment.. This relationship provides both opportunity and obligation.
+Xâthrîon's primary patron is Local nobles and community members seeking advanced medical treatment. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ Few; generally well-respected but may face skepticism from traditionalists.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma**—Xâthrîon faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Physician's Dilemma**—Xâthrîon faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Few; generally well-respected but may face skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

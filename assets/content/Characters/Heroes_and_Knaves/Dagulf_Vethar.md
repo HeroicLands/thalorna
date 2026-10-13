@@ -402,11 +402,11 @@ sohl:
 
 ![[dagulfvthr|Dágulf yra Véthar wur Thrárýth]]{float=top-left}
 
-Dágulf cuts a wretched figure on the forest road. He stands at middling height with a wiry, restless frame that never quite holds still—always shifting weight, always glancing over his shoulder. His brown hair hangs in matted ropes past his jaw, unwashed and uncared for, and his face is cratered with the pale scars of a childhood pox. What strikes most who meet him are his eyes: a startling ice-blue, bright and watchful in a face otherwise unremarkable. He wears a battered leather vest over rough cloth, a cowl of cracked hide pulled low, and carries himself with the coiled tension of a man accustomed to violence. His hands are never far from the club at his hip or the long dagger in his belt. He smells of woodsmoke, sweat, and something faintly sour—the smell of a man who sleeps rough in the dark pines of [[place-vrystwald|Vrystwald]] and trusts no one.
+Dágulf cuts a wretched figure on the forest road. He stands at middling height with a wiry, restless frame that never quite holds still—always shifting weight, always glancing over his shoulder. His brown hair hangs in matted ropes past his jaw, unwashed and uncared for, and his face is cratered with the pale scars of a childhood pox. What strikes most who meet him are his eyes: a startling ice-blue, bright and watchful in a face otherwise unremarkable. He wears a battered leather vest over rough cloth, a cowl of cracked hide pulled low, and carries himself with the tension of a man accustomed to violence. His hands are never far from the club at his hip or the long dagger in his belt. He smells of woodsmoke, sweat, and something faintly sour—the smell of a man who sleeps rough in the dark pines of [[place-vrystwald|Vrystwald]] and trusts no one.
 
 # Dossier {#dossier}
 
-Dágulf grew up the second son of a sheepherder in Thrárýth, one of the Varokh herding villages that sit inside [[affiliation-provncmktr|Moktur]]'s border on the empire's crumbling northern frontier, where the families hold their ground from a Mokturan lord on a serf's tenure and Dágulf was born a serf. From an early age he showed a talent for avoiding work and a gift for convincing others to cover for him. His cousin, who served as the village's headman under the lord, was easily manipulated, though his mother and older sister saw through every excuse. He would claim to be drilling with the militia or chasing strays when he was in fact sleeping in forest clearings beneath the ancient dark pines, dreaming of a life beyond the drudgery of the fields.
+Dágulf grew up the second son of a sheepherder in Thrárýth, one of the Varokh herding villages that sit inside [[affiliation-provncmktr|Moktur]]'s border on the empire's crumbling northern frontier, where the families hold their ground from a Mokturan lord on a serf's tenure and Dágulf was born a serf. From an early age he showed a talent for avoiding work and a gift for convincing others to cover for him. His cousin, who was the village's headman under the lord, was easily manipulated, though his mother and older sister saw through every excuse. He would claim to be drilling with the militia or chasing strays when he was in fact sleeping in forest clearings beneath the ancient dark pines, dreaming of a life beyond the drudgery of the fields.
 
 By fifteen, a cruel streak had surfaced. He began striking his father, then his mother and sister. The village reeve—a scarred former soldier who had served the Vylarian garrison—beat him bloody more than once, but punishment only hardened Dágulf's defiance. When the men of the village finally came together to thrash him after he struck his mother in the open square, Dágulf vanished into the deep woods with a bow, a dagger, and a burning hatred for the life he'd left behind.
 
@@ -416,7 +416,7 @@ His years tracking lost sheep through the fog-filled valleys and hiding from cho
 
 ### Personality
 
-Dágulf is quiet, watchful, and deliberate in a way that unnerves those around him. He rarely raises his voice—he doesn't need to. Years of dominating through sudden violence have taught him that silence is more threatening than shouting. He has a dry, mocking humor that surfaces when he feels in control, and vanishes the moment he doesn't. Among his men he cultivates an aura of unpredictability, rewarding loyalty one day and punishing imagined slights the next. He is incapable of genuine trust and assumes everyone around him is scheming, because he always is.
+Dágulf is quiet, watchful, and deliberate in a way that unnerves those around him. He rarely raises his voice—he doesn't need to. Years of dominating through sudden violence have taught him that silence is more threatening than shouting. He has a dry, mocking humor that surfaces when he feels in control, and vanishes the moment he doesn't. Among his men he cultivates an aura of unpredictability, rewarding loyalty one day and punishing imagined slights the next. He is incapable of trust and assumes everyone around him is scheming, because he always is.
 
 ### Motivation
 
@@ -424,7 +424,7 @@ Dágulf craves power and the fear it brings. He never wants to feel helpless aga
 
 ### Strengths
 
-He is a genuinely skilled fighter, particularly with a bow and in close-quarters melee. His dexterity and perception make him a dangerous ambush predator, and his high aura gives him an unsettling presence that keeps his gang in line. He knows the forest roads intimately and can vanish into the wilderness when pursuit comes.
+He is a skilled fighter, particularly with a bow and in close-quarters melee. His dexterity and perception make him a dangerous ambush predator, and his high aura gives him an unsettling presence that keeps his gang in line. He knows the forest roads intimately and can vanish into the wilderness when pursuit comes.
 
 ### Weaknesses
 

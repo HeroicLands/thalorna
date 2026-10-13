@@ -459,7 +459,7 @@ Padmāvali is driven by the pursuit of truth and beauty working in harmony. She 
 
 - **Mathematical and Analytical Mind**: Her reasoning and mathematics combine to allow her to solve complex problems of representation and to understand systems and structures intuitively.
 
-- **Meticulous Attention to Detail**: Her perception and the sheer volume of her training in drawing mean she notices subtleties others miss and can translate these into her work.
+- **Attention to Detail**: Her perception and the sheer volume of her training in drawing mean she notices subtleties others miss and can translate these into her work.
 
 - **Physical Capability and Resilience**: Her dexterity, climbing, and related physical skills make her more capable of fieldwork than her delicate appearance suggests. She can cross rough country and gather firsthand observations.
 

@@ -11,7 +11,7 @@ data:
   occupation: Priest
   lore: []
   culture: tarvenanclt
-  homes: [solarden]
+  homes: [herthema]
   affiliations: {kingdmtrvn: {rank: 5}, olvenia: {rank: 3}}
   gender: female
   species: humanflk
@@ -397,9 +397,9 @@ Pálina Sánriceth carries the contradictions of her upbringing inscribed upon h
 
 # Dossier {#dossier}
 
-Pálina was born the eldest daughter of a minor noble house in Solárden, a coastal city where the warrior traditions of Tarvénia still held sway even as merchant wealth began to reshape the region’s hierarchy. Her family expected her to make an advantageous marriage, but Pálina showed early aptitude for matters spiritual rather than dynastic. More troublingly, she showed a real interest in the lives and struggles of ordinary people—the fishing families, the dock workers, the dispossessed—an interest her family considered dangerously idealistic.
+Pálina was born the eldest daughter of a minor noble house in Herthéma, a coastal city where the warrior traditions of Tarvénia still held sway even as merchant wealth began to reshape the region’s hierarchy. Her family expected her to make an advantageous marriage, but Pálina showed early aptitude for matters spiritual rather than dynastic. More troublingly, she showed a real interest in the lives and struggles of ordinary people—the fishing families, the dock workers, the dispossessed—an interest her family considered dangerously idealistic.
 
-At twenty-two, following a violent incident in her family’s household that left her scarred and ostensibly "disgraced" (the details remain vague even now, spoken of only in whispers), Pálina was permitted—indeed, perhaps encouraged—to seek asylum in the Temple of Ólvenía in Solárden. What her family intended as a convenient exile, Pálina made into a true calling. She threw herself into the priesthood with singular intensity, studying the deeper philosophy beyond the rituals of seduction and fertility blessing that constitute Ólvenía’s work: the understanding that human connection, physical love, and the creation of new life are sacred acts worthy of reverence.
+At twenty-two, following a violent incident in her family’s household that left her scarred and ostensibly "disgraced" (the details remain vague even now, spoken of only in whispers), Pálina was permitted—indeed, perhaps encouraged—to seek asylum in the Temple of Ólvenía in Herthéma. What her family intended as a convenient exile, Pálina made into a true calling. She threw herself into the priesthood with singular intensity, studying the deeper philosophy beyond the rituals of seduction and fertility blessing that constitute Ólvenía’s work: the understanding that human connection, physical love, and the creation of new life are sacred acts worthy of reverence.
 
 Now, six years into her service, Pálina has become something of an anomaly—a priestess of the goddess of seduction and sensual pleasure who approaches her work with almost ascetic dedication. She conducts fertility blessings with the solemnity of a healer; she counsels couples with real care for their wellbeing; she works particularly with women of lower classes, helping them through pregnancy, childbirth, and the hardships that accompany motherhood in a society that offers them little protection. In a region suspicious of organized religion and skeptical of formal temple hierarchies, she has won real respect by being what she seems rather than by artifice.
 
@@ -415,9 +415,9 @@ Her greatest weakness is a kind of spiritual perfectionism. She holds herself to
 
 ## Social
 
-Pálina occupies an unusual position in Solárden’s religious life. The Temple of Ólvenía offers her formal affiliation and legitimacy, yet her approach to priesthood sets her apart from other temple authorities. The high priestess views her with respect but also with a degree of exasperation; Pálina’s work among the poor and dispossessed brings in little money and considerable complications. Yet Pálina’s evident effectiveness—the marriages she has helped thrive, the births she has attended, the women whose lives have been materially improved by her intervention—makes her difficult to dismiss or control.
+Pálina occupies an unusual position in Herthéma’s religious life. The Temple of Ólvenía offers her formal affiliation and legitimacy, yet her approach to priesthood sets her apart from other temple authorities. The high priestess views her with respect but also with a degree of exasperation; Pálina’s work among the poor and dispossessed brings in little money and considerable complications. Yet Pálina’s evident effectiveness—the marriages she has helped thrive, the births she has attended, the women whose lives have been materially improved by her intervention—makes her difficult to dismiss or control.
 
-Among Solárden’s ordinary population, her reputation approaches that of a minor saint. Fishing families seek her blessings before long voyages. Couples come to her for fertility guidance not because she promises magical outcomes but because her presence seems to bless their unions with real care. Women in precarious circumstances—unmarried pregnant women, wives of absent sailors, widows—know they can approach her without judgment.
+Among Herthéma’s ordinary population, her reputation approaches that of a minor saint. Fishing families seek her blessings before long voyages. Couples come to her for fertility guidance not because she promises magical outcomes but because her presence seems to bless their unions with real care. Women in precarious circumstances—unmarried pregnant women, wives of absent sailors, widows—know they can approach her without judgment.
 
 Among the coastal nobility and merchant classes, Pálina is viewed as somewhat quaint, a priestess who has failed to understand her true purpose. Some respect her commitment; others view her as wasteful of her obvious gifts of charm and persuasion. There are occasional whispers that her family deliberately removed her from circulation to avoid scandal, and that she makes virtue of necessity through her work with the lower classes.
 
@@ -431,7 +431,7 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 **Enemies:**
 
 - **Lord Marchand**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
-- **Father Anselm**, an older priest of the Aurèldían faith whose austere views of spirituality directly conflict with Ólvenía’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Solárden.
+- **Father Anselm**, an older priest of the Aurèldían faith whose austere views of spirituality directly conflict with Ólvenía’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthéma.
 
 ## Plot Hooks
 
@@ -439,8 +439,8 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 
 2. **The Corrupted Blessing**—Pálina discovers that her fertility blessings, which she performs with absolute spiritual authenticity, have been dressed up and sold by merchants as magical talismans, at exorbitant prices to desperate women across the region. She can publicly repudiate the deception or allow it to continue if it gives the women some hope.
 
-3. **The Scarred Past**—Someone from the incident that scarred Pálina’s leg appears in Solárden, recognizing her and hinting at knowledge that could fundamentally alter how her community views her. The person may be a threat or may be seeking redemption, but either way, Pálina’s tightly controlled history begins to unravel.
+3. **The Scarred Past**—Someone from the incident that scarred Pálina’s leg appears in Herthéma, recognizing her and hinting at knowledge that could fundamentally alter how her community views her. The person may be a threat or may be seeking redemption, but either way, Pálina’s tightly controlled history begins to unravel.
 
-4. **The Aristocrat’s Daughter**—A high-born woman in an abusive marriage comes to Pálina seeking help. Pálina begins assisting her, only to realize that the woman’s husband has significant political power in Solárden and connections to Pálina’s own family. Helping the woman could set off dangerous complications with her family while abandoning her would violate everything Pálina believes.
+4. **The Aristocrat’s Daughter**—A high-born woman in an abusive marriage comes to Pálina seeking help. Pálina begins assisting her, only to realize that the woman’s husband has significant political power in Herthéma and connections to Pálina’s own family. Helping the woman could set off dangerous complications with her family while abandoning her would violate everything Pálina believes.
 
-5. **The Priestess’s Calling**—The Temple of Ólvenía receives notice that Pálina is being considered for elevation to high priestess of a major regional temple—an honor that would require her to leave Solárden and work among the coastal nobility and merchant classes rather than the poor. The promotion appears sincere but also suspiciously convenient; someone may be attempting to remove her from her current position precisely because she is becoming too influential among the lower classes.
+5. **The Priestess’s Calling**—The Temple of Ólvenía receives notice that Pálina is being considered for elevation to high priestess of a major regional temple—an honor that would require her to leave Herthéma and work among the coastal nobility and merchant classes rather than the poor. The promotion appears sincere but also suspiciously convenient; someone may be attempting to remove her from her current position precisely because she is becoming too influential among the lower classes.

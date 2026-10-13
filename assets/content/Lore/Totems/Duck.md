@@ -14,7 +14,7 @@ Gregarious and adaptable, ducks are social birds that thrive in diverse environm
 
 ## Human Personality
 
-Gregarious and flexible, this person thrives in diverse environments and builds strong social bonds. They easily adapt to changing circumstances and enjoy being part of a community.
+Ducks do well among many kinds of people and form strong social ties. A Duck person adapts to new circumstances and likes belonging to a community.
 
 - **Physical:** Agile, adept at both land and water movement; webbed feet.
 - **Behavioral:** Highly adaptable, enjoys social interaction, quick to adjust to surroundings.

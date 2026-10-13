@@ -453,7 +453,7 @@ Deep down, Árshazûr fears civilian life and what it might require of him—the
 
 - **Master of Melee Combat and Weapon Craft**: Árshazûr's skill with sword and shield is forged through thousands of hours of training and actual combat. His understanding of footwork, distance, and timing is instinctive and nearly impossible to teach.
 - **Tactical Acumen in Small Unit Operations**: While not a grand strategist, Árshazûr excels at managing squad-level tactics, identifying advantageous positions, and coordinating small unit movements in complex terrain.
-- **Exceptional Physical Conditioning**: His strength and endurance have been refined to extraordinary levels. He can move quickly in armor, sustain combat longer than most, and recover from physical exertion rapidly.
+- **Physical Conditioning**: His strength and endurance have been refined to extraordinary levels. He can move quickly in armor, sustain combat longer than most, and recover from physical exertion rapidly.
 - **Authoritative Military Leadership**: Soldiers under his command respect him without question. His calm under pressure and clear judgment create confidence and cohesion in his units.
 - **Survival and Awareness**: His experiences have made him supremely aware of environmental dangers, potential threats, and the signs of impending disaster. Few can match his ability to predict when situations are about to deteriorate.
 

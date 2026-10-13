@@ -294,7 +294,7 @@ How the Republic made contact with dragons is not part of the documented record.
 
 What was promised to the dragons in exchange for their participation is not known. The agreement may have included specific lands, specific recognitions, specific freedoms, specific protections. It may have included something stranger and more particular—concessions on matters that mattered to dragons in ways the Republic understood imperfectly. Whatever was promised, it was substantial enough that the dragons agreed.
 
-The Dragon Riders stood as a corps for nearly three centuries, from the war on. Around 45 BF the Republic did not renew the arrangement, the Riders were disbanded and the Eyrie of [[place-monsaquila|Mons Aquila]] was sealed. The reason usually given is that the dragons' presence was incompatible with the Ordo Arcanis, chartered in 73 BF out of the conquered Helionite College of Arcane Philosophy: its research would fail and its training would be impossible beside creatures that unravel magic.
+The Dragon Riders stood as a corps for nearly three centuries, from the war on. Around 45 BF the Republic did not renew the arrangement, the Riders were disbanded and the Eyrie of [[place-arvel|Arvel]] was sealed. The reason usually given is that the dragons' presence was incompatible with the Ordo Arcanis, chartered in 73 BF out of the conquered Helionite College of Arcane Philosophy: its research would fail and its training would be impossible beside creatures that unravel magic.
 
 The Republic chose to break faith. The specifics—what was done, when, by whom—are among the most carefully suppressed records in Vylarian history. What seems certain: many dragons were killed. Some escaped. Some may have been captured, bound, or driven into hiding. The Dragon Riders who had bonded with dragons during the war were quietly disbanded; their dragons were taken from them, killed, or vanished.
 
@@ -335,7 +335,7 @@ When a shaman seeks contact with an ancestor, the shaman _transfers their own so
 
 In neither case is the ancestor _pulled back_ against will or _bound_ to a corporeal medium. The shaman goes to them. The ancestor is consulted on their own terms. Both parties consent. The interaction respects the ancestor's continued residence in the spirit realm.
 
-This is not necromancy. It is sacred practice, and animistic and shamanic traditions are entirely correct to defend it as something different in kind from what necromancers do. The Quaesitorium and other authorities sometimes lump the two together for political reasons (it is convenient to call all soul-related folk magic "necromancy" so as to suppress it uniformly), but the cosmological distinction is real and matters.
+This is not necromancy. It is sacred practice, and animistic and shamanic traditions are entirely correct to defend it as something different in kind from what necromancers do. The Sekran and other authorities sometimes lump the two together for political reasons (it is convenient to call all soul-related folk magic "necromancy" so as to suppress it uniformly), but the cosmological distinction is real and matters.
 
 ### Forms of Necromantic Work
 
@@ -361,7 +361,7 @@ What the necromancer does pay:
 
 - **Ordinary framework-magic costs.** Necromancy is framework-magic, and operating it requires the practitioner's Aura and reasoning, with the standard fatigue and concentration costs. A sustained necromantic session is exhausting, like any major working.
 - **Moral and theological consequences.** If the necromancer's god (if any) considers necromancy a violation, the god's response—withdrawn favor, dispatched agents to oppose, refusal of post-mortem reception—can be severe. Many gods do consider necromancy a grave matter and treat practitioners accordingly.
-- **Cultural and legal consequences.** Most cultures forbid necromancy. The Quaesitorium hunts practitioners aggressively. Folk communities respond to discovered necromancers with violence. Operating as a necromancer requires either deep concealment or operating in a context where it is tolerated (rare).
+- **Cultural and legal consequences.** Most cultures forbid necromancy. The Sekran hunts practitioners aggressively. Folk communities respond to discovered necromancers with violence. Operating as a necromancer requires either deep concealment or operating in a context where it is tolerated (rare).
 - **Conscience.** A necromancer who does retain ordinary moral feeling experiences the work as morally serious. The souls they manipulate are persons, and treating them as raw material—even in the necromancer's own framework—produces psychological costs. Many necromancers eventually develop the kind of moral hardness that lets them ignore this; the few who do not often stop practicing or come to bad ends.
 
 These costs are sufficient to make necromancy difficult and dangerous as a practice without requiring additional metaphysical penalties. The cosmology lets necromancy be evil by every culture's standards while not being evil at the metaphysical level—consistent with the document's general approach to morality.

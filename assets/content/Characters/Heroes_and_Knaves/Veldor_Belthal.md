@@ -421,7 +421,7 @@ Véldor stands 5'9" tall with a medium build. He has light fair skin, dark brown
 
 ### Early Life
 
-Véldor was born into modest means in the bustling streets of [[place-elavendre|Élavendre]]'s theatrical quarter, the son of a silk merchant and a chambermaid who possessed a voice of startling clarity. His mother's love of song became his earliest education, filling his childhood with melody and story. By age seven, he had already begun performing in the street pageants that drew crowds during the Festival of Ólvenía, his precocious talent earning coins and admiration in equal measure. His father, initially skeptical of such frivolous pursuits, came to recognize his son's gift during a spring performance that moved the lord mayor himself to tears.
+Véldor was born into modest means in the streets of [[place-elavendre|Élavendre]]'s theatrical quarter, the son of a silk merchant and a chambermaid who possessed a voice of startling clarity. His mother's love of song became his earliest education, filling his childhood with melody and story. By age seven, he had already begun performing in the street pageants that drew crowds during the Festival of Ólvenía, his precocious talent earning both coins and admiration. His father, initially skeptical of such frivolous pursuits, came to recognize his son's gift during a spring performance that moved the lord mayor himself to tears.
 
 ### Training and Ascendance
 
@@ -435,26 +435,26 @@ Now, in his fourth decade, Véldor stands at the zenith of his career, yet feels
 
 ### Personality
 
-Véldor possesses a chameleon's gift for adaptation, wearing different masks with ease both upon the stage and in society. In public, he is charming and effusive, a raconteur of exceptional skill who can entrance a room with stories of his theatrical triumphs. Yet those who know him intimately recognize the melancholy that dwells behind those brilliant eyes—a sorrow that no amount of applause can fully banish. He is prone to bouts of introspection that can last for weeks, during which he becomes withdrawn and difficult to reach, questioning his worth and his choices with the sort of profound self-doubt that often afflicts artists of genuine depth.
+Véldor possesses a chameleon's gift for adaptation, wearing different masks with ease both upon the stage and in society. In public, he is charming and effusive, a raconteur of skill who can entrance a room with stories of his theatrical triumphs. Yet those who know him intimately recognize the melancholy that dwells behind those brilliant eyes—a sorrow that no amount of applause can fully banish. He is prone to bouts of introspection that can last for weeks, during which he becomes withdrawn and difficult to reach, questioning his worth and his choices with the sort of self-doubt that often afflicts artists of depth.
 
 His relationships tend toward intensity, and he is capable of both lavish devotion and sudden, inexplicable coldness. Colleagues have learned to recognize the signs of his darker moods and to grant him the solitude he craves. Yet his mercurial temperament has not prevented him from building deep friendships with those who understand that genius often walks hand-in-hand with affliction. He remains fiercely loyal to those he considers true companions, and his wit, when employed in their service, can brighten even the darkest of days.
 
 ### Motivation
 
-Véldor seeks the one thing that has always eluded him: the sense of genuine, lasting meaning. He has won every accolade his art can offer, yet each victory rings hollow within days. He harbors a secret desire to create something of his own—a new work, a performance so profound and revolutionary that it might echo through the ages, something that would prove his life was not merely a parade of beautiful masks and clever words, but a genuine contribution to the human spirit. Beneath this lies a desperate fear that he has wasted his considerable gifts on ephemeral entertainments, and that when death comes for him, he will be remembered only as a voice and a face, soon forgotten.
+Véldor seeks the one thing that has always eluded him: the sense of real, lasting meaning. He has won every accolade his art can offer, yet each victory rings hollow within days. He harbors a secret desire to create something of his own—a new work, a performance so deep and revolutionary that it might echo through the ages, something that would prove his life was not merely a parade of beautiful masks and clever words, but a contribution to the human spirit. Beneath this lies a desperate fear that he has wasted his considerable gifts on ephemeral entertainments, and that when death comes for him, he will be remembered only as a voice and a face, soon forgotten.
 
 ### Strengths
 
-- **Consummate Performer**: Véldor's mastery of theatrics, singing, and dance is unparalleled within three kingdoms. His voice alone can silence a restless crowd, and his ability to convey emotion through subtle gesture is almost uncanny.
+- **Consummate Performer**: Véldor's mastery of theatrics, singing, and dance has no equal within three kingdoms. His voice alone can silence a restless crowd, and his ability to convey emotion through subtle gesture is almost uncanny.
 - **Silver-Tongued Orator**: With eloquence and charm as his weapons, Véldor can persuade, manipulate, or inspire with words alone. He has negotiated his way out of dangerous situations and into advantageous ones with equal ease.
-- **Exceptional Perceptiveness**: Years of studying human nature for the stage have given him an acute ability to read people. He can often discern a person's emotional state and true intentions through careful observation.
-- **Cultural Literacy**: Véldor possesses encyclopedic knowledge of classical literature, history, and artistic traditions. He can discuss philosophy, myth, and history with genuine erudition.
+- **Perceptiveness**: Years of studying human nature for the stage have given him an acute ability to read people. He can often discern a person's emotional state and true intentions through careful observation.
+- **Cultural Literacy**: Véldor possesses encyclopedic knowledge of classical literature, history, and artistic traditions. He can discuss philosophy, myth, and history with erudition.
 - **Versatile Craftsperson**: Beyond his performance skills, Véldor is accomplished in multiple practical arts—brewing, cookery, and the martial disciplines. His well-roundedness makes him surprisingly capable in diverse situations.
 
 ### Weaknesses
 
 - **Deep-Seated Insecurity**: Despite—or perhaps because of—his tremendous talent, Véldor doubts his fundamental worth. Success does not reassure him; instead, it intensifies his fear of inevitable failure and exposure.
-- **Melancholic Temperament**: His moods are notoriously unstable. Periods of creative brilliance can give way suddenly to profound depression, rendering him unreliable and withdrawn.
+- **Melancholic Temperament**: His moods are notoriously unstable. Periods of creative brilliance can give way suddenly to depression, rendering him unreliable and withdrawn.
 - **Emotional Volatility**: When wounded—whether in pride, affection, or honor—Véldor can become vindictive and cruel. He wields words as weapons with devastating precision.
 - **Physical Limitations**: He is neither particularly strong nor especially agile. In any situation requiring raw physical power or martial prowess, he is at a significant disadvantage.
 - **Addiction to Validation**: Véldor has developed an unhealthy dependence on external approval. When denied applause or admiration, he becomes listless and unmotivated.
@@ -472,7 +472,7 @@ The Élavendre City Theater Company's Board of Directors
 ### Enemies
 
 Dárion Ashford
-: A younger actor of considerable talent who has begun to eclipse Véldor in popularity. Their professional rivalry has turned personal, with Dárion taking every opportunity to undermine Véldor's authority within the company and to disparage his performances.
+: A younger actor of considerable talent who has begun to eclipse Véldor in popularity. Their rivalry has turned personal, with Dárion taking every opportunity to undermine Véldor's authority within the company and to disparage his performances.
 
 The Rival Stageworks Collective
 : A competing theatrical company that has begun aggressively poaching the City Theater's best performers and audiences. Véldor sees their success as a personal affront.
@@ -483,15 +483,15 @@ Master Celestyn Darnos
 ### Affiliations
 
 The Élavendre City Theater Company
-: Véldor's professional home and primary identity. He serves as the company's principal actor and de facto artistic advisor, wielding considerable influence over casting and repertoire decisions.
+: Véldor's home company and the center of his life. He is the company's principal actor and de facto artistic advisor, wielding considerable influence over casting and repertoire decisions.
 
 ## Plot Hooks
 
-1. **The Lost Manuscript**: A scholar approaches Véldor claiming to have discovered the complete text of an ancient, unperformed masterwork—a tragedy of such profound power that its author was said to have gone mad during its composition. The scholar believes Véldor is the only actor alive capable of bringing the role's protagonist to life, but completion of the work requires Véldor to undertake a dangerous expedition into the Obsidian Peaks to recover several missing pages from the ruins of an ancient library, where his rival **Dárion Ashford** has also taken an interest.
+1. **The Lost Manuscript**: A scholar approaches Véldor claiming to have discovered the complete text of an ancient, unperformed masterwork—a tragedy of such power that its author was said to have gone mad during its composition. The scholar believes Véldor is the only actor alive capable of bringing the role's protagonist to life, but completion of the work requires Véldor to undertake a dangerous expedition into the Obsidian Peaks to recover several missing pages from the ruins of an ancient library, where his rival **Dárion Ashford** has also taken an interest.
 
 2. **The Patron's Dangerous Secret**: **Lady Sýlena** discreetly summons Véldor and reveals that her patronage of the theater has been a cover for her involvement in a network of rebel agents working to undermine the current regime. She asks Véldor to use his access to noble circles to gather intelligence on a potential conspirator. Véldor must decide whether to involve himself in dangerous court politics, risk losing his patronage and livelihood, or betray Lady Sýlena's trust.
 
-3. **A Role That Demands Everything**: The Élavendre City Theater Company receives commission to perform a controversial new work that critiques the very foundations of the kingdom's social order. **Master Darnos** insists that Véldor perform the lead role—a character whose struggle with identity and meaning mirrors Véldor's own existential crisis. The performance becomes an obsession that slowly unravels Véldor's carefully maintained public persona, forcing him to confront the line between performance and reality.
+3. **A Role That Demands Everything**: The Élavendre City Theater Company receives commission to perform a controversial new work that critiques the very foundations of the kingdom's social order. **Master Darnos** insists that Véldor perform the lead role—a character whose struggle with who he is and what his life means mirrors Véldor's own crisis. The performance becomes an obsession that slowly unravels Véldor's carefully maintained public persona, forcing him to confront the line between performance and reality.
 
 4. **The Rival's Proposal**: In a shocking turn of events, **Dárion Ashford** approaches Véldor with a proposal: collaborate on a revolutionary theatrical production that would blend their talents and cement their place in history. The offer tempts Véldor with exactly what he secretly craves, but accepting it requires him to overcome years of resentment and to trust the one person who has most thoroughly undermined him.
 

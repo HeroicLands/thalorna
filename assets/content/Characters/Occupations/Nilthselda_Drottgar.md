@@ -427,7 +427,7 @@ As a Nordheimn apothecary, Nilthselda occupies a recognized social niche within 
 
 ### Patrons
 
-Nilthselda's primary patron is Poor villagers and city laborers.. This relationship provides both opportunity and obligation.
+Nilthselda's primary patron is Poor villagers and city laborers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ None, though some apothecaries see her charity as competition.
 
 ## Plot Hooks
 
-1. **The Apothecary's Dilemma**—Nilthselda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+1. **The Apothecary's Dilemma**—Nilthselda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 
 2. **Old Grudges**—None, though some apothecaries see her charity as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

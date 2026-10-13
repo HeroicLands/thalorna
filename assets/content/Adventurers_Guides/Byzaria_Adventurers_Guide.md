@@ -102,7 +102,7 @@ The [[affiliation-ashanpnthn|Āsháian Pantheon]] has a substantial following am
 
 ## Coin
 
-Each city strikes its own coin, and the League keeps its accounts in [[lore-vylrncrncy|Vylarian money]]: the silver Argo, the cut-silver Bit, and the gold Aurion most people never hold. Large sums travel as the paper-script of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]], and the League uses that imperial banking system without answering to imperial governance or paying imperial tax.
+Each city strikes its own coin, and the League keeps its accounts in [[lore-vylrncrncy|Vylarian money]]: the silver Ard, the cut-silver Bit, and the gold Solden most people never hold. Large sums travel as the paper-script of the [[affiliation-danvar|Danvar]], and the League uses that imperial banking system without answering to imperial governance or paying imperial tax.
 
 ## What Gets a Newcomer into Trouble
 
@@ -167,6 +167,6 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 | Lord Commander        | The League's commander of the Eastern March and its senior soldier                |
 | Warden of the Weights | Inspector of measures, coin and quality; the highest civic honor in a League city |
 
-Argo, Aurion, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ard, Solden, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-byzarianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

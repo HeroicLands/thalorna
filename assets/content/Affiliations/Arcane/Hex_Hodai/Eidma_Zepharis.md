@@ -91,7 +91,7 @@ The sympathy with Physéra is more grounded and more surprising. Air and Earth s
 
 ## The Sodalitas Zephäris
 
-The **Sodalitas Zephäris**—the Fellowship of Air—is the smallest of the six Sodalitates but wields an influence that far exceeds its numbers. Its members are subtle, cerebral, and drawn to the Ordo's intelligence operations. Where the Quaesitorium relies on Pyréthos mages for enforcement, it relies on Zephäris mages for _intelligence_—the gathering of information, the interception of communications, the planting of false perceptions, and the quiet manipulation of events at a distance.
+The **Sodalitas Zephäris**—the Fellowship of Air—is the smallest of the six Sodalitates but wields an influence that far exceeds its numbers. Its members are subtle, cerebral, and drawn to the Ordo's intelligence operations. Where the Sekran relies on Pyréthos mages for enforcement, it relies on Zephäris mages for _intelligence_—the gathering of information, the interception of communications, the planting of false perceptions, and the quiet manipulation of events at a distance.
 
 The fellowship's internal culture prizes cleverness over raw power. A Zephäris mage who solves a problem through misdirection is admired more than one who solves it through force. The fellowship's politics are accordingly opaque—alliances shift like wind patterns, and the true power structure is never quite what it appears to be. This frustrates outsiders (particularly Sidéros practitioners, who find the fellowship's resistance to clear organizational charts personally offensive) but suits the Air mages perfectly. If you cannot be sure who is in charge, you cannot be sure who to target.
 

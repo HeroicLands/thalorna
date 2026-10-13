@@ -461,7 +461,7 @@ Hvalgvir's driving force is the belief that civilization itself rests upon small
 - **Physical Decline**: His aging body cannot match the demands he places upon it. Long periods of labor leave him exhausted, and he is no longer capable of the physical feats required in real combat.
 - **Emotional Burden**: The weight of being a refuge to so many has accumulated over decades. He carries the sorrows and struggles of his patrons within his own heart, and the burden grows heavier each year.
 - **Conflict Avoidance in Personal Matters**: While skilled at mediating others' disputes, he avoids addressing problems within his own life—unresolved tensions with his brother Keth, questions about his legacy and succession, and doubts about his own worthiness.
-- **Blindness to Systemic Problems**: For all his understanding of human nature, Hvalgvir sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
+- **Blindness to Larger Problems**: For all his understanding of human nature, Hvalgvir sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
 
 ## Social
 
@@ -508,4 +508,4 @@ The Ódholm Community Council
 
 4. **The Resurrection of Keth**: Word arrives that Hvalgvir's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, with vast wealth and mysterious new allegiances. Keth returns to Ódholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Hvalgvir must face this reunion without knowing whether his brother is truly returned or an imposter, or what dark purposes lie behind his sudden reappearance.
 
-5. **The Tapestry of Fate**: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Hvalgvir has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Hvalgvir must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.
+5. **The Oracle at the Inn**: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Hvalgvir has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Hvalgvir must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.

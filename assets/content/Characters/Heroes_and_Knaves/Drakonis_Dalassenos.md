@@ -442,7 +442,7 @@ A more personal motivation underlies this: the wilderness is the only place wher
 
 ### Strengths
 
-- **Transcendent Tracking**: His ability to follow quarry across any terrain and detect movement that others would miss borders on supernatural; he can track prey across stone, through water, and identify individuals by subtle variations in their print or movement.
+- **Tracking**: His ability to follow quarry across any terrain and detect movement that others would miss borders on supernatural; he can track prey across stone, through water, and identify individuals by subtle variations in their print or movement.
 - **Wilderness Mastery**: His knowledge of wild environments is encyclopedic—he understands predator behavior, environmental hazards, seasonal changes, and how to navigate and survive in conditions that would kill ordinary people.
 - **Predatory Perception**: His perception and awareness are extraordinary, capable of detecting threats, opportunities, and details in environments that others perceive as homogeneous wilderness.
 - **Physical Resilience**: Years of harsh conditions have created a constitution that can endure injury, exposure, and fatigue that would defeat weaker individuals; his survival instinct is as sharp as any.

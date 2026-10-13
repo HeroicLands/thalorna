@@ -427,7 +427,7 @@ Akhrelu stands 6'1" tall with a heavy build. He has dark brown skin, jet black h
 
 # Dossier {#dossier}
 
-Akhrelu was born in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrelu displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
+Akhrelu was born in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had been animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrelu displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
 At fifteen, he apprenticed formally to Master [[being-latari2|Latari]], the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Latari taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrelu worked beside Latari, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Latari grew too aged to continue, Akhrelu inherited both his knowledge and his responsibilities.
 
@@ -452,7 +452,7 @@ Akhrelu also carries a private mission to discover and preserve knowledge about 
 ### Strengths
 
 - **Masterful Animalcraft**: His ability to train, communicate with, and command animals borders on the mystical. His animalcraft, with four specializations, represents decades of dedicated study and natural talent combined. Wild creatures calm in his presence; aggressive beasts become obedient companions.
-- **Exceptional Endurance**: A constitution built for long hours working with demanding animals, often in harsh conditions. His endurance allows him to maintain focus and physical capability even during grueling multi-day training sessions.
+- **Endurance**: A constitution built for long hours working with demanding animals, often in harsh conditions. His endurance allows him to maintain focus and physical capability even during grueling multi-day training sessions.
 - **Superior Tracking and Survival**: Years living in the borderlands have granted him expert understanding of wilderness navigation, animal signs, and resource procurement. His tracking and survival skills make him much sought for hunting expeditions or locating lost creatures.
 - **Skilled Riding**: His skill with horses and other mounts, with five riding specializations, makes him a fine mounted combatant and scout.
 - **Keen Awareness**: A sharp perception and awareness that allow him to notice subtle signs others overlook—the signs of illness in animals, the approach of dangerous creatures, the emotional state of those around him.
@@ -460,7 +460,7 @@ Akhrelu also carries a private mission to discover and preserve knowledge about 
 
 ### Weaknesses
 
-- **Profound Distrust of Humans**: Years of isolation and bitter experiences with those who mistreat animals have left Akhrelu skeptical of human motives. He assumes wrongdoing until proven otherwise, making alliance-building difficult.
+- **Distrust of Humans**: Years of isolation and bitter experiences with those who mistreat animals have left Akhrelu skeptical of human motives. He assumes wrongdoing until proven otherwise, making alliance-building difficult.
 - **Poor Communication Skills**: His minimal eloquence and tendency toward brevity make him ineffective at negotiation, persuasion, or any dealing requiring nuance or a feel for others' moods. He often inadvertently offends through bluntness.
 - **Emotional Vulnerability Around Animals**: While his emotional distance from humans serves him well, his attachment to animals he trains creates a vulnerability. Those who threaten his beasts can manipulate him into poor decisions.
 - **Limited Creativity in Non-Animal Contexts**: His low creativity means he struggles with unfamiliar problems outside the domain of animal training. Complex social or political puzzles frustrate him.

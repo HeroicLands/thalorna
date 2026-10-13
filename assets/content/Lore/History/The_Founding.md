@@ -28,7 +28,7 @@ data:
             knowledge: named
           - place: place-helionis
             how: >-
-              the Ordo's charter passes to an Augustar who owes it a debt, rather than to a Senate that could vote it away
+              the Ordo's charter passes to an Ôrzâs who owes it a debt, rather than to a Senate that could vote it away
             knowledge: named
           - place: place-aureldirgn
             how: >-
@@ -49,7 +49,7 @@ data:
         - event: lore-vylarirpbl
           how: ended
           note: the Republic established six and a half centuries earlier ends in this year
-        - event: lore-lexarcana
+        - event: lore-kandrol
           how: enabled
           note: the Ordo backed him, a Senate that could revoke its charter being more dangerous than one man who would owe it
       accounts:

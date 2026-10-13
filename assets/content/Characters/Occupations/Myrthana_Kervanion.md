@@ -426,7 +426,7 @@ As a Helionite man-at-arms (sapper), Mýrthana occupies a recognized social nich
 
 ### Patrons
 
-Mýrthana's primary patron is Local military leaders and builders.. This relationship provides both opportunity and obligation.
+Mýrthana's primary patron is Local military leaders and builders. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Few; generally well-liked.
 
 ## Plot Hooks
 
-1. **The Man-at-Arms (Sapper)'s Dilemma**—Mýrthana faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Man-at-Arms (Sapper)'s Dilemma**—Mýrthana faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 
 2. **Old Grudges**—Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

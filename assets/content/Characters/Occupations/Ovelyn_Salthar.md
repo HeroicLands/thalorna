@@ -419,7 +419,7 @@ Creative and skilled at crafting aesthetically pleasing candles.
 
 ## Social
 
-Óvelyn is affiliated with None yet, but interested in joining a craft guild..
+Óvelyn is affiliated with None yet, but interested in joining a craft guild.
 
 As a Élavendri chandler, Óvelyn occupies a recognized social niche within Élavendre society.
 
@@ -427,7 +427,7 @@ As a Élavendri chandler, Óvelyn occupies a recognized social niche within Éla
 
 ### Patrons
 
-Óvelyn's primary patron is Local clergy and townsfolk who buy her candles for special events.. This relationship provides both opportunity and obligation.
+Óvelyn's primary patron is Local clergy and townsfolk who buy her candles for special events. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ Established chandlers who view her as competition.
 
 ## Plot Hooks
 
-1. **The Chandler's Dilemma**—Óvelyn faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Chandler's Dilemma**—Óvelyn faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Established chandlers who view her as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -14,7 +14,7 @@ Playful and curious, otters are highly social animals that enjoy engaging in gro
 
 ## Human Personality
 
-Highly social and inquisitive, this person thrives on interaction and enjoys playful activities. They engage actively with their environment and others, often bringing joy to those around them.
+Otter people are sociable and inquisitive and love play. They throw themselves into their surroundings and into other people, and bring joy to those around them.
 
 - **Physical:** Sleek, smooth build; playful and energetic movements.
 - **Behavioral:** Highly curious, playful, enjoys exploring new environments.

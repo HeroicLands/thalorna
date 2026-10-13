@@ -33,7 +33,7 @@ Blocky and separated, sized to be cut as easily as painted—Okhári monumental 
 
 ## Who has it
 
-Priesthood, professional scribes, 20–35% of the [[affiliation-okharis|Okhári]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
+Priesthood, professional scribes, about one in six of the [[affiliation-okharis|Okhári]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
 
 ## In play
 

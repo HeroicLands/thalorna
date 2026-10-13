@@ -17,9 +17,9 @@ data:
       kind: war
       depth: region
       stated: {calendar: wintertally, text: "176 SR"}
-      sources: [place-vandstein, place-moktur, place-castrovar, lore-empirdclne, lore-threewinters]
+      sources: [place-vandstein, place-moktur, place-dolvar, lore-empirdclne, lore-threewinters]
       summary: >-
-        The famine of the Three Winters sends Varokh war-bands south over the Vandstein passes in numbers Moktur has never met, for cattle and grain before captives. The lowland valleys of northern Moktur empty, Castrovar is raised to a legion fortress to stop the raids, and the Empire's revenue from the north fails in the same years its southern provinces begin to drift.
+        The famine of the Three Winters sends Varokh war-bands south over the Vandstein passes in numbers Moktur has never met, for cattle and grain before captives. The lowland valleys of northern Moktur empty, Dolvar is raised to a legion fortress to stop the raids, and the Empire's revenue from the north fails in the same years its southern provinces begin to drift.
       standing: attested
       names:
         - {name: the Hunger Raids, by: affiliation-provncmktr}
@@ -27,7 +27,7 @@ data:
       where:
         locus: [place-moktur]
         reach:
-          - place: place-castrovar
+          - place: place-dolvar
             how: a frontier post is raised to a legion fortress-town to stop the war-bands at the passes
             knowledge: named
           - place: place-vylariargn
@@ -59,7 +59,7 @@ data:
       stated: {calendar: wintertally, text: "179 SR"}
       sources: [affiliation-vylrnmltry, place-moktur, place-vandstein]
       summary: >-
-        A war-band under Skathric yra Wulfskorn wur Gargrund falls on the camp of the Fourth Vesperine in a Mokturan valley at night, burns its granary and carries off its eagle, which no Varokh has ever taken before or since. The legion is not disbanded at once, because the eagle is known to be in the forest and might be recovered.
+        A war-band under Skathric yra Wulfskorn wur Gargrund falls on the camp of the Pelsan Hilvan in a Mokturan valley at night, burns its granary and carries off its eagle, which no Varokh has ever taken before or since. The legion is not disbanded at once, because the eagle is known to be in the forest and might be recovered.
       standing: attested
       names: [{name: the Taking of the Eagle, by: lore-varokhiclt}]
       where:
@@ -78,10 +78,10 @@ data:
       accounts:
         - by: affiliation-vylrnmltry
           says: >-
-            The Fourth Vesperine's eagle was lost to barbarians and recovered by the Tertia Aurelia, which carries the gold band for it.
+            The Pelsan Hilvan's eagle was lost to barbarians and recovered by the Karsan Soldan, which carries the gold band for it.
           agrees: partly
           withholds: that it was taken from the legion's own camp while the camp slept
-      unresolved: [who left the Fourth Vesperine's gate unwatched]
+      unresolved: [who left the Pelsan Hilvan's gate unwatched]
 ---
 
 Every watchtower in [[place-moktur|Moktur]] keeps the custom of counting smoke. A sergeant handing a recruit his first night on the wall tells him to count the columns rising out of the forest below and to call the officer when there are more than there were at dusk, because one column is a camp and ten is a war-band coming over the passes. The custom is two hundred years old. It began in the **Hunger Raids**, the years after the Three Winters when the [[lore-varokhiclt|Varokh]] came south for food.
@@ -94,24 +94,24 @@ The villages of the southern forest had one thing the northern ones did not. Ove
 
 ## The Grain Summers
 
-From 515 the war-bands went south in numbers Moktur had never met. They wanted cattle and grain first and captives after, and the reciters call these years the Grain Summers for that reason. They came over the passes in the thaw, drove the herds north before the garrisons could gather, and came back the next year to the same valleys. In ten years the lowland valleys of northern Moktur emptied, the families moving south or into the walled towns, and the Empire's revenue from its northern province failed in the same years its southern provinces began to drift ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The province raised [[place-castrovar|Castrovar]] from a frontier post to a legion fortress-town to stop the raids at the passes, and Castrovar's garrison still drills against them.
+From 515 the war-bands went south in numbers Moktur had never met. They wanted cattle and grain first and captives after, and the reciters call these years the Grain Summers for that reason. They came over the passes in the thaw, drove the herds north before the garrisons could gather, and came back the next year to the same valleys. In ten years the lowland valleys of northern Moktur emptied, the families moving south or into the walled towns, and the Empire's revenue from its northern province failed in the same years its southern provinces began to drift ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The province raised [[place-dolvar|Dolvar]] from a frontier post to a legion fortress-town to stop the raids at the passes, and Dolvar's garrison still drills against them.
 
 ## The Taking of the Eagle
 
-In 518 a war-band under **Skathric yra Wulfskorn wur Gargrund**, War Chief of Gargrund in Vandstein, came down on the camp of the Fourth Vesperine in a Mokturan valley on a moonless night. It wanted the legion's granary and burned it. It found the eagle standard in the camp's shrine with two men guarding it, killed them, and carried the eagle north over the passes, where it hung in Skathric's hall at Gargrund for two winters. No Varokh had taken a legion's eagle before, and none has since. The Empire did not disband the Fourth Vesperine at once, because the eagle was known to be in the forest and the legion meant to have it back.
+In 518 a war-band under **Skathric yra Wulfskorn wur Gargrund**, War Chief of Gargrund in Vandstein, came down on the camp of the Pelsan Hilvan in a Mokturan valley on a moonless night. It wanted the legion's granary and burned it. It found the eagle standard in the camp's shrine with two men guarding it, killed them, and carried the eagle north over the passes, where it hung in Skathric's hall at Gargrund for two winters. No Varokh had taken a legion's eagle before, and none has since. The Empire did not disband the Pelsan Hilvan at once, because the eagle was known to be in the forest and the legion meant to have it back.
 
 ## The Black Marsh, as the Forest Tells It
 
 The Black Marsh is a Mokturan battle and its dead lie in Mokturan ground, and the Empire's own account of it belongs to Moktur. The forest keeps a different one, and it runs like this.
 
-In the spring of 520 Skathric took the eagle south again, at the head of the largest host the hunger had yet sent over the passes, war-bands from a dozen villages that had agreed to go together. The reciters say he carried it to shame the legions, and the elders of Gargrund say he carried it because he could not bear to leave it behind. The legions met the host in a valley with a marsh at its foot. They did not attack it; they closed the valley above it and waited, and when the host tried to break out it was driven down into the marsh, where a man in mail sinks to the waist and a war-band cannot stand together. It died there to the last man, and the Tertia Aurelia took the eagle out of the reeds.
+In the spring of 520 Skathric took the eagle south again, at the head of the largest host the hunger had yet sent over the passes, war-bands from a dozen villages that had agreed to go together. The reciters say he carried it to shame the legions, and the elders of Gargrund say he carried it because he could not bear to leave it behind. The legions met the host in a valley with a marsh at its foot. They did not attack it; they closed the valley above it and waited, and when the host tried to break out it was driven down into the marsh, where a man in mail sinks to the waist and a war-band cannot stand together. It died there to the last man, and the Karsan Soldan took the eagle out of the reeds.
 
 No Shaman went south with the host, because no Shaman goes raiding, and nobody called any of its dead home to their totems. The Varokh hold that they are still in the marsh, a dozen villages' sons who cannot find their way north, and that the dread on that ground is theirs: the thing a man feels there is what a war-band feels when the ground gives way under it and there is nowhere to go. Gargrund has never sent its Shaman to call them, because the marsh is in Moktur and a Varokh Shaman at the edge of it would be taken for a raider and killed. The village keeps an empty place at Weskskald for each of its dead, and recites their names every year with nothing after them.
 
 ## What It Left
 
 - **The smoke-counting.** Every tower on the Moktur frontier counts the forest's columns at dusk, and the Black Marsh is the most famous night the count was right.
-- **[[place-castrovar|Castrovar]].** A legion fortress-town of six thousand built to stop the Grain Summers, and still manned against the raids that followed.
+- **[[place-dolvar|Dolvar]].** A legion fortress-town of six thousand built to stop the Grain Summers, and still manned against the raids that followed.
 - **Gargrund's empty places.** A village in Vandstein that recites forty names at Weskskald with no rite after them, and asks every party bound south whether they will carry a Shaman.
 - **The decline.** The Empire's own account of its losses names barbarian pressure from Vrystwald, and this is what it means.
 
@@ -120,6 +120,6 @@ No Shaman went south with the host, because no Shaman goes raiding, and nobody c
 - [[lore-threewinters|The Three Winters]]—the famine the raids answered
 - [[lore-blackmarshbtl|The Battle of the Black Marsh]]—the Empire's account of the same day
 - [[lore-empirdclne|The Decline of the Vylarian Empire]]—what the lost revenue cost
-- [[place-castrovar|Castrovar]]—the fortress raised against the raids
+- [[place-dolvar|Dolvar]]—the fortress raised against the raids
 - [[affiliation-vylrnmltry|Vylarian Military]]—the eagle, and what a legion owes it
 - [[lore-wintertally|The Tally of Winters]]—the Southern Raiding as the forest counts it

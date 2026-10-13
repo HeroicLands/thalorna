@@ -482,7 +482,7 @@ Sevion must navigate the perils of discovery, rivalry, and personal ambition whi
 
 ## Personality and Traits
 
-Sevion is meticulous, analytical, and deeply passionate about alchemy, but he remains humble in his ambitions. Unlike some of his colleagues, he does not seek power or influence beyond what is necessary to support his work. His curiosity often leads him into dangerous situations, though he is careful not to become entangled in the city’s more dangerous political games. While generally amiable, Sevion can be intensely focused, sometimes to the point of isolation, when pursuing a particularly difficult formula.
+Sevion is careful, analytical, and deeply passionate about alchemy, but he remains humble in his ambitions. Unlike some of his colleagues, he does not seek power or influence beyond what is necessary to support his work. His curiosity often leads him into dangerous situations, though he is careful not to become entangled in the city’s more dangerous political games. While generally amiable, Sevion can be intensely focused, sometimes to the point of isolation, when pursuing a particularly difficult formula.
 
 He avoids making enemies within the guild but is aware of the dangerous politics that often swirl around its members. His cautious approach allows him to navigate these complexities while quietly advancing his goals.
 
@@ -513,7 +513,7 @@ Jarl Kervan Redblade
 : Sevion once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sevion tries to avoid any direct confrontation, Kervan’s men have been seen lurking around [[place-heligstrom|Héligstrom]], leading Sevion to believe that retaliation may be imminent.
 
 Guild of Apothecaries
-: While Sevion is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This professional tension has led to strained relations between the two guilds, and Sevion has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
+: While Sevion is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This tension has led to strained relations between the two guilds, and Sevion has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
 
 ## Plot Hooks
 
@@ -521,6 +521,6 @@ Guild of Apothecaries
 
 2. **A Merchant’s Deceit**: One of Sevion’s patrons, Lady Adrienna Alranis, hires him to create a life-preserving elixir for her rare blood disorder. As Sevion works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevion must decide whether to confront her or continue his work under new terms.
 
-3. **The Alchemical Black Market**: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevion’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Calypsa. Investigating the truth places Sevion in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to navigate a dangerous web of alliances and betrayals.
+3. **The Alchemical Black Market**: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevion’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Calypsa. Investigating the truth places Sevion in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to handle a dangerous web of alliances and betrayals.
 
 4. **The Elixir’s Curse**: After finally synthesizing a prototype of the **Visionary Elixir**, Sevion tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.

@@ -412,11 +412,11 @@ Haunted by her past scandal, overly cautious about reputation.
 
 ### Strengths
 
-Graceful, intelligent, skilled at navigating social dynamics.
+Graceful, intelligent, skilled at handling social situations.
 
 ## Social
 
-Émyna is affiliated with Informal network of high-society courtesans..
+Émyna is affiliated with Informal network of high-society courtesans.
 
 As a Élavendri courtesan, Émyna occupies a recognized social niche within Élavendre society.
 
@@ -424,7 +424,7 @@ As a Élavendri courtesan, Émyna occupies a recognized social niche within Éla
 
 ### Patrons
 
-Émyna's primary patron is Wealthy intellectuals and nobles who enjoy her company.. This relationship provides both opportunity and obligation.
+Émyna's primary patron is Wealthy intellectuals and nobles who enjoy her company. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Former suitor who resents her independence.
 
 ## Plot Hooks
 
-1. **The Courtesan's Dilemma**—Émyna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Courtesan's Dilemma**—Émyna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Former suitor who resents her independence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

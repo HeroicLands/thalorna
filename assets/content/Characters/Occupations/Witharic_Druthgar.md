@@ -436,7 +436,7 @@ Crews who quarrel over a boat's share of the toll before he has finished buildin
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma**—Wítharic faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Shipwright's Dilemma**—Wítharic faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—A boat crew blames Wítharic for a broken hull and refuses to pay, though its captain drove the boat onto the stones.
 

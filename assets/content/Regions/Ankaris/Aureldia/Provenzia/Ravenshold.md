@@ -20,7 +20,7 @@ Ravenshold is a dukedom of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]],
 
 ## The Duke's Arrangement
 
-For four years the duke has kept an arrangement with [[being-kelnstylgn|Kêlena Stýlgon]], a courtesan of [[place-valcerise|Valcerise]]. It is more transaction than intimacy, though he is fond of her: he provides substantial financial support, and she provides her company and her discretion about his private affairs.
+For four years the duke has kept an arrangement with [[being-kelnstylgn|Kêlena Stýlgon]], a courtesan of [[place-pirnebris|Pirnebrìs]]. It is more transaction than intimacy, though he is fond of her: he provides substantial financial support, and she provides her company and her discretion about his private affairs.
 
 ## See Also
 

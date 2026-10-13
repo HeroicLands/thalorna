@@ -429,9 +429,9 @@ Dôren is not a complicated man. He does not care for politics, subtlety, or the
 ### Skills and Abilities
 
 - **Battle Prowess**: Dôren is the Silent Talon's frontline fighter. He wields his axe and shield with devastating effect, combining raw strength with the hard-won experience of years of combat.
-- **Physical Strength**: Exceptionally strong, even by the standards of fighting men. His highland upbringing and years of manual labor gave him a powerful frame that his military career has only hardened.
+- **Physical Strength**: Strong, even by the standards of fighting men. His highland upbringing and years of manual labor gave him a powerful frame that his military career has only hardened.
 - **Endurance**: Dôren can fight, march, and endure hardship longer than most men. He does not complain, does not slow down, and does not quit.
-- **Loyalty**: Not a skill in the conventional sense, but Dôren's absolute reliability in battle makes him invaluable. He will hold a position, protect a flank, or stand over a fallen companion until he is physically unable to continue.
+- **Loyalty**: Not a skill in the conventional sense, but Dôren's absolute reliability in battle makes him useful. He will hold a position, protect a flank, or stand over a fallen companion until he is physically unable to continue.
 
 ## Psyche
 
@@ -470,6 +470,6 @@ The raiders who destroyed his village.
 
 1. **The Burning Village**: The Silent Talon passes through a region where villages are being raided in a pattern disturbingly similar to the attack that destroyed Dôren's home. He becomes obsessed with finding the raiders, and the band must decide whether to pursue his personal vendetta or stick to their current contract.
 
-2. **The Old Militia**: A former comrade from Dôren's militia days appears, asking for help with a desperate situation. The request is genuine, but fulfilling it would put the Silent Talon in direct conflict with a powerful lord who is one of their potential employers.
+2. **The Old Militia**: A former comrade from Dôren's militia days appears, asking for help with a desperate situation. The request is real, but fulfilling it would put the Silent Talon in direct conflict with a powerful lord who is one of their potential employers.
 
 3. **The Shield Wall**: During a pitched battle, Dôren is faced with an impossible choice: hold the line and protect the band's retreat, or break formation to save a civilian caught in the fighting. Whatever he chooses, someone pays the price.

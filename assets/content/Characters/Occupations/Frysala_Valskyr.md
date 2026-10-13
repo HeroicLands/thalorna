@@ -11,7 +11,7 @@ data:
   occupation: Chieftain
   lore: []
   culture: provenzianclt
-  homes: [fiordaure]
+  homes: [lizela]
   affiliations: {kngdmprvnz: {rank: 5}, ardavon: {rank: 1}}
   gender: female
   species: humanflk

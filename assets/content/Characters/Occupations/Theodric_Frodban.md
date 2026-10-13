@@ -398,7 +398,7 @@ Theódric yra Fródbán wur Dunkelwald is a 32-year-old man who stands 6'3" tall
 
 Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódric came into the world of the miner through a combination of circumstance and aptitude.
 
-Theódric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Theódric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
+Theódric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to handle the treacherous tunnels. Theódric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
 
 ## Psyche
 
@@ -430,7 +430,7 @@ Few; generally well-respected among peers.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Theódric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Miner's Dilemma**—Theódric faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; generally well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

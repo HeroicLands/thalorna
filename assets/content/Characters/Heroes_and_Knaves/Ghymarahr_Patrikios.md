@@ -453,8 +453,8 @@ Ghymâráhr is driven by a need to atone that he consciously recognizes can neve
 
 ### Strengths
 
-- **Unmatched Practical Combat Experience**: In the sword, the thrown weapon, and the weaponsmith's craft, Ghymâráhr possesses the kind of experience that comes only from three and a half decades of real warfare. He knows how to kill quickly, how to read an opponent's intentions, and how to maintain consciousness and function while wounded and exhausted.
-- **Exceptional Willpower**: His will, combined with his survival skills and his quickness to act, makes him nearly impossible to break mentally or physically. He can function under extreme stress, maintain focus when others would break, and push through pain that would incapacitate normal people.
+- **Practical Combat Experience**: In the sword, the thrown weapon, and the weaponsmith's craft, Ghymâráhr possesses the kind of experience that comes only from three and a half decades of real warfare. He knows how to kill quickly, how to read an opponent's intentions, and how to maintain consciousness and function while wounded and exhausted.
+- **Willpower**: His will, combined with his survival skills and his quickness to act, makes him nearly impossible to break mentally or physically. He can function under extreme stress, maintain focus when others would break, and push through pain that would incapacitate normal people.
 - **Strength and Endurance**: His strength and endurance mean he can still perform feats of physical power despite his age. He can wield weapons that younger fighters cannot and maintain exertion over extended periods.
 - **Battlefield Awareness**: His sharp awareness allows him to read situations quickly and understand what's happening around him with tactical clarity. He notices threats before others and can anticipate danger.
 - **Teaching and Instruction**: His command of others and willingness to teach have proven surprisingly effective with young warriors. His experience, hard-won and nearly fatal, carries authenticity that cannot be faked.

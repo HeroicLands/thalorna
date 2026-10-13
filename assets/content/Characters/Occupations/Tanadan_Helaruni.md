@@ -399,7 +399,7 @@ Tanâdan Helârûnî is a 36-year-old man who stands 5'8" tall and is of moderat
 
 Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Tanâdan Helârûnî came into the world of the locksmith through a combination of circumstance and aptitude.
 
-Tanâdan is a skilled locksmith known for his meticulous craftsmanship and attention to detail. He has been in the business for over twenty years, specializing in creating high-security locks for nobles and wealthy merchants. Tanâdan takes pride in his work and is known for his integrity, often refusing to create locks that can be easily picked.
+Tanâdan is a skilled locksmith known for his craftsmanship and attention to detail. He has been in the business for over twenty years, specializing in creating high-security locks for nobles and wealthy merchants. Tanâdan takes pride in his work and is known for his integrity, often refusing to create locks that can be easily picked.
 
 ## Psyche
 
@@ -425,7 +425,7 @@ As a Tarûzelian locksmith, Tanâdan occupies a recognized social niche within T
 
 ### Patrons
 
-Tanâdan's primary patron is Nobles and local businesses seeking secure locking mechanisms.. This relationship provides both opportunity and obligation.
+Tanâdan's primary patron is Nobles and local businesses seeking secure locking mechanisms. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; well-respected in the community.
 
 ## Plot Hooks
 
-1. **The Locksmith's Dilemma**—Tanâdan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Locksmith's Dilemma**—Tanâdan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Few; well-respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

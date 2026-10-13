@@ -32,13 +32,13 @@ Each god has a lore note of its own: [[lore-zunelasdty|Zûnêlâs]], [[lore-selm
 
 ## One Priesthood per God
 
-The Aureldian faiths are twelve separate priesthoods, not one church. They follow a common pattern: acolytes in training, a body of ordained clergy, and a high priest above them, styled Pontifex, Flamen, Magistra or Somniatrix according to the god. The lay faithful of any of the Twelve keep the feasts and observances without office. A high priest's authority does not extend beyond his own faith, and the larger faiths seat a senior college between clergy and apex.
+The Aureldian faiths are twelve separate priesthoods, not one church. They follow a common pattern: acolytes in training, a body of ordained clergy, and a high priest above them, styled by the god's own domain: the Volsarn of law, the Bravsarn of storms, the Mentara of wisdom or the Nirvena of dreams. The lay faithful of any of the Twelve keep the feasts and observances without office. A high priest's authority does not extend beyond his own faith, and the larger faiths seat a senior college between clergy and apex.
 
 Two faiths depart from the pattern. The faith of Karnavos is deliberately decentralized and anarchic: it has no high priest and no hierarchy to rise through, only the Circle of the Threshold, a loose and shifting fellowship that anyone may claim to belong to and no one may speak for. The faiths of Ústaron are divided by schism.
 
 ### The Faith of Árdavon
 
-The [[affiliation-ardavon|Faith of Árdavon]] is the religion of the nobility in much of western Ankaris, because its doctrines underpin the feudal order: oaths of fealty, codes of knightly conduct, the laws of war and the sanctity of contracts all fall under the god's purview. To break a sworn oath is to offend Árdavon directly. His temples serve as courts of law and his priests as judges and mediators. Its priesthood is the most politically influential of any Aureldian faith, second only to the Sacred Forge in institutional wealth and territorial control, and its high priest, the Pontifex Iuris, sits in Provènzia.
+The [[affiliation-ardavon|Faith of Árdavon]] is the religion of the nobility in much of western Ankaris, because its doctrines underpin the feudal order: oaths of fealty, codes of knightly conduct, the laws of war and the sanctity of contracts all fall under the god's purview. To break a sworn oath is to offend Árdavon directly. His temples serve as courts of law and his priests as judges and mediators. Its priesthood is the most politically influential of any Aureldian faith, second only to the Sacred Forge in institutional wealth and territorial control, and its high priest, the Volsarn, sits in Provènzia.
 
 The year turns on the Feast of Thresholds, four days of oath-taking and covenant renewal in which lords and vassals reaffirm fealty, merchants renew contracts and spouses renew their vows. Priests witness and record each oath, and the record gives it divine force.
 
@@ -46,7 +46,7 @@ The year turns on the Feast of Thresholds, four days of oath-taking and covenant
 
 Ústaron embodies both aspects of flame, the forge that shapes and the inferno that consumes. Roughly five hundred years ago a faction of his clergy declared that his true nature is destruction, and his worship split into two faiths, each calling the other heretical. [[lore-ustaranschsm|The Ústaran Schism]] tells how the break came and why it did not heal.
 
-- [[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provènzia. Its Grand Pontifex is checked by a collegium of senior Hammer-Priests.
+- [[affiliation-sacredforge|The Sacred Forge]] honors the creative aspect: craftsmanship, transformation, illumination and protection. Its temples are built around forges whose fires burn continuously, and letting one die is a catastrophe. It is the mainstream Ústaran faith in most of western Ankaris and is politically favored in Provènzia. Its Hamsarn is checked by a council of senior Hammer-Priests.
 - [[affiliation-blackflame|The Black Flame]] honors the destructive aspect: fire as purifier, weapon and instrument of domination, and the rule of the strong. It is suppressed in most kingdoms and condemned by both the Sacred Forge and the Faith of Árdavon, and it operates through secretive orders and hidden shrines. The Empire of Vylaria is the exception: it has never formally proscribed the faith, which maintains temples and ordains clergy openly there.
 
 ### The Other Faiths

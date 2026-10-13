@@ -420,21 +420,21 @@ Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]
 
 ### The War
 
-Sélvara joined the Tarûzelian rebellion the same night, following Bû into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bû led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of [[place-tamzirshoals|Tamzîr Shoals]], where she earned a reputation for cold-blooded efficiency under fire. By the war's end, she was a hardened veteran at eighteen.
+Sélvara joined the Tarûzelian rebellion the same night, following Bû into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bû led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of [[place-tamzirshoals|Tamzîr Shoals]], where she earned a reputation for cold-blooded steadiness under fire. By the war's end, she was a hardened veteran at eighteen.
 
 ### After the War
 
-When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bû without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bû bought the Tamzîr and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with quiet authority and serving as the crew's anchor when Bû's temper or recklessness threatens to capsize them all.
+When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bû without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bû bought the Tamzîr and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with authority and serving as the crew's anchor when Bû's temper or recklessness threatens to capsize them all.
 
 ### Marriage
 
-Three years ago, Sélvara married [[being-fethardhrl|Féthar Dhárel]], the Tamzîr's pilot, in a dockside ceremony in [[place-provenzrgn|Provènzia]]. The match surprised everyone except Bû, who had seen it coming for years. Féthar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a genuinely happy one—a rare point of softness in her otherwise hard-edged life.
+Three years ago, Sélvara married [[being-fethardhrl|Féthar Dhárel]], the Tamzîr's pilot, in a dockside ceremony in [[place-provenzrgn|Provènzia]]. The match surprised everyone except Bû, who had seen it coming for years. Féthar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
 
 ## Psyche
 
 ### Personality
 
-Sélvara is calm, competent, and economical with words. She does not waste time on speeches, pleasantries, or hand-wringing. She gives orders with quiet authority and expects them to be followed. She is loyal to a fault—once she commits to someone, she will walk through fire for them—but her loyalty must be earned, and she does not suffer fools. Behind the soldier's exterior is a deeply perceptive woman who reads people with unsettling accuracy.
+Sélvara is calm, competent, and economical with words. She does not waste time on speeches, pleasantries, or hand-wringing. She gives orders with authority and expects them to be followed. She is loyal to a fault—once she commits to someone, she will walk through fire for them—but her loyalty must be earned, and she does not suffer fools. Behind the soldier's exterior is a deeply perceptive woman who reads people with unsettling accuracy.
 
 ### Motivation
 
@@ -442,7 +442,7 @@ Sélvara's motivations are simple and fierce: protect the people she loves. The 
 
 ### Strengths
 
-She is one of the finest fighters on the Vylarian Sea—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with an efficiency that keeps the Tamzîr running. She is virtually unshakeable under pressure.
+She is one of the finest fighters on the Vylarian Sea—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with a firmness that keeps the Tamzîr running. She is virtually unshakeable under pressure.
 
 ### Weaknesses
 

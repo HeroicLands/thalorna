@@ -433,7 +433,7 @@ None; generally well-regarded.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma**—Winifred faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Cartographer/Artist's Dilemma**—Winifred faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—None; generally well-regarded. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

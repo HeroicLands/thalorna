@@ -430,7 +430,7 @@ Rival warriors who see him as a threat.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Edwin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Huscarl's Dilemma**—Edwin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Rival warriors who see him as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

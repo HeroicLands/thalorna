@@ -432,7 +432,7 @@ A lecturer of the chapterhouse who holds that the conquest is settled history an
 
 1. **The Fragment**—A student has brought Bûlêlon a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
 
-2. **The Artifact**—Bûlêlon has brought back from a sunken temple an object the fragments describe, and the Ordo's Quaesitorium has written, courteously, to ask for it.
+2. **The Artifact**—Bûlêlon has brought back from a sunken temple an object the fragments describe, and the Ordo's Sekran has written, courteously, to ask for it.
 
 3. **The Thesis**—Bûlêlon's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
 

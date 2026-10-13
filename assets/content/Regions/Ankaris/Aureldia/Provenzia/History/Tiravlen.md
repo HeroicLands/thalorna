@@ -14,11 +14,11 @@ data:
       sources:
         - place-tiravellake
         - place-bldfldtiravlen
-        - place-serramarca
+        - place-talothe
         - place-aureliane
         - affiliation-vylarinmpr
       summary: >-
-        The legions land below Aurèliane and march north-east up the river roads. The Thânevar kings gather their hosts at Lake Tiravel, the richest basin they hold, and are broken on the shore; many are driven into the water. The province of the West is made, with Aurèliane its capital. The Vylarian record of the battle burns with the archive on Mons Aquila, and Provenzians keep only the ground's name.
+        The legions land below Aurèliane and march north-east up the river roads. The Thânevar kings gather their hosts at Lake Tiravel, the richest basin they hold, and are broken on the shore; many are driven into the water. The province of the West is made, with Aurèliane its capital. The Vylarian record of the battle burns with the archive on Arvel, and Provenzians keep only the ground's name.
       standing: attested
       names:
         - {name: Tiravlen, by: place-bldfldtiravlen}
@@ -29,7 +29,7 @@ data:
           - place: place-aureliane
             how: the colony on the great road becomes the capital of the province of the West and keeps the high courts for the centuries that follow
             knowledge: named
-          - place: place-serramarca
+          - place: place-talothe
             how: the lake villages keep the anniversary indoors and call the ground by its name without saying whose battle it was
             knowledge: unlinked
           - place: place-provenzrgn
@@ -58,7 +58,7 @@ data:
         - how many of the Thânevar kings were taken alive
 ---
 
-The lake villages of **Tiravlen** keep the anniversary indoors, and they cannot say what it commemorates. The Vylarian dispatch that named the battle burned with the imperial archive on Mons Aquila in about 318 AF, and the Thânevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
+The lake villages of **Tiravlen** keep the anniversary indoors, and they cannot say what it commemorates. The Vylarian dispatch that named the battle burned with the imperial archive on Arvel in about 318 AF, and the Thânevar kings who fought it left no record of their own. The ground kept the name and the villages kept the night.
 
 ## The March
 

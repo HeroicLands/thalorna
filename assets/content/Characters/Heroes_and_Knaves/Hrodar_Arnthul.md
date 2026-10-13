@@ -400,7 +400,7 @@ Hródar was a timber cutter's son from a logging settlement in the deep pine cou
 
 When Hródar's father was killed by a falling tree—exhausted, rushing to meet an impossible deadline—the twenty-year-old confronted the factor and broke his jaw. He fled into the forest that same day, knowing the garrison would come. He spent years drifting between illegal logging camps, poaching outfits, and seasonal labor, growing harder and more bitter with each passing winter. He joined the Blackpine Wolves eighteen months ago, recruited by Vandaric in a border tavern, and has proven himself a dependable fighter and woodsman—silent, tough, and willing to do what needs doing without being asked twice.
 
-He is the gang member most driven by genuine grievance. He hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a focused, personal fury that the others—motivated by greed, desperation, or indifference—cannot match. Every merchant he robs is a proxy for the factor who killed his father through negligence, and every Vylarian soldier he fights is an agent of the system that ground his family into the dirt.
+He is the gang member most driven by grievance. He hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a focused, personal fury that the others—motivated by greed, desperation, or indifference—cannot match. Every merchant he robs is a proxy for the factor who killed his father through negligence, and every Vylarian soldier he fights is an agent of the system that ground his family into the dirt.
 
 # Skills and Abilities
 
@@ -410,7 +410,7 @@ Hródar is a solid, workmanlike fighter—not brilliant, but reliable and hard t
 
 ### Personality
 
-Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dágulf—his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim efficiency and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in Varokhi when he thinks no one is listening.
+Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dágulf—his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim thoroughness and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in Varokhi when he thinks no one is listening.
 
 ### Motivation
 
@@ -440,4 +440,4 @@ The Vylarian timber concession's current operators. The garrison that pursued hi
 
 2. **The Timber War**—A Varokh logging settlement is being squeezed by the same exploitative imperial concession system that destroyed Hródar's family. The loggers are considering armed resistance and have sent word into the forest looking for men willing to fight. Hródar is eager to join them, which would pull him away from the gang and potentially spark a broader conflict. The party arrives in the middle of escalating tensions.
 
-3. **The Silent Guide**—The party needs a guide through a particularly treacherous stretch of the Vrystwald interior. Hródar, separated from the gang after a botched robbery, is the only person in the area who knows the route. He will help—for a price, and only if the party is not traveling with Vylarian soldiers or imperial merchants. His knowledge of the forest is genuine, but his hatred of the empire could make him a dangerous companion if the party's allegiances are not what they seem.
+3. **The Silent Guide**—The party needs a guide through a particularly treacherous stretch of the Vrystwald interior. Hródar, separated from the gang after a botched robbery, is the only person in the area who knows the route. He will help—for a price, and only if the party is not traveling with Vylarian soldiers or imperial merchants. His knowledge of the forest is real, but his hatred of the empire could make him a dangerous companion if the party's allegiances are not what they seem.

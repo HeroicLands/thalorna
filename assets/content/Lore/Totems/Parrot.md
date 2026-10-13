@@ -14,7 +14,7 @@ Social and vocal, parrots are intelligent birds that thrive on interaction and a
 
 ## Human Personality
 
-Outgoing and communicative, this individual thrives on interaction and enjoys engaging with others. They are articulate and often bring life to social settings with their vocal presence.
+A Parrot person is outgoing and talkative and enjoys the company of others. Articulate and loud, the person brings life to any gathering.
 
 - **Physical:** Bright, expressive appearance; social body language.
 - **Behavioral:** Highly social, vocal and communicative, enjoys interaction.

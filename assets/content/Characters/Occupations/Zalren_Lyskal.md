@@ -11,7 +11,7 @@ data:
   occupation: Woodcrafter
   lore: []
   culture: provenzianclt
-  homes: [chastelclr]
+  homes: [durvalis]
   affiliations: {kngdmprvnz: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
@@ -425,7 +425,7 @@ As a Provenzian woodcrafter, Zálren occupies a recognized social niche within P
 
 ### Patrons
 
-Zálren's primary patron is Local farmers and townspeople who need durable wooden goods.. This relationship provides both opportunity and obligation.
+Zálren's primary patron is Local farmers and townspeople who need durable wooden goods. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ None; respected for his consistency and reliability.
 
 ## Plot Hooks
 
-1. **The Woodcrafter's Dilemma**—Zálren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Woodcrafter's Dilemma**—Zálren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
 2. **Old Grudges**—None; respected for his consistency and reliability. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

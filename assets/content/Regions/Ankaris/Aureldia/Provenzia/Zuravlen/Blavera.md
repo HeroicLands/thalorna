@@ -13,7 +13,7 @@ a modest strip of orchard along its northern edge. It is neither rich nor poor, 
 its own name, and feeds a good deal of the barony.
 
 Use Blavéra as the model of an **ordinary mixed manor**. Most of [[place-zuravlenrgn|Zûravlen]] looks
-like this; Vergéval is the exception that gets talked about.
+like this; Palnebrìs is the exception that gets talked about.
 
 ## The Manor
 
@@ -25,7 +25,7 @@ like this; Vergéval is the exception that gets talked about.
   ordinary way and neither is seriously contested.
 - **The fold.** Blavéra's own flock is folded on the fallow at night, which is where its yields come
   from. Its surplus dung is sold up the valley, and this is Blavéra's quiet second income.
-- **Orchard.** Perhaps four hectares, dried in the baron's yards at Mercadaure like everybody else's.
+- **Orchard.** Perhaps four hectares, dried in the baron's yards at Elthrembìs like everybody else's.
   Enough to matter in a good year and not enough to ruin the manor in a bad one, which is precisely
   the point.
 
@@ -37,6 +37,6 @@ and the fold.
 
 ## Why It Matters
 
-When frost takes the blossom, Vergéval borrows and Blavéra eats. In such years grain prices in the
+When frost takes the blossom, Palnebrìs borrows and Blavéra eats. In such years grain prices in the
 barony rise sharply and Blavéra's lord becomes, briefly and unaccustomedly, an important man—a
 reversal that has caused more trouble in Zûravlen's history than any outside enemy.

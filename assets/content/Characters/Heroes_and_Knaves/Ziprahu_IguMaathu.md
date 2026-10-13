@@ -443,8 +443,8 @@ Ziprahu is driven by a desire to be the best locksmith who has ever lived, to su
 
 ### Strengths
 
-- **Unparalleled Lock Expertise**: Ziprahu's understanding of locking mechanisms approaches the theoretical and mathematical. He can design locks of such complexity that only his own hand can open them, and he can analyze any existing lock for weaknesses within minutes.
-- **Meticulous Attention to Detail**: Every lock he creates is an object of art—symmetrical, balanced, built to standards that exceed client requirements. His work is durable beyond what function alone demands because he cannot produce something mediocre.
+- **Lock Expertise**: Ziprahu's understanding of locking mechanisms approaches the theoretical and mathematical. He can design locks of such complexity that only his own hand can open them, and he can analyze any existing lock for weaknesses within minutes.
+- **Attention to Detail**: Every lock he creates is an object of art—symmetrical, balanced, built to standards that exceed client requirements. His work is durable beyond what function alone demands because he cannot produce something mediocre.
 - **Absolute Trustworthiness**: In a profession where dishonesty could be enormously profitable, Ziprahu has never once betrayed a client's secrets or provided information to potential thieves. His word is unquestionable.
 - **Problem-Solving Ingenuity**: Given any security challenge, Ziprahu can devise new solutions that combine his technical knowledge with creative thinking. He has designed the protections of the most valuable vaults in the Empire.
 - **Scholarly Knowledge**: Beyond practical lock-craft, Ziprahu has studied the history of locks, security philosophy, and even the metaphysical meanings of barriers and protection. This theoretical grounding makes him a resource for matters beyond simple mechanics.

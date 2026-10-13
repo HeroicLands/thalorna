@@ -11,7 +11,7 @@ data:
   occupation: Bureaucrat
   lore: []
   culture: tarvenanclt
-  homes: [torreviga]
+  homes: [thorgila]
   affiliations: {kingdmtrvn: {rank: 3}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
@@ -435,13 +435,13 @@ Currently, Hálrikos maintains his position as one of the most indispensable fig
 
 ### Personality
 
-Hálrikos speaks in measured tones, precisely articulating each word as though every sentence were being entered into an official record. He is neither friendly nor hostile, but exists in a permanent state of professional courtesy—pleasant, but emotionally distant. He views emotional displays as unseemly indulgences and tends to interpret passionate advocacy as a lack of rational argument. He is deeply cynical about human nature, having spent his career witnessing how people bend, twist, and reinterpret rules to suit their interests. He has no patience for idealism and views the Reformist faction that has arisen in recent years as composed of naive fools who do not understand the delicate equilibrium that existing regulations maintain.
+Hálrikos speaks in measured tones, precisely articulating each word as though every sentence were being entered into an official record. He is neither friendly nor hostile, but exists in a permanent state of formal courtesy—pleasant, but emotionally distant. He views emotional displays as unseemly indulgences and tends to interpret passionate advocacy as a lack of rational argument. He is deeply cynical about human nature, having spent his career witnessing how people bend, twist, and reinterpret rules to suit their interests. He has no patience for idealism and views the Reformist faction that has arisen in recent years as composed of naive fools who do not understand the delicate equilibrium that existing regulations maintain.
 
 His humor, when it emerges, is dry and acerbic—a quick observation about the absurdity of human behavior followed by immediate return to serious matters. He respects precision, consistency, and adherence to form, and he views those who violate these principles as fundamentally untrustworthy, regardless of their intentions. He is not unkind, merely indifferent to the emotional lives of others, and he has long since made peace with being viewed as cold and inhuman.
 
 ### Motivation
 
-Hálrikos is motivated by a deep, almost religious belief that proper procedure, correctly applied, is the only thing that prevents civilization from descending into chaos. He views his work as a sacred duty to maintain the structural integrity of society, and he fears that abandoning the carefully balanced regulations that have evolved over centuries would lead to precisely the sort of corruption and disorder that he has spent his life preventing. His secondary motivation is the maintenance of his own position and influence—he derives genuine satisfaction from being indispensable, from being the person that city leaders must consult before making important decisions. He fears obsolescence more than death, and he views the Reformist push to modernize and streamline regulations as a personal threat to his relevance.
+Hálrikos is motivated by a deep, almost religious belief that proper procedure, correctly applied, is the only thing that prevents civilization from descending into chaos. He views his work as a sacred duty to maintain the structural integrity of society, and he fears that abandoning the carefully balanced regulations that have evolved over centuries would lead to precisely the sort of corruption and disorder that he has spent his life preventing. His secondary motivation is the maintenance of his own position and influence—he derives satisfaction from being indispensable, from being the person that city leaders must consult before making important decisions. He fears obsolescence more than death, and he views the Reformist push to modernize and streamline regulations as a personal threat to his relevance.
 
 ### Strengths
 
@@ -449,11 +449,11 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **Institutional Architecture**: He possesses an almost supernatural ability to organize complex systems of information, to identify gaps in regulation, and to design procedural solutions that address problems without requiring entirely new laws.
 
-- **Procedural Precision**: His mastery of proper forms, official protocols, and bureaucratic ritual means that he can navigate almost any government situation, and his documents are legally airtight in ways that protect his allies and confound his enemies.
+- **Procedural Precision**: His mastery of proper forms, official procedures, and bureaucratic ritual means that he can navigate almost any government situation, and his documents are legally airtight in ways that protect his allies and confound his enemies.
 
 - **Reliability**: In a world of shifting loyalties and political convenience, Hálrikos is absolutely reliable—his word is his bond, and he follows through on every commitment because deviation from commitment is contrary to his nature.
 
-- **Writing Mastery**: His skill in Script is formidable, allowing him to draft complex legal documents, carefully worded advisories, and devastating administrative critiques that are both beautiful and lethal in their precision.
+- **Writing Mastery**: His skill in Script is strong, allowing him to draft complex legal documents, carefully worded advisories, and devastating administrative critiques that are both beautiful and lethal in their precision.
 
 ### Weaknesses
 
@@ -475,13 +475,13 @@ Magistrate Korvain
 : The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
 
 City Judge Thelessa
-: The head of Tarvénia's court system views Hálrikos as an invaluable ally in maintaining the city's legal integrity and often calls upon him to resolve disputed points of law.
+: The head of Tarvénia's court system views Hálrikos as a useful ally in maintaining the city's legal integrity and often calls upon him to resolve disputed points of law.
 
 Master Merchant Vaelot
 : A wealthy trader who has benefited from Hálrikos's careful interpretation of mercantile regulations and who pays him a regular consulting fee for ongoing advice.
 
 The Guild of Scribes
-: His original guild regards him as one of their greatest achievements and maintains him as an honored senior member, consulting him on matters of professional standards.
+: His original guild regards him as one of their greatest achievements and maintains him as an honored senior member, consulting him on matters of the guild's standards.
 
 ### Enemies
 
@@ -500,7 +500,7 @@ The Shadow Syndicate
 ### Affiliations
 
 The City Bureaucracy
-: Hálrikos is woven into the fabric of Tarvénia's government and serves as an advisor to nearly every city office.
+: Hálrikos is part of Tarvénia's government and is an advisor to nearly every city office.
 
 The Guild of Scribes
 : He maintains his membership and attends quarterly meetings, though he relates to fewer and fewer of the younger members.
@@ -521,4 +521,4 @@ The Order of Brâzêmâs
 
 4. **The Impossible Request**: A powerful and sympathetic figure comes to Hálrikos with a request: to help them accomplish something that is technically against regulations, but which Hálrikos believes is morally justified. This figure might be a beloved city official whose career is unjustly threatened, or a common person suffering because of the inflexible application of an outdated rule. For the first time in his life, Hálrikos is forced to choose between his fundamental principle and his conviction that the right choice requires breaking it. Making the wrong decision in either direction will destroy something essential to him.
 
-5. **The Guild's Betrayal**: The Guild of Scribes receives an offer from a wealthy patron to sponsor a new, more efficient system of record-keeping using novel methods that Hálrikos views as fundamentally unreliable. The Guild, faced with declining revenues as fewer people enter the scribal profession, is tempted by the patron's offer. Hálrikos must convince the Guild that his way is superior while privately questioning whether his devotion to tradition is blinding him to genuine improvements. Meanwhile, the mysterious patron's true identity and motives become increasingly unclear, and Hálrikos begins to suspect that accepting the offer would compromise the integrity of the city's records for reasons he does not yet understand.
+5. **The Guild's Betrayal**: The Guild of Scribes receives an offer from a wealthy patron to sponsor a new, faster system of record-keeping using novel methods that Hálrikos views as fundamentally unreliable. The Guild, faced with declining revenues as fewer people enter the scribal profession, is tempted by the patron's offer. Hálrikos must convince the Guild that his way is superior while privately questioning whether his devotion to tradition is blinding him to improvements. Meanwhile, the mysterious patron's true identity and motives become increasingly unclear, and Hálrikos begins to suspect that accepting the offer would compromise the integrity of the city's records for reasons he does not yet understand.

@@ -14,7 +14,7 @@ Silent and patient, snakes are stealthy hunters that rely on ambush tactics, wai
 
 ## Human Personality
 
-This individual is stealthy and waits for the opportune moment to strike. They possess a calm exterior but can be decisive and effective when necessary.
+A Snake person moves stealthily and waits for the right moment to strike. The surface is calm, and when action is needed it is decisive and effective.
 
 - **Physical:** Sinuous, fluid movements; steady gaze.
 - **Behavioral:** Silent, patient, strategic in timing and actions.

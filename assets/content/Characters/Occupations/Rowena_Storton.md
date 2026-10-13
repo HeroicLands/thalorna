@@ -430,7 +430,7 @@ Rowena has managed to avoid making serious enemies, though the nature of his wor
 
 ## Plot Hooks
 
-1. **The Animal Trainer's Dilemma**—Rowena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Animal Trainer's Dilemma**—Rowena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Unwelcome Attention**—A powerful figure in Aelwyth has taken an interest in Rowena's work, and their intentions remain unclear. Cooperation could mean security—or compromise.
 

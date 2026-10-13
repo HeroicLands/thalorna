@@ -454,7 +454,7 @@ Vanika is driven by a fundamental commitment to excellence—the conviction that
 
 - **Ingredient Knowledge**: Possesses encyclopedic understanding of herbs, spices, plants, and their properties—both culinary and medicinal; she can work with whatever materials are available and extract maximum value and flavor.
 
-- **Practical Efficiency**: Can manage production of large quantities of food with minimal waste; her kitchen operations are marvels of order and economy that other cooks study and attempt to replicate.
+- **Practical Economy**: Can manage production of large quantities of food with minimal waste; her kitchen operations are marvels of order and economy that other cooks study and attempt to replicate.
 
 - **Leadership Authority**: Her kitchen operates with extraordinary coordination and morale; younger cooks learn discipline and excellence from her, and those working under her direction improve substantially in competence and confidence.
 

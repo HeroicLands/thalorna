@@ -11,7 +11,7 @@ data:
   occupation: Cook
   lore: []
   culture: provenzianclt
-  homes: [belporte]
+  homes: [kalveza]
   affiliations: {kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
@@ -399,7 +399,7 @@ Kírisa Zýrand is a 41-year-old woman who stands 5'10" tall and is of moderate 
 
 Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Kírisa Zýrand came into the world of the cook through a combination of circumstance and aptitude.
 
-Kírisa works in the kitchen of a bustling inn, where she has become known for her flavorful soups and stews. She is practical and no-nonsense, having learned to cook out of necessity rather than passion. However, over the years, she has come to appreciate the art of cooking and takes pride in feeding the many travelers who pass through.
+Kírisa works in the kitchen of an inn, where she has become known for her flavorful soups and stews. She is practical and no-nonsense, having learned to cook out of necessity rather than passion. However, over the years, she has come to appreciate the art of cooking and takes pride in feeding the many travelers who pass through.
 
 ## Psyche
 
@@ -425,7 +425,7 @@ As a Provenzian cook, Kírisa occupies a recognized social niche within Provènz
 
 ### Patrons
 
-Kírisa's primary patron is Inn guests and locals who enjoy her cooking.. This relationship provides both opportunity and obligation.
+Kírisa's primary patron is Inn guests and locals who enjoy her cooking. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ A few chefs who look down on her simple style.
 
 ## Plot Hooks
 
-1. **The Cook's Dilemma**—Kírisa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Cook's Dilemma**—Kírisa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—A few chefs who look down on her simple style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

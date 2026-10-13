@@ -11,7 +11,7 @@ data:
   occupation: Domestic Servant
   lore: []
   culture: provenzianclt
-  homes: [valcerise]
+  homes: [pirnebris]
   affiliations: {kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
@@ -418,7 +418,7 @@ Highly organized, skilled in household management, reliable.
 
 ## Social
 
-Lýraen is affiliated with None; dedicated to her job..
+Lýraen is affiliated with None; dedicated to her job.
 
 As a Provenzian domestic servant, Lýraen occupies a recognized social niche within Provènzia society.
 
@@ -426,7 +426,7 @@ As a Provenzian domestic servant, Lýraen occupies a recognized social niche wit
 
 ### Patrons
 
-Lýraen's primary patron is Her current employer, who trusts her to manage the household.. This relationship provides both opportunity and obligation.
+Lýraen's primary patron is Her current employer, who trusts her to manage the household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Some of the younger servants who see her as too strict.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma**—Lýraen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Domestic Servant's Dilemma**—Lýraen faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—Some of the younger servants who see her as too strict. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

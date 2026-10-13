@@ -14,7 +14,7 @@ Docile and routine-oriented, cows are gentle creatures that thrive in familiar e
 
 ## Human Personality
 
-Docile and calm, this person thrives on consistency and routine. They are gentle in their interactions and prefer environments where they can follow familiar patterns.
+Calm and gentle, the Cow person depends on routine and does best where the patterns are familiar.
 
 - **Physical:** Robust, steady frame; calm, reflective countenance.
 - **Behavioral:** Gentle, prefers routines, calm demeanor.

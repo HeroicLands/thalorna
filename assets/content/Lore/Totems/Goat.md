@@ -14,7 +14,7 @@ Curious and determined, goats are naturally inquisitive animals that will climb,
 
 ## Human Personality
 
-Inquisitive and adventurous, this person constantly explores and tests their environment. Their determination drives them to overcome barriers and satisfy their curiosity.
+Goat people explore and test whatever is around them. Determination carries them over barriers and satisfies their curiosity.
 
 - **Physical:** Lean, muscular legs; agile and sure-footed.
 - **Behavioral:** Inquisitive and determined, won't shy away from obstacles.

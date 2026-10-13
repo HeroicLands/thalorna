@@ -14,7 +14,7 @@ Dominant and strategic, lions are social big cats that work cooperatively within
 
 ## Human Personality
 
-This person is a natural leader who works well within a team, using their strategic mind to lead and defend their group. They are dominant, taking charge of situations.
+Lions lead, and a Lion person is a natural leader who works well in a team. The person plans for the group, defends it and takes charge of events.
 
 - **Physical:** Strong, dominant presence; regal and authoritative appearance.
 - **Behavioral:** Dominant, strategic in leadership and social engagements.

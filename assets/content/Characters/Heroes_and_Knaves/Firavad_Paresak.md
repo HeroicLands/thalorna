@@ -430,11 +430,11 @@ Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara]] elders rec
 
 **Training and Mastery**
 
-For forty years, Firâvâd has served as the Pâresak tribe's primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his profound knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé **Yuzhvâd**, now forty summers old and master of the tribe's second vision-circle.
+For forty years, Firâvâd has been the Pâresak tribe's primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé **Yuzhvâd**, now forty summers old and master of the tribe's second vision-circle.
 
 **Current Station**
 
-Now in his twilight years, Firâvâd feels the weight of his long communion with the spirit realm. His influence over the tribe has never been greater, yet his physical strength wanes with each passing season. He serves as primary advisor to Chieftain **Vethak Stormborn**, shaping tribal policy and settling disputes that resist ordinary judgment. Increasingly, he spends his evenings alone at the Sacred Stones, conversing with voices only he can hear.
+Now in his twilight years, Firâvâd feels the weight of his long communion with the spirit realm. His influence over the tribe has never been greater, yet his physical strength wanes with each passing season. He is primary advisor to Chieftain **Vethak Stormborn**, shaping tribal policy and settling disputes that resist ordinary judgment. Increasingly, he spends his evenings alone at the Sacred Stones, conversing with voices only he can hear.
 
 ## Psyche
 
@@ -442,15 +442,15 @@ Now in his twilight years, Firâvâd feels the weight of his long communion with
 
 Firâvâd possesses the serene detachment of the mystic, speaking in riddles when direct answers would suffice, laughing at jokes only the spirits appreciate. He is neither harsh nor gentle, but rather transparent—as though his flesh is already becoming translucent, his essence already half-departed for the spirit realm. He demonstrates deep compassion for the suffering, but little patience for those who refuse to learn from their pain. His humor is dry and mordant, flavored with the strange perspective of one who has glimpsed mortality's true face.
 
-Despite his spiritual authority, he harbors profound humility about the limits of shamanic knowledge. He speaks often of the arrogance of lesser shamans who claim absolute mastery over the mystical forces, and he encourages those who seek his counsel to trust their own instincts above his divinations.
+Despite his spiritual authority, he harbors humility about the limits of shamanic knowledge. He speaks often of the arrogance of lesser shamans who claim absolute mastery over the mystical forces, and he encourages those who seek his counsel to trust their own instincts above his divinations.
 
 ### Motivation
 
-Firâvâd yearns to ensure a smooth succession of power to the next generation of shamans before death claims him. He fears that his knowledge—accumulated through forty years of communion with spirits and study of ancient practices—will die with him if he cannot adequately prepare **Yuzhvâd** for the full scope of his role. Additionally, he senses a gathering darkness in the spirit realm, an ominous imbalance in the natural order that troubles his sleep. He drives himself to complete certain protective rituals and to guide the tribe toward greater spiritual awareness before an impending crisis manifests in the waking world.
+Firâvâd yearns to see a smooth succession of power to the next generation of shamans before death claims him. He fears that his knowledge—accumulated through forty years of communion with spirits and study of ancient practices—will die with him if he cannot adequately prepare **Yuzhvâd** for the full scope of his role. Additionally, he senses a gathering darkness in the spirit realm, an ominous imbalance in the natural order that troubles his sleep. He drives himself to complete certain protective rituals and to guide the tribe toward greater spiritual awareness before an impending crisis manifests in the waking world.
 
 ### Strengths
 
-- **Master of Ritual Arts**: Firâvâd's knowledge of binding spells, protective wards, and communion with spirits is unmatched within the tribe. His rituals have ended droughts, blessed weapons before battle, and guided souls safely to the afterlife.
+- **Master of Ritual Arts**: Firâvâd's knowledge of binding spells, protective wards, and communion with spirits has no equal within the tribe. His rituals have ended droughts, blessed weapons before battle, and guided souls safely to the afterlife.
 - **Herbal Physician**: He maintains an encyclopedic understanding of every plant, root, and fungus growing in Dunhara's territories. His healing potions cure ailments that baffle ordinary healers.
 - **Spiritual Authority**: His unquestioned status grants him influence over tribal policy and the respect of even the most headstrong warriors.
 - **Perception and Intuition**: His scores in perception reflect his heightened sensitivity to hidden truths—both in the natural world and in people's hearts. Few can lie effectively to Firâvâd.
@@ -484,7 +484,7 @@ The Silent Conspiracy
 ### Affiliations
 
 Tribal Spiritual Council
-: Firâvâd serves as High Shaman and holds a permanent seat on the Council of Elders.
+: Firâvâd is High Shaman and holds a permanent seat on the Council of Elders.
 
 The Order of Storm-Speakers
 : An ancient, informal order of shamans devoted to Báhrámiš, scattered across the northern lands. Firâvâd maintains correspondence with a handful of distant brothers and sisters through mystical communion.

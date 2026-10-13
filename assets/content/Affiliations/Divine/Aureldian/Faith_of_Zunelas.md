@@ -16,34 +16,34 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Somniatrix above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Nirvena above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
-        title: Noctaries
+        title: Dunir
         description: >-
           Acolytes and servants of the night, who keep the temples through the dark hours, tend the sacred lamps and prepare the sleeping chambers.
       - level: 3
-        title: Oraculi
+        title: Ozel
         description: >-
           Ordained dream-healers and interpreters of vision, trained for years in lucid dreaming and the reading of symbols.
       - level: 4
-        title: Somniatrix
+        title: Nirvena
         description: >-
           High Priestess or High Priest—the title is used regardless of gender—typically an elderly visionary whose dreams have guided kingdoms.
     offices:
-      Somniatrix: >-
+      Nirvena: >-
         High Priestess or High Priest—the title is used regardless of gender—typically an elderly visionary whose dreams have guided kingdoms.
-      Oraculi: >-
+      Ozel: >-
         Ordained dream-healers and interpreters of vision, trained for years in lucid dreaming and the reading of symbols.
-      Noctaries: >-
+      Dunir: >-
         Acolytes and servants of the night, who keep the temples through the dark hours, tend the sacred lamps and prepare the sleeping chambers.
       House of Sleep: >-
         The temple-house in which petitioners sleep to receive their dreams.
@@ -75,11 +75,11 @@ Offerings to Zûnêlâs are subtle and personal—a lock of hair bound with silv
 
 ## Organization
 
-The priesthood of Zûnêlâs is led by the **Somniatrix**, the High Priestess or High Priest—a title used regardless of gender. This figure is typically an elderly priestess of visionary power, someone whose dreams have guided kingdoms and whose wisdom is sought by monarchs and councils. The Somniatrix is the chief interpreter of the goddess's will and as a teacher and mentor to younger priests.
+The priesthood of Zûnêlâs is led by the **Nirvena**, the High Priestess or High Priest—a title used regardless of gender. This figure is typically an elderly priestess of visionary power, someone whose dreams have guided kingdoms and whose wisdom is sought by monarchs and councils. The Nirvena is the chief interpreter of the goddess's will and as a teacher and mentor to younger priests.
 
-Below the Somniatrix stand the **Oraculi**, ordained priestesses (and occasionally priests) who serve as dream-healers and interpreters of divine vision. The Oraculi are trained for years in the techniques of lucid dreaming, in the interpretation of symbols and omens, and in the pastoral care of those seeking Zûnêlâs's guidance. They maintain the temple sanctuaries, oversee ritual purifications, and guide supplicants through the process of seeking divine dreams.
+Below the Nirvena stand the **Ozeli**, ordained priestesses (and occasionally priests) who serve as dream-healers and interpreters of divine vision. The Ozeli are trained for years in the techniques of lucid dreaming, in the interpretation of symbols and omens, and in the pastoral care of those seeking Zûnêlâs's guidance. They maintain the temple sanctuaries, oversee ritual purifications, and guide supplicants through the process of seeking divine dreams.
 
-The third rank consists of **Noctaries**, acolytes and servants of the night, young initiates who maintain the temples through the hours of darkness, tend the sacred lamps, prepare the sleeping chambers, and assist the Oraculi in their ministry. Training as a Noctary typically involves a long apprenticeship—often five to seven years—during which the initiate learns to enter and maintain deep meditation, to recognize and record their own dreams, and to understand the symbolic language through which the goddess speaks.
+The third rank consists of **Dunari**, acolytes and servants of the night, young initiates who maintain the temples through the hours of darkness, tend the sacred lamps, prepare the sleeping chambers, and assist the Ozeli in their ministry. Training as a Dunir typically involves a long apprenticeship—often five to seven years—during which the initiate learns to enter and maintain deep meditation, to recognize and record their own dreams, and to understand the symbolic language through which the goddess speaks.
 
 The priesthood maintains a significant body of written knowledge: dream journals maintained by priests across centuries, interpretive texts explaining the meaning of common symbols and visions, and ritual manuals for inducing states of lucid dreaming. These texts are kept in temple libraries, and scholars sometimes spend months in residence at major temples, studying the extensive archives of recorded dreams and their interpretations.
 

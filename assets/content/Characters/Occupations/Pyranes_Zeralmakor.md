@@ -425,7 +425,7 @@ As a Vylarian cartographer/artist, Pyrânês occupies a recognized social niche 
 
 ### Patrons
 
-Pyrânês's primary patron is Wealthy collectors and explorers.. This relationship provides both opportunity and obligation.
+Pyrânês's primary patron is Wealthy collectors and explorers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ None, though some find his methods reckless.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma**—Pyrânês faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Cartographer/Artist's Dilemma**—Pyrânês faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—None, though some find his methods reckless. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -464,9 +464,9 @@ Rethutê is motivated by her vision of her inn as a sanctuary—a place where pe
 ### Strengths
 
 - **Culinary Mastery:** Rethutê is an artist with food and drink; her creations are among the finest in the empire, and her knowledge of cuisines, ingredients, and flavor combinations is extensive and refined. She has trained numerous cooks who now run their own establishments.
-- **Exceptional Memory for People:** She remembers the names, histories, families, and preferences of hundreds of patrons; this gift makes guests feel valued and gives her a rare ability to bring people together.
+- **Memory for People:** She remembers the names, histories, families, and preferences of hundreds of patrons; this gift makes guests feel valued and gives her a rare ability to bring people together.
 - **Management of Complex Operations:** Despite her reputation for being less detail-oriented, she runs her inn well; she understands stores, staffing, accounts, and standards well enough to maintain a thriving business across decades.
-- **Genuine Warmth and Charisma:** Her capacity to make people feel welcome and valued is authentic rather than performed; she has a gift for creating atmosphere and comfort that goes beyond mere hospitality.
+- **Warmth and Charisma:** Her capacity to make people feel welcome and valued is authentic rather than performed; she has a gift for creating atmosphere and comfort that goes beyond mere hospitality.
 - **Sound Judgment of Character:** She can assess a person's integrity and trustworthiness quickly; her instincts about people have proven reliable across decades, making her a good source of judgment about someone's reliability or danger.
 - **Substantial Physical Strength:** She is stronger than most people would assume from looking at her; she can handle herself in physical confrontation if necessary, though she prefers to avoid it.
 - **Political Savvy:** She handles guild politics and city governance with considerable skill, using her position on the Innkeepers' Association to advocate effectively for her interests and values.

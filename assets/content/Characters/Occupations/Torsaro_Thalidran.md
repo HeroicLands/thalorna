@@ -11,7 +11,7 @@ data:
   occupation: Yeoman Infantry
   lore: []
   culture: tarvenanclt
-  homes: [castamere]
+  homes: [durgalis]
   affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
@@ -422,7 +422,7 @@ As a Tarvénan yeoman infantry, Tórsaro occupies a recognized social niche with
 
 ### Patrons
 
-Tórsaro's primary patron is Local militia leader who saw potential in him.. This relationship provides both opportunity and obligation.
+Tórsaro's primary patron is Local militia leader who saw potential in him. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -430,7 +430,7 @@ Bandits who often raid the countryside.
 
 ## Plot Hooks
 
-1. **The Yeoman Infantry's Dilemma**—Tórsaro faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Yeoman Infantry's Dilemma**—Tórsaro faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Bandits who often raid the countryside. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -22,7 +22,7 @@ The [[affiliation-kngdmlvndr|Kingdom of Élavendre]] is a monarchy of old noble 
 
 Expect courtesy, allusion and a great deal of patience. People leave arrangements open, decline to name a date, and choose words that read two ways, because prophecy is a living institution here and a decision may wait on a half-remembered line. Power casually shown is vulgar; power precisely applied is admired.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] holds the **University of Béravel**, the largest [[affiliation-panepistmm|Panepistemium]] campus outside the [[affiliation-vylarinmpr|Vylarian Empire]], and the crown welcomes it warmly inside the walls. An Ordo party that asks to go inward is given excellent guides, who show it real country and nothing of consequence. You pay in [[lore-vylrncrncy|Vylarian coin]]: the Aurion, the Argo and the Bit.
+The [[affiliation-ordoarcanis|Ordo Arcanis]] holds the **University of Béravel**, the largest [[affiliation-panepistmm|Panepistemium]] campus outside the [[affiliation-vylarinmpr|Vylarian Empire]], and the crown welcomes it warmly inside the walls. An Ordo party that asks to go inward is given excellent guides, who show it real country and nothing of consequence. You pay in [[lore-vylrncrncy|Vylarian coin]]: the Solden, the Ard and the Bit.
 
 ## Where to Go
 
@@ -53,6 +53,6 @@ A noble house hires you to escort its bard to the Elanmere fair, where its claim
 | sun name         | The name used in formal and public life                                                 |
 | Tradition Keeper | An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies  |
 
-Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-elavendriclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

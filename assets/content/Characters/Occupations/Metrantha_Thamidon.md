@@ -426,7 +426,7 @@ As a Helionite miner, Métrantha occupies a recognized social niche within Heli�
 
 ### Patrons
 
-Métrantha's primary patron is Local mining companies and jewelers seeking quality stones.. This relationship provides both opportunity and obligation.
+Métrantha's primary patron is Local mining companies and jewelers seeking quality stones. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Few; respected but occasionally faces skepticism from traditionalists.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Métrantha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Miner's Dilemma**—Métrantha faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 
 2. **Old Grudges**—Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

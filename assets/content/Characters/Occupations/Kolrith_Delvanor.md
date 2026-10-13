@@ -427,7 +427,7 @@ As a Tarvénan pilot, Kólrith occupies a recognized social niche within Tarvén
 
 ### Patrons
 
-Kólrith's primary patron is Adventurers and thrill-seekers looking for exciting flights.. This relationship provides both opportunity and obligation.
+Kólrith's primary patron is Adventurers and thrill-seekers looking for exciting flights. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ Few; generally well-liked, but some competitors may resent his success.
 
 ## Plot Hooks
 
-1. **The Pilot's Dilemma**—Kólrith faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Pilot's Dilemma**—Kólrith faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Few; generally well-liked, but some competitors may resent his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

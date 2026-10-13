@@ -14,7 +14,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Pidgin/Creole (contact language)}}
+  flags: {"thalorna": {lang_family: Pidgin (contact language)}}
 ---
 
 Valtári is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtári, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -26,6 +26,8 @@ Valtári—also called **Váltongue** or simply "trade-talk"—is not a true nat
 Valtári is the lingua franca of maritime merchants, dock laborers, ship captains, chandlers, harbor masters, fishmongers, and anyone whose livelihood depends on cross-cultural commerce. It is **never** a first language—no child grows up speaking Valtári as their mother tongue. Instead, it is picked up on the docks through constant repetition, error correction, and pragmatic negotiation. A Valtári speaker is identifiable not by mastery of the language but by their ability to make themselves understood despite imperfect knowledge.
 
 The language is characterized by **heavy Tarûzeli and Helonic substrate** (the two dominant maritime cultures), simplified grammar, extensive borrowing, and a vocabulary ruthlessly pruned to the essentials of commerce and daily port life. It is rarely written; when it is, speakers borrow whatever script they know—Tarûzeli script, Helonic letters, or hastily invented symbols.
+
+Valtári takes its name from the port of [[place-valthari|Valthári]], the free city whose quays gave the pidgin its first fixed form.
 
 ## Phonology
 
@@ -75,9 +77,9 @@ The dominant word order is **Subject-Verb-Object (SVO)**, inherited from Tarûze
 
 Valtári has no tense system. **Temporal and aspectual meaning is supplied by context or optional adverbs:**
 
-- _Kiromu yubo_—"The captain is here" / "The captain was here" (context determines meaning)
-- _Kiromu valen nuzo_—"The captain is coming" (adverb _nuzo_ "now" clarifies immediacy)
-- _Tanuro kiromu belgi_—"The captain has already left" (adverb _tanuro_ "already" indicates completion)
+- _Kiromu denu_—"The captain is here" / "The captain was here" (context determines meaning)
+- _Kiromu lokatu tapelu_—"The captain is coming" (adverb _tapelu_ "now" clarifies immediacy)
+- _Olimu kiromu belgi_—"The captain has already left" (adverb _olimu_ "already" indicates completion)
 
 This is one of the most striking features of the language: speakers must learn to infer time from context, much as they do in a standard trade negotiation.
 
@@ -85,9 +87,9 @@ This is one of the most striking features of the language: speakers must learn t
 
 Plurality is **optional and often unmarked**:
 
-- _Yezu yakodu valen_—"One boat comes"
-- _Pulumu yakodu valen_—"Many boats come" (or _yakodu-yakodu_, depending on speaker)
-- _Yakodu-yakodu valen_—emphatic plural (reduplication)
+- _Yezu yakodu lokatu_—"One boat comes"
+- _Pulumu yakodu lokatu_—"Many boats come" (or _yakodu-yakodu_, depending on speaker)
+- _Yakodu-yakodu lokatu_—emphatic plural (reduplication)
 
 Number is usually clear from context or explicit quantity markers (_fomul yakodu_ "five boats", _pulumu pelaro_ "many sailors").
 
@@ -96,16 +98,16 @@ Number is usually clear from context or explicit quantity markers (_fomul yakodu
 Negation is expressed through the **particle _zu_, placed before the verb or predicate**; speakers of Helonic say _ufi_ in the same place:
 
 - _Zu kusadu_—"Do not bring" / "He does not bring" (context clarifies)
-- _Kiromu zu yubo_—"The captain is not here"
+- _Kiromu zu denu_—"The captain is not here"
 - _Zu latara_—"That is not good" / "Not good" (standalone; _latara_ from Tarûzeli _latâran_ "fair")
 
 ### Questions
 
-Questions are formed through **rising intonation and optional question words** (_sezo_ "what", _sezobe_ "where", _yeba_ "who", _kazebe_ "when"):
+Questions are formed through **rising intonation and optional question words** (_mavu_ "what", _maviu_ "where", _kedi_ "who", _gulodu_ "when"):
 
-- _Sezobe kiromu?_—"Where is the captain?"
-- _Sezo kusadu?_—"What are you bringing?"
-- _Kiromu yubo?_—"Is the captain here?" (intonation conveys question)
+- _Maviu kiromu?_—"Where is the captain?"
+- _Mavu kusadu?_—"What are you bringing?"
+- _Kiromu denu?_—"Is the captain here?" (intonation conveys question)
 
 ## Script and Literacy
 
@@ -124,7 +126,7 @@ Literacy in Valtári is minimal. Most dock workers cannot read or write the lang
 
 Valtári crystallized over centuries of maritime trade, reaching its modern form roughly 300 years ago as trade intensified. The language did not _replace_ native languages but rather _supplemented_ them—a lingua franca for the docks, not a language of home, family, or identity.
 
-The vocabulary core is **roughly 60% Tarûzeli, 25% Helonic, and 15% other sources** (Vylari, Nordmal, even scattered Ki'ichek terms for exotic goods). This breakdown varies regionally: southern ports lean more Tarûzeli; northern ports, more Helonic.
+The vocabulary is **45% Tarûzeli, 25% Helonic, 20% from the Vylari family, 7% Nordmal and 3% from other tongues of the setting**, every word drawn from the setting's own tongues. This breakdown varies regionally: southern ports lean more Tarûzeli; northern ports, more Helonic.
 
 Historical layers are detectable in the vocabulary:
 
@@ -148,28 +150,28 @@ A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery 
 ## Sample Phrases
 
 - _Kiromu kusadu latara pashin_—"The captain offers a fair price" (Helonic _kiromu_ "master"; Tarûzeli _kusadu_ "carry", _latara_ "fair" and _pashin_ from _pashînû_ "fair price")
-- _Zu funatu, nurafo, sezobe yakodu?_—"No trouble, friend—where is the ship?" (casual, reassuring)
-- _Idiro, bunelo, durasu—narefu nuzo_—"We need water, bread, and salt immediately" (urgent trade request)
-- _Ilabe anevo valen, yakodu zu sotaru_—"Tomorrow a storm comes; the boat won't be safe"
-- _Ozi latara pelaro, temadu kerisu, geniru yu rusaku?_—"You're a good sailor with a strong hand—will you take this work?" (recruitment)
+- _Zu funatu, ansevu, maviu yakodu?_—"No trouble, friend—where is the ship?" (casual, reassuring)
+- _Idiro, vildu, durasu—yerpalu tapelu_—"We need water, bread, and salt immediately" (urgent trade request)
+- _Paramisu anevo lokatu, yakodu zu sotaru_—"Tomorrow a storm comes; the boat won't be safe"
+- _Koru latara pelaro, temadu kerisu, geniru yu rusaku?_—"You're a good sailor with a strong hand—will you take this work?" (recruitment)
 
 ## Core Vocabulary
 
-The following represents the stable core of Valtári—words understood in virtually every port. Since Valtári is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Tarûzeli (**H**, with the Tarûzeli source form), a smaller set from Helonic (**He**), and a few are of no known source (**O**). The [[doc-valtarilexcn|Valtári Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
+The following represents the stable core of Valtári—words understood in virtually every port. Since Valtári is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Tarûzeli (**H**, with the Tarûzeli source form), a quarter from Helonic (**He**), a fifth from the Vylari family (**V**), a few from Nordmal and its kin (**N**), and a few from other tongues of the setting (**O**). The [[doc-valtarilexcn|Valtári Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
 
-**People & Trade:** kiromu (He, from _kýros_) "captain, master" · bashimu (H, from _bashîmum_) "merchant" · emparo (He, from _émpharin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · nurafo (O) "friend, companion" · ozi (O) "you"
+**People & Trade:** kiromu (He, from _kýros_) "captain, master" · bashimu (H, from _bashîmum_) "merchant" · emparo (He, from _émpharin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · ansevu (V, from Provenzal _ansève_) "friend, companion" · koru (V, from _khôroi_) "you"
 
 **Goods & Money:** zazuru (H, from _zazûrûsh_) "goods, wares, cargo" · ushadu (H, from _hushâdû_) "gold, coin, money" · pashin (H, from _pashînû_) "price, value, worth" · eutalu (He, from _euthálir_) "profit, gain" · telmusu (H, from _telmûsh_) "deal, contract, bond"
 
-**Objects:** yakodu (H, from _jakûdû_) "boat, ship" · idiro (He, from _hýdhir_) "water" · bunelo (O) "bread" · durasu (He, from _durâs_) "salt" · bazunu (H, from _bazûnû_) "sail, canvas" · tazome (O) "fish"
+**Objects:** yakodu (H, from _jakûdû_) "boat, ship" · idiro (He, from _hýdhir_) "water" · vildu (N, from _vyld_ "grain") "bread" · durasu (He, from _durâs_) "salt" · bazunu (H, from _bazûnû_) "sail, canvas" · ulma (O, from Sinale _hulma_) "fish"
 
-**Actions:** valen (O) "come, go, arrive" · kusadu (H, from _qusâd-_) "bring, carry" · belgi (H, from _belgin-_) "leave, depart" · dorasu (He, from _dôrash-_) "give, trade" · geniru (H, from _genîr-_) "take, accept" · narefu (O) "need, must" · kubasu (H, from _qubâs-_) "count, measure, reckon" · katusu (H, from _qatûsh_) "hold, keep, grip"
+**Actions:** lokatu (V, from _lôkhâthen_) "come, go, arrive" · kusadu (H, from _qusâd-_) "bring, carry" · belgi (H, from _belgin-_) "leave, depart" · dorasu (He, from _dôrash-_) "give, trade" · geniru (H, from _genîr-_) "take, accept" · yerpalu (V, from _yêrpâlon_ "duty") "need, must" · kubasu (H, from _qubâs-_) "count, measure, reckon" · katusu (H, from _qatûsh_) "hold, keep, grip"
 
 **Descriptions:** latara (H, from _latâran_) "good, fair, worthy" · bibuda (H, from _bibûdan_) "big, great" · temadu (H, from _temâdan_) "strong, sound" · sotaru (He, from _sôtharin_ "to save") "safe, secure" · pulumu (He, from _plûm_ "all") "many, much"
 
-**Place & Time:** besiku (H, from _besîkû_) "port, harbor, port town" · yu (H, from _jû_) "this" · yubo (O) "here" · sezobe (O) "where" · sezo (O) "what" · yeba (O) "who" · kazebe (O) "when" · nuzo (O) "now" · ilabe (O) "tomorrow" · tanuro (O) "already"
+**Place & Time:** besiku (H, from _besîkû_) "port, harbor, port town" · yu (H, from _jû_) "this" · denu (V, from _dênôs_) "here" · maviu (O, from Sinale _maviho_) "where" · mavu (O, from Sinale _mavi_) "what" · kedi (V, from _kêdis_) "who" · gulodu (N, from _glúd_ "day") "when" · tapelu (V, from _thâpêlon_ "hour") "now" · paramisu (V, from _prâmizâ_ "morning") "tomorrow" · olimu (V, from _hôlimôs_ "first") "already"
 
-**Other:** zu (H, from _zû_) / ufi (He, from _ûph_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funâtûsh_ "loss") "trouble, problem" · rusaku (H, from _rusâk-_ "to rig") "work, labor" · kerisu (He, from _khéiris_) "hand, skill" · odisu (He, from _hodîs_) "road, route" · toburo (O) "north"
+**Other:** zu (H, from _zû_) / ufi (He, from _ûph_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funâtûsh_ "loss") "trouble, problem" · rusaku (H, from _rusâk-_ "to rig") "work, labor" · kerisu (He, from _khéiris_) "hand, skill" · odisu (He, from _hodîs_) "road, route" · norodu (N, from Aelwythi _nord_) "north"
 
 **Numerals (Tarûzeli-derived):** yezu "one" · lelor "two" · zemu "three" · vubu "four" · fomul "five" · zekoru "ten" (from Helonic _zékhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul vubu_ "nine".
 
@@ -177,9 +179,11 @@ The following represents the stable core of Valtári—words understood in virtu
 
 Valtári is **fundamentally a mixed language**, not genealogically related to any single parent. It borrows extensively from:
 
-- **Tarûzeli**: Grammar skeleton, 60% of vocabulary
+- **Tarûzeli**: Grammar skeleton, 45% of vocabulary
 - **Helonic**: Phonological innovations, 25% of vocabulary, some syntactic patterns
-- **Vylari, Nordmal, others**: Scattered lexical items, especially nautical or commodity-specific terms
+- **The Vylari family**: 20% of vocabulary, above all the pronouns, the questions and the words of time
+- **Nordmal and its kin**: 7% of vocabulary, grain, the north and the day
+- **Other tongues of the setting**: 3%, Sinale words for fish and for the questions
 
 Valtári has **no descendants**—it does not natively reproduce itself. Children of two Valtári speakers revert to their parents' native languages or, in mixed families, learn whatever language the dominant parent or community uses. Valtári is a language of **individual transaction**, not of community continuity.
 
@@ -217,8 +221,8 @@ A house, a crew or a trading firm takes the ending _-ari_:
 Many traders eschew clan names entirely in Valtári, instead adopting **occupational epithets**:
 
 - _Ushador bazunu-kerisu_—"Ushador the sail-hand" (a sailmaker)
-- _Odisor toburo-odisu_—"Odisor of the north road" (a caravan master)
-- _Kusadela tazome-dorasu_—"Kusadela the fish-dealer" (a fishmonger)
+- _Odisor norodu-odisu_—"Odisor of the north road" (a caravan master)
+- _Kusadela ulma-dorasu_—"Kusadela the fish-dealer" (a fishmonger)
 
 Names are **fluid**. A trader who makes a fortune might take a new name. A person who changes trades or relocates might adopt a new Valtári name reflecting their new role. Unlike birth names in native cultures, Valtári trade names are **practical identities**, not sacred or ancestral.
 
@@ -230,15 +234,15 @@ Valtári names show **weak gender marking**. Many names are used by either gende
 
 ### Male Given Names
 
-Kiromu Bashimor Ushador Telmusor Kubasor Yakodor Bazunor Durasor Anevor Odisor Toburor Kusador Dorasor Katusor Kerisor Temador Sotaror Funator Geniror Lataror Bibudor Narefor Idiror Eutalor Pulumor Zazuror Nurafor Tazomor Bunelor Bashiman Emparan Nurafan Telmusan Yakodan Bazunan Durasan Bunelan Anevan Odisan Toburan Dorasan Narefan Sotaran Puluman Funatan Ilaban Zekoran
+Kiromu Bashimor Ushador Telmusor Kubasor Yakodor Bazunor Durasor Anevor Odisor Norodor Kusador Dorasor Katusor Kerisor Temador Sotaror Funator Geniror Lataror Bibudor Yerpalor Idiror Eutalor Pulumor Zazuror Ansevor Ulmor Vildor Bashiman Emparan Ansevan Telmusan Yakodan Bazunan Durasan Vildan Anevan Odisan Norodan Dorasan Yerpalan Sotaran Puluman Funatan Paramisun Zekoran
 
 ### Female Given Names
 
-Kiromela Bashimela Emparela Nurafela Zazurela Ushadela Pashinela Eutalela Telmusela Kubasela Yakodela Idirela Durasela Tazomela Anevela Besikela Odisela Toburela Kusadela Dorasela Genirela Narefela Rusakela Kerisela Bibudela Temadela Sotarela Pulumela Funatela Zekorela Bashimeni Empareni Pelareni Zazureni Ushadeni Pashineni Telmuseni Kubaseni Yakodeni Idireni Duraseni Tazomeni Aneveni Besikeni Odiseni Kusadeni Doraseni Genireni Narefeni
+Kiromela Bashimela Emparela Ansevela Zazurela Ushadela Pashinela Eutalela Telmusela Kubasela Yakodela Idirela Durasela Ulmela Anevela Besikela Odisela Norodela Kusadela Dorasela Genirela Yerpalela Rusakela Kerisela Bibudela Temadela Sotarela Pulumela Funatela Zekorela Bashimeni Empareni Pelareni Zazureni Ushadeni Pashineni Telmuseni Kubaseni Yakodeni Idireni Duraseni Ulmeni Aneveni Besikeni Odiseni Kusadeni Doraseni Genireni Yerpaleni
 
 ### Occupational and Clan Names
 
-Bashimari Emparari Pelarari Nurafari Zazurari Ushadari Eutalari Telmusari Kubasari Yakodari Bazunari Idirari Durasari Bunelari Odisari Toburari Valenari Dorasari Genirari Katusari Rusakari Kerisari Latarari Bibudari Temadari Sotarari Funatari Ilabari Zekorari
+Bashimari Emparari Pelarari Ansevari Zazurari Ushadari Eutalari Telmusari Kubasari Yakodari Bazunari Idirari Durasari Vildari Odisari Norodari Lokatari Dorasari Genirari Katusari Rusakari Kerisari Latarari Bibudari Temadari Sotarari Funatari Paramisuri Zekorari
 
 ## External References
 

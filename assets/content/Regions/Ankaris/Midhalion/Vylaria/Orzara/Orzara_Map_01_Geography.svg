@@ -6,11 +6,11 @@
   <path d="M 200,160 C 240,110 360,98 470,112 C 600,92 740,100 845,150 C 905,182 902,280 876,372 C 902,470 856,560 766,600 C 650,648 470,652 366,624 C 250,640 168,560 168,452 C 150,352 168,232 200,160 Z"
         fill="#ece0c0" stroke="none"/>
 
-  <!-- The Clearance / pomerium (dashed bound, just outside built area) -->
+  <!-- The Clearance / thîrûthrimâ (dashed bound, just outside built area) -->
   <path d="M 192,150 C 234,96 360,84 472,98 C 606,76 748,86 856,138 C 922,172 918,280 892,374 C 920,478 870,576 776,618 C 652,668 466,672 360,642 C 236,660 150,576 150,452 C 130,348 152,222 192,150 Z"
         fill="none" stroke="#b0863f" stroke-width="2.5" stroke-dasharray="9 5"/>
   <text x="565" y="92" text-anchor="middle" font-size="12.5" font-style="italic" fill="#8a6a2f"
-        paint-order="stroke" stroke="#f5edd9" stroke-width="3">the Clearance — the pomerium (city bound, ~100 ft wide, kept empty)</text>
+        paint-order="stroke" stroke="#f5edd9" stroke-width="3">the Clearance — the thîrûthrimâ (city bound, ~100 ft wide, kept empty)</text>
 
   <!-- ===== RIVER VYLARIS (west flank) ===== -->
   <path d="M 18,0 C 70,130 8,255 58,375 C 100,495 26,615 58,760 L 138,760 C 104,615 170,495 128,375 C 90,255 152,130 112,0 Z"
@@ -18,7 +18,7 @@
   <text x="74" y="250" text-anchor="middle" font-size="15" font-style="italic" fill="#22536e"
         transform="rotate(-90 74 250)" paint-order="stroke" stroke="#86b4d2" stroke-width="3">River Vylaris</text>
 
-  <!-- Wharves (river bank below Mons Rípae) -->
+  <!-- Wharves (river bank below Nerval) -->
   <g stroke="#7a5a2c" stroke-width="2">
     <line x1="128" y1="450" x2="170" y2="452"/>
     <line x1="124" y1="478" x2="166" y2="480"/>
@@ -33,19 +33,19 @@
   <text x="455" y="243" text-anchor="middle" font-size="11.5" font-style="italic" fill="#6a5631"
         paint-order="stroke" stroke="#ece0c0" stroke-width="3">Grand Market (flats)</text>
 
-  <!-- Racecourse valley (between Vétus and Rípae) -->
+  <!-- Racecourse valley (between Antel and Nerval) -->
   <ellipse cx="320" cy="430" rx="86" ry="34" fill="#e3d3a6" opacity="0.65" transform="rotate(-34 320 430)"/>
   <text x="312" y="432" text-anchor="middle" font-size="11.5" font-style="italic" fill="#6a5631"
         transform="rotate(-34 312 432)" paint-order="stroke" stroke="#ece0c0" stroke-width="3">Racecourse (valley)</text>
 
-  <!-- Forum saddle (between Aquila and Corónus) -->
+  <!-- Platan saddle (between Arvel and Torvel) -->
   <text x="626" y="316" text-anchor="middle" font-size="10.5" font-style="italic" fill="#6a5631"
-        paint-order="stroke" stroke="#ece0c0" stroke-width="3">Forum (saddle)</text>
+        paint-order="stroke" stroke="#ece0c0" stroke-width="3">Platan (saddle)</text>
 
   <!-- ===== HILLS ===== -->
   <!-- helper styling: nested ellipses suggest elevation; halo'd labels -->
 
-  <!-- Mons Rípae -->
+  <!-- Nerval -->
   <g>
     <ellipse cx="255" cy="480" rx="72" ry="58" fill="#cdbd8c"/>
     <ellipse cx="255" cy="480" rx="47" ry="38" fill="#bda86a"/>
@@ -53,12 +53,12 @@
     <circle cx="255" cy="470" r="3" fill="#6e5f33"/>
     <ellipse cx="255" cy="480" rx="72" ry="58" fill="none" stroke="#8c7d4d" stroke-width="0.8" opacity="0.45"/>
     <text x="255" y="500" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#3a3322"
-          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Mons Rípae</text>
+          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Nerval</text>
     <text x="255" y="515" text-anchor="middle" font-size="10.5" font-style="italic" fill="#4a3f29"
           paint-order="stroke" stroke="#cdbd8c" stroke-width="3">~50 m · the River Hill (Warrens)</text>
   </g>
 
-  <!-- Mons Vétus -->
+  <!-- Antel -->
   <g>
     <ellipse cx="380" cy="365" rx="78" ry="62" fill="#cdbd8c"/>
     <ellipse cx="380" cy="365" rx="51" ry="41" fill="#bda86a"/>
@@ -66,12 +66,12 @@
     <circle cx="380" cy="355" r="3" fill="#6e5f33"/>
     <ellipse cx="380" cy="365" rx="78" ry="62" fill="none" stroke="#8c7d4d" stroke-width="0.8" opacity="0.45"/>
     <text x="380" y="386" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#3a3322"
-          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Mons Vétus</text>
+          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Antel</text>
     <text x="380" y="401" text-anchor="middle" font-size="10.5" font-style="italic" fill="#4a3f29"
           paint-order="stroke" stroke="#cdbd8c" stroke-width="3">~65 m · the Old Hill (faded)</text>
   </g>
 
-  <!-- Mons Sápiens -->
+  <!-- Mernel -->
   <g>
     <ellipse cx="660" cy="178" rx="66" ry="54" fill="#cdbd8c"/>
     <ellipse cx="660" cy="178" rx="44" ry="36" fill="#bda86a"/>
@@ -79,12 +79,12 @@
     <circle cx="660" cy="168" r="3" fill="#6e5f33"/>
     <ellipse cx="660" cy="178" rx="66" ry="54" fill="none" stroke="#8c7d4d" stroke-width="0.8" opacity="0.45"/>
     <text x="660" y="178" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a3322"
-          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Mons Sápiens</text>
+          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Mernel</text>
     <text x="660" y="193" text-anchor="middle" font-size="10.5" font-style="italic" fill="#4a3f29"
           paint-order="stroke" stroke="#cdbd8c" stroke-width="3">~55 m · Scholars' Hill</text>
   </g>
 
-  <!-- Mons Corónus -->
+  <!-- Torvel -->
   <g>
     <ellipse cx="700" cy="305" rx="72" ry="60" fill="#cdbd8c"/>
     <ellipse cx="700" cy="305" rx="48" ry="40" fill="#bda86a"/>
@@ -92,12 +92,12 @@
     <circle cx="700" cy="295" r="3" fill="#6e5f33"/>
     <ellipse cx="700" cy="305" rx="72" ry="60" fill="none" stroke="#8c7d4d" stroke-width="0.8" opacity="0.45"/>
     <text x="700" y="305" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a3322"
-          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Mons Corónus</text>
+          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Torvel</text>
     <text x="700" y="320" text-anchor="middle" font-size="10.5" font-style="italic" fill="#4a3f29"
           paint-order="stroke" stroke="#cdbd8c" stroke-width="3">~70 m · the Heights (old)</text>
   </g>
 
-  <!-- Mons Lauríne -->
+  <!-- Selvin -->
   <g>
     <ellipse cx="797" cy="432" rx="70" ry="58" fill="#cdbd8c"/>
     <ellipse cx="797" cy="432" rx="46" ry="38" fill="#bda86a"/>
@@ -105,12 +105,12 @@
     <circle cx="797" cy="422" r="3" fill="#6e5f33"/>
     <ellipse cx="797" cy="432" rx="70" ry="58" fill="none" stroke="#8c7d4d" stroke-width="0.8" opacity="0.45"/>
     <text x="797" y="432" text-anchor="middle" font-size="14" font-weight="bold" fill="#3a3322"
-          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Mons Lauríne</text>
+          paint-order="stroke" stroke="#cdbd8c" stroke-width="3">Selvin</text>
     <text x="797" y="447" text-anchor="middle" font-size="10.5" font-style="italic" fill="#4a3f29"
           paint-order="stroke" stroke="#cdbd8c" stroke-width="3">~60 m · Heights / Gilded Qtr</text>
   </g>
 
-  <!-- Mons Aquila (highest, the citadel hill) -->
+  <!-- Arvel (highest, the citadel hill) -->
   <g>
     <ellipse cx="545" cy="332" rx="102" ry="86" fill="#cbb784"/>
     <ellipse cx="545" cy="332" rx="70" ry="59" fill="#b89a55"/>
@@ -119,11 +119,11 @@
     <circle cx="545" cy="312" r="3.5" fill="#5c4a1f"/>
     <ellipse cx="545" cy="332" rx="102" ry="86" fill="none" stroke="#8c7438" stroke-width="0.9" opacity="0.5"/>
     <text x="545" y="333" text-anchor="middle" font-size="16" font-weight="bold" fill="#2f2713"
-          paint-order="stroke" stroke="#cbb784" stroke-width="3.5">Mons Aquila</text>
+          paint-order="stroke" stroke="#cbb784" stroke-width="3.5">Arvel</text>
     <text x="545" y="349" text-anchor="middle" font-size="10.5" font-style="italic" fill="#3a2f15"
           paint-order="stroke" stroke="#cbb784" stroke-width="3">~95 m · highest · citadel hill</text>
     <text x="545" y="362" text-anchor="middle" font-size="10.5" font-style="italic" fill="#3a2f15"
-          paint-order="stroke" stroke="#cbb784" stroke-width="3">(Urbs Aquilion — Layer 2)</text>
+          paint-order="stroke" stroke="#cbb784" stroke-width="3">(Arvon — Layer 2)</text>
   </g>
 
   <!-- ===== BEYOND THE BOUNDS ===== -->
@@ -182,7 +182,7 @@
     <rect x="14" y="54" width="18" height="9" fill="#86b4d2"/>
     <text x="44" y="62" font-size="11" fill="#3a2f15">River Vylaris</text>
     <line x1="14" y1="80" x2="32" y2="80" stroke="#b0863f" stroke-width="2.5" stroke-dasharray="6 4"/>
-    <text x="44" y="84" font-size="11" fill="#3a2f15">the Clearance (pomerium)</text>
+    <text x="44" y="84" font-size="11" fill="#3a2f15">the Clearance (thîrûthrimâ)</text>
     <rect x="14" y="96" width="18" height="9" fill="#bcd49e"/>
     <text x="44" y="104" font-size="11" fill="#3a2f15">parkland / commons</text>
   </g>

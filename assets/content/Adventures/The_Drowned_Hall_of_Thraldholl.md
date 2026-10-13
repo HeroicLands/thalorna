@@ -105,7 +105,7 @@ All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a gr
 
 **Player choices.** Force: carry the chests out through the lamp-shaft. Stealth: take only the ledger and leave the goods. Guile: sell the goods back to the owners' families at a fair price. Parley: give the goods to the shield-maiden and let the Shield-Hall divide them among the bereaved.
 
-**Clues and rewards.** Amber, whale ivory, barrels of rendered oil, a chest of Vylarian Argenti from a southern factor's ship, and the arm-rings of three drowned captains. It is a modest hoard and an ill-gotten one. The ledger, if found, names a Vrathavn captain who has promised the Council a crew of his own.
+**Clues and rewards.** Amber, whale ivory, barrels of rendered oil, a chest of Vylarian Ardini from a southern factor's ship, and the arm-rings of three drowned captains. It is a modest hoard and an ill-gotten one. The ledger, if found, names a Vrathavn captain who has promised the Council a crew of his own.
 
 **Consequences.** The goods belong to the families of the drowned. A party that keeps them is a grave-robber twice over in the eyes of the coast.
 

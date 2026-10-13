@@ -14,7 +14,7 @@ A harbor pilot at **Calypsa** will tell you the rule of the place before you are
 
 ## The Harbor
 
-Nordmal is the working language of the docks and the old city, and Valtari, a trade creole with Helionite roots, is spoken in the markets. A traveler from [[place-provenzrgn|Provènzia]] or the [[affiliation-byzarianlg|Byzarian League]] is understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aurèldían hymns, and the kitchens combine northern smoked fish with southern spice and olive oil. The local wine is, by the admission of its drinkers, indifferent.
+Nordmal is the working language of the docks and the old city, and Valtari, a trade pidgin with Helionite roots, is spoken in the markets. A traveler from [[place-provenzrgn|Provènzia]] or the [[affiliation-byzarianlg|Byzarian League]] is understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aurèldían hymns, and the kitchens combine northern smoked fish with southern spice and olive oil. The local wine is, by the admission of its drinkers, indifferent.
 
 Three landmarks anchor the waterfront. The Old Mole is the original stone harbor mole, built, local tradition says, by refugees from a forgotten Helionite colony; several of its stones carry characters no living scholar can read. The Lantern of Calypsa is a seamark tower on the northern headland, whose olive-oil beacon is relit every night, and whose lantern-keeper holds a hereditary office of real civic prestige. The Sea-Law Hall is where the city's professional arbitrators hear commercial disputes under the Sea-Law, and captains honor its verdicts across half the northern shipping world because none can afford the cost of defying them.
 

@@ -68,7 +68,7 @@ WHERE type = 'affiliation'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The [[affiliation-vylarinmpr|Vylarian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Heliónis]]), and Heliónis still keeps its formal ties to the empire: the cities spend [[lore-vylrncrncy|Vylarian coin]], Helionite mints strike Argo and Bit under imperial standards, and the [[affiliation-curiafscls|Curia Fiscalis]] still claims their taxes on paper, which the cities do not pay. As the empire declines, the cities have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
+The [[affiliation-vylarinmpr|Vylarian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Heliónis]]), and Heliónis still keeps its formal ties to the empire: the cities spend [[lore-vylrncrncy|Vylarian coin]], Helionite mints strike Ard and Bit under imperial standards, and the [[affiliation-tolvan|Tolvan]] still claims their taxes on paper, which the cities do not pay. As the empire declines, the cities have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
 
 ## The Agora and the Dinner Table
 
@@ -96,7 +96,7 @@ Every city of note has its academies, gymnasia and theaters, and the great acade
 
 When the Republic conquered the cities, the Senate took that college out of the federation in 312 BF and, in 73 BF, chartered it as the Ordo Arcanis. The other colleges stayed, diminished but intact, and they are strongest here. Helionites regard the Ordo as their intellectual offspring: they are proud of the parentage and uneasy about the child.
 
-That unease has a working rule. Several city-states have arrangements that let a Helionite philosopher study arcane theory and debate magical philosophy without joining the Ordo, so long as he does not practice. "Read what you like and argue what you like," an Ordo clerk tells students. "Our interest begins the day you do it." The line between theory and practice is blurred, and both sides use the blur. Unlicensed practitioners are more common in Heliónis than the Ordo would like, and its inquisitors of the **Quaesitorium** tread more carefully here than anywhere else.
+That unease has a working rule. Several city-states have arrangements that let a Helionite philosopher study arcane theory and debate magical philosophy without joining the Ordo, so long as he does not practice. "Read what you like and argue what you like," an Ordo clerk tells students. "Our interest begins the day you do it." The line between theory and practice is blurred, and both sides use the blur. Unlicensed practitioners are more common in Heliónis than the Ordo would like, and its inquisitors of the **Sekran** tread more carefully here than anywhere else.
 
 :::secret
 **For the GM:** The College's account leaves out what Helionites are quieter about. In the war of 335–312 BF the cities' mages became mage-warlords their own cities could not control, and their sorceries poisoned the land and killed on a scale no army could match; Helionite mages made the Ordo necessary. The Republic broke them with the **Dragon Riders**, and how it secured the dragons is told in [[lore-dragondead|The Dragon Dead at Therádon]] and [[lore-thebargain|The Bargain]]. Old battlefields and the ruins of the mage-warlords' seats still lie in the hills.
@@ -169,6 +169,6 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 | mage-warlord | A Helionite mage of the conquest war who commanded forces his own city could not |
 | strategos    | Elected commander of a city's forces, re-electable without limit                 |
 
-Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-helioniteclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

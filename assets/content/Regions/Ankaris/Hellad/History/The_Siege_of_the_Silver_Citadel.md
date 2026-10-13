@@ -63,7 +63,7 @@ When the legions came over the pass the commander of the citadel, **Mathirkâr G
 
 ## The Terms
 
-The Citadel surrendered on terms. The city kept its walls and its own garrison, and the Empire placed over it an imperial prefect of the pass, who sat with the city council and spoke for the Augustar. The prefect's office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the League beside the merchant-princes.
+The Citadel surrendered on terms. The city kept its walls and its own garrison, and the Empire placed over it an imperial prefect of the pass, who sat with the city council and spoke for the Ôrzâs. The prefect's office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the League beside the merchant-princes.
 
 ## What the Siege Left
 

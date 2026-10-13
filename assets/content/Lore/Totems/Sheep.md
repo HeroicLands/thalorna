@@ -14,7 +14,7 @@ Docile and flock-minded, sheep are highly social animals that find safety in num
 
 ## Human Personality
 
-Mild-mannered and sociable, this person finds comfort in numbers and follows group dynamics. They are cooperative and thrive in community settings.
+Mild-mannered and sociable, the Sheep person finds comfort in numbers and follows the group. Cooperation comes easily, and community life suits such a person.
 
 - **Physical:** Soft appearance; docile body language.
 - **Behavioral:** Extremely social, follows group dynamics, generally docile.

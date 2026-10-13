@@ -11,7 +11,7 @@ data:
   occupation: Bosun
   lore: []
   culture: provenzianclt
-  homes: [chastelclr]
+  homes: [durvalis]
   affiliations: {kngdmprvnz: {rank: 2}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
@@ -396,9 +396,9 @@ Thâven Fárwèn is a 41-year-old man who stands 6'0" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Thâven Fárwèn is a ship's bosun of [[place-provenzrgn|Provènzia]], a Provenzian freeman born in the eastern march who went to sea from the coast at fifteen and keeps his household inside the walls of Chastèlclair.
+Thâven Fárwèn is a ship's bosun of [[place-provenzrgn|Provènzia]], a Provenzian freeman born in the eastern march who went to sea from the coast at fifteen and keeps his household inside the walls of Durvalìs.
 
-Thâven is a march boy who found he preferred the sea to the levy, and a bosun is what the sea made of him. He has a rule for everything the crew handles and keeps every rule, in fair weather when it seems needless and in foul when it is the reason the ship comes home. Captains hire him because a Fárwèn crew does what it is told at once and has never lost a man to a rotten line. When the ship lays up he goes home to Chastèlclair, where his wife keeps the house and his sons are growing up.
+Thâven is a march boy who found he preferred the sea to the levy, and a bosun is what the sea made of him. He has a rule for everything the crew handles and keeps every rule, in fair weather when it seems needless and in foul when it is the reason the ship comes home. Captains hire him because a Fárwèn crew does what it is told at once and has never lost a man to a rotten line. When the ship lays up he goes home to Durvalìs, where his wife keeps the house and his sons are growing up.
 
 ## Psyche
 
@@ -416,7 +416,7 @@ Strong leader, highly experienced, excellent at handling a crew.
 
 ## Social
 
-Thâven belongs to no guild and hires by the voyage, as bosuns do. In Chastèlclair he is a sailor among soldiers and carters.
+Thâven belongs to no guild and hires by the voyage, as bosuns do. In Durvalìs he is a sailor among soldiers and carters.
 
 ## Companions
 
@@ -434,6 +434,6 @@ Nobody lasting, but there is always a sailor on any ship who thinks a bosun's ru
 
 2. **The Crew Turns**—Half a crew of new men has decided that Thâven's rules are tyranny and has stopped short of mutiny only because nobody has led it yet. The one who could lead it is the best sailor aboard.
 
-3. **A Winter Ashore**—Laid up for the winter at Chastèlclair with the passes shut, Thâven has been asked by the Winter Assize to say what he saw on a voyage two years ago.
+3. **A Winter Ashore**—Laid up for the winter at Durvalìs with the passes shut, Thâven has been asked by the Winter Assize to say what he saw on a voyage two years ago.
 
 4. **A Green Crew**—A captain has hired Thâven to make a crew out of thirty march boys who have never seen the sea, on a ship that sails in a month.

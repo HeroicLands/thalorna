@@ -17,7 +17,7 @@ Every spring a rider leaves the fort for the coast with a sealed report addresse
 
 ## The Commission
 
-The fort was built to hold a pass that the Empire's engineers judged worth a stone wall and a standing garrison, in the years when a legion garrisoned the Hellád and the road between the two halves of the province ran through it. Its commander held an imperial commission, signed by the Augustar's chancery and paid from the Aerarium.
+The fort was built to hold a pass that the Empire's engineers judged worth a stone wall and a standing garrison, in the years when a legion garrisoned the Hellád and the road between the two halves of the province ran through it. Its commander held an imperial commission, signed by the Ôrzâs's chancery and paid from the Tarmex.
 
 The pay stopped about 619, when [[lore-crownssettle|the Settlement of the Crowns]] set down what the Empire still was and left the far forts' commissions unpaid. The commander's commission was never revoked. The chancery stopped pressing claims it could not enforce, and the fort stopped being a claim.
 

@@ -398,7 +398,7 @@ Ràkhîmêa Khalîthôn is a 25-year-old woman who stands 6'1" tall and is of mo
 
 Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ràkhîmêa Khalîthôn came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Ràkhîmêa has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Lômâris, Ràkhîmêa aims to show that women can be just as formidable as men on the battlefield. Her confidence and determination inspire those around her.
+Ràkhîmêa has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Lômâris, Ràkhîmêa aims to show that women can be just as strong as men on the battlefield. Her confidence and determination inspire those around her.
 
 ## Psyche
 
@@ -424,7 +424,7 @@ As a Helionite huscarl, Ràkhîmêa occupies a recognized social niche within He
 
 ### Patrons
 
-Ràkhîmêa's primary patron is Lady Lômâris and her household.. This relationship provides both opportunity and obligation.
+Ràkhîmêa's primary patron is Lady Lômâris and her household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Few; while respected, some traditionalists doubt her abilities.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Ràkhîmêa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Huscarl's Dilemma**—Ràkhîmêa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 
 2. **Old Grudges**—Few; while respected, some traditionalists doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

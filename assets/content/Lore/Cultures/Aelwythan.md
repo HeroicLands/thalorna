@@ -116,4 +116,4 @@ Every term of art these notes use. Aelwythans speak [[skill-aelwthlng|Aelwythi]]
 | thrall         | A person owned outright, who works the land and holds nothing                         |
 | trackstone     | A standing marker of the old trackways in the Peshtar country, older than the Peshtar |
 
-Argentus (Argo), Aurion, Octus (Bit) and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl and bóndi are loanwords from [[lore-nordheimnclt#glossary|the Nordlands]].
+Ardin (Ard), Solden, Ogdel (Bit) and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl and bóndi are loanwords from [[lore-nordheimnclt#glossary|the Nordlands]].

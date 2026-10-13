@@ -9,7 +9,7 @@ tags: []
 # terran_analog: "The Roman empire (Italy, Croatia, Bosnia, Serbia, Hungary and Austria): a Senate, senatorial and equestrian orders, citizens, slaves, patron and client, codified appealable law, aqueducts and forums. Carries over: precedence-worked manners, patronage, legal remedy as the civilized reflex. Departs: the Ordo Arcanis operates as a licensed arm of the administration, the Aurèldían pantheon is the imperial cult, and Vylarian Steel is a guild-guarded alloy."
 ---
 
-A Vylarian lives inside a memory. The [[affiliation-vylarinmpr|empire]] still spans half of Ankaris on the maps, the [[affiliation-curiavylar|Senate]] still debates, the aqueducts still run in the older quarters—and every educated Vylarian knows, without ever putting it plainly, that the best of it is behind him. The result is a people who are sophisticated, proud, formidable, and difficult to sit with for long. A Vylarian does not boast about the empire; he assumes it, which is worse.
+A Vylarian lives inside a memory. The [[affiliation-vylarinmpr|empire]] still spans half of Ankaris on the maps, the [[affiliation-seldan|Senate]] still debates, the aqueducts still run in the older quarters—and every educated Vylarian knows, without ever putting it plainly, that the best of it is behind him. The result is a people who are sophisticated, proud, formidable, and difficult to sit with for long. A Vylarian does not boast about the empire; he assumes it, which is worse.
 
 ## The Old Forms
 
@@ -21,11 +21,11 @@ What a foreigner should understand is that the forms are the machine by which a 
 
 ## The Order of What Is Owed
 
-The language has one word for duty, _yêrpâlon_, and it is a list: the gods, the ancestors, the house, the patron, the city, the empire, in that order and no other. **Good is giving each its due in its place; evil is setting a lower claim above a higher one, or striking at the record that keeps the list.** The offenses the culture finds hardest to forgive are the ones that falsify the record: a forged seal, a counterfeit edict, an oath broken after it was sworn before the gods. An oath (_zaron_) sworn before the _hôlzathôs_, the officer who administers the Imperial Cult for the Augustar, binds in the courts as well as before heaven, and a document sealed in the absence of the keeper of seals is a forgery. The Scribal Guild treats a forged edict acted on as a crisis of trust the whole apparatus might not survive.
+The language has one word for duty, _yêrpâlon_, and it is a list: the gods, the ancestors, the house, the patron, the city, the empire, in that order and no other. **Good is giving each its due in its place; evil is setting a lower claim above a higher one, or striking at the record that keeps the list.** The offenses the culture finds hardest to forgive are the ones that falsify the record: a forged seal, a counterfeit edict, an oath broken after it was sworn before the gods. An oath (_zaron_) sworn before the _hôlzathôs_, the officer who administers the Imperial Cult for the Ôrzâs, binds in the courts as well as before heaven, and a document sealed in the absence of the keeper of seals is a forgery. The Scribal Guild treats a forged edict acted on as a crisis of trust the whole apparatus might not survive.
 
 Success is _vêldâ_, honor, which the language defines as a public thing made of offices held and remembered. A Vylarian is a success when the city repeats his name and a failure when it stops: _anvêldâ_ is "a name the city has stopped repeating." The marks of success come in a recognizable order. A house name stands on the roll with an heir named behind it, a patron's morning call is crowded, a seal is honored where it is shown, and a person is placed on the right step of precedence the moment he enters a room. A person who cannot be placed, whether a foreigner or a guest who will not name his patron, is _anzîrôthôs_, unplaced, and the word is uneasy.
 
-The Vylarians value weight and endurance. _Sôlkimâ_, gravity, is the manner proper to a man of standing, and an enduring thing is worth more than a bright one. They value a law obeyed when it costs something, a craft kept excellent, a line kept unbroken, and hospitality done correctly; the generous host and the exacting snob are the same man. They value least the things that threaten the list. Wealth without standing earns contempt: the tax-farmers of the Curia Fiscalis are rich, politically useful and despised. Force outside the law belongs to the barbarians, who have preferences instead of laws, and novelty is not prized: a guild treats a technique as property, so craft is excellent and advances slowly. And no Vylarian should draw a sword on another. The estates of [[place-hylen|Hylen]] hold that rule most fiercely, because the armies of the Broken Succession marched across their wheat ([[lore-olcassabtl|The Battle of Olcassa]]).
+The Vylarians value weight and endurance. _Sôlkimâ_, gravity, is the manner proper to a man of standing, and an enduring thing is worth more than a bright one. They value a law obeyed when it costs something, a craft kept excellent, a line kept unbroken, and hospitality done correctly; the generous host and the exacting snob are the same man. They value least the things that threaten the list. Wealth without standing earns contempt: the tax-farmers of the Tolvan are rich, politically useful and despised. Force outside the law belongs to the barbarians, who have preferences instead of laws, and novelty is not prized: a guild treats a technique as property, so craft is excellent and advances slowly. And no Vylarian should draw a sword on another. The estates of [[place-hylen|Hylen]] hold that rule most fiercely, because the armies of the Broken Succession marched across their wheat ([[lore-olcassabtl|The Battle of Olcassa]]).
 
 ## The Man Admired
 
@@ -37,7 +37,7 @@ A second male example comes from the histories. When the legate Makândas took t
 
 ## The Woman Admired
 
-[[being-ailemkrmys|Ailêmâ Kêrîamyês]], a Guildmaster of the Imperial Scribal Guild, is admired for the custody of the record. She was apprenticed at fourteen to the finest calligrapher in the empire, illuminated a copy of the Codex of Imperial Law at twenty and held her Guildmaster's seal at twenty-two. Her work is finished on time and to exacting standards, which is why she commands premium prices, and the Guild she belongs to holds that documentary authority comes from procedural integrity: an edict becomes the Augustar's word only because a scribe's seal and a witnessed procedure stand behind it. Her kind of authority is not the soldier's or the jailer's. It is the authority of the person who can tell a real edict from a forged one, and who is believed.
+[[being-ailemkrmys|Ailêmâ Kêrîamyês]], a Guildmaster of the Imperial Scribal Guild, is admired for the custody of the record. She was apprenticed at fourteen to the finest calligrapher in the empire, illuminated a copy of the Code of Imperial Law at twenty and held her Guildmaster's seal at twenty-two. Her work is finished on time and to exacting standards, which is why she commands premium prices, and the Guild she belongs to holds that documentary authority comes from procedural integrity: an edict becomes the Ôrzâs's word only because a scribe's seal and a witnessed procedure stand behind it. Her kind of authority is not the soldier's or the jailer's. It is the authority of the person who can tell a real edict from a forged one, and who is believed.
 
 She pays for it too. Her perfectionism has become a cage, her life has thinned to a workshop and a list of clients, and she has begun to wonder whether the permanent perfect page has eclipsed a life lived. The culture respects the type and does not pity it. The admirable woman here is the one whose reliability the city's machinery runs on, as the admirable man is the one who makes its law work.
 
@@ -45,7 +45,7 @@ The coast keeps a third example in the widow Ilthêrâ Sâlkhênôs of Braldvík
 
 ## What the City Keeps
 
-A Vylarian can point to a short list of objects. The **Codex of Imperial Law** is the written law, codified, argued, appealable, and copied in illuminated hands. The **ôrkhaimâ** is a legion's consecrated eagle, and a legion that loses it is disbanded. The **pomerium** is the sacred line walked and consecrated at the Founding, marked with boundary-stones, inside which citizens live by right and no legion may march and beyond which, and never within, the dead must lie. The **wax masks** a house keeps in the cupboard beside its door are its charter in the only sense that matters to the house. The **Veterans' Law** has become a speech: every year a centurion tells the recruits that there is one door and the army holds it open, and he does not know the words come from a statute. The **statue of the Founder** in the Augustar's Circle bears a crowned rune where the script puts a name, enclosing a patch of stone worked smooth, and the clerks of the Curia refer anyone who asks to a record that does not give the name. The **Vylarian Calendar** counts every year from the Founding and is kept far past the empire's borders, and each of its months belongs to one of the Twelve.
+A Vylarian can point to a short list of objects. The **Code of Imperial Law** is the written law, codified, argued, appealable, and copied in illuminated hands. The **ôrkhaimâ** is a legion's consecrated eagle, and a legion that loses it is disbanded. The **thîrûthrimâ** is the sacred line walked and consecrated at the Founding, marked with boundary-stones, inside which citizens live by right and no legion may march and beyond which, and never within, the dead must lie. The **wax masks** a house keeps in the cupboard beside its door are its charter in the only sense that matters to the house. The **Veterans' Law** has become a speech: every year a centurion tells the recruits that there is one door and the army holds it open, and he does not know the words come from a statute. The **statue of the Founder** in the Ôrzâs's Circle bears a crowned rune where the script puts a name, enclosing a patch of stone worked smooth, and the clerks of the Seldan refer anyone who asks to a record that does not give the name. The **Vylarian Calendar** counts every year from the Founding and is kept far past the empire's borders, and each of its months belongs to one of the Twelve.
 
 None of these is a scripture. The Vylarians keep law, memory and boundary, and each is something a person can hold, show or walk.
 
@@ -59,7 +59,7 @@ The seven days of the week are a farming year in miniature and set the rhythm of
 
 The festivals that matter are the ones that renew something owed. The Feast of Thresholds falls at the turning of the year, in the gate's month, Kâlpêzândi, the last month of the calendar, when Árdavon's priests host the renewal of oaths and contracts: lords and vassals, merchants and spouses stand before the temple and have their bonds witnessed and written down. Kalmêthândi, the month of going to the ancestors, is Sélmoros's, and his three-day Silent Passage puts black candles in windows and the names of the year's dead on every tongue. The Night of Ashes is a public festival of the Black Flame in the commercial cities, and the throne's refusal to proscribe the faith leaves the orthodox clergy no way to stop it.
 
-The state's own days are the triumph and the accession. A triumph turns the crossing of the pomerium by a returning army into spectacle along the Via Triumphalis, and an accession pays the legions and the guard the donative that began with Makândas. The games are the other half of "bread and games": the capital's dole includes the price of them, and the Racecourse is where the Augustar learns the mood of the people. The Curia's clerks sweep the empty Senate hall of the Old Hill on the Republic's feast days and lock it again. Each of these is for something concrete. The Thresholds renew the contracts the year runs on, the Silent Passage settles the dead, the triumph and the donative pay the army for its loyalty, and the games keep the capital fed and quiet.
+The state's own days are the triumph and the accession. A triumph turns the crossing of the thîrûthrimâ by a returning army into spectacle along the Paldor, and an accession pays the legions and the guard the donative that began with Makândas. The games are the other half of "bread and games": the capital's dole includes the price of them, and the Racecourse is where the Ôrzâs learns the mood of the people. The Seldan's clerks sweep the empty Senate hall of the Old Hill on the Republic's feast days and lock it again. Each of these is for something concrete. The Thresholds renew the contracts the year runs on, the Silent Passage settles the dead, the triumph and the donative pay the army for its loyalty, and the games keep the capital fed and quiet.
 
 ## Honors and Penalties
 
@@ -69,11 +69,11 @@ The ladder of penalty runs the other way. The lightest is a lost favor, and for 
 
 ## Where the Senate Ends and the Temple Begins
 
-Four parties share the empire: the Augustar and his court, the Senate, the military commanders and the Ordo Arcanis. The Augustar holds the title of Pontifex Maximus, so the state cult's chief priest is the sovereign himself. Civil authority and religious authority are therefore one institution wearing two hats at the top, and two institutions below. The Aediles keep the ward, the Iudicia hear civil suits, the Criminal Tribunal judges theft and violence, the Curia Urbis hears the gravest civic cases, and the throne's own imperial tribunals sit in the Officia Imperii for anything touching the nobility, the Senate or the crown. The Imperial Scribal Guild keeps the archive and makes a document an act. The Curia Fiscalis collects. The Sélmoran priests keep the death records, and Árdavon's priests, who also keep the Temple of the Twelve, witness and record oaths and contracts for a fee.
+Four parties share the empire: the Ôrzâs and his court, the Senate, the military commanders and the Ordo Arcanis. The Ôrzâs holds the title of Sarnax Maldor, so the state cult's chief priest is the sovereign himself. Civil authority and religious authority are therefore one institution wearing two hats at the top, and two institutions below. The Aediles keep the ward, the Civil Courts hear civil suits, the Criminal Tribunal judges theft and violence, the Verdan Ôrzâra hears the gravest civic cases, and the throne's own imperial tribunals sit in the Imperial Offices for anything touching the nobility, the Senate or the crown. The Imperial Scribal Guild keeps the archive and makes a document an act. The Tolvan collects. The Sélmoran priests keep the death records, and Árdavon's priests, who also keep the Temple of the Twelve, witness and record oaths and contracts for a fee.
 
-When these conflict the strongest party at that moment decides, and the strongest party is whoever holds the gate or the granary. The Praetar Augustarum learned that the gate decides a reign, the Senate learned how little a made Augustar is worth without a legion, and the legions learned that an army holding the right granaries can walk over both. A case can be lifted from the civic courts into the imperial ones at the throne's word, and a well-placed enemy on the Curia Urbis is as dangerous as a charge. The courts are real and the law is a currency, and both statements are true at once.
+When these conflict the strongest party at that moment decides, and the strongest party is whoever holds the gate or the granary. The Sorvan learned that the gate decides a reign, the Senate learned how little a made Ôrzâs is worth without a legion, and the legions learned that an army holding the right granaries can walk over both. A case can be lifted from the civic courts into the imperial ones at the throne's word, and a well-placed enemy on the Verdan Ôrzâra is as dangerous as a charge. The courts are real and the law is a currency, and both statements are true at once.
 
-The Ordo Arcanis is an imperial institution and in Vylaria works at full strength: licensed, chartered and built into the administration, and regarded by ordinary Vylarians as one more arm of government. Every child who shows magical aptitude is expected to be reported and enrolled, and a practitioner outside its register is hunted. Provincials find this unnerving, and Vylarians find the provincials' hedge-witches squalid. The Ordo and the throne need each other and do not trust each other, and the Ordo's leaders do not always agree with the Augustar or the Senate.
+The Ordo Arcanis is an imperial institution and in Vylaria works at full strength: licensed, chartered and built into the administration, and regarded by ordinary Vylarians as one more arm of government. Every child who shows magical aptitude is expected to be reported and enrolled, and a practitioner outside its register is hunted. Provincials find this unnerving, and Vylarians find the provincials' hedge-witches squalid. The Ordo and the throne need each other and do not trust each other, and the Ordo's leaders do not always agree with the Ôrzâs or the Senate.
 
 ## Where the Dead Go
 
@@ -97,7 +97,7 @@ A client owes his patron the morning call and carries the patron's interests; th
 
 Care is a duty to those who can hold the giver to it, and a kindness to everyone else. The dole is a citizen's floor and the citizen's alone. Beneath it, the Aurèldían faiths supply what the state does not. Mórváná's hospices of the Waning Moon in every major city shelter and comfort the dying, funded by gifts and endowments, and Sélmoros's priests bury paupers. The sailors' confraternities in the ports keep wages, berths and the widows of drowned men, and the guilds look after their own as far as their funds go. A patron feeds his clients in a lean year or loses them. A citizen's widow keeps her citizenship and the dole for life. A widow or an orphan outside it, with no kin, falls to whoever will take them, a patron's household or a temple, and a house short of an heir may adopt (_aipsênâ_).
 
-The line between citizen and resident decides the rest. A resident's right to sleep within the pomerium lasts exactly as long as his employment, and the waiver the courts register for a fee ends with it, so the destitute drift to the outskirts beyond the Clearance. How far the lean-tos have crept onto the Clearance is a quiet measure of how the empire is faring: in confident years the ground is swept gravel, and in lean years the Watch comes through to pull the shanties down or burn them out.
+The line between citizen and resident decides the rest. A resident's right to sleep within the thîrûthrimâ lasts exactly as long as his employment, and the waiver the courts register for a fee ends with it, so the destitute drift to the outskirts beyond the Clearance. How far the lean-tos have crept onto the Clearance is a quiet measure of how the empire is faring: in confident years the ground is swept gravel, and in lean years the Watch comes through to pull the shanties down or burn them out.
 
 ## Those Who Cannot Work
 
@@ -105,21 +105,21 @@ A citizen who is injured or broken keeps the dole, the one thing that cannot be 
 
 ## Shelter, Teaching and Defense
 
-The patron's house is the standard place for all three. A client's children eat in it, learn from its tutors and are defended by its guards and by its influence in court. Where a family has no patron the Guild or the legion supplies the substitute. The Imperial Scribal Guild trains its members in a seven-year course, the Magnum Collegium certifies an apprentice in one city as good in another, and the Ordo's chapter houses are the finest schools in a region, teaching law, rhetoric, mathematics and history to the children of patrons. The army takes a boy of fifteen and gives him a mess, a trade and, at the end of twenty years, a citizenship. Defense is the legion on the frontier, the Watch in the capital, the guard of a rich house or a tax-farmer's convoy, and the neighbors of the Hylen estates and the forts of Moktur on the margins.
+The patron's house is the standard place for all three. A client's children eat in it, learn from its tutors and are defended by its guards and by its influence in court. Where a family has no patron the Guild or the legion supplies the substitute. The Imperial Scribal Guild trains its members in a seven-year course, the Tevran Maldor certifies an apprentice in one city as good in another, and the Ordo's chapter houses are the finest schools in a region, teaching law, rhetoric, mathematics and history to the children of patrons. The army takes a boy of fifteen and gives him a mess, a trade and, at the end of twenty years, a citizenship. Defense is the legion on the frontier, the Watch in the capital, the guard of a rich house or a tax-farmer's convoy, and the neighbors of the Hylen estates and the forts of Moktur on the margins.
 
 ## The House and the Hand
 
 The unit is the household, _zôrkhâ_, which is everyone under one roof and one master: wife, children, freedmen, slaves and the clients who come to the door each morning. The master holds a power over his children that ends only at his death, and the word for his hand, _dêkhazû_, is also the word for the power a master holds over a person: to be "in the hand" of someone is to be his ward, his slave or his wife. Membership therefore follows authority rather than blood. Kin matter and the language has many exact words for them, but a freedman or a client or an adopted heir belongs as fully as a son. A bride is handed from one household to another with a dowry, and a house with no son adopts one.
 
-The ladder of a life follows this. A child is _nûrizon_, a neuter noun in the old tongue, a person not yet of age and in law not yet a person, and shares its gender with slaves and tools. A commoner boy takes the legion's oath at fifteen, trains for a year as a Tironar and serves out the twenty years; a noble boy buys a commission as a Cadetar at fifteen and an officer's post at seventeen. A woman marries by being handed into another household, and to be in a man's hand is to be his ward, his slave or his wife; a woman of the Guild or a trade may keep her own workshop and seal, as Ailêmâ does. A commoner who survives the twenty years is a citizen at thirty-five, which the empire counts as middle age, and a man's later years are patrons, posts and the dole. A senator holds his seat for life, and the old of every order are placed by the same precedence that placed them when young. The last rung is the dying chamber, the last testimony and the mask in the cupboard.
+The ladder of a life follows this. A child is _nûrizon_, a neuter noun in the old tongue, a person not yet of age and in law not yet a person, and shares its gender with slaves and tools. A commoner boy takes the legion's oath at fifteen, trains for a year as a Yunar and serves out the twenty years; a noble boy buys a commission as a Kadel at fifteen and an officer's post at seventeen. A woman marries by being handed into another household, and to be in a man's hand is to be his ward, his slave or his wife; a woman of the Guild or a trade may keep her own workshop and seal, as Ailêmâ does. A commoner who survives the twenty years is a citizen at thirty-five, which the empire counts as middle age, and a man's later years are patrons, posts and the dole. A senator holds his seat for life, and the old of every order are placed by the same precedence that placed them when young. The last rung is the dying chamber, the last testimony and the mask in the cupboard.
 
 Citizenship does not pass to a commoner's children, who are honorary citizens only while they are his dependents, so a veteran's family renews its place in the body by sending each son through the same door. His wife keeps the citizenship for life, widowhood included. Because the nobility hold it by station, the noble house is the only family the empire treats as a body with a past.
 
 ## A Name Struck Out
 
-Every real culture has a blind spot, and the Vylarians' is the unnaming. A people who govern by the roll and the mask answer an embarrassment by striking the name. The Senate alone may give the sentence of _nêhârlon_ on a person, but the habit runs through the whole record. The chancery struck the commander of the strongest army in the empire from every roll that carried his name when he was crowned in the Khelâthi delta, and has not written it again ([[lore-deltaexped|The Delta Expedition]]). The record does not give the name of the Senator who became the first Augustar, and the Founder's statue carries a smoothed patch where a name should stand. The imperial archive, which held the rolls of the Republic, burned, the cause was never established and the question was never put in public ([[lore-archivefire|The Archive Fire]]). A visitor who remarks on the decay commits a real discourtesy. The remark is true, and that is no defense: a Vylarian has decided what his city is and expects the courtesy of being met there. Among themselves Vylarians are far more caustic about it than any foreigner would dare to be.
+Every real culture has a blind spot, and the Vylarians' is the unnaming. A people who govern by the roll and the mask answer an embarrassment by striking the name. The Senate alone may give the sentence of _nêhârlon_ on a person, but the habit runs through the whole record. The chancery struck the commander of the strongest army in the empire from every roll that carried his name when he was crowned in the Khelâthi delta, and has not written it again ([[lore-deltaexped|The Delta Expedition]]). The record does not give the name of the Senator who became the first Ôrzâs, and the Founder's statue carries a smoothed patch where a name should stand. The imperial archive, which held the rolls of the Republic, burned, the cause was never established and the question was never put in public ([[lore-archivefire|The Archive Fire]]). A visitor who remarks on the decay commits a real discourtesy. The remark is true, and that is no defense: a Vylarian has decided what his city is and expects the courtesy of being met there. Among themselves Vylarians are far more caustic about it than any foreigner would dare to be.
 
-The sin sits underneath it. After the Republic conquered Heliónis it carved the college of arcane philosophy out of the Panepistemium and put it on a register, and when the Ordo was chartered the Quaesitorium spent a generation hunting every practitioner who refused it: enrolling those who would be enrolled, imprisoning those who would not and killing the few judged too dangerous. The free Helionite schools that had taught the Ordo its craft were closed one by one ([[lore-huntingyears|The Hunting Years]]). The standing instruction for the work has been reissued without a change of wording. Vylarian children are taught the Hunting Years as a cautionary tale about the age before the Ordo, not as something done to people.
+The sin sits underneath it. After the Republic conquered Heliónis it carved the college of arcane philosophy out of the Panepistemium and put it on a register, and when the Ordo was chartered the Sekran spent a generation hunting every practitioner who refused it: enrolling those who would be enrolled, imprisoning those who would not and killing the few judged too dangerous. The free Helionite schools that had taught the Ordo its craft were closed one by one ([[lore-huntingyears|The Hunting Years]]). The standing instruction for the work has been reissued without a change of wording. Vylarian children are taught the Hunting Years as a cautionary tale about the age before the Ordo, not as something done to people.
 
 Thoughtful Vylarians dispute whether the forms are the machine that keeps a shrinking authority working or the veil over its decline, and they argue it from opposite ends. The Guild's senior scholars say the documentary apparatus is more fragile than the throne understands, and that every original in the central archive was written after the fire. The reform factions say the dole and the citizenship are a charge the treasury can neither afford nor safely cut, and the veterans answer that a missed dole is how dynasties fall.
 
@@ -147,128 +147,128 @@ The manners are formal, precise, and conscious of rank at every moment. A Vylari
 
 ## Glossary {#glossary}
 
-| Term                                      | Meaning                                                                                                                         |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Adeptus (pl. _Adepti_)                    | A practitioner of the Ordo Arcanis licensed to work independently, with a voice in chapter meetings and no vote                 |
-| Adlect (pl. Adlecti)                      | The noble estate of houses raised within the last two generations by commerce, distinguished service or imperial favor          |
-| Aedile                                    | A magistrate of one of Ôrzâra's wards, keeping markets, licenses, weights, building and petty order                             |
-| Aerean (pl. Aerei)                        | The noble estate of the Bronze Houses, the provincial gentry                                                                    |
-| Aëstrai                                   | The steady northerly winds of late summer that set the sailing year on the Vylarian Sea                                         |
-| aipsênâ                                   | Adoption, the taking of an heir from another house                                                                              |
-| Alaria                                    | A cavalry wing: about 120 horse in a legion, up to 500 in an auxiliary formation                                                |
-| anvêldâ                                   | Dishonor, a name the city has stopped repeating                                                                                 |
-| anzîrôthôs                                | Unplaced, of a person whose rank nobody knows                                                                                   |
-| Architar                                  | A legion's field engineer, for siege works, roads and camps                                                                     |
-| Archmagister                              | The head of the Ordo Arcanis, elected by the Praelati for life                                                                  |
-| Argentarius (pl. _Argentarii_)            | A moneylender of the Collegium Argentariorum; the Argentarius Magnar heads it and an Argentarius Praepar runs each chapterhouse |
-| Argentean (pl. Argentei)                  | The noble estate of the Silver Houses, established families with four or more generations at court                              |
-| Argentus (pl. Argenti)                    | The silver coin of account, 160 to the Aurion; called the Argo in ordinary speech                                               |
-| Argo                                      | The everyday name of the Argentus                                                                                               |
-| arká-                                     | Noble, in Vylari                                                                                                                |
-| Árkan                                     | An ancestor                                                                                                                     |
-| Ârkân                                     | A noble house                                                                                                                   |
-| Augurar                                   | A legion's diviner and chaplain, licensed jointly by the army and the Ordo                                                      |
-| Augustar                                  | The emperor                                                                                                                     |
-| Aurelian (pl. Aurelii)                    | The highest noble estate, the Gilded Houses of the empire's first century                                                       |
-| Aurion                                    | The gold coin, worth 160 Argo, minted only at Ôrzâra and seldom seen outside a vault                                            |
-| Auxilarium                                | An auxiliary unit of non-citizens, of any specialty                                                                             |
-| Bit                                       | The everyday name of the Octus                                                                                                  |
-| Cadetar                                   | A noble cadet of fifteen to seventeen, the lowest purchased commission                                                          |
-| Centaria (pl. _Centariae_)                | A century of about 80 soldiers, the basic administrative unit                                                                   |
-| centesima rerum venalium                  | The imperial sales tax, levied chiefly on military commission sales                                                             |
-| Centurius                                 | The career soldier who commands a century                                                                                       |
-| Classar                                   | The fleet, and a fleet of 20 to 60 warships under a Magistar Classis                                                            |
-| Clearance                                 | The swept strip of open ground, kept clear by standing decree, that rings Ôrzâra beyond its buildings                           |
-| Comar Augustari (pl. _Comares Augustari_) | An imperial companion on the war council, holding nominal command titles                                                        |
-| compulsory call                           | The Synod's rule that every ship crossing to or from the mainland puts in at Ravenmoor first                                    |
-| Cornar                                    | A signal-horn player relaying orders within a century                                                                           |
-| dáemâ                                     | A lord                                                                                                                          |
-| Decanum (pl. _Decana_)                    | A squad and mess group of eight                                                                                                 |
-| Decar                                     | The leader of an eight-man squad                                                                                                |
-| Decurar                                   | The leader of a _Turma_ of cavalry                                                                                              |
-| dêkhazû                                   | The hand, and the power a master holds over a ward, a slave or a wife                                                           |
-| dole                                      | The citizen's guaranteed ration of grain, with oil and the price of the games in the capital                                    |
-| Dux Bellorum                              | The chief war-minister, presiding over the imperial war council                                                                 |
-| Equar                                     | A cavalry trooper; cavalry officers add the suffix _-equestris_ to their rank                                                   |
-| Fabricar                                  | A legion's armorer and smith                                                                                                    |
-| Funditar                                  | An auxiliary slinger                                                                                                            |
-| glow-lamp                                 | A cold-fire lamp of the Ordo lighting the great avenues and the Grand Palace by night                                           |
-| horrea                                    | The state granaries under imperial seal                                                                                         |
-| horti                                     | The walled suburban garden-villas of the very rich                                                                              |
-| Imaginar                                  | The bearer of a legion's portrait-standard of the reigning Augustar                                                             |
-| Initiatus (pl. _Initiati_)                | A newly inducted member of the Ordo, often a child                                                                              |
-| insulae                                   | The many-storied tenement blocks of brick and timber                                                                            |
-| Iudex (pl. _Iudices_)                     | A judge of the civil courts, drawn from the propertied orders                                                                   |
-| kalmêthâthen                              | To go to the ancestors, the courteous way to say a person has died                                                              |
-| karâlzândis                               | The household gods, those of the kept fire                                                                                      |
-| karâlzon                                  | The kept fire of a house, never let go out                                                                                      |
-| kûthrêzâ                                  | A penalty, a fine or a loss laid down by a court                                                                                |
-| Legar                                     | The commander of a legion                                                                                                       |
-| Legio (pl. _Legiones_)                    | A legion of about 5,000, the basic strategic formation                                                                          |
-| Legionar                                  | A sworn common soldier                                                                                                          |
-| lêmvisâ                                   | A will, the writing that names the heir                                                                                         |
-| lîskaimâ                                  | Manumission, the act that frees a slave and gives a name a gender                                                               |
-| Magi-Artificer                            | A master of the Ordo who knows the workings of the Grand Orrery                                                                 |
-| Magistar Vexilii                          | The commander of a field army                                                                                                   |
-| Magister (pl. _Magistri_)                 | A master of the Ordo with a vote in a chapter's council; also the provincial deputies of the treasury and the guilds            |
-| Magnar                                    | A theater commander, the senior field general                                                                                   |
-| Magnatum                                  | A theater force of 30,000 to 100,000 or more                                                                                    |
-| Marinar                                   | A marine of the fleet                                                                                                           |
-| Medicar                                   | A legion's field surgeon                                                                                                        |
-| Nautar                                    | A sailor of the fleet                                                                                                           |
-| Naverum                                   | A warship, captained by a _Naverar_                                                                                             |
-| nêhârlon                                  | The unnaming, which strikes a person from every roll and forbids anyone to say the name aloud; only the Senate gives it         |
-| Numar                                     | An irregular formation, tribal or specialist                                                                                    |
-| nûrizon                                   | A child, a person not yet of age and in law not yet a person                                                                    |
-| Octus (pl. Octi)                          | A silver wedge, one-eighth of an Argentus, cut from the coin or struck at the mint; called the Bit                              |
-| Optar                                     | A century's second in command                                                                                                   |
-| Ôrkhaimâ                                  | A legion's consecrated eagle standard; a legion that loses it is disbanded                                                      |
-| Ôrkhaimândôs                              | The bearer of a legion's ôrkhaimâ                                                                                               |
-| ôrphênon                                  | A favor, a thing done that leaves a debt                                                                                        |
-| ôzêthândôs                                | A diviner, licensed to read signs                                                                                               |
-| paper-script                              | Paper notes issued by the moneylenders against the treasury's reserves                                                          |
-| passage-gift                              | The informal payment merchants give the Áelendan clans to cross the Cervaron passes                                             |
-| pomerium                                  | The sacred and legal boundary of Ôrzâra, inside which citizens live by right and no legion may march                            |
-| portoria                                  | Customs duties on goods crossing imperial frontiers and provincial boundaries                                                   |
-| Praefar Aerarii                           | One of the three senior deputies of the imperial treasury                                                                       |
-| Praefar Alariae                           | A legion's prefect of cavalry and specialists, a noble commission                                                               |
-| Praefar Castorum                          | A legion's camp prefect, third in command and the one rank both noble and commoner can reach                                    |
-| Praefar Vigilum                           | The Prefect of the City Watch                                                                                                   |
-| Praelatus (pl. _Praelati_)                | A senior master of the Ordo with a seat on the Concilium Magnum                                                                 |
-| Praepar                                   | The commander of a cohort; also a moneylenders' chapterhouse head and a naval squadron commander                                |
-| Primar                                    | The senior centurion of a legion, the top of the commoner track                                                                 |
-| Primar Sectaris                           | The senior centurion of a cohort                                                                                                |
-| Princeps Collegii                         | The chair of the Magnum Collegium                                                                                               |
-| Publicar (pl. _Publicarii_)               | A private tax-farmer under contract to the Curia Fiscalis                                                                       |
-| Quaesitor (pl. Quaesitores)               | An investigator, hunter and executioner of the Ordo's Quaesitorium                                                              |
-| Quatera (pl. _Quaterae_)                  | A four-man fire team, the smallest tactical element                                                                             |
-| Quaterar                                  | The leader of a fire team                                                                                                       |
-| Sagittarium                               | An archer auxiliary                                                                                                             |
-| Scribar                                   | A legion's quartermaster's clerk, trained by the Imperial Scribal Guild                                                         |
-| Sectara (pl. _Sectarae_)                  | A cohort of about 480, the basic tactical formation                                                                             |
-| Sigliar                                   | The bearer of a century's standard                                                                                              |
-| Sodalitas (pl. _Sodalitates_)             | One of the six fellowships of the Ordo, joining mages who share a school of magic                                               |
-| Squadrarium                               | A naval squadron of 4 to 10 ships                                                                                               |
-| Subtribunar                               | A junior noble officer of seventeen to twenty-two, one of five in a legion                                                      |
-| Tesserar                                  | A century's watch officer and third in command                                                                                  |
-| Tironar                                   | A recruit in his first year of training, not yet sworn                                                                          |
-| Tribunar                                  | A tribune, the second noble commission                                                                                          |
-| Tribunar Magnar                           | A legion's senior tribune and second in command                                                                                 |
-| tributum agrorum                          | The annual land tax                                                                                                             |
-| tributum hereditatium                     | The inheritance tax                                                                                                             |
-| tributum metallorum                       | The royalty on imperial-claim mines                                                                                             |
-| Tubar                                     | A legion's trumpeter                                                                                                            |
-| Turma                                     | A cavalry squadron of about 30 horse                                                                                            |
-| vêldâ                                     | Honor, a public thing made of offices held and remembered                                                                       |
-| Velitar                                   | A light infantryman or skirmisher                                                                                               |
-| vênthôdis                                 | Exile, the gravest sentence a court gives a citizen                                                                             |
-| Veteranar                                 | A soldier of privileged status after sixteen years or for distinguished service                                                 |
-| Vexilium (pl. _Vexilia_)                  | A field army of 10,000 to 30,000 raised for a campaign                                                                          |
-| Vexillar                                  | The bearer of a cohort's banner                                                                                                 |
-| vigiles                                   | The watchmen of the City Watch                                                                                                  |
-| yêrpâlon                                  | Duty, what is owed to the gods, the ancestors, the house, the patron, the city and the empire, in that order                    |
-| zalvon                                    | The imperial cult, a department of the state with revenues and a seat at public ceremonies                                      |
-| zaron                                     | An oath, a binding sworn before a god                                                                                           |
-| zîravon                                   | The soul, the breath that goes to the ancestors                                                                                 |
-| zôrkhâ                                    | A household, everyone under one roof and one master, slaves and clients included                                                |
-| zôrkhândôs                                | The master of a household, who answers for everyone in it                                                                       |
+| Term                             | Meaning                                                                                                                 |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Adeptus (pl. _Adepti_)           | A practitioner of the Ordo Arcanis licensed to work independently, with a voice in chapter meetings and no vote         |
+| Adlect (pl. Adlecti)             | The noble estate of houses raised within the last two generations by commerce, distinguished service or imperial favor  |
+| Aedile                           | A magistrate of one of Ôrzâra's wards, keeping markets, licenses, weights, building and petty order                     |
+| Aerean (pl. Aerei)               | The noble estate of the Bronze Houses, the provincial gentry                                                            |
+| Aëstrai                          | The steady northerly winds of late summer that set the sailing year on the Vylarian Sea                                 |
+| aipsênâ                          | Adoption, the taking of an heir from another house                                                                      |
+| Gelmal                           | A cavalry wing: about 120 horse in a legion, up to 500 in an auxiliary formation                                        |
+| anvêldâ                          | Dishonor, a name the city has stopped repeating                                                                         |
+| anzîrôthôs                       | Unplaced, of a person whose rank nobody knows                                                                           |
+| Makner                           | A legion's field engineer, for siege works, roads and camps                                                             |
+| Archmagister                     | The head of the Ordo Arcanis, elected by the Praelati for life                                                          |
+| Danvor (pl. _Danvori_)           | A moneylender of the Danvar; the Danvor Maldor heads it and a Danvel runs each chapterhouse                             |
+| Argentean (pl. Argentei)         | The noble estate of the Silver Houses, established families with four or more generations at court                      |
+| Ardin (pl. Ardini)               | The silver coin of account, 160 to the Solden; called the Ard in ordinary speech                                        |
+| Ard                              | The everyday name of the Ardin                                                                                          |
+| arká-                            | Noble, in Vylari                                                                                                        |
+| Árkan                            | An ancestor                                                                                                             |
+| Ârkân                            | A noble house                                                                                                           |
+| Omelar                           | A legion's diviner and chaplain, licensed jointly by the army and the Ordo                                              |
+| Ôrzâs                            | The emperor                                                                                                             |
+| Aurelian (pl. Aurelii)           | The highest noble estate, the Gilded Houses of the empire's first century                                               |
+| Solden                           | The gold coin, worth 160 Ard, minted only at Ôrzâra and seldom seen outside a vault                                     |
+| Alvan                            | An auxiliary unit of non-citizens, of any specialty                                                                     |
+| Bit                              | The everyday name of the Ogdel                                                                                          |
+| Kadel                            | A noble cadet of fifteen to seventeen, the lowest purchased commission                                                  |
+| Hundal (pl. _Hundali_)           | A century of about 80 soldiers, the basic administrative unit                                                           |
+| tolvek                           | The imperial sales tax, levied chiefly on military commission sales                                                     |
+| Hundar                           | The career soldier who commands a century                                                                               |
+| Vormal                           | The fleet, and a fleet of 20 to 60 warships under a Vormex                                                              |
+| Clearance                        | The swept strip of open ground, kept clear by standing decree, that rings Ôrzâra beyond its buildings                   |
+| Sodar Ôrzâs (pl. _Sodari Ôrzâs_) | An imperial companion on the war council, holding nominal command titles                                                |
+| compulsory call                  | The Synod's rule that every ship crossing to or from the mainland puts in at Ravenmoor first                            |
+| Hornan                           | A signal-horn player relaying orders within a century                                                                   |
+| dáemâ                            | A lord                                                                                                                  |
+| Masal (pl. _Masali_)             | A squad and mess group of eight                                                                                         |
+| Masar                            | The leader of an eight-man squad                                                                                        |
+| Gelmar                           | The leader of a _Gelma_ of cavalry                                                                                      |
+| dêkhazû                          | The hand, and the power a master holds over a ward, a slave or a wife                                                   |
+| dole                             | The citizen's guaranteed ration of grain, with oil and the price of the games in the capital                            |
+| Dukran                           | The chief war-minister, presiding over the imperial war council                                                         |
+| Gelmor                           | A cavalry trooper; cavalry officers add the suffix _-gelmal_ to their rank                                              |
+| Borgel                           | A legion's armorer and smith                                                                                            |
+| Lorkel                           | An auxiliary slinger                                                                                                    |
+| glow-lamp                        | A cold-fire lamp of the Ordo lighting the great avenues and the Grand Palace by night                                   |
+| barnali                          | The state granaries under imperial seal                                                                                 |
+| vildori                          | The walled suburban garden-villas of the very rich                                                                      |
+| Valdor                           | The bearer of a legion's portrait-standard of the reigning Ôrzâs                                                        |
+| Initiatus (pl. _Initiati_)       | A newly inducted member of the Ordo, often a child                                                                      |
+| tengali                          | The many-storied tenement blocks of brick and timber                                                                    |
+| Sentor (pl. _Sentori_)           | A judge of the civil courts, drawn from the propertied orders                                                           |
+| kalmêthâthen                     | To go to the ancestors, the courteous way to say a person has died                                                      |
+| karâlzândis                      | The household gods, those of the kept fire                                                                              |
+| karâlzon                         | The kept fire of a house, never let go out                                                                              |
+| kûthrêzâ                         | A penalty, a fine or a loss laid down by a court                                                                        |
+| Vandrax                          | The commander of a legion                                                                                               |
+| Vandan (pl. _Vandani_)           | A legion of about 5,000, the basic strategic formation                                                                  |
+| Vandor                           | A sworn common soldier                                                                                                  |
+| lêmvisâ                          | A will, the writing that names the heir                                                                                 |
+| lîskaimâ                         | Manumission, the act that frees a slave and gives a name a gender                                                       |
+| Magi-Artificer                   | A master of the Ordo who knows the workings of the Grand Orrery                                                         |
+| Bandren                          | The commander of a field army                                                                                           |
+| Magister (pl. _Magistri_)        | A master of the Ordo with a vote in a chapter's council; also the provincial deputies of the treasury and the guilds    |
+| Kamdor                           | A theater commander, the senior field general                                                                           |
+| Kamdol                           | A theater force of 30,000 to 100,000 or more                                                                            |
+| Vormvan                          | A marine of the fleet                                                                                                   |
+| Salvan                           | A legion's field surgeon                                                                                                |
+| Vormar                           | A sailor of the fleet                                                                                                   |
+| Vormak                           | A warship, captained by a _Vormor_                                                                                      |
+| nêhârlon                         | The unnaming, which strikes a person from every roll and forbids anyone to say the name aloud; only the Senate gives it |
+| Orman                            | An irregular formation, tribal or specialist                                                                            |
+| nûrizon                          | A child, a person not yet of age and in law not yet a person                                                            |
+| Ogdel (pl. Ogdeli)               | A silver wedge, one-eighth of a Ardin, cut from the coin or struck at the mint; called the Bit                          |
+| Sekor                            | A century's second in command                                                                                           |
+| Ôrkhaimâ                         | A legion's consecrated eagle standard; a legion that loses it is disbanded                                              |
+| Ôrkhaimândôs                     | The bearer of a legion's ôrkhaimâ                                                                                       |
+| ôrphênon                         | A favor, a thing done that leaves a debt                                                                                |
+| ôzêthândôs                       | A diviner, licensed to read signs                                                                                       |
+| paper-script                     | Paper notes issued by the moneylenders against the treasury's reserves                                                  |
+| passage-gift                     | The informal payment merchants give the Áelendan clans to cross the Cervaron passes                                     |
+| thîrûthrimâ                      | The sacred and legal boundary of Ôrzâra, inside which citizens live by right and no legion may march                    |
+| tolsen                           | Customs duties on goods crossing imperial frontiers and provincial boundaries                                           |
+| Orsan of the Tarmex              | One of the three senior deputies of the imperial treasury                                                               |
+| Gelmalor                         | A legion's prefect of cavalry and specialists, a noble commission                                                       |
+| Vallar                           | A legion's camp prefect, third in command and the one rank both noble and commoner can reach                            |
+| Nokaran                          | The Prefect of the City Watch                                                                                           |
+| Praelatus (pl. _Praelati_)       | A senior master of the Ordo with a seat on the Verdan Maldor                                                            |
+| Parthan                          | The commander of a cohort; also a moneylenders' chapterhouse head and a naval squadron commander                        |
+| Hundar Maldor                    | The senior centurion of a legion, the top of the commoner track                                                         |
+| Hundar Kerval                    | The senior centurion of a cohort                                                                                        |
+| Tevrax                           | The chair of the Tevran Maldor                                                                                          |
+| Tolar (pl. _Tolari_)             | A private tax-farmer under contract to the Tolvan                                                                       |
+| Quaesitor (pl. Quaesitores)      | An investigator, hunter and executioner of the Ordo's Sekran                                                            |
+| Kelan (pl. _Kelani_)             | A four-man fire team, the smallest tactical element                                                                     |
+| Kelor                            | The leader of a fire team                                                                                               |
+| Bogar                            | An archer auxiliary                                                                                                     |
+| Notrel                           | A legion's quartermaster's clerk, trained by the Imperial Scribal Guild                                                 |
+| Parthal (pl. _Parthali_)         | A cohort of about 480, the basic tactical formation                                                                     |
+| Bandor                           | The bearer of a century's standard                                                                                      |
+| Sodalitas (pl. _Sodalitates_)    | One of the six fellowships of the Ordo, joining mages who share a school of magic                                       |
+| Vormel                           | A naval squadron of 4 to 10 ships                                                                                       |
+| Lusel                            | A junior noble officer of seventeen to twenty-two, one of five in a legion                                              |
+| Nokar                            | A century's watch officer and third in command                                                                          |
+| Yunar                            | A recruit in his first year of training, not yet sworn                                                                  |
+| Lusar                            | A tribune, the second noble commission                                                                                  |
+| Lusar Maldor                     | A legion's senior tribune and second in command                                                                         |
+| tolgar                           | The annual land tax                                                                                                     |
+| tolmen                           | The inheritance tax                                                                                                     |
+| tolbor                           | The royalty on imperial-claim mines                                                                                     |
+| Brasan                           | A legion's trumpeter                                                                                                    |
+| Gelma                            | A cavalry squadron of about 30 horse                                                                                    |
+| vêldâ                            | Honor, a public thing made of offices held and remembered                                                               |
+| Tarvil                           | A light infantryman or skirmisher                                                                                       |
+| vênthôdis                        | Exile, the gravest sentence a court gives a citizen                                                                     |
+| Antar                            | A soldier of privileged status after sixteen years or for distinguished service                                         |
+| Bandel (pl. _Vexilia_)           | A field army of 10,000 to 30,000 raised for a campaign                                                                  |
+| Vexillar                         | The bearer of a cohort's banner                                                                                         |
+| vigiles                          | The watchmen of the City Watch                                                                                          |
+| yêrpâlon                         | Duty, what is owed to the gods, the ancestors, the house, the patron, the city and the empire, in that order            |
+| zalvon                           | The imperial cult, a department of the state with revenues and a seat at public ceremonies                              |
+| zaron                            | An oath, a binding sworn before a god                                                                                   |
+| zîravon                          | The soul, the breath that goes to the ancestors                                                                         |
+| zôrkhâ                           | A household, everyone under one roof and one master, slaves and clients included                                        |
+| zôrkhândôs                       | The master of a household, who answers for everyone in it                                                               |

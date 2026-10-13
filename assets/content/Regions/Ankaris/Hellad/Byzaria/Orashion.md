@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: orashion2
   population: 1600000
-  economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
+  economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
   relations: {arldnpnthn: aligned}
@@ -88,7 +88,7 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 ## Commerce and Currency
 
-Órashion uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Órashion uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

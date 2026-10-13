@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 190, packFol
 ---
 
 **Estivren** sits where the terraces give out and the hill pasture begins. It is the oldest settlement
-in [[place-zuravlenrgn|Zûravlen]]—its name belongs to an older stratum than Mercadaure or Blavéra—and it has never been much interested in peaches.
+in [[place-zuravlenrgn|Zûravlen]]—its name belongs to an older stratum than Elthrembìs or Blavéra—and it has never been much interested in peaches.
 
 Use Estivren as the model of an **upland pastoral manor**, and as the reason the valley below works.
 
@@ -25,7 +25,7 @@ Use Estivren as the model of an **upland pastoral manor**, and as the reason the
 - **Banalities.** A mill and an oven, both small. More importantly, the manor operates the barony's
   principal **fulling** and wool-sorting sheds.
 - **Cheese.** Ewe's-milk cheese, pressed in the uplands through the summer and brought down for the
-  Mercadaure fair. It is the manor's steadiest coin.
+  Elthrembìs fair. It is the manor's steadiest coin.
 
 ## Folding Rights
 
@@ -34,7 +34,7 @@ autumn they must be folded somewhere, and where they are folded is where the dun
 orchard terraces below cannot bear without it.
 
 Every folding arrangement in the barony is a contract with Estivren, renewed at the fair, priced by
-what the orchards can bear to pay, and remembered bitterly. [[place-vergeval|Vergéval]] in particular
+what the orchards can bear to pay, and remembered bitterly. [[place-palnebris|Palnebrìs]] in particular
 is entirely dependent and entirely aware of it. Estivren's lord is not a rich man and does not need to
 be; he holds something that cannot be grown in a season.
 

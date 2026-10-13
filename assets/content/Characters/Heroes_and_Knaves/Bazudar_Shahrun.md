@@ -451,7 +451,7 @@ Bazûdar is driven by a desire to preserve the ancient relationship between huma
 
 - **Supernatural Way with Animals**: Animalcraft, his greatest skill, is a near-magical affinity for understanding and working with creatures. He can calm the most dangerous animals, diagnose illnesses through subtle behavioral cues, and establish bonds that make animals willing to endure hardships for him.
 
-- **Exceptional Endurance and Strength**: His endurance and strength grant him physical resilience that allows him to work full days under punishing desert conditions without faltering. He can overpower most human opponents through sheer physical power and toughness.
+- **Endurance and Strength**: His endurance and strength grant him physical resilience that allows him to work full days under punishing desert conditions without faltering. He can overpower most human opponents through sheer physical power and toughness.
 
 - **Mastery of Practical Survival**: Survival, herblore, riding, and jumping make him extraordinarily capable in harsh environments. He can navigate deserts that would kill ordinary travelers, locate water, treat injuries with herbal remedies, and move across broken ground with surprising grace for his size.
 

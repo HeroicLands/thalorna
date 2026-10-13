@@ -443,7 +443,7 @@ Vrildmýl is motivated by a desire that no one else should suffer what his famil
 
 ### Strengths
 
-- **Exceptional Agility and Reflexes**: Vrildmýl's physical reactions are among the fastest in the militia. He can exploit openings in combat that others cannot perceive quickly enough to use.
+- **Agility and Reflexes**: Vrildmýl's physical reactions are among the fastest in the militia. He can exploit openings in combat that others cannot perceive quickly enough to use.
 - **Melee Combat Mastery**: His skill with spear and shield is advanced for his age. He has trained obsessively under **Captain Bruldthann** and has extensive real combat experience.
 - **Tactical Flexibility**: Though he lacks the long view of older commanders, Vrildmýl adapts rapidly to changing battlefield conditions and thinks creatively about problem-solving.
 - **Inspirational Presence**: Younger militia members naturally follow his lead, and common citizens respond positively to his straightforward manner and evident commitment to their protection.

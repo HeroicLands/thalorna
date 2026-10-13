@@ -449,7 +449,7 @@ Ránthor is motivated by a commitment to prevent the suffering he experienced in
 ### Strengths
 
 - **Combat-Ready Spiritual Training:** Unlike most shamans, Ránthor is a dangerous physical combatant; he can fight effectively in melee or from range and weaves shamanic techniques into his martial skill.
-- **Legendary Mediation:** Ránthor has brokered peace between groups that seemed implacably opposed; his ability to understand both sides of a dispute and find face-saving compromises is rare.
+- **Mediation:** Ránthor has brokered peace between groups that seemed implacably opposed; his ability to understand both sides of a dispute and find face-saving compromises is rare.
 - **Practical Ritual Mastery:** His rituals are designed to have measurable, practical effects—they heal injuries, calm anxious minds, steel warriors' resolve—rather than seeking communion with abstract spiritual forces.
 - **Strategic Political Understanding:** His years in royal service combined with shamanic training give him a deep understanding of how power works in both court and tribe; he handles political tangles with considerable skill.
 - **Unshakeable Moral Authority:** Ránthor's reputation for absolute integrity gives his words and judgments enormous weight; even those who dislike him respect his honesty and consistency.
@@ -457,8 +457,8 @@ Ránthor is motivated by a commitment to prevent the suffering he experienced in
 
 ### Weaknesses
 
-- **Dismissal of Genuine Mysticism:** His grounding in pragmatism can prevent him from recognizing or accepting true mystical phenomena that don't fit his rational framework; he may dismiss real spiritual threats as superstition.
-- **Limitations in Transcendent Work:** He is significantly less capable than purely mystical shamans at accessing the deepest levels of spirit realm communion, astral projection, or pure visionary work.
+- **Dismissal of Mysticism:** His grounding in pragmatism can prevent him from recognizing or accepting true mystical phenomena that don't fit his rational framework; he may dismiss real spiritual threats as superstition.
+- **Limitations in Work:** He is significantly less capable than purely mystical shamans at accessing the deepest levels of spirit realm communion, astral projection, or pure visionary work.
 - **Isolation Among Peers:** His unconventional approach and skepticism have made him somewhat isolated from the broader shamanic community; he lacks the deep support among fellow shamans that others enjoy.
 - **Vulnerability to Emotional Isolation:** His commitment to pragmatism and distance can mask deep loneliness; he allows few people close enough to truly know him.
 - **Past Conflicts Unresolved:** His history of serving both kingdom and tribe, and his mysterious past symbolized by the crown, suggests unresolved conflicts or secrets that could become liabilities if exposed.

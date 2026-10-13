@@ -448,7 +448,7 @@ Dvilgthýra is driven primarily by the need to survive, to maintain stability an
 
 ### Strengths
 
-- **Exceptional Observation and Intuition**: She reads people with great accuracy, understanding motivations and moods through subtle cues. This skill has made her indispensable as a household manager and confidante.
+- **Observation and Intuition**: She reads people with great accuracy, understanding motivations and moods through subtle cues. This skill has made her indispensable as a household manager and confidante.
 - **Skilled in Domestic Arts**: Her cooking is excellent, her housekeeping immaculate, and her management of servants and household resources highly competent. Few in the kingdom could manage a household as well as she does.
 - **Pragmatic Intelligence**: She understands systems—how money flows, how authority structures work, how to manage the rivalries and alliances within the servant hierarchy. She is naturally gifted at finding solutions to practical problems.
 - **Resourcefulness and Problem-Solving**: Working with limited resources, she has learned to improvise and make do with what is available. She can solve complex household management challenges with rare creativity.
@@ -458,7 +458,7 @@ Dvilgthýra is driven primarily by the need to survive, to maintain stability an
 ### Weaknesses
 
 - **Learned Helplessness and Submissiveness**: Years of slavery have conditioned her to accept her fate, to not fight for her own interests. She would struggle to assert herself even if opportunity for freedom presented itself.
-- **Profound Anxiety and Fear of Punishment**: She lives in constant low-level fear of discipline and punishment. Loud voices or unexpected anger from authority figures can cause her significant distress.
+- **Anxiety and Fear of Punishment**: She lives in constant low-level fear of discipline and punishment. Loud voices or unexpected anger from authority figures can cause her significant distress.
 - **Internalized Belief in Her Own Worthlessness**: Despite her obvious competence and intelligence, she believes on a fundamental level that free people are more human than she is, that she deserves her position. Overcoming this will require deep healing.
 - **Lack of Combat or Physical Defense Skills**: She has never been trained to fight and would be helpless in physical confrontation. Her body is designed for labor, not combat.
 - **Social Isolation**: Her position as both servant and above-servants means she belongs to neither community. She has no true friends or trusted confidantes who know her whole self.

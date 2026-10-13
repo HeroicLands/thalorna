@@ -418,7 +418,7 @@ Brunjár is the gang's primary lookout and scout. His perception is good, he mov
 
 ### Personality
 
-Brunjár is anxious, guilt-ridden, and desperately unhappy. He is not a bad person—he has genuine empathy, a functioning conscience, and the moral awareness to know that what the gang does is wrong. He simply lacks the will to leave and the courage to resist. He is eager to please and quick to obey, which makes him useful to Dágulf but contemptible to Skathilda. He talks too much when nervous, apologizes compulsively, and sleeps badly.
+Brunjár is anxious, guilt-ridden, and desperately unhappy. He is not a bad person—he has empathy, a functioning conscience, and the moral awareness to know that what the gang does is wrong. He simply lacks the will to leave and the courage to resist. He is eager to please and quick to obey, which makes him useful to Dágulf but contemptible to Skathilda. He talks too much when nervous, apologizes compulsively, and sleeps badly.
 
 ### Motivation
 
@@ -426,7 +426,7 @@ Brunjár wants out. He dreams of a quiet life—a small farm, a wife, honest wor
 
 ### Strengths
 
-His perception and stealth make him a genuinely useful scout. His empathy, though it torments him, means he occasionally shows kindness to captives when no one is watching. His sling skill is underestimated by those who don't take the weapon seriously.
+His perception and stealth make him a useful scout. His empathy, though it torments him, means he occasionally shows kindness to captives when no one is watching. His sling skill is underestimated by those who don't take the weapon seriously.
 
 ## Social
 

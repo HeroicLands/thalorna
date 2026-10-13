@@ -397,7 +397,7 @@ Visîza Zupûmî is a 25-year-old woman who stands 6'3" tall and is of moderate 
 
 Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Visîza Zupûmî came into the world of the bodyguard through a combination of circumstance and aptitude.
 
-Visîza has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and exceptional combat skills, she has earned a reputation for being a reliable protector. Visîza values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
+Visîza has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and outstanding combat skills, she has earned a reputation for being a reliable protector. Visîza values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
 
 ## Psyche
 
@@ -423,7 +423,7 @@ As a Tarûzelian bodyguard, Visîza occupies a recognized social niche within Ta
 
 ### Patrons
 
-Visîza's primary patron is Merchants and minor nobles seeking reliable protection.. This relationship provides both opportunity and obligation.
+Visîza's primary patron is Merchants and minor nobles seeking reliable protection. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -431,7 +431,7 @@ Few; respected among peers.
 
 ## Plot Hooks
 
-1. **The Bodyguard's Dilemma**—Visîza faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarûzel.
+1. **The Bodyguard's Dilemma**—Visîza faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarûzel.
 
 2. **Old Grudges**—Few; respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

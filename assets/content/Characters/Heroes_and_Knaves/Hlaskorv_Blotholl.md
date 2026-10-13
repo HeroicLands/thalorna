@@ -483,7 +483,7 @@ The Herbal Society of Nordheim
 The Rapid Timber Consortium
 : A coalition of aggressive woodcutters and merchants who put the volume cut before sustainability and view Hlaskorv as an obstacle to profit, regularly underbidding his contracts and spreading rumors about his inflexibility.
 
-Master Loggen the Efficient
+Master Loggen the Swift
 : A younger, talented woodcutter who has embraced modern techniques that allow rapid felling and processing. He and Hlaskorv have clashed repeatedly over philosophy and methods, with Loggen publicly mocking the elder's "outdated sentimentality."
 
 The Expanding Cities Guild

@@ -421,7 +421,7 @@ Physically strong, resilient, skilled in farm labor.
 
 ## Social
 
-Kruldorv is affiliated with None; lacks freedom to associate with groups..
+Kruldorv is affiliated with None; lacks freedom to associate with groups.
 
 As a Nordheimn farmer, Kruldorv occupies a recognized social niche within Nordheim society.
 
@@ -429,7 +429,7 @@ As a Nordheimn farmer, Kruldorv occupies a recognized social niche within Nordhe
 
 ### Patrons
 
-Kruldorv's primary patron is None; seen merely as property by his owners.. This relationship provides both opportunity and obligation.
+Kruldorv's primary patron is None; seen merely as property by his owners. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -437,7 +437,7 @@ Overseers who see him as a troublemaker.
 
 ## Plot Hooks
 
-1. **The Farmer's Dilemma**—Kruldorv faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Farmer's Dilemma**—Kruldorv faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Overseers who see him as a troublemaker. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -19,11 +19,11 @@ data:
       Deliberately decentralized and anarchic. There is no High Priest and no hierarchy to rise through; what passes for organization is the Circle of the Threshold, a loose and constantly shifting fellowship that anyone may claim to belong to and no one may speak for.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—which in a faith with no authority to expel anyone means only that the fellowship has stopped answering, and that is enough.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the god's feasts and take no part in the Circle.
       - level: 2

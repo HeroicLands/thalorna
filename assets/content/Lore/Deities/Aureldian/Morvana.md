@@ -8,4 +8,4 @@ tags: [draft]
 data: {culture: aureldianclt, packFolder: deitiesaureldian}
 ---
 
-Mórváná, the Mistress of the Waning Moon, is the deity of decay in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a wilting flower surrounded by mist. Worship is kept in the [[affiliation-morvana|Faith of Mórváná]], a temple priesthood of acolytes in training, ordained clergy and the Magistra Mortis above them; the lay faithful keep the feasts without office.
+Mórváná, the Mistress of the Waning Moon, is the deity of decay in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a wilting flower surrounded by mist. Worship is kept in the [[affiliation-morvana|Faith of Mórváná]], a temple priesthood of acolytes in training, ordained clergy and the Valmena above them; the lay faithful keep the feasts without office.

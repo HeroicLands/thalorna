@@ -429,7 +429,7 @@ Athalwa was the second child of **Vorthgar yra Vithrúnd**, War Chief of Eicheng
 
 ### The Warrior's Calling
 
-Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that transcended tradition, allowed it. She trained with the best hunters and raiders of Eichengrund, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be remarkably accurate predictions of enemy movements and environmental dangers. She led three successful raids against the Tzar Kingdom's southern outposts and returned with no losses to her war band—an unprecedented achievement.
+Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that went beyond tradition, allowed it. She trained with the best hunters and raiders of Eichengrund, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be accurate predictions of enemy movements and environmental dangers. She led three successful raids against the Tzar Kingdom's southern outposts and returned with no losses to her war band—an unprecedented achievement.
 
 ### The Unexpected Succession
 
@@ -449,22 +449,22 @@ Despite her power and status, Athalwa remains somewhat isolated. Her visions and
 
 ### Motivation
 
-Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tribes in a changing world. She perceives that the old ways, while honorable and containing profound wisdom, are insufficient for the challenges ahead. She sees the Byzarian League expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vrystwald remain vibrant and independent, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal. Her conviction that the villages need continuing guided leadership challenges their custom; her visions confer no common office or right to govern them.
+Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tribes in a changing world. She perceives that the old ways, while honorable and containing wisdom, are insufficient for the challenges ahead. She sees the Byzarian League expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vrystwald remain independent and strong, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal. Her conviction that the villages need continuing guided leadership challenges their custom; her visions confer no common office or right to govern them.
 
 ### Strengths
 
-- **Visionary Strategic Brilliance**: Athalwa's combination of tactical training and mystical prescience gives her an uncanny ability to anticipate enemy movements and identify solutions to seemingly impossible problems before others even recognize the problems exist.
-- **Exceptional Warrior and Commander**: She is a formidable fighter in her own right, but her true strength lies in her capacity to inspire warriors and coordinate complex tactical operations. Her command presence creates confidence that borders on religious fervor.
-- **Master of Folklore and Law**: Her deep knowledge of tribal traditions, songs, and ancestral rulings allows her to navigate political disputes with the authority of precedent, even when proposing innovations.
+- **Visionary Battle Sense**: Athalwa's combination of tactical training and mystical prescience gives her an uncanny ability to anticipate enemy movements and identify solutions to seemingly impossible problems before others even recognize the problems exist.
+- **Warrior and Commander**: She is a strong fighter, but her true strength lies in her capacity to inspire warriors and coordinate complex tactical operations. Her command presence creates confidence that borders on religious fervor.
+- **Master of Folklore and Law**: Her deep knowledge of tribal traditions, songs, and ancestral rulings allows her to handle political disputes with the authority of precedent, even when proposing innovations.
 - **Herblore Expertise**: Her mystical training included extensive knowledge of medicinal and ritual plants. She understands healing, ritual magic, and spiritual practice at levels that few can match.
-- **Diplomat and Negotiator**: While unconventional in her methods, Athalwa has proven remarkably effective at establishing trade relationships, forming alliances, and negotiating with foreign powers without surrendering tribal autonomy.
+- **Diplomat and Negotiator**: While unconventional in her methods, Athalwa has proven effective at establishing trade relationships, forming alliances, and negotiating with foreign powers without surrendering tribal autonomy.
 
 ### Weaknesses
 
 - **Mystical Burden**: Her visions, while often accurate, sometimes cloud her judgment. She occasionally acts on intuitions that lack rational foundation, trusting her perception rather than evidence.
 - **Political Vulnerability**: As a female War Chief operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
-- **Emotional Distance**: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values strategic outcomes over their wellbeing.
-- **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more sophisticated realms. The Byzarian League and other complex political entities sometimes take advantage of her more straightforward approach.
+- **Emotional Distance**: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values winning the larger fight over their wellbeing.
+- **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more cultured realms. The Byzarian League and other complex political entities sometimes take advantage of her more straightforward approach.
 - **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. Evidence of false visions could destroy her completely.
 
 ## Social
@@ -472,7 +472,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 ### Patrons
 
 The War Band of Eichengrund
-: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to genuine power within the broader world.
+: Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to power within the broader world.
 
 Merchant Prince Oleander of the Byzarian League
 : A canny trader who has secured access to Eichengrund’s furs and amber through village trade agreements and his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
@@ -491,16 +491,16 @@ Shadow Throne Empire
 ### Affiliations
 
 Eichengrund’s Three Elders
-: Athalwa serves as the village’s War Chief alongside its Weskár and Other Chief, with one vote among the three. Her seat remains contested within Eichengrund. A council of several villages can give her wider command only for an agreed response to imminent danger; it disperses and that command ends with the response.
+: Athalwa is the village’s War Chief alongside its Weskár and Other Chief, with one vote among the three. Her seat remains contested within Eichengrund. A council of several villages can give her wider command only for an agreed response to imminent danger; it disperses and that command ends with the response.
 
 The Eastern Trade Consortium
 : Athalwa has recently been instrumental in establishing formal trading relationships with merchants from eastern kingdoms, creating new economic dependencies and opportunities.
 
 ## Plot Hooks
 
-1. **The Vision of Betrayal**: Athalwa experiences a terrible vision of betrayal from someone she trusts—but the vision is deliberately unclear about who the traitor is or what form the betrayal will take. As paranoia begins to grip her leadership, she must distinguish between genuine threats and the anxiety that her visions create. The investigation leads to uncomfortable truths about which relationships are truly built on loyalty versus political convenience.
+1. **The Vision of Betrayal**: Athalwa experiences a terrible vision of betrayal from someone she trusts—but the vision is deliberately unclear about who the traitor is or what form the betrayal will take. As paranoia begins to grip her leadership, she must distinguish between threats and the anxiety that her visions create. The investigation leads to uncomfortable truths about which relationships are truly built on loyalty versus political convenience.
 
-2. **The Coalition Against Prophecy**: Conservative elders, supported secretly by the Shadow Throne Empire, begin openly challenging Athalwa's claim that her visions are true. They propose a ritual to test them—a ritual designed to fail even if her visions are genuine. Athalwa must navigate this political trap while maintaining her authority and the support of her warriors.
+2. **The Coalition Against Prophecy**: Conservative elders, supported secretly by the Shadow Throne Empire, begin openly challenging Athalwa's claim that her visions are true. They propose a ritual to test them—a ritual designed to fail even if her visions are real. Athalwa must navigate this political trap while maintaining her authority and the support of her warriors.
 
 3. **The Lost Kingdom**: Athalwa's visions begin revealing a civilization that existed centuries before even the oldest Vrystwald legends—an advanced kingdom in the far north that was deliberately hidden or destroyed. Investigation into these visions leads toward territories no Vrystwald explorer has ventured into in living memory, promising both discovery and terrible danger from whatever drove the ancients away.
 

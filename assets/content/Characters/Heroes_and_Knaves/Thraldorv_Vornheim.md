@@ -449,7 +449,7 @@ Thraldorv seeks primarily the satisfaction of doing his work well—to earn fair
 
 - **Overwhelming Strength**: Possesses supernatural levels of physical power; can wield weapons and armor that would cripple normal men and accomplish feats of raw force that seem impossible
 - **Combat Mastery**: Decades of warfare for pay have created a warrior of great skill in hand-to-hand combat, melee weapons, and tactical positioning
-- **Unwavering Courage**: Demonstrates almost unnatural resistance to fear; will stand firm in the face of overwhelming odds where lesser men would flee
+- **Courage**: Demonstrates almost unnatural resistance to fear; will stand firm in the face of overwhelming odds where lesser men would flee
 - **Protective Loyalty**: Once hired, will shield his charge from harm with his own body, positioning himself between danger and those he defends
 - **Tactical Acumen**: Despite outward simplicity, possesses real knowledge of strategy and can recognize military advantages and disadvantages with impressive speed
 

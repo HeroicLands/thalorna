@@ -14,7 +14,7 @@ Loyal and routine-oriented, pigeons are known for their strong homing instincts,
 
 ## Human Personality
 
-Routine-oriented and faithful, this person has strong homing instincts and a sense of loyalty to familiar places and people. They are dependable and consistent in their habits.
+Pigeon people are faithful to routine and have a strong homing instinct, with loyalty to familiar places and people. Their habits are dependable and unchanging.
 
 - **Physical:** Compact, agile physique; soft and gentle demeanor.
 - **Behavioral:** Loyal, prefers routine and familiar environments.

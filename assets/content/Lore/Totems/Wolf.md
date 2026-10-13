@@ -14,7 +14,7 @@ Cooperative and strategic, wolves are pack animals that rely on teamwork and car
 
 ## Human Personality
 
-Strongly valuing teamwork and planning, this individual operates effectively within a group. They rely on strategy and collaboration to achieve shared goals.
+A Wolf person values teamwork and planning and works well within a group. Strategy and cooperation are how the group's goals are reached.
 
 - **Physical:** Lean, strong build; sharp, alert movements.
 - **Behavioral:** Highly cooperative, skilled in social strategies and teamwork.

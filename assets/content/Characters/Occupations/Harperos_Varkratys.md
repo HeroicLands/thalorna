@@ -400,7 +400,7 @@ Harpêros Vârkrâtys is a 39-year-old man who stands 5'11" tall and is of moder
 
 Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Harpêros Vârkrâtys came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
-Harpêros has served as a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harpêros prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
+Harpêros has been a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harpêros prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
 
 ## Psyche
 
@@ -426,7 +426,7 @@ As a Vylarian yeoman archer, Harpêros occupies a recognized social niche within
 
 ### Patrons
 
-Harpêros's primary patron is The local lord who values his consistency and reliability.. This relationship provides both opportunity and obligation.
+Harpêros's primary patron is The local lord who values his consistency and reliability. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Rival soldiers who have lost to him in archery competitions.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma**—Harpêros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Yeoman Archer's Dilemma**—Harpêros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Rival soldiers who have lost to him in archery competitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

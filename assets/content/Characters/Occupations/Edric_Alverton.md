@@ -432,7 +432,7 @@ None; generally well-regarded in the community.
 
 ## Plot Hooks
 
-1. **The Farmer's Dilemma**—Edric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Farmer's Dilemma**—Edric faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—None; generally well-regarded in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

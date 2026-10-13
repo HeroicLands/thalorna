@@ -426,7 +426,7 @@ Kraldmýl was born in a small settlement in the wild borderlands of [[place-nord
 
 At sixteen, Kraldmýl was working with Forgath in a remote forest when a winter storm brought down a massive oak. Forgath was caught beneath its weight, his legs crushed beyond healing. Rather than abandon his master, Kraldmýl spent the night beneath the snow, maintaining Forgath's warmth and consciousness while he waited for the morning to bring help. Help came, but too late for Forgath's legs—the old man lived for another decade, crippled and in pain, until a harsh winter finally claimed him. Kraldmýl was there at the end, holding his dying mentor's hand.
 
-After Forgath's death, Kraldmýl became the finest woodcutter in all of Nordheim, legendary for his ability to harvest timber from impossible locations and his uncanny sense for which trees would provide the strongest wood for specific purposes. He joined the Woodcutters' Guild at twenty-one and has never accepted promotion beyond master craftsman, preferring the simple clarity of direct work to any form of authority over others. He received the scar on his jaw at age twenty-four when a carelessly cut tree branch snapped back and nearly severed his face—an accident that terrified him not because of the pain, but because for a moment, death had been real and arbitrary, independent of skill or effort.
+After Forgath's death, Kraldmýl became the finest woodcutter in all of Nordheim, known for his ability to harvest timber from impossible locations and his uncanny sense for which trees would provide the strongest wood for specific purposes. He joined the Woodcutters' Guild at twenty-one and has never accepted promotion beyond master craftsman, preferring the simple clarity of direct work to any form of authority over others. He received the scar on his jaw at age twenty-four when a carelessly cut tree branch snapped back and nearly severed his face—an accident that terrified him not because of the pain, but because for a moment, death had been real and arbitrary, independent of skill or effort.
 
 He married once, in his thirties, to a woman named Brílda, the daughter of a local smith. The marriage lasted five years before Brílda left, unable to endure the isolation and emotional distance that seemed to be Kraldmýl's fundamental nature. She did not leave in anger but in sadness, and Kraldmýl has never blamed her. They have no children. Now, at forty-six, Kraldmýl lives alone in a cabin he built himself at the edge of the great forests of Nordheim, and he asks nothing more of life than the opportunity to continue his work.
 
@@ -434,9 +434,9 @@ He married once, in his thirties, to a woman named Brílda, the daughter of a lo
 
 ### Personality
 
-Kraldmýl is a man of few words, and the words he does speak are chosen with the deliberation of someone adding a sentence to a permanent document. He is not unfriendly, but friendship requires a kind of emotional availability that he simply does not possess. He is direct to the point of seeming rude, answering questions literally and without embellishment, and he has no patience for social pretense or small talk. Those who know him well recognize that his gruffness masks neither malice nor cruelty, but simply a profound disinterest in human interaction beyond what basic civility demands.
+Kraldmýl is a man of few words, and the words he does speak are chosen with the deliberation of someone adding a sentence to a permanent document. He is not unfriendly, but friendship requires a kind of emotional availability that he simply does not possess. He is direct to the point of seeming rude, answering questions literally and without embellishment, and he has no patience for social pretense or small talk. Those who know him well recognize that his gruffness masks neither malice nor cruelty, but simply a disinterest in company beyond what basic civility demands.
 
-What Kraldmýl does feel passionately about is his work. He is capable of lengthy conversations about the character of different woods, the proper techniques for specific cutting situations, and the philosophy of harvesting—the idea that taking from the forest carries an obligation to leave it healthier than you found it. These conversations occur rarely, only with those who demonstrate genuine understanding of forestry, but when they do occur, Kraldmýl becomes almost animated, displaying a warmth that surprises those unaccustomed to it. He is driven by a profound sense of honor in his craft and is incapable of cutting corners or producing substandard work, regardless of payment or other incentives.
+What Kraldmýl does feel passionately about is his work. He is capable of lengthy conversations about the character of different woods, the proper techniques for specific cutting situations, and the philosophy of harvesting—the idea that taking from the forest carries an obligation to leave it healthier than you found it. These conversations occur rarely, only with those who demonstrate understanding of forestry, but when they do occur, Kraldmýl becomes almost animated, displaying a warmth that surprises those unaccustomed to it. He is driven by honor in his craft and is incapable of cutting corners or producing substandard work, regardless of payment or other incentives.
 
 ### Motivation
 
@@ -448,7 +448,7 @@ Kraldmýl is motivated by a desire to work at his craft with complete mastery, a
 
 - **Woodcraft Mastery**: His knowledge of timber, forestry, and forest survival is encyclopedic; he can identify species by sight, assess quality by touch, and design solutions to harvesting problems that others would deem impossible.
 
-- **Awareness**: Kraldmýl's perception is remarkably acute, honed by years of dangerous work and constant vigilance in remote wilderness; he notices details others miss and senses danger before it becomes obvious.
+- **Awareness**: Kraldmýl's perception is acute, honed by years of dangerous work and constant vigilance in remote wilderness; he notices details others miss and senses danger before it becomes obvious.
 
 - **Stealth**: Despite his massive size, Kraldmýl has learned to move through forests with surprising quietness, a skill developed both from the demands of his work and from his deep knowledge of how to avoid damaging the environment around him.
 
@@ -458,9 +458,9 @@ Kraldmýl is motivated by a desire to work at his craft with complete mastery, a
 
 - **Social Incompetence**: Kraldmýl's inability to navigate human emotion and social expectation makes him appear cold, threatening, and sometimes hostile to those unaccustomed to his way of being; this damages his ability to build relationships or to advocate for his interests in social situations.
 
-- **Emotional Isolation**: His difficulty connecting emotionally with others has left him profoundly lonely in ways he does not fully acknowledge; this vulnerability could be exploited by someone clever enough to recognize it.
+- **Emotional Isolation**: His difficulty connecting emotionally with others has left him lonely in ways he does not fully acknowledge; this vulnerability could be exploited by someone clever enough to recognize it.
 
-- **Resistance to Change**: Kraldmýl's commitment to the traditional methods of woodcutting and his skepticism toward innovation means that he may fail to recognize when new approaches would genuinely serve the craft better than old ones.
+- **Resistance to Change**: Kraldmýl's commitment to the traditional methods of woodcutting and his skepticism toward innovation means that he may fail to recognize when new approaches would serve the craft better than old ones.
 
 - **Limited Eloquence**: His sparse use of words and his discomfort with complex verbal expression mean that he struggles to explain himself, to negotiate complex arrangements, or to defend himself verbally against accusations.
 
@@ -477,7 +477,7 @@ The Builders' Collective
 : An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kraldmýl for special timber that must meet exacting standards; they pay well and do not question his methods.
 
 High Priestess Snarvthýra
-: The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+: The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
 Alderman Hvarnvir
 : The local administrative leader respects Kraldmýl's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
@@ -488,7 +488,7 @@ Alderman Hvarnvir
 : These ambitious merchants view Kraldmýl's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
 
 Warden Kale
-: The regional forest warden has clashed with Kraldmýl multiple times over interpretations of harvesting rights and believes that Kraldmýl operates outside proper legal authority; this resentment has festered into genuine personal dislike.
+: The regional forest warden has clashed with Kraldmýl multiple times over interpretations of harvesting rights and believes that Kraldmýl operates outside proper legal authority; this resentment has festered into personal dislike.
 
 The Corrupted Settlement
 : A nearby settlement whose leaders have been bribed by the Merchant Consortium has begun making legal challenges to Kraldmýl's rights to harvest in traditional territories.
@@ -499,7 +499,7 @@ The Woodcutters' Guild
 : Kraldmýl maintains his membership and pays his dues, though he has little involvement in guild politics and routinely skips guild meetings.
 
 The Followers of Thrúnvald
-: Though not a formal priest or member of any religious institution, Kraldmýl is widely recognized as a genuine worshipper of the storm god through his unwavering commitment to excellence and his acceptance of danger.
+: Though not a formal priest or member of any religious institution, Kraldmýl is widely recognized as a worshipper of the storm god through his commitment to excellence and his acceptance of danger.
 
 ## Plot Hooks
 
@@ -509,6 +509,6 @@ The Followers of Thrúnvald
 
 3. **The Impossible Timber**: A noble from a distant land arrives with an unusual request: they need a single piece of timber of very specific dimensions and qualities to craft a sacred item. The timber must come from a particular region, and the specifications suggest knowledge of forestry that should not exist in that context. Kraldmýl becomes intrigued and commits to finding this timber, but the search leads him into territories he has never explored and brings him into contact with other woodcutters, some of whom seem to have dangerous knowledge and connections to the Merchant Consortium.
 
-4. **The Rival Master**: A master woodcutter from another realm arrives in Nordheim and begins systematically challenging Kraldmýl's reputation by completing supposedly impossible timber harvests with shocking efficiency. This rival seems to have access to tools and techniques that Kraldmýl has never encountered, and their work, while technically correct, somehow violates Kraldmýl's philosophy of craftsmanship and forest stewardship. As Kraldmýl investigates the rival's methods, he discovers that they may be using harvesting techniques that damage the forest in subtle ways that will not be apparent for decades.
+4. **The Rival Master**: A master woodcutter from another realm arrives in Nordheim and begins systematically challenging Kraldmýl's reputation by completing supposedly impossible timber harvests with shocking speed. This rival seems to have access to tools and techniques that Kraldmýl has never encountered, and their work, while technically correct, somehow violates Kraldmýl's philosophy of craftsmanship and forest stewardship. As Kraldmýl investigates the rival's methods, he discovers that they may be using harvesting techniques that damage the forest in subtle ways that will not be apparent for decades.
 
-5. **The Final Debt**: An aging member of the Woodcutters' Guild approaches Kraldmýl with a dying request: to complete a final harvesting project in a remote and dangerous territory that is beyond the skill of any other living woodcutter. The request suggests that Kraldmýl owes this favor due to ancient guild obligations. The project is not merely difficult but genuinely dangerous, requiring Kraldmýl to travel into territories rumored to be haunted or cursed. As he investigates the request, Kraldmýl discovers that the project may have been deliberately designed to require his specific skills, and that someone knows him far better than he realized.
+5. **The Final Debt**: An aging member of the Woodcutters' Guild approaches Kraldmýl with a dying request: to complete a final harvesting project in a remote and dangerous territory that is beyond the skill of any other living woodcutter. The request suggests that Kraldmýl owes this favor due to ancient guild obligations. The project is not merely difficult but dangerous, requiring Kraldmýl to travel into territories rumored to be haunted or cursed. As he investigates the request, Kraldmýl discovers that the project may have been deliberately designed to require his specific skills, and that someone knows him far better than he realized.

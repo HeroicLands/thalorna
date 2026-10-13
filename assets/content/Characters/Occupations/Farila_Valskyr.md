@@ -11,7 +11,7 @@ data:
   occupation: Physician
   lore: []
   culture: provenzianclt
-  homes: [belporte]
+  homes: [kalveza]
   affiliations: {kngdmprvnz: {rank: 5}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
@@ -425,7 +425,7 @@ As a Provenzian physician, Fárila occupies a recognized social niche within Pro
 
 ### Patrons
 
-Fárila's primary patron is Local families seeking her expertise in health and wellness.. This relationship provides both opportunity and obligation.
+Fárila's primary patron is Local families seeking her expertise in health and wellness. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; respected but sometimes challenged by traditional medical practitioners.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma**—Fárila faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Physician's Dilemma**—Fárila faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—Few; respected but sometimes challenged by traditional medical practitioners. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

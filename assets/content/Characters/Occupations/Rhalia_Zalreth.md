@@ -402,7 +402,7 @@ Rhália Zálreth is a 32-year-old woman who stands 5'7" tall and is of moderate 
 
 Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Rhália Zálreth came into the world of the pilot through a combination of circumstance and aptitude.
 
-Captain Elysia is an experienced pilot known for her exceptional navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Elysia is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
+Captain Elysia is an experienced pilot known for her navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Elysia is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
 
 ## Psyche
 
@@ -428,7 +428,7 @@ As a Élavendri pilot, Rhália occupies a recognized social niche within Élaven
 
 ### Patrons
 
-Rhália's primary patron is Merchants and adventurers seeking reliable air travel.. This relationship provides both opportunity and obligation.
+Rhália's primary patron is Merchants and adventurers seeking reliable air travel. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,7 +436,7 @@ Few; well-respected, but may face rivalry from less experienced pilots.
 
 ## Plot Hooks
 
-1. **The Pilot's Dilemma**—Rhália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Pilot's Dilemma**—Rhália faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few; well-respected, but may face rivalry from less experienced pilots. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

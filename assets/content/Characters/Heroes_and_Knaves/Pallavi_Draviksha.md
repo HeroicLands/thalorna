@@ -452,7 +452,7 @@ Pallāvi's primary drive is the integration of beauty and meaning. She believes 
 
 - **Understanding of Color and Harmony**: Her background in multiple crafts—ceramics, drawing, singing—combined with her dexterity and perception gives her an intuitive sense of visual harmony beyond technical skill.
 
-- **Meticulous Precision**: When focused, her dexterity and mathematical reasoning allow her to create work of extraordinary technical precision. Her mathematical skill also helps her understand proportion and spacing at a deep level.
+- **Precision**: When focused, her dexterity and mathematical reasoning allow her to create work of extraordinary technical precision. Her mathematical skill also helps her understand proportion and spacing at a deep level.
 
 - **Intellectual Depth**: Her ability to understand and interpret the philosophical and literary content of texts she transcribes means her work goes beyond copying to artistic interpretation.
 

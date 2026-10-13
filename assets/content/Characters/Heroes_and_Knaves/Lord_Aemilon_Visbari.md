@@ -416,7 +416,7 @@ Lord Aemilon Visbari presents the image of a distinguished Vylarian elder states
 
 The Visbari family has served the Vylarian imperial throne for generations, and Aemilon was groomed from boyhood for a life of quiet service. Officially, he trained at the Imperial College of Heralds in the capital, where he excelled in heraldry, genealogy, diplomacy, and the thousand small courtesies that oil the machinery of Vylarian noble society. Unofficially, his real education began afterward—years of travel across the empire's former provinces and the wider shores of the Vylarian Sea, during which he built and inherited a network of informants, agents, and assets woven through every level of society from [[place-provenzrgn|Provènzia]] to Tarûzel.
 
-When his father died over twenty years ago, Aemilon inherited the full weight of the family's secret vocation: spymaster to the Emperor. He has spent the decades since expanding the network, improving the speed and reliability of its communications, and quietly ensuring that certain secrets reach the imperial ear while others are buried forever. He is fluent in multiple languages of the [[place-midhalnrgn|Mídhalión Region]] and several scripts, including ciphers of his own devising, and his memory for names, faces, and relationships is legendary among those few who know what he truly does.
+When his father died over twenty years ago, Aemilon inherited the full weight of the family's secret vocation: spymaster to the Emperor. He has spent the decades since expanding the network, improving the speed and reliability of its communications, and quietly seeing that certain secrets reach the imperial ear while others are buried forever. He is fluent in multiple languages of the [[place-midhalnrgn|Mídhalión Region]] and several scripts, including ciphers of his own devising, and his memory for names, faces, and relationships is famous among those few who know what he truly does.
 
 Now in his fifties, Lord Aemilon faces a problem he cannot solve with information alone. He has no children, and the network must survive him—especially now, as the empire's power wanes and its enemies grow bolder. He has identified a candidate—a woman of uncommon ability—but training a successor requires time he may not have, and trust he finds difficult to extend. The limp that slows his step grows worse each year, a reminder that even spymasters grow old.
 
@@ -424,7 +424,7 @@ Now in his fifties, Lord Aemilon faces a problem he cannot solve with informatio
 
 ### Personality
 
-Lord Aemilon is courteous, measured, and deeply private. He has spent a lifetime cultivating the appearance of a benign, slightly tedious old herald—the sort of man people forget is in the room—and he plays this role with consummate skill. Beneath the surface, he is sharp, calculating, and occasionally ruthless, though he takes no pleasure in the harder aspects of his work. He has a genuine love of learning and can hold forth on Vylarian genealogy, the history of the empire's rise and decline, and the art of heraldic design with unfeigned enthusiasm. He treats servants and nobles with equal courtesy, which makes him popular and makes people want to talk to him—which is, of course, the point.
+Lord Aemilon is courteous, measured, and deeply private. He has spent a lifetime cultivating the appearance of a benign, slightly tedious old herald—the sort of man people forget is in the room—and he plays this role with consummate skill. Beneath the surface, he is sharp, calculating, and occasionally ruthless, though he takes no pleasure in the harder aspects of his work. He has a love of learning and can hold forth on Vylarian genealogy, the history of the empire's rise and decline, and the art of heraldic design with unfeigned enthusiasm. He treats servants and nobles with equal courtesy, which makes him popular and makes people want to talk to him—which is, of course, the point.
 
 ### Motivation
 
@@ -432,11 +432,11 @@ Aemilon serves the imperial throne out of deep family loyalty and a principled b
 
 ### Strengths
 
-His reasoning and creativity are extraordinary, allowing him to see connections others miss and devise solutions to seemingly impossible problems. His empathy makes him an exceptional judge of character, and his iron will keeps him steady under pressures that would break lesser men. His command skill reflects decades of quietly directing people who don't always know they're being directed. He is also still a competent swordsman, though age and his limp have slowed him.
+His reasoning and creativity are extraordinary, allowing him to see connections others miss and devise solutions to seemingly impossible problems. His empathy makes him a judge of character, and his iron will keeps him steady under pressures that would break lesser men. His command skill reflects decades of quietly directing people who don't always know they're being directed. He is also still a competent swordsman, though age and his limp have slowed him.
 
 ### Weaknesses
 
-Lord Aemilon's greatest weakness is his isolation. He has sacrificed personal relationships for the work, leaving him childless and with few genuine friends. His secrecy is so ingrained that he struggles to fully trust even those closest to him. His limp limits his mobility, and his age means he can no longer personally handle the more physical demands of intelligence work. He also carries secrets that could destroy powerful Vylarian families and foreign agents alike, making him a target for assassination if his true role were ever exposed.
+Lord Aemilon's greatest weakness is his isolation. He has sacrificed personal relationships for the work, leaving him childless and with few friends. His secrecy is so ingrained that he struggles to fully trust even those closest to him. His limp limits his mobility, and his age means he can no longer personally handle the more physical demands of intelligence work. He also carries secrets that could destroy powerful Vylarian families and foreign agents alike, making him a target for assassination if his true role were ever exposed.
 
 ## Social
 

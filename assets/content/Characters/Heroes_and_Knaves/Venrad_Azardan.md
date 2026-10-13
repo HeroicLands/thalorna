@@ -454,10 +454,10 @@ Venrâd is driven by a need to prove that the combination of instinct, skill, an
 
 ### Strengths
 
-- **Unmatched Piloting Skill**: Venrâd's intuitive understanding of wind, water, and weather is beyond that of any rival; he can navigate circumstances that would prove fatal to ordinary pilots.
+- **Piloting Skill**: Venrâd's intuitive understanding of wind, water, and weather is beyond that of any rival; he can navigate circumstances that would prove fatal to ordinary pilots.
 - **Extraordinary Physical Reflexes**: His dexterity and agility are among his most notable attributes; he can move with precision and speed that borders on the supernatural.
 - **Resourcefulness Under Pressure**: When circumstances deteriorate and conventional solutions fail, Venrâd's mind remains clear; he improvises brilliant solutions to seemingly impossible problems.
-- **Exceptional Melee Combat**: Though no trained warrior, his speed and reflexes make him a dangerous fighter in close combat, particularly aboard vessels where space is limited.
+- **Melee Combat**: Though no trained warrior, his speed and reflexes make him a dangerous fighter in close combat, particularly aboard vessels where space is limited.
 - **Climbing and Acrobatic Mastery**: His work aboard vessels has made him extraordinarily skilled at rapid movement through complex three-dimensional spaces, climbing rigging, and maintaining balance in difficult circumstances.
 
 ### Weaknesses

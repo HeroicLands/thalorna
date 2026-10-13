@@ -103,9 +103,9 @@ data:
         Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
-  seat: marendal
+  seat: ornethe
   population: 1000000
-  economy: [lore-vylrncrncy, affiliation-clgmrgntrrm, affiliation-magnumclgm]
+  economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: [kingdmtrvn]
   relations:
@@ -138,7 +138,7 @@ Galváren's political structure gives unusual influence to the shipmasters—cap
 
 ## Commerce and Currency
 
-Kingdom of Galváren uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Kingdom of Galváren is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Galváren uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kingdom of Galváren is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

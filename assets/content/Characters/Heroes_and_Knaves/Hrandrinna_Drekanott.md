@@ -464,7 +464,7 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 ### Strengths
 
-- **Exceptional Technical Skill Combined with Innovation**: Hrandrinna has mastered traditional thatching techniques, but unlike more conventional practitioners, she is willing to experiment, to try new approaches, and to take up new methods that improve the craft. Her roofs are both technically sound and aesthetically superior.
+- **Technical Skill Combined with Innovation**: Hrandrinna has mastered traditional thatching techniques, but unlike more conventional practitioners, she is willing to experiment, to try new approaches, and to take up new methods that improve the craft. Her roofs are both technically sound and aesthetically superior.
 
 - **Rapid Problem-Solving**: Her quick mind and willingness to think unconventionally mean she can adapt to unexpected challenges on the fly. When standard approaches fail, she finds alternatives that maintain quality while addressing new constraints.
 

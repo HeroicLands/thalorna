@@ -424,7 +424,7 @@ As a Helionite huscarl, Tàbîsa occupies a recognized social niche within Heli�
 
 ### Patrons
 
-Tàbîsa's primary patron is Lady Nìmaris and her household.. This relationship provides both opportunity and obligation.
+Tàbîsa's primary patron is Lady Nìmaris and her household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Some traditionalists who doubt her abilities.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Tàbîsa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Huscarl's Dilemma**—Tàbîsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 
 2. **Old Grudges**—Some traditionalists who doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

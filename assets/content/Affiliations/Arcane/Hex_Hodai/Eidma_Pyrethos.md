@@ -71,7 +71,7 @@ The Pyréthos mage perceives reality as a system of energies in tension—heat t
 
 This philosophy gives Pyréthos mages a reputation for aggression, which is not entirely undeserved but is also not the whole truth. The deeper principle of Pyréthos is _transformation through release_—the liberation of energy from the forms that contain it. A master of the school understands that fire illuminates as readily as it burns, that heat sustains life as readily as it ends it, and that the energy released by destruction can be shaped to build anew. The forge is as much a symbol of Pyréthos as the inferno.
 
-In practice, however, the Ordo tends to train its Pyréthos mages toward combat applications. Fire magic is the most immediately devastating of the six schools on the battlefield, and the [[affiliation-ordoarcanis|Quaesitorium]]—the Ordo's enforcement arm—draws disproportionately from the Sodalitas Pyréthos. This creates a self-reinforcing cycle: the school attracts bold, ambitious students; the Ordo channels those students into enforcement and military roles; and the school's reputation as the "warrior school" attracts more bold, ambitious students.
+In practice, however, the Ordo tends to train its Pyréthos mages toward combat applications. Fire magic is the most immediately devastating of the six schools on the battlefield, and the [[affiliation-ordoarcanis|Sekran]]—the Ordo's enforcement arm—draws disproportionately from the Sodalitas Pyréthos. This creates a self-reinforcing cycle: the school attracts bold, ambitious students; the Ordo channels those students into enforcement and military roles; and the school's reputation as the "warrior school" attracts more bold, ambitious students.
 
 ## The Opposition: Hydälis
 
@@ -89,9 +89,9 @@ The sympathy with Eídma Pneuménos is darker and more intense. Both schools are
 
 ## The Sodalitas Pyréthos
 
-The **Sodalitas Pyréthos**—the Fellowship of Fire—is among the most politically influential of the six Sodalitates. Its members are aggressive, ambitious, and well-represented in the Quaesitorium, which gives the fellowship disproportionate institutional power. When the Ordo needs to _do_ something—suppress a renegade, respond to a crisis, project force—it is often a Pyréthos mage who leads the effort.
+The **Sodalitas Pyréthos**—the Fellowship of Fire—is among the most politically influential of the six Sodalitates. Its members are aggressive, ambitious, and well-represented in the Sekran, which gives the fellowship disproportionate institutional power. When the Ordo needs to _do_ something—suppress a renegade, respond to a crisis, project force—it is often a Pyréthos mage who leads the effort.
 
-The fellowship's internal culture prizes decisiveness and personal power. Advancement within the Sodalitas is competitive, and the informal hierarchy among Fire mages is as much about demonstrated capability as formal rank. A young Adeptus who has distinguished themselves in a Quaesitorium operation may command more respect within the fellowship than a politically appointed Magister who has spent their career in an archive.
+The fellowship's internal culture prizes decisiveness and personal power. Advancement within the Sodalitas is competitive, and the informal hierarchy among Fire mages is as much about demonstrated capability as formal rank. A young Adeptus who has distinguished themselves in a Sekran operation may command more respect within the fellowship than a politically appointed Magister who has spent their career in an archive.
 
 This meritocratic streak makes the Sodalitas Pyréthos simultaneously one of the most dynamic and most unstable of the fellowships. Internal feuds are frequent and occasionally spectacular. The fellowship produces more than its share of Ordo leaders—and more than its share of disciplinary cases.
 

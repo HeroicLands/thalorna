@@ -462,9 +462,9 @@ Vishvāra is driven by loyalty to a way of life that he sees slowly disappearing
 
 ### Strengths
 
-- **Unparalleled Seafaring Expertise**: Vishvāra's knowledge of maritime navigation, vessel handling, weather prediction, and crew management is vast. There are few situations at sea that he has not encountered or learned how to handle.
+- **Seafaring Expertise**: Vishvāra's knowledge of maritime navigation, vessel handling, weather prediction, and crew management is vast. There are few situations at sea that he has not encountered or learned how to handle.
 - **Natural Leadership and Authority**: Though not formally trained in command, Vishvāra exerts effortless authority. Sailors trust his judgment implicitly and follow his orders without question.
-- **Exceptional Physical Capability**: At thirty-seven, Vishvāra remains extraordinarily strong and capable. His endurance is great, and he can perform physical feats that younger men struggle with.
+- **Physical Capability**: At thirty-seven, Vishvāra remains extraordinarily strong and capable. His endurance is great, and he can perform physical feats that younger men struggle with.
 - **Comprehensive Practical Knowledge**: Beyond seamanship, Vishvāra possesses competence in ship repair, navigation calculation, fishing, agriculture, and a host of practical survival skills that serve him throughout his life.
 - **Shrewd Judgment of Character**: Years of reading people in high-pressure situations have given Vishvāra an almost preternatural ability to assess trustworthiness and potential.
 
@@ -491,7 +491,7 @@ Shipping Industry Veterans
 Captain Garūnya the Reckless
 : A younger, ambitious captain who represents everything Vishvāra despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Garūnya viewing Vishvāra as an obstacle to progress.
 
-The Trade Efficiency Bureau
+The Trade Wardens
 : A new office of the crown charged with speeding maritime commerce has begun issuing rules that require faster sailing schedules and smaller crews. Vishvāra views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
 
 ### Affiliations

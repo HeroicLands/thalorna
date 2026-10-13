@@ -33,7 +33,7 @@ In the last century or two, merchants and reforming scholars have pushed a furth
 
 ## Who has it
 
-Professional scribes as a matter of course; tax officials; 20–35% of the nobility read it, more than read the sacred script. Merchants and guildsmen mostly do not, and hire. A Khelâthi scribe's literacy is a marketable trade, priced by the document, and the scribal families guard entry to it.
+Professional scribes as a matter of course; tax officials; about one noble in five reads it, more than read the sacred script. Merchants and guildsmen mostly do not, and hire. A Khelâthi scribe's literacy is a marketable trade, priced by the document, and the scribal families guard entry to it.
 
 ## In play
 

@@ -17,8 +17,8 @@ data:
 [[place-provenzrgn|Provènzia Region]]—a short, cliff-bound coast and the long river valley behind
 it, and the source of the finest peaches in Ankaris and some of its more highly regarded wine.
 
-The barony is held of the Crown at [[place-lunacorte|Lunacorte]] by **Álegar alrí Zûravel**, who is
-also Baron of [[place-kyvarel|Kývarel]], and who sits at [[place-mercadaure|Mercadaure]]. His clan's prominent support of
+The barony is held of the Crown at [[place-jalnazdal|Jalnazdàl]] by **Álegar alrí Zûravel**, who is
+also Baron of [[place-kyvarel|Kývarel]], and who sits at [[place-elthrembis|Elthrembìs]]. His clan's prominent support of
 the Order of the Burning Brand gives a small agricultural barony rather more weight in Provenzian
 affairs than its size would suggest.
 
@@ -50,7 +50,7 @@ the continent's western edge. Rocky cliffs stand above deep water and the wind o
 hard enough in winter to lay a man down, salt enough year-round to burn the leaves off anything
 tender. Nothing worth exporting grows here. What the coast has is fish—and it has them in
 extraordinary quantity, the cold water being far richer than the Vylarian—along with salt, and the
-only harbor, at [[place-portvent|Portvent]], reached by a cut in the cliff.
+only harbor, at [[place-volsather|Volsathèr]], reached by a cut in the cliff.
 
 **The valley.** Behind the coastal ridge the wind drops away and the land turns warm—hot, in high
 summer, in a way the shore never is. The contrast is the barony's defining fact and is severe enough
@@ -68,7 +68,7 @@ valley reckons the year by blossom and vintage, and the coast reckons it by the 
 
 The valley's wealth is made by **water**. A system of channels—the _règa_—carries river water along
 the terrace lines to every orchard and vineyard in turn, and water-turns are allotted by custom,
-recorded at Mercadaure, and the single most litigated property in the barony. A family's water-turn is
+recorded at Elthrembìs, and the single most litigated property in the barony. A family's water-turn is
 worth more than its house.
 
 The coast's living is made by **wind**, and grudgingly. It drives the salt pans dry, it dries the fish,
@@ -79,7 +79,7 @@ fruit is what the valley is sheltered from.
 ### The Fog
 
 Cold water against a hot land makes fog, and through the summer it comes in off the ocean most
-mornings, drowns Portvent to the masts, climbs the cliff—and stops at the ridge. The valley watches
+mornings, drowns Volsathèr to the masts, climbs the cliff—and stops at the ridge. The valley watches
 it arrive and go no further almost every day of the growing season.
 
 Coastal Zûravlen therefore lives half the summer in a gray chill while the terraces four miles inland
@@ -94,7 +94,7 @@ is done in winter by men whose families have done nothing else for generations. 
 bearing in its fourth year and is finished by its twentieth, so a third of the barony's orchards are
 always young, and the Zûravlen describe an orchard by its age before anything else.
 
-**Fresh fruit does not travel**—overland. A peach picked at Vergéval is worth a fortune in Válaren
+**Fresh fruit does not travel**—overland. A peach picked at Palnebrìs is worth a fortune in Válaren
 and worthless four days later, which for most of the barony's history meant the fresh trade was a
 prestige trade and nothing more. What left the valley in quantity was preserved:
 
@@ -106,7 +106,7 @@ prestige trade and nothing more. What left the valley in quantity was preserved:
   almond flavor.
 - **Peach spirit**, distilled in small quantities under the apothecaries' eye, expensive and medicinal.
 
-**Portvent has changed that**, and the barony has not finished arguing about it. A fast boat out of the
+**Volsathèr has changed that**, and the barony has not finished arguing about it. A fast boat out of the
 harbor reaches ports no rider could, and fresh Zûravlen fruit now appears on tables that had only ever
 seen it dried. Every basket that leaves fresh is a basket that does not pay the baron's drying share—which is his largest single income—so the harbor and the yards are, quietly, in competition, and
 everyone concerned is aware of who owns which.
@@ -115,7 +115,7 @@ everyone concerned is aware of who owns which.
 
 Vines climb the same terraces the peaches do, generally above them where the ground is stoniest and the
 fruit trees will not thrive, and Zûravlen wine is well regarded across Provènzia without ever quite
-being fashionable in Lunacorte.
+being fashionable in Jalnazdàl.
 
 The vine is the barony's answer to its own worst problem. **Vintage falls in autumn, after the peach
 harvest is in**, so the two crops share terraces and terracing without ever competing for hands at the
@@ -136,7 +136,7 @@ an orchard has seen it in August.
 - **Wool and cheese**—flocks go up to the hill pastures for the summer and come down in autumn. Wool
   is the steadiest income in the barony and the most reliable, since it does not spoil and does not
   care about frost. Ewe's-milk cheese is pressed in the uplands and sold at the autumn fair.
-- **Fish and salt**—the coastal living. Salt from the pans above Portvent goes to the fish, to the
+- **Fish and salt**—the coastal living. Salt from the pans above Volsathèr goes to the fish, to the
   cheese, and increasingly into the preserving trades inland, which had bought it from outside for
   generations and resents having a local monopoly instead.
 - **Honey and wax**—bee-boles beside every orchard. Nobody in Zûravlen will explain why beyond that
@@ -161,18 +161,18 @@ argues about it.
 | Late spring  | Thinning the set fruit—brutal, unpopular, and the whole crop depends on it       | Salt drying; the fleet out                    |
 | Summer       | Flocks up to the hills; the early varieties come in                              | The pans at their best                        |
 | Late summer  | **Harvest**; the drying yards run day and night; the fast boats sail nightly     | Every hull in the barony carrying fruit       |
-| Autumn       | **Vintage**; the Mercadaure fair; flocks come down; the wool clip goes to market | The last good sailing; salt carted inland     |
+| Autumn       | **Vintage**; the Elthrembìs fair; flocks come down; the wool clip goes to market | The last good sailing; salt carted inland     |
 
 ## The Frost Vigil
 
 A late frost during blossom destroys the year, and everyone in the valley knows it. On nights when
-frost threatens, the bells at Mercadaure are rung and the whole valley turns out to light **smudge
+frost threatens, the bells at Elthrembìs are rung and the whole valley turns out to light **smudge
 fires** along the terrace rows—damp straw and prunings, banked to smoke rather than burn—and to
 keep them going until dawn. From the ridge the valley appears to be alight from end to end.
 
 It is the sheltered ground that frosts. Still, clear nights let the cold air drain off the uplands and
 pool on the valley floor, while the coast a few miles away—wind-stirred and warmed by the sea—scarcely frosts at all. So the vigil is the valley's business and not the shore's, and the people of
-Portvent are not called to it and do not come. The valley has never entirely forgiven them for a
+Volsathèr are not called to it and do not come. The valley has never entirely forgiven them for a
 distinction neither side chose.
 
 The vigil is a religious occasion as much as an agricultural one. Priests of
@@ -189,16 +189,16 @@ golden fruit and who is honored at harvest with the first-picked basket of every
 hold that the two goddesses divide the year between them, and that Ólvenía gets the credit for what
 Lîzêlâs saved.
 
-Portvent keeps its own observances, which are for the weather and the sea and are not much discussed
+Volsathèr keeps its own observances, which are for the weather and the sea and are not much discussed
 inland.
 
 ## Settlements
 
-- [[place-mercadaure|Mercadaure]]—the market town and the baron's seat, where the fruit is
+- [[place-elthrembis|Elthrembìs]]—the market town and the baron's seat, where the fruit is
   graded, packed and sold, and where the autumn fair is held.
-- [[place-portvent|Portvent]]—the harbor at the foot of the cliff: fish, salt, and the fast
+- [[place-volsather|Volsathèr]]—the harbor at the foot of the cliff: fish, salt, and the fast
   boats that are quietly undoing the drying yards.
-- [[place-vergeval|Vergéval]]—the great orchard manor of the upper terraces, and the richest and
+- [[place-palnebris|Palnebrìs]]—the great orchard manor of the upper terraces, and the richest and
   most anxious place in the barony.
 - [[place-blavera|Blavéra]]—a mixed manor of the valley floor: grain, fold and a little fruit.
   The ordinary model, and the one most of Zûravlen actually resembles.
@@ -208,7 +208,7 @@ inland.
 ## Adventuring in Zûravlen
 
 The barony is small, rich, and utterly dependent on a crop that can be destroyed in one cold night—which makes it unusually easy to hurt and unusually worth hurting. Water-turns, folding rights,
-drying-yard shares, salt, the harbor cut and the grading table at Mercadaure are all worth killing
+drying-yard shares, salt, the harbor cut and the grading table at Elthrembìs are all worth killing
 over on a small scale, and all of them are written down somewhere that could be altered. See
 [[scenario-pechszrvln|The Peaches of Zûravlen]].
 

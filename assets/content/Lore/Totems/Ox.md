@@ -14,7 +14,7 @@ Strong and dependable, oxen are resilient animals used in agriculture for their 
 
 ## Human Personality
 
-Reliable and resilient, this person is often seen as the backbone in any group. They carry heavy responsibilities without complaint and are known for their unwavering strength.
+The Ox person is the backbone of any group. Heavy responsibilities are carried without complaint, and the strength is well known.
 
 - **Physical:** Extremely strong, robust frame; steady and solid stance.
 - **Behavioral:** Dependable, reliable under pressure, does not tire easily.

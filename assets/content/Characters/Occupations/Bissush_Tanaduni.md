@@ -417,7 +417,7 @@ Skilled at using local ingredients to create delicious dishes, strong work ethic
 
 ## Social
 
-Bîssûsh is affiliated with None, works independently at the tavern..
+Bîssûsh is affiliated with None, works independently at the tavern.
 
 As a Tarûzelian cook, Bîssûsh occupies a recognized social niche within Tarûzel society.
 
@@ -425,7 +425,7 @@ As a Tarûzelian cook, Bîssûsh occupies a recognized social niche within Tarû
 
 ### Patrons
 
-Bîssûsh's primary patron is Travelers and locals who frequent the tavern.. This relationship provides both opportunity and obligation.
+Bîssûsh's primary patron is Travelers and locals who frequent the tavern. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ None; he is well-liked and friendly with competitors.
 
 ## Plot Hooks
 
-1. **The Cook's Dilemma**—Bîssûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Cook's Dilemma**—Bîssûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—None; he is well-liked and friendly with competitors. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

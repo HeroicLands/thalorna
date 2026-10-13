@@ -57,7 +57,7 @@ Provenzal is written in the [[skill-semrnscrpt|Sêmarion]], the Vylarian alphabe
 
 The borrowing shows where the letters run out. The Sêmarion sets one sign to one sound and has no sign for a nasal vowel, so Provenzal's phonemic ã, ẽ and õ arrived with nothing of their own to be written in. What made the fit possible is that Provenzal carries length by doubling the vowel or diphthongizing it and never needed the bar the imperial letters set above a long vowel: the mark was standing idle, and Provenzal scribes took it for the nasal. A Vylarian reading a Provenzal page therefore reads every nasal as a long vowel, which is the most frequent misreading in cross-border correspondence and the reason a careful Provenzal clerk spells a nasal out in full whenever the letter is bound for an imperial reader.
 
-True literacy is confined to the clergy, professional scribes, and perhaps 20-35% of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provènzia's commercial orientation means that merchant guildsmen often possess functional literacy—enough to recognize trade marks, prices, and simple labels—but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
+True literacy is confined to the clergy, professional scribes, and perhaps a third of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provènzia's commercial orientation means that merchant guildsmen often possess functional literacy—enough to recognize trade marks, prices, and simple labels—but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
 
 ## Élavendri Influence
 
@@ -84,9 +84,9 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 
 ## Regional Dialects
 
-**Còtière (Urban Coast):** The prestige dialect of major trading cities like Lunacòrte and Belpòrte. The most standardized form, used in literature and formal commerce. Shows greatest Vylari influence.
+**Còtière (Urban Coast):** The prestige dialect of major trading cities like Jalnazdàl and Kalvèza. The most standardized form, used in literature and formal commerce. Shows greatest Vylari influence.
 
-**Montànhe (Mountain Interior):** Spoken in inland regions such as Monvèrdre and smaller highland towns. Preserves archaic vowel patterns and shows greater Élavendri influence. More nasal vowels and different stress patterns than coastal speech.
+**Montànhe (Mountain Interior):** Spoken in inland regions such as Palvòthe and smaller highland towns. Preserves archaic vowel patterns and shows greater Élavendri influence. More nasal vowels and different stress patterns than coastal speech.
 
 **Parlàge dou Pòrt (Port Dialect):** A pidgin-like simplification used between multilingual merchants, showing greatest mixture of Vylari and Élavendri elements. Technically a register rather than a dialect.
 
@@ -118,11 +118,11 @@ The tradition of "love names" is widespread: a person might grant an intimate fr
 
 #### Male Names
 
-Áldrik, Âvenar, Árvald, Bjársen, Brýgar, Dâlenar, Éltan, Fálgrik, Fjálrik, Gjârlen, Háren, Hârlak, Hávral, Ílnar, Ísselrik, Jârvel, Kâlrik, Kjôrvan, Krâlen, Lârsten, Mârlen, Nýlrik, Óskar, Pâdran, Rýgar, Sálven, Skârik, Stâvrik, Thâven, Thôrlin, Tôrvald, Týren, Úrkar, Várlan, Vélarik, Vôrnan, Ylârven, Ýdrik, Zálren, Zyrík, Hârthon, Mârikel, Brálnis, Kýrvek, Hvôrlen, Târlig, Ârvelis, Lôden, Stálrik, Póverik
+Áldrik, Âvenar, Árvald, Bjársen, Brýgar, Dâlenar, Éltan, Fálgrik, Fjálrik, Gjârlen, Háren, Hârlak, Hávral, Ílnar, Ísselrik, Jârvel, Kâlrik, Kjôrvan, Krâlen, Lârsten, Mârlen, Nýlrik, Órdan, Pâdran, Rýgar, Sálven, Skârik, Stâvrik, Thâven, Thôrlin, Tôrvald, Týren, Úrkar, Várlan, Vélarik, Vôrnan, Ylârven, Ýdrik, Zálren, Zyrík, Hârthon, Mârikel, Brálnis, Kýrvek, Hvôrlen, Târlig, Ârvelis, Lôden, Stálrik, Póverik
 
 #### Female Names
 
-Áeryn, Ârnela, Bjána, Brýlene, Chélyra, Dárysa, Élmera, Éshara, Êlynna, Fárila, Fléna, Frýsala, Gália, Glýna, Hálisè, Hélva, Ídrisè, Ílyra, Jâvelyn, Jórisa, Kályra, Kêlena, Kyéra, Lánaèl, Líresè, Lýraen, Márenys, Mâlsa, Mirýra, Nílara, Órnela, Péralyn, Rávina, Ríssela, Sélvara, Sýlana, Tálisè, Tênara, Thályra, Úresla, Válina, Vérynna, Vólyra, Ydráen, Zárwyn, Zélyna, Zýraen, Árisla, Glývè, Pálara
+Áeryn, Ârnela, Bjána, Brýlene, Chélyra, Dárysa, Élmera, Éshara, Êlynna, Fárila, Fléna, Frýsala, Ilvéna, Glýna, Hálisè, Hélva, Ídrisè, Ílyra, Jâvelyn, Jórisa, Kályra, Kêlena, Kyéra, Lánaèl, Líresè, Lýraen, Márenys, Mâlsa, Mirýra, Nílara, Órnela, Péralyn, Rávina, Ríssela, Sélvara, Sýlana, Tálisè, Tênara, Thályra, Úresla, Válina, Vérynna, Vólyra, Ydráen, Zárwyn, Zélyna, Zýraen, Árisla, Glývè, Pálara
 
 #### Clan Names
 
@@ -132,7 +132,7 @@ Brânwyld, Kórisvar, Thjârdon, Lýskal, Hârvenar, Stýlgon, Gjârlen, Válsky
 
 #### Male Names
 
-Ándren, Áryl, Bâlden, Bályr, Bárnek, Brýlon, Cáreden, Chárvik, Dárenis, Dêlrik, Érdan, Êlaren, Fólmir, Gárden, Gwýrlen, Hális, Hêndrel, Írdan, Ílwár, Jênrik, Kárven, Kýlanor, Lárden, Lûmir, Márek, Mâldon, Nýlden, Óranth, Rálthen, Rhárvik, Rýlden, Sálrik, Sírdon, Tárvel, Tháryn, Tólwen, Úlwèn, Vârdris, Vélnar, Zárken, Pórgen, Gárlen, Brývek, Nárwin, Thálvek, Kýrath, Stólan, Írdrel, Válten, Yléndor
+Ádrel, Áryl, Bâlden, Bályr, Bárnek, Brýlon, Cáreden, Chárvik, Dárenis, Dêlrik, Érdan, Êlaren, Fólmir, Gárden, Gwýrlen, Hális, Hêndrel, Írdan, Ílwár, Jênrik, Kárven, Kýlanor, Lárden, Lûmir, Sóren, Mâldon, Nýlden, Óranth, Rálthen, Rhárvik, Rýlden, Sálrik, Sírdon, Tárvel, Tháryn, Tólwen, Úlwèn, Vârdris, Vélnar, Zárken, Pórgen, Gárlen, Brývek, Nárwin, Thálvek, Kýrath, Stólan, Írdrel, Válten, Yléndor
 
 #### Female Names
 

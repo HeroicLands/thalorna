@@ -1,0 +1,18 @@
+---
+shortcode: bit
+name: {full: Vylarian Ogdel, aliases: ["Ogdel", "Bit"]}
+type: miscgear
+description: "Physical eighth of a Ardin; the everyday small-denomination imperial coin."
+tags: [jewelry_cash]
+data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+sohl:
+  craft: {skill: mtlc, secondary: []}
+  kbcat: cash
+  system: {weightBase: 0.0004, valueBase: 0.125, qualityBase: 0, durabilityBase: 3}
+---
+
+An eighth of a Ardin, either cut from the parent coin along the eight-segment pattern struck into its reverse or produced ready-struck at the imperial and provincial mints. A cut Ogdel is a wedge, triangular in outline; a struck one is cleaner and more uniformly weighted.
+
+Cutting is done by moneylenders, shopkeepers, and anyone with a sharp blade and a need to make change. A coin with all eight wedges taken from it leaves a small central remnant, returned by convention to a moneylender or to the Tarmex for re-striking. The two forms pass interchangeably in casual use; formal contracts recognize only mint-struck pieces at face.
+
+This is the coin of ordinary days—a loaf, a tankard, a porter's tip.

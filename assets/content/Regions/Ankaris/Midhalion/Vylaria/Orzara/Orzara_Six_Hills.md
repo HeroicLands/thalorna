@@ -16,22 +16,22 @@ A bearer who has carried firewood, water and wine up the hill-lanes for thirty y
 
 ## The Hills
 
-- [[place-monsaquila|Mons Aquila]], the Eagle Hill, is the highest. The walled [[place-urbsaquiln|Inner City]] and the [[place-palatimgnm|Grand Palace]] crown it.
-- **Mons Corónus** (the Coronal) and [[place-monslaurine|Mons Lauríne]] (the Laurel) are the twin patrician hills that together make **the Heights**. Corónus is the older and prouder, ringed with the ancestral villas of the senatorial houses; Lauríne is greener and newer, and the **Gilded Quarter** climbs its lower slopes.
-- **Mons Sápiens**, the Scholars' Hill, carries the [[affiliation-panepistmm|Scholars' District]] and the **Circle of Mârendâs**.
-- [[place-monsvetus|Mons Vétus]], the Old Hill, was the Republic's city before the Founder walled Aquila ([[lore-eaglecityrse|The Raising of the Eagle City]]), and was once second only to it. Its early monuments weather unrepaired, its great families have drifted to Lauríne after [[lore-greatburnng|The Great Burning]] ran over it, and its once-proud Circle has gone shabby, dignified still but visibly fading.
-- **Mons Rípae**, the River Hill, is the crowded working height above the wharves, its slopes packed with the densest of the **Warrens**.
+- [[place-arvel|Arvel]], the Eagle Hill, is the highest. The walled [[place-arvon|Inner City]] and the [[place-palvar|Grand Palace]] crown it.
+- **Torvel** (the Coronal) and [[place-selvin|Selvin]] (the Laurel) are the twin patrician hills that together make **the Heights**. Torvel is the older and prouder, ringed with the ancestral villas of the senatorial houses; Selvin is greener and newer, and the **Gilded Quarter** climbs its lower slopes.
+- **Mernel**, the Scholars' Hill, carries the [[affiliation-panepistmm|Scholars' District]] and the **Circle of Mârendâs**.
+- [[place-antel|Antel]], the Old Hill, was the Republic's city before the Founder walled the Eagle Hill ([[lore-eaglecityrse|The Raising of the Eagle City]]), and was once second only to it. Its early monuments weather unrepaired, its great families have drifted to the Laurel after [[lore-greatburnng|The Great Burning]] ran over it, and its once-proud Circle has gone shabby, dignified still but visibly fading.
+- **Nerval**, the River Hill, is the crowded working height above the wharves, its slopes packed with the densest of the **Warrens**.
 
 ## Between the Hills
 
-The saddles, valleys and riverside flats between the hills carry the city's daily business: the **Grand Market** on the central flats, the **Wharves** beneath Mons Rípae, and the [[place-rathaunamelvar|Râthaunâ Mêlvar]] along the valley between Vétus and Rípae. As a rule the high ground is prized and the low ground is dense, busy and poorer, except where the river makes the wharves rich.
+The saddles, valleys and riverside flats between the hills carry the city's daily business: the **Grand Market** on the central flats, the **Wharves** beneath Nerval, and the [[place-rathaunamelvar|Râthaunâ Mêlvar]] along the valley between Antel and Nerval. As a rule the high ground is prized and the low ground is dense, busy and poorer, except where the river makes the wharves rich.
 
 The hills explain where the city's twelve Circles fall. A Circle is three hundred yards of level pavement, and level ground is what a hilly city is short of, so the Circles sit on the broader hilltops, in the saddles and on the river flats, never on the grades. The avenues that string them together run to irregular lengths and bearings as they climb and descend.
 
 ## See Also
 
 - [[place-orzara|Ôrzâra]]—the city on the hills
-- [[place-monsaquila|Mons Aquila]]—the highest hill and the Inner City
-- [[place-monslaurine|Mons Lauríne]]—one of the Heights
-- [[place-monsvetus|Mons Vétus]]—the Old Hill, where the Republic's city stood
+- [[place-arvel|Arvel]]—the highest hill and the Inner City
+- [[place-selvin|Selvin]]—one of the Heights
+- [[place-antel|Antel]]—the Old Hill, where the Republic's city stood
 - [[place-vylarisrvr|River Vylaris]]—the river below them

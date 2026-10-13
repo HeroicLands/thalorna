@@ -447,7 +447,7 @@ Thirye is driven by an insatiable hunger to create beauty and truthfulness in ar
 
 ### Strengths
 
-- **Transcendent Performance**: An actress of rare gifts, capable of inhabiting characters with such completeness that audiences report real emotional experiences; her performances have been known to leave spectators weeping or shaken for days afterward.
+- **Performance**: An actress of rare gifts, capable of inhabiting characters with such completeness that audiences report real emotional experiences; her performances have been known to leave spectators weeping or shaken for days afterward.
 
 - **Emotional Acrobatics**: Possesses an almost superhuman ability to access and express the full spectrum of human emotion on demand, shifting between contradictory emotional states with disconcerting swiftness and authenticity.
 

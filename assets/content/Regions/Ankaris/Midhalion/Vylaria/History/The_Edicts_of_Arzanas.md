@@ -3,7 +3,7 @@ shortcode: arzanasedict
 name: {full: The Edicts of Arzánas, aliases: [The Great Refounding, The Refounding of Arzánas]}
 type: lore
 subType: history
-description: "Between about 418 and 425 AF the second Augustar of the Restoration, Arzánas, closes the western conquests by edict and founds the Magnum Collegium, constitutes the Curia Fiscalis, makes the Aerarium the central bank of the note system, rebuilds the Palatium and lines the Via Triumphalis with three centuries of trophies."
+description: "Between about 418 and 425 AF the second Ôrzâs of the Restoration, Arzánas, closes the western conquests by edict and founds the Tevran Maldor, constitutes the Tolvan, makes the Tarmex the central bank of the note system, rebuilds the Palvar and lines the Paldor with three centuries of trophies."
 tags: [history, vylaria, restoration]
 data:
   culture: vylarianclt
@@ -16,35 +16,35 @@ data:
       depth: region
       sources:
         - affiliation-vylarinmpr
-        - affiliation-magnumclgm
-        - affiliation-curiafscls
-        - affiliation-aerarimmpr
-        - affiliation-clgmrgntrrm
-        - place-palatimgnm
+        - affiliation-tevran
+        - affiliation-tolvan
+        - affiliation-tarmex
+        - affiliation-danvar
+        - place-palvar
         - place-orzara
       summary: >-
-        Arzánas, the second Augustar of the Restoration, closes the western conquests by edict. He founds the Magnum Collegium to put every conquered city's guilds under one charter, constitutes the Curia Fiscalis and its tax-farmers, makes the Aerarium the central bank of the note system and builds its strongroom, rebuilds the Palatium, and lines the rebuilt Via Triumphalis with the trophies of three centuries of conquest.
+        Arzánas, the second Ôrzâs of the Restoration, closes the western conquests by edict. He founds the Tevran Maldor to put every conquered city's guilds under one charter, constitutes the Tolvan and its tax-farmers, makes the Tarmex the central bank of the note system and builds its strongroom, rebuilds the Palvar, and lines the rebuilt Paldor with the trophies of three centuries of conquest.
       standing: attested
       names:
         - {name: the Edicts of Arzánas, by: affiliation-vylarinmpr}
         - name: the Refounding
-          by: affiliation-magnumclgm
+          by: affiliation-tevran
           gloss: the guilds' name for the charter that made them one body
       where:
         locus: [place-orzara]
         reach:
-          - place: place-palatimgnm
+          - place: place-palvar
             how: >-
-              the Palatium stands in the shape the second Augustar gave it
+              the Palvar stands in the shape the second Ôrzâs gave it
             knowledge: named
           - place: place-orzara
             how: >-
-              the Via Triumphalis is lined with the trophies of the Western Wars, and the Officia houses the treasury and the Fiscal Court
+              the Paldor is lined with the trophies of the Western Wars, and the Offices houses the treasury and the Fiscal Court
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: author}
-        - {ref: affiliation-magnumclgm, role: instrument}
-        - {ref: affiliation-curiafscls, role: instrument}
+        - {ref: affiliation-tevran, role: instrument}
+        - {ref: affiliation-tolvan, role: instrument}
       follows:
         - event: "lore-restorehouse#restoration"
           how: enabled
@@ -55,9 +55,9 @@ data:
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            The second Augustar of the Restoration gave the Empire the institutions by which it still governs itself.
+            The second Ôrzâs of the Restoration gave the Empire the institutions by which it still governs itself.
           agrees: full
-        - by: affiliation-clgmrgntrrm
+        - by: affiliation-danvar
           says: >-
             The House of Calventian was founded to bank the rebuilding and has banked everything since.
           agrees: partly
@@ -65,29 +65,29 @@ data:
         - which edict closed the western conquests, and whether it was one edict or several
 ---
 
-A junior clerk of the Magnum Collegium, copying the preamble of the guilds' charter for the hundredth time, is stopped by an older colleague at the line that names the Augustar. "Read the date aloud," the older clerk says. "Three centuries and a few years. Everything in this building, the building itself and the Curia down the corridor, was put there by one Augustar in seven years."
+A junior clerk of the Tevran Maldor, copying the preamble of the guilds' charter for the hundredth time, is stopped by an older colleague at the line that names the Ôrzâs. "Read the date aloud," the older clerk says. "Three centuries and a few years. Everything in this building, the building itself and the Seldan down the corridor, was put there by one Ôrzâs in seven years."
 
 ## The Closing of the Conquests
 
-About 418 the second Augustar of the Restoration house, **Arzánas**, ended the wars of three centuries ([[lore-westernwars|The Western Wars]]) by edict. The legions held what they held, and the chancery's maps held the rest. Arzánas was the first Augustar of his house to rule long enough to build, and the edict that closed the frontier opened the work.
+About 418 the second Ôrzâs of the Restoration house, **Arzánas**, ended the wars of three centuries ([[lore-westernwars|The Western Wars]]) by edict. The legions held what they held, and the chancery's maps held the rest. Arzánas was the first Ôrzâs of his house to rule long enough to build, and the edict that closed the frontier opened the work.
 
 ## The Machinery
 
 Over seven years he gave the Empire its present institutions.
 
-- **The Magnum Collegium.** Arzánas put the guilds of every conquered city under one charter, so that the Empire could regulate, tax and rely on them as a single system ([[affiliation-magnumclgm|Magnum Collegium]]).
-- **The Curia Fiscalis.** He constituted the Fiscal Court and the Publicarii who collect for it ([[affiliation-curiafscls|Curia Fiscalis]]).
-- **The Aerarium.** He made the treasury the central bank of the note system and built the strongroom that has held the bullion since ([[affiliation-aerarimmpr|Aerarium Imperii]]).
-- **The Palatium.** He rebuilt the palace on the hill ([[place-palatimgnm|Palatium Magnum]]).
-- **The Via Triumphalis.** He lined the rebuilt avenue with the trophies of three centuries of conquest, so that every embassy walks the length of the Empire's boast.
+- **The Tevran Maldor.** Arzánas put the guilds of every conquered city under one charter, so that the Empire could regulate, tax and rely on them as a single system ([[affiliation-tevran|Tevran Maldor]]).
+- **The Tolvan.** He constituted the Fiscal Court and the Tolari who collect for it ([[affiliation-tolvan|Tolvan]]).
+- **The Tarmex.** He made the treasury the central bank of the note system and built the strongroom that has held the bullion since ([[affiliation-tarmex|Tarmex Orzan]]).
+- **The Palvar.** He rebuilt the palace on the hill ([[place-palvar|Palvar]]).
+- **The Paldor.** He lined the rebuilt avenue with the trophies of three centuries of conquest, so that every embassy walks the length of the Empire's boast.
 
 ## What Paid for It
 
-The treasury Makândas had spent on peace was empty, and the rebuilding was banked. The **House of Calventian**, founded in Ôrzâra to carry the debt, lent the Augustar the money and has been the largest of the great banking houses since ([[affiliation-clgmrgntrrm|Collegium Argentariorum]]).
+The treasury Makândas had spent on peace was empty, and the rebuilding was banked. The **House of Calventian**, founded in Ôrzâra to carry the debt, lent the Ôrzâs the money and has been the largest of the great banking houses since ([[affiliation-danvar|Danvar]]).
 
 ## What It Left
 
-- **The Empire's machinery.** Almost every institution that governs the Empire today is the second Augustar's, with a few additions.
+- **The Empire's machinery.** Almost every institution that governs the Empire today is the second Ôrzâs's, with a few additions.
 - **"Three centuries ago."** The phrase the Empire's notes give for its guilds, its fiscal court and its central bank.
 - **The House of Calventian.** The great bank that financed the rebuilding.
 
@@ -95,4 +95,4 @@ The treasury Makândas had spent on peace was empty, and the rebuilding was bank
 
 - [[lore-restorehouse|The Restoration]]—the house Arzánas belonged to
 - [[lore-westernwars|The Western Wars]]—the conquests the edict closed
-- [[affiliation-magnumclgm|Magnum Collegium]] · [[affiliation-curiafscls|Curia Fiscalis]] · [[affiliation-aerarimmpr|Aerarium Imperii]]
+- [[affiliation-tevran|Tevran Maldor]] · [[affiliation-tolvan|Tolvan]] · [[affiliation-tarmex|Tarmex Orzan]]

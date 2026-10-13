@@ -34,7 +34,7 @@ data:
             how: its lords covet the road into the hills, where the Black Flame's relic is said to lie
             knowledge: named
           - place: place-provenzrgn
-            how: the Sacred Forge keeps the greatest political influence it holds anywhere in the province where the Flame was beaten, and its Grand Pontifex resides there
+            how: the Sacred Forge keeps the greatest political influence it holds anywhere in the province where the Flame was beaten, and its Hamsarn resides there
             knowledge: named
       who:
         - {ref: affiliation-blackflame, role: actor}
@@ -91,7 +91,7 @@ The Forge made the battle its own. It had beaten the Flame at the cost of its kn
 
 - **The Blood Hills.** A blood-field east of Céravel ([[place-bloodhills|The Blood Hills]]).
 - **The Gashang shrine.** A cave the zealots made, whose traps still guard the relic ([[scenario-maulgashng|The Maul of Gashang]]).
-- **The Forge's standing in Provènzia.** The faith's greatest influence and the seat of its Grand Pontifex.
+- **The Forge's standing in Provènzia.** The faith's greatest influence and the seat of its Hamsarn.
 
 ## See Also
 

@@ -35,4 +35,4 @@ Imhoqar is a 42-year-old man who stands 5'9" tall with a light build. He has ebo
 
 # Dossier {#dossier}
 
-Imhoqar serves as Imperial treasurer out of [[place-galezkara|Galezkara]], with a hand on every account the empire keeps. Patronage from this office is worth more than most formal titles. Anyone seeking advancement learns quickly that Imhoqar's good word matters more than rank alone.
+Imhoqar is Imperial treasurer out of [[place-galezkara|Galezkara]], with a hand on every account the empire keeps. Patronage from this office is worth more than most formal titles. Anyone seeking advancement learns quickly that Imhoqar's good word matters more than rank alone.

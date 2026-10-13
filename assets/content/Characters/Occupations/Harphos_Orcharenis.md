@@ -399,7 +399,7 @@ Harphôs Ôrchârenîs is a 38-year-old man who stands 5'10" tall and is of mode
 
 Born in the [[place-vylariargn|Vylaría]] region to a guilded family of Vylarian heritage, Harphôs Ôrchârenîs came into the world of the chandler through a combination of circumstance and aptitude.
 
-Harphôs operates a bustling candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harphôs is always looking for ways to expand his business.
+Harphôs operates a candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harphôs is always looking for ways to expand his business.
 
 ## Psyche
 
@@ -425,7 +425,7 @@ As a Vylarian chandler, Harphôs occupies a recognized social niche within Vylar
 
 ### Patrons
 
-Harphôs's primary patron is Local nobles who purchase scented candles for their homes.. This relationship provides both opportunity and obligation.
+Harphôs's primary patron is Local nobles who purchase scented candles for their homes. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Competitors who resent his aggressive business tactics.
 
 ## Plot Hooks
 
-1. **The Chandler's Dilemma**—Harphôs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Chandler's Dilemma**—Harphôs faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Competitors who resent his aggressive business tactics. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

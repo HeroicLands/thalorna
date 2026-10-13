@@ -417,7 +417,7 @@ Highly knowledgeable about horses, strong leadership skills, good organizer.
 
 ## Social
 
-Chânkhor is affiliated with None; works independently for the inn..
+Chânkhor is affiliated with None; works independently for the inn.
 
 As a Helionite ostler, Chânkhor occupies a recognized social niche within Heliónis society.
 
@@ -425,7 +425,7 @@ As a Helionite ostler, Chânkhor occupies a recognized social niche within Heli�
 
 ### Patrons
 
-Chânkhor's primary patron is Local innkeepers and merchants needing horse care services.. This relationship provides both opportunity and obligation.
+Chânkhor's primary patron is Local innkeepers and merchants needing horse care services. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; generally respected but sometimes viewed as traditionalist.
 
 ## Plot Hooks
 
-1. **The Ostler's Dilemma**—Chânkhor faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Ostler's Dilemma**—Chânkhor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Few; generally respected but sometimes viewed as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

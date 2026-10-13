@@ -425,7 +425,7 @@ As a Helionite timberwright, Chánnâon occupies a recognized social niche withi
 
 ### Patrons
 
-Chánnâon's primary patron is Builders and craftsmen who value his expertise.. This relationship provides both opportunity and obligation.
+Chánnâon's primary patron is Builders and craftsmen who value his expertise. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Younger timberwrights who see his methods as outdated.
 
 ## Plot Hooks
 
-1. **The Timberwright's Dilemma**—Chánnâon faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Timberwright's Dilemma**—Chánnâon faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Younger timberwrights who see his methods as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

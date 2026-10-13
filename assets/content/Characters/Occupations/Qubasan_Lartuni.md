@@ -424,7 +424,7 @@ As a Tarûzelian scribe, Qubâsan occupies a recognized social niche within Tar�
 
 ### Patrons
 
-Qubâsan's primary patron is Local villagers, farmers, and tradespeople seeking documentation.. This relationship provides both opportunity and obligation.
+Qubâsan's primary patron is Local villagers, farmers, and tradespeople seeking documentation. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Few; generally well-liked, though some may take advantage of his generosity.
 
 ## Plot Hooks
 
-1. **The Scribe's Dilemma**—Qubâsan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Scribe's Dilemma**—Qubâsan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Few; generally well-liked, though some may take advantage of his generosity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

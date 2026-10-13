@@ -14,7 +14,7 @@ Stealthy and powerful, jaguars are solitary hunters that rely on their strength 
 
 ## Human Personality
 
-This person is a solitary and calculated individual, using their strength and stealth to achieve their goals. They are efficient and often prefer working alone.
+A Jaguar person is solitary and calculating, and relies on strength and stealth to reach goals. Work is done efficiently and usually alone.
 
 - **Physical:** Muscular and agile; quiet but powerful movements.
 - **Behavioral:** Stealthy, capable of intense bursts of power and action.

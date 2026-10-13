@@ -41,7 +41,7 @@ data:
       abbreviation: KR
       marker: YKR
       start: null
-    - {shortcode: firstaugs, name: The First Augustars, abbreviation: FA, marker: YFA, start: 1}
+    - {shortcode: firstaugs, name: The First Ôrzândoi, abbreviation: FA, marker: YFA, start: 1}
     - {shortcode: ageconquest, name: The Age of Conquest, abbreviation: AC, marker: YAC, start: 96}
     - shortcode: threeeagles
       name: The Years of Three Eagles
@@ -69,7 +69,7 @@ A date gives the day and month of the Vylarian Calendar, the year, and the mark 
 | Age                        | Written | Its years (AF)          | What marks it                                                                       |
 | -------------------------- | ------- | ----------------------- | ----------------------------------------------------------------------------------- |
 | The Kings and the Republic | KR      | counted back from 1 BF  | a city on the Vylaris becomes the power of the sea, and a Senator ends the Republic |
-| The First Augustars        | FA      | 1 to 96                 | the Founder's line builds the Empire's machinery                                    |
+| The First Ôrzândoi         | FA      | 1 to 96                 | the Founder's line builds the Empire's machinery                                    |
 | The Age of Conquest        | AC      | 96 to 389               | the legions push every frontier, and the Empire's reach is widest                   |
 | The Years of Three Eagles  | TE      | 389 to 406              | three claimants, three armies, and a capital that burns                             |
 | The Restoration            | RS      | 406 to 512              | one house rebuilds the capital and the institutions that still stand                |
@@ -81,15 +81,15 @@ An age shares its last year with the first year of the next, and the shared year
 
 ### The Kings and the Republic
 
-Everything before the Founding: a monarchy of which only its end is recorded, then the Republic of the patrician families, the conquest of Heliónis, a garrison colony among the Thânevar kings of the west ([[lore-aurelianefound|The Founding of Aurèliane]]), the dragons and the Lex Arcana. [[lore-vylarirpbl|The Vylarian Republic]] is its spine, and [[lore-thefounding|The Founding]] is its last day.
+Everything before the Founding: a monarchy of which only its end is recorded, then the Republic of the patrician families, the conquest of Heliónis, a garrison colony among the Thânevar kings of the west ([[lore-aurelianefound|The Founding of Aurèliane]]), the dragons and the Kandrol. [[lore-vylarirpbl|The Vylarian Republic]] is its spine, and [[lore-thefounding|The Founding]] is its last day.
 
-### The First Augustars, 1 to 95
+### The First Ôrzândoi, 1 to 95
 
-The Founder's line. The Eagle City is walled above the sealed Eyrie and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Ordo's last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Augustar dies without a son and names a legate of House Vârkalênîs.
+The Founder's line. The Eagle City is walled above the sealed Eyrie and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Ordo's last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Ôrzâs dies without a son and names a legate of House Vârkalênîs.
 
 ### The Age of Conquest, 96 to 388
 
-Three centuries of conquest begin, the western ones told in [[lore-westernwars|The Western Wars]] and the eastern one, which annexes Byzaría under the Augustar Kàromphôs, in [[lore-heladeastwar|The Eastern War]]. Nartûm refuses the Empire over the Black Flame ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), the Storm of the Hundred Banners reaches the eastern hills ([[lore-easternline|The Eastern Line]]), and the imperial archive burns ([[lore-archivefire|The Archive Fire]]). It ends when an Augustar sends his best army across the sea ([[lore-deltaexped|The Delta Expedition]]) and its commander does not come home.
+Three centuries of conquest begin, the western ones told in [[lore-westernwars|The Western Wars]] and the eastern one, which annexes Byzaría under the Ôrzâs Kàromphôs, in [[lore-heladeastwar|The Eastern War]]. Nartûm refuses the Empire over the Black Flame ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), the Storm of the Hundred Banners reaches the eastern hills ([[lore-easternline|The Eastern Line]]), and the imperial archive burns ([[lore-archivefire|The Archive Fire]]). It ends when an Ôrzâs sends his best army across the sea ([[lore-deltaexped|The Delta Expedition]]) and its commander does not come home.
 
 ### The Years of Three Eagles, 389 to 405
 
@@ -97,19 +97,19 @@ Three claimants hold three armies ([[lore-brkensuccsn|The Broken Succession]]), 
 
 ### The Restoration, 406 to 511
 
-One house rebuilds the capital in the shape that stands today. The western conquests close ([[lore-arzanasedict|The Edicts of Arzánas]]), the Aerarium, the Magnum Collegium and the Curia Fiscalis take their present forms, and the legions reach from the Élavendren border to the coast of Tarûzel. It ends when three winters run together in the north and the north comes south.
+One house rebuilds the capital in the shape that stands today. The western conquests close ([[lore-arzanasedict|The Edicts of Arzánas]]), the Tarmex, the Tevran Maldor and the Tolvan take their present forms, and the legions reach from the Élavendren border to the coast of Tarûzel. It ends when three winters run together in the north and the north comes south.
 
 ### The Drift, 512 to 619
 
-The north's hunger raids empty northern Moktur's valleys and a legion wins its eagle back at the Black Marsh ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), fleets strike the western coasts, and the coin is fixed. The far provinces stop obeying one at a time: Tarvénia, Byzaría, and Heliónis in practice. It ends when Provènzia wins its charter and the crowns and the Aerarium settle what the Empire still is ([[lore-crownssettle|The Settlement of the Crowns]]).
+The north's hunger raids empty northern Moktur's valleys and a legion wins its eagle back at the Black Marsh ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), fleets strike the western coasts, and the coin is fixed. The far provinces stop obeying one at a time: Tarvénia, Byzaría, and Heliónis in practice. It ends when Provènzia wins its charter and the crowns and the Tarmex settle what the Empire still is ([[lore-crownssettle|The Settlement of the Crowns]]).
 
 ### The Core, 620 to 707
 
-An Empire that keeps the forms and stops paying the far forts, sends the Twelfth Vesperine into the Cervaron and loses it ([[lore-twelfthloss|The Loss of the Twelfth]]), and squeezes Tarûzel for the revenue the west no longer sends. It ends when Tarûzel's merchant princes bankroll a revolution.
+An Empire that keeps the forms and stops paying the far forts, sends the Doran Hilvan into the Cervaron and loses it ([[lore-twelfthloss|The Loss of the Twelfth]]), and squeezes Tarûzel for the revenue the west no longer sends. It ends when Tarûzel's merchant princes bankroll a revolution.
 
 ### After the Shoals, 708 to the present
 
-The present: the Shoals, the recognition, a navy being rebuilt, a reform forced on the commission system ([[lore-commissioncmp|The Commission Compromise]]), and an old Augustar with a contested succession that has made the Senate matter again.
+The present: the Shoals, the recognition, a navy being rebuilt, a reform forced on the commission system ([[lore-commissioncmp|The Commission Compromise]]), and an old Ôrzâs with a contested succession that has made the Senate matter again.
 
 ## See Also
 

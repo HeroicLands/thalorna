@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: besikar2
   population: 3000000
-  economy: [affiliation-aerarimmpr, lore-trzlncrncy]
+  economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]
   relations: {arldnpnthn: aligned, ashanpnthn: aligned}
@@ -80,7 +80,7 @@ The Compact is the one a visitor feels first. Its headquarters is the old Vylari
 
 ## Commerce and Currency
 
-Besîkar's harbor counts its dues in the [[lore-trzlncrncy|Tarûzelian currency]], whose treasury, the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]], has its strongroom here. The coins carry the Vylarian denominations (Aurion, Argo and Bit) on Tarûzelian reserves rather than on the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], and the Tarûzelian Aurion is slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
+Besîkar's harbor counts its dues in the [[lore-trzlncrncy|Tarûzelian currency]], whose treasury, the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ard and Bit) on Tarûzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and the Tarûzelian Solden is slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
 
 ## See Also
 

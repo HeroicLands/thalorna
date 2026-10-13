@@ -414,7 +414,7 @@ Thráwald wants to be left alone. He has no grand desires, no grudges to settle,
 
 ### Strengths
 
-His strength and toughness are genuine assets in a fight. He is also remarkably calm under pressure—not brave, exactly, but too dull to panic. He can endure cold, hunger, and discomfort without complaint.
+His strength and toughness are real assets in a fight. He is also calm under pressure—not brave, exactly, but too dull to panic. He can endure cold, hunger, and discomfort without complaint.
 
 ## Social
 

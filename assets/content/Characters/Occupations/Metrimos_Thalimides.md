@@ -425,7 +425,7 @@ As a Helionite yeoman infantry, Métrimos occupies a recognized social niche wit
 
 ### Patrons
 
-Métrimos's primary patron is The local lord who values his experience in training new recruits.. This relationship provides both opportunity and obligation.
+Métrimos's primary patron is The local lord who values his experience in training new recruits. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Rival soldiers and mercenaries who have clashed with him in the past.
 
 ## Plot Hooks
 
-1. **The Yeoman Infantry's Dilemma**—Métrimos faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Yeoman Infantry's Dilemma**—Métrimos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Rival soldiers and mercenaries who have clashed with him in the past. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

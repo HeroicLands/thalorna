@@ -3,7 +3,7 @@ shortcode: heladvezhnur
 name: {full: The Vezhnûr Settlement, aliases: [The Cohort in the Passes]}
 type: lore
 subType: history
-description: "About 226 AF, six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion Vezhnûrikos by an Augustar who will not proscribe the faith, marries into the pass villages and is never recalled."
+description: "About 226 AF, six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion Vezhnûrikos by an Ôrzâs who will not proscribe the faith, marries into the pass villages and is never recalled."
 tags: [history, hellad, peaceage]
 data:
   packFolder: byzaria
@@ -18,7 +18,7 @@ data:
         - affiliation-vylarinmpr
         - place-hekardesert
       summary: >-
-        Six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion, Vezhnûrikos. The Augustar who will not proscribe the Black Flame finds the far passes a convenient place for men he will not discipline. The cohort marries into the pass villages and is never recalled.
+        Six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion, Vezhnûrikos. The Ôrzâs who will not proscribe the Black Flame finds the far passes a convenient place for men he will not discipline. The cohort marries into the pass villages and is never recalled.
       standing: reconstructed
       names: [{name: the Cohort in the Passes, by: place-eastrnmrch}]
       where:
@@ -41,7 +41,7 @@ data:
           note: the cohort's officers go over to the Black Flame after the schism
         - event: "lore-nartumrefuse#break"
           how: enabled
-          note: the Augustar's refusal to proscribe the faith is what leaves the cohort undisciplined
+          note: the Ôrzâs's refusal to proscribe the faith is what leaves the cohort undisciplined
         - event: lore-heladeastwar
           how: enabled
           note: the passes the cohort is settled on are the ones the war has just taken
@@ -62,7 +62,7 @@ The League tolerates the clans above Órashion as its eastern shield, and the cl
 
 ## The Cohort
 
-About 226, six years after the [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith, a cohort of the legions stationed in the east lost its officers to the Black Flame. The officers were the kind of men a general disciplines or a throne proscribes. The Augustar Kàromphôs, who would not proscribe the faith ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), would not discipline them either, and in the far passes above [[affiliation-orashion|Órashion]], at the edge of the province the legions had just won, he found a use for them.
+About 226, six years after the [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith, a cohort of the legions stationed in the east lost its officers to the Black Flame. The officers were the kind of men a general disciplines or a throne proscribes. The Ôrzâs Kàromphôs, who would not proscribe the faith ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), would not discipline them either, and in the far passes above [[affiliation-orashion|Órashion]], at the edge of the province the legions had just won, he found a use for them.
 
 He settled the cohort on the high passes as frontier colonists under its centurion, **Vezhnûrikos**. The passes needed holding and the men needed a place, and no one in the capital asked how the two were being reconciled.
 

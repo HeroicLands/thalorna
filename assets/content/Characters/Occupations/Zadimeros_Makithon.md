@@ -426,7 +426,7 @@ As a Helionite cartographer/artist, Zádìmêros occupies a recognized social ni
 
 ### Patrons
 
-Zádìmêros's primary patron is Nobles and wealthy merchants who commission his maps.. This relationship provides both opportunity and obligation.
+Zádìmêros's primary patron is Nobles and wealthy merchants who commission his maps. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Rival cartographers and the city guard, who suspect him of espionage.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma**—Zádìmêros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Cartographer/Artist's Dilemma**—Zádìmêros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Rival cartographers and the city guard, who suspect him of espionage. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

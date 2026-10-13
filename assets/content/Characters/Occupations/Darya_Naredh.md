@@ -398,7 +398,7 @@ Dárya Náredh is a 28-year-old woman who stands 5'11" tall and is slender. She 
 
 Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Dárya Náredh came into the world of the bard through a combination of circumstance and aptitude.
 
-Dárya was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Dárya is genuinely passionate about preserving history through her craft.
+Dárya was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Dárya is passionate about preserving history through her craft.
 
 ## Psyche
 
@@ -424,7 +424,7 @@ As a Élavendri bard, Dárya occupies a recognized social niche within Élavendr
 
 ### Patrons
 
-Dárya's primary patron is Nobles who appreciate her artistry and historical knowledge.. This relationship provides both opportunity and obligation.
+Dárya's primary patron is Nobles who appreciate her artistry and historical knowledge. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Rival bards who see her as a threat to their own fame.
 
 ## Plot Hooks
 
-1. **The Bard's Dilemma**—Dárya faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Bard's Dilemma**—Dárya faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Rival bards who see her as a threat to their own fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

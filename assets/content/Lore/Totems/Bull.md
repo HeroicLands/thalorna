@@ -14,7 +14,7 @@ Destructive and unpredictable, bulls are powerful animals that can quickly becom
 
 ## Human Personality
 
-Powerful and sometimes volatile, this person can become aggressive when provoked. They possess strong emotions and their reactions can be intense and forceful.
+Strength and strong feeling mark a Bull person, who turns aggressive when provoked. The reaction, when it comes, is forceful.
 
 - **Physical:** Thick, muscular neck and broad shoulders; imposing stance.
 - **Behavioral:** Potentially volatile and destructive, unpredictable in reactions.

@@ -450,7 +450,7 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 
 - **Aesthetic Vision**: Possesses an intuitive grasp of color, form, and spatial relationship that borders on the artistic genius; her candles are recognized as beautiful even by those with no particular interest in chandlery.
 
-- **Meticulous Craftsmanship**: Works with extraordinary precision and attention to detail; each candle is a carefully considered composition, with a consistency and quality that are exemplary.
+- **Craftsmanship**: Works with extraordinary precision and attention to detail; each candle is a carefully considered composition, with a consistency and quality that are exemplary.
 
 - **Botanical and Herbal Knowledge**: Understands plants, herbs, and aromatic compounds with real knowledge; she can harvest, prepare, and combine scents to create subtle blends that enhance both spirituality and function.
 

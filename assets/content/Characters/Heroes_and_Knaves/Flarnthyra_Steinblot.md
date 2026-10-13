@@ -433,7 +433,7 @@ Flarnthýra stands 5'11" tall with a medium build. She has light fair skin, dark
 
 ### Early Life
 
-Born to the Steinblót clan, renowned stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Flarnthýra was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jórun Graywick, a renowned potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
+Born to the Steinblót clan, stonemasons in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], Flarnthýra was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jórun Graywick, a potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
 
 ### Training and Craft
 
@@ -447,7 +447,7 @@ Flarnthýra maintains a modest pottery studio in the artisan quarter of Vithgard
 
 ### Personality
 
-Flarnthýra possesses an intensity that can be mistaken for coldness until one recognizes it as passion rather than indifference. She is direct to the point of bluntness, viewing social niceties as unnecessary when clarity serves better. Her humor runs dry and sardonic, surfacing most often when others make the mistake of patronizing her about "women's crafts." Despite her prickly exterior, those who earn her genuine regard find her fiercely loyal and capable of unexpected gentleness.
+Flarnthýra possesses an intensity that can be mistaken for coldness until one recognizes it as passion rather than indifference. She is direct to the point of bluntness, viewing social niceties as unnecessary when clarity serves better. Her humor runs dry and sardonic, surfacing most often when others make the mistake of patronizing her about "women's crafts." Despite her prickly exterior, those who earn her regard find her fiercely loyal and capable of unexpected gentleness.
 
 Her perfectionism is simultaneously her greatest strength and her deepest curse. She has been known to shatter finished pieces mere moments before delivery because a glaze didn't achieve precisely the shade she envisioned. She keeps ledgers of every failed experiment, studying them as seriously as scholars study ancient texts. This obsessive attention has made her wealthy but has also left her with few true friendships—most people find her standards exhausting.
 
@@ -457,21 +457,21 @@ Flarnthýra creates not for fame or fortune, though both have come to her, but b
 
 ### Strengths
 
-- **Masterful Ceramicist**: Her skill with the wheel and kiln is legendary; she can coax clay into forms of breathtaking beauty and functionality. Few artisans in the realm can match her technical precision or artistic vision.
-- **Exceptional Creativity**: Her mind constantly generates new designs, glazes, and techniques. She draws inspiration from sagas, nature, and the patterns of firelight, translating them into visual language through her work.
-- **Meticulous Perfectionist**: Her attention to detail borders on supernatural; she catches flaws invisible to others and refuses to compromise on quality, ensuring every piece bearing her mark is exceptional.
+- **Masterful Ceramicist**: Her skill with the wheel and kiln is famous; she can coax clay into forms of breathtaking beauty and functionality. Few artisans in the realm can match her technical precision or artistic vision.
+- **Creativity**: Her mind constantly generates new designs, glazes, and techniques. She draws inspiration from sagas, nature, and the patterns of firelight, translating them into visual language through her work.
+- **Perfectionist**: Her attention to detail borders on supernatural; she catches flaws invisible to others and refuses to compromise on quality, so every piece bearing her mark is outstanding.
 - **Strong Observation**: Years spent reading clay, fire, and glaze have made her extraordinarily perceptive about materials and their properties; this observation extends to people, though she often keeps her insights to herself.
-- **Exceptional Dexterity and Fine Motor Control**: Her hands are instruments of precise control, useful far beyond pottery should circumstances require.
+- **Dexterity and Fine Motor Control**: Her hands are instruments of precise control, useful far beyond pottery should circumstances require.
 - **Physical Strength and Endurance**: Her work has made her surprisingly strong; she can lift heavy clay slabs and work the wheel for hours without fatigue.
 
 ### Weaknesses
 
 - **Perfectionism Becomes Paralysis**: Her standards can be so exacting that projects stretch interminably; she has ruined profitable commissions by refusing to deliver "imperfect" work.
 - **Poor Interpersonal Skills**: She struggles with marketing, negotiation, and the social aspects of business. Her bluntness often offends potential patrons or business partners.
-- **Emotional Isolation**: She finds it difficult to form close relationships, treating most people with professional distance or outright indifference.
+- **Emotional Isolation**: She finds it difficult to form close relationships, treating most people with cool distance or outright indifference.
 - **Resentment of Authority**: Having chafed under her father's expectations, she rebels against any authority figure; this has cost her opportunities and allies.
 - **Limited Combat Experience**: Despite her strength, she has no martial training and would be vulnerable in violent confrontation.
-- **Slow to Trust**: It takes years for Flarnthýra to extend genuine trust to another person; her suspicion can make collaboration difficult.
+- **Slow to Trust**: It takes years for Flarnthýra to extend trust to another person; her suspicion can make collaboration difficult.
 
 ## Social
 
@@ -509,9 +509,9 @@ The River Market Cooperative
 
 1. **The Shattered Masterpiece**: Flarnthýra has received an anonymous commission for a ceremonial urn said to contain the ashes of a long-dead king—work that could secure her legacy. However, the specifications are impossible: the piece must be both structurally perfect and fragile enough to shatter ceremonially at a specific moment. When the patron is revealed to be a conspiracy of nobles planning to use the urn's destruction as a signal for a coup, Flarnthýra must decide whether to complete the work that will define her career or refuse and face the consequences of defying nobility.
 
-2. **The Lost Glaze of Ástvaldur**: An elderly merchant brings Flarnthýra a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the legendary potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Flarnthýra becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
+2. **The Lost Glaze of Ástvaldur**: An elderly merchant brings Flarnthýra a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Flarnthýra becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
 
-3. **The Apprentice's Secret**: Flarnthýra's promising young apprentice, **Tvalgynda**, confesses that she has been secretly creating copies of Flarnthýra's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthýra recognizes herself in the girl's hunger to improve her station. She must navigate a delicate balance: mentoring Tvalgynda toward genuine skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
+3. **The Apprentice's Secret**: Flarnthýra's promising young apprentice, **Tvalgynda**, confesses that she has been secretly creating copies of Flarnthýra's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthýra recognizes herself in the girl's hunger to improve her station. She must balance two aims: mentoring Tvalgynda toward skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
 
 4. **The Kiln That Burns Wrong**: One morning, Flarnthýra's grand kiln—built stone by stone by her own hands—ceases to function properly. Fires that once reached perfect temperature now burn too hot or not hot enough, and pieces emerge warped or ruined. A visiting scholar suggests the kiln may have been subtly sabotaged by someone using methods both physical and magical. As Flarnthýra investigates, she uncovers that **Kálf Stonebrow** has been employing a hedge-witch named **Brynhildra Braldarukh** to curse his competitor's tools. Flarnthýra must decide whether to seek revenge, pursue justice, or find a way to transform curse into creation.
 

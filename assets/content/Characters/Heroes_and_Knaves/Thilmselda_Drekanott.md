@@ -421,25 +421,25 @@ Thilmselda stands 5'10" tall with a medium build. She has light weathered skin, 
 
 Thilmselda was born the third daughter of a minor landowner in the [[affiliation-kingdmtrgd|Kingdom of Targud]], in those borderlands where the Asguardian Pantheon's influence mingles with older, earthier traditions. Her childhood was spent largely in the kitchens of her father's modest estate, where she learned not merely to cook but to understand the chemistry of flavor, the rhythm of seasons, and the satisfaction of feeding people well. When her father died under circumstances never fully explained—some say in a dispute over land rights—her mother struggled to maintain the household, and Thilmselda, then barely twenty, was apprenticed to the kitchens of a great inn on the trade road.
 
-For thirty years, she served that inn faithfully, rising from scullery to head cook, until she had saved enough coin and earned enough reputation to purchase her own establishment. The Drekanótt Inn, which bears her family name, has stood for two decades now as a beacon of warmth and exceptional hospitality in an often harsh world. She has weathered everything—poor harvests, bandit raids, the vagaries of trade wars—with an iron will and an unflinching commitment to maintaining the highest standards for her guests.
+For thirty years, she served that inn faithfully, rising from scullery to head cook, until she had saved enough coin and earned enough reputation to purchase her own establishment. The Drekanótt Inn, which bears her family name, has stood for two decades now as a place of warmth and outstanding hospitality in an often harsh world. She has weathered everything—poor harvests, bandit raids, the vagaries of trade wars—with an iron will and an unflinching commitment to maintaining the highest standards for her guests.
 
 ## Psyche
 
 ### Personality
 
-Thilmselda is a woman of few wasted words and tremendous emotional depth. Her exterior is stern and demanding, particularly toward those who work for her; she holds herself and others to exacting standards born from a belief that excellence is not a luxury but a form of respect. Yet beneath this austere exterior lies genuine warmth and a surprising philosophical depth. She has seen much in her years—love and loss, triumph and failure, the best and worst of human nature—and this perspective makes her surprisingly wise and compassionate with patrons who open their hearts to her. She speaks plainly, laughs seldom but genuinely, and possesses a dark humor that surfaces when she believes herself unobserved.
+Thilmselda is a woman of few wasted words and tremendous emotional depth. Her exterior is stern and demanding, particularly toward those who work for her; she holds herself and others to exacting standards born from a belief that excellence is not a luxury but a form of respect. Yet beneath this austere exterior lies warmth and a surprising philosophical depth. She has seen much in her years—love and loss, triumph and failure, the best and worst of human nature—and this perspective makes her surprisingly wise and compassionate with patrons who open their hearts to her. She speaks plainly, laughs seldom, and possesses a dark humor that surfaces when she believes herself unobserved.
 
 ### Motivation
 
-Thilmselda's primary drive is to create a space of true sanctuary in a world of uncertainty and hardship. The Drekanótt Inn is not merely a business but her legacy and her statement about what hospitality can mean. She seeks to prove that a woman of modest birth can build something enduring and respected, and through this success, to establish security for her own twilight years and to provide opportunity for those who work under her. She is also motivated by a complex loyalty to the community—she feels genuine responsibility to her guests and her employees, even when that responsibility weighs heavily.
+Thilmselda's primary drive is to create a space of true sanctuary in a world of uncertainty and hardship. The Drekanótt Inn is not merely a business but her legacy and her statement about what hospitality can mean. She seeks to prove that a woman of modest birth can build something enduring and respected, and through this success, to establish security for her own twilight years and to provide opportunity for those who work under her. She is also motivated by a complex loyalty to the community—she feels responsibility to her guests and her employees, even when that responsibility weighs heavily.
 
 ### Strengths
 
-- **Master of Culinary Arts**: Thilmselda's reputation for exceptional food is known throughout the region; her kitchens produce everything from humble peasant fare to elaborate feasts with equal mastery.
+- **Master of Culinary Arts**: Thilmselda's reputation for food is known throughout the region; her kitchens produce everything from humble peasant fare to elaborate feasts with equal mastery.
 - **Herbal Knowledge**: Years of managing both kitchen and remedies have made her skilled in herbal medicine; she has treated everything from minor wounds to stubborn illnesses.
 - **Shrewd Business Acumen**: She understands accounting, inventory management, and the subtle arts of running a profitable establishment while maintaining ethical standards.
-- **Physical Strength and Endurance**: Despite her age, she possesses considerable strength and remarkable stamina, able to work from dawn to well past dusk.
-- **Perception and Reading People**: Few things escape her notice; she can judge a person's character and circumstances with remarkable accuracy.
+- **Physical Strength and Endurance**: Despite her age, she possesses considerable strength and stamina, able to work from dawn to well past dusk.
+- **Perception and Reading People**: Few things escape her notice; she can judge a person's character and circumstances with accuracy.
 
 ### Weaknesses
 
@@ -454,7 +454,7 @@ Thilmselda's primary drive is to create a space of true sanctuary in a world of 
 ### Patrons
 
 Jarl Knalthorv Hrandendikh
-: The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter ensuring her establishment's protection.
+: The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter protecting her establishment.
 
 Lin'Zuwaret elu Aû'Khelâthu of Targud
 : Several wealthy merchant families use her inn as a neutral meeting ground for negotiations; they value both her discretion and her excellent wine cellars.

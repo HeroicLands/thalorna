@@ -41,7 +41,7 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 
 - [[place-tyrellan|Tyrellan]] (~15,000)—the provincial capital, seat of the military governor.
 - [[place-ferrovan|Ferrovan]] (~7,000)—the chief mining town, above the iron, copper and silver lodes.
-- [[place-castrovar|Castrovar]] (~6,000)—a legion fortress-town on the Vrystwald frontier.
+- [[place-dolvar|Dolvar]] (~6,000)—a legion fortress-town on the Vrystwald frontier.
 - [[place-korrast|Korrast]] (~5,000)—a fortified toll-town commanding a principal mountain pass.
 - [[place-stennvold|Stennvold]] (~4,000)—a high mining-and-smelting town.
 - [[place-pinnhald|Pinnhald]] (~3,000)—a timber town of the forested slopes, half-Varokh in custom.

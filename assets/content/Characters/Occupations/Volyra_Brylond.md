@@ -11,7 +11,7 @@ data:
   occupation: Thatcher
   lore: []
   culture: provenzianclt
-  homes: [belporte]
+  homes: [kalveza]
   affiliations: {kngdmprvnz: {rank: 2}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
@@ -418,7 +418,7 @@ Skilled in thatching, attentive to detail, innovative.
 
 ## Social
 
-Vólyra is affiliated with None; works independently..
+Vólyra is affiliated with None; works independently.
 
 As a Provenzian thatcher, Vólyra occupies a recognized social niche within Provènzia society.
 
@@ -426,7 +426,7 @@ As a Provenzian thatcher, Vólyra occupies a recognized social niche within Prov
 
 ### Patrons
 
-Vólyra's primary patron is Farmers and villagers who appreciate her work.. This relationship provides both opportunity and obligation.
+Vólyra's primary patron is Farmers and villagers who appreciate her work. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Few; has generally earned the respect of the community.
 
 ## Plot Hooks
 
-1. **The Thatcher's Dilemma**—Vólyra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Thatcher's Dilemma**—Vólyra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—Few; has generally earned the respect of the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

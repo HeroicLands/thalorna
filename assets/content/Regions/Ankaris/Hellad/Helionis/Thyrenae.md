@@ -68,10 +68,10 @@ data:
   seat: thyrenae2
   population: 610000
   economy:
-    - affiliation-aerarimmpr
-    - affiliation-clgmrgntrrm
-    - affiliation-curiafscls
-    - affiliation-magnumclgm
+    - affiliation-tarmex
+    - affiliation-danvar
+    - affiliation-tolvan
+    - affiliation-tevran
     - lore-vylrncrncy
   lore: [humanflk]
   parents: [ctysttshlns]
@@ -113,7 +113,7 @@ Thyrenae is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and
 
 ## Commerce and Currency
 
-Thyrenae uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. The [[affiliation-curiafscls|Curia Fiscalis]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Thyrenae uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through the [[affiliation-danvar|Danvar]] moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. The [[affiliation-tolvan|Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

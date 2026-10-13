@@ -416,7 +416,7 @@ Skilled at the wheel, inventive with glaze and pattern, attentive to detail.
 
 ## Social
 
-Dékêla holds her master's seal from the potters' collegium of Aelissium, which her parents held before her and is the potter the others come to about glaze and never about business.
+Dékêla holds her master's seal from the potters' guild of Aelissium, which her parents held before her and is the potter the others come to about glaze and never about business.
 
 ## Companions
 
@@ -434,6 +434,6 @@ Nobody who wishes her harm, but a rival shop in the potters' street has begun co
 
 2. **The Glaze That Failed**—A commission for a senatorial household—her first—has come out of the kiln with the blue gone gray across half the set. The delivery is in a week.
 
-3. **The Copy**—The rival shop's copies of her patterns have reached the capital under a name that is nearly hers. The collegium will hear a case only if she brings one, in front of people.
+3. **The Copy**—The rival shop's copies of her patterns have reached the capital under a name that is nearly hers. The guild will hear a case only if she brings one, in front of people.
 
-4. **The Examination**—The collegium has asked Dékêla to sit as an examiner for new masters, an honor that would give her a voice on standards. It would require her to speak to strangers about money and method, several times a year.
+4. **The Examination**—The guild has asked Dékêla to sit as an examiner for new masters, an honor that would give her a voice on standards. It would require her to speak to strangers about money and method, several times a year.

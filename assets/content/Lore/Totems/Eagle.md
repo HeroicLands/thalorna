@@ -14,7 +14,7 @@ Blunt, impatient, and merciless, eagles are apex predators that strike with prec
 
 ## Human Personality
 
-Blunt and decisive, this individual exhibits little tolerance for obstacles and pursues their goals with ruthless efficiency. They are highly focused and not easily deterred.
+An Eagle person is blunt and decisive, has little patience with obstacles and pursues goals ruthlessly. Once the person has chosen a mark, nothing turns the person aside.
 
 - **Physical:** Sharp vision; strong, prominent features, especially the nose and brow.
 - **Behavioral:** Focused to the point of being ruthless, relentless in pursuits.

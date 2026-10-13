@@ -452,11 +452,11 @@ Fodios is driven by the conviction that magic should serve life and healing rath
 
 ### Strengths
 
-- **Exceptional Healing Capability**: His combination of high physician skill and strong magical skill makes him extraordinarily capable at mending wounds, curing disease, and restoring vitality. He can accomplish healing feats that would require formal healers days of preparation and ritual.
+- **Healing Capability**: His combination of high physician skill and strong magical skill makes him extraordinarily capable at mending wounds, curing disease, and restoring vitality. He can accomplish healing feats that would require formal healers days of preparation and ritual.
 
-- **Profound Magical Knowledge**: His spirit, thaumaturgy, and ritual represent a lifetime of study, both formal and self-directed. Despite his critique of orthodoxy, his technical knowledge is impressive. His Tarotry provides insights into complex situations that extend beyond simple fortune-telling.
+- **Magical Knowledge**: His spirit, thaumaturgy, and ritual represent a lifetime of study, both formal and self-directed. Despite his critique of orthodoxy, his technical knowledge is impressive. His Tarotry provides insights into complex situations that extend beyond simple fortune-telling.
 
-- **Exceptional Perception and Awareness**: His perception and awareness grant him supernatural sensitivity to magical auras, hidden dangers, and subtle environmental cues. He can often sense illness before it manifests in obvious symptoms.
+- **Perception and Awareness**: His perception and awareness grant him supernatural sensitivity to magical auras, hidden dangers, and subtle environmental cues. He can often sense illness before it manifests in obvious symptoms.
 
 - **Survival and Wilderness Mastery**: His survival, seamanship, and animalcraft make him extraordinarily capable in the wild. He moves through wilderness as though it were his home, and animals respond to him with unusual trust.
 
@@ -494,11 +494,11 @@ Scholar Lycius of the Archives
 Magister Ptolemaus of the Hydälis Sodalitas
 : His former teacher remains Fodios' most bitter opponent, viewing his break with orthodoxy as a personal betrayal and a corruption of magical tradition. Ptolemaus holds significant influence within the Epistemium's chapterhouse and has repeatedly argued to the council that Fodios should be formally expelled and reported to the Ordo Arcanis for practicing uncontrolled, unregistered sorcery. Their enmity, once a matter of doctrine, is now deeply personal—Ptolemaus sees in Fodios a living refutation of everything he believes about the necessity of formal discipline, and Fodios sees in Ptolemaus the rigidity of the orders that he fled.
 
-The Quaesitorium Arcanum
-: The Ordo Arcanis's investigation and enforcement arm has begun to take notice of Fodios' reputation. An aggressive **Quaesitor Magister Sokrates** has filed an official inquiry into whether Fodios constitutes an unlicensed magical practitioner in violation of the Ordo's monopoly. While the Ordo's enforcement in the provincial towns of the Byzarian League is laxer than in the Vylarian heartland, an escalation of pressure from the Quaesitorium could force Fodios to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
+The Sekran Arcanum
+: The Ordo Arcanis's investigation and enforcement arm has begun to take notice of Fodios' reputation. An aggressive **Quaesitor Magister Sokrates** has filed an official inquiry into whether Fodios constitutes an unlicensed magical practitioner in violation of the Ordo's monopoly. While the Ordo's enforcement in the provincial towns of the Byzarian League is laxer than in the Vylarian heartland, an escalation of pressure from the Sekran could force Fodios to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
 
 Rival Healer Kalista of [[place-karvashion2|Karvashion]]
-: A self-taught mage from the caravan city who was briefly Fodios' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Fodios' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistemium's chapterhouse and has hinted at bringing her evidence before the Quaesitorium.
+: A self-taught mage from the caravan city who was briefly Fodios' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Fodios' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistemium's chapterhouse and has hinted at bringing her evidence before the Sekran.
 
 ### Affiliations
 

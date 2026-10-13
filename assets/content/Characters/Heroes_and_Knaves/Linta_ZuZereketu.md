@@ -453,7 +453,7 @@ Linta seeks to test herself against increasingly difficult challenges, driven by
 
 ### Strengths
 
-- **Exceptional Perception and Awareness**: Linta's keen honey-brown eyes and heightened senses allow her to perceive threats and opportunities long before others. Her awareness and perception make her indispensable at detecting ambushes, hidden dangers, or suspicious movements.
+- **Perception and Awareness**: Linta's keen honey-brown eyes and heightened senses allow her to perceive threats and opportunities long before others. Her awareness and perception make her indispensable at detecting ambushes, hidden dangers, or suspicious movements.
 
 - **Masterful Stealth and Climbing**: Linta can cross terrain others find impassable and move through hostile territory unseen. She can scale cliff faces, cross rooftops, and scout enemy positions without detection.
 

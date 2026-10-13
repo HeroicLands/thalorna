@@ -39,7 +39,7 @@ data:
         A royal appointment from the chartered moneylender ranks, chairing the Council of the Three-Flame Charters at the Crown's pleasure for a typical term of five to ten years.
   seat: null
   population: null
-  economy: [affiliation-bthntrdhss, affiliation-clgmrgntrrm, affiliation-garhalzi]
+  economy: [affiliation-bthntrdhss, affiliation-danvar, affiliation-garhalzi]
   lore: []
   parents: []
   relations: {}
@@ -72,11 +72,11 @@ The federation of the Crown Trades—the formal recognition that the chartered g
 
 The **Crown Moneylenders** are the Okhárian institution most analogous to a banking body. Chartered jointly at all three temple-cities, operating under direct royal supervision, the Crown Moneylenders handle the kingdom's credit infrastructure: accepting deposits from merchants and noble households, extending credit, issuing letters of credit honored at any of the three temple-city offices, and maintaining the [[affiliation-garhalzi|Gár-Hálzi]] correspondent accounts through which Okhárian commerce reaches the broader Northern Fertile Region.
 
-The Crown Moneylenders are _not_ a banking guild in the Vylarian sense—they do not have the institutional weight or the political position of the Vylarian [[affiliation-clgmrgntrrm|Collegium Argentariorum]], and Okháris's smaller commercial economy supports a much smaller credit infrastructure. There are perhaps thirty senior moneylender families operating across the three temple-cities, all royally chartered, all coordinating through the Crown's commerce office, all maintaining at least nominal accounts with the Gár-Hálzi.
+The Crown Moneylenders are _not_ a banking guild in the Vylarian sense—they do not have the institutional weight or the political position of the Vylarian [[affiliation-danvar|Danvar]], and Okháris's smaller commercial economy supports a much smaller credit infrastructure. There are perhaps thirty senior moneylender families operating across the three temple-cities, all royally chartered, all coordinating through the Crown's commerce office, all maintaining at least nominal accounts with the Gár-Hálzi.
 
 The principal Gár-Hálzi correspondent relationships are with the chapter at Gar-Anlaghet (most important; handles the bulk of Okhárian-Khelâthi trade) and with the chapter at Khelzuret (secondary; handles specialty trades). Direct correspondent arrangements with Galezkara are rare—the great Khelâthi commercial cities prefer to deal with the Bethûan Great Houses, whose volume justifies the correspondent infrastructure.
 
-The Crown Moneylenders' **letters of credit** are honored at any of the three temple-city offices and at the Gár-Hálzi correspondent chapters in Aû'Khelâthu. They are not generally honored in Bethûa (the Bethûan trade-houses prefer to deal with each other or with Gár-Hálzi directly), in Vylarian territory (no formal Argentariorum recognition), or in Tarûzel. An Okhárian merchant traveling to Bethûa typically converts his letters to Khelâthi temple chits at his home moneylender before departing; from Aû'Khelâthu the chits can then be exchanged through the Bethûan trade-houses' correspondent network as needed.
+The Crown Moneylenders' **letters of credit** are honored at any of the three temple-city offices and at the Gár-Hálzi correspondent chapters in Aû'Khelâthu. They are not generally honored in Bethûa (the Bethûan trade-houses prefer to deal with each other or with Gár-Hálzi directly), in Vylarian territory (no formal Danvar recognition), or in Tarûzel. An Okhárian merchant traveling to Bethûa typically converts his letters to Khelâthi temple chits at his home moneylender before departing; from Aû'Khelâthu the chits can then be exchanged through the Bethûan trade-houses' correspondent network as needed.
 
 ## Structure and Governance
 

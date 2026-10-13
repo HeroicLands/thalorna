@@ -23,7 +23,7 @@ data:
 
 ## The Shop
 
-Meshaqa set up as an apothecary in Anlagh-Zetûn's warehouse district while still a young woman, among the granaries and the trading houses where the caravans of the granary capital load and unload, and she kept the shop for the rest of her life. Her patients were the poor of the lower quarters. She treated everyone with equal care, rich and poor alike, charging the poor minimally and the wealthy well, and her practice was sustained by the gratitude of the poor far more than by the coin of the rich. Her skill became legendary in the city, and it is the lower quarters that gave her the name she is remembered by. She was elderly, and decades into that practice, when Shegas Retha'Mogau came to her door.
+Meshaqa set up as an apothecary in Anlagh-Zetûn's warehouse district while still a young woman, among the granaries and the trading houses where the caravans of the granary capital load and unload, and she kept the shop for the rest of her life. Her patients were the poor of the lower quarters. She treated everyone with equal care, rich and poor alike, charging the poor minimally and the wealthy well, and her practice was sustained by the gratitude of the poor far more than by the coin of the rich. Her skill became famous in the city, and it is the lower quarters that gave her the name she is remembered by. She was elderly, and decades into that practice, when Shegas Retha'Mogau came to her door.
 
 ## The Road
 

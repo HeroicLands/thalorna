@@ -27,7 +27,7 @@ What the kindred knows of him is that his wife was mauled by a bear on the terra
 
 ## What Lies Beneath
 
-The granary cellars of the post run deeper than any granary needs, because the legions cut them as a strongroom and a last refuge, with a sally passage that drops to the river through the rock and carries the post's runoff down with it. In those cellars works **Sîrêmôs**, a Vylarian mage of the [[affiliation-ordoarcanis|Ordo Arcanis]] whose house struck his name from its rolls and whose work the Quaesitorium has listed among the categorically forbidden arts. He came north beyond the reach of imperial law because the forest has none, and he stays because the road brings him what he needs.
+The granary cellars of the post run deeper than any granary needs, because the legions cut them as a strongroom and a last refuge, with a sally passage that drops to the river through the rock and carries the post's runoff down with it. In those cellars works **Sîrêmôs**, a Vylarian mage of the [[affiliation-ordoarcanis|Ordo Arcanis]] whose house struck his name from its rolls and whose work the Sekran has listed among the categorically forbidden arts. He came north beyond the reach of imperial law because the forest has none, and he stays because the road brings him what he needs.
 
 His body is failing, and he mends it with the bodies of travelers: a hand, an eye, a run of skin, sewn in and bound by his craft until it serves. What he cannot use he builds into servants. Every one of them is a [[lore-golemcrtr|construct]], dead flesh moved by his working, with no will of its own and a ring of signs cut into its skin that holds it to his orders. The largest of them is a thing he calls the Choir. It is made from several travelers, and it has several mouths, and each mouth says again the last words the mouth said when it was its own.
 
@@ -36,7 +36,7 @@ His body is failing, and he mends it with the bodies of travelers: a hand, an ey
 - **The villages of Vandstein** say a [[lore-varokhiclt|hrág]] hunts the old road north of the passes, one of the hungry spirits that take the weak beyond the totem's land. The Shaman of [[place-thrastein|Thrástein]] has told her people not to cross the gorge after dark. She does not say why the hrág leaves no tracks a spirit would leave.
 - **The [[affiliation-blckpnwlvs|Blackpine Wolves]]** hunt travelers on the road farther south, and they turn back at the gorge. Two of their own went across after a fur party and did not come back, and the band blames the keeper and does not go to ask him.
 - **Vandgrund's pass guides** send their parties to the guesthouse because it is the only roof on the road. Some of them have noticed how few of those parties are heard of again at [[place-waldburg|Waldburg]], and none of them has said so to the elders.
-- **The Quaesitorium** has a file on Sîrêmôs and no idea where he went.
+- **The Sekran** has a file on Sîrêmôs and no idea where he went.
 
 ## Reaching It
 

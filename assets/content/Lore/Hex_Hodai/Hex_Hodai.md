@@ -112,7 +112,7 @@ For an Ordo mage, sustained contact with these practices is genuinely disturbing
 
 2. **Denial.** "It is not really magic. It is a trick, a debased folk practice, demonic interference, or sleight-of-hand dressed up in foreign costume." The Ordo refuses to recognize it as arcane at all.
 
-3. **Suppression.** "It is heretical and dangerous, and must be controlled." The Quaesitorium is dispatched, where political conditions permit.
+3. **Suppression.** "It is heretical and dangerous, and must be controlled." The Sekran is dispatched, where political conditions permit.
 
 What the Ordo cannot do—what the framework structurally prevents it from doing—is recognize the foreign tradition as a legitimate alternative carving of a larger reality. The framework does not admit that there _is_ a larger reality. To accept the foreign tradition on its own terms would require dismantling the Héx Hodäi, and that is not an operation the Ordo is institutionally capable of performing.
 

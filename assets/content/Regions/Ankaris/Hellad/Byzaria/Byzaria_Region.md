@@ -75,7 +75,7 @@ The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vyla
 
 ## Trade
 
-Byzaría lives on transfer. Eastern goods come down the passes and the Dunhara road to Karvashion, cross the plateau to Khrýshteíkhos, where they are banked, and descend to Nêsthiros or Chrysamar to be shipped west. Western goods make the journey in reverse. The League takes its cut at every step, and the [[lore-vylrncrncy|Vylarian currency]] and the paper-script of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] make the whole system liquid.
+Byzaría lives on transfer. Eastern goods come down the passes and the Dunhara road to Karvashion, cross the plateau to Khrýshteíkhos, where they are banked, and descend to Nêsthiros or Chrysamar to be shipped west. Western goods make the journey in reverse. The League takes its cut at every step, and the [[lore-vylrncrncy|Vylarian currency]] and the paper-script of the [[affiliation-danvar|Danvar]] make the whole system liquid.
 
 The region's own exports are the silver of Argýrteíkhos, the iron, arms and metalwork of Órashion, the ceramics and leather of Byzaris, the silks its weavers finish from eastern thread, and the wool, hides and horses of the plateau. It imports grain from Velanthia and the coast of Mídhalión, timber for its shipyards, and the luxuries of every market it sells to.
 

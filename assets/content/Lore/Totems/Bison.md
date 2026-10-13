@@ -14,7 +14,7 @@ Stoic and protective, bison form strong herd bonds and will fiercely defend thei
 
 ## Human Personality
 
-Steadfast and dependable, this person places a high value on family and community. They are willing to go to great lengths to protect their loved ones and are seen as pillars of strength.
+Family and community come first for a Bison person. Loved ones are protected at almost any cost, and others lean on that strength.
 
 - **Physical:** Sturdy, muscular build; a grounded and imposing presence.
 - **Behavioral:** Stoic in face of adversity, protective of loved ones and territory.

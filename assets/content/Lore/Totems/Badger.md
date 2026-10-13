@@ -14,7 +14,7 @@ Tenacious and solitary, badgers are fiercely independent animals that will defen
 
 ## Human Personality
 
-Fiercely determined and self-reliant, this individual prefers solitary tasks and will defend their personal space and principles with unwavering commitment.
+A Badger person works alone by preference and holds to a few principles with great stubbornness. Anyone who trespasses on that private ground meets a defender who does not tire.
 
 - **Physical:** Strong, stocky build; possibly sharper, more penetrating gaze.
 - **Behavioral:** Highly determined, fiercely independent, unwilling to let go of tasks.

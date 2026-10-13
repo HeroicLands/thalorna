@@ -103,7 +103,7 @@ A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead 
 
 **Player choices.** Force: take the bars and the box and run. Stealth: copy the papers in the box. Guile: sell the papers to the border magistrate's rival. Parley: take them to the Sacred Forge's smith-priest.
 
-**Clues and rewards.** The bars are black iron, worth a few dozen Argo each to a smith who knows what to do with them and carrying a touch of the Shadow in the metal. The box holds the Republic's contract for the priory: a list of the sums paid and the names of the magistrates who signed. One name belongs to a Senator who still sits.
+**Clues and rewards.** The bars are black iron, worth a few dozen Ard each to a smith who knows what to do with them and carrying a touch of the Shadow in the metal. The box holds the Republic's contract for the priory: a list of the sums paid and the names of the magistrates who signed. One name belongs to a Senator who still sits.
 
 **Consequences.** Anyone who carries the bars for long dreams of fire. The contract can ruin a Senator, or be sold back to him.
 

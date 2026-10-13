@@ -104,7 +104,7 @@ Okháric predominantly follows a **Subject-Verb-Object (SVO)** order in declarat
 
 **Hybrid Script ([[skill-okhthztscrpt|Okhatha-zethu Script]]):** A modified version adds explicit vowel markers, making it less ambiguous and more suitable for trade and administration. This system is now standard for mercantile use.
 
-**Literacy:** True literacy is confined to the priesthood, professional scribes, and perhaps 20-35% of the nobility. Guildsmen in major urban centers may possess functional literacy—recognizing trade marks, numerals, and common abbreviations—but rely on scribes for contracts and record-keeping. Rural populations are almost entirely non-literate. The priesthood maintains exclusive knowledge of the oldest liturgical forms, which are recited rather than read, reducing the practical necessity for mass literacy of the sacred texts.
+**Literacy:** True literacy is confined to the priesthood, professional scribes, and perhaps a quarter of the nobility. Guildsmen in major urban centers may possess functional literacy—recognizing trade marks, numerals, and common abbreviations—but rely on scribes for contracts and record-keeping. Rural populations are almost entirely non-literate. The priesthood maintains exclusive knowledge of the oldest liturgical forms, which are recited rather than read, reducing the practical necessity for mass literacy of the sacred texts.
 
 ## Historical Development
 

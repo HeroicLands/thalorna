@@ -15,7 +15,7 @@ data:
       depth: region
       sources: [affiliation-empireakhlth, affiliation-vylarinmpr, place-khelagaselat, lore-garauu]
       summary: >-
-        Zab'el'Qar II, who reigned as a Khelâthi, goes to the West in the night and the house of Amralo'Methu is closed. No Vylarian claims it: the Augustar who sent the army has died, and the empire is deep in a civil war that leaves the delta garrisons unrelieved. The priesthood raises Anlagh'Zeketu, and about 398 AF the new house starves the garrisons out of the delta forts.
+        Zab'el'Qar II, who reigned as a Khelâthi, goes to the West in the night and the house of Amralo'Methu is closed. No Vylarian claims it: the Ôrzâs who sent the army has died, and the empire is deep in a civil war that leaves the delta garrisons unrelieved. The priesthood raises Anlagh'Zeketu, and about 398 AF the new house starves the garrisons out of the delta forts.
       standing: attested
       where:
         locus: [place-galezkara]
@@ -57,7 +57,7 @@ The **Closing of the Foreign House** is how the occupation ended, and the Khelâ
 
 Zab'el'Qar II was the son of the commander the priesthood had crowned ([[lore-vylconquest|the Vylarian Conquest]]), and he reigned as a Khelâthi, under a Khelâthi throne name, in a Khelâthi court, with Khelâthi priests. In 2505 ST (395 AF) the list enters that he went to the West in the night, and that the house is closed.
 
-No Vylarian claimed it, because the Augustar Barnâkîs, who had sent the army, died about 389 AF and the empire's civil war, the Years of Three Eagles (389 to 406 AF), left the delta garrisons unrelieved. The house had no claimant at its back and no fleet to bring one. The priesthood of [[lore-uqaadty|Uqa'â]] raised **Anlagh'Zeketu** in the same year, and Anlagh'Uqa I was crowned.
+No Vylarian claimed it, because the Ôrzâs Barnâkîs, who had sent the army, died about 389 AF and the empire's civil war, the Years of Three Eagles (389 to 406 AF), left the delta garrisons unrelieved. The house had no claimant at its back and no fleet to bring one. The priesthood of [[lore-uqaadty|Uqa'â]] raised **Anlagh'Zeketu** in the same year, and Anlagh'Uqa I was crowned.
 
 ## The Garrisons
 

@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: sazumun2
   population: 2500000
-  economy: [affiliation-aerarimmpr, lore-trzlncrncy]
+  economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]
   relations: {arldnpnthn: aligned}
@@ -86,7 +86,7 @@ Sazûmun's people are a polyglot mixture of Tarûzeli merchants, Dunhari traders
 
 ## Commerce and Currency
 
-The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Tarûzelian currency]], issued under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. Its denominations are the Vylarian ones—Aurion, Argo and Bit—on Tarûzelian reserves rather than the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], and the Tarûzelian Aurion is slightly underweight by the Vylarian standard. The Merâzûnî's moneylenders carry the banking; Vylarian script goes unhonored on Sazûmun's quays, as Tarûzelian script does in Vylarian territory.
+The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Tarûzelian currency]], issued under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. Its denominations are the Vylarian ones—Solden, Ard and Bit—on Tarûzelian reserves rather than the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and the Tarûzelian Solden is slightly underweight by the Vylarian standard. The Merâzûnî's moneylenders carry the banking; Vylarian script goes unhonored on Sazûmun's quays, as Tarûzelian script does in Vylarian territory.
 
 ## See Also
 

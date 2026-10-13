@@ -9,4 +9,4 @@ tags: [draft]
 data: {culture: aureldianclt, packFolder: deitiesaureldian}
 ---
 
-Brâzêmâs, the Thunderer, is the deity of storms in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a thunderbolt striking down from a spiral cloud. Worship is kept in the [[affiliation-brazemas|Faith of Brâzêmâs]], a temple priesthood of acolytes in training, ordained clergy and the Flamen Tempestas above them; the lay faithful keep the feasts without office.
+Brâzêmâs, the Thunderer, is the deity of storms in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a thunderbolt striking down from a spiral cloud. Worship is kept in the [[affiliation-brazemas|Faith of Brâzêmâs]], a temple priesthood of acolytes in training, ordained clergy and the Bravsarn above them; the lay faithful keep the feasts without office.

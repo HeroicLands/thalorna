@@ -462,7 +462,7 @@ Sakozês is driven by a desire to preserve what he considers to be the essential
 
 - **Trainer and Educator**: Though he expresses frustration with the younger generation, he is actually quite skilled at teaching heraldic arts and has trained several competent heralds, even if none have lived up to his hopes.
 
-- **Unwavering Stability**: In times of chaos or transition, his commitment to proper form and continuity provides stability. When everything else seems uncertain, the presence of a herald maintaining proper ceremony becomes a reassuring anchor.
+- **Stability**: In times of chaos or transition, his commitment to proper form and continuity provides stability. When everything else seems uncertain, the presence of a herald maintaining proper ceremony becomes a reassuring anchor.
 
 ### Weaknesses
 

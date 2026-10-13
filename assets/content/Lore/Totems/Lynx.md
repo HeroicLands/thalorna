@@ -14,7 +14,7 @@ Elusive and watchful, lynxes are solitary and nocturnal hunters that use their k
 
 ## Human Personality
 
-Preferring the quiet of night, this individual is watchful and solitary. They use their keen senses to navigate effectively while remaining largely out of sight.
+A Lynx person is at ease in the quiet of night, watchful and alone. Sharp senses guide the person while staying out of sight.
 
 - **Physical:** Sharp features; keen, watchful eyes, agile.
 - **Behavioral:** Highly elusive, prefers night-time activity, secretive.

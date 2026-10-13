@@ -14,7 +14,7 @@ Alert and elusive, deer are constantly vigilant, using their keen senses to dete
 
 ## Human Personality
 
-Constantly vigilant, this individual is always aware of their surroundings. They are quick to evade danger and prefer blending into the background to avoid confrontation.
+The Deer person is always watching the surroundings and is quick to slip away from danger. Blending into the background is preferred to open confrontation.
 
 - **Physical:** Lean, light build; graceful and delicate movements.
 - **Behavioral:** Always alert, evasive and elusive, often avoiding confrontation.

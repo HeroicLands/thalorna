@@ -36,7 +36,7 @@ Around 650 BF patrician families overthrew the last Vylarian king and founded th
 [[affiliation-vylarinmpr|Vylarian Republic]]. The monarchy they ended is one the record mentions once, to say it was
 ended: we know the decade of the king's fall and nothing else about him.
 
-The patricians put government in the hands of a [[affiliation-curiavylar|Senate]] of landed aristocrats, and the
+The patricians put government in the hands of a [[affiliation-seldan|Senate]] of landed aristocrats, and the
 Republic grew steadily from a regional city-state into the dominant power of the
 [[place-vylarianse|Vylarian Sea]]. By 400 BF Vylaria held wide territory across [[place-midhalnrgn|Mídhalión]] and
 was a major economic and political force there. Its courts and its law grew with it, and the legal tradition it
@@ -50,13 +50,13 @@ them. The Republic's answer was the **Dragon Riders**, warriors bonded to dragon
 broke the great mages where the legions had failed. What the Republic gave the dragons for that arm is in no account
 of the war (see [[lore-thebargain|The Bargain]]). In the year the last city fell, the
 Senate took the arcane college out of the Helionite [[affiliation-panepistmm|Panepistemium]] and put it under a magistracy,
-the **Praefectura Arcana**, which held the Republic's arcanists on a register.
+the **Kandral**, which held the Republic's arcanists on a register.
 
 The Republic's last century was its least orderly. In 75 BF an unchanneled release at
 [[lore-recensio|the Recensio of Alyssa]] killed most of the Republic's senior arcanists, and in 73 BF the survivors
-drafted the [[lore-lexarcana|Lex Arcana]], the charter of the [[affiliation-ordoarcanis|Ordo Arcanis]]. Around 45 BF
+drafted the [[lore-kandrol|Kandrol]], the charter of the [[affiliation-ordoarcanis|Ordo Arcanis]]. Around 45 BF
 the dragons' standing lease [[lore-ridersdisb|was not renewed]], the Riders were disbanded and the Eyrie of
-[[place-monsaquila|Mons Aquila]] was sealed. Civil wars, factional violence and the concentration of power in the
+[[place-arvel|Arvel]] was sealed. Civil wars, factional violence and the concentration of power in the
 hands of successful commanders carried the Senate toward its end.
 
 It matters to the rest of the world for two reasons that have nothing to do with the Senate. Its

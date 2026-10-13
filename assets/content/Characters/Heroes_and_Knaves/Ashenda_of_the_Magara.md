@@ -431,7 +431,7 @@ sohl:
 
 Ashénda stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.
 
-Her most notable feature is the series of tribal markings etched into her skin, starting from the left side of her neck and running down to her arm—intricate, swirling patterns that symbolize her bond with the Spirit Blade and the spirits of the Magara. Ashénda wears a simple, sleeveless tunic made of dark leather, leaving her arms bare to display her tribal tattoos. A pair of bracers, inscribed with more spiritual symbols, adorn her wrists, while her legs are clad in flexible but durable leather pants, allowing for swift movement. Her Spirit Blade, sleek and curved with a faint ethereal glow, is always strapped across her back when not in use, its presence a constant reminder of her connection to the spirit realm. Ashénda’s movements are precise and methodical, her posture upright and imposing, as if every step is part of a deliberate, unspoken ritual.
+Her most notable feature is the series of tribal markings cut into her skin, starting from the left side of her neck and running down to her arm—swirling patterns that symbolize her bond with the Spirit Blade and the spirits of the Magara. Ashénda wears a simple, sleeveless tunic made of dark leather, leaving her arms bare to display her tribal tattoos. A pair of bracers, inscribed with more spiritual symbols, adorn her wrists, while her legs are clad in flexible but durable leather pants, allowing for swift movement. Her Spirit Blade, sleek and curved with a faint ethereal glow, is always strapped across her back when not in use, its presence a constant reminder of her connection to the spirit realm. Ashénda’s movements are precise and methodical, her posture upright and imposing, as if every step is part of a deliberate, unspoken ritual.
 
 # Dossier {#dossier}
 
@@ -444,12 +444,12 @@ The Spirit Blade, passed down through the generations, grants its wielder the ab
 ### Skills and Abilities
 
 - **Strength**: Ashénda’s physical power is undeniable, allowing her to wield her Spirit Blade with devastating precision and strength.
-- **Endurance**: Her training as a warrior and guardian has given her exceptional stamina, allowing her to endure long battles and harsh conditions.
+- **Endurance**: Her training as a warrior and guardian has given her stamina, allowing her to endure long battles and harsh conditions.
 - **Dexterity**: While her strength is her most defining physical trait, Ashénda is also quick and precise, able to land her strikes with accuracy and speed.
 - **Agility**: Though not as nimble as some warriors, Ashénda's movement is deliberate and efficient, allowing her to react swiftly to threats.
 - **Perception**: Ashénda’s connection to the Spirit Blade gives her heightened senses, allowing her to detect both physical and spiritual threats with ease.
 - **Comeliness**: Ashénda’s rugged appearance is not traditionally beautiful, but her strength and confidence give her a powerful presence that commands respect.
-- **Aura**: Her bond with the Spirit Blade and her spiritual training give her a significant presence in the spirit realm, making her a formidable force against spiritual enemies.
+- **Aura**: Her bond with the Spirit Blade and her spiritual training give her a significant presence in the spirit realm, making her a strong force against spiritual enemies.
 - **Will**: Ashénda’s determination is one of her greatest strengths; once she sets her mind to a task, she does not falter, no matter the challenge.
 - **Reasoning**: Ashénda is practical and sensible, often relying on her instincts and training to solve problems in combat, though she is not a strategist like [[being-kirobashkm|Kiroba]].
 - **Creativity**: While she doesn’t rely on creativity in battle, Ashénda’s experience allows her to adapt quickly to new threats and environments.
@@ -465,7 +465,7 @@ The Spirit Blade, passed down through the generations, grants its wielder the ab
 
 ### Personality
 
-Ashénda is a pragmatic and fearless warrior, with a deep sense of loyalty to her people and to the greater good. She is highly protective of [[being-kirobashkm|Kiroba]] and the rest of the group, willing to put herself in harm’s way to ensure their safety. Despite her harsh upbringing, Ashénda has a strong moral compass and a calm demeanor, rarely letting her emotions guide her actions. Her bond with the Spirit Blade makes her sensitive to shifts in the spirit world, and she often has premonitions of danger.
+Ashénda is a pragmatic and fearless warrior, with deep loyalty to her people and to the greater good. She is highly protective of [[being-kirobashkm|Kiroba]] and the rest of the group, willing to put herself in harm’s way for their safety. Despite her harsh upbringing, Ashénda has a strong moral compass and a calm demeanor, rarely letting her emotions guide her actions. Her bond with the Spirit Blade makes her sensitive to shifts in the spirit world, and she often has premonitions of danger.
 
 ## Social
 

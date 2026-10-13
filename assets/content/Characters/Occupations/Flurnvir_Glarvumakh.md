@@ -425,7 +425,7 @@ As a Nordheimn jeweler, Flurnvir occupies a recognized social niche within Nordh
 
 ### Patrons
 
-Flurnvir's primary patron is Local nobles and affluent merchants.. This relationship provides both opportunity and obligation.
+Flurnvir's primary patron is Local nobles and affluent merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; generally respected by fellow artisans.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma**—Flurnvir faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Jeweler's Dilemma**—Flurnvir faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Few; generally respected by fellow artisans. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

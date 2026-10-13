@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: yamuzel2
   population: 2200000
-  economy: [affiliation-aerarimmpr, lore-trzlncrncy]
+  economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]
   relations: {arldnpnthn: aligned, ashanpnthn: aligned}
@@ -86,7 +86,7 @@ That is why Yamûzel is the city where the captain of the [[affiliation-thetamzi
 
 ## Commerce and Currency
 
-The yards and the fleet are paid in the [[lore-trzlncrncy|Tarûzelian currency]], administered through the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. It keeps the Vylarian denominations (Aurion, Argo and Bit), backed by Tarûzelian reserves rather than the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], with an Aurion slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamûzel, and Tarûzelian script is not honored in Vylarian territory.
+The yards and the fleet are paid in the [[lore-trzlncrncy|Tarûzelian currency]], administered through the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. It keeps the Vylarian denominations (Solden, Ard and Bit), backed by Tarûzelian reserves rather than the Vylarian [[affiliation-tarmex|Tarmex Orzan]], with an Solden slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamûzel, and Tarûzelian script is not honored in Vylarian territory.
 
 ## See Also
 

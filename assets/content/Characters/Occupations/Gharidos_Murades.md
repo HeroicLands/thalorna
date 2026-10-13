@@ -423,7 +423,7 @@ As a Helionite longshoreman, Ghârîdos occupies a recognized social niche withi
 
 ### Patrons
 
-Ghârîdos's primary patron is Ship captains and cargo merchants.. This relationship provides both opportunity and obligation.
+Ghârîdos's primary patron is Ship captains and cargo merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -431,7 +431,7 @@ Few; generally well-liked among peers.
 
 ## Plot Hooks
 
-1. **The Longshoreman's Dilemma**—Ghârîdos faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Longshoreman's Dilemma**—Ghârîdos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Few; generally well-liked among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

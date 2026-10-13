@@ -14,7 +14,7 @@ Territorial and aggressive, geese are fiercely protective of their nesting sites
 
 ## Human Personality
 
-Fiercely protective of their space, this individual confronts intruders with assertive behavior. They are loyal to their environment and those they care about, showing strong defensive instincts.
+A Goose person guards personal space and meets intruders with open aggression. Loyalty to the home ground and to loved ones brings strong defensive instincts.
 
 - **Physical:** Broad, strong shoulders; sharp eyes.
 - **Behavioral:** Highly territorial, can be surprisingly aggressive in defense.

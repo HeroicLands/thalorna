@@ -443,7 +443,7 @@ Stemios's deepest motivation is to create and maintain a sanctuary—a refuge wh
 
 - **Master of Hospitality**: He possesses an almost supernatural ability to discern what each guest truly needs—whether comfort, discretion, information, or assistance. He can seat incompatible personalities at the same table and have them departing as friends, or conversely, see that those seeking privacy are never intruded upon.
 
-- **Legendary Raconteur**: His stories are captivating—rich with detail, humor, and real feeling. He uses storytelling as both entertainment and subtle means of gathering and imparting information. Many travelers have shared secrets with him after becoming drunk on his stories and mead.
+- **Raconteur**: His stories are captivating—rich with detail, humor, and real feeling. He uses storytelling as both entertainment and subtle means of gathering and imparting information. Many travelers have shared secrets with him after becoming drunk on his stories and mead.
 
 - **Deep Community Knowledge**: Stemios possesses encyclopedic knowledge of the region—not from books but from decades of conversation. He knows the genealogies of leading families, the feuds that simmer beneath civility, the hidden capabilities of seemingly minor figures, and the true currents of power beneath the visible government.
 

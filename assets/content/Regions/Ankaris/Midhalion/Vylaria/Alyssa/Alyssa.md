@@ -30,8 +30,8 @@ Alyssa runs on government, trade and the crafts that serve the wealthy. It grows
 
 ## Notable Features
 
-- **The imperial capital**, seat of the Augustar (the emperor), the Senate and the [[affiliation-ordoarcanis|Ordo Arcanis]].
-- **The Forum of Laws**, the empire's supreme judicial institution.
+- **The imperial capital**, seat of the Ôrzâs (the emperor), the Senate and the [[affiliation-ordoarcanis|Ordo Arcanis]].
+- **The Platan of Laws**, the empire's supreme judicial institution.
 - **The greatest concentration of Aurèldían temples in the world.**
 - **The Ordo Arcanis headquarters** and its academy for arcane training.
 
@@ -41,7 +41,7 @@ Alyssa is the most densely settled of the provinces. A carter can leave one town
 
 **The cities.**
 
-- [[place-orzara|Ôrzâra]] (something under 1,000,000)—the imperial capital, seat of the Augustar, the Senate and the Ordo Arcanis, so vast it is kept as its own thing rather than filed under the province. See [[place-urbsaquiln|Urbs Aquilion]] and [[place-pnthnrldnm|Sârkhenâ Dôrêkhis]].
+- [[place-orzara|Ôrzâra]] (something under 1,000,000)—the imperial capital, seat of the Ôrzâs, the Senate and the Ordo Arcanis, so vast it is kept as its own thing rather than filed under the province. See [[place-arvon|Arvon]] and [[place-pnthnrldnm|Sârkhenâ Dôrêkhis]].
 - [[place-alyssar|Alyssar]] (about 45,000)—the provincial capital and administrative seat of Alyssa proper.
 - [[place-lentora|Lentora]] (about 32,000)—the province's second city, market and governing hub of the inner farm-and-villa country.
 - [[place-belekos|Belekos]] (about 25,000)—a merchant city of the river valleys, grown rich on agricultural surplus and trade.

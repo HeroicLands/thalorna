@@ -408,7 +408,7 @@ Társia's social position is privileged and deeply uncomfortable. She is treated
 
 ### Enemies
 
-**Captain Mársel Jútharen**—A rival officer commanding the neighboring garrison sector. Jútharen is ambitious, politically connected, and seething with resentment that Társia (younger, female, and a Torvaleth) was given command of the more valuable Kávrenath posting. He has begun documenting every minor decision Társia makes, waiting for a mistake he can use. He spreads rumors that her unit's success comes from excessive brutality toward refugees and suspected collaborators.
+**Captain Hesmár Jútharen**—A rival officer commanding the neighboring garrison sector. Jútharen is ambitious, politically connected, and seething with resentment that Társia (younger, female, and a Torvaleth) was given command of the more valuable Kávrenath posting. He has begun documenting every minor decision Társia makes, waiting for a mistake he can use. He spreads rumors that her unit's success comes from excessive brutality toward refugees and suspected collaborators.
 
 ## Plot Hooks
 

@@ -3,7 +3,7 @@ shortcode: horngorgebtl
 name: {full: The Battle of the Horn Gorge, aliases: [The Fourth Expedition]}
 type: lore
 subType: history
-description: "About 143 AF the fourth Vylarian expedition into Astúrath, the worst under the Augustar Zôranthôs, was let into the gorge below the plateau of Peñalthár by the mountain lord Tórsaro, who closed both ends, and the legion died there in two days."
+description: "About 143 AF the fourth Vylarian expedition into Astúrath, the worst under the Ôrzâs Zôranthôs, was let into the gorge below the plateau of Lezkóra by the mountain lord Tórsaro, who closed both ends, and the legion died there in two days."
 tags: [history]
 data:
   packFolder: tarvenia
@@ -14,11 +14,11 @@ data:
       sources:
         - place-horngorge
         - place-asturath
-        - place-penalthar
+        - place-lezkora
         - affiliation-kngdmstrth
         - affiliation-vylrnmltry
       summary: >-
-        The fourth expedition into Astúrath climbs toward the plateau of Peñalthár under the Augustar Zôranthôs's legate. The mountain lord Tórsaro lets it into the gorge below the plateau, closes both ends, and the legion dies over two days among the rocks. Vylaria never sends another; it holds the lowland approaches and leaves the mountains alone.
+        The fourth expedition into Astúrath climbs toward the plateau of Lezkóra under the Ôrzâs Zôranthôs's legate. The mountain lord Tórsaro lets it into the gorge below the plateau, closes both ends, and the legion dies over two days among the rocks. Vylaria never sends another; it holds the lowland approaches and leaves the mountains alone.
       standing: attested
       names:
         - {name: the Horn Gorge, by: affiliation-kngdmstrth}
@@ -29,7 +29,7 @@ data:
           - place: place-asturath
             how: the mountain kingdom keeps the boast that no invader has held its ranges, and a cairn at the gorge's upper end
             knowledge: named
-          - place: place-penalthar
+          - place: place-lezkora
             how: the plateau above the gorge is the seat of the High Kings, who hold it because no army has reached it
             knowledge: named
           - place: place-tarvenirgn
@@ -58,11 +58,11 @@ data:
         - the name of the legate who led the fourth expedition
 ---
 
-The shepherds of Astúrath do not drive their flocks through the gorge below Peñalthár, and they do not say why. On autumn nights the sound of horns comes down the rocks and the echo comes back from a wall at the far end, and the horns are blowing a recall.
+The shepherds of Astúrath do not drive their flocks through the gorge below Lezkóra, and they do not say why. On autumn nights the sound of horns comes down the rocks and the echo comes back from a wall at the far end, and the horns are blowing a recall.
 
 ## The Fourth Expedition
 
-The legions had taken the lowlands ([[lore-lowlandstaken|The Lowlands Taken]]) and they wanted the mountains above them. Three expeditions had gone into the ranges of [[place-asturath|Astúrath]] and come out again with nothing. The fourth went up in the reign of the Augustar Zôranthôs about 143 AF, under his legate, with the intention of climbing to the plateau of [[place-penalthar|Peñalthár]] and putting a garrison on it.
+The legions had taken the lowlands ([[lore-lowlandstaken|The Lowlands Taken]]) and they wanted the mountains above them. Three expeditions had gone into the ranges of [[place-asturath|Astúrath]] and come out again with nothing. The fourth went up in the reign of the Ôrzâs Zôranthôs about 143 AF, under his legate, with the intention of climbing to the plateau of [[place-lezkora|Lezkóra]] and putting a garrison on it.
 
 ## The Gorge
 
@@ -76,11 +76,11 @@ Vylaria never sent a fifth expedition. The legion was struck off the rolls, and 
 
 - **The Horn Gorge.** A blood-field below the plateau, which replays the closing of the gorge ([[place-horngorge|The Horn Gorge]]).
 - **Astúrath's boast.** The mountain kingdom that was never conquered, and the cairn it raised at the gorge's upper end.
-- **The seat of the High Kings.** The reason Peñalthár holds the crown: no army that has reached the foot of the plateau has got up it.
+- **The seat of the High Kings.** The reason Lezkóra holds the crown: no army that has reached the foot of the plateau has got up it.
 
 ## See Also
 
 - [[place-horngorge|The Horn Gorge]]—the ground the battle left
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]] · [[place-penalthar|Peñalthár]]
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]] · [[place-lezkora|Lezkóra]]
 - [[lore-lowlandstaken|The Lowlands Taken]]—the conquest that led up to it
 - [[lore-westernwars|The Western Wars]]—the Vylarian account of the expeditions

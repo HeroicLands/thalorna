@@ -429,7 +429,7 @@ As a Helionite astrologer, Mákrion occupies a recognized social niche within He
 
 ### Patrons
 
-Mákrion's primary patron is Local farmers and villagers.. This relationship provides both opportunity and obligation.
+Mákrion's primary patron is Local farmers and villagers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -437,7 +437,7 @@ A few educated astrologers who view his methods as unsophisticated.
 
 ## Plot Hooks
 
-1. **The Astrologer's Dilemma**—Mákrion faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Astrologer's Dilemma**—Mákrion faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—A few educated astrologers who view his methods as unsophisticated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

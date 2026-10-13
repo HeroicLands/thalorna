@@ -14,7 +14,7 @@ Swift and wary, trout are agile fish that remain constantly alert, using their s
 
 ## Human Personality
 
-This individual is quick and cautious, constantly on the lookout for potential dangers. They rely on their speed and awareness to navigate through life efficiently.
+The Trout person is quick and wary, always watching for danger. Speed and alertness carry such a person through life without needless effort.
 
 - **Physical:** Sleek, smooth build; quick, darting movements.
 - **Behavioral:** Swift, wary, quick to react to threats.

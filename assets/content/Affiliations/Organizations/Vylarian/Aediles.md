@@ -44,8 +44,8 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [curiaurbis]
-  relations: {curiaurbis: aligned, vylrnmltry: aligned}
+  parents: [verdanorzara]
+  relations: {verdanorzara: aligned, vylrnmltry: aligned}
 sohl: {system: {commonSkills: []}}
 ---
 
@@ -55,7 +55,7 @@ The Aediles are the civic magistrates of [[place-orzara|Ôrzâra]], and the only
 
 Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The Aediles judge.
 
-They sit at the bottom of the civic tier—below the **Iudicia** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-curiaurbis|Curia Urbis]], the five-Curator council that crowns the system and hears its gravest cases. The Curator of Law oversees them. To be summoned from an Aedile's bench up to the imperial tribunals in the **Officia Imperii** is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
+They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Ôrzâra]], the five-Curator council that crowns the system and hears its gravest cases. The Curator of Law oversees them. To be summoned from an Aedile's bench up to the imperial tribunals in the **Imperial Offices** is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
 Their reach ends at the **Clearance**, the swept strip of open ground that marks the city's edge. In the sprawl beyond it the ground is dirtier, wilder and more lawless, and it lies beyond the easy reach of the Aediles and the Watch alike.
 
@@ -67,6 +67,6 @@ What the money buys is rarely acquittal. It buys the inspection that does not ha
 
 ## See Also
 
-- [[affiliation-curiaurbis|The Courts of Ôrzâra]]—the Curia Urbis and the tiered civic courts above them
+- [[affiliation-verdanorzara|The Courts of Ôrzâra]]—the Verdan Ôrzâra and the tiered civic courts above them
 - [[place-orzara|Ôrzâra]]—the city whose wards they keep
 - [[affiliation-vylrnmltry|The Vylarian Military]]—home of the City Watch, which enforces their rulings

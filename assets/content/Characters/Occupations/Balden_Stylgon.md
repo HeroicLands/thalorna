@@ -416,7 +416,7 @@ Experienced reciter, powerful voice, respected by the old families.
 
 ## Social
 
-Bâlden is a sworn skald of the Skalds' Circle, which gives him standing in Aurèliane under the Circle's recognition with the Collegium.
+Bâlden is a sworn skald of the Skalds' Circle, which gives him standing in Aurèliane under the Circle's recognition with the Tevran.
 
 ## Companions
 

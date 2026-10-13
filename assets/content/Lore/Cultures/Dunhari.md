@@ -167,4 +167,4 @@ The sin is what the Circle did with it. Twice the Circle was petitioned to act a
 | wind-reader          | Storm-cult diviner who reads omens and weather in the wind; zevrôr                                                   |
 | zevrôr               | A wind-reader, in the storm cults' own name for the lineage                                                          |
 
-Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].
+Ard is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].

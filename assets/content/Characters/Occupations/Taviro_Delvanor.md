@@ -11,7 +11,7 @@ data:
   occupation: Common Seaman
   lore: []
   culture: tarvenanclt
-  homes: [valdes]
+  homes: [nebralis]
   affiliations: {kingdmtrvn: {rank: 2}, pozeras: {rank: 1}}
   gender: male
   species: humanflk

@@ -398,7 +398,7 @@ Déraen Kálmereth is a 25-year-old woman who stands 5'9" tall and is of moderat
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Déraen Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
 
-Déraen is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Déraen has a keen eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
+Déraen is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Déraen has an eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
 
 ## Psyche
 
@@ -416,7 +416,7 @@ Attention to detail, skilled in customer relations, knowledgeable about salt's u
 
 ## Social
 
-Déraen is affiliated with None; operates independently..
+Déraen is affiliated with None; operates independently.
 
 As a Élavendri salter, Déraen occupies a recognized social niche within Élavendre society.
 
@@ -424,7 +424,7 @@ As a Élavendri salter, Déraen occupies a recognized social niche within Élave
 
 ### Patrons
 
-Déraen's primary patron is Local households and merchants seeking quality salt.. This relationship provides both opportunity and obligation.
+Déraen's primary patron is Local households and merchants seeking quality salt. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Few; generally well-liked, though some competitors may envy her success.
 
 ## Plot Hooks
 
-1. **The Salter's Dilemma**—Déraen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Salter's Dilemma**—Déraen faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few; generally well-liked, though some competitors may envy her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -11,7 +11,7 @@ data:
   occupation: Yeoman Archer
   lore: []
   culture: provenzianclt
-  homes: [lunacorte]
+  homes: [jalnazdal]
   affiliations: {kngdmprvnz: {rank: 2}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
@@ -425,7 +425,7 @@ As a Provenzian yeoman archer, Nílara occupies a recognized social niche within
 
 ### Patrons
 
-Nílara's primary patron is Local hunters and militia who have seen her skill firsthand.. This relationship provides both opportunity and obligation.
+Nílara's primary patron is Local hunters and militia who have seen her skill firsthand. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Poachers who encroach on her territory.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma**—Nílara faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Yeoman Archer's Dilemma**—Nílara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—Poachers who encroach on her territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

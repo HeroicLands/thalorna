@@ -425,13 +425,13 @@ Párthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark br
 
 **Birth in the Shadow of Law**
 
-Párthun was born in the city of [[place-valdun|Valdûn]], a major administrative center in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], to parents of modest means. His father, Séthun, was a minor clerk in the Royal Treasury, while his mother, Élina, took in washing and mending to supplement the family income. From his earliest years, Párthun watched his father navigate the intricate hierarchies and procedures of the kingdom's bureaucratic apparatus, and he learned that behind every law, behind every official edict, lay opportunities for those clever enough to exploit them. His father taught him that the power in any system rests not with those who make the laws but with those who interpret them and control their application.
+Párthun was born in the city of [[place-valdun|Valdûn]], a major administrative center in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], to parents of modest means. His father, Séthun, was a minor clerk in the Royal Treasury, while his mother, Élina, took in washing and mending to supplement the family income. From his earliest years, Párthun watched his father navigate the hierarchies and procedures of the kingdom's bureaucratic apparatus, and he learned that behind every law, behind every official edict, lay opportunities for those clever enough to exploit them. His father taught him that the power in any system rests not with those who make the laws but with those who interpret them and control their application.
 
 His youth was marked by careful observation. While other children played games of military conquest or heroic adventure, Párthun studied the local administrative structures. He became friends with the clerks who worked in the assessor's office, learned the schedules of judges and magistrates, and discovered which officials could be made sympathetic to requests if approached correctly. By his late teens, he had begun to actively use this knowledge, helping neighbors navigate disputes over property boundaries, taxes, and permits—always with a subtle understanding that such favors would eventually be repaid.
 
 **Rise Through Administration**
 
-At twenty years of age, Párthun secured a position in the City Administration of Valdûn through a combination of legitimate qualification and the intervention of **Lord Merkus Vethrand**, a city councilor who recognized in the young man an useful tool. For the past seventeen years, Párthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
+At twenty years of age, Párthun secured a position in the City Administration of Valdûn through a combination of legitimate qualification and the intervention of **Lord Merkus Vethrand**, a city councilor who recognized in the young man a useful tool. For the past seventeen years, Párthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
 
 **The Foot's Mark**
 
@@ -439,7 +439,7 @@ The scar on his foot dates to a pivotal moment in his career. Five years ago, P�
 
 **Current Position and Agenda**
 
-At present, Párthun is effectively the most powerful unelected official in Valdûn's administration. He controls the flow of documents, manipulates the interpretation of regulations, and has built a network of subordinates who are loyal to him either through genuine belief in his ability or through fear and obligation. He has become moderately wealthy through entirely legal means—though the methods by which he achieved that wealth would scandalize those unfamiliar with administrative practice. His ambition continues to grow. He speaks openly of seeking legitimate election to the city council, a position that would formalize the power he already wields in the shadows.
+At present, Párthun is effectively the most powerful unelected official in Valdûn's administration. He controls the flow of documents, manipulates the interpretation of regulations, and has built a network of subordinates who are loyal to him either through belief in his ability or through fear and obligation. He has become moderately wealthy through entirely legal means—though the methods by which he achieved that wealth would scandalize those unfamiliar with administrative practice. His ambition continues to grow. He speaks openly of seeking legitimate election to the city council, a position that would formalize the power he already wields in the shadows.
 
 ## Psyche
 
@@ -471,7 +471,7 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 - **Reliance on Systems**: Outside of formal bureaucratic structures, his advantages largely disappear. He is at a loss in situations where authority derives from force, lineage, or personal charisma rather than administrative position.
 
-- **Inability to Inspire Loyalty**: Those who work with Párthun serve him out of fear, obligation, or pragmatic self-interest rather than genuine loyalty or affection. This makes his network fragile if circumstances change.
+- **Inability to Inspire Loyalty**: Those who work with Párthun serve him out of fear, obligation, or pragmatic self-interest rather than loyalty or affection. This makes his network fragile if circumstances change.
 
 - **Visible Advancement Creates Enemies**: As he rises in power, he necessarily displaces others and creates rivals. These displaced people understand how the bureaucratic system works and can potentially use it against him.
 
@@ -485,7 +485,7 @@ Lord Merkus Vethrand
 : Despite the complications between them, Merkus remains technically Párthun's patron and the relationship continues, though now on more equal terms. Merkus values Párthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
 
 The Lord Chancellor of Élavendre
-: At the highest level of government, Párthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents genuine patronage or merely the normal monitoring of an unusually capable official is unclear.
+: At the highest level of government, Párthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents patronage or merely the normal monitoring of an unusually capable official is unclear.
 
 ### Enemies
 
@@ -496,21 +496,21 @@ The Office of Civic Integrity
 : An official body tasked with investigating corruption in government. Párthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
 
 Displaced Administrators
-: Those who have been forced out of positions by Párthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose genuine threats.
+: Those who have been forced out of positions by Párthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose threats.
 
 ### Affiliations
 
 The City Administration of Valdûn
 : His official position and the primary source of his power, though his actual loyalty is to himself rather than the institution.
 
-The Bureaucrats' Collegia
+The Bureaucrats' Guilds
 : A loose fraternal organization of administrative officials across the kingdom. He maintains good standing while carefully using the organization's resources for his own benefit.
 
 ## Plot Hooks
 
 1. **The Auditor from the Capital**: A representative from the Lord Chancellor's office arrives in Valdûn announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named **Thecia Rothel**, seems to take unusual interest in the Records department and Párthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Párthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
 
-2. **The Blackmail That Cannot Be Refused**: A figure approaches Párthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions to ensure that if anything happens to them, the documentation will be released. Párthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.
+2. **The Blackmail That Cannot Be Refused**: A figure approaches Párthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions so that if anything happens to them, the documentation will be released. Párthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.
 
 3. **Conspiracy Among the Bureaucrats**: Párthun discovers evidence that suggests a faction within the city government is planning to use a legal mechanism (possibly an inspection, regulation change, or formal complaint) to discredit and remove him from his position. The conspiracy involves several people he has worked with for years, which suggests either that his network is less reliable than he believed or that someone is impersonating his associates to frame them. He must identify the actual conspirators while maintaining his own cover and position, all while navigating the legal system he knows so well being used against him in unexpected ways.
 

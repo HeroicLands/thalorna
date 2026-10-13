@@ -452,7 +452,7 @@ Xerôphôn is motivated fundamentally by the belief that order is a prerequisite
 ### Strengths
 
 - **Authoritative Presence**: Xerôphôn's bearing and voice command immediate respect and obedience. His ability to establish and maintain control over potentially dangerous populations is rare and relies primarily on consistency rather than excessive force.
-- **Profound Knowledge of Human Nature**: His nearly two decades managing confined populations have given him deep insight into how people think, into deception, and into the subtle indicators of danger or instability.
+- **Knowledge of Human Nature**: His nearly two decades managing confined populations have given him deep insight into how people think, into deception, and into the subtle indicators of danger or instability.
 - **Systematic Competence**: He excels at organizing complex systems, managing hierarchies, maintaining records, and establishing routines that allow large numbers of people to coexist in close quarters without disorder.
 - **Unquestionable Integrity**: No one—from the highest official to the lowest prisoner—questions Xerôphôn's commitment to his stated principles. His word is considered absolutely reliable.
 

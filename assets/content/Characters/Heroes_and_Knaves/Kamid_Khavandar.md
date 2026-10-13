@@ -407,7 +407,7 @@ Kamîd stands 6'0" tall with a medium build. He has tanned ruddy skin, black hai
 
 # Dossier {#dossier}
 
-Kamîd was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex logistics of desert agriculture.
+Kamîd was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex work of desert farming.
 
 At thirty-five, Kamîd's life changed irrevocably when a severe drought struck the region. For two seasons, the rains did not come, and water sources dried. His farm failed along with dozens of others. He attempted to hold the operation together, selling off livestock and equipment to maintain wages for his workers. By the time the drought broke and rains returned, he had nothing left—the farm was seized by creditors, and his workers were scattered.
 
@@ -417,7 +417,7 @@ For the past thirteen years, Kamîd has lived as a vagrant, begging in the stree
 
 ### Personality
 
-Kamîd is a man of few words and hard pride. He speaks little unless directly addressed, and his words are generally practical and unemotional. Despite his circumstances, he maintains dignity and refuses—sometimes violently—to be treated as less than human. He is capable of genuine kindness, particularly toward other vagrants and those society has discarded, though his generosity comes from understanding their pain rather than from warmth.
+Kamîd is a man of few words and hard pride. He speaks little unless directly addressed, and his words are generally practical and unemotional. Despite his circumstances, he maintains dignity and refuses—sometimes violently—to be treated as less than human. He is capable of kindness, particularly toward other vagrants and those society has discarded, though his generosity comes from understanding their pain rather than from warmth.
 
 Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **Báhrámiš** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
 
@@ -429,9 +429,9 @@ Kamîd is driven by a desperate desire to re-establish himself, to prove that th
 
 - **Desert Hardened**: His Survival score of 13 combined with practical years of experience makes him one of the most capable people at navigating the desert, finding water, and identifying edible plants. He knows the Khazryn as intimately as most people know their homes.
 - **Physical Resilience**: His Endurance of 14 and hardened physique allow him to endure conditions that would break others—heat, hunger, thirst, and exhaustion barely slow him down.
-- **Practical Skills**: His knowledge of farming, animal husbandry, basic construction, and resource management makes him invaluable in creating temporary settlements or managing supplies.
-- **Combat Readiness**: Despite his apparent poverty, his Initiative score of 13 and practical combat training with his wooden club mean he is more formidable in a street fight than his appearance suggests.
-- **Street Sense**: His Stealth and Awareness scores of 13 each, honed by years of navigating hostile streets and avoiding authorities, make him exceptionally difficult to catch or surprise.
+- **Practical Skills**: His knowledge of farming, animal husbandry, basic construction, and managing supplies makes him useful in creating temporary settlements or managing supplies.
+- **Combat Readiness**: Despite his apparent poverty, his Initiative score of 13 and practical combat training with his wooden club mean he is more strong in a street fight than his appearance suggests.
+- **Street Sense**: His Stealth and Awareness scores of 13 each, honed by years of navigating hostile streets and avoiding authorities, make him difficult to catch or surprise.
 
 ### Weaknesses
 
@@ -446,7 +446,7 @@ Kamîd is driven by a desperate desire to re-establish himself, to prove that th
 ### Patrons
 
 Old Merchant Khalib
-: A spice trader who knew Kamîd's family decades ago, occasionally employs him for temporary work and ensures he doesn't starve, though he is careful not to patronize.
+: A spice trader who knew Kamîd's family decades ago, occasionally employs him for temporary work and sees that he doesn't starve, though he is careful not to patronize.
 
 The Desert Monks
 : Wandering spiritual practitioners who sometimes provide shelter and accept him as fellow pilgrims in the desert's harshness.
@@ -470,8 +470,8 @@ The Vagrant Collective
 
 2. **The Desert Oath**: A dying man Kamîd shelters reveals that he was commissioned by someone to find Kamîd specifically, and before dying, gives him a location in the deep desert where something of value is hidden—something the dying man claims belongs to Kamîd's past. The location is dangerous, the revelation cryptic, and Kamîd must decide whether to pursue this mystery or remain safe in his established routine of survival.
 
-3. **Recruitment for the Storm**: A mysterious figure appears claiming to represent a gathering of desert people planning a rebellion against the settled urban centers, particularly against the city authorities that have oppressed them. They want Kamîd to lead them, promising restoration of his dignity and station. Whether this is genuine opportunity or elaborate trap designed to eliminate a troublemaker remains unclear.
+3. **Recruitment for the Storm**: A mysterious figure appears claiming to represent a gathering of desert people planning a rebellion against the settled urban centers, particularly against the city authorities that have oppressed them. They want Kamîd to lead them, promising restoration of his dignity and station. Whether this is real opportunity or elaborate trap designed to eliminate a troublemaker remains unclear.
 
 4. **The Stolen Farm**: Kamîd encounters evidence that his original farm failure may not have been entirely due to drought—that someone deliberately sabotaged water systems and spread false information about the drought's severity, profiting from the chaos while farming families lost everything. Pursuing this revelation would require resources he lacks and would make him dangerous to powerful interests.
 
-5. **Phoenix Rising**: A wealthy investor approaches with a business proposition: reestablish a farm operation in a new location, with the investor providing capital and Kamîd providing expertise and labor. The terms are fair, the opportunity seems genuine, but Kamîd's suspicion and pride make him doubt whether it's real. Accepting requires trusting someone when trust has become a dangerous luxury.
+5. **Phoenix Rising**: A wealthy investor approaches with a business proposition: reestablish a farm operation in a new location, with the investor providing capital and Kamîd providing expertise and labor. The terms are fair, the opportunity seems real, but Kamîd's suspicion and pride make him doubt whether it's real. Accepting requires trusting someone when trust has become a dangerous luxury.

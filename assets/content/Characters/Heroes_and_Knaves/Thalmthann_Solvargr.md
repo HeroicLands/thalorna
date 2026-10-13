@@ -451,7 +451,7 @@ Thalmthann is primarily motivated by a desire to preserve the quality and integr
 ### Strengths
 
 - **Masterful Glassworking** - Thalmthann's technical skill is of the first order. He can work with glass at all temperature ranges, understands material properties with precision, and executes complex forms with accuracy. His work is technically excellent.
-- **Exceptional Precision** - His hands have the kind of steady control that comes from forty years of focused practice. He can execute delicate work without hesitation or waste, and his failure rate is minimal.
+- **Precision** - His hands have the kind of steady control that comes from forty years of focused practice. He can execute delicate work without hesitation or waste, and his failure rate is minimal.
 - **Knowledge of Materials** - He understands glass composition, knows how different materials affect the final product, and can diagnose material-related problems by examining the finished piece.
 - **Reliable Production** - He consistently produces high-quality work on schedule, with excellent consistency. Merchants and clients know they can depend on Thalmthann Sólvargr to deliver exactly what was promised.
 - **Respected Authority** - His reputation and position in the Guild carry weight. When Thalmthann speaks on matters of glasscraft, younger artisans listen, and his endorsement carries significant prestige.

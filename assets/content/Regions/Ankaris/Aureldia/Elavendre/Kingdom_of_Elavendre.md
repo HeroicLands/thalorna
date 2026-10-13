@@ -105,7 +105,7 @@ data:
         Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
   seat: beravel
   population: 1850000
-  economy: [lore-vylrncrncy, affiliation-clgmrgntrrm, affiliation-magnumclgm]
+  economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: []
   relations:
@@ -151,7 +151,7 @@ The monarchy navigates this rivalry with varying degrees of skill. A wise monarc
 
 ### Beyond the City Walls
 
-Outside the urban centers, the conflict loses its veneer of civility entirely. The Ordo's agents—scholars, surveyors, and Quaesitorium operatives—probe constantly into the rural territories, seeking to map, catalog, and ultimately control the fae-touched landscapes that make Élavendre so magically rich. They investigate sacred groves, attempt to study the thin boundaries between the mortal world and the fae realm, collect specimens, and recruit informants among the rural population. Much of this work is conducted in secret, under the cover of academic research or the guise of traveling scholars.
+Outside the urban centers, the conflict loses its veneer of civility entirely. The Ordo's agents—scholars, surveyors, and Sekran operatives—probe constantly into the rural territories, seeking to map, catalog, and ultimately control the fae-touched landscapes that make Élavendre so magically rich. They investigate sacred groves, attempt to study the thin boundaries between the mortal world and the fae realm, collect specimens, and recruit informants among the rural population. Much of this work is conducted in secret, under the cover of academic research or the guise of traveling scholars.
 
 The Bardic Circle, the Grove Council, and above all the [[lore-aelendnppl|Áelendan]] work relentlessly to counter these incursions. Ordo surveyors who venture too deep into the forests sometimes do not return. Research camps are found abandoned, notes scattered, equipment destroyed. Informants recant or vanish. The [[affiliation-alndnwrdns|Áelendan Wardens]] regard Ordo intrusions into sacred territory as violations of the oldest pacts of the land, and they respond accordingly—with warnings first, and with lethal force when warnings are ignored. The Ordo publicly deplores these "incidents" as barbarism; privately, it tallies its losses and sends more agents.
 
@@ -165,7 +165,7 @@ The [[affiliation-alndnwrdns|Áelendan Wardens]]—guardians of the sacred sites
 
 ## Commerce and Currency
 
-Kingdom of Élavendre uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Kingdom of Élavendre is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Élavendre uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kingdom of Élavendre is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

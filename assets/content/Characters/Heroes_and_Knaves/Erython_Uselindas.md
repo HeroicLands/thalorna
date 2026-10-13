@@ -430,24 +430,24 @@ For a decade, Érython has served in this capacity—maintaining peace, hunting 
 
 ### Personality
 
-Érython is a man of discipline and quiet intensity. He speaks little, preferring action to words, and when he does speak, his observations tend to be direct and unadorned. He possesses a meditative quality, the result of hours spent in focus and waiting—crucial skills for an archer. Yet beneath his calm exterior lies a passionate nature; he cares deeply about justice and the protection of the innocent, and he experiences genuine anguish when his skills fail to prevent tragedy. He struggles with perfectionism and harbors a subtle arrogance regarding his abilities, though this ego is tempered by his spiritual faith and genuine humility about the role luck plays in any successful shot.
+Érython is a man of discipline and quiet intensity. He speaks little, preferring action to words, and when he does speak, his observations tend to be direct and unadorned. He possesses a meditative quality, the result of hours spent in focus and waiting—crucial skills for an archer. Yet beneath his calm exterior lies a passionate nature; he cares deeply about justice and the protection of the innocent, and he experiences anguish when his skills fail to prevent tragedy. He struggles with perfectionism and harbors a subtle arrogance regarding his abilities, though this ego is tempered by his spiritual faith and humility about the role luck plays in any successful shot.
 
 ### Motivation
 
-Érython's primary motivation is to perfect his craft and to use that mastery in service to his community and faith. He believes that his extraordinary skill is a gift from Lîzêlâs and carries with it a responsibility to protect those who cannot protect themselves. He seeks to prove himself worthy of the gift through constant improvement and through the ethical application of his abilities. Beyond this, he harbors a quiet ambition to transcend the limits of his current position—to perhaps establish a school for archers, or to undertake a greater pilgrimage that would deepen his spiritual understanding.
+Érython's primary motivation is to perfect his craft and to use that mastery in service to his community and faith. He believes that his extraordinary skill is a gift from Lîzêlâs and carries with it a responsibility to protect those who cannot protect themselves. He seeks to prove himself worthy of the gift through constant improvement and through the ethical application of his abilities. Beyond this, he harbors a quiet ambition to go beyond the limits of his current position—to perhaps establish a school for archers, or to undertake a greater pilgrimage that would deepen his spiritual understanding.
 
 ### Strengths
 
-- **Master Archer**: Érython's skill with the bow is exceptional; his accuracy, distance, and rate of fire exceed those of nearly any bowman in the kingdom, and his understanding of wind, distance, and trajectory is intuitive.
-- **Exceptional Perception**: His vision extends far beyond normal human capability, allowing him to perceive details at great distances and to notice subtle signs others would miss.
+- **Master Archer**: Érython's skill with the bow is outstanding; his accuracy, distance, and rate of fire exceed those of nearly any bowman in the kingdom, and his understanding of wind, distance, and trajectory is intuitive.
+- **Perception**: His vision extends far beyond normal human capability, allowing him to perceive details at great distances and to notice subtle signs others would miss.
 - **Emotional Calm Under Pressure**: Years of high-stakes hunting and militia duty have honed his ability to remain focused and controlled even in dangerous circumstances.
 - **Survival Skills**: His knowledge of woodcraft, hunting, tracking, and wilderness navigation is comprehensive and practical.
 - **Spiritual Discipline**: His training in the Aurèldían faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
 
 ### Weaknesses
 
-- **Limited Close-Combat Ability**: Without his bow, Érython's martial prowess drops dramatically; he lacks the training and instinctive familiarity with melee weapons that would make him formidable in close quarters.
-- **Over-Reliance on Equipment**: He is psychologically dependent on his bow; separated from it or forced to improvise, he experiences genuine distress.
+- **Limited Close-Combat Ability**: Without his bow, Érython's martial prowess drops dramatically; he lacks the training and instinctive familiarity with melee weapons that would make him strong in close quarters.
+- **Over-Reliance on Equipment**: He is psychologically dependent on his bow; separated from it or forced to improvise, he experiences distress.
 - **Emotional Distance**: While his calm is an asset, it can manifest as emotional coldness; he struggles to form deep personal connections.
 - **Perfectionism and Self-Criticism**: His high standards for himself can lead to harsh self-judgment and diminished confidence when he makes even minor mistakes.
 - **Limited Social Grace**: His taciturn nature and preference for action over conversation make him awkward in court settings or complex social situations.
@@ -457,7 +457,7 @@ For a decade, Érython has served in this capacity—maintaining peace, hunting 
 ### Patrons
 
 Lord Keldarion
-: The aging nobleman who employs Érython values him not merely as a skilled guard but as a trusted counselor; their relationship has deepened over the decade of service into something approaching genuine friendship.
+: The aging nobleman who employs Érython values him not merely as a skilled guard but as a trusted counselor; their relationship has deepened over the decade of service into something approaching friendship.
 
 High Priestess Liríndâ of the Verdant Sanctum
 : The spiritual leader who marked Érython with the serpent tattoo maintains contact with him, offering guidance and occasionally requesting that he undertake special missions.

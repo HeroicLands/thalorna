@@ -1,21 +1,21 @@
 ---
 shortcode: adepthail
-name: {full: The Adept and the Hail, aliases: [How Castamere Paid for Its Liars]}
+name: {full: The Adept and the Hail, aliases: [How Dúrgalis Paid for Its Liars]}
 type: lore
 subType: literature
-description: "The comic winter tale the hill farms under Castamere tell of the adept of the Ordo who sold the valley a contract against the hail: the assembly that bought it on the wise-woman's terms, the summer it ran, the weekly account the adept gave the assembly, the fields the hail found and the ones it missed, and the reckoning at the autumn fair, where the valley paid exactly what it owed."
+description: "The comic winter tale the hill farms under Dúrgalis tell of the adept of the Ordo who sold the valley a contract against the hail: the assembly that bought it on the wise-woman's terms, the summer it ran, the weekly account the adept gave the assembly, the fields the hail found and the ones it missed, and the reckoning at the autumn fair, where the valley paid exactly what it owed."
 tags: [draft, tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore
   form: tale
-  subjects: [place-castamere, affiliation-ordoarcanis, lore-tarvenanclt]
+  subjects: [place-durgalis, affiliation-ordoarcanis, lore-tarvenanclt]
   language: tarvenlng
 
 # terran_analog: "The trickster tale in which a bargain is kept to the letter and the letter undoes the clever party, as in the peasant-and-devil bargains over the top and bottom of a crop; the village assembly as the trickster; and the hail that falls on the liar's field, from the mountain folklore of a goddess who punishes the lie."
 ---
 
-**The Adept and the Hail** is told at the hearths of the hill farms under [[place-castamere|Castamere]] when the winter is long enough to want a laugh in it. It is the valley's tale of an adept of the [[affiliation-ordoarcanis|Ordo Arcanis]] who came up from a city chapter to sell the farms a contract against the hail, and of the wise-woman **Berúzta**, the Chestnut, so called because she was old, broad and prickly, who told the valley's assembly how to buy it.
+**The Adept and the Hail** is told at the hearths of the hill farms under [[place-durgalis|Dúrgalis]] when the winter is long enough to want a laugh in it. It is the valley's tale of an adept of the [[affiliation-ordoarcanis|Ordo Arcanis]] who came up from a city chapter to sell the farms a contract against the hail, and of the wise-woman **Berúzta**, the Chestnut, so called because she was old, broad and prickly, who told the valley's assembly how to buy it.
 
 It is a tale of a contract kept, and the valley tells it as a comedy. It turns on what the high valleys hold about the hail, that the hail is the Mother's and comes for a lie ([[lore-motheryesno|The Mother's Yes and No]]), and a teller who has told that one first tells this one shorter. The adept is not named in it. A teller who is asked why answers that he signed his name to everything, so the valley had enough of it.
 
@@ -119,7 +119,7 @@ The assembly didn't laugh. Not then. You don't laugh at a man in front of the st
 
 They laughed after. They've been laughing since.
 
-**After.** He wrote it up for his order. They say he did. They say it's in the order's library in the city to this day, in a big book, with drawings of the little black cloud, and a note that the hail of the hill country under Castamere is irregular and cannot be studied, and that the inhabitants are uncooperative.
+**After.** He wrote it up for his order. They say he did. They say it's in the order's library in the city to this day, in a big book, with drawings of the little black cloud, and a note that the hail of the hill country under Dúrgalis is irregular and cannot be studied, and that the inhabitants are uncooperative.
 
 That last part's true.
 
@@ -131,7 +131,7 @@ That's the adept and the hail. Bed. And if you told me you'd washed your feet, g
 
 ## See Also
 
-- [[place-castamere|Castamere]]—the castle town and the hill farms under it
+- [[place-durgalis|Dúrgalis]]—the castle town and the hill farms under it
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the order, its chapters and its adepts
 - [[lore-motheryesno|The Mother's Yes and No]]—the Mother, the two words and the hail
 - [[lore-tarvenanclt|Tarvénan]]—the wise-woman, the village assembly, the oath stone and the mage nobody sent for

@@ -63,7 +63,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: khryshteikhos2
   population: 8000000
-  economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
+  economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []
   relations:
@@ -115,7 +115,7 @@ Its wars are border wars, against desert raiders, steppe tribes and the occasion
 
 ## Commerce and Currency
 
-Each city strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard, with full access to the paper-script system through [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. The Byzarian League is a post-imperial commonwealth member: it takes full part in the trade and banking infrastructure of the Vylarian system and is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Each city strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|Danvar]] moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. The Byzarian League is a post-imperial commonwealth member: it takes full part in the trade and banking infrastructure of the Vylarian system and is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

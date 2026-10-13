@@ -432,19 +432,19 @@ Arévyn was born the third son of a mining family whose lineage stretched back g
 
 ### Mastery and Mentorship
 
-In his prime, Arévyn became renowned throughout Élavendre as the finest prospector in the realm. He discovered three major gemstone deposits that generated enormous wealth for the merchant houses, and his ability to extract materials without damaging them earned him contracts with jewelers across the Kingdom. As his physical stamina began its gradual decline with age, Arévyn transitioned from active mining to consulting, training the younger generation and overseeing complex engineering projects in the mines. His reputation grew broader—local physicians sought his knowledge of mineral healing properties, and craftspeople valued his insights into metallurgy and material sciences.
+In his prime, Arévyn became known throughout Élavendre as the finest prospector in the realm. He discovered three major gemstone deposits that generated enormous wealth for the merchant houses, and his ability to extract materials without damaging them earned him contracts with jewelers across the Kingdom. As his physical stamina began its gradual decline with age, Arévyn transitioned from active mining to consulting, training the younger generation and overseeing complex engineering projects in the mines. His reputation grew broader—local physicians sought his knowledge of mineral healing properties, and craftspeople valued his insights into metallurgy and material sciences.
 
 ### Present Circumstances
 
-Now forty-five, Arévyn operates from his modest workshop in the mining quarter, where apprentices gather to study his collections of geological samples and technical diagrams. He continues active fieldwork when called upon for particularly valuable deposits, though such expeditions leave him with aching joints that require attention from the herbalists. He maintains a complicated relationship with the rapidly industrializing mining operations, which view his traditionalist methods as outdated even as they profit from his expertise.
+Now forty-five, Arévyn operates from his modest workshop in the mining quarter, where apprentices gather to study his collections of geological samples and technical diagrams. He continues active fieldwork when called upon for particularly valuable deposits, though such expeditions leave him with aching joints that require attention from the herbalists. He maintains a complicated relationship with the rapidly expanding mining operations, which view his traditionalist methods as outdated even as they profit from his expertise.
 
 ## Psyche
 
 ### Personality
 
-Arévyn possesses the quiet confidence of a craftsman secure in his mastery, yet this certainty has hardened into a certain inflexibility that troubles his relationships with younger miners eager to implement new techniques. He speaks with deliberate precision, having learned that clarity in communication saves lives in the dangerous depths. His dry humor, often directed at those who underestimate the complexity of his work, can be mistaken for coldness by those unfamiliar with mining culture.
+Arévyn possesses the confidence of a craftsman secure in his mastery, yet this certainty has hardened into a certain inflexibility that troubles his relationships with younger miners eager to implement new techniques. He speaks with deliberate precision, having learned that clarity in communication saves lives in the dangerous depths. His dry humor, often directed at those who underestimate the complexity of his work, can be mistaken for coldness by those unfamiliar with mining culture.
 
-Despite his reputation for gruffness, Arévyn harbors a genuine passion for knowledge-sharing. He views teaching as the final great work of his life—a way to ensure that dangerous mistakes born from ignorance claim no more apprentices. His loyalty to those who demonstrate genuine respect for the craft borders on fierce protectiveness.
+Despite his reputation for gruffness, Arévyn harbors a passion for knowledge-sharing. He views teaching as the final great work of his life—a way to keep dangerous mistakes born from ignorance from claiming more apprentices. His loyalty to those who demonstrate respect for the craft borders on fierce protectiveness.
 
 ### Motivation
 
@@ -452,19 +452,19 @@ Arévyn drives forward not from ambition or material need, but from a deep convi
 
 ### Strengths
 
-- **Master Mineralogist**: Arévyn's knowledge of ore composition, gemstone formations, and subsurface geology is unmatched in the Kingdom. He can identify deposits by sight and scent, and predict their yield with remarkable accuracy.
-- **Exceptional Physician's Knowledge**: Decades spent cataloging mineral properties have made him an expert in herbal remedies and mineral-based medicines. Healers consult him on rare compounds.
-- **Engineering Acumen**: His understanding of structural integrity, water flow, and safe tunnel construction has prevented countless mining disasters. He designs systems of remarkable durability.
-- **Master Tracker and Scout**: His keen awareness and perception allow him to read landscapes and identify hidden resources. Few can match his ability to navigate treacherous terrain.
+- **Master Mineralogist**: Arévyn's knowledge of ore composition, gemstone formations, and subsurface geology has no equal in the Kingdom. He can identify deposits by sight and scent, and predict their yield with accuracy.
+- **Physician's Knowledge**: Decades spent cataloging mineral properties have made him an expert in herbal remedies and mineral-based medicines. Healers consult him on rare compounds.
+- **Engineering Acumen**: His understanding of structural integrity, water flow, and safe tunnel construction has prevented countless mining disasters. He designs systems of durability.
+- **Master Tracker and Scout**: His keen awareness and perception allow him to read landscapes and identify hidden resources. Few can match his ability to handle treacherous terrain.
 - **Culinary and Ritual Expertise**: His knowledge of survival provisions and ceremonial practices provides unexpected depth; miners trust his judgment on both practical survival and spiritual matters.
 
 ### Weaknesses
 
 - **Physical Limitations**: Age has begun to exact its toll. Strenuous mine work leaves him exhausted, his back protests after long hours of climbing, and recovery takes longer than it once did.
-- **Resistance to Change**: Arévyn views innovation with deep skepticism, particularly if it contradicts traditional methods that have "always worked." This can make him an obstacle to necessary modernization.
-- **Dwindling Agility**: While his strength remains respectable, his reflexes have slowed. Dangerous situations requiring quick movement pose genuine challenges.
+- **Resistance to Change**: Arévyn views innovation with deep skepticism, particularly if it contradicts traditional methods that have "always worked." This can make him an obstacle to necessary change.
+- **Dwindling Agility**: While his strength remains respectable, his reflexes have slowed. Dangerous situations requiring quick movement pose challenges.
 - **Limited Charisma**: His abrupt manner and technical focus sometimes alienate those outside the mining community. Politicians and merchants find him difficult to negotiate with.
-- **Stubborn Pride**: He struggles to ask for help or admit limitations, viewing such requests as professional weaknesses rather than practical necessities.
+- **Stubborn Pride**: He struggles to ask for help or admit limitations, viewing such requests as weaknesses rather than practical necessities.
 
 ## Social
 
@@ -477,15 +477,15 @@ Master Jeweler Selyndor the Exquisite
 : A master craftsperson who learned her trade partly under Arévyn's instruction. She remains his most loyal patron and friend.
 
 The Royal Engineering Corps of Élavendre
-: The Kingdom occasionally contracts Arévyn for strategic mining projects and tunnel assessments involving critical infrastructure.
+: The Kingdom occasionally contracts Arévyn for important mining projects and tunnel assessments for works of state.
 
 ### Enemies
 
 Foreman Kardos of the Deepmine Consortium
-: A ruthless operative who views Arévyn's safety protocols as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
+: A ruthless operative who views Arévyn's safety rules as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
 
 The Industrialists' Council
-: A growing faction of younger mine owners who see Arévyn's traditionalism as a threat to their efficiency-focused operations and expansion plans.
+: A growing faction of younger mine owners who see Arévyn's traditionalism as a threat to their plans to dig faster and expand.
 
 ### Affiliations
 
@@ -506,6 +506,6 @@ The Order of Árdavon (Order Aspect)
 
 3. **The Heir's Validation**: Merchant House Kallinthiros offers Arévyn an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the [[affiliation-byzarianlg|Byzarian League]] can claim it, and political tensions make the expedition a potential powder keg. Arévyn must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
 
-4. **The Forbidden Depths**: Arévyn discovers references in old mining records to a legendary chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Arévyn faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
+4. **The Forbidden Depths**: Arévyn discovers references in old mining records to a chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Arévyn faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
 
 5. **The Apprentice's Betrayal**: Arévyn's most gifted apprentice, **Kénrel Elárven**, begins secretly selling Arévyn's prospecting charts to the Byzarian League, seeking personal wealth and advancement. When Arévyn discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.

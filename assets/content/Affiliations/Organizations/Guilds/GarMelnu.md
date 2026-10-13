@@ -46,7 +46,7 @@ data:
         Ilmy-Qelt Melnu—chair of the Council of Smiths, presently Khelâfra Zebenmeryu, who coordinates the guild's central affairs and its bargaining with the Gar-Aû's court.
   seat: null
   population: null
-  economy: [affiliation-magnumclgm]
+  economy: [affiliation-tevran]
   lore: []
   parents: []
   relations: {}
@@ -58,7 +58,7 @@ _Khelâthi: "The House of the Mesnu"—the guild of metalworkers, after the anci
 - Type: Imperial chartered guild
 - Region: [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with chapter forges in every selat of consequence
 - Charter: Granted by the eleventh [[lore-garauu|Gar-Aû]] of the present dynasty; renewed and confirmed by each succeeding Gar-Aû
-- Magnum Collegium status: Not a member; independent [[lore-khelathiclt|Khelâthi]] institution. It keeps a per-trade credential equivalence agreement with the [[lore-vylarianclt|Vylarian]] Smiths' federation, negotiated through the [[affiliation-magnumclgm|Magnum Collegium]], for routine work. Master-rank elevations do not transfer in either direction.
+- Tevran Maldor status: Not a member; independent [[lore-khelathiclt|Khelâthi]] institution. It keeps a per-trade credential equivalence agreement with the [[lore-vylarianclt|Vylarian]] Smiths' federation, negotiated through the [[affiliation-tevran|Tevran Maldor]], for routine work. Master-rank elevations do not transfer in either direction.
 
 ## Overview
 
@@ -128,5 +128,5 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 - [[affiliation-garnuw|Gar'Nuw]]—The hunters' guild, sibling imperial chartered guild
 - [[affiliation-garhalzi|Gár-Hálzi]]—The temple treasury that supervises the striking of the weight-pieces
 - [[affiliation-genzetgarau|Genzet'Gar-Aû]]—The patron court
-- [[affiliation-magnumclgm|Magnum Collegium]]—The Vylarian body through which the credential agreement runs
+- [[affiliation-tevran|Tevran Maldor]]—The Vylarian body through which the credential agreement runs
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

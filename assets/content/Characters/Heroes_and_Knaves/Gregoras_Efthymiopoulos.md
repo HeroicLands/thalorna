@@ -497,7 +497,7 @@ The Harbor Master's Office
 Maritime Shipwrights' Guild
 : Trufios holds the rank of Master and sits on the guild's technical council, where he occasionally advocates for stricter standards and craft requirements.
 
-The Scholars of Technological Arts
+The Scholars of the Mechanical Arts
 : An informal circle of engineers, mathematicians, and craftspeople who share discoveries and discuss theoretical principles underlying their work. Trufios participates irregularly but with real enthusiasm for the intellectual component of this community.
 
 ## Plot Hooks

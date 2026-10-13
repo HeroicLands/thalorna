@@ -11,7 +11,7 @@ data:
   occupation: Chieftain
   lore: []
   culture: provenzianclt
-  homes: [chastelclr]
+  homes: [durvalis]
   affiliations: {kngdmprvnz: {rank: 5}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
@@ -424,7 +424,7 @@ As a Provenzian chieftain, Rýlden occupies a recognized social niche within Pro
 
 ### Patrons
 
-Rýlden's primary patron is Tribal elders who support his rule.. This relationship provides both opportunity and obligation.
+Rýlden's primary patron is Tribal elders who support his rule. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Rival chieftains who wish to take his territory.
 
 ## Plot Hooks
 
-1. **The Chieftain's Dilemma**—Rýlden faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Chieftain's Dilemma**—Rýlden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
 2. **Old Grudges**—Rival chieftains who wish to take his territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

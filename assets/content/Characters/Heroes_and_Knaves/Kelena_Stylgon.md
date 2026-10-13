@@ -11,7 +11,7 @@ data:
   occupation: Courtesan
   lore: []
   culture: provenzianclt
-  homes: [valcerise]
+  homes: [pirnebris]
   affiliations: {kngdmprvnz: {rank: 2}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
@@ -447,12 +447,12 @@ Kêlena operates from multiple, sometimes contradictory motivations. On the surf
 - **Social Intelligence**: Her understanding of social hierarchies, etiquette, and the hidden power structures of noble society is deep and exact. She can move through a tangled political situation with grace and come out of it with every advantage.
 - **Performance Mastery**: Whether engaging in theatrical performance, intimate conversation, or public display, Kêlena controls her presentation with artistry. She can make others believe nearly anything about her intentions or feelings.
 - **Linguistic Fluency**: She speaks multiple languages and dialects fluently, allowing her to operate across different social strata and regions.
-- **Exceptional Eloquence**: Her ability to craft compelling narratives, deliver persuasive arguments, and speak with eloquence has few equals.
+- **Eloquence**: Her ability to craft compelling narratives, deliver persuasive arguments, and speak with eloquence has few equals.
 
 ### Weaknesses
 
 - **Emotional Distance**: Kêlena's constant performance has left her emotionally isolated and incapable of letting her guard down. This makes it difficult for her to form truly deep connections, even when she might desire them.
-- **Lack of Genuine Agency**: Having organized her entire life around being what others want, Kêlena has relatively little sense of what she actually wants independent of others' desires. Her life is reactive rather than self-directed.
+- **Lack of Agency**: Having organized her entire life around being what others want, Kêlena has relatively little sense of what she actually wants independent of others' desires. Her life is reactive rather than self-directed.
 - **Physical Combat Limitations**: Despite her grace and agility, she lacks significant physical strength or endurance. While she carries a concealed rapier, she is not a dangerous fighter.
 - **Substance Dependence**: Her use of various substances to manage the emotional cost of her life is increasing, and she is moving toward real dependency.
 - **Vulnerability to Blackmail**: Her position depends entirely on maintaining her current reputation and relationships. Someone with knowledge of her personal history or private actions could prove extraordinarily dangerous to her position.

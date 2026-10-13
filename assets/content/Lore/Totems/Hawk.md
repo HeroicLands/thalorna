@@ -14,7 +14,7 @@ Observant and swift, hawks use their sharp vision to spot prey from great distan
 
 ## Human Personality
 
-Highly observant and quick to act, this person spots opportunities and threats from a distance. Their swift actions and sharp focus make them effective in accomplishing their goals.
+A Hawk person sees both chances and dangers from far off and acts quickly. Fast movement and sharp focus make such a person effective.
 
 - **Physical:** Piercing eyes; quick, agile movements.
 - **Behavioral:** Observant, takes swift and decisive actions.

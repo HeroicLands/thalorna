@@ -212,7 +212,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                  | [[lore-southrnfleets\|The Southern Fleets]]                  | ~520 AF | withering            | thin, worked on                 |
 | [[place-grimak\|Grimak]]                     | The Varokh                 | [[lore-grimakburning\|The Burning at Grimak]]                | ~536 AF | silence              | moderate, thin in the hollow    |
 | [[place-qimod\|Qiimod]]                      | The Khazryn steppe         | the sack of the spur town                                    | ~548 AF | silence              | thin                            |
-| [[place-bldfldserravel\|Serravel]]           | Provènzia                  | [[lore-serravelbtl\|Serravel]]                               | ~556 AF | recurrence           | moderate in the campaign season |
+| [[place-bldfldmalnebris\|Malnebrìs]]         | Provènzia                  | [[lore-malnebris\|Malnebrìs]]                                | ~556 AF | recurrence           | moderate in the campaign season |
 | [[place-dvulgvangr\|Dvulgvangr]]             | The Nordlands (Targud)     | [[lore-burningeast\|The Burning of the East]]                | 613 AF  | dread                | thin                            |
 | [[place-henhulpedin\|Henhutpedin]]           | Tellumel                   | the Breaking                                                 | ~620 AF | recurrence           | moderate                        |
 | [[place-hushwood\|The Hushwood]]             | Aelwyth (the Saelvri dead) | [[lore-saelvricrusade\|The Saelvri Crusade]]                 | ~703 AF | silence              | thin                            |

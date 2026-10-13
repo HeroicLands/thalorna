@@ -11,7 +11,7 @@ data:
   occupation: Herald
   lore: []
   culture: tarvenanclt
-  homes: [torreviga]
+  homes: [thorgila]
   affiliations: {kingdmtrvn: {rank: 3}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
@@ -422,7 +422,7 @@ Cárenna stands 6'0" tall with a light build. She has warm olive skin, black hai
 
 Born into House Gráveth, a cadet branch of nobility with connections to the royal court, Cárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
 
-At twenty-four, she achieved full status as a Herald of [[place-tarvenirgn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has served as one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
+At twenty-four, she achieved full status as a Herald of [[place-tarvenirgn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
 
 ## Psyche
 

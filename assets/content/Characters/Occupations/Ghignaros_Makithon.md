@@ -427,7 +427,7 @@ As a Helionite herald, Ghígnaros occupies a recognized social niche within Heli
 
 ### Patrons
 
-Ghígnaros's primary patron is High-ranking nobles who respect his long service and authority.. This relationship provides both opportunity and obligation.
+Ghígnaros's primary patron is High-ranking nobles who respect his long service and authority. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ Ambitious young heralds who see him as a barrier to their own advancement.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma**—Ghígnaros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Herald's Dilemma**—Ghígnaros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Ambitious young heralds who see him as a barrier to their own advancement. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

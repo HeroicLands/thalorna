@@ -427,7 +427,7 @@ As a Provenzian animal trainer, Hârlak occupies a recognized social niche withi
 
 ### Patrons
 
-Hârlak's primary patron is Local lord who provides animals for training.. This relationship provides both opportunity and obligation.
+Hârlak's primary patron is Local lord who provides animals for training. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ Rival animal trainer who sabotages his efforts.
 
 ## Plot Hooks
 
-1. **The Animal Trainer's Dilemma**—Hârlak faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Animal Trainer's Dilemma**—Hârlak faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
 2. **Old Grudges**—Rival animal trainer who sabotages his efforts. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -14,7 +14,7 @@ Willful and stubborn, boars are highly determined and will fight vigorously when
 
 ## Human Personality
 
-Highly determined and unwavering, this person faces challenges head-on. Their strong will and resistance to giving up ensure they persevere through even the toughest situations.
+A Boar person meets trouble head-on. Giving up is not in the nature, and the person pushes through even the worst going.
 
 - **Physical:** Strong, solid body; possibly more facial hair or hirsute.
 - **Behavioral:** Willful, confrontational, takes a headstrong approach to challenges.

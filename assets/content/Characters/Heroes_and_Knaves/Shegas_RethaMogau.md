@@ -462,7 +462,7 @@ Shegas is fundamentally driven by a desire that no one should suffer as her brot
 
 ### Strengths
 
-- **Exceptional Herblore and Natural Knowledge**: Shegas possesses rare knowledge of natural remedies and the properties of various substances. She can identify rare plants, create complex tinctures, and diagnose conditions through close observation.
+- **Herblore and Natural Knowledge**: Shegas possesses rare knowledge of natural remedies and the properties of various substances. She can identify rare plants, create complex tinctures, and diagnose conditions through close observation.
 
 - **Skilled Physician and Healer**: Her physician's training, combined with her fellow-feeling, allows her to understand patients' conditions both physically and emotionally. She can treat wounds, manage pain, and provide comfort that contributes to healing.
 

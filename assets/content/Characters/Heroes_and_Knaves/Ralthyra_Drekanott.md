@@ -421,7 +421,7 @@ Ralthýra stands 5'3" tall with a light build. She has fair pale skin, dark brow
 
 ### Early Years
 
-Ralthýra was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thrúnvald, where the monks recognized in her a gift for song that seemed to transcend mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
+Ralthýra was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thrúnvald, where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
 ### The Breaking
 
@@ -445,8 +445,8 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 
 ### Strengths
 
-- **Transcendent Voice**: Her singing is genuinely remarkable, capable of moving even cynical hearts. It is both a tool for survival and a spiritual practice that connects her to something greater than herself.
-- **Emotional Intelligence**: Ralthýra reads people with uncanny accuracy, perceiving the hidden wounds and hopes beneath surface presentations. This makes her an invaluable confidante.
+- **Voice**: Her singing is notable, capable of moving even cynical hearts. It is both a tool for survival and a spiritual practice that connects her to something greater than herself.
+- **Emotional Intelligence**: Ralthýra reads people with uncanny accuracy, perceiving the hidden wounds and hopes beneath surface presentations. This makes her a useful confidante.
 - **Charm and Presence**: She possesses a natural magnetism that draws others to her, despite her humble station. People instinctively trust her, though often to their mutual detriment.
 - **Physical Grace**: Years of movement through crowded markets and rooftops have made her graceful and agile; she climbs, dances, and dodges with an economy of motion that belies her slight frame.
 - **Resilience of Spirit**: Though her body knows hunger and cold, her spirit refuses to break. She maintains hope and kindness as fierce acts of defiance.
@@ -455,9 +455,9 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 
 - **Reckless Trust**: Ralthýra's inability to see malice makes her vulnerable to exploitation. Con artists and predators find her an easy mark, and she rarely learns from being deceived.
 - **Impractical Idealism**: Her insistence on living by spiritual rather than pragmatic principles often leaves her in precarious circumstances that could be avoided through shrewdness.
-- **Physical Frailty**: Her light frame and generally poor nutrition leave her vulnerable to illness and violence. In a direct fight, she would be utterly outmatched.
+- **Physical Frailty**: Her light frame and generally poor nutrition leave her vulnerable to illness and violence. In a direct fight, she would be outmatched.
 - **Attachment to Loss**: She carries her past—her parents' deaths, her expulsion from the monastery—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
-- **Conflict Aversion**: Confrontation causes her genuine distress, and she will often capitulate to avoid conflict, even when standing firm would serve her better.
+- **Conflict Aversion**: Confrontation causes her distress, and she will often capitulate to avoid conflict, even when standing firm would serve her better.
 
 ## Social
 
@@ -467,7 +467,7 @@ Brother Nilthorv
 : A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
 
 Magistrate Driskthýra Stonehearst
-: A widow who fell in love with Ralthýra's voice years ago and has quietly ensured she survives each harsh winter, though few know of their association.
+: A widow who fell in love with Ralthýra's voice years ago and has quietly seen that she survives each harsh winter, though few know of their association.
 
 The Wayfarers' Council
 : An informal collective of street folk who provide protection and shelter to Ralthýra in exchange for her songs, which preserve their histories.
@@ -493,7 +493,7 @@ The Devotees of Thrúnvald's Storm
 
 ## Plot Hooks
 
-1. **The Singing Stone**: A scholar seeking Ralthýra claims that ancient texts describe a legendary artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthýra is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthýra must navigate the intersection of faith, greed, and ancient magic.
+1. **The Singing Stone**: A scholar seeking Ralthýra claims that ancient texts describe an artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthýra is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthýra must navigate the intersection of faith, greed, and ancient magic.
 
 2. **Memory in Melody**: A mysterious figure approaches Ralthýra, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthýra an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
 

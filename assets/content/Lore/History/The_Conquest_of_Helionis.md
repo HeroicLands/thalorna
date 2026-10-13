@@ -1,6 +1,6 @@
 ---
 shortcode: helionscnq
-name: {full: The Conquest of Heliónis, aliases: [The Constituting of the Praefectura Arcana]}
+name: {full: The Conquest of Heliónis, aliases: [The Constituting of the Kandral]}
 type: lore
 subType: history
 description: "From 335 BF to 312 BF the Vylarian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Panepistemium and places it under a magistracy that holds the Republic's arcanists as state property."
@@ -18,10 +18,10 @@ data:
         - affiliation-vylarinmpr
         - affiliation-panepistmm
       summary: >-
-        The Vylarian Republic takes the Helionite city-states over twenty-three years, ending with the last of them. The city-states answer the legions with their mages and the worst magical warfare western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working turns back on the one who made it. In the year the last city falls the Senate reaches into the Panepistemium, extracts its College of Arcane Philosophy, and places it under a magistracy—the Praefectura Arcana—which holds the Republic's arcanists as state property, teaches nothing, publishes nothing and decides nothing.
+        The Vylarian Republic takes the Helionite city-states over twenty-three years, ending with the last of them. The city-states answer the legions with their mages and the worst magical warfare western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working turns back on the one who made it. In the year the last city falls the Senate reaches into the Panepistemium, extracts its College of Arcane Philosophy, and places it under a magistracy—the Kandral—which holds the Republic's arcanists as state property, teaches nothing, publishes nothing and decides nothing.
       standing: attested
       names:
-        - name: the Praefectura Arcana
+        - name: the Kandral
           by: affiliation-vylarinmpr
           gloss: an office of the war ministry with a register, a garrison and no doctrine
       where:
@@ -87,12 +87,12 @@ that arm is [[lore-thebargain|a separate matter]], and it is not in any account 
 The last city fell in 312 BF.
 
 What the Senate made afterward was a _magistracy_. The
-**Praefectura Arcana** held the conquered Helionite masters and, in time, every arcanist born inside
+**Kandral** held the conquered Helionite masters and, in time, every arcanist born inside
 the Republic, under a prefect who changed with the year's magistracies. It had a register and a
 garrison and no doctrine. Its registered mages were state property—all but a few, who were never lent—and the rest were lent out to whoever the Senate
 owed, and as the Republic's own last century turned violent the register became a weapon: factions
 borrowed mages from each other's prefects, and a man's name on the roll was a thing that could be
 sold.
 
-Two and a third centuries stand between that year and [[lore-lexarcana|the charter]] that produced
+Two and a third centuries stand between that year and [[lore-kandrol|the charter]] that produced
 the Ordo Arcanis, and the institution that fills them is the one the world's records are thinnest about.

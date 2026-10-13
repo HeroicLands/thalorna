@@ -395,7 +395,7 @@ Párthun Cárdeth is a 41-year-old man who stands 5'7" tall and is of moderate b
 
 Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Párthun Cárdeth came into the world of the thespian through a combination of circumstance and aptitude.
 
-Párthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Párthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and intricate plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
+Párthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Párthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
 
 ## Psyche
 
@@ -421,7 +421,7 @@ As a Élavendri thespian, Párthun occupies a recognized social niche within Él
 
 ### Patrons
 
-Párthun's primary patron is Wealthy patrons who commission his plays.. This relationship provides both opportunity and obligation.
+Párthun's primary patron is Wealthy patrons who commission his plays. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -429,7 +429,7 @@ Critics who believe his work is overly complicated.
 
 ## Plot Hooks
 
-1. **The Thespian's Dilemma**—Párthun faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Thespian's Dilemma**—Párthun faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Critics who believe his work is overly complicated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

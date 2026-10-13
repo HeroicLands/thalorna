@@ -427,7 +427,7 @@ As a Tarûzelian apothecary, Mugîlûsh occupies a recognized social niche withi
 
 ### Patrons
 
-Mugîlûsh's primary patron is Wealthy merchants and nobles who value his expertise.. This relationship provides both opportunity and obligation.
+Mugîlûsh's primary patron is Wealthy merchants and nobles who value his expertise. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ A rival apothecary who accuses him of underhanded business practices.
 
 ## Plot Hooks
 
-1. **The Apothecary's Dilemma**—Mugîlûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Apothecary's Dilemma**—Mugîlûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—A rival apothecary who accuses him of underhanded business practices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -422,11 +422,11 @@ Tvalgthann stands 5'7" tall with a light build. He has light fair skin, red hair
 
 ### Early Life and the Jester's Gift
 
-Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Skruldvir**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
+Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Skruldvir**, a jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
 ### The Court Years
 
-At twenty, Tvalgthann secured patronage with the ducal household of Vithgard, where his talent for reading his audience evolved into a sophisticated practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven invaluable in understanding the complex tapestries of power and prophecy that bind the realm.
+At twenty, Tvalgthann secured patronage with the ducal household of Vithgard, where his talent for reading his audience evolved into a refined practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven useful in understanding the complex tapestries of power and prophecy that bind the realm.
 
 ### The Present Reckoning
 
@@ -438,7 +438,7 @@ Now in his thirtieth year, Tvalgthann finds himself caught between the comfort o
 
 Tvalgthann possesses the chameleon's gift, adapting his persona to whatever audience surrounds him. He can evoke laughter from the hardest merchant, draw tears from the coldest nobleman, and inspire courage in the fearful through careful deployment of jest and truth. Yet beneath the perpetual performance lies a contemplative soul, deeply aware of the weight of words and their power to heal or wound. He carries the jester's burden—the knowledge that those who make others laugh often hide the deepest sorrows.
 
-His wit is legendary but double-edged; he has wounded as many feelings as he has charmed, though rarely without purpose. His self-awareness borders on obsessive, often leading him to overanalyze his own motivations and question the authenticity of his connections with others. He struggles with genuine vulnerability, fearing that any moment of true feeling might compromise his carefully constructed mask.
+His wit is famous but double-edged; he has wounded as many feelings as he has charmed, though rarely without purpose. His self-awareness borders on obsessive, often leading him to overanalyze his own motivations and question the authenticity of his connections with others. He struggles with vulnerability, fearing that any moment of true feeling might compromise his carefully constructed mask.
 
 ### Motivation
 
@@ -446,18 +446,18 @@ Tvalgthann seeks to discover whether his talents for performance and persuasion 
 
 ### Strengths
 
-- **Master of Performance** - Exceptional singing, theatrics, and drawing skills allow him to captivate any audience and convey complex emotions through art
-- **Silver Tongue** - Legendary charm, eloquence, and persuasion enable him to negotiate, manipulate, or inspire through sheer force of personality
-- **Tactical Deception** - Extraordinary skill in guile and intrigue, reading motivations, and employing misdirection make him invaluable for unraveling conspiracies
+- **Master of Performance** - Great skill in singing, theatrics, and drawing skills allow him to captivate any audience and convey complex emotions through art
+- **Silver Tongue** - Great charm, eloquence, and persuasion enable him to negotiate, manipulate, or inspire through sheer force of personality
+- **Tactical Deception** - Extraordinary skill in guile and intrigue, reading motivations, and employing misdirection make him useful for unraveling conspiracies
 - **Versatile Craftsman** - Mastery of brewing, cooking, shipwright work, and music means he can contribute to survival and comfort in any situation
-- **Physical Grace** - Exceptional dexterity, acrobatics, dancing, and climbing abilities allow him to navigate both social and physical spaces with practiced ease
+- **Physical Grace** - Great dexterity, acrobatics, dancing, and climbing abilities allow him to navigate both social and physical spaces with practiced ease
 - **Hidden Knowledge** - Deep folklore expertise and diverse skill application grant him unusual perspectives on ancient secrets and hidden connections
 
 ### Weaknesses
 
 - **Chronic Self-Doubt** - His introspective nature often paralyzes him with second-guessing, undermining his confidence in moments requiring decisive action
 - **Performance Addiction** - His need for audience approval and admiration can override judgment, leading him to take unnecessary risks for dramatic effect
-- **Emotional Distance** - His constant performance creates genuine difficulty forming authentic relationships; many who claim to know him barely scratch the surface
+- **Emotional Distance** - His constant performance creates difficulty forming authentic relationships; many who claim to know him barely scratch the surface
 - **Vulnerability to Manipulation** - Those who understand his hunger for meaning and purpose can exploit his idealism
 - **Physical Fragility** - Despite his agility, his light frame and modest strength make him vulnerable in direct physical confrontation
 - **The Jester's Curse** - Few take him seriously when he speaks truth, a consequence of his reputation for clever deception
@@ -478,7 +478,7 @@ Master Skruldvir
 ### Enemies
 
 Jorvald the Red
-: A rival jester whose less sophisticated humor once dominated the Vithgard court; he schemes constantly to discredit Tvalgthann's wit and expose his methods
+: A rival jester whose cruder humor once dominated the Vithgard court; he schemes constantly to discredit Tvalgthann's wit and expose his methods
 
 The Whispered Syndicate
 : A network of information brokers who view Tvalgthann's access to noble secrets as either an asset to control or a threat to eliminate
@@ -501,4 +501,4 @@ The Wandering Minstrels' Collective
 
 4. **The Merchants' Rebellion** - A coalition of wealthy merchants approaches Tvalgthann with a proposal: use his access to the Duke's ear to advocate for tax reforms and reduced trade tariffs that benefit commerce. Refusing risks making enemies of powerful merchants; accepting means compromising his relationship with the Duke and potentially betraying his patron's interests. The situation grows more complex when he discovers the merchants' true goal is not reform but complete political restructuring.
 
-5. **The Stolen Song** - Tvalgthann's most famous composition—a hauntingly beautiful ballad about loss and redemption—appears in a far distant city, performed by an unknown artist who claims it as their own. As Tvalgthann investigates, he discovers the song has inspired a genuine movement of change and hope across the realm, but its true authorship remains obscured. He must decide whether to reclaim credit for his art or allow it to serve humanity better as a work of uncertain origin, belonging to all who need it.
+5. **The Stolen Song** - Tvalgthann's most famous composition—a hauntingly beautiful ballad about loss and redemption—appears in a far distant city, performed by an unknown artist who claims it as their own. As Tvalgthann investigates, he discovers the song has inspired a movement of change and hope across the realm, but its true authorship remains obscured. He must decide whether to reclaim credit for his art or allow it to serve humanity better as a work of uncertain origin, belonging to all who need it.

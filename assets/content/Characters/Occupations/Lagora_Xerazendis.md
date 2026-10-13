@@ -414,7 +414,7 @@ Creative and quick-witted, skilled in sleight of hand, engaging performer.
 
 ## Social
 
-Làgôra is affiliated with None; works independently..
+Làgôra is affiliated with None; works independently.
 
 As a Vylarian fool, Làgôra occupies a recognized social niche within Vylaria society.
 
@@ -422,7 +422,7 @@ As a Vylarian fool, Làgôra occupies a recognized social niche within Vylaria s
 
 ### Patrons
 
-Làgôra's primary patron is Local villagers and traveling fairs.. This relationship provides both opportunity and obligation.
+Làgôra's primary patron is Local villagers and traveling fairs. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -430,7 +430,7 @@ Those who find her humor inappropriate or offensive.
 
 ## Plot Hooks
 
-1. **The Fool's Dilemma**—Làgôra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Fool's Dilemma**—Làgôra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—Those who find her humor inappropriate or offensive. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

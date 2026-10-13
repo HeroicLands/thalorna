@@ -14,7 +14,7 @@ Gentle and peaceful, instinctively seeking harmony and companionship, often disp
 
 ## Human Personality
 
-This person is peaceful and harmonious, seeking strong, friendly bonds with others. They are calming presences who strive for tranquility and companionship in their relationships.
+Peace marks a Dove person, who looks for close, friendly bonds. Others find the company calming, and the person works for quiet and companionship in every relationship.
 
 - **Physical:** Soft, gentle features; calm and serene appearance.
 - **Behavioral:** Companionable, seeks peace and harmony in social settings.

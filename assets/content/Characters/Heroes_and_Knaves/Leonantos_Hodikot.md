@@ -429,11 +429,11 @@ Bokhenôn stands 6'3" tall with a heavy build. He has light tanned skin, black h
 
 ### Early Years
 
-Bokhenôn was born to a merchant family in the bustling ports of the Byzarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Bokhenôn felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
+Bokhenôn was born to a merchant family in the ports of the Byzarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Bokhenôn felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
 
 ### The Calling
 
-Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenôn experienced a revelation. The priests of Lîzêlâs emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Bokhenôn underwent a profound transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
+Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenôn experienced a revelation. The priests of Lîzêlâs emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Bokhenôn underwent a transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
 
 ### Present Standing
 
@@ -443,17 +443,17 @@ As a high-ranking priest of Lîzêlâs's fire aspect, Bokhenôn serves the Byzar
 
 ### Personality
 
-Bokhenôn is a man of paradox: brutal honesty wed to calculated charm, the fervent believer married to the hardened pragmatist. His decades as a pirate left their mark upon his temperament—he speaks with command, expects obedience, and brooks no contradiction. Yet his conversion was genuine, and this internal struggle between the past and the divine creates a compelling tension. He views weakness with contempt, whether in body or spirit, and shows little patience for those who lack conviction. His laughter is loud and unsettling, his rages terrible to witness. Nevertheless, he possesses an unexpected capacity for mentorship, taking those he deems worthy under his wing and molding them into instruments of the faith. He speaks multiple languages learned in his seafaring days, and his discourse on both theology and tactics can entrance a room.
+Bokhenôn is a man of paradox: brutal honesty wed to calculated charm, the fervent believer married to the hardened pragmatist. His decades as a pirate left their mark upon his temperament—he speaks with command, expects obedience, and brooks no contradiction. Yet his conversion was real, and this internal struggle between the past and the divine creates a compelling tension. He views weakness with contempt, whether in body or spirit, and shows little patience for those who lack conviction. His laughter is loud and unsettling, his rages terrible to witness. Nevertheless, he possesses an unexpected capacity for mentorship, taking those he deems worthy under his wing and molding them into instruments of the faith. He speaks multiple languages learned in his seafaring days, and his discourse on both theology and tactics can entrance a room.
 
 ### Motivation
 
-Bokhenôn seeks redemption through unwavering service to Lîzêlâs, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
+Bokhenôn seeks redemption through service to Lîzêlâs, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
 
 ### Strengths
 
 - **Ritual Mastery**: Bokhenôn commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
-- **Martial Command**: His skill at directing troops and inspiring warriors remains unmatched; soldiers under his blessing fight with legendary ferocity and discipline.
-- **Physical Dominance**: Even at forty-five, his strength and endurance are exceptional, and he wields his warhammer with devastating precision.
+- **Martial Command**: His skill at directing troops and inspiring warriors remains unrivaled; soldiers under his blessing fight with ferocity and discipline.
+- **Physical Dominance**: Even at forty-five, his strength and endurance are outstanding, and he wields his warhammer with devastating precision.
 - **Charismatic Authority**: His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
 - **Seamanship**: His decades at sea left him intimately knowledgeable about navigation, sail-craft, and the governance of vessels and crews.
 
@@ -492,7 +492,7 @@ Church of Lîzêlâs (Fire Aspect)
 : High-ranking priest and architect of military-religious cooperation
 
 Byzarian Military Council
-: Serves as spiritual advisor to commanders and overseer of pre-battle rituals
+: Spiritual advisor to commanders and overseer of pre-battle rituals
 
 The Order of the Sacred Flame
 : An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
@@ -505,6 +505,6 @@ The Order of the Sacred Flame
 
 3. **The Resurrection of the Scarlet Reaver**: Bokhenôn's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Bokhenôn abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Byzarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
 
-4. **The Heretic Within**: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Bokhenôn during the Festival of Flames, the holiest day in the Byzarian calendar. The party may serve as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
+4. **The Heretic Within**: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Bokhenôn during the Festival of Flames, the holiest day in the Byzarian calendar. The party may act as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
 
-5. **Legacy of the Warhammer**: Bokhenôn commissions a legendary smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Bokhenôn's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.
+5. **Legacy of the Warhammer**: Bokhenôn commissions a smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Bokhenôn's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.

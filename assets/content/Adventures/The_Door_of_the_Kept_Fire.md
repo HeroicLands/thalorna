@@ -123,20 +123,20 @@ The Kept do not age, do not sleep, and do not leave. They are not dead, and noth
 
 **Purpose.** Reward the party and turn a lost cohort into a claim.
 
-**Situation.** Behind the standard-rack, in a stone-lined cell, the cohort's pay-chest is bolted to the floor. It holds the legion's last pay, in Argo of the old striking, still legal tender and worth as much as any Argo. The banner is in the rack, rotted but legible. The Tribune's tablets of record lie beside the chest, and they show that the cohort held its post and was never recalled.
+**Situation.** Behind the standard-rack, in a stone-lined cell, the cohort's pay-chest is bolted to the floor. It holds the legion's last pay, in Ard of the old striking, still legal tender and worth as much as any Ard. The banner is in the rack, rotted but legible. The Tribune's tablets of record lie beside the chest, and they show that the cohort held its post and was never recalled.
 
 **NPCs and threats.** The Kept, until the watch ends. After it ends, nobody.
 
 **Player choices.**
 
-- _Force:_ take the pay-chest and leave. The silver is a few hundred Argo, a great sum for any hero.
+- _Force:_ take the pay-chest and leave. The silver is a few hundred Ard, a great sum for any hero.
 - _Stealth:_ leave the silver and take the tablets. The tablets are worth more to the legate's house than the chest is to a thief.
 - _Guile:_ sell the banner to the collector and the tablets to the legate's clerk, and bring the arrears claim to the family that owns it. The claim pays out over years.
 - _Parley:_ give the Kept their last request, which is that someone carry the Tribune's tablets to the legate's house and read them aloud. The reading is the cohort's discharge.
 
 **Clues and rewards.** The pay-chest, the banner, the tablets, the sergeant's sword. The revelation is the Giver's: it did not hold the cohort. The Tribune demanded and swore, the Giver took the oath exactly, and the door stood open the whole time. Nobody had asked it for anything but a roof.
 
-**Consequences.** What the party does with the tablets decides whether the cohort's name is cleared. The legate's house pays the arrears to the descendants and an honorarium to the party, in Argo, and files the cohort as having died at its post.
+**Consequences.** What the party does with the tablets decides whether the cohort's name is cleared. The legate's house pays the arrears to the descendants and an honorarium to the party, in Ard, and files the cohort as having died at its post.
 
 **If bypassed.** If the party leaves the watch unrelieved, the chest stays bolted, and the Kept go on.
 

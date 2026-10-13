@@ -397,7 +397,7 @@ Edith Wolford is a 25-year-old woman who stands 5'8" tall and is slender. She ha
 
 Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edith Wolford is a jeweler.
 
-Edith discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting intricate pieces that often incorporate unique designs inspired by nature. Edith's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
+Edith discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting pieces that often incorporate unique designs inspired by nature. Edith's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
 
 ## Psyche
 
@@ -429,7 +429,7 @@ None; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma**—Edith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Jeweler's Dilemma**—Edith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

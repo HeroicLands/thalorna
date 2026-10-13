@@ -14,7 +14,7 @@ Mysterious and patient, owls are nocturnal predators that silently observe their
 
 ## Human Personality
 
-This individual is calm and observant, waiting for the right moment to act. They exude a sense of mystery and are often seen as wise due to their patience and thoughtful nature.
+An Owl person waits calmly and watches for the right moment to act. Others sense a mystery in the person and take patience and thoughtfulness for wisdom.
 
 - **Physical:** Large, wide eyes; silent, smooth movements.
 - **Behavioral:** Patient, mysterious, often working silently behind the scenes.

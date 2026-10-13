@@ -399,7 +399,7 @@ Pália Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate 
 
 Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pália Véldarin is a domestic servant.
 
-Pália has served as a housemaid for several prominent families over her life. She now works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, and often takes on extra tasks to keep the household running smoothly. She is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
+Pália has been a housemaid for several prominent families over her life. She now works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, and often takes on extra tasks to keep the household running smoothly. She is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
 
 ## Psyche
 

@@ -404,7 +404,7 @@ Vandaric yra Garwald wur Fródhaven does not look like a bandit, which is precis
 
 # Dossier {#dossier}
 
-Vandaric was born to a Varokh family that operated a roadside inn on the imperial trade road—a legitimate business, or so it appeared. In truth, his father worked as a fence for stolen goods, his mother ran a confidence game on wealthy travelers, and young Vandaric grew up learning that every interaction was a transaction and every smile was a tool. He was charming, clever, and utterly without scruple by the time he was twelve.
+Vandaric was born to a Varokh family that operated a roadside inn on the imperial trade road—a legitimate business, or so it appeared. In truth, his father worked as a fence for stolen goods, his mother ran a confidence game on wealthy travelers, and young Vandaric grew up learning that every interaction was a transaction and every smile was a tool. He was charming, clever, and without scruple by the time he was twelve.
 
 He left home at eighteen—not fleeing, but seeking bigger marks. He spent a decade drifting through the border towns between [[place-vrystwald|Vrystwald]] and [[place-vylariargn|Vylaria]], running scams, selling fraudulent goods, impersonating minor officials, and always staying one step ahead of the consequences. He was good enough that he might have made a comfortable living indefinitely, but he had a weakness for gambling and a worse one for drink, and both caught up with him in a border town called [[place-edrenburg|Edrenburg]]. He cheated the wrong man at dice—a Vylarian merchant with connections to the local garrison—and fled into the pines with soldiers on his heels and a price on his head.
 
@@ -418,7 +418,7 @@ Vandaric is the gang's talker, schemer, and intelligence gatherer. His eloquence
 
 ### Personality
 
-Vandaric is glib, charming, and fundamentally hollow. He relates to other people as marks, tools, or obstacles, and he can mimic warmth, sympathy, and friendship with disturbing precision without feeling any of them. He is not needlessly cruel—cruelty is bad for business—but he will betray anyone without hesitation if the calculation favors it. He genuinely enjoys the craft of deception, taking pride in a well-executed con the way an artisan takes pride in fine work. He drinks too much and gambles compulsively, which are the cracks in an otherwise polished surface.
+Vandaric is glib, charming, and fundamentally hollow. He relates to other people as marks, tools, or obstacles, and he can mimic warmth, sympathy, and friendship with disturbing precision without feeling any of them. He is not needlessly cruel—cruelty is bad for business—but he will betray anyone without hesitation if the calculation favors it. He enjoys the craft of deception, taking pride in a well-executed con the way an artisan takes pride in fine work. He drinks too much and gambles compulsively, which are the cracks in an otherwise polished surface.
 
 ### Motivation
 
@@ -426,13 +426,13 @@ Vandaric wants comfort, excitement, and the satisfaction of outwitting others. H
 
 ### Strengths
 
-His social skills are exceptional. He can talk his way into guarded camps, extract information from wary merchants, and charm serving girls into sharing caravan gossip. His creativity and reasoning make him the gang's best planner, and Dágulf reluctantly relies on his intelligence for ambush timing and target selection.
+His social skills are outstanding. He can talk his way into guarded camps, extract information from wary merchants, and charm serving girls into sharing caravan gossip. His creativity and reasoning make him the gang's best planner, and Dágulf reluctantly relies on his intelligence for ambush timing and target selection.
 
 ## Social
 
 ## Companions
 
-The Blackpine Wolves, by convenience. He maintains a surface friendliness with everyone and genuine closeness with no one. Skathilda sees through him completely, which makes him nervous.
+The Blackpine Wolves, by convenience. He maintains a surface friendliness with everyone and closeness with no one. Skathilda sees through him completely, which makes him nervous.
 
 ### Patrons
 
@@ -448,4 +448,4 @@ The Vylarian merchant he cheated in Edrenburg has not forgotten. There may be ou
 
 2. **The Double Cross**—Vandaric approaches a Vylarian merchant guild offering to betray the Blackpine Wolves for gold and safe passage. At the same time, he is feeding Dágulf information about the guild's caravan routes. He is playing both sides, and the party—hired by the guild—walks into a situation far more tangled than a simple bandit hunt.
 
-3. **The Gambler's Debt**—Vandaric has racked up a dangerous gambling debt with a criminal syndicate in a border town, and they have sent enforcers to collect. He is desperate enough to make an offer to the party: help him deal with the enforcers, and he will lead them to the Blackpine Wolves' hidden cache of stolen goods. The offer is genuine—but Vandaric always has a second plan.
+3. **The Gambler's Debt**—Vandaric has racked up a dangerous gambling debt with a criminal syndicate in a border town, and they have sent enforcers to collect. He is desperate enough to make an offer to the party: help him deal with the enforcers, and he will lead them to the Blackpine Wolves' hidden cache of stolen goods. The offer is real—but Vandaric always has a second plan.

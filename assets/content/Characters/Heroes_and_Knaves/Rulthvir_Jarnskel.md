@@ -454,7 +454,7 @@ Rulthvir is motivated by a desire that extends beyond human ambition—he wants 
 - **Physical Strength and Endurance** - His heavy frame carries real strength, and his capacity for sustained physical labor is great. He can work through exhaustion, weather extremes, and hardship that would break younger, apparently stronger individuals.
 - **Trusted Counsel** - His reputation is so established that regional leaders consult him on matters extending beyond animal husbandry. Nobles seek his perspective on agricultural crises, and his judgment has proven sound across diverse contexts.
 - **Deep Environmental Knowledge** - His decades of intimate engagement with Norgaad's terrain have given him a thorough knowledge of geography, water sources, seasonal patterns, and the limits of what the land can give.
-- **Genuine Empathy** - Despite his quiet demeanor, Rulthvir shows real care for both animals and people, listening to concerns with patient attention and responding with practical assistance.
+- **Empathy** - Despite his quiet demeanor, Rulthvir shows real care for both animals and people, listening to concerns with patient attention and responding with practical assistance.
 
 ### Weaknesses
 

@@ -399,7 +399,7 @@ Glarvorv Steinblót is a 31-year-old man who stands 5'7" tall and is of moderate
 
 Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Glarvorv Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
 
-Glarvorv is a renowned perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Glarvorv has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
+Glarvorv is a well known perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Glarvorv has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
 
 ## Psyche
 
@@ -425,7 +425,7 @@ As a Nordheimn perfumer, Glarvorv occupies a recognized social niche within Nord
 
 ### Patrons
 
-Glarvorv's primary patron is Nobles and adventurers seeking unique fragrances.. This relationship provides both opportunity and obligation.
+Glarvorv's primary patron is Nobles and adventurers seeking unique fragrances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; generally well-respected but some traditionalists may disapprove of his met
 
 ## Plot Hooks
 
-1. **The Perfumer's Dilemma**—Glarvorv faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Perfumer's Dilemma**—Glarvorv faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Few; generally well-respected but some traditionalists may disapprove of his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

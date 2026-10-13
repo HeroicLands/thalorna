@@ -11,5 +11,5 @@
 **Corrections**
 
 - Provènzia won its independence in the War of the Charter, no emperor has ruled all of Aurèldía, and Aurèliane began as a Republican colony.
-- Nartûm is an independent kingdom, the Cervaron a claim on paper since the early Republic, and Tarûzel joined the Collegium's charter in the generation after its founding.
+- Nartûm is an independent kingdom, the Cervaron a claim on paper since the early Republic, and Tarûzel joined the Tevran's charter in the generation after its founding.
 - Byzaría dates by the Common Calendar, Heliónis's cities kept their own councils after the conquest, and the Iron Wolves were founded in the Amradi border country.

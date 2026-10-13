@@ -11,7 +11,7 @@ data:
   occupation: Astrologer
   lore: []
   culture: provenzianclt
-  homes: [lunacorte]
+  homes: [jalnazdal]
   affiliations: {kngdmprvnz: {rank: 2}, marendas: {rank: 1}}
   gender: male
   species: humanflk
@@ -404,7 +404,7 @@ Yléndor Mýrdal is a 58-year-old man who stands 5'4" tall and is of moderate bu
 
 Born in the [[place-provenzrgn|Provènzia]] region to a guilded family of Provenzian heritage, Yléndor Mýrdal came into the world of the astrologer through a combination of circumstance and aptitude.
 
-Yléndor is a renowned astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Yléndor’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
+Yléndor is a well known astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Yléndor’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
 
 ## Psyche
 
@@ -430,7 +430,7 @@ As a Provenzian astrologer, Yléndor occupies a recognized social niche within P
 
 ### Patrons
 
-Yléndor's primary patron is Noble family who funds his research.. This relationship provides both opportunity and obligation.
+Yléndor's primary patron is Noble family who funds his research. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -438,7 +438,7 @@ A rival astrologer who seeks to discredit his work.
 
 ## Plot Hooks
 
-1. **The Astrologer's Dilemma**—Yléndor faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Astrologer's Dilemma**—Yléndor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
 2. **Old Grudges**—A rival astrologer who seeks to discredit his work. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

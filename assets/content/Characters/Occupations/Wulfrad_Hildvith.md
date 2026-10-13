@@ -433,7 +433,7 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-1. **The Man-at-Arms (Sapper)'s Dilemma**—Wulfrád faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Man-at-Arms (Sapper)'s Dilemma**—Wulfrád faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

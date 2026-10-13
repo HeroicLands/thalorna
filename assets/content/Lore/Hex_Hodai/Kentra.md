@@ -126,7 +126,7 @@ This response serves the Ordo in several ways simultaneously, regardless of inte
 - **It justifies institutional control.** Because Vertigo Hodäi is "a known risk," the Ordo has a legitimate-sounding reason to closely supervise advanced practitioners and intervene when a Kentra mage begins behaving unusually.
 - **It reinforces the framework.** Every afflicted Kentra mage becomes a cautionary tale that confirms the Six are real and complete. The pathology is read as evidence _for_ the framework rather than against it.
 - **It produces compliant Magistri.** Senior mages observing the fates of their afflicted colleagues learn an unspoken lesson: do not pursue certain lines of thought. Do not voice certain intuitions. Stay within the Six. Some absorb this so deeply they no longer recognize they are doing it.
-- **It gives the Quaesitorium a clean tool.** A Kentra mage who becomes inconveniently insightful can be quietly diagnosed, removed from circulation, and stored. No execution required. No martyrdom. Just a sad case of a brilliant mage who pushed too hard.
+- **It gives the Sekran a clean tool.** A Kentra mage who becomes inconveniently insightful can be quietly diagnosed, removed from circulation, and stored. No execution required. No martyrdom. Just a sad case of a brilliant mage who pushed too hard.
 
 Among the diagnosed mages themselves—and rarely, in whispers, among the few colleagues who suspect—the condition has another name: **the Sundering**. The term is not used in formal Ordo discourse.
 

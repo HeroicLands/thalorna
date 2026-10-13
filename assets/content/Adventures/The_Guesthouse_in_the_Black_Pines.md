@@ -20,7 +20,7 @@ A party crossing the Vandstein highlands by the old road takes shelter in a gues
 
 ## Overview
 
-North of the passes the [[lore-legionsroad|Legions' Road]] crosses a gorge on four Vylarian piers and climbs into the black pines of [[place-dunkelholt|Dunkelholt]], where a stone shell of an imperial post has been roofed again as a guesthouse. Its keeper, **Óthwin yra Vandwald wur Vandgrund**, has a wife the mage below has kept alive after a bear mauled her, and he pays for that by sending travelers down the cellar stair. **Sîrêmôs**, the mage, is a Vylarian of the [[affiliation-ordoarcanis|Ordo Arcanis]] whose house struck him from its rolls; the Quaesitorium wants him dead for the arts he practices. His servants are [[lore-golemcrtr|constructs]] of dead flesh, each held by a ring of signs cut into its skin, and the largest, the Choir, hunts the near bank of the river at night.
+North of the passes the [[lore-legionsroad|Legions' Road]] crosses a gorge on four Vylarian piers and climbs into the black pines of [[place-dunkelholt|Dunkelholt]], where a stone shell of an imperial post has been roofed again as a guesthouse. Its keeper, **Óthwin yra Vandwald wur Vandgrund**, has a wife the mage below has kept alive after a bear mauled her, and he pays for that by sending travelers down the cellar stair. **Sîrêmôs**, the mage, is a Vylarian of the [[affiliation-ordoarcanis|Ordo Arcanis]] whose house struck him from its rolls; the Sekran wants him dead for the arts he practices. His servants are [[lore-golemcrtr|constructs]] of dead flesh, each held by a ring of signs cut into its skin, and the largest, the Choir, hunts the near bank of the river at night.
 
 Three facts carry the adventure, and the party can learn each of them in more than one place:
 
@@ -155,9 +155,9 @@ The sally passage enters the operating chamber from below through a drain grate 
 - **Cleverness with the place.** Burn the cellars behind the party, so nobody works there again.
 - **Giving something up.** Return the furs to the Moktur house that lost them, or the brother's pack to his village.
 
-**Clues and rewards.** Bags of silver aurions, sorted by the house they came from; amber in rough lumps from the Varokh fur parties; bales of prime marten and sable pelts for the river trade; and the mage's own manuscripts in a cedar chest, his surgical notes and the workings he used on the dead, each worth a great deal to the Quaesitorium and dangerous to anyone else who reads them. A riverboat, the mage's own, is moored at the foot of the sally passage, big enough for the party and its goods and whoever it rescued.
+**Clues and rewards.** Bags of silver aurions, sorted by the house they came from; amber in rough lumps from the Varokh fur parties; bales of prime marten and sable pelts for the river trade; and the mage's own manuscripts in a cedar chest, his surgical notes and the workings he used on the dead, each worth a great deal to the Sekran and dangerous to anyone else who reads them. A riverboat, the mage's own, is moored at the foot of the sally passage, big enough for the party and its goods and whoever it rescued.
 
-**Consequences.** The manuscripts draw the Quaesitorium, which pays for them and then asks who else has read them. The furs belong to houses that will pay to have them back. A party that leaves the cellars intact leaves them for the next mage who needs a quiet place.
+**Consequences.** The manuscripts draw the Sekran, which pays for them and then asks who else has read them. The furs belong to houses that will pay to have them back. A party that leaves the cellars intact leaves them for the next mage who needs a quiet place.
 
 **If bypassed, failed or cut short.** A party that escaped by the river in Scene Four without the strongroom can come back by boat on a later day, through the sally passage, with the mage gone or asleep; the strongroom key is on the mage's belt or on Óthwin's, and Sundwyn knows where both men sleep.
 
@@ -167,7 +167,7 @@ The sally passage enters the operating chamber from below through a drain grate 
 - **If the mage lives.** He moves farther north and starts again, and a party that crossed him is the first thing he looks for.
 - **If the Choir still stands.** It keeps the house it was told to keep, and the near bank of the gorge has a hunter on it at night that no village can name.
 - **If Óthwin went home.** The Vandgrund elders call a reckoning on the guides who sent parties north, and the families concerned are the same ones the War Chief fears to drive away.
-- **If the manuscripts went to the Quaesitorium.** The Ordo pays well, and opens a file on the party.
+- **If the manuscripts went to the Sekran.** The Ordo pays well, and opens a file on the party.
 
 ## See Also
 
@@ -176,4 +176,4 @@ The sally passage enters the operating chamber from below through a drain grate 
 - [[lore-legionsroad|The Legions' Road]]—the road and its abandoned posts
 - [[place-vandgrund|Vandgrund]]—the keeper's village and its pass guides
 - [[lore-golemcrtr|Constructs]]—what the mage makes
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the order whose Quaesitorium wants the mage
+- [[affiliation-ordoarcanis|Ordo Arcanis]]—the order whose Sekran wants the mage

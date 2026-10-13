@@ -399,7 +399,7 @@ Knurvthann Hafringr is a 40-year-old man who stands 6'0" tall and is broad and s
 
 Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Knurvthann Hafringr came into the world of the longshoreman through a combination of circumstance and aptitude.
 
-Knurvthann is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
+Knurvthann is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety rules. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
 ## Psyche
 
@@ -425,7 +425,7 @@ As a Nordheimn longshoreman, Knurvthann occupies a recognized social niche withi
 
 ### Patrons
 
-Knurvthann's primary patron is Shipping companies and local merchants.. This relationship provides both opportunity and obligation.
+Knurvthann's primary patron is Shipping companies and local merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-1. **The Longshoreman's Dilemma**—Knurvthann faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Longshoreman's Dilemma**—Knurvthann faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges**—Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

@@ -78,13 +78,13 @@ The Concordat says nothing about the line between the first two. Both sides know
 
 The line between theory and practice is blurred, and both the councils and the Ordo exploit the blur. A student of the colleges learns what a working is, how it is classified and why it succeeds, and stops where the practice would begin. A man who goes on is an unlicensed practitioner, and there are more of them in Heliónis than anywhere else the Ordo reaches.
 
-The Ordo's Quaesitorium treads more carefully in Heliónis than elsewhere, in the land that gave the Ordo its foundations.
+The Ordo's Sekran treads more carefully in Heliónis than elsewhere, in the land that gave the Ordo its foundations.
 
 ## What the Concordat Left
 
 - **The line between theory and practice**, which both sides exploit.
 - **Unlicensed practitioners**, commoner here than anywhere else in the Ordo's reach.
-- **The Quaesitorium's caution** in the Helionite cities.
+- **The Sekran's caution** in the Helionite cities.
 - **The colleges' standing**, as places where arcane theory is taught beside ethics, logic and law.
 
 ## See Also

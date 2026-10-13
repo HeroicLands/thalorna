@@ -2,10 +2,10 @@
 shortcode: twelfthloss
 name:
   full: The Loss of the Twelfth
-  aliases: [The Twelfth Vesperine's Last Winter, The Cervaron Campaign]
+  aliases: [The Doran Hilvan's Last Winter, The Cervaron Campaign]
 type: lore
 subType: history
-description: "About 680 AF a regent's council sends the Twelfth Vesperine into the Cervaron to enforce the boundary stones on the Áelendan clans; the clans let the legion climb, close the passes behind it and wait for the snow, and the legion is struck from the rolls as destroyed with its eagle unreturned."
+description: "About 680 AF a regent's council sends the Doran Hilvan into the Cervaron to enforce the boundary stones on the Áelendan clans; the clans let the legion climb, close the passes behind it and wait for the snow, and the legion is struck from the rolls as destroyed with its eagle unreturned."
 tags: [history, vylaria, thecore]
 data:
   packFolder: vylaria
@@ -23,7 +23,7 @@ data:
         - place-alndntrblnds
         - place-twelfthcamp
       summary: >-
-        A regent's council sends the Twelfth Vesperine into the Cervaron to enforce the boundary stones on the clans. The Áelendan let it climb, close the passes behind it and wait for the snow. The legion is disbanded on the record as destroyed, and its eagle is never returned.
+        A regent's council sends the Doran Hilvan into the Cervaron to enforce the boundary stones on the clans. The Áelendan let it climb, close the passes behind it and wait for the snow. The legion is disbanded on the record as destroyed, and its eagle is never returned.
       standing: attested
       names:
         - {name: the Loss of the Twelfth, by: affiliation-vylrnmltry}
@@ -59,7 +59,7 @@ data:
       accounts:
         - by: affiliation-vylrnmltry
           says: >-
-            The Twelfth Vesperine was destroyed in a campaign in the Cervaron, and its eagle is lost.
+            The Doran Hilvan was destroyed in a campaign in the Cervaron, and its eagle is lost.
           agrees: partly
           withholds: that the legion was never beaten in the field
         - by: place-alndntrblnds
@@ -76,7 +76,7 @@ A mule-train master at the first camp below a Cervaron pass, accepting the passa
 
 The chancery had said nothing to the clans of the Cervaron since the Settlement of the Crowns ([[lore-crownssettle|The Settlement of the Crowns]]). The boundary-stones the western expeditions had planted at the passes stood where the western expeditions had set them ([[lore-westernwars|The Western Wars]]), and the clans treated them as ritual objects of obscure meaning.
 
-About 680, under a regency, the regent's council wanted a victory it could show the Senate. It chose the one boundary the Empire claimed and had never held, and it sent the Twelfth Vesperine to read the stones to the clans. The chancery was not asked. The legion marched in the thaw.
+About 680, under a regency, the regent's council wanted a victory it could show the Senate. It chose the one boundary the Empire claimed and had never held, and it sent the Doran Hilvan to read the stones to the clans. The chancery was not asked. The legion marched in the thaw.
 
 ## The Mountain
 

@@ -481,7 +481,7 @@ The Mineral Consortium of Khazryn
 Dârvazad Kesvarûn
 : His former colleague whose mathematical critique became the basis for Kayvonad's fall from prominence. Kesvarûn has since become the favored elder statesman of the University's alchemical research, a position Kayvonad considers his by right.
 
-The Cabal of Progressive Theorists
+The Cabal of New Theorists
 : A faction of younger scholars at the University who have openly criticized Kayvonad's methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
 
 ### Affiliations

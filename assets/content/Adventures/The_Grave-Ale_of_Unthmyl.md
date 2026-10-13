@@ -105,7 +105,7 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Ódholm]] have hear
 
 **Player choices.** Force: take the hoard and run. Stealth: read the tally by lamp-light and put it back. Guile: keep it and sell its contents to the Raven Guard. Parley: give it to Hrúmrún and ask the völvur to read it.
 
-**Clues and rewards.** The hoard is modest: arm-rings of hack-silver, a pattern-welded sword of old make, a drinking horn bound in silver and a few Vylarian Argenti from a trader long buried in the herders' ground. It is far less than the rumor said, and more than a thief could carry in a night. The tally-stick lists seven howes, each with a notch where a shard has been set. Beside the notches is a mark that stands for the black ice of Dvilgvatn.
+**Clues and rewards.** The hoard is modest: arm-rings of hack-silver, a pattern-welded sword of old make, a drinking horn bound in silver and a few Vylarian Ardini from a trader long buried in the herders' ground. It is far less than the rumor said, and more than a thief could carry in a night. The tally-stick lists seven howes, each with a notch where a shard has been set. Beside the notches is a mark that stands for the black ice of Dvilgvatn.
 
 **Consequences.** The shards are in other howes, and each of them holds a dead man whose cup was never drunk. A party that follows the tally will find that the Nálok work is wider than this fell.
 

@@ -601,7 +601,7 @@ Letters are a borrowing, and late. The Áelendan cut a few words in [[skill-thrv
 
 ### The Wardens and the border
 
-The Áelendan keep no army and have needed one rarely, and the war words they inherited have shrunk to the size of the border they hold. _Thrûmar_ is the empire's word for a general; here it is the one who leads the Wardens of a valley. _Thûrgeson_, a siege in the coastal speech, is the holding of a pass against whoever is coming up it. The word for peace is the one the whole family shares, _rêdha_, and in the highlands it means the quiet between neighbors more than the end of a war.
+The Áelendan keep no army and have needed one rarely, and the war words they inherited have shrunk to the size of the border they hold. _Kamdor_ is the empire's word for a general; here it is the one who leads the Wardens of a valley. _Thûrgeson_, a siege in the coastal speech, is the holding of a pass against whoever is coming up it. The word for peace is the one the whole family shares, _rêdha_, and in the highlands it means the quiet between neighbors more than the end of a war.
 
 | Form         | Source         | Class | Gloss                                                         | Built from | Attested |
 | ------------ | -------------- | ----- | ------------------------------------------------------------- | ---------- | -------- |

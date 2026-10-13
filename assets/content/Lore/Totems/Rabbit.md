@@ -14,7 +14,7 @@ Nervous and quick, rabbits are prey animals that rely on their agility and rapid
 
 ## Human Personality
 
-Agile and easily startled, this individual relies on quick thinking and rapid actions to navigate their environment. They are often seen as cautious and quick to respond to threats.
+The Rabbit person is agile and easily startled, and trusts quick thinking and fast action. Others see a cautious person who reacts quickly to threats.
 
 - **Physical:** Small, quick, agile; alert and reactive.
 - **Behavioral:** Nervous, extremely quick responses, always on alert.

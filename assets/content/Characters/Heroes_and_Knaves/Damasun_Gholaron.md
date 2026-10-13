@@ -407,7 +407,7 @@ sohl:
 
 ![[damsnghlrn|Dámàsûn Ghôlâron]]{float=top-left}
 
-Dámàsûn Ghôlâron—known to most simply as Kléandir—is a tall, dark-skinned man of sixty years who carries his age with a quiet dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
+Dámàsûn Ghôlâron—known to most simply as Kléandir—is a tall, dark-skinned man of sixty years who carries his age with a dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
 
 # Dossier {#dossier}
 
@@ -433,15 +433,15 @@ Something weighs on Kléandir. He suffers from insomnia, and crew members have h
 
 ### Personality
 
-Kléandir presents a face of gentle wisdom—patient, soft-spoken, and genuinely interested in the wellbeing of those around him. He offers counsel without being asked and never presses when it is refused. He is well-read, philosophically sophisticated, and possesses a dry humor that emerges unexpectedly. But there is steel beneath the gentleness. When pushed, Kléandir's eyes go flat and his manner becomes clipped and precise—the manner of a man accustomed to giving orders in dangerous situations. He is a mass of contradictions, and he knows it.
+Kléandir presents a face of gentle wisdom—patient, soft-spoken, and interested in the wellbeing of those around him. He offers counsel without being asked and never presses when it is refused. He is well-read, philosophically refined, and possesses a dry humor that emerges unexpectedly. But there is steel beneath the gentleness. When pushed, Kléandir's eyes go flat and his manner becomes clipped and precise—the manner of a man accustomed to giving orders in dangerous situations. He is a mass of contradictions, and he knows it.
 
 ### Motivation
 
-Kléandir is seeking something—redemption, perhaps, or a peace he has not yet found. His faith is genuine but troubled, tested by experiences he will not discuss. He has attached himself to the Tamzîr's crew with a protectiveness that suggests he has found, in these misfits, something worth caring about. He is particularly watchful over the younger members of the crew.
+Kléandir is seeking something—redemption, perhaps, or a peace he has not yet found. His faith is sincere but troubled, tested by experiences he will not discuss. He has attached himself to the Tamzîr's crew with a protectiveness that suggests he has found, in these misfits, something worth caring about. He is particularly watchful over the younger members of the crew.
 
 ### Strengths
 
-Kléandir is far more dangerous than he appears. He is an expert archer, a skilled melee fighter, and possesses tactical awareness that suggests formal military or intelligence training. He is also genuinely wise—his counsel is sound, his reading of people is incisive, and his knowledge of folklore, astrology, and arcane traditions is encyclopedic. He has connections that he occasionally calls upon, connections that a simple cleric should not possess.
+Kléandir is more dangerous than he appears. He is an expert archer, a skilled melee fighter, and possesses tactical awareness that suggests formal military or intelligence training. He is also wise—his counsel is sound, his reading of people is incisive, and his knowledge of folklore, astrology, and arcane traditions is encyclopedic. He has connections that he occasionally calls upon, connections that a simple cleric should not possess.
 
 ### Weaknesses
 

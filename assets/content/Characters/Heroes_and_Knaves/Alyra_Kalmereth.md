@@ -452,7 +452,7 @@ Three years into her independent work, Ályra has gained a modest reputation for
 
 ### Strengths
 
-- **Unparalleled Craftsmanship**: Ályra's hands are extensions of her vision. Her ability to work with natural materials—carving wood, weaving cloth, mixing pigments—produces toys of astounding detail and durability. She instinctively understands proportion, balance, and the subtle anatomies that bring wooden figures to life.
+- **Craftsmanship**: Ályra's hands are extensions of her vision. Her ability to work with natural materials—carving wood, weaving cloth, mixing pigments—produces toys of astounding detail and durability. She instinctively understands proportion, balance, and the subtle anatomies that bring wooden figures to life.
 
 - **Boundless Imagination**: Her creativity allows her to envision entire worlds within a single carved figure. She designs toys that tell stories, that move in unexpected ways, that possess hidden mechanisms and surprising details that reward close inspection.
 

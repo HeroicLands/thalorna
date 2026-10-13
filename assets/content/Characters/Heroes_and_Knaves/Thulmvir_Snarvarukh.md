@@ -438,7 +438,7 @@ At thirty, Thulmvir returned to Vithgard to establish his own workshop, purchasi
 
 ### Personality
 
-Thulmvir is fundamentally a pragmatist—focused, deliberate, and patient in ways that confound more impulsive individuals. He speaks slowly and deliberately, rarely wasting words, and his decisions are considered rather than reactive. This can make him seem dull or inflexible to those who don't understand him, but his students recognize it as the foundation of mastery. He takes genuine pleasure in teaching those who show real dedication, and he has the capacity to be surprisingly warm with apprentices who demonstrate the kind of earnest effort that mirrors his own.
+Thulmvir is fundamentally a pragmatist—focused, deliberate, and patient in ways that confound more impulsive individuals. He speaks slowly and deliberately, rarely wasting words, and his decisions are considered rather than reactive. This can make him seem dull or inflexible to those who don't understand him, but his students recognize it as the foundation of mastery. He takes pleasure in teaching those who show real dedication, and he has the capacity to be surprisingly warm with apprentices who demonstrate the kind of earnest effort that mirrors his own.
 
 Yet there is a brittleness to Thulmvir as well—a resistance to change that has hardened into something almost defensive. When confronted with new techniques or aesthetic approaches, his first instinct is dismissal. He has become somewhat rigid in his perspectives, viewing innovation with suspicion rather than curiosity. This has made him something of a relic even in his own time, respected by tradition-minded customers but increasingly dismissed by younger craftspeople and wealthy patrons seeking the cutting edge.
 
@@ -451,13 +451,13 @@ At forty, Thulmvir is primarily motivated by the desire to preserve authentic cr
 - **Masterful Ceramics Technique** - Thulmvir's hands have shaped thousands of pots. His touch is instinctive; he can feel when clay is at exactly the right consistency and can sense a kiln's temperature through subtle environmental cues. His firing success rate is among the highest in the region.
 - **Deep Knowledge of Materials** - He understands clay types, mineral content, and how different sources of raw material behave under various conditions. He can identify quality clay by touch and sight, and he knows precisely how to prepare and condition different earth sources.
 - **Excellence in Functional Design** - His vessels are not merely beautiful; they're engineered for use. They have the correct weight distribution, the right wall thickness for the intended function, glazes that are food-safe and durable. A **Thulmvir Snarvarukh** pot doesn't just work—it works beautifully.
-- **Patient Mentor** - Despite his rigidity in some areas, Thulmvir is genuinely gifted at teaching those willing to learn properly. He breaks down complex processes into manageable components and has the patience to repeat lessons until understanding settles in.
+- **Patient Mentor** - Despite his rigidity in some areas, Thulmvir is gifted at teaching those willing to learn properly. He breaks down complex processes into manageable components and has the patience to repeat lessons until understanding settles in.
 - **Perceptive Understanding of Material Properties** - He can read clay, glaze, and fire in ways that border on intuitive. He rarely makes mistakes, and when he does, he quickly diagnoses the problem and adjusts.
 - **Respected Reputation** - His name carries weight in Vithgard and surrounding regions. Families commission his work for special occasions, and his pieces hold resale value.
 
 ### Weaknesses
 
-- **Resistant to Innovation** - His greatest limitation, Thulmvir's attachment to traditional methods has become almost dogmatic. He dismisses new glaze formulas, contemporary design approaches, and modern kiln technologies with reflexive skepticism.
+- **Resistant to Innovation** - His greatest limitation, Thulmvir's attachment to traditional methods has become almost dogmatic. He dismisses new glaze formulas, contemporary design approaches, and newer kilns with reflexive skepticism.
 - **Limited Commercial Acumen** - He has never been particularly skilled at marketing, negotiating advantageous sales, or understanding broader business strategy. He makes beautiful pots and expects them to sell; he's never been ambitious about expanding his market reach.
 - **Aesthetic Inflexibility** - Young patrons seeking fashionable designs are often disappointed by Thulmvir's refusal to deviate from what he considers "proper form." His aesthetic is locked in tradition.
 - **Difficulty Adapting to Change** - Beyond pottery technique, Thulmvir struggles to adapt to broader changes in society. New economic systems, shifting cultural values, and changing customer preferences often baffle or frustrate him.
@@ -469,13 +469,13 @@ At forty, Thulmvir is primarily motivated by the desire to preserve authentic cr
 ### Patrons
 
 The Merchant House Valdris
-: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Aldric Valdris**, respects traditional craftsmanship and ensures that **Thulmvir's** work remains in demand among the upper classes.
+: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Aldric Valdris**, respects traditional craftsmanship and keeps **Thulmvir's** work in demand among the upper classes.
 
 The Miller's Cooperatives
 : Multiple miller families depend on Thulmvir's storage and measurement vessels, which are prized for their durability and accuracy of form.
 
 Herbalist Magga Hvalgumakh
-: A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a genuine friend despite their generational difference.
+: A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a friend despite their generational difference.
 
 ### Enemies
 
@@ -483,24 +483,24 @@ The Merchants' Collective of New Fashion
 : A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thulmvir's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
 
 Artisan Eldrik Vrathumakh
-: A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Eldrik champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's market dominance. The ideological conflict between them runs deep.
+: A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Eldrik champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's hold on the market. The ideological conflict between them runs deep.
 
 ### Affiliations
 
 Potters' Guild of Vithgard
-: - While respected, Thulmvir holds increasingly conservative positions in guild politics, often opposing progressive initiatives or modernization efforts, creating friction with younger members.
+: - While respected, Thulmvir holds increasingly conservative positions in guild politics, often opposing new schemes and changes, creating friction with younger members.
 
 The Traditionalists' Circle
 : - An informal association of master craftspeople from various disciplines who meet monthly to discuss the preservation of classical techniques and resistance to what they see as corruptive modern influences.
 
 ## Plot Hooks
 
-1. **The Apprentice's Dilemma**: - **Thulmvir's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Eldrik**, involving travel to distant centers of ceramic innovation and the opportunity to experiment with cutting-edge techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
+1. **The Apprentice's Dilemma**: - **Thulmvir's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Eldrik**, involving travel to distant centers of the potter's art and the opportunity to experiment with new techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
 
-2. **The Crisis of the Kiln**: - Thulmvir's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Aldric Valdris** to use a new, efficient kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.
+2. **The Crisis of the Kiln**: - Thulmvir's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Aldric Valdris** to use a new, hotter kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.
 
 3. **The Competition of Prestige**: - The King's court announces a grand competition for artisans across the realm—the winner will be commissioned to create the ceremonial vessels for a royal wedding, earning both significant payment and extraordinary prestige. Despite his reservations, Thulmvir's peers urge him to enter, and he's uncertain whether his traditional work can compete against younger, more innovative potters. The preparation process becomes an internal struggle between staying true to his principles and the temptation to compromise them for validation.
 
-4. **The Archaeological Discovery**: - While excavating clay sources, Thulmvir uncovers fragments of ancient pottery—masterwork vessels from centuries past that suggest sophisticated techniques and aesthetic approaches lost to modern knowledge. He becomes obsessed with understanding the original creation methods, realizing that "ancient tradition" might not actually align with current practices. This philosophical crisis threatens to upend his entire worldview about what authentic tradition actually means.
+4. **The Archaeological Discovery**: - While excavating clay sources, Thulmvir uncovers fragments of ancient pottery—masterwork vessels from centuries past that suggest advanced techniques and aesthetic approaches lost to modern knowledge. He becomes obsessed with understanding the original creation methods, realizing that "ancient tradition" might not actually align with current practices. This philosophical crisis threatens to upend his entire worldview about what authentic tradition actually means.
 
-5. **The Student Surpasses the Master**: - One of Thulmvir's former apprentices, now established in a distant city, achieves remarkable success by combining traditional techniques with innovative aesthetic principles. Word reaches Thulmvir that this student is creating work that is both beautifully functional and aesthetically advanced, suggesting that tradition and innovation aren't actually contradictory. Thulmvir is forced to confront whether his resistance to change has been protecting wisdom or preventing growth, and whether it's too late for him to evolve or whether pride simply won't permit it.
+5. **The Student Surpasses the Master**: - One of Thulmvir's former apprentices, now established in a distant city, achieves success by combining traditional techniques with new principles of beauty. Word reaches Thulmvir that this student is creating work that is both beautifully functional and aesthetically advanced, suggesting that tradition and innovation aren't actually contradictory. Thulmvir is forced to confront whether his resistance to change has been protecting wisdom or preventing growth, and whether it's too late for him to evolve or whether pride simply won't permit it.

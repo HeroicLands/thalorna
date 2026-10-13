@@ -429,7 +429,7 @@ Few; respected by the community.
 
 ## Plot Hooks
 
-1. **The Ostler's Dilemma**—Sundwíra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Ostler's Dilemma**—Sundwíra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 
 2. **Old Grudges**—Few; respected by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

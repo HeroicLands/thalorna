@@ -428,7 +428,7 @@ Street thugs who extort money from beggars.
 
 ## Plot Hooks
 
-1. **The Beggar's Dilemma**—Maud faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Beggar's Dilemma**—Maud faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—Street thugs who extort money from beggars. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

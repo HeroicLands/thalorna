@@ -156,7 +156,7 @@ Beyond the north, the [[place-grkrhlmrgn|Grukar]] to the east share the hard cli
 
 ## Commerce and Currency
 
-Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (aurion, argo and bit), and no chapter of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] operates in the Nordlands. Vylarian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vylarian banking houses.
+Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (elthêzâs, ankhrâ and bit), and no chapter of the [[affiliation-danvar|Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vylarian banking houses.
 
 ## See Also
 

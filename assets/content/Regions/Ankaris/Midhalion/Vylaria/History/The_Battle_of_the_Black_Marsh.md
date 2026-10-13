@@ -3,7 +3,7 @@ shortcode: blackmarshbtl
 name: {full: The Battle of the Black Marsh, aliases: [The Black Marsh, The Recovery of the Eagle]}
 type: lore
 subType: history
-description: "In the spring of 520 AF the Tertia Aurelia Coronata pins the largest Varokh host the hunger raids sent south against the water below the Moktur passes and destroys it to the last man, recovering the Fourth Vesperine's eagle and earning the gold band its name carries."
+description: "In the spring of 520 AF the Karsan Soldan Korvan pins the largest Varokh host the hunger raids sent south against the water below the Moktur passes and destroys it to the last man, recovering the Pelsan Hilvan's eagle and earning the gold band its name carries."
 tags: [history, vylaria, thedrift]
 data:
   packFolder: vylaria
@@ -16,11 +16,11 @@ data:
         - affiliation-vylrnmltry
         - affiliation-provncmktr
         - place-moktur
-        - place-castrovar
+        - place-dolvar
         - place-vandstein
         - place-blackmarshfld
       summary: >-
-        A Varokh host carrying the Fourth Vesperine's eagle comes down into northern Moktur in the spring, the largest the hunger raids have sent. The Tertia Aurelia Coronata closes the valley above it and waits, and when the host tries to break out the legion drives it down into the marsh at the valley's foot, where it dies to the last man. The legion takes the eagle out of the reeds and carries a gold band on its name ever after.
+        A Varokh host carrying the Pelsan Hilvan's eagle comes down into northern Moktur in the spring, the largest the hunger raids have sent. The Karsan Soldan Korvan closes the valley above it and waits, and when the host tries to break out the legion drives it down into the marsh at the valley's foot, where it dies to the last man. The legion takes the eagle out of the reeds and carries a gold band on its name ever after.
       standing: attested
       names:
         - {name: the Battle of the Black Marsh, by: affiliation-vylrnmltry}
@@ -34,7 +34,7 @@ data:
             how: >-
               every watchtower counts the smoke at dusk, and the sergeants teach the recruits that the count was right at the Black Marsh
             knowledge: named
-          - place: place-castrovar
+          - place: place-dolvar
             how: >-
               the fortress raised to hold the passes sends out the legion that wins the day
             knowledge: named
@@ -52,7 +52,7 @@ data:
       accounts:
         - by: affiliation-vylrnmltry
           says: >-
-            The Tertia Aurelia Coronata recovered the Fourth Vesperine's eagle at the Black Marsh, and the _ôrkhaimâ_ is the most sacred object the army owns.
+            The Karsan Soldan Korvan recovered the Pelsan Hilvan's eagle at the Black Marsh, and the _ôrkhaimâ_ is the most sacred object the army owns.
           agrees: full
         - by: lore-varokhiclt
           says: >-
@@ -63,19 +63,19 @@ data:
         - how many of the dead lie in the marsh and how many were carried out for the pyres
 ---
 
-A sergeant of the watch at Castrovar, teaching a recruit to count smoke from the wall at dusk, points down the valley to where the light goes grey and flat. "That is the marsh," he says. "We do not look at it. We look at the forest. Anything that comes out of the forest, we count. Anything that went into the marsh, we leave."
+A sergeant of the watch at Dolvar, teaching a recruit to count smoke from the wall at dusk, points down the valley to where the light goes grey and flat. "That is the marsh," he says. "We do not look at it. We look at the forest. Anything that comes out of the forest, we count. Anything that went into the marsh, we leave."
 
 ## The Eagle in the Forest
 
-In 518 a Varokh war-band burned the camp of the Fourth Vesperine in a Mokturan valley and carried the legion's eagle north over the passes ([[lore-hungerraids|The Hunger Raids]]). No legion had lost its _ôrkhaimâ_ to barbarians before, and the army's manual disbands a legion that loses one. The chancery held the Fourth's name on the roll for two years, because the eagle was known to hang in the forest and the legion meant to have it back.
+In 518 a Varokh war-band burned the camp of the Pelsan Hilvan in a Mokturan valley and carried the legion's eagle north over the passes ([[lore-hungerraids|The Hunger Raids]]). No legion had lost its _ôrkhaimâ_ to barbarians before, and the army's manual disbands a legion that loses one. The chancery held the Fourth's name on the roll for two years, because the eagle was known to hang in the forest and the legion meant to have it back.
 
 In the spring of 520 the eagle came south again. The hunger that followed the Three Winters ([[lore-threewinters|The Three Winters]]) had gathered war-bands from a dozen villages into one host, the largest the passes had seen, and it carried the eagle at its head.
 
 ## The Valley and the Water
 
-The Tertia Aurelia Coronata, a legion of the northern march, met the host in the valleys below the passes. The legion did not give battle in the open. It closed the valley above the host and held the ridges, and when the host turned to break out, the only ground that fell away from the legion was the marsh at the valley's foot. A man in mail sinks to the waist there. The host could not stand together on it, and the legion did not have to go in.
+The Karsan Soldan Korvan, a legion of the northern march, met the host in the valleys below the passes. The legion did not give battle in the open. It closed the valley above the host and held the ridges, and when the host turned to break out, the only ground that fell away from the legion was the marsh at the valley's foot. A man in mail sinks to the waist there. The host could not stand together on it, and the legion did not have to go in.
 
-It died there to the last man. The Coronata took the eagle out of the reeds. The Augustar Hárvânês of House Hêlarkâlês, who had ruled the Empire through the Three Winters and the raids that followed them, granted the legion a gold band on its name for the recovery. The Fourth Vesperine's name was struck from the roll in the same year, as the manual requires, and its eagle went to the shrine at Tyrellan, the province's seat.
+It died there to the last man. The Korvan took the eagle out of the reeds. The Ôrzâs Hárvânês of House Hêlarkâlês, who had ruled the Empire through the Three Winters and the raids that followed them, granted the legion a gold band on its name for the recovery. The Pelsan Hilvan's name was struck from the roll in the same year, as the manual requires, and its eagle went to the shrine at Tyrellan, the province's seat.
 
 ## What Moktur Made of It
 
@@ -86,7 +86,7 @@ The ground did not settle. The marsh keeps a quality the garrisons describe and 
 ## What It Left
 
 - **The Blood-field of the Black Marsh.** A dread on the march, thin enough that things cross.
-- **The Coronata's gold band.** The honor the manual gives a legion that recovers a lost eagle, carried by the Coronata ever since.
+- **The Korvan's gold band.** The honor the manual gives a legion that recovers a lost eagle, carried by the Korvan ever since.
 - **The smoke count.** The northern watch's first lesson, and the reason a sergeant does not look at the marsh.
 
 ## See Also
@@ -95,4 +95,4 @@ The ground did not settle. The marsh keeps a quality the garrisons describe and 
 - [[lore-empirdclne|The Decline of the Vylarian Empire]]—the lost northern revenue
 - [[place-blackmarshfld|The Blood-field of the Black Marsh]]—the ground itself
 - [[affiliation-vylrnmltry|Vylarian Military]]—what a legion owes its eagle
-- [[place-castrovar|Castrovar]]—the fortress on the march
+- [[place-dolvar|Dolvar]]—the fortress on the march

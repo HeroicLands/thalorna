@@ -3,7 +3,7 @@ shortcode: vylarinmpr
 name: {full: Vylarian Empire, aliases: []}
 type: affiliation
 subType: polity
-description: "The declining empire of the Vylarian peninsula—four provinces under an Augustar, a Senate and the Ordo Arcanis, still spanning half of Ankaris on its own maps and the eternal pretender to universal rule."
+description: "The declining empire of the Vylarian peninsula—four provinces under an Ôrzâs, a Senate and the Ordo Arcanis, still spanning half of Ankaris on its own maps and the eternal pretender to universal rule."
 data:
   templatePriority: null
   demonym: Vylarian
@@ -12,7 +12,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Augustar over a senate of the great families, a scribal bureaucracy and the curiae; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
+      Hereditary Ôrzâs over a senate of the great families, a scribal bureaucracy and the councils; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
     ranks:
       - level: 0
         title: Proscribed
@@ -45,13 +45,13 @@ data:
         lore: formermagrnk
         description: Having held the consulship, and eligible thereafter for the greatest provincial commands.
       - level: 8
-        title: Augustar
+        title: Ôrzâs
         description: >-
           The sovereign, whose authority rests on tradition, the loyalty of the armies and the senate's acquiescence—and who is a prisoner of all three.
     offices:
-      Augustar: >-
+      Ôrzâs: >-
         The sovereign, first among the senate in name and its master in fact, so long as the armies hold.
-      Augusta: The Augustar's consort, holding her own household, revenues and court faction.
+      Consort of the Ôrzâs: The Ôrzâs's consort, holding her own household, revenues and court faction.
       Consul: >-
         Chief magistrate of the year—an office of enormous prestige and, under an emperor, of modest power.
       Praetor: Magistrate of the courts, declaring the law for his year.
@@ -59,18 +59,18 @@ data:
       Quaestor: Officer of the treasury, answerable for revenue and disbursement.
       Aedile: Officer of the city's markets, streets, water and games.
       Tribune: >-
-        Speaker for the citizen body, and a title the Augustar holds himself for what it lets him block.
-      Praetorian Prefect: Commander of the Augustar's guard, and in practice the second man in the empire.
-      Legate: Commander of a legion, or governor of an imperial province, commissioned by the Augustar.
+        Speaker for the citizen body, and a title the Ôrzâs holds himself for what it lets him block.
+      Prefect of the Guard: Commander of the Ôrzâs's guard, and in practice the second man in the empire.
+      Legate: Commander of a legion, or governor of an imperial province, commissioned by the Ôrzâs.
       Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
-      Pontifex Maximus: Chief priest of the state cult, an office the Augustar holds in his own person.
+      Sarnax Maldor: Chief priest of the state cult, an office the Ôrzâs holds in his own person.
   seat: orzara
   population: 21000000
   economy:
-    - affiliation-aerarimmpr
-    - affiliation-clgmrgntrrm
-    - affiliation-curiafscls
-    - affiliation-magnumclgm
+    - affiliation-tarmex
+    - affiliation-danvar
+    - affiliation-tolvan
+    - affiliation-tevran
     - lore-vylrncrncy
   lore: [humanflk]
   parents: []
@@ -95,7 +95,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of [[place-midhalnrgn|Mídhalión]], from [[place-tarvenirgn|Tarvénia]] and [[place-provenzrgn|Provènzia]] in the west to the edge of [[affiliation-cnfdrtntrzlnstts|Tarûzel]] in the east. Today it holds [[place-vylariargn|Vylaría]], its four provinces the lands of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
 
-The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Ôrzâra]], begins with the titles: "You will hear the Emperor called the **Augustar**, and you will call him that too. You will hear the Senate debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
+The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Ôrzâra]], begins with the titles: "You will hear the Emperor called the **Ôrzâs**, and you will call him that too. You will hear the Senate debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
 
 ## History
 
@@ -105,9 +105,9 @@ The freedman secretary of a senatorial house, briefing a newly accredited envoy 
 
 The Republic expanded, made law, and grew more violent with itself as it went. [[lore-helionscnq|The conquest of Heliónis]], begun in 335 BF and finished in 312 BF, was its crucible. The Helionite city-states turned their mages against the legions and loosed the most devastating magical warfare western Ankaris had seen: sorceries that shattered formations and poisoned the land, against which ordinary troops were helpless. Vylaria's answer was the **Dragon Riders**, warriors bonded to dragons whose presence destabilized magic, so that spells misfired and arcane power turned back on whoever wielded it. The Riders broke the great mages of Heliónis where legions could not. What the Republic gave the dragons for that arm is not in any account of the war (see [[lore-dragondead|The Dragon Dead at Therádon]] and [[lore-thebargain|The Bargain]]). The war's cost was staggering either way.
 
-In 312 BF, as the last city fell, the Senate carved the College of Arcane Philosophy out of the Helionite [[affiliation-panepistmm|Panepistemium]] and placed it under a magistracy, the **Praefectura Arcana**, which held the Republic's arcanists on a register. In 75 BF an unchanneled release at [[lore-recensio|the Recensio of Alyssa]] killed most of the Republic's senior arcanists and destroyed their books. In 73 BF the surviving masters drafted terms that the Senate took as the [[lore-lexarcana|Lex Arcana]], the charter of the [[affiliation-ordoarcanis|Ordo Arcanis]], which on paper is the College of Arcane Philosophy within the Epistemium to this day. The charter imposed a monopoly on arcane practice throughout the Republic's territories so that magic would never again be wielded freely on a battlefield. The Ordo drew on Helionite arcane theory and enforced it with Vylarian military power, and of everything the Republic did, few acts have lasted longer.
+In 312 BF, as the last city fell, the Senate carved the College of Arcane Philosophy out of the Helionite [[affiliation-panepistmm|Panepistemium]] and placed it under a magistracy, the **Kandral**, which held the Republic's arcanists on a register. In 75 BF an unchanneled release at [[lore-recensio|the Recensio of Alyssa]] killed most of the Republic's senior arcanists and destroyed their books. In 73 BF the surviving masters drafted terms that the Senate took as the [[lore-kandrol|Kandrol]], the charter of the [[affiliation-ordoarcanis|Ordo Arcanis]], which on paper is the College of Arcane Philosophy within the Epistemium to this day. The charter imposed a monopoly on arcane practice throughout the Republic's territories so that magic would never again be wielded freely on a battlefield. The Ordo drew on Helionite arcane theory and enforced it with Vylarian military power, and of everything the Republic did, few acts have lasted longer.
 
-Around 45 BF the Republic's standing lease with the dragons [[lore-ridersdisb|was not renewed]], the Dragon Riders were disbanded and the Eyrie of [[place-monsaquila|Mons Aquila]] was sealed. The reason given was the dragons' effect on magic. The manner of their going involved a betrayal whose details are among the most closely suppressed secrets of the Republic, and the Republic did not record it honestly.
+Around 45 BF the Republic's standing lease with the dragons [[lore-ridersdisb|was not renewed]], the Dragon Riders were disbanded and the Eyrie of [[place-arvel|Arvel]] was sealed. The reason given was the dragons' effect on magic. The manner of their going involved a betrayal whose details are among the most closely suppressed secrets of the Republic, and the Republic did not record it honestly.
 
 As Vylarian power grew, so did the ambitions of senators and generals. The late Republic was wracked by civil wars, factional violence and the dangerous concentration of power in the hands of successful commanders.
 
@@ -115,9 +115,9 @@ As Vylarian power grew, so did the ambitions of senators and generals. The late 
 
 In what is now reckoned **Year 1**, a powerful senator, backed by loyal legions and by the Ordo Arcanis chartered seventy-three years earlier, seized supreme power and declared himself Emperor ([[lore-thefounding|The Founding]]). The Senate survived, reduced from a governing body to an advisory one. The change was no sudden revolution but the end of decades of political erosion: the Emperor formalized what had already become fact. The calendar of western Ankaris counts from that year.
 
-The Founder's line held the throne for the first ninety-five years. The first Augustar walled the crown of Mons Aquila and moved the Senate up to it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Ordo's Quaesitorium hunted down the last practitioners outside its register ([[lore-huntingyears|The Hunting Years]]); and the second, Arkânamos, made the citizenship a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The last of the line, Halânòr, died without a son and named a legate of House Vârkalênîs to follow him.
+The Founder's line held the throne for the first ninety-five years. The first Ôrzâs walled the crown of Arvel and moved the Senate up to it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Ordo's Sekran hunted down the last practitioners outside its register ([[lore-huntingyears|The Hunting Years]]); and the second, Arkânamos, made the citizenship a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The last of the line, Halânòr, died without a son and named a legate of House Vârkalênîs to follow him.
 
-Three centuries of conquest followed. The legions fought west and north-west for the best part of that time ([[lore-westernwars|The Western Wars]]). About 224 the high priesthood of Nartûm refused obedience to an Augustar who would not proscribe the Black Flame, and the kingdom has stood apart since ([[lore-nartumrefuse|Nartûm Refuses the Empire]]). After the Storm of the Hundred Banners broke at Amradad's walls, the eastern legions raised a line of hill forts across Tarûzel's islands ([[lore-easternline|The Eastern Line]]), and the imperial archive on Mons Aquila burned ([[lore-archivefire|The Archive Fire]]). In 377 the Augustar Barnâkîs sent the strongest field army the Empire had across the sea to the Khelâthi delta, and its commander was crowned there ([[lore-deltaexped|The Delta Expedition]]). He died in 389 with no heir named, and for sixteen years the guard, the Senate and the legions of Moktur each carried an eagle before an Augustar of their own ([[lore-brkensuccsn|The Broken Succession]]). The legions fought one another at Olcassa in Hylen ([[lore-olcassabtl|The Battle of Olcassa]]), the dole failed and the capital burned ([[lore-greatburnng|The Great Burning]]), and about 406 Makândas took the city and founded House Hêlarkâlês ([[lore-restorehouse|The Restoration]]). His successor Arzánas closed the western conquests and gave the Empire the institutions it keeps ([[lore-arzanasedict|The Edicts of Arzánas]]). The historians divide the years of the Vylarian Calendar into eight [[lore-vylariages|ages]], and these events fall in the first five.
+Three centuries of conquest followed. The legions fought west and north-west for the best part of that time ([[lore-westernwars|The Western Wars]]). About 224 the high priesthood of Nartûm refused obedience to an Ôrzâs who would not proscribe the Black Flame, and the kingdom has stood apart since ([[lore-nartumrefuse|Nartûm Refuses the Empire]]). After the Storm of the Hundred Banners broke at Amradad's walls, the eastern legions raised a line of hill forts across Tarûzel's islands ([[lore-easternline|The Eastern Line]]), and the imperial archive on Arvel burned ([[lore-archivefire|The Archive Fire]]). In 377 the Ôrzâs Barnâkîs sent the strongest field army the Empire had across the sea to the Khelâthi delta, and its commander was crowned there ([[lore-deltaexped|The Delta Expedition]]). He died in 389 with no heir named, and for sixteen years the guard, the Senate and the legions of Moktur each carried an eagle before an Ôrzâs of their own ([[lore-brkensuccsn|The Broken Succession]]). The legions fought one another at Olcassa in Hylen ([[lore-olcassabtl|The Battle of Olcassa]]), the dole failed and the capital burned ([[lore-greatburnng|The Great Burning]]), and about 406 Makândas took the city and founded House Hêlarkâlês ([[lore-restorehouse|The Restoration]]). His successor Arzánas closed the western conquests and gave the Empire the institutions it keeps ([[lore-arzanasedict|The Edicts of Arzánas]]). The historians divide the years of the Vylarian Calendar into eight [[lore-vylariages|ages]], and these events fall in the first five.
 
 At its height the empire held most of western Ankaris, from the forests of [[place-vrystwald|Vrystwald]] to the edge of the [[place-dunharargn|Dunhari]] deserts, and from the shores of [[place-elavendre|Élavendre]] to the harbors of Tarûzel. Its legions were unmatched, its bureaucracy efficient, and its culture the measure every other was held against.
 
@@ -125,11 +125,11 @@ At its height the empire held most of western Ankaris, from the forests of [[pla
 
 [[lore-empirdclne|The decline]] began roughly two hundred years ago. Overextension, corruption at home, barbarian pressure from [[place-vrystwald|Vrystwald]] and the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and the gradual independence of provinces such as [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]] drove it together.
 
-The north's hunger raids stripped Moktur's valleys until a legion won its eagle back in the marsh ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), and the far provinces stopped obeying one at a time. About 619 the Augustar Azénalès settled what the Empire still was with the Aurèldían crowns and the Byzarian League: their freedom from imperial governance and tax, kept inside the note system at the Aerarium's two-percent fee, and Heliónis a province on the chancery's roll ([[lore-crownssettle|The Settlement of the Crowns]]). About 680 a regent's council sent the Twelfth Vesperine into the Cervaron and lost it ([[lore-twelfthloss|The Loss of the Twelfth]]).
+The north's hunger raids stripped Moktur's valleys until a legion won its eagle back in the marsh ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), and the far provinces stopped obeying one at a time. About 619 the Ôrzâs Azénalès settled what the Empire still was with the Aurèldían crowns and the Byzarian League: their freedom from imperial governance and tax, kept inside the note system at the Tarmex's two-percent fee, and Heliónis a province on the chancery's roll ([[lore-crownssettle|The Settlement of the Crowns]]). About 680 a regent's council sent the Doran Hilvan into the Cervaron and lost it ([[lore-twelfthloss|The Loss of the Twelfth]]).
 
 The worst humiliation came roughly twelve years ago, when Tarûzel, the empire's wealthiest eastern province, won a war of independence. Its merchant princes, rich as middlemen in the eastern trade, had chafed for generations under imperial taxation and regulation imposed without any voice in the Senate. When the empire answered their growing power with heavier levies and tighter control, the merchants financed a revolution and recruited the common people with promises of liberty. The empire's first response was effective on land. Then the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], seeing a chance to weaken its northern rival, covertly supplied the rebels with gold, weapons and military advisors. The Khelâthi court kept up the fiction of "humanitarian commerce," but its gold kept the rebellion solvent, and its naval expertise turned the Tarûzelian captains' ragtag flotilla into a fighting force. The [[affiliation-kngdmmrdd|Kingdom of Amradad]], whose relations with the empire have long been antagonistic, was among the other powers that helped the Tarûzelians break away. The destruction of a Vylarian squadron at the Battle of [[place-tamzirshoals|Tamzîr Shoals]] broke the empire's ability to hold its eastern garrisons, and it recognized Tarûzel's independence within the year rather than pay for another campaign.
 
-The empire has since drawn back to its core territories around the Vylarian peninsula, while still claiming authority over regions that went their own way long ago. The loss of Tarûzel's trade revenue has sped the fiscal decline, and direct Tarûzelian–Khelâthi commerce now bypasses Vylarian middlemen entirely. The defeat, and the knowledge that Aû'Khelâthu's hand was behind it, festers in the Senate and the officer corps. About 710 the Dux Bellorum's report on the war forced a compromise on the commission system ([[lore-commissioncmp|The Commission Compromise]]).
+The empire has since drawn back to its core territories around the Vylarian peninsula, while still claiming authority over regions that went their own way long ago. The loss of Tarûzel's trade revenue has sped the fiscal decline, and direct Tarûzelian–Khelâthi commerce now bypasses Vylarian middlemen entirely. The defeat, and the knowledge that Aû'Khelâthu's hand was behind it, festers in the Senate and the officer corps. About 710 the Dukran's report on the war forced a compromise on the commission system ([[lore-commissioncmp|The Commission Compromise]]).
 
 ### The Vylarian Calendar {#the-vylarian-calendar}
 
@@ -159,11 +159,11 @@ Education, rhetoric and law are central to Vylarian identity. The legal traditio
 The Emperor rules in name. In practice power is shared, and contested, among four parties:
 
 - **The Emperor and his court**, whose authority rests on tradition, the loyalty of the armies and the acquiescence of the Senate.
-- **The [[affiliation-curiavylar|Senate]]**, the great senatorial families in their chamber.
-- **The military commanders**, above all the [[affiliation-pratrgstrm|Praetar Augustarum]] in the capital.
+- **The [[affiliation-seldan|Senate]]**, the great senatorial families in their chamber.
+- **The military commanders**, above all the [[affiliation-sorvan|Sorvan]] in the capital.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]**, more and more deeply woven into the imperial structure.
 
-Weak emperors become puppets of the Senate or the Ordo; strong ones face conspiracies from both. The court lives in constant low-level intrigue, with factions maneuvering for advantage while the empire's position abroad keeps weakening. The day-to-day state runs through the scribes of the [[affiliation-imprlscrblgld|Imperial Scribal Guild]], the tax courts of the [[affiliation-curiafscls|Curia Fiscalis]] and the treasury of the [[affiliation-aerarimmpr|Aerarium Imperii]].
+Weak emperors become puppets of the Senate or the Ordo; strong ones face conspiracies from both. The court lives in constant low-level intrigue, with factions maneuvering for advantage while the empire's position abroad keeps weakening. The day-to-day state runs through the scribes of the [[affiliation-imprlscrblgld|Imperial Scribal Guild]], the tax courts of the [[affiliation-tolvan|Tolvan]] and the treasury of the [[affiliation-tarmex|Tarmex Orzan]].
 
 ## Religion
 
@@ -171,7 +171,7 @@ The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the state religion, and [
 
 Vylaria is remarkably tolerant of other faiths and remarkably fickle about them. The empire has always absorbed the religions of the peoples it conquered, and the capital is a bazaar of competing cults, temples and movements. Aurèldían temples dominate the old city. [[affiliation-ashanpnthn|Āsháian]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian]] warrior-cults draw military officers, and mystery traditions from [[place-helionis|Heliónis]] offer initiation to a curious aristocracy. New movements arrive every season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool: backing a temple signals allegiance, builds a network and undercuts a rival.
 
-The **Imperial Cult**, the veneration of deceased emperors as divine or half-divine, is the one institution that cuts across all of this. Temples to deified emperors stand in every city, the Emperor himself holds the office of Pontifex Maximus, a Senate-named _hôlzathôs_ administers the cult as his officer and hears the oaths sworn in court, and taking part in the cult is a religious act and a declaration of political loyalty at once. It binds subjects of every faith to one ritual of allegiance.
+The **Imperial Cult**, the veneration of deceased emperors as divine or half-divine, is the one institution that cuts across all of this. Temples to deified emperors stand in every city, the Emperor himself holds the office of Sarnax Maldor, a Senate-named _hôlzathôs_ administers the cult as his officer and hears the oaths sworn in court, and taking part in the cult is a religious act and a declaration of political loyalty at once. It binds subjects of every faith to one ritual of allegiance.
 
 So a senator may worship Árdavon in public, consult an Āsháian fire-priest in private, and sit through a Helionite mystery initiation for the connections. The Ordo Arcanis watches this spiritual marketplace with deep unease, because religious variety opens doors for magical traditions it cannot control.
 
@@ -195,7 +195,7 @@ A census clerk of the Scribal Guild, asked how large the empire is, answers in t
 | [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000            | the mountain frontier, thin across its valleys |
 | [[affiliation-ctysttshlns\|Heliónis]] | another 2,000,000–3,000,000 | practically independent; a province on paper   |
 
-Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million if Heliónis, a province on paper, is counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hylen's grain, Sâlkhâlon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]], the same logistics that make so large a city possible at all.
+Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million if Heliónis, a province on paper, is counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hylen's grain, Sâlkhâlon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-verdanorzara|Curator of the Grain]], the same logistics that make so large a city possible at all.
 
 ## The Four Provinces
 
@@ -224,19 +224,19 @@ The long shadow of empire defines Vylaria's dealings with its neighbors.
 
 ## Notable Features
 
-- **The Senate:** an ancient legislative body that has outlived the empire's greatness and is now more a den of intrigue than a government; it sits in the [[affiliation-curiavylar|Curia Vylaria]].
+- **The Senate:** an ancient legislative body that has outlived the empire's greatness and is now more a den of intrigue than a government; it sits in the [[affiliation-seldan|Seldan]].
 - **The Imperial Cult:** the veneration of deceased emperors as half-divine, joining religion to political loyalty.
 
 ## Commerce and Currency
 
-The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion, Argentus and Octus) as its standard, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. The [[affiliation-curiafscls|Curia Fiscalis]] administers imperial taxation, and the revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]].
+The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through the [[affiliation-danvar|Danvar]] moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. The [[affiliation-tolvan|Tolvan]] administers imperial taxation, and the revenues flow to the [[affiliation-tarmex|Tarmex Orzan]].
 
 ## See Also
 
 - [[place-vylariargn|Vylaría Region]]—the land the empire holds
 - [[lore-vylarianclt|Vylarian]]—the people, their manners and their obligations
 - [[place-orzara|Ôrzâra]]—the capital
-- [[affiliation-curiavylar|Curia Vylaria]]—the Senate
+- [[affiliation-seldan|Seldan]]—the Senate
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the dominant arcane order
 - [[affiliation-vylrnmltry|Vylarian Military]]—the legions and the fleet
 - [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen and the resident

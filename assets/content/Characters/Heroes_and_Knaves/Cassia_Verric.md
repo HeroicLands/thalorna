@@ -402,7 +402,7 @@ Cassia Verric is an unremarkable woman, and works at it. She is of middling heig
 
 ### Origin and Service
 
-Cassia Verric is a career officer of the [[affiliation-vylarinmpr|Vylarian]] intelligence service, born to a minor administrative family of [[place-orzara|Ôrzâra]] and raised in the empire's vast bureaucratic machine rather than its legions or its Senate. She came up through the harbor-offices and customs-houses of the western ports, where the empire watches its rivals' shipping, and learned early that a clerk with the right ledgers and the right informants is worth a cohort. For two decades she has run agents along the contested [[place-vylarianse|Vylarian Sea]], shepherding defectors, buying captains, and quietly bleeding [[affiliation-mtrrchybth|Bethûa's]] deniable war of its deniability.
+Cassia Verric is a long-serving officer of the [[affiliation-vylarinmpr|Vylarian]] intelligence service, born to a minor administrative family of [[place-orzara|Ôrzâra]] and raised in the empire's vast bureaucratic machine rather than its legions or its Senate. She came up through the harbor-offices and customs-houses of the western ports, where the empire watches its rivals' shipping, and learned early that a clerk with the right ledgers and the right informants is worth a cohort. For two decades she has run agents along the contested [[place-vylarianse|Vylarian Sea]], shepherding defectors, buying captains, and quietly bleeding [[affiliation-mtrrchybth|Bethûa's]] deniable war of its deniability.
 
 Her sex is one of her sharpest instruments. [[affiliation-mtrrchybth|Bethûa]] is a matriarchy that suffers a foreign _man_ in its ports only grudgingly—served, watched, and quietly reminded at every turn that he holds no standing—but deals with a foreign _woman_ trading on her own account as a normal merchant, woman to woman. Where a male Vylarian agent would meet friction at every gate and counting-house, Cassia passes through the matriarchy's harbors and trade-houses with an ease no man could buy. The empire knows the value of this, and spends her where a woman's freedom of movement is worth more than a legion.
 
@@ -414,7 +414,7 @@ It did not go as she planned. When Rashîra finally broke, she did not come to C
 
 ### The Present Operation
 
-Cassia's current assignment is the most valuable of her career: the sealed **Purple Warrant** register that the renegade Grammatíssa [[being-rshrhssfrn|Rashîra of House Safîrôn]] has stolen out of [[affiliation-bethuanflt|the Naukrátissa's office]] and carried south into the [[affiliation-jcklsthmrchs|South Marches]]. In Vylarian hands that one purple original is a weapon of state—incontrovertible proof, on controlled crown vellum under unforgeable seals, that Bethûa's "deniable" privateer war is shot through with naked profiteering, and that the matriarchy has been secretly preying on the very patron it pretends to serve. With it, Vylaria could shatter the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]–Bethûan alliance that hems the empire's southern sea. Cassia means to take it whole.
+Cassia's current assignment is the most valuable of her service: the sealed **Purple Warrant** register that the renegade Grammatíssa [[being-rshrhssfrn|Rashîra of House Safîrôn]] has stolen out of [[affiliation-bethuanflt|the Naukrátissa's office]] and carried south into the [[affiliation-jcklsthmrchs|South Marches]]. In Vylarian hands that one purple original is a weapon of state—incontrovertible proof, on controlled crown vellum under unforgeable seals, that Bethûa's "deniable" privateer war is shot through with naked profiteering, and that the matriarchy has been secretly preying on the very patron it pretends to serve. With it, Vylaria could shatter the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]–Bethûan alliance that hems the empire's southern sea. Cassia means to take it whole.
 
 ### Her Three Fronts
 
@@ -435,7 +435,7 @@ Cassia almost never acts with her own hand. She is a runner of people: she finds
 
 - **Spycraft and Handling**: A master at recruiting, running, and disposing of agents. She reads people for their levers and rarely misjudges what a person can be made to do.
 - **A Woman's Freedom in Bethûa**: Her sex lets her move through the matriarchy's ports, trade-houses, and counting-rooms with an ease no male agent could manage—served and trusted as a fellow merchant where a man would be watched.
-- **Cover and Misdirection**: Passes through the ports of Mídhalión as a shipping factor, a customs agent, a creditor—whichever face the moment wants. Carries forged passes and genuine letters of credit in equal measure.
+- **Cover and Misdirection**: Passes through the ports of Mídhalión as a shipping factor, a customs agent, a creditor—whichever face the moment wants. Carries forged passes and letters of credit alike.
 - **Coin as a Weapon**: Commands a generous imperial purse and the authority to spend it. Much of what she accomplishes, she buys.
 
 ## Psyche

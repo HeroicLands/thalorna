@@ -129,7 +129,7 @@ Vithgard's sister kingdoms, [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-k
 
 ## Commerce and Currency
 
-Vithgard strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (aurion, argo and bit), and no chapter of [[affiliation-clgmrgntrrm|the Collegium Argentariorum]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Vithgard strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (elthêzâs, ankhrâ and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

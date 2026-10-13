@@ -16,14 +16,14 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Pontifex Iuris above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Volsarn above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
@@ -31,29 +31,29 @@ data:
         description: >-
           Initiates in training at a temple, learning the law before they may witness under it.
       - level: 3
-        title: Flamines Iuris
+        title: Volsar
         description: >-
           Ordained priests throughout the cities, who keep local temples, witness oaths and contracts, and perform the ceremonies of blessing and condemnation.
       - level: 4
-        title: Praetores Templi
+        title: Sentan
         description: >-
-          Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
+          Temple Judges—fifteen or twenty seniors of the Sarnal who oversee the major temples and form the priesthood's administrative body.
       - level: 5
-        title: Pontifex Iuris
+        title: Volsarn
         description: >-
           High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
     offices:
-      Pontifex Iuris: >-
+      Volsarn: >-
         High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
-      Praetores Templi: >-
-        Temple Judges—fifteen or twenty seniors of the Collegium Sacerdotalis who oversee the major temples and form the priesthood's administrative body.
-      Flamines Iuris: >-
+      Sentan: >-
+        Temple Judges—fifteen or twenty seniors of the Sarnal who oversee the major temples and form the priesthood's administrative body.
+      Volsar: >-
         Ordained priests throughout the cities, who keep local temples, witness oaths and contracts, and perform the ceremonies of blessing and condemnation.
       Acolytes of the Threshold: >-
         Initiates in training at a temple, learning the law before they may witness under it.
-      Collegium Sacerdotalis: >-
-        The administrative college of the Praetores Templi, standing below the Pontifex.
-      Ordo Equestris Iuris: >-
+      Sarnal: >-
+        The administrative college of the Sentani, standing below the Volsarn.
+      Volgel: >-
         The faith's knightly order.
   seat: null
   population: null
@@ -81,15 +81,15 @@ Individual piety to Árdavon takes the form of adherence to a personal code of h
 
 ## Organization
 
-The priesthood of Árdavon is the most powerful and politically influential of any Aurèldían faith, second only to [[affiliation-sacredforge|The Sacred Forge]] in sheer institutional wealth and territorial control. At its head stands the **Pontifex Iuris**, the High Judge and keeper of cosmic law, a position of supreme ecclesiastical and often political authority. The Pontifex Iuris is final arbiter of Árdavan doctrine and maintains headquarters in the greatest temple, typically located in the capital city of whatever kingdom grants the faith its primary patronage. The current Pontifex Iuris, based in [[place-provenzrgn|Provènzia Region]], is a formidable figure whose counsel influences the decisions of kings and city councils across western Ankaris.
+The priesthood of Árdavon is the most powerful and politically influential of any Aurèldían faith, second only to [[affiliation-sacredforge|The Sacred Forge]] in sheer institutional wealth and territorial control. At its head stands the **Volsarn**, the High Judge and keeper of cosmic law, a position of supreme ecclesiastical and often political authority. The Volsarn is final arbiter of Árdavan doctrine and maintains headquarters in the greatest temple, typically located in the capital city of whatever kingdom grants the faith its primary patronage. The current Volsarn, based in [[place-provenzrgn|Provènzia Region]], is a formidable figure whose counsel influences the decisions of kings and city councils across western Ankaris.
 
-Below the Pontifex stands the **Collegium Sacerdotalis**, a body of perhaps fifteen to twenty senior **Praetores Templi**—Temple Judges—who oversee the major temples and serve as the priesthood's administrative body. These individuals are chosen for both theological knowledge and judicial wisdom, and they often serve as royal judges, interpreters of law, and settlement arbiters in disputes between nobles. A Praetor Templi in a major city commands respect approaching that of a local lord, and their judgments carry weight in both religious and secular domains.
+Below the Volsarn stands the **Sarnal**, a body of perhaps fifteen to twenty senior **Sentani**—Temple Judges—who oversee the major temples and serve as the priesthood's administrative body. These individuals are chosen for both theological knowledge and judicial wisdom, and they often serve as royal judges, interpreters of law, and settlement arbiters in disputes between nobles. A Sentan in a major city commands respect approaching that of a local lord, and their judgments carry weight in both religious and secular domains.
 
-The **Flamines Iuris**, ordained priests scattered throughout cities and settlements, form the middle tier of the priesthood. These priests maintain local temples, witness oaths and contracts, perform ceremonies of blessing and condemnation, and serve as spiritual counselors to the devout. Many Flamines serve dual roles as royal advisors or military chaplains, bringing the authority of Árdavon into battlefields and courts.
+The **Volsari**, ordained priests scattered throughout cities and settlements, form the middle tier of the priesthood. These priests maintain local temples, witness oaths and contracts, perform ceremonies of blessing and condemnation, and serve as spiritual counselors to the devout. Many Volsari serve dual roles as royal advisors or military chaplains, bringing the authority of Árdavon into battlefields and courts.
 
 The **Acolytes of the Threshold** are young initiates undergoing training in Árdavan theology, law, and ritual. Their education is rigorous and lengthy, typically lasting a decade or more, and only a fraction advance to full priestly status. Many who complete part of their training but do not pursue ordination become scribes, notaries, and legal experts whose training in Árdavan principles allows them to draft binding contracts and records.
 
-A distinctive feature of Árdavan organization is the **Ordo Equestris Iuris**, knightly orders dedicated to the enforcement of Árdavon's will in the mortal world. These are not mere religious fraternities but semi-military organizations, some with significant military power and extensive territorial holdings. Knights of these orders pledge themselves to defend the righteous, punish oath-breakers, and serve as the god's instruments of justice. The Order of the Eternal Gate, based in [[place-provenzrgn|Provènzia Region]], maintains a standing force of perhaps three thousand knights and is a counterweight to the temporal power of secular nobles. Conflicts have occasionally erupted between local lords and these knightly orders when judicial decisions favored the order over the lord's interests.
+A distinctive feature of Árdavan organization is the **Volgel**, knightly orders dedicated to the enforcement of Árdavon's will in the mortal world. These are not mere religious fraternities but semi-military organizations, some with significant military power and extensive territorial holdings. Knights of these orders pledge themselves to defend the righteous, punish oath-breakers, and serve as the god's instruments of justice. The Order of the Eternal Gate, based in [[place-provenzrgn|Provènzia Region]], maintains a standing force of perhaps three thousand knights and is a counterweight to the temporal power of secular nobles. Conflicts have occasionally erupted between local lords and these knightly orders when judicial decisions favored the order over the lord's interests.
 
 The priesthood maintains vast temple complexes that serve simultaneously as religious centers, courts of law, archives of recorded oaths and contracts, and in some cases fortified strongholds. The financial power of the priesthood derives from royal support, from fees charged for witnessing oaths and contracts (a percentage of all major commercial transactions in some regions), and from endowments left by pious nobles. This creates a degree of independence from secular authority that some kings view with suspicion and others with pragmatic acceptance.
 

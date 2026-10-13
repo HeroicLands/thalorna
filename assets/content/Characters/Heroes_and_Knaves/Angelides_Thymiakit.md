@@ -451,13 +451,13 @@ Fodios drives himself relentlessly to create fragrances that go beyond craftsman
 
 ### Strengths
 
-- **Unparalleled Olfactory Mastery**: Perfumery elevated through five decades of obsessive study and experimental work. Fodios can compose fragrances of stunning complexity, layering top, middle, and base notes into symphonic olfactory experiences. He can identify and work with thousands of distinct botanical and animal essences.
+- **Olfactory Mastery**: Perfumery elevated through five decades of obsessive study and experimental work. Fodios can compose fragrances of stunning complexity, layering top, middle, and base notes into symphonic olfactory experiences. He can identify and work with thousands of distinct botanical and animal essences.
 
-- **Exceptional Perception**: His perception, the sharpest of his faculties, catches nuances in scent, in human behavior, and in the play of company that others entirely miss. He reads people with supernatural accuracy, understanding their desires before they articulate them.
+- **Perception**: His perception, the sharpest of his faculties, catches nuances in scent, in human behavior, and in the play of company that others entirely miss. He reads people with supernatural accuracy, understanding their desires before they articulate them.
 
 - **Masterful Communication**: Eloquence, charm, and a gift for theatrics make him a compelling presence in any context. He can persuade, inspire, and manipulate through language, and his performance as a courtier or salesman is nearly flawless.
 
-- **Sophisticated Herbal and Mineral Knowledge**: His herblore and mineralogy allow him to understand the complex chemistry of his materials—how bergamot oils interact with rare mineral compounds, how animal musks transform when blended with specific plant essences. This knowledge is fundamental to his revolutionary approaches.
+- **Herbal and Mineral Knowledge**: His herblore and mineralogy allow him to understand the complex chemistry of his materials—how bergamot oils interact with rare mineral compounds, how animal musks transform when blended with specific plant essences. This knowledge is fundamental to his revolutionary approaches.
 
 - **Artist and Scholar**: His script and drawing provide the foundations for documentation and design work. He keeps careful journals of every experiment, creating detailed drawings and formulas that constitute a lifetime archive of olfactory research.
 

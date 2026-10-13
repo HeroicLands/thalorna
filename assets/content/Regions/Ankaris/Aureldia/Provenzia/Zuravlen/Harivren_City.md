@@ -3,7 +3,7 @@ shortcode: harivrencity
 name: {full: Hárivren City, aliases: []}
 type: place
 subType: settlement
-description: "The great city of Provènzia's western march and seat of its Earl—an old inland stronghold turned administrative capital, host of the Giochi Grandi every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."
+description: "The great city of Provènzia's western march and seat of its Earl—an old inland stronghold turned administrative capital, host of the Lordhème every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."
 tags: [city, inland, river]
 data:
   demonym: null
@@ -48,16 +48,16 @@ knowledge. Nothing about Avaârl's devotion is secret; his household observes it
 [[affiliation-sacredforge|Sacred Forge]] has protested about it for thirty years and been thanked for
 its concern.
 
-The usual explanation given at Lunacòrte is that a Flame lord who can be seen is worth more than a
+The usual explanation given at Jalnazdàl is that a Flame lord who can be seen is worth more than a
 dozen who cannot, and that the western march is quiet, well governed and pays. Whether that is
 statecraft or an accommodation nobody has the standing to refuse is a question Provenzians ask each
 other and not strangers. It is, in any case, why the cult's activity in Provènzia—at
 [[place-yharvalenhenge|Yhârvalen]] above all—is so much harder to act against here than it would be
 anywhere else.
 
-## The Giochi Grandi
+## The Lordhème
 
-Every fifth year Hárivren hosts the **Giochi Grandi**, the Provenzian Grand Games: the realm's
+Every fifth year Hárivren hosts the **Lordhème**, the Provenzian Grand Games: the realm's
 greatest festival of martial prowess and athletic excellence, drawing competitors and spectators from
 across Provènzia and well beyond it.
 

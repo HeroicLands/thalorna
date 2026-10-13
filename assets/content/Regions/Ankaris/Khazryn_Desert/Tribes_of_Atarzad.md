@@ -194,7 +194,7 @@ The current generation is in a relatively quiet phase. The last full-scale rebel
 
 ## Commerce and Currency
 
-The Ātárzád live on the tolls of the caravan road where it enters Tellumel and on the produce of the four cities' gardens and the uplands' herds. Inside the cities, trade runs through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, with the Tēghumōd counting-houses at Ashkarad settling what tribes owe one another; the Tellumi craftsmen and merchants of the cities have begun to adopt modest moneylender practices along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]). Tolls are paid in kind or in coin as the caravan master prefers. Foreign coin (Vylarian Argo from western trade, Khelâthi gezan pieces from southern trade) circulates by intrinsic-metal value among traders.
+The Ātárzád live on the tolls of the caravan road where it enters Tellumel and on the produce of the four cities' gardens and the uplands' herds. Inside the cities, trade runs through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, with the Tēghumōd counting-houses at Ashkarad settling what tribes owe one another; the Tellumi craftsmen and merchants of the cities have begun to adopt modest moneylender practices along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]). Tolls are paid in kind or in coin as the caravan master prefers. Foreign coin (Vylarian Ard from western trade, Khelâthi gezan pieces from southern trade) circulates by intrinsic-metal value among traders.
 
 ## See Also
 

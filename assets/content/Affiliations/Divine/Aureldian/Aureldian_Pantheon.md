@@ -15,22 +15,21 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body of ordained clergy, and a high priest above them—a Pontifex, a Flamen, a Magistra or a Somniatrix according to the god. The larger faiths insert a senior college between clergy and apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Ústaran faiths, split by schism into the Sacred Forge's Grand Pontifex and the Black Flame's independent Flame-Wardens.
+      Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body of ordained clergy, and a high priest above them, styled by the god's own domain: the Volsarn of law, the Bravsarn of storms, the Mentara of wisdom or the Nirvena of dreams. The larger faiths insert a senior college between clergy and apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Ústaran faiths, split by schism into the Sacred Forge's Hamsarn and the Black Flame's independent Flame-Wardens.
     ranks:
       - level: 1
         title: Adherent
         description: >-
           The lay faithful of any of the Twelve, keeping the feasts and observances without office.
     offices:
-      Pontifex: >-
-        The apex of a single faith, whose style varies by god and whose authority does not extend beyond it.
+      Sarnax: >-
+        The apex of a single faith, whose authority does not extend beyond it. A faith names its own by setting the stem of its domain before the word, as in the Volsarn of law and the Bravsarn of storms.
       Senior College: >-
         The administrative or scholarly body some faiths seat between clergy and apex.
-      Sacerdos: The ordained priest or priestess of a temple.
+      Sarnor: The ordained priest of a temple; a priestess is a sârkhenândâ.
       Acolyte: An initiate in training, not yet ordained.
-      Flamen: The style used where a faith's apex is a single sacrificial priest of the god.
-      Magistra: >-
-        The style used where a faith's apex is a mistress of an art—wisdom, life, death, flowers.
+      Ândâ: >-
+        The style used where a faith's apex is a woman who holds the office of an art—wisdom, life, death, flowers.
   seat: null
   population: null
   economy: []

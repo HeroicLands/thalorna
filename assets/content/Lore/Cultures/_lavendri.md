@@ -188,4 +188,4 @@ Every Élavendri word and term of art these notes use, with the Áelendan terms 
 | thal             | Shadow, mystery; an Élavendri root common in names                                         |
 | Tradition Keeper | An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies     |
 
-Argentus (Argo), Aurion and Octus (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin (Ard), Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

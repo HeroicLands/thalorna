@@ -426,9 +426,9 @@ Bazebos stands 5'9" tall with a medium build. He has warm tanned skin, dark brow
 
 # Dossier {#dossier}
 
-Born into the Porfyrákit family of minor nobility within the Byzarian League, Bazebos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
+Born into the Porfyrákit family of minor nobility within the Byzarian League, Bazebos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
 
-By his early thirties, Bazebos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to genuine danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
+By his early thirties, Bazebos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
 
 Now at thirty-nine, Bazebos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Byzarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
 
@@ -436,13 +436,13 @@ Now at thirty-nine, Bazebos is something of a legend—part explorer, part artis
 
 ### Personality
 
-Bazebos is a man of genuine charm and infectious enthusiasm. In social settings, he is witty and engaging, his mind making unexpected connections between seemingly disparate subjects. He speaks eloquently about art, geography, history, and philosophy, and his passion for discovery is genuinely compelling. He cultivates relationships carefully, understanding that patronage and partnerships depend on goodwill.
+Bazebos is a man of charm and enthusiasm. In social settings, he is witty and engaging, his mind making unexpected connections between seemingly disparate subjects. He speaks eloquently about art, geography, history, and philosophy, and his passion for discovery is compelling. He cultivates relationships carefully, understanding that patronage and partnerships depend on goodwill.
 
 However, beneath this polished exterior lies something more driven and potentially reckless. In the field, away from civilized society, he becomes almost feral in his focus—pushing beyond prudent limits, taking risks that seasoned explorers would consider suicidal. There is something almost compulsive about his need to see what lies beyond the next ridge, to chart what others have not. His colleagues sometimes wonder if he is seeking something specific rather than merely exploration for its own sake.
 
 ### Motivation
 
-Bazebos is driven by the deep human desire to know, to map the unmapped, to leave a legacy of discovery and artistic beauty. On the surface, he seeks to expand the League's knowledge and influence, to create maps so beautiful and comprehensive that they become treasured objects in their own right. Beneath this lies something darker—a conviction that something important awaits discovery on the edges of the known world, something that might change everything. He cannot articulate what he seeks, but he knows with absolute certainty that he will recognize it when he finds it.
+Bazebos is driven by the deep human desire to know, to map the unmapped, to leave a legacy of discovery and artistic beauty. On the surface, he seeks to expand the League's knowledge and influence, to create maps so beautiful and comprehensive that they become treasured objects themselves. Beneath this lies something darker—a conviction that something important awaits discovery on the edges of the known world, something that might change everything. He cannot articulate what he seeks, but he knows with absolute certainty that he will recognize it when he finds it.
 
 ### Strengths
 
@@ -465,7 +465,7 @@ Bazebos is driven by the deep human desire to know, to map the unmapped, to leav
 ### Patrons
 
 The Royal Cartographers' Society
-: Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of strategic importance.
+: Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of importance to the Order.
 
 Lord Commander Hieronymus
 : A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.

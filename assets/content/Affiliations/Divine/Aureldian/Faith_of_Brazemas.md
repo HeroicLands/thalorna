@@ -16,39 +16,39 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Flamen Tempestas above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Bravsarn above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
-        title: Vestales Tempestatis
+        title: Bravlir
         description: >-
           Young acolytes and apprentices, typically youths who survived a near-fatal storm or show unusual sensitivity to weather.
       - level: 3
-        title: Sacerdotes Tempestatis
+        title: Bravsar
         description: >-
           The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
       - level: 4
-        title: Flamen Tempestas
+        title: Bravsarn
         description: >-
           High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
     offices:
-      Flamen Tempestas: >-
+      Bravsarn: >-
         High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
-      Sacerdotes Tempestatis: >-
+      Bravsar: >-
         The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
-      Vestales Tempestatis: >-
+      Bravlir: >-
         Young acolytes and apprentices, typically youths who survived a near-fatal storm or show unusual sensitivity to weather.
       Weather-Watcher: >-
         Tracks storm patterns and rainfall and reports omens to the central temple.
       Storm-Reader: >-
-        Sells predictions to maritime merchants—a specialism many Vestales settle into.
+        Sells predictions to maritime merchants—a specialism many Bravlili settle into.
   seat: null
   population: null
   economy: []
@@ -73,13 +73,13 @@ Individual devotion to Brâzêmâs often involves vows and promises. A farmer mi
 
 ## Organization
 
-The priesthood of Brâzêmâs is structured around the **Flamen Tempestas**, the High Priest of the Storm, who is the primary voice of the god and the interpreter of his will as revealed through natural phenomena. The Flamen Tempestas is traditionally a figure of considerable authority, often consulted by kings and city councils on matters affecting agriculture, trade, and maritime ventures. The current Flamen Tempestas, based in Vylaria, maintains an extensive network of weather-watchers throughout the empire who track storm patterns, record rainfall, and report omens to the central temple.
+The priesthood of Brâzêmâs is structured around the **Bravsarn**, the High Priest of the Storm, who is the primary voice of the god and the interpreter of his will as revealed through natural phenomena. The Bravsarn is traditionally a figure of considerable authority, often consulted by kings and city councils on matters affecting agriculture, trade, and maritime ventures. The current Bravsarn, based in Vylaria, maintains an extensive network of weather-watchers throughout the empire who track storm patterns, record rainfall, and report omens to the central temple.
 
-Below the Flamen are the **Sacerdotes Tempestatis**—the Priests of Storms—a body of perhaps thirty to forty ordained clergy dispersed across major cities and coastal settlements. These priests maintain the temples, perform seasonal rituals, and serve as advisors to farmers, merchants, and sailors. They are trained in the interpretation of weather signs and in the theological significance of particular storm patterns. A Priest of Storms in a major port city holds considerable social standing, as maritime captains and merchants depend upon their wisdom in reading the moods of Brâzêmâs.
+Below the Bravsarn are the **Bravsari**—the Priests of Storms—a body of perhaps thirty to forty ordained clergy dispersed across major cities and coastal settlements. These priests maintain the temples, perform seasonal rituals, and serve as advisors to farmers, merchants, and sailors. They are trained in the interpretation of weather signs and in the theological significance of particular storm patterns. A Priest of Storms in a major port city holds considerable social standing, as maritime captains and merchants depend upon their wisdom in reading the moods of Brâzêmâs.
 
-The **Vestales Tempestatis**, young acolytes and apprentices, form the foundation of the priesthood. These devotees are typically youths who have survived near-fatal encounters with storms or who have shown unusual sensitivity to weather patterns. Their training emphasizes practical observation—learning to read cloud formations, wind shifts, and atmospheric pressure changes—alongside theological study. Many Vestales remain in training for years before advancing to full priestly status, and some find their calling lies in becoming specialists: storm-readers who sell their predictions to maritime merchants, or weather-mages who work with [[affiliation-sacredforge|Sacred Forge]] craftsmen to devise protective charms.
+The **Bravlili**, young acolytes and apprentices, form the foundation of the priesthood. These devotees are typically youths who have survived near-fatal encounters with storms or who have shown unusual sensitivity to weather patterns. Their training emphasizes practical observation—learning to read cloud formations, wind shifts, and atmospheric pressure changes—alongside theological study. Many Bravlili remain in training for years before advancing to full priestly status, and some find their calling lies in becoming specialists: storm-readers who sell their predictions to maritime merchants, or weather-mages who work with [[affiliation-sacredforge|Sacred Forge]] craftsmen to devise protective charms.
 
-The temples of Brâzêmâs are typically positioned on high ground, often incorporating towers and exposed courtyards designed to attract lightning and weather. Some temples maintain elaborate copper conductors and metal structures that serve both practical and spiritual purposes, channeling the god's direct manifestation through lightning into sacred chambers below where inscriptions record the patterns and locations of strikes. These records become part of the priesthood's theological archive, allowing the Flamen Tempestas to discern patterns and meanings in Brâzêmâs's communications across generations.
+The temples of Brâzêmâs are typically positioned on high ground, often incorporating towers and exposed courtyards designed to attract lightning and weather. Some temples maintain elaborate copper conductors and metal structures that serve both practical and spiritual purposes, channeling the god's direct manifestation through lightning into sacred chambers below where inscriptions record the patterns and locations of strikes. These records become part of the priesthood's theological archive, allowing the Bravsarn to discern patterns and meanings in Brâzêmâs's communications across generations.
 
 The priesthood is funded through donations from those seeking favorable weather, fees paid by merchants and farmers for weather consultation, and in some cases through direct support from kingdoms dependent upon agriculture or maritime trade. Coastal cities and trading centers maintain particularly well-funded Brâzêmâsan temples, recognizing that the priesthood's ability to predict and interpret storms contributes directly to their prosperity and safety.
 

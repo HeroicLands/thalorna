@@ -32,7 +32,7 @@ Typical Thalornan barter equivalences (these vary by region, season, and quality
 | A suit of mail (working condition)              | ~80 measures of grain, equivalent to 16 sheep          |
 | Furs (per pelt, varying by species)             | small fur 1–2 measures; large 5–20; rare/exotic 50+    |
 
-The "measure of grain" is a regional unit—perhaps a half-bushel by Vylarian standards—and varies by polity. Where the polity sits adjacent to a currency economy, the customary rates can usually be converted to local coin (a measure of grain is conventionally worth perhaps 2 Argo in the Nordlands' Vylarian-coin economy; in the deep Khazryn steppe where coin is rare, the conversion is academic).
+The "measure of grain" is a regional unit—perhaps a half-bushel by Vylarian standards—and varies by polity. Where the polity sits adjacent to a currency economy, the customary rates can usually be converted to local coin (a measure of grain is conventionally worth perhaps 2 Ard in the Nordlands' Vylarian-coin economy; in the deep Khazryn steppe where coin is rare, the conversion is academic).
 
 ## Common Money-Goods
 

@@ -3,14 +3,14 @@ shortcode: saltpansongs
 name: {full: The Songs of the Salt Pans, aliases: [The Cut Songs]}
 type: lore
 subType: literature
-description: "Six songs the women of Portvent sing in answering pairs while they rake the salt on the terraces above the town, each in couplets that come back with one word changed and a refrain between: a girl to her mother on the land wind, a suit against the sea for what was lent, the lamp and the wave, what the sea leaves in the pan, the sail that was not his, and the count at the cut."
+description: "Six songs the women of Volsathèr sing in answering pairs while they rake the salt on the terraces above the town, each in couplets that come back with one word changed and a refrain between: a girl to her mother on the land wind, a suit against the sea for what was lent, the lamp and the wave, what the sea leaves in the pan, the sail that was not his, and the count at the cut."
 tags: [draft, provenzia]
 data:
   culture: provenzianclt
   packFolder: settinglore
   form: waiting-song
   subjects:
-    - place-portvent
+    - place-volsather
     - place-zuravlenrgn
     - lore-lastshrine
     - affiliation-pozeras
@@ -20,11 +20,11 @@ data:
 # terran_analog: "The cantigas de amigo of the western coast, for the girl's voice speaking to her mother, her friend and the waves, the parallel couplets that return with one word changed, the refrain, and the linking of each pair's second line into the next; the work-songs of women at the salt pans and the net-mending; the saudade of the fado."
 ---
 
-**The Songs of the Salt Pans** are sung by the women of [[place-portvent|Portvent]] on the terraces above the town, where the wind scours the pans dry and the women rake the salt in the long days of summer while the men are out with the boats. They are sung in pairs: one woman sings a couplet, the woman at the next pan sings it back with one word changed, and the whole terrace takes the refrain. A couplet's second line comes back as the first line of the couplet after next, so the song walks forward by going back over itself, the way a rake goes over a pan. The songs have no instrument and no síladòr. Nobody pays for them.
+**The Songs of the Salt Pans** are sung by the women of [[place-volsather|Volsathèr]] on the terraces above the town, where the wind scours the pans dry and the women rake the salt in the long days of summer while the men are out with the boats. They are sung in pairs: one woman sings a couplet, the woman at the next pan sings it back with one word changed, and the whole terrace takes the refrain. A couplet's second line comes back as the first line of the couplet after next, so the song walks forward by going back over itself, the way a rake goes over a pan. The songs have no instrument and no síladòr. Nobody pays for them.
 
 There are many, and every summer adds to them and loses some. These six are the ones the terraces sing at the start of every day's raking. The girl in them speaks to her mother, to the sea, to her friend at the next pan, and to nobody; the man is always out. The long sea song of Lenthìze ([[lore-lastshrine|The Song of the Last Shrine]]) quotes the refrain of the third, and the second carries the sea at her window and the small word of the oath out of the long song; the terraces call the third **Aulìra**'s, after the woman in the long song who held a lamp on the cut and did not wave.
 
-The court singers of [[place-lunacorte|Lunacòrte]] have the cut songs too, and sing them at table with a lute as lyrics of courtship, the girl a lady at a window and the sea a rival suitor with a better name. On the terraces the sea has no name but the sea.
+The court singers of [[place-jalnazdal|Jalnazdàl]] have the cut songs too, and sing them at table with a lute as lyrics of courtship, the girl a lady at a window and the sea a rival suitor with a better name. On the terraces the sea has no name but the sea.
 
 : The Songs of the Salt Pans {#songs}
 
@@ -70,8 +70,8 @@ I lent him with the small word in it, and he slowed on the word.
 You took him with compliments, sea, at your high window;
 you took him with courtesies, sea, at your window, behind your fan.
     Give back what is lent, as the honest give back.
-There is no court in Portvent will hear me against you.
-There is no seal in Lunacòrte will hold you to pay.
+There is no court in Volsathèr will hear me against you.
+There is no seal in Jalnazdàl will hold you to pay.
     Give back what is lent, as the honest give back.
 I have no patron to carry my suit to the judges.
 I have no advocate, sea, and I carry it up the cut myself.
@@ -182,7 +182,7 @@ Daughter, as long as you take it from me when I go.
 
 ## See Also
 
-- [[place-portvent|Portvent]]—the salt pans on the terraces the wind scours dry, and the harbor below
+- [[place-volsather|Volsathèr]]—the salt pans on the terraces the wind scours dry, and the harbor below
 - [[lore-lastshrine|The Song of the Last Shrine]]—the long sea song that quotes the lamp line
 - [[affiliation-pozeras|Faith of Pôzêrâs]]—the Blessing at which the oath is sworn
 - [[place-zuravlenrgn|Zûravlen Region]]—the cold coast and its fishing

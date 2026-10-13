@@ -449,7 +449,7 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 - **Virtuosic Physical Performer**: Vishali's acrobatic abilities are extraordinary. She can scale walls, perform death-defying tumbling sequences, and move through spaces with the fluidity of water. Her body is a precise instrument.
 - **Master of Misdirection**: Her sleight of hand is superb, and her understanding of where an eye goes and how to lead it is nearly supernatural. She can make crowds see what she wants them to see and miss what she intends to hide.
 - **Cutting Wit**: Vishali possesses a rapier-sharp sense of humor and an ability to craft jokes that disarm even the most guarded audiences. Her timing is impeccable, and her understanding of human nature allows her to land jokes that cut precisely where intended.
-- **Exceptional Dexterity**: Beyond acrobatics and sleight of hand, Vishali's manual dexterity extends to fine craftwork, drawing, and any task requiring precise finger control. She is an accomplished artist.
+- **Dexterity**: Beyond acrobatics and sleight of hand, Vishali's manual dexterity extends to fine craftwork, drawing, and any task requiring precise finger control. She is an accomplished artist.
 - **Survival Resourcefulness**: Having survived loss and homelessness, Vishali possesses practical skills in cooking, herblore, and survival that make her capable of thriving in harsh conditions.
 
 ### Weaknesses

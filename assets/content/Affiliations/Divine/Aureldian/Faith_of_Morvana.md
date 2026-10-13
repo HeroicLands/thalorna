@@ -16,14 +16,14 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Magistra Mortis above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Valmena above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
@@ -31,17 +31,17 @@ data:
         description: >-
           Initiates learning the rites of the waning and the care of those who are ending.
       - level: 3
-        title: Sacerdotes of Twilight
+        title: Sarnor of Twilight
         description: >-
           Ordained priests who serve as healers to the terminally ill and counselors to the bereaved.
       - level: 4
-        title: Magistra Mortis
+        title: Valmena
         description: >-
           High Priestess or High Priest, typically an older priestess who has spent a lifetime at the bedsides of the dying.
     offices:
-      Magistra Mortis: >-
+      Valmena: >-
         High Priestess or High Priest, typically an older priestess who has spent a lifetime at the bedsides of the dying.
-      Sacerdotes of Twilight: >-
+      Sarnor of Twilight: >-
         Ordained priests who serve as healers to the terminally ill and counselors to the bereaved.
       Acolytes of Decay: >-
         Initiates learning the rites of the waning and the care of those who are ending.
@@ -71,11 +71,11 @@ Offerings to Mórváná are the gifts of decay itself: autumn leaves, withering 
 
 ## Organization
 
-The priesthood of Mórváná is led by the **Magistra Mortis**, the High Priestess or High Priest. This figure is typically an older priestess who has spent decades in service to the goddess, often someone who has survived personal losses and has transformed grief into compassionate service to others. The Magistra Mortis is a counselor to the dying, a teacher of the faith, and an interpreter of the goddess's will.
+The priesthood of Mórváná is led by the **Valmena**, the High Priestess or High Priest. This figure is typically an older priestess who has spent decades in service to the goddess, often someone who has survived personal losses and has transformed grief into compassionate service to others. The Valmena is a counselor to the dying, a teacher of the faith, and an interpreter of the goddess's will.
 
-Below the Magistra stand the **Sacerdotes of Twilight**, ordained priests who serve as healers for the terminally ill, counselors for the bereaved, and keepers of Mórváná's temples. These priests are chosen for their capacity for empathy, their comfort with mortality, and their ability to speak honestly about death without cruelty. They are trained in the care of the dying, in funeral rites, and in the pastoral work of comforting those who grieve. The finest Sacerdotes of Twilight are renowned for their ability to help the dying achieve peace, to help families accept loss, and to transform grief into something that can be borne.
+Below the Valmena stand the **Sarnori of Twilight**, ordained priests who serve as healers for the terminally ill, counselors for the bereaved, and keepers of Mórváná's temples. These priests are chosen for their capacity for empathy, their comfort with mortality, and their ability to speak honestly about death without cruelty. They are trained in the care of the dying, in funeral rites, and in the pastoral work of comforting those who grieve. The finest Sarnori of Twilight are renowned for their ability to help the dying achieve peace, to help families accept loss, and to transform grief into something that can be borne.
 
-The third rank consists of **Acolytes of Decay**, young initiates who train in the practical care of the dying, in the preparation of bodies for funeral rites, and in the theological understanding of Mórváná's place within the cosmic order. These acolytes often serve for years in hospices and places of death before advancement to Sacerdote status is even considered. Many never advance to full ordination, instead dedicating their lives as nurses and caregivers while maintaining their connection to Mórváná's priesthood.
+The third rank consists of **Acolytes of Decay**, young initiates who train in the practical care of the dying, in the preparation of bodies for funeral rites, and in the theological understanding of Mórváná's place within the cosmic order. These acolytes often serve for years in hospices and places of death before advancement to Sarnor status is even considered. Many never advance to full ordination, instead dedicating their lives as nurses and caregivers while maintaining their connection to Mórváná's priesthood.
 
 The priesthood operates a significant network of **Hospices of the Waning Moon**, institutions dedicated to the care of the dying that are found in every major city. These establishments employ priests and servants, provide shelter and comfort to those in their final days, and perform the funeral rites that prepare the dead for their passage. These hospices are supported by donations from grateful families, by endowments left by the dying themselves, and sometimes by direct patronage from nobility who understand that Mórváná's blessings ensure that they, too, will one day die with dignity.
 

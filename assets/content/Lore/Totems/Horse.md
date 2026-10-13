@@ -14,7 +14,7 @@ Undisciplined and irresponsible, horses in the wild are free-spirited animals th
 
 ## Human Personality
 
-This person embodies a free-spirited nature, thriving in groups but often following their instincts over structured rules. They love exploring and enjoying life on their terms.
+The Horse person has a free spirit, does well in a group and follows instinct over fixed rules. Exploring and living on their own terms are what the person loves.
 
 - **Physical:** Strong, lean build; fluid and graceful in movements.
 - **Behavioral:** Free-spirited, values independence, often rebellious.

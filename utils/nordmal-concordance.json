@@ -112,6 +112,34 @@
                 "tongue": "Vedyari"
             },
             {
+                "word": "ankhrâ",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Brâzêmâs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "elthêzâs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Lîzêlândi",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Mârendâs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Ôrzâs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Sîrêmôs",
+                "tongue": "Vylari"
+            },
+            {
                 "word": "Sâlkhênôs",
                 "tongue": "Vylari"
             },
@@ -436,7 +464,10 @@
         {
             "literal": "Sigrún",
             "why": "Sigrun_Hafringr is an Aelwythan guard named under Aelwyth's own rule rather than Nordmal's; not Skilfrinna Eldhrund of the Storm-Speakers",
-            "paths": ["assets/content/Characters/Occupations/Sigrun_Hafringr.md"],
+            "paths": [
+                "assets/content/Characters/Occupations/Sigrun_Hafringr.md",
+                "assets/content/Lore/Aelwythi_Lexicon.md"
+            ],
             "kinds": []
         },
         {

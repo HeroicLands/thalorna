@@ -457,7 +457,7 @@ Nārava's primary motivation is the pursuit of an impossible ideal—to create a
 
 ### Strengths
 
-- **Transcendent Technical Mastery**: Nārava's command of glassworking techniques is absolute. He can execute forms, colors, and effects that other glassworkers consider impossible, and his pieces represent the apex of the craft.
+- **Technical Mastery**: Nārava's command of glassworking techniques is absolute. He can execute forms, colors, and effects that other glassworkers consider impossible, and his pieces represent the apex of the craft.
 
 - **Visionary Creativity**: His imagination is boundless when applied to his craft. He conceives designs that seem to defy the limitations of glass as a material, and somehow finds the technical means to realize them.
 

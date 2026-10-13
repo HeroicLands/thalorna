@@ -293,7 +293,7 @@ The drake hunts alone, mostly at night and in deep, dark water, and lies up in t
 
 ## What the Fishing Towns Do
 
-The fishermen of the coast set their nets well wide of the ruin, sail home before dark in the dark of the moon, and do not anchor within sight of the sunken city. The harbor tellers of [[place-marendal|Maréndal]] say the drake keeps the gate of a city that the sea took for its pride, and that what lies at the bottom of the stair is the city's treasure, still waiting. Every generation some young man takes a boat out at the lowest spring tide to look, and most of them come back. The ones who do not are remembered by name at the harbor, and their names are told to the next young man. An [[affiliation-arldnpnthn|Aurèldían]] priest blesses the fleet each spring with lamps, because the drake shuns strong light.
+The fishermen of the coast set their nets well wide of the ruin, sail home before dark in the dark of the moon, and do not anchor within sight of the sunken city. The harbor tellers of [[place-ornethe|Ornéthe]] say the drake keeps the gate of a city that the sea took for its pride, and that what lies at the bottom of the stair is the city's treasure, still waiting. Every generation some young man takes a boat out at the lowest spring tide to look, and most of them come back. The ones who do not are remembered by name at the harbor, and their names are told to the next young man. An [[affiliation-arldnpnthn|Aurèldían]] priest blesses the fleet each spring with lamps, because the drake shuns strong light.
 
 ## Signs
 

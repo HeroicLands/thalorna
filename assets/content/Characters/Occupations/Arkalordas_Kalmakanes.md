@@ -419,7 +419,7 @@ Long experience at sea, a natural leader on deck, a fine seaman.
 
 ## Social
 
-Arkálòrdâs is on the roll of the Seamen's Collegium of Aelissium, whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
+Arkálòrdâs is on the roll of the Seamen's Guild of Aelissium, whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
 
 ## Companions
 
@@ -437,6 +437,6 @@ A young mate on the Heliónis run who learned his trade in a Tarûzelian yard an
 
 2. **The Letters of Marque**—A Tarûzelian ship carrying letters against Vylarian trade has been seen off the Heliónis coast, and it is the privateer's. Arkálòrdâs's ship is the next out.
 
-3. **The Navy's Need**—The empire's navy is short of seamen and is paying the collegium for its rolls. Arkálòrdâs's name is at the top of one.
+3. **The Navy's Need**—The empire's navy is short of seamen and is paying the guild for its rolls. Arkálòrdâs's name is at the top of one.
 
 4. **The Young Mate**—The mate has been given the deck for the Heliónis run and has set the ship the Tarûzelian way, with half the hands aloft that Arkálòrdâs would keep there. The weather is coming.

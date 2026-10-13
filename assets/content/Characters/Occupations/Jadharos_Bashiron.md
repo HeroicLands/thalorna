@@ -418,7 +418,7 @@ Skilled in navigation and sailing, good teamwork, strong physical endurance.
 
 ## Social
 
-Jâdhâros is affiliated with None; works as a hired hand..
+Jâdhâros is affiliated with None; works as a hired hand.
 
 As a Helionite common seaman, Jâdhâros occupies a recognized social niche within Heliónis society.
 
@@ -426,7 +426,7 @@ As a Helionite common seaman, Jâdhâros occupies a recognized social niche with
 
 ### Patrons
 
-Jâdhâros's primary patron is Ship captains and merchants requiring crew members.. This relationship provides both opportunity and obligation.
+Jâdhâros's primary patron is Ship captains and merchants requiring crew members. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,7 +434,7 @@ Few; generally respected among his peers.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma**—Jâdhâros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Common Seaman's Dilemma**—Jâdhâros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Few; generally respected among his peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

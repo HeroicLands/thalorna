@@ -16,42 +16,42 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Magistra Sapientiae above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Mentara above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
-        title: Scholares Mârendâs
+        title: Lerin
         description: >-
           Students of the goddess, studying before they may teach.
       - level: 3
-        title: Magistri Artes
+        title: Dasken
         description: >-
           Ordained teachers throughout the cities, who keep schools, mentor apprentices and research in their fields.
       - level: 4
-        title: Collegium Doctorum
+        title: Daskeral
         description: >-
           Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy, languages, craftsmanship and astronomy.
       - level: 5
-        title: Magistra Sapientiae
+        title: Mentara
         description: >-
           Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this priesthood prioritizes scholarship over hierarchy.
     offices:
-      Magistra Sapientiae: >-
+      Mentara: >-
         Master of Wisdom, chosen by vote of the senior scholars rather than by succession—this priesthood prioritizes scholarship over hierarchy.
-      Collegium Doctorum: >-
+      Daskeral: >-
         Twenty or thirty senior scholars specializing in mathematics, medicine, philosophy, languages, craftsmanship and astronomy.
-      Magistri Artes: >-
+      Dasken: >-
         Ordained teachers throughout the cities, who keep schools, mentor apprentices and research in their fields.
-      Scholares Mârendâs: >-
+      Lerin: >-
         Students of the goddess, studying before they may teach.
-      Bibliothecae Magnae: >-
+      Notral Maldor: >-
         The great libraries the priesthood maintains and to which its scholars are attached.
   seat: null
   population: null
@@ -77,15 +77,15 @@ Individual devotion to Mârendâs takes the form of scholarly and intellectual p
 
 ## Organization
 
-The priesthood of Mârendâs is fundamentally different from other Aurèldían faiths in that it prioritizes scholarship over hierarchy. At the apex stands the **Magistra Sapientiae**, the Master of Wisdom, traditionally chosen by vote of the senior scholars within the faith rather than appointed by secular or ecclesiastical authority. The Magistra Sapientiae is the keeper of Mârendâsan doctrine and as the final authority on matters of theological interpretation. The current Magistra Sapientiae maintains residence at the Grand Temple of Illumination in a major center of learning, from which she oversees the priesthood's diverse scholarly endeavors.
+The priesthood of Mârendâs is fundamentally different from other Aurèldían faiths in that it prioritizes scholarship over hierarchy. At the apex stands the **Mentara**, the Master of Wisdom, traditionally chosen by vote of the senior scholars within the faith rather than appointed by secular or ecclesiastical authority. The Mentara is the keeper of Mârendâsan doctrine and as the final authority on matters of theological interpretation. The current Mentara maintains residence at the Grand Temple of Illumination in a major center of learning, from which she oversees the priesthood's diverse scholarly endeavors.
 
-Below the Magistra stands the **Collegium Doctorum**, a body of perhaps twenty to thirty senior scholars who specialize in different domains of knowledge—mathematics, medicine, philosophy, languages, craftsmanship, astronomy, and so forth. These individuals serve simultaneously as priests, teachers, and researchers. Many maintain their own schools and research initiatives, which are loosely coordinated but operationally independent. The Collegium meets quarterly to discuss matters of theological importance and to coordinate efforts where knowledge from different disciplines intersects.
+Below the Mentara stands the **Daskeral**, a body of perhaps twenty to thirty senior scholars who specialize in different domains of knowledge—mathematics, medicine, philosophy, languages, craftsmanship, astronomy, and so forth. These individuals serve simultaneously as priests, teachers, and researchers. Many maintain their own schools and research initiatives, which are loosely coordinated but operationally independent. The Daskeral meets quarterly to discuss matters of theological importance and to coordinate efforts where knowledge from different disciplines intersects.
 
-The **Magistri Artes**, ordained teachers scattered throughout cities and settlements, form the active teaching priesthood of Mârendâs. These individuals maintain schools, mentor apprentices, perform research in their areas of expertise, and serve as community leaders in matters of education and intellectual culture. In wealthy cities, a Magister Artis might oversee a school with hundreds of students; in smaller settlements, a single teacher might educate a dozen apprentices in various crafts. These teachers are expected to maintain their scholarly work even as they teach, ensuring that Mârendâsan knowledge advances rather than merely being preserved.
+The **Daskeni**, ordained teachers scattered throughout cities and settlements, form the active teaching priesthood of Mârendâs. These individuals maintain schools, mentor apprentices, perform research in their areas of expertise, and serve as community leaders in matters of education and intellectual culture. In wealthy cities, a Dasken might oversee a school with hundreds of students; in smaller settlements, a single teacher might educate a dozen apprentices in various crafts. These teachers are expected to maintain their scholarly work even as they teach, ensuring that Mârendâsan knowledge advances rather than merely being preserved.
 
-The **Scholares Mârendâs**, students and junior scholars, form the foundation of the priesthood. Many are young people undergoing intensive training in specific fields of knowledge; others are mature individuals who have come to scholarship later in life. The path to full priesthood is highly variable—there is no fixed tenure, no rigid hierarchy. A brilliant young mathematician might be ordained as a Magistra Artis after five years of study, while a slower student might spend a decade in training or may find their calling lies in advanced apprenticeship rather than formal priesthood.
+The **Lerini**, students and junior scholars, form the foundation of the priesthood. Many are young people undergoing intensive training in specific fields of knowledge; others are mature individuals who have come to scholarship later in life. The path to full priesthood is highly variable—there is no fixed tenure, no rigid hierarchy. A brilliant young mathematician might be ordained as a Daskena after five years of study, while a slower student might spend a decade in training or may find their calling lies in advanced apprenticeship rather than formal priesthood.
 
-A distinctive feature of Mârendâsan organization is the network of **Bibliothecae Magnae**, great libraries that serve as centers of knowledge preservation and research. These libraries are jointly maintained by the priesthood and by wealthy patrons who understand the value of preserved knowledge. The libraries in [[place-provenzrgn|Provènzia Region]] and [[affiliation-vylarinmpr|Vylarian Empire]] contain thousands of manuscripts and are destinations of pilgrimage for scholars throughout western Ankaris. Librarians within these institutions hold significant authority within the priesthood, as the preservation and organization of knowledge is understood as sacred work.
+A distinctive feature of Mârendâsan organization is the network of **Notral Maldor**, great libraries that serve as centers of knowledge preservation and research. These libraries are jointly maintained by the priesthood and by wealthy patrons who understand the value of preserved knowledge. The libraries in [[place-provenzrgn|Provènzia Region]] and [[affiliation-vylarinmpr|Vylarian Empire]] contain thousands of manuscripts and are destinations of pilgrimage for scholars throughout western Ankaris. Librarians within these institutions hold significant authority within the priesthood, as the preservation and organization of knowledge is understood as sacred work.
 
 The priesthood is funded through a combination of sources: endowments from wealthy patrons of learning, fees charged for education and apprenticeship training (often waived or reduced for the poor), and direct patronage from secular rulers who recognize that a learned priesthood brings prestige and practical benefit to their kingdoms. Unlike some other Aurèldían faiths, Mârendâs's priesthood deliberately avoids accumulating temporal power or territorial holdings, instead maintaining focus on intellectual and educational work.
 

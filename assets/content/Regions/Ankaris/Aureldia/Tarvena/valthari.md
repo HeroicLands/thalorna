@@ -14,6 +14,8 @@ data: {demonym: null, lore: [], parents: [tarvenirgn], population: 45000, govern
 
 ## The Harbor
 
+The harbor pidgin of the whole coast, [[skill-valtarlng|Valtári]], is named for this port, where its first fixed form grew up on the quays.
+
 The harbor is crowded with ships from [[place-provenzrgn|Provènzia]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-helionis|Heliónis]] and beyond, and the dockside markets trade in goods from across [[place-midhalnrgn|Mídhalión]]. Provenzal is spoken widely beside Tarvéni, Tarûzeli merchants keep their own quarter, and the city's architecture blends Tarvénan stone-and-iron practicality with Provenzian elegance. The mountain lords call Valthári soft and foreign-tainted, and Valthári calls them provincial and broke. Both assessments contain a grain of truth.
 
 ## Who Governs

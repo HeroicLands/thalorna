@@ -415,13 +415,13 @@ Lucerian was born in the Vylarian city of [[place-belekos|Belekos]], the son of 
 
 ### Training
 
-Lucerian apprenticed to a renowned surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
+Lucerian apprenticed to a surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
 
 ### The Rescue
 
 Everything changed when Lucerian's younger sister, Cibella, was taken by the [[affiliation-ordoarcanis|Ordo Arcanis]].
 
-Cibella had always been different—brilliant, mercurial, and possessed of an extraordinary arcane aura that drew attention from the moment it manifested. The Ordo identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Cibella wrote glowing letters home. Then the letters stopped. When Lucerian finally gained access to the academy, what he found destroyed his world. The Ordo had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged—erratic, traumatized, and partially broken.
+Cibella had always been different—brilliant, mercurial, with an extraordinary arcane aura that drew attention from the moment it manifested. The Ordo identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Cibella wrote glowing letters home. Then the letters stopped. When Lucerian finally gained access to the academy, what he found destroyed his world. The Ordo had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged—erratic, traumatized, and partially broken.
 
 Lucerian sacrificed everything to get her out. He used his family's wealth, called in every favor he had, and ultimately resorted to outright theft and deception to extract Cibella from the Ordo's facility. In doing so, he made himself a fugitive. The Ordo does not forgive theft of their property, and they consider Cibella exactly that—their property.
 
@@ -441,21 +441,21 @@ Cibella. Everything Lucerian does is for his sister. He gave up his career, his 
 
 ### Strengths
 
-Lucerian is one of the finest physicians alive. His surgical skill is extraordinary, his pharmacological knowledge is encyclopedic, and his diagnostic ability borders on the intuitive. He is also genuinely brilliant—able to learn quickly, think clearly under pressure, and solve complex problems.
+Lucerian is one of the finest physicians alive. His surgical skill is extraordinary, his pharmacological knowledge is encyclopedic, and his diagnostic ability borders on the intuitive. He is also brilliant—able to learn quickly, think clearly under pressure, and solve complex problems.
 
 ### Weaknesses
 
-He is arrogant about his intelligence and dismissive of people he considers less educated. He has poor social skills in casual settings and can be maddeningly rigid about protocol and propriety. His obsessive focus on protecting Cibella sometimes blinds him to her needs as a person rather than a patient. He is also physically unimposing and nearly useless in a fight.
+He is arrogant about his intelligence and dismissive of people he considers less educated. He has poor social skills in casual settings and can be maddeningly rigid about etiquette and propriety. His obsessive focus on protecting Cibella sometimes blinds him to her needs as a person rather than a patient. He is also physically unimposing and nearly useless in a fight.
 
 ## Social
 
 ### Patrons
 
-Lucerian's family wealth has been largely spent on the escape and subsequent flight. He still has enough gold to pay for passage, but his resources are dwindling. He has no patrons—the Ordo has ensured that anyone who might help him knows the cost.
+Lucerian's family wealth has been largely spent on the escape and subsequent flight. He still has enough gold to pay for passage, but his resources are dwindling. He has no patrons—the Ordo has made sure that anyone who might help him knows the cost.
 
 ### Enemies
 
-The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for taking her. They operate through Vylarian imperial channels—court agents, bounty hunters, political leverage—making every Vylarian port a potential trap. The deeper danger is that the Ordo's interest in Cibella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary strategic value.
+The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for taking her. They operate through Vylarian imperial channels—court agents, bounty hunters, political leverage—making every Vylarian port a potential trap. The deeper danger is that the Ordo's interest in Cibella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary value in war.
 
 ### Affiliations
 

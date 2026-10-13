@@ -130,7 +130,7 @@ Malagna trades with Élavendre, with the northern communities of Aelwyth, and oc
 
 ## Commerce and Currency
 
-Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (aurion, argo and bit), and no chapter of [[affiliation-clgmrgntrrm|the Collegium Argentariorum]] operates in the [[place-nrdlndsrgn|Nordlands]]. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (elthêzâs, ankhrâ and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the [[place-nrdlndsrgn|Nordlands]]. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

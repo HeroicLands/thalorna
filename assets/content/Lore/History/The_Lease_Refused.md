@@ -3,7 +3,7 @@ shortcode: ridersdisb
 name: {full: The Lease Refused, aliases: [The Disbanding of the Dragon Riders]}
 type: lore
 subType: history
-description: "Around 45 BF the standing lease of the dragons is not renewed, the return of what the Republic holds is refused, the killing follows, the Dragon Riders are disbanded and the Eyrie of Mons Aquila is sealed."
+description: "Around 45 BF the standing lease of the dragons is not renewed, the return of what the Republic holds is refused, the killing follows, the Dragon Riders are disbanded and the Eyrie of Arvel is sealed."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -12,7 +12,7 @@ data:
       kind: dissolution
       depth: world
       summary: >-
-        The standing lease of the dragons is not renewed. On the Ordo's counsel the Republic tells the dragons the term is ended and refuses the return of what it holds of theirs. The killing follows: many dragons die and some escape. The Dragon Riders are disbanded, the Eyrie of Mons Aquila is sealed, and the records of the terms are suppressed rather than the records of the war. The hold is still in force, the survivors and the ancestor pool have not forgotten, and what the Republic took has never been given back.
+        The standing lease of the dragons is not renewed. On the Ordo's counsel the Republic tells the dragons the term is ended and refuses the return of what it holds of theirs. The killing follows: many dragons die and some escape. The Dragon Riders are disbanded, the Eyrie of Arvel is sealed, and the records of the terms are suppressed rather than the records of the war. The hold is still in force, the survivors and the ancestor pool have not forgotten, and what the Republic took has never been given back.
       standing: single-source
       where:
         locus: [place-vylariargn]
@@ -35,7 +35,7 @@ data:
         - {ref: affiliation-vylarinmpr, role: actor}
         - {ref: affiliation-ordoarcanis, role: instrument}
       follows:
-        - event: lore-lexarcana
+        - event: lore-kandrol
           how: enabled
           note: only an arcane body with a monopoly could keep what was held, and the holdings moved onto its books
         - {event: lore-helionscnq, how: ended, note: the corps raised in that war ends here}
@@ -61,7 +61,7 @@ data:
             Nothing. The binding of a soul stands at the head of its prohibited list, and it has never explained why it is so particular.
           agrees: silent
       unresolved:
-        - where the mounts were housed, the galleries under Mons Aquila being rooms for men and a chest
+        - where the mounts were housed, the galleries under Arvel being rooms for men and a chest
         - whether the ancestor pool will still receive what is held, after more than ten centuries out of it
         - where the one binding went that the Recensio's count came up short of
 ---

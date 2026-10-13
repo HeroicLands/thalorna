@@ -14,7 +14,7 @@ Proud and cautious, turkeys are ground-dwelling birds that display elaborate cou
 
 ## Human Personality
 
-This individual balances pride with vigilance, displaying confidence while remaining alert to threats. They engage in social displays but are always mindful of their safety.
+A Turkey person has both pride and vigilance. Confidence shows in social displays, but the person never forgets to watch for threats.
 
 - **Physical:** Large, rounded physique; keen, observant eyes.
 - **Behavioral:** Proud, cautious, always on the lookout for danger.

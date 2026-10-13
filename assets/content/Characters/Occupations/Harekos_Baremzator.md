@@ -420,7 +420,7 @@ Long experience, skilled in the old thatching methods, a good teacher.
 
 ## Social
 
-Hàrêkôs holds his master's seal from the Thatchers' Collegium of Corvinus, as every trade in Vylaria is chartered, and has sat among its senior masters for twenty years.
+Hàrêkôs holds his master's seal from the Thatchers' Guild of Corvinus, as every trade in Vylaria is chartered, and has sat among its senior masters for twenty years.
 
 ## Companions
 
@@ -430,7 +430,7 @@ Hàrêkôs's patrons are the farmers of the Corvinus country, who want a roof th
 
 ### Enemies
 
-A younger master of the collegium who lays reed the Hylen way, faster and cheaper, and has proposed it as the collegium's standard.
+A younger master of the guild who lays reed the Hylen way, faster and cheaper, and has proposed it as the guild's standard.
 
 ## Plot Hooks
 
@@ -438,6 +438,6 @@ A younger master of the collegium who lays reed the Hylen way, faster and cheape
 
 2. **The Grandson**—The grandson Hàrêkôs has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Hàrêkôs roofed a house for.
 
-3. **The Standard**—The collegium votes next session on the Hylen method, and the younger masters have the numbers. If it passes, every roof Hàrêkôs lays after will be laid against the rule.
+3. **The Standard**—The guild votes next session on the Hylen method, and the younger masters have the numbers. If it passes, every roof Hàrêkôs lays after will be laid against the rule.
 
 4. **The Old Roof**—A roof Hàrêkôs laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Hàrêkôs remembers the roof and the reed, and he does not think it was.

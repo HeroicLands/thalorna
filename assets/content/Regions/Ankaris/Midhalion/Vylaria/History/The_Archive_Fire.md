@@ -3,7 +3,7 @@ shortcode: archivefire
 name: {full: The Archive Fire, aliases: [The Burning of the Rolls]}
 type: lore
 subType: history
-description: "About 318 AF the imperial archive on Mons Aquila burns with most of four centuries of edicts and the rolls of the Republic; the Imperial Scribal Guild is given custody of everything written after, and its archive begins that year."
+description: "About 318 AF the imperial archive on Arvel burns with most of four centuries of edicts and the rolls of the Republic; the Imperial Scribal Guild is given custody of everything written after, and its archive begins that year."
 tags: [history, vylaria, ageconquest]
 data:
   culture: vylarianclt
@@ -13,12 +13,12 @@ data:
       when: ~318
       kind: catastrophe
       depth: region
-      sources: [place-urbsaquiln, place-monsaquila, affiliation-imprlscrblgld]
+      sources: [place-arvon, place-arvel, affiliation-imprlscrblgld]
       summary: >-
-        The imperial archive on Mons Aquila burns, with most of the first three centuries of imperial edicts and the greater part of the Republic's rolls. The Imperial Scribal Guild is given custody of everything written after, and the archive it keeps in Ôrzâra begins in the year of the fire. Nobody asks aloud whether the fire was set.
+        The imperial archive on Arvel burns, with most of the first three centuries of imperial edicts and the greater part of the Republic's rolls. The Imperial Scribal Guild is given custody of everything written after, and the archive it keeps in Ôrzâra begins in the year of the fire. Nobody asks aloud whether the fire was set.
       standing: single-source
       where:
-        locus: [place-urbsaquiln]
+        locus: [place-arvon]
         reach:
           - place: place-orzara
             how: >-
@@ -50,7 +50,7 @@ A third-year scribe of the Imperial Scribal Guild, set to indexing the archive, 
 
 ## The Fire
 
-The imperial archive stood on [[place-monsaquila|Mons Aquila]], in the compound of the Officia inside the [[place-urbsaquiln|Inner City]]. When the Senate moved up the hill ([[lore-eaglecityrse|The Raising of the Eagle City]]) it carried the rolls of the Republic with it, and the archive grew by every edict the Founder's line and their successors issued. About 318 it burned. The fire took most of the first three centuries of imperial edicts and the greater part of the Republic's rolls, and with them the dockets of the Praefectura.
+The imperial archive stood on [[place-arvel|Arvel]], in the compound of the Offices inside the [[place-arvon|Inner City]]. When the Senate moved up the hill ([[lore-eaglecityrse|The Raising of the Eagle City]]) it carried the rolls of the Republic with it, and the archive grew by every edict the Founder's line and their successors issued. About 318 it burned. The fire took most of the first three centuries of imperial edicts and the greater part of the Republic's rolls, and with them the dockets of the Kandral.
 
 The cause was never established, and the question was never put in public. A house of paper burns. The Senate recorded the loss and turned to its replacement.
 
@@ -69,4 +69,4 @@ The Imperial Scribal Guild had been chartered in the first century of the Empire
 
 - [[affiliation-imprlscrblgld|Imperial Scribal Guild]]—the guild that keeps the archive that began that year
 - [[lore-eaglecityrse|The Raising of the Eagle City]]—the hill the archive stood on
-- [[place-urbsaquiln|Urbs Aquilion]]—the Inner City where the Officia stands
+- [[place-arvon|Arvon]]—the Inner City where the Offices stands

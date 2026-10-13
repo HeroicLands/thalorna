@@ -429,7 +429,7 @@ Few; well-respected in the area.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Véthar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Innkeeper's Dilemma**—Véthar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; well-respected in the area. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

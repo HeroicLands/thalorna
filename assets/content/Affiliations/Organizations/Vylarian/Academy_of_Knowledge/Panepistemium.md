@@ -31,7 +31,7 @@ data:
     offices: {}
   seat: null
   population: null
-  economy: [affiliation-magnumclgm]
+  economy: [affiliation-tevran]
   lore: []
   parents: []
   relations: {}
@@ -108,9 +108,9 @@ The traditional colleges of the Epistemium, as they stood in the Helionite perio
 
 The institution's spiritual home is Heliónis, and [[affiliation-thyrenae|Thyrenae]] is its birthplace, but its largest and most politically central seat is in the imperial capital, [[place-orzara|Ôrzâra]], where the campus sits in two very different registers.
 
-A small, rarefied compound, the [[place-aulpnpstmm|Aula Panepistemium]], stands within the [[place-urbsaquiln|Urbs Aquilion]], against the Palace precinct. It is not a school. It is the institution's seat of counsel and keeping: a standing body of senior scholars who answer directly to the throne, the [[affiliation-curiavylar|Senate]] and the great houses, together with the **Bibliotheca Reservata**, a warded library of the rarest manuscripts, conquered archives and arcane artifacts too valuable or too dangerous to hold anywhere less secure.
+A small, rarefied compound, the [[place-aulpnpstmm|Aula Panepistemium]], stands within the [[place-arvon|Arvon]], against the Palace precinct. It is not a school. It is the institution's seat of counsel and keeping: a standing body of senior scholars who answer directly to the throne, the [[affiliation-seldan|Senate]] and the great houses, together with the **Notral Sevan**, a warded library of the rarest manuscripts, conquered archives and arcane artifacts too valuable or too dangerous to hold anywhere less secure.
 
-The working university, the vast majority of the campus, lies beyond the Inner Wall in its own chartered **Scholars' District**, ranged around the **Circle of Mârendâs**. Here are the colleges, the lecture halls, the great reading-library, the residence halls, and the gardens and gymnasia. It is a purely scholarly quarter: the practical trades and their training belong to the [[affiliation-magnumclgm|Magnum Collegium]]'s guild-halls, and the Epistemium keeps no trade schools of its own. Its students come from patrician and well-propertied families able to support them through the long years of study. The District neither admits nor lodges the poor, and the institution keeps no presence in the city's outskirts at all. (For the campus in its civic setting, see [[place-orzara|Ôrzâra]].)
+The working university, the vast majority of the campus, lies beyond the Inner Wall in its own chartered **Scholars' District**, ranged around the **Circle of Mârendâs**. Here are the colleges, the lecture halls, the great reading-library, the residence halls, and the gardens and gymnasia. It is a purely scholarly quarter: the practical trades and their training belong to the [[affiliation-tevran|Tevran Maldor]]'s guild-halls, and the Epistemium keeps no trade schools of its own. Its students come from patrician and well-propertied families able to support them through the long years of study. The District neither admits nor lodges the poor, and the institution keeps no presence in the city's outskirts at all. (For the campus in its civic setting, see [[place-orzara|Ôrzâra]].)
 
 ## History
 
@@ -122,11 +122,11 @@ Then came the wars.
 
 When the Republic turned its legions on Heliónis in 335 BF, the College of Arcane Philosophy, the scholars of magic, became weapons of war. The military use of arcane knowledge was devastating, and the other colleges could do nothing to prevent it. The ideal of unified knowledge under shared ethical standards collapsed under desperate warfare. After the conquest, after [[affiliation-ordoarcanis|the dragons broke the mages]] and the Republic imposed its peace, the Senate's first priority was to make sure that arcane power could never again be wielded without state sanction.
 
-In institutional terms, the creation of the Ordo Arcanis was a vivisection. The Senate reached into the Epistemium, took out the College of Arcane Philosophy, and rebuilt it as an instrument of state power, with military enforcement, mandatory registration of practitioners and a legal monopoly on arcane practice. The remaining colleges were left in place, diminished and shaken, but still functioning. The extraction came in 312 BF, under a magistracy, the **Praefectura Arcana**; the Ordo took its charter in 73 BF, under the Lex Arcana (see [[lore-helionscnq|The Conquest of Heliónis]] and [[lore-lexarcana|The Lex Arcana]]).
+In institutional terms, the creation of the Ordo Arcanis was a vivisection. The Senate reached into the Epistemium, took out the College of Arcane Philosophy, and rebuilt it as an instrument of state power, with military enforcement, mandatory registration of practitioners and a legal monopoly on arcane practice. The remaining colleges were left in place, diminished and shaken, but still functioning. The extraction came in 312 BF, under a magistracy, the **Kandral**; the Ordo took its charter in 73 BF, under the Kandrol (see [[lore-helionscnq|The Conquest of Heliónis]] and [[lore-kandrol|The Kandrol]]).
 
 ### The Long Decline
 
-In the nearly eight centuries since the Ordo was founded, the balance within the Epistemium has shifted for good. The Ordo commands more wealth than all the other colleges together, has the ear of the Vylarian Senate, and has enforcement powers, the **Quaesitorium Arcanum**, that no other college has. It has also used the Epistemium's umbrella to extend its influence into domains that are not strictly arcane.
+In the nearly eight centuries since the Ordo was founded, the balance within the Epistemium has shifted for good. The Ordo commands more wealth than all the other colleges together, has the ear of the Vylarian Senate, and has enforcement powers, the **Sekran Arcanum**, that no other college has. It has also used the Epistemium's umbrella to extend its influence into domains that are not strictly arcane.
 
 The College of Mind is the plainest casualty. The Ordo has repeatedly claimed that research into consciousness, mental states and the relation of mind and body falls within the arcane domain, since magic can affect all of them. Mind scholars who stray close to arcane territory find themselves "invited" to collaborate with the Ordo, which in practice means their work is absorbed and their independence ends.
 
@@ -144,8 +144,8 @@ The academies resent the Ordo's dominance, and the Ordo suspects the academies o
 
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The College of Arcane Philosophy, now the dominant institution within the Epistemium
 - [[place-helionis|Heliónis]]—Birthplace and spiritual home of the Epistemium
-- [[place-orzara|Ôrzâra]]—Imperial capital; site of the Epistemium's largest campus (the Scholars' District and the inner Bibliotheca Reservata)
-- [[place-aulpnpstmm|Aula Panepistemium]]—The Epistemium's seat of counsel and keeping in the Urbs Aquilion
+- [[place-orzara|Ôrzâra]]—Imperial capital; site of the Epistemium's largest campus (the Scholars' District and the inner Notral Sevan)
+- [[place-aulpnpstmm|Aula Panepistemium]]—The Epistemium's seat of counsel and keeping in the Arvon
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Political patron and, through the Ordo, de facto controller
 - [[place-elavendre|Élavendre]]—Aesthetic and bardic traditions influenced by the College of Aesthetics
 - [[place-provenzrgn|Provènzia]]—Strong philosophical traditions, particularly in ethics and aesthetics

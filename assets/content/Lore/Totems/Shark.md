@@ -14,7 +14,7 @@ Relentless and instinctive, sharks are apex predators that patrol the oceans wit
 
 ## Human Personality
 
-Highly driven by their instincts, this individual pursues their goals with unyielding focus. They are relentless in their endeavors and rely on their sharp senses to succeed.
+Instinct drives a Shark person, who pursues goals with relentless focus. Sharp senses carry such a person to success.
 
 - **Physical:** Strong, sleek build; intense, penetrating gaze.
 - **Behavioral:** Relentless, driven by strong instincts, effective in pursuit.

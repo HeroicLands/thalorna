@@ -439,7 +439,7 @@ Her gift drew the notice of a patron among the Khelâthi nobility, who had her s
 - **Dexterity**: Her movements are precise and fluid, making her an expert at moving silently and handling delicate objects.
 - **Agility**: Izaret moves with an uncanny grace, able to slip in and out of the shadows quickly and without a sound.
 - **Perception**: Her attunement to the shadow realm heightens her awareness of her surroundings, allowing her to sense disturbances in both the physical and spiritual worlds.
-- **Comeliness**: Izaret’s beauty is understated, but her mysterious aura and piercing gaze give her an enigmatic allure.
+- **Comeliness**: Izaret’s beauty is understated, but her mysterious aura and piercing gaze give her an allure.
 - **Aura**: Her deep connection to the spirit realm and her mystical talents give her a powerful, almost otherworldly presence.
 - **Will**: Izaret possesses a strong will, necessary for manipulating the dangerous forces of shadow magic without losing control.
 - **Reasoning**: Izaret is clever and resourceful, able to think on her feet and solve problems with a mix of magic and strategy.
@@ -448,8 +448,8 @@ Her gift drew the notice of a patron among the Khelâthi nobility, who had her s
 - **Eloquence**: When she speaks, her words are measured and thoughtful, often laced with subtle warnings or hidden meanings.
 - **Morality**: Izaret operates in the gray areas of morality, adhering to her own code rather than societal or religious standards. She is willing to use her abilities in ways that others might consider questionable, especially when it serves her goals or provides valuable knowledge. While she isn't openly malicious, Izaret doesn’t shy away from using manipulation, stealth, and even her mystical abilities if it helps her gain the upper hand. She follows her own path, taking advantage of situations where the line between right and wrong is blurred, though she generally avoids overtly evil acts unless necessary for survival or protection.
 - **Voice**: Izaret's voice is pleasant if unremarkable.
-- **Whispers of the Spirit**: Izaret has several inborn arcane talents, including the ability to hear the faint whispers of spirits (Medium), allowing her to foresee dangers (Prescience) and uncover hidden information (Clairvoyance). Her unique gifts also let her sense spiritual imbalances from afar.
-- **Stealth and Espionage**: Izaret is an expert at moving unseen, gathering information, and infiltrating dangerous places. She is adept at disguise and manipulation, making her invaluable in navigating Aû'Khelâthu politics and secrets.
+- **Hearing the Spirits**: Izaret has several inborn arcane talents, including the ability to hear the faint voices of spirits (Medium), allowing her to foresee dangers (Prescience) and uncover hidden information (Clairvoyance). Her unique gifts also let her sense spiritual imbalances from afar.
+- **Stealth and Espionage**: Izaret is an expert at moving unseen, gathering information, and infiltrating dangerous places. She is adept at disguise and manipulation, making her useful in navigating Aû'Khelâthu politics and secrets.
 - **Subtle Manipulator**: Izaret has a knack for twisting situations to her advantage, able to manipulate conversations and steer people toward her desired outcome without them realizing it.
 
 ## Psyche

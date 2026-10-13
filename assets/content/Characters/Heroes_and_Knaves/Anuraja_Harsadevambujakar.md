@@ -453,7 +453,7 @@ Anurāja is also driven by a need to understand the limits of his capability. He
 - **Advanced Creative Problem-Solving**: His creativity gives him fresh approaches to the problems of assassination. When conventional methods are blocked, his mind quickly generates alternatives.
 - **Stealth Mastery**: His stealth, awareness, and tracking capabilities allow him to observe without being observed and to move through spaces without disturbing them. He can infiltrate secure locations and observe targets for weeks without detection.
 - **Intellectual Capability**: His reasoning combined with his training makes him excellent at planning complex operations, anticipating counteractions, and adapting to unexpected developments.
-- **Exceptional Weapons Capability**: His throwing and melee skills, each with four specializations, and his knowledge of weaponcraft make him dangerous with any instrument of violence.
+- **Weapons Capability**: His throwing and melee skills, each with four specializations, and his knowledge of weaponcraft make him dangerous with any instrument of violence.
 
 ### Weaknesses
 

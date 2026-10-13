@@ -11,7 +11,7 @@ data:
   occupation: Toymaker
   lore: []
   culture: provenzianclt
-  homes: [lunacorte]
+  homes: [jalnazdal]
   affiliations: {kngdmprvnz: {rank: 2}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
@@ -397,9 +397,9 @@ Járaen Lýskal is a 39-year-old woman who stands 5'6" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Járaen Lýskal is a toymaker of Lunacòrte, the capital of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who makes wooden toys, dolls and small models in a workshop off the harbor quarter.
+Járaen Lýskal is a toymaker of Jalnazdàl, the capital of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who makes wooden toys, dolls and small models in a workshop off the harbor quarter.
 
-Járaen learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through Belpòrte from Vylaria and sells at a third of her price, and Járaen, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
+Járaen learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through Kalvèza from Vylaria and sells at a third of her price, and Járaen, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
 
 ## Psyche
 
@@ -417,7 +417,7 @@ Skilled in carving and painting, inventive, good with children.
 
 ## Social
 
-Járaen holds her seal from the Woodcarvers' Guild of Lunacòrte, chartered under the Magnum Collegium, and pays her dues and attends nothing.
+Járaen holds her seal from the Woodcarvers' Guild of Jalnazdàl, chartered under the Tevran Maldor, and pays her dues and attends nothing.
 
 ## Companions
 
@@ -427,7 +427,7 @@ Járaen's patrons are the households of the court's officers, who buy her toys f
 
 ### Enemies
 
-The importing houses that bring in Vylarian turned toys through Belpòrte and sell them by the gross, and a stall-holder who sells copies of her animals carved by nobody in particular.
+The importing houses that bring in Vylarian turned toys through Kalvèza and sell them by the gross, and a stall-holder who sells copies of her animals carved by nobody in particular.
 
 ## Plot Hooks
 

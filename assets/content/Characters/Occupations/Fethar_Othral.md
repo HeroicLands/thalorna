@@ -425,7 +425,7 @@ As a Élavendri potter, Féthar occupies a recognized social niche within Élave
 
 ### Patrons
 
-Féthar's primary patron is Local families and restaurants seeking durable pottery.. This relationship provides both opportunity and obligation.
+Féthar's primary patron is Local families and restaurants seeking durable pottery. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Few; generally respected but sometimes seen as traditionalist.
 
 ## Plot Hooks
 
-1. **The Potter's Dilemma**—Féthar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Potter's Dilemma**—Féthar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Few; generally respected but sometimes seen as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

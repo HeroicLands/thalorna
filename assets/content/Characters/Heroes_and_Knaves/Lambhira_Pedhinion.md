@@ -433,7 +433,7 @@ Like every free Bethûan girl, Lámbhira was trained young in arms and in the [[
 
 Lámbhira's talent did not go unnoticed. **Dómissa Tázîtha of House Khalîthôn**, the clan-matriarch whose lands hold Sehéla and the cantons around it, took an interest in the girl and brought her into her own household guard, where she learned the spear, the broadsword, and the finer points of the Charíssa from the Dómissa's veteran women. Lámbhira rose quickly to be among the most feared fighters of the House's retinue, prized for her discipline and her cold tactical sense as much as her skill at arms.
 
-For a time she served as one of the Dómissa's household guard, enforcing her mistress's will and settling the disputes of the canton. But the work chafed. Lámbhira had risen as high as a peasant's daughter could within another woman's House, and she wanted a path that answered to her own judgment rather than spending her life as the instrument of a Dómissa's.
+For a time she was one of the Dómissa's household guard, enforcing her mistress's will and settling the disputes of the canton. But the work chafed. Lámbhira had risen as high as a peasant's daughter could within another woman's House, and she wanted a path that answered to her own judgment rather than spending her life as the instrument of a Dómissa's.
 
 ### Becoming a Bounty Hunter
 
@@ -456,7 +456,7 @@ Lámbhira must run Rashîra to ground and recover the Purple Warrant—or, faili
 - **Strength**: Years of combat training have given her considerable physical strength.
 - **Endurance**: Capable of enduring harsh conditions and prolonged physical activity.
 - **Dexterity**: Skilled in handling weapons and performing precise movements.
-- **Agility**: Exceptional agility allows her to move swiftly and evade attacks.
+- **Agility**: Great agility allows her to move swiftly and evade attacks.
 - **Perception**: Highly alert and observant, essential for tracking targets.
 - **Comeliness**: Her rugged appearance carries a certain charm.
 - **Aura**: Not particularly attuned to the metaphysical.
@@ -472,7 +472,7 @@ Lámbhira must run Rashîra to ground and recover the Purple Warrant—or, faili
 
 ## Personality and Motivations
 
-Lámbhira is pragmatic, disciplined, and driven by a sense of personal honor. She keeps a quiet, private devotion to [[affiliation-ardavon|Árdavon]], the god of justice and honorable struggle—an unfashionable choice in a realm whose temples of state belong to goddesses, but a fitting one for a thief-taker who believes, beneath all her pragmatism, that she serves something like justice. She is not easily swayed by wealth or promises of power, instead focusing on completing her missions with precision and efficiency. Though she often works for the powerful, Lámbhira remains deeply connected to her peasant roots, understanding the struggles of the common people and sympathizing with those who hold no standing in Bethûa's rigid order—the landless poor and the bound men among whom she was raised.
+Lámbhira is pragmatic, disciplined, and driven by personal honor. She keeps a quiet, private devotion to [[affiliation-ardavon|Árdavon]], the god of justice and honorable struggle—an unfashionable choice in a realm whose temples of state belong to goddesses, but a fitting one for a thief-taker who believes, beneath all her pragmatism, that she serves something like justice. She is not easily swayed by wealth or promises of power, instead focusing on completing her missions with precision and speed. Though she often works for the powerful, Lámbhira remains deeply connected to her peasant roots, understanding the struggles of the common people and sympathizing with those who hold no standing in Bethûa's rigid order—the landless poor and the bound men among whom she was raised.
 
 Despite her skills and reputation, Lámbhira is not without doubts. She struggles with the moral complexities of her work, often questioning whether she is truly serving justice or simply enforcing the will of the powerful. This internal conflict drives her to seek a higher purpose beyond her role as a bounty hunter, though she has yet to fully define what that purpose is.
 
@@ -480,7 +480,7 @@ Despite her skills and reputation, Lámbhira is not without doubts. She struggle
 
 - **Bounty Hunting & Tracking**
 - **Dual-Wielding** (broadsword and dagger)
-- **The Charíssa**—the Bethûan unarmed killing art, in which her exceptional agility makes her lethal even weaponless
+- **The Charíssa**—the Bethûan unarmed killing art, in which her agility makes her lethal even weaponless
 
 ## Social
 
@@ -493,7 +493,7 @@ Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]
 : Matriarch of Bethûa's principal maritime House and Lámbhira's patron for the present hunt. Othris-Khanu's own dealings sit among the secrets in Rashîra's stolen rolls, and the Dómissa has thrown her ships, her captains, and her coin behind the pursuit—acting, it is understood, for the Court of the Veil. Her interest is real but not disinterested, and Lámbhira knows better than to assume their goals are identical.
 
 Mûnêtha of House Ghôlâris
-: A rival thief-taker of real skill and Lámbhira's long-standing competitor for the richest contracts. The two have crossed paths often, sometimes as rivals and sometimes as wary allies; Mûnêtha respects Lámbhira's gifts and resents them in equal measure, and her help, when it comes, always carries a price and a hidden angle.
+: A rival thief-taker of real skill and Lámbhira's long-standing competitor for the richest contracts. The two have crossed paths often, sometimes as rivals and sometimes as wary allies; Mûnêtha respects Lámbhira's gifts and resents them too, and her help, when it comes, always carries a price and a hidden angle.
 
 ### Enemies
 

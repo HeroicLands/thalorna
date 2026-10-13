@@ -426,7 +426,7 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Wulfhár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Huscarl's Dilemma**—Wulfhár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 
 2. **Old Grudges**—Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

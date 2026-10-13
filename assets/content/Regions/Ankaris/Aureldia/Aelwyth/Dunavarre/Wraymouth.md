@@ -35,7 +35,7 @@ Provènzia and the Vylarian ports land here, and the mission to Tānvür sailed 
 ## Character
 
 Wraymouth is more mixed and considerably less decorous than Ravenmoor. Its harbor quarter speaks
-several languages and a good deal of trade-creole, its shipping houses are commercial rather than
+several languages and a good deal of trade pidgin, its shipping houses are commercial rather than
 courtly, and the Synod's administration sits more lightly here than anywhere else in the kingdom—not
 from weakness, but because a port that is generating the realm's revenue is granted a certain latitude.
 

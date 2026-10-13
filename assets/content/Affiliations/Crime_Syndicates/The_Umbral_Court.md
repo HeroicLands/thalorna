@@ -121,7 +121,7 @@ The Court's income is leverage before it is money.
   **debt**, which is an instrument, and which the Master of the Rolls will hold for years without
   pressing before spending it once on something that matters.
 - **The purse.** Debts, rents, protection and smuggled cargo move through chartered
-  [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders and the
+  [[affiliation-danvar|Danvar]] moneylenders and the
   [[lore-vylrncrncy|paper-script]] system, none of it appearing to be the Court's. A kingdom with
   sophisticated banking and a secretive government is an ideal place to be quietly rich.
 - **Contraband and passage.** Anything the Synod restricts—proscribed texts and components above

@@ -106,7 +106,7 @@ Across the strait, relations with the Confederation of Tarûzelian States are wa
 
 ## Commerce and Currency
 
-The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—aurion, argo and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|kin-credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. Tarûzelian coin from the secession trade is accepted in the principal trading cities, through changers who deal with the Tarûzelian treasury, the Merâzûnî.
+The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—elthêzâs, ankhrâ and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of the [[affiliation-danvar|Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|kin-credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. Tarûzelian coin from the secession trade is accepted in the principal trading cities, through changers who deal with the Tarûzelian treasury, the Merâzûnî.
 
 ## See Also
 

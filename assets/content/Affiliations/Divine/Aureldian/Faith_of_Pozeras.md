@@ -16,14 +16,14 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Archivus Peregrinorum above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Tramar above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
@@ -31,22 +31,22 @@ data:
         description: >-
           Initiates who travel with a Custos before they are given a shrine of their own.
       - level: 3
-        title: Custodes Viarum
+        title: Tramor
         description: >-
           The Keepers of Roads—fifty to a hundred ordained priests stationed at way-shrines and crossings, scattered by design.
       - level: 4
-        title: Archivus Peregrinorum
+        title: Tramar
         description: >-
           The nominal apex of a uniquely decentralized and mobile priesthood—an archivist of travelers rather than a commander of them.
     offices:
-      Archivus Peregrinorum: >-
+      Tramar: >-
         The nominal apex of a uniquely decentralized and mobile priesthood—an archivist of travelers rather than a commander of them.
-      Custodes Viarum: >-
+      Tramor: >-
         The Keepers of Roads—fifty to a hundred ordained priests stationed at way-shrines and crossings, scattered by design.
       Acolytes of the Road: >-
         Initiates who travel with a Custos before they are given a shrine of their own.
       Way-Shrines: >-
-        The shrines along the roads at which the Custodes are stationed and travelers are blessed.
+        The shrines along the roads at which the Tramori are stationed and travelers are blessed.
   seat: null
   population: null
   economy: []
@@ -71,9 +71,9 @@ Individual devotion to Pôzêrâs often centers on the making of vows and offeri
 
 ## Organization
 
-The priesthood of Pôzêrâs is uniquely decentralized and mobile compared to other Aurèldían faiths. At the nominal apex stands the **Archivus Peregrinorum**, the Master of Wayfaring, who maintains headquarters at one of the great port cities but spends considerable time traveling among the secondary centers of the priesthood. The Archivus is the keeper of maps, route knowledge, and travel wisdom accumulated over generations, and as the final arbiter of Pôzêrâs's theological interpretation. The current Archivus, based in a major port city, is a navigator and former merchant-captain who has traveled to every major coast of Ankaris and beyond.
+The priesthood of Pôzêrâs is uniquely decentralized and mobile compared to other Aurèldían faiths. At the nominal apex stands the **Tramar**, the Master of Wayfaring, who maintains headquarters at one of the great port cities but spends considerable time traveling among the secondary centers of the priesthood. The Tramar is the keeper of maps, route knowledge, and travel wisdom accumulated over generations, and as the final arbiter of Pôzêrâs's theological interpretation. The current Tramar, based in a major port city, is a navigator and former merchant-captain who has traveled to every major coast of Ankaris and beyond.
 
-Below the Archivus stand the **Custodes Viarum**, the Keepers of Roads, a scattered body of perhaps fifty to one hundred ordained priests stationed at major junctions, ports, and city centers throughout western Ankaris. These priests maintain temples and waystations, oversee the network of way-shrines along major trade routes, and serve as guides and advisors to traveling merchants, soldiers, and adventurers. Many Custodes Viarum are former travelers themselves, individuals who have spent years on the road and who know the territories they oversee intimately. Some specialize in overland routes, others in coastal and maritime navigation; some are experts in desert crossing, others in mountain passage.
+Below the Tramar stand the **Tramori**, the Keepers of Roads, a scattered body of perhaps fifty to one hundred ordained priests stationed at major junctions, ports, and city centers throughout western Ankaris. These priests maintain temples and waystations, oversee the network of way-shrines along major trade routes, and serve as guides and advisors to traveling merchants, soldiers, and adventurers. Many Tramori are former travelers themselves, individuals who have spent years on the road and who know the territories they oversee intimately. Some specialize in overland routes, others in coastal and maritime navigation; some are experts in desert crossing, others in mountain passage.
 
 The **Acolytes of the Road**, young initiates serving apprenticeships within the faith, often spend years traveling with experienced priests, learning the routes, the practical skills of navigation, and the spiritual significance of journeys. Rather than remaining in single locations for formal training, these acolytes typically accompany priests on their travels, learning by doing. Many never advance to full priestly status but instead remain as traveling companions, guides, and practical assistants, finding their calling in the work of supporting safe travel rather than in formal priestly authority.
 

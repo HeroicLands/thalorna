@@ -427,7 +427,7 @@ As a Tarûzelian teamster, Zazûran occupies a recognized social niche within Ta
 
 ### Patrons
 
-Zazûran's primary patron is Local merchants who trust him to transport their goods safely.. This relationship provides both opportunity and obligation.
+Zazûran's primary patron is Local merchants who trust him to transport their goods safely. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,7 +435,7 @@ Bandits who view his well-loaded wagons as targets.
 
 ## Plot Hooks
 
-1. **The Teamster's Dilemma**—Zazûran faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Teamster's Dilemma**—Zazûran faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
 
 2. **Old Grudges**—Bandits who view his well-loaded wagons as targets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

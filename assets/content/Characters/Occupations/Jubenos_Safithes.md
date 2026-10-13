@@ -416,7 +416,7 @@ Charismatic, skilled in conversation, understands high society etiquette.
 
 ## Social
 
-Júbênós is affiliated with Formerly associated with a theater troupe..
+Júbênós is affiliated with Formerly associated with a theater troupe.
 
 As a Helionite courtesan, Júbênós occupies a recognized social niche within Heliónis society.
 
@@ -424,7 +424,7 @@ As a Helionite courtesan, Júbênós occupies a recognized social niche within H
 
 ### Patrons
 
-Júbênós's primary patron is Nobles and wealthy socialites who seek his company.. This relationship provides both opportunity and obligation.
+Júbênós's primary patron is Nobles and wealthy socialites who seek his company. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,7 +432,7 @@ Jealous rivals in the entertainment and social scenes.
 
 ## Plot Hooks
 
-1. **The Courtesan's Dilemma**—Júbênós faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Courtesan's Dilemma**—Júbênós faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
 2. **Old Grudges**—Jealous rivals in the entertainment and social scenes. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

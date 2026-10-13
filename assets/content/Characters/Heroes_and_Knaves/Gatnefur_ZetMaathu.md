@@ -459,7 +459,7 @@ Gatnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **The Language of Scent**: He has developed the ability to create fragrances that convey specific emotions, memories, or narratives. Those who wear his creations often report vivid daydreams or unexpected emotional revelations.
 
-- **Meticulous Attention to Detail**: The scar on his neck came from someone who understood anatomy; ironically, Gatnefur himself possesses an anatomist's knowledge of sensory perception and how various compounds affect the human nervous system.
+- **Attention to Detail**: The scar on his neck came from someone who understood anatomy; ironically, Gatnefur himself possesses an anatomist's knowledge of sensory perception and how various compounds affect the human nervous system.
 
 - **Drawn Artistry**: His hand is steady and skilled, allowing him to create elaborate designs, formulations, and artistic works in various mediums beyond his primary craft.
 

@@ -449,8 +449,8 @@ Snurvthann seeks to maintain the highest standards of his craft, so that knowled
 
 ### Strengths
 
-- **Exceptional Technical Mastery**: Snurvthann's understanding of thatching extends to subtle considerations most practitioners never develop—angles, water flow, the ways of wind, seasonal moisture variations. His roofs are not only beautiful but functionally superior to contemporary work.
-- **Legendary Durability**: Structures he thatched thirty years ago remain in excellent condition, far outlasting the ten to fifteen years typical for thatched roofs. This durability is what he is known for and his primary source of pride.
+- **Technical Mastery**: Snurvthann's understanding of thatching extends to subtle considerations most practitioners never develop—angles, water flow, the ways of wind, seasonal moisture variations. His roofs are not only beautiful but functionally superior to contemporary work.
+- **Durability**: Structures he thatched thirty years ago remain in excellent condition, far outlasting the ten to fifteen years typical for thatched roofs. This durability is what he is known for and his primary source of pride.
 - **Dangerous Heights Confidence**: Snurvthann works comfortably at extreme heights that would terrify ordinary people. His balance, strength, and nerve allow him to operate in conditions others cannot safely manage.
 - **Weather Prediction Acuity**: From his mother's instruction in weather-working and his own lifetime of observation, Snurvthann can forecast weather changes with surprising accuracy, information valuable for planning projects and preventing work delays.
 - **Problem-Solving Under Constraint**: When working on repairs or renovations with structural limitations, Snurvthann can devise creative solutions that accommodate physical constraints while maintaining quality. His work frequently becomes teaching examples of clever adaptive technique.

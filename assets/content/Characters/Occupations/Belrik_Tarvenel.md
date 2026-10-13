@@ -384,7 +384,7 @@ The scar on his neck is a reminder of an ambush five years ago—a coordinated a
 
 ### Personality
 
-Bélrik is quiet and observant, more comfortable with animals and plants than with most humans. He is patient to the point of stoicism and dislikes rapid emotional display. He is genuinely kind to those who approach him with respect, and his few friendships are deep and lasting. He is uncomfortable in formal social settings and will slip away from garrison gatherings whenever possible. He is not antisocial so much as asocial—people are not his native environment.
+Bélrik is quiet and observant, more comfortable with animals and plants than with most humans. He is patient to the point of stoicism and dislikes rapid emotional display. He is kind to those who approach him with respect, and his few friendships are deep and lasting. He is uncomfortable in formal social settings and will slip away from garrison gatherings whenever possible. He is not antisocial so much as asocial—people are not his native environment.
 
 ### Motivation
 
@@ -392,7 +392,7 @@ Bélrik's primary motivation is protection of Élavendre's borderlands and the r
 
 ### Strengths
 
-His tracking ability is exceptional and earned through decades of living in forest environments. His archery is accurate at remarkable distances. He understands the deep forest better than nearly anyone alive. His judgment in dangerous wilderness situations is reliable and often brilliant.
+His tracking ability is outstanding and earned through decades of living in forest environments. His archery is accurate at distances. He understands the deep forest better than nearly anyone alive. His judgment in dangerous wilderness situations is reliable and often brilliant.
 
 ## Social
 
@@ -406,7 +406,7 @@ Bélrik occupies a liminal role within Élavendren society: respected as a speci
 
 ### Enemies
 
-**Foreign Agent Kessian**—A survivor of the ambush that scarred Bélrik. Kessian was wounded in the attack and disappeared into the forest. Bélrik has tracked him sporadically over the past five years and believes he is still active in the borderlands. Kessian has left evidence of his movements—dead animals, disturbed camp sites—that suggests he is specifically taunting Bélrik. The two men have become locked in a long-distance confrontation that is somewhere between vendetta and psychological warfare.
+**Foreign Agent Kessian**—A survivor of the ambush that scarred Bélrik. Kessian was wounded in the attack and disappeared into the forest. Bélrik has tracked him sporadically over the past five years and believes he is still active in the borderlands. Kessian has left evidence of his movements—dead animals, disturbed camp sites—that suggests he is specifically taunting Bélrik. The two men have become locked in a long-distance confrontation that is somewhere between vendetta and a war of nerves.
 
 ## Plot Hooks
 
@@ -416,6 +416,6 @@ Bélrik occupies a liminal role within Élavendren society: respected as a speci
 
 3. **Kessian's Revelation**—Bélrik finally confronts Kessian after five years of tracking. Instead of combat, Kessian offers information: the ambush that scarred Bélrik was not a military operation but a punishment by a foreign government against Élavendren officials who had wronged Kessian's people. The "invasion" was actually a targeted execution. Kessian has evidence that the Élavendren government knew this and lied about the attack's nature to avoid diplomatic consequences. Bélrik must decide whether to report this truth or protect his government's credibility.
 
-4. **The Cursed Forest**—Bélrik becomes aware that a region of deep forest is showing signs of corruption—trees dying unnaturally, animal behavior becoming erratic, the spiritual connection that Élavendren rangers feel with the forest becoming twisted and wrong. Investigation suggests the corruption is caused by artifact or ritual from an external source, possibly left by Kessian or similar foreign agents. Bélrik must venture into a genuinely dangerous region to identify and neutralize the threat, knowing that the forest itself is becoming hostile.
+4. **The Cursed Forest**—Bélrik becomes aware that a region of deep forest is showing signs of corruption—trees dying unnaturally, animal behavior becoming erratic, the spiritual connection that Élavendren rangers feel with the forest becoming twisted and wrong. Investigation suggests the corruption is caused by artifact or ritual from an external source, possibly left by Kessian or similar foreign agents. Bélrik must venture into a dangerous region to identify and neutralize the threat, knowing that the forest itself is becoming hostile.
 
 5. **The Young Ranger's Responsibility**—Bélrik is asked to mentor a promising young border patrol recruit. The recruit is physically talented but emotionally volatile—prone to aggressive behavior and poor judgment. Bélrik works hard to guide the recruit toward competence and restraint. But the recruit eventually admits that she is pregnant, fathered by a foreign agent she met during a border incident—a fraternization that is technically treason. She begs Bélrik not to report her. Bélrik must choose between military duty and his responsibility as a mentor to a young person making terrible but understandable mistakes.

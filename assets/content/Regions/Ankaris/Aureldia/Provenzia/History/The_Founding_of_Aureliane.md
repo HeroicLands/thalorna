@@ -11,7 +11,7 @@ data:
     - when: ~-110
       kind: founding
       depth: region
-      sources: [place-aureliane, place-meridiana, affiliation-vylarinmpr, lore-provenzianclt]
+      sources: [place-aureliane, place-korvathis, affiliation-vylarinmpr, lore-provenzianclt]
       summary: >-
         The Republic, master of the Vylarian Sea, plants a garrison colony on the great road above the southern Provenzal shore, to trade with the Thânevar kings and to watch the western sea-lane. It is laid out on the grid, with an aqueduct, a forum and a basilica. About 80 BF the garrison is withdrawn and the colony stays, a town of Vylarian settlers who marry into Thânevar houses.
       standing: attested
@@ -21,13 +21,13 @@ data:
       where:
         locus: [place-aureliane]
         reach:
-          - place: place-meridiana
+          - place: place-korvathis
             how: the coast's great houses descend from the settlers who stayed, and the road they were settled on is still the way inland
             knowledge: named
           - place: place-provenzrgn
             how: Provenzian law, learning and architecture are received from a city that was founded as a Vylarian outpost and never stopped being proud of it
             knowledge: named
-          - place: place-lunacorte
+          - place: place-jalnazdal
             how: the coast's later capital grows rich on trade the colony opened, and spends the next centuries being governed from it
             knowledge: unlinked
       who: [{ref: affiliation-vylarinmpr, role: founder}, {ref: lore-provenzianclt, role: witness}]

@@ -63,10 +63,10 @@ data:
   seat: alyssar
   population: 7000000
   economy:
-    - affiliation-aerarimmpr
-    - affiliation-clgmrgntrrm
-    - affiliation-curiafscls
-    - affiliation-magnumclgm
+    - affiliation-tarmex
+    - affiliation-danvar
+    - affiliation-tolvan
+    - affiliation-tevran
     - lore-vylrncrncy
   lore: [humanflk]
   parents: [vylarinmpr]
@@ -79,7 +79,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 When a Vylarian says "the empire," he means Alyssa first and everything else second. The Province of Alyssa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]]: the province that contains the imperial capital, the Senate and the oldest institutions of Vylarian civilization, and the most urbanized, politically sophisticated and culturally self-assured of the four. It holds the land of [[place-alyssa|Alyssa]], seven million people governed from the provincial capital, [[place-alyssar|Alyssar]], by a governor the emperor appoints.
 
-A decurion of a chartered town, seated on its council and liable in his own person for the taxes the town owes, gives his nephew the same advice on the day the young man takes his place: "Learn who writes to whom. The governor answers to the Augustar, the emperor, and to nobody else. The procurator collects the emperor's revenue and reports past the governor, so he does not need to like him. The legate holds the soldiers. And every one of them has a cousin in [[place-orzara|Ôrzâra]]. Whatever you decide here, somebody in the capital will hear it before the week is out."
+A decurion of a chartered town, seated on its council and liable in his own person for the taxes the town owes, gives his nephew the same advice on the day the young man takes his place: "Learn who writes to whom. The governor answers to the Ôrzâs, the emperor, and to nobody else. The procurator collects the emperor's revenue and reports past the governor, so he does not need to like him. The legate holds the soldiers. And every one of them has a cousin in [[place-orzara|Ôrzâra]]. Whatever you decide here, somebody in the capital will hear it before the week is out."
 
 ## Character
 
@@ -95,7 +95,7 @@ What is scarce is food, which arrives from [[affiliation-provnchyln|Hylen]] and 
 
 ## Commerce and Currency
 
-Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion, Argentus and Octus) as its standard, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]], the moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. The [[affiliation-curiafscls|Curia Fiscalis]] administers imperial taxation, and the revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. The full system is set out in [[lore-vylrncrncy|Vylarian Currency]].
+Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through the [[affiliation-danvar|Danvar]], the moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. The [[affiliation-tolvan|Tolvan]] administers imperial taxation, and the revenues flow to the [[affiliation-tarmex|Tarmex Orzan]]. The full system is set out in [[lore-vylrncrncy|Vylarian Currency]].
 
 ## See Also
 

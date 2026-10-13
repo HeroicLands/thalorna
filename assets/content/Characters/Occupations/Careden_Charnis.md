@@ -11,7 +11,7 @@ data:
   occupation: Shaman
   lore: []
   culture: provenzianclt
-  homes: [monverdre]
+  homes: [palvothe]
   affiliations: {kngdmprvnz: {rank: 2}, zunelas: {rank: 3}}
   gender: male
   species: humanflk
@@ -425,7 +425,7 @@ As a Provenzian shaman, Cáreden occupies a recognized social niche within Prov�
 
 ### Patrons
 
-Cáreden's primary patron is The tribe's chieftain, who seeks his counsel.. This relationship provides both opportunity and obligation.
+Cáreden's primary patron is The tribe's chieftain, who seeks his counsel. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ Rival shamans who question his methods and beliefs.
 
 ## Plot Hooks
 
-1. **The Shaman's Dilemma**—Cáreden faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Shaman's Dilemma**—Cáreden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 
 2. **Old Grudges**—Rival shamans who question his methods and beliefs. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 

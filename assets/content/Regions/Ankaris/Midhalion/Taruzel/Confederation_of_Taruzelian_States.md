@@ -63,7 +63,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: besikar2
   population: 12000000
-  economy: [affiliation-aerarimmpr, lore-trzlncrncy]
+  economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: []
   relations:
@@ -220,7 +220,7 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 
 ## Commerce and Currency
 
-The Confederation pays in the [[lore-trzlncrncy|Tarûzelian currency]], the system it built after secession and administers through the **Merâzûnî**, the treasury of the [[affiliation-vezakuni|Vezâkûnî]]. Its denominations are the Vylarian ones (Aurion, Argo and Bit), but they are backed by Tarûzelian reserves rather than by the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], and the Tarûzelian Aurion is slightly underweight by the Vylarian standard. A network of Merâzûnî-affiliated moneylenders carries the banking. Vylarian script is not honored in Tarûzel, and Tarûzelian script is not honored in Vylarian territory.
+The Confederation pays in the [[lore-trzlncrncy|Tarûzelian currency]], the system it built after secession and administers through the **Merâzûnî**, the treasury of the [[affiliation-vezakuni|Vezâkûnî]]. Its denominations are the Vylarian ones (Solden, Ard and Bit), but they are backed by Tarûzelian reserves rather than by the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and the Tarûzelian Solden is slightly underweight by the Vylarian standard. A network of Merâzûnî-affiliated moneylenders carries the banking. Vylarian script is not honored in Tarûzel, and Tarûzelian script is not honored in Vylarian territory.
 
 ## See Also
 

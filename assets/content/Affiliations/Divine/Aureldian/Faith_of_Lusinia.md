@@ -16,14 +16,14 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Magistra Vitae above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Sirela above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Exsecratus
+        title: Banar
         description: >-
           Cast out—denied the rites, the temple and the burial the faith promises, which is the one sentence it can pass that outlives the body.
       - level: 1
-        title: Fideles
+        title: Devran
         description: >-
           The lay faithful, who keep the feasts and the observances of the god without holding office in the temple.
       - level: 2
@@ -31,21 +31,21 @@ data:
         description: >-
           Young initiates training in spiritual practice alongside gardening, herbalism and midwifery.
       - level: 3
-        title: Sacerdotes
+        title: Sarnor
         description: >-
           Ordained clergy of the World-Weaver, keeping the rites of growth and making.
       - level: 4
-        title: Magistra Vitae
+        title: Sirela
         description: >-
           High Priestess or High Priest, typically a figure of great age and wisdom.
     offices:
-      Magistra Vitae: >-
+      Sirela: >-
         High Priestess or High Priest, typically a figure of great age and wisdom.
-      Sacerdotes: >-
+      Sarnor: >-
         Ordained clergy of the World-Weaver, keeping the rites of growth and making.
       Acolytes of the Spring: >-
         Young initiates training in spiritual practice alongside gardening, herbalism and midwifery.
-      Collegium of Growing Things: >-
+      Mârendâlon of Growing Things: >-
         The body in which the faith's practical knowledge of cultivation is held and taught.
   seat: null
   population: null
@@ -71,11 +71,11 @@ The symbol of Lúsinía—the spinning wheel encircled by vines—represents bot
 
 ## Organization
 
-The priesthood of Lúsinía is organized around the **Magistra Vitae**, the High Priestess or High Priest, typically a figure of great age and wisdom who has spent decades in service to the goddess and the natural world. Below the Magistra stands a council of **Sacerdotes**, ordained priests responsible for maintaining temples, performing rituals, and serving as healers and counselors to the faithful. Many Sacerdotes are accomplished herbalists or naturalists, and their knowledge of plants, agriculture, and healing is often as spiritually important as formal theology.
+The priesthood of Lúsinía is organized around the **Sirela**, the High Priestess or High Priest, typically a figure of great age and wisdom who has spent decades in service to the goddess and the natural world. Below the Sirela stands a council of **Sarnori**, ordained priests responsible for maintaining temples, performing rituals, and serving as healers and counselors to the faithful. Many Sarnori are accomplished herbalists or naturalists, and their knowledge of plants, agriculture, and healing is often as spiritually important as formal theology.
 
-The third rank consists of **Acolytes of the Spring**, young initiates who train in both spiritual practice and practical gardening, herbalism, and midwifery. These acolytes spend years working the temple gardens, learning to recognize every plant and its properties, before advancement to Sacerdote status is even considered. Many Acolytes never proceed to full ordination, instead becoming master gardeners or herbalists who maintain ties of respect to the priesthood throughout their lives.
+The third rank consists of **Acolytes of the Spring**, young initiates who train in both spiritual practice and practical gardening, herbalism, and midwifery. These acolytes spend years working the temple gardens, learning to recognize every plant and its properties, before advancement to Sarnor status is even considered. Many Acolytes never proceed to full ordination, instead becoming master gardeners or herbalists who maintain ties of respect to the priesthood throughout their lives.
 
-A distinctive feature of Lúsinía's temples is the **Collegium of Growing Things**, a research and teaching institution attached to major temples where scholars and priests study agriculture, botany, medicine, and the cultivation of plants. These collegiums maintain extensive libraries of botanical knowledge and seed archives, preserving rare and ancient plant varieties. They are supported by noble patrons and wealthy merchants who understand that Lúsinía's blessings flow through agricultural prosperity.
+A distinctive feature of Lúsinía's temples is the **Mârendâlon of Growing Things**, a research and teaching institution attached to major temples where scholars and priests study agriculture, botany, medicine, and the cultivation of plants. These schools maintain extensive libraries of botanical knowledge and seed archives, preserving rare and ancient plant varieties. They are supported by noble patrons and wealthy merchants who understand that Lúsinía's blessings flow through agricultural prosperity.
 
 ## Relations
 

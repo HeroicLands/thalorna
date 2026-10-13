@@ -11,7 +11,7 @@ data:
   occupation: Bodyguard
   lore: []
   culture: tarvenanclt
-  homes: [solarden]
+  homes: [herthema]
   affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
@@ -397,9 +397,9 @@ Bánrik Cáriselda is a 29-year-old man who stands 6'1" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Bánrik Cáriselda is a bodyguard of Solárden, in [[place-tarvenirgn|Tarvénia]], a Tarvénan of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
+Bánrik Cáriselda is a bodyguard of Herthéma, in [[place-tarvenirgn|Tarvénia]], a Tarvénan of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
 
-Bánrik grew up without a father in the lanes below Solárden's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives—a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together—and by talking his way through what he cannot fight.
+Bánrik grew up without a father in the lanes below Herthéma's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives—a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together—and by talking his way through what he cannot fight.
 
 ## Psyche
 
@@ -417,17 +417,17 @@ Quick and agile, good at reading people and rooms, excellent at spotting a threa
 
 ## Social
 
-Bánrik is on the sellswords' roll at Solárden, which lets him take hire lawfully, and belongs to no company.
+Bánrik is on the sellswords' roll at Herthéma, which lets him take hire lawfully, and belongs to no company.
 
 ## Companions
 
 ### Patrons
 
-Bánrik's patrons are the merchants and minor nobility of Solárden who want protection that does not look like protection—a quiet man beside them at the table rather than a wall of hired steel.
+Bánrik's patrons are the merchants and minor nobility of Herthéma who want protection that does not look like protection—a quiet man beside them at the table rather than a wall of hired steel.
 
 ### Enemies
 
-The bigger bodyguards of Solárden who have lost work to him and say a man who cannot lift a shield has no business in the trade.
+The bigger bodyguards of Herthéma who have lost work to him and say a man who cannot lift a shield has no business in the trade.
 
 ## Plot Hooks
 

@@ -11,7 +11,7 @@ data:
   occupation: Scholar
   lore: []
   culture: provenzianclt
-  homes: [valcerise]
+  homes: [pirnebris]
   affiliations: {kngdmprvnz: {rank: 2}, marendas: {rank: 1}}
   gender: male
   species: humanflk
@@ -397,9 +397,9 @@ Vôrnan Tólgen is a 46-year-old man who stands 5'8" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Vôrnan Tólgen is a self-taught philosopher of Valcèrise, the cherry town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freeman of a carter's family who never saw the inside of an academy and lectures on ethics in the taverns of a town that lives on the frontier war.
+Vôrnan Tólgen is a self-taught philosopher of Pirnebrìs, the cherry town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freeman of a carter's family who never saw the inside of an academy and lectures on ethics in the taverns of a town that lives on the frontier war.
 
-Vôrnan was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of Helionite dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of Aurèliane's academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Valcèrise, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Valcèrise sells the frontier its boots and carts and nobody there wants a lasting peace, and Vôrnan asks, plainly and repeatedly, what that makes them.
+Vôrnan was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of Helionite dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of Aurèliane's academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Pirnebrìs, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Pirnebrìs sells the frontier its boots and carts and nobody there wants a lasting peace, and Vôrnan asks, plainly and repeatedly, what that makes them.
 
 ## Psyche
 
@@ -423,11 +423,11 @@ Vôrnan belongs to no academy, guild or faction and has no patron.
 
 ### Patrons
 
-Vôrnan's patrons are the tavern-keepers of Valcèrise, who feed him because his evenings sell wine, and the town's young, who come to argue and stay to think.
+Vôrnan's patrons are the tavern-keepers of Pirnebrìs, who feed him because his evenings sell wine, and the town's young, who come to argue and stay to think.
 
 ### Enemies
 
-The supply merchants of Valcèrise, whose trade he has described in public as profiting by other men's deaths; and a captain of the garrison who has heard what the junior officers are repeating and knows where they heard it.
+The supply merchants of Pirnebrìs, whose trade he has described in public as profiting by other men's deaths; and a captain of the garrison who has heard what the junior officers are repeating and knows where they heard it.
 
 ## Plot Hooks
 
@@ -437,4 +437,4 @@ The supply merchants of Valcèrise, whose trade he has described in public as pr
 
 3. **The Officer Who Listened**—A junior officer who took Vôrnan's questions seriously has refused an order in the field and is to be tried at the Winter Assize. His defense is what Vôrnan taught him, and the court has sent for the teacher.
 
-4. **Shut In**—The alarm has sounded and Valcèrise has shut its gates with the flocks and the outlying families inside. Vôrnan is inside with the merchants he has spent ten years accusing.
+4. **Shut In**—The alarm has sounded and Pirnebrìs has shut its gates with the flocks and the outlying families inside. Vôrnan is inside with the merchants he has spent ten years accusing.

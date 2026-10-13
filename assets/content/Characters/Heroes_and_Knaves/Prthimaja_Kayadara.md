@@ -446,15 +446,15 @@ Prthīmāja seeks to create lasting beauty that outlasts human years, objects th
 
 ### Strengths
 
-- **Unparalleled Gem-Cutting Mastery**: Prthīmāja's skill at identifying the best cut for any stone, understanding how light plays through facets and how to maximize a gem's inherent beauty, is acknowledged as the finest in the City-States. He can rescue gems other cutters would consider flawed, transforming them into pieces of great beauty.
+- **Gem-Cutting Mastery**: Prthīmāja's skill at identifying the best cut for any stone, understanding how light plays through facets and how to maximize a gem's inherent beauty, is acknowledged as the finest in the City-States. He can rescue gems other cutters would consider flawed, transforming them into pieces of great beauty.
 
 - **Innovative Metallurgical Knowledge**: Beyond cutting, he has experimented extensively with different alloys and metals, discovering combinations and treatments that achieve effects others believed impossible. His metalwork is as much alchemical achievement as craftsmanship.
 
-- **Meticulous and Precise**: His attention to detail is extraordinary and inhuman. He can perform delicate work for hours without fatigue or loss of concentration, and he notices flaws in others' work that would be invisible to most observers.
+- **And Precise**: His attention to detail is extraordinary and inhuman. He can perform delicate work for hours without fatigue or loss of concentration, and he notices flaws in others' work that would be invisible to most observers.
 
-- **Exceptional Observational Acuity**: In his craft, Prthīmāja's perception is extraordinary—he perceives subtle color variations, light angles, and structural possibilities that others miss. This perception extends somewhat to people, though he is less skilled at reading emotional nuance.
+- **Observational Acuity**: In his craft, Prthīmāja's perception is extraordinary—he perceives subtle color variations, light angles, and structural possibilities that others miss. This perception extends somewhat to people, though he is less skilled at reading emotional nuance.
 
-- **Creator of Legendary Artifacts**: Several of his pieces have become objects of veneration or legend. A gem he cut twenty years ago is said to grant the wearer clarity of vision; another supposedly brings peace to troubled minds. While Prthīmāja credits the legends to the wearers' own minds, the belief in his work's power is strong.
+- **Creator of Famed Artifacts**: Several of his pieces have become objects of veneration or legend. A gem he cut twenty years ago is said to grant the wearer clarity of vision; another supposedly brings peace to troubled minds. While Prthīmāja credits the legends to the wearers' own minds, the belief in his work's power is strong.
 
 ### Weaknesses
 

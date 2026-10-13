@@ -105,7 +105,7 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **Player choices.** Force: carry the goods out on a sledge. Stealth: take only the tally-sticks. Guile: sort the goods and return them to the families who lost them. Parley: bring the goods to Draskborg and ask the hirdman what is to be done.
 
-**Clues and rewards.** The goods are modest: hack-silver, a few Vylarian Argenti, a chain of amber, the swords of dead raiders. The tally-sticks name the howes where shards are set, among them the fell of [[place-unthmylsfell|Unthmýlsfell]]. Among the Ginnbörn at the door stands a woman in a Draskborg cloak, and the child's wooden horse in the cache is hers.
+**Clues and rewards.** The goods are modest: hack-silver, a few Vylarian Ardini, a chain of amber, the swords of dead raiders. The tally-sticks name the howes where shards are set, among them the fell of [[place-unthmylsfell|Unthmýlsfell]]. Among the Ginnbörn at the door stands a woman in a Draskborg cloak, and the child's wooden horse in the cache is hers.
 
 **Consequences.** The shards in the howes are Nálok's work, and the lake is the Eye's. Closing the hof does not close the seep, and a ring of Draskborg's wardens must be set to watch the north.
 

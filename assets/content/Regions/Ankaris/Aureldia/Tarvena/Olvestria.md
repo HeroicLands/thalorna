@@ -21,7 +21,7 @@ Two orders keep their mother-houses here, and between them they make Ólvestria 
 
 ## Money and Danger
 
-Ólvestria is a moneylenders' city. The great houses of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] keep offices here—the **House of Calventian** among them—and the Collegium's chapterhouse is one of its largest, with permanent staff in the dozens. Prices for premium goods run higher here than almost anywhere in the west, and a Ólvestrian house's notes travel far: if the imperial treasury suspends one for political reasons, cashing houses across the empire are left holding paper they cannot redeem.
+Ólvestria is a moneylenders' city. The great houses of the [[affiliation-danvar|Danvar]] keep offices here—the **House of Calventian** among them—and the Danvar's chapterhouse is one of its largest, with permanent staff in the dozens. Prices for premium goods run higher here than almost anywhere in the west, and a Ólvestrian house's notes travel far: if the imperial treasury suspends one for political reasons, cashing houses across the empire are left holding paper they cannot redeem.
 
 The city has its shadows too. **The Ólvestrian Cell** of the [[affiliation-ordershnvw|Order of the Ashen Vow]] is that order's largest, operating under the protection of the hill-baronies around the city, and the death of the Ólvestrian Magister of the Sealed Word seven years ago—ruled natural, three days before he was to issue a major writ against a baron sympathetic to [[affiliation-blackflame|the Black Flame]]—is still talked about as something less than natural.
 
@@ -29,4 +29,4 @@ The city has its shadows too. **The Ólvestrian Cell** of the [[affiliation-orde
 
 - [[affiliation-ordrsldwrd|Order of the Sealed Word]]—whose mother-house and archives stand here
 - [[affiliation-twinbldrdr|Twinblade Order]]—keepers of the Twin Gate
-- [[affiliation-clgmrgntrrm|Collegium Argentariorum]]—the moneylenders' guild with a great chapterhouse here
+- [[affiliation-danvar|Danvar]]—the moneylenders' guild with a great chapterhouse here

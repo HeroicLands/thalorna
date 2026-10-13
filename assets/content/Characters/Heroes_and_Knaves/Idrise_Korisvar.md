@@ -445,7 +445,7 @@ She is, however, a deeply ethical individual. She will not take contracts to har
 
 ### Strengths
 
-- **Exceptional Martial Skill**: Her combat training spans multiple disciplines and decades of practice. She is ambidextrous, skilled with blade and ranged weapons, and devastatingly effective in hand-to-hand combat. Few people in the realm could match her in single combat.
+- **Martial Skill**: Her combat training spans multiple disciplines and decades of practice. She is ambidextrous, skilled with blade and ranged weapons, and devastatingly effective in hand-to-hand combat. Few people in the realm could match her in single combat.
 - **Threat Assessment and Tactical Analysis**: She reads situations with almost supernatural accuracy, identifying threats and ways out within moments of entering any space. This skill extends to understanding human behavior and motivation.
 - **Inhuman Discipline and Control**: She maintains focus and calm in situations where others panic. She can endure pain, cold, exhaustion, and fear without allowing these to affect her judgment or performance.
 - **Absolute Reliability**: Once committed to a contract or cause, she follows through with complete dedication. Those who hire her know they are getting what they pay for, without compromise or abandonment.

@@ -20,7 +20,7 @@ data: {packFolder: adventurersguides, culture: aelwythanclt}
 
 The realms are [[affiliation-kngdmldrth|Aldorath]], the feudal breadbasket of the interior, where four in five people are serfs on manorial estates; [[affiliation-kingdmdnvr|Dúnavarre]], the smallest and the most powerful, where the Synod rules through stewards and the [[affiliation-justbladeordr|Order of the Just Blade]]; the [[affiliation-repblcndrth|Republic of Ondareth]] on the west coast, a senate of mantled senators built in imitation of a Vylarian republic nobody there has seen, whose offices are for sale; and [[affiliation-jrldmstrmvld|Stormveld]] in the north-east, where Nordmen took the plain sixty years ago and work it with thralls. Every court keeps Ordo advisors, and every ruler knows the Synod can withdraw them.
 
-An Aelwythan attends the [[affiliation-arldnpnthn|Aurèldían]] temple and also leaves something at the stone, the crossroads and the lake, and of all his duties those observances are the last he neglects. A farmer may say something naive about the Empire and then name exactly which crossroads not to stand at after dark. The coin is [[lore-vylrncrncy|Vylarian]]: the Aurion, the Argo and the Bit.
+An Aelwythan attends the [[affiliation-arldnpnthn|Aurèldían]] temple and also leaves something at the stone, the crossroads and the lake, and of all his duties those observances are the last he neglects. A farmer may say something naive about the Empire and then name exactly which crossroads not to stand at after dark. The coin is [[lore-vylrncrncy|Vylarian]]: the Solden, the Ard and the Bit.
 
 ## Where to Go, and What to Fear
 
@@ -47,6 +47,6 @@ An Ondarethan merchant hires you to get a relic past the officers at Ravenmoor, 
 | Knight-Captain | A commander of the Order of the Just Blade, which serves as Dúnavarre's army          |
 | trackstone     | A standing marker of the old trackways in the Peshtar country, older than the Peshtar |
 
-Argo, Aurion, Bit and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl is a loanword from [[lore-nordheimnclt#glossary|the Nordlands]].
+Ard, Solden, Bit and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl is a loanword from [[lore-nordheimnclt#glossary|the Nordlands]].
 
 The [[lore-aelwythanclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

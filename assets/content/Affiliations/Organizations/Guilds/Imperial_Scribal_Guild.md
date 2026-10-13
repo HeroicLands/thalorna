@@ -2,7 +2,7 @@
 shortcode: imprlscrblgld
 name:
   full: The Imperial Scribal Guild
-  aliases: [The Guild of Imperial Letters, Collegium Scribarum Imperii, The Vylarian Scribal Guild]
+  aliases: [The Guild of Imperial Letters, Notran, The Vylarian Scribal Guild]
 type: affiliation
 subType: guild
 description: "Chartered guild administering all official writing in the Vylarian Empire—from imperial edicts to provincial tax rolls—and the bureaucratic backbone on which the empire actually runs."
@@ -37,7 +37,7 @@ data:
       - level: 4
         title: Guildmaster
         description: >-
-          Magister collegii—promoted by senior vote, permitted to seal imperial edicts and to hold positions on the Council of the Guild.
+          Promoted by senior vote, permitted to seal imperial edicts and to hold positions on the Council of the Guild.
       - level: 5
         title: High Hand
         description: >-
@@ -45,20 +45,20 @@ data:
     offices: {}
   seat: null
   population: null
-  economy: [affiliation-magnumclgm]
+  economy: [affiliation-tevran]
   lore: []
   parents: []
   relations: {}
 sohl: {system: {commonSkills: []}}
 ---
 
-A Guild examiner opens every final oral the same way. She lays an imperial edict on the table, with its seal clean and correct at the foot, and asks the candidate whose hand makes it the Augustar's word. A candidate who answers "the Augustar's" has failed. The answer is the scribe's, and anyone who has survived the seven-year course knows it.
+A Guild examiner opens every final oral the same way. She lays an imperial edict on the table, with its seal clean and correct at the foot, and asks the candidate whose hand makes it the Ôrzâs's word. A candidate who answers "the Ôrzâs's" has failed. The answer is the scribe's, and anyone who has survived the seven-year course knows it.
 
 ## Overview
 
 The Imperial Scribal Guild is the institution that makes Vylaria possible. The [[affiliation-vylarinmpr|Empire]] reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazryn Desert]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between Ôrzâra and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
 
-Its central hall stands in [[place-orzara|Ôrzâra]], with a chapterhouse in every provincial capital. The Guild was chartered in the Empire's first century, has held custody of the imperial archive since 318, and was re-chartered by imperial edict in the eighty-third year of the present dynasty (about 489 AF); the charter has been renewed and expanded twice since. The Guild is a founding member of the [[affiliation-magnumclgm|Magnum Collegium]], and its High Hand holds an ex officio seat on the Collegium's Curia Collegiorum.
+Its central hall stands in [[place-orzara|Ôrzâra]], with a chapterhouse in every provincial capital. The Guild was chartered in the Empire's first century, has held custody of the imperial archive since 318, and was re-chartered by imperial edict in the eighty-third year of the present dynasty (about 489 AF); the charter has been renewed and expanded twice since. The Guild is a founding member of the [[affiliation-tevran|Tevran Maldor]], and its High Hand holds an ex officio seat on the Tevran's Council of the Tevran.
 
 If the [[affiliation-ordoarcanis|Ordo Arcanis]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vylarian court as an Ordo mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
 
@@ -73,7 +73,7 @@ A scribe climbs five ranks:
 - **Probationer** (_scriba probandus_)—a student in training; not authorized to seal independently.
 - **Scribe** (_scriba_)—qualified; permitted to seal routine documents under the supervision of a master.
 - **Master Scribe** (_magister scribarum_)—examined; permitted to seal all civilian documents independently and to supervise junior scribes.
-- **Guildmaster** (_magister collegii_)—promoted by senior vote; permitted to seal imperial edicts and to sit on the Council of the Guild.
+- **Guildmaster**—promoted by senior vote; permitted to seal imperial edicts and to sit on the Council of the Guild.
 - **High Hand** (_manus prima_)—the Guild's chair; one position, held for life or until resignation.
 
 A scribe whose license is revoked for proven misconduct loses the right to seal, which ends the career.
@@ -102,7 +102,7 @@ In practice the Guild loses these arguments often enough to make its members cyn
 ## Relations
 
 - **The imperial administration** is patron, client and constant counterparty. The relationship is symbiotic and tense.
-- **The [[affiliation-magnumclgm|Magnum Collegium]]** is the umbrella body under which the Guild holds its standing throughout the Vylarian-influenced world. The High Hand's seat on the Curia Collegiorum makes the Guild one of the weightiest single members. Its procedural conservatism suits the Collegium's Censores, and the two institutions work closely on credential fraud and forgery prosecutions.
+- **The [[affiliation-tevran|Tevran Maldor]]** is the umbrella body under which the Guild holds its standing throughout the Vylarian-influenced world. The High Hand's seat on the Council of the Tevran makes the Guild one of the weightiest single members. Its procedural conservatism suits the Tevran's Censors, and the two institutions work closely on credential fraud and forgery prosecutions.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]** cooperates formally. Ordo-trained scribes produce the Ordo's own internal documents under license from the Guild, an arrangement of careful parity between two institutions that each consider themselves senior.
 - **The [[affiliation-panepistmm|Panepistemium]]** is an academic friend. Many senior scribes are also associates of the Epistemium (the accepted short form of the Panepistemium), which lends the Guild much of its intellectual prestige, and the Guild gives the Epistemium archival access.
 - **The provincial chapterhouses** keep a chapterhouse-level autonomy that is constantly renegotiated. They chafe under Ôrzâra's procedural rulings, and Ôrzâra suspects, often correctly, that they bend the rules.
