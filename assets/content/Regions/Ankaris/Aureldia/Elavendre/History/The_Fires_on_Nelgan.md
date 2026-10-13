@@ -81,7 +81,7 @@ The raiders came at dusk with brands. The Áelendan held the edge and the first 
 
 The Sinalë do not fight, and no song puts out a fire. Haulera looked at the burning for a long time and raised her hand. She walked out through the fire, and the whole of the Sinalë came out of the wood after her into the light of the raiders' own fire, in sight of men who had never seen them. Half the raiders ran. The rest stood like stones, and the brands dropped.
 
-Dûlthân stayed. He threw one brand at the nearest tree, and it caught. Dhárgan went up to it and took it out bare-handed, and it burned through his hand. Dûlthân's spear took him in the side. Dûlthân held the brand until it died in his own burned hand, and then sat down where the trees thin. Haulera looked at him, and that was all she did. He turned and ran, and his men ran after him. No man of them came back that year, or since.
+Dûlthân stayed. He threw one brand at the nearest tree, and it caught. Dhárgan went up to it and took it out bare-handed, and it burned through his hand. Dûlthân's spear took him in the side. Dhárgan stood, held the brand until it died in his burned hand, and then sat down where the trees thin. Haulera looked at him, and that was all she did. He turned and ran, and his men ran after him. No man of them came back that year, or since.
 
 ## The Giving-Over
 

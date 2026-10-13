@@ -81,7 +81,7 @@ An age shares its last year with the first year of the next, and the shared year
 
 ### The Kings and the Republic
 
-Everything before the Founding: a monarchy of which only its end is recorded, then the Republic of the patrician families, the conquest of Heliónis, the dragons and the Lex Arcana. [[lore-vylarirpbl|The Vylarian Republic]] is its spine, and [[lore-thefounding|The Founding]] is its last day.
+Everything before the Founding: a monarchy of which only its end is recorded, then the Republic of the patrician families, the conquest of Heliónis, a garrison colony among the Thânevar kings of the west ([[lore-aurelianefound|The Founding of Aurèliane]]), the dragons and the Lex Arcana. [[lore-vylarirpbl|The Vylarian Republic]] is its spine, and [[lore-thefounding|The Founding]] is its last day.
 
 ### The First Augustars, 1 to 95
 

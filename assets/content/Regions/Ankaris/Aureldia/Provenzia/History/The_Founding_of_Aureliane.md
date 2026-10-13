@@ -67,7 +67,7 @@ About 80 BF the Republic drew its garrison out. The colony had no orders to leav
 - **The Vylarian ancestry of the great houses.** The nobility of the coast counts its blood from the colony, and the Thânevar country does not forget whose daughters married whom.
 - **A road with a city at the end of it.** Everything that later came inland from the coast came up the colony's road, and every army that went the other way went down it.
 
-The Republic's province of the West came more than two centuries later, when the legions took the lake country ([[lore-tiravlenbattle|Tiravlen]]) and made Aurèliane its capital.
+The Empire's province of the West came more than two centuries later, when the legions took the lake country ([[lore-tiravlenbattle|Tiravlen]]) and made Aurèliane its capital.
 
 ## See Also
 

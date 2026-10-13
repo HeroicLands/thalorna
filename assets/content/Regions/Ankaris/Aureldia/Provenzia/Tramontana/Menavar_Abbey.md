@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [tramontana], population: null, packFol
 Twelve in the north of Provènzia, with a library, a school and an endowment, standing on the low
 country of [[place-tramontana|Tramontàna]] within reach of the sea.
 
-That was its undoing. The **Nordheim raids** that came in off the [[place-batarengulf|Gulf of Batáren]]
+That was its undoing. The **Nordheim raids** ([[lore-southrnfleets|the Southern Fleets]]) that came in off the [[place-batarengulf|Gulf of Batáren]]
 some two centuries ago fell on Ménavar as they fell on
 [[place-yharvalenhenge|Yhârvalen Henge]] a day's march away, and the abbey was gutted. It was never
 refounded.

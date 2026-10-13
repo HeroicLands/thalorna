@@ -27,7 +27,7 @@ coast. That single fact makes the Gulf a different country commercially from eve
 port. Nothing much of the Vylarian world comes here. What comes here comes down from
 [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]], and out of the northern seas beyond them.
 
-It is also, inevitably, the way the **Nordheim raids** came two centuries ago, and northern
+It is also, inevitably, the way the **Nordheim raids** came two centuries ago ([[lore-southrnfleets|the Southern Fleets]]), and northern
 Provènzia's memory of the sea is colored accordingly. The
 [[place-bldfldyharvalen|Blood-field of Yhârvalen]] is not far inland.
 

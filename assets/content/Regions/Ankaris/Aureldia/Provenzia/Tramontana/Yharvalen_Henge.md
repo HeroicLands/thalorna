@@ -21,7 +21,7 @@ and an army could march inland from it in a day.
 It was a sacred site of the pre-Aurèldían traditions, a megalithic circle raised for the
 [[affiliation-firstgods|Old Gods]] and kept for an age nobody now measures—and it stood, as such
 circles tend to, on open ground within reach of the sea rather than in the defensible hills. About **two hundred years
-ago** it was destroyed during the Nordheim raids that swept through northern Provènzia. The stones
+ago** it was destroyed during the Nordheim raids that swept through northern Provènzia ([[lore-southrnfleets|the Southern Fleets]]). The stones
 were thrown down and broken, and whatever the circle had been holding was not holding afterward.
 
 ## The Curse

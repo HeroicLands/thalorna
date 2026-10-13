@@ -38,7 +38,7 @@ and the water has never been much of an obstacle. The [[place-batarengulf|Gulf o
 one real harbor on an ocean coast otherwise made of cliffs, which makes it both the march's fortune
 and its standing vulnerability.
 
-Two centuries ago a fleet used it. The raiders threw down
+Two centuries ago a fleet used it ([[lore-southrnfleets|the Southern Fleets]]). The raiders threw down
 [[place-yharvalenhenge|Yhârvalen Henge]] and left the
 [[place-bldfldyharvalen|blood-field]] that is still killing the country around it.
 

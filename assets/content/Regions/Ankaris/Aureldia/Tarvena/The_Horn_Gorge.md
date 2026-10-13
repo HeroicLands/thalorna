@@ -23,7 +23,7 @@ The harm is the dream, and the dreams stay with the sleeper for weeks. By day th
 
 ## How the Place Is Treated
 
-At the upper end the Astúrathi raised a cairn after the battle. They leave nothing there for the Vylarian dead and something for their own, and the cairn's stones are the ones the legion's baggage lay under. No priest of [[affiliation-selmoros|Sélmoros]] or [[affiliation-nahild|Náhild]], the gods who hold the Empire's dead between them, has been asked to settle the field. The Astúrathi will not pay to settle an enemy's dead, and the Empire struck the legion off its rolls and has not asked for it since.
+At the upper end the Astúrathi raised a cairn after the battle. They leave nothing there for the Vylarian dead and something for their own, and the cairn's stones are the ones the legion's baggage lay under. No priest of [[affiliation-selmoros|Sélmoros]], the god before whom the Empire's dead are judged, has been asked to settle the field, though the legion's dead were his and the rite could reach them. The Astúrathi will not pay to settle an enemy's dead, and the Empire struck the legion off its rolls and has not asked for it since.
 
 ## Who Goes
 

@@ -105,7 +105,7 @@ The Áelendan have never forgiven the door. Ordo expeditions have taken artifact
 - **The legate's house,** now the University's oldest court, and the Ordo's foothold in the capital ([[place-beravel|Béravel]]).
 - **The Tribute Road.** Imperial milestones that run from the east and stop at Valdûn ([[place-valdun|Valdûn]]).
 - **The Lost Cohort's camp,** a ditched camp in the Brynavar woods that hunters find and cannot find again ([[place-brynavar|Brynavar]]).
-- **The kingdom's standing.** Élavendre is a tributary of the Empire and never a province of it, and the Empire kept a legate at Béravel and no governor.
+- **The kingdom's standing.** Élavendre paid as a tributary of the Empire and was never a province of it; the Empire kept a legate at Béravel and no governor, and the tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]].
 - **The oldest grievance.** The Áelendan hold the Ordo's welcome against the crown that gave it.
 
 ## See Also

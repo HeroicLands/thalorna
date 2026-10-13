@@ -163,6 +163,18 @@ A _vrystgrund_ (blood-field) is ground where many died at once and no Shaman cal
 
 **How the villages live beside one.** No village stands within a day's walk of Skathhreth, and the ford is crossed by day and never in the thaw-week; the Shamans of the nearest villages lay a line of ash along its north bank each spring. Mahnrýth sings its lament at an empty mound and never at Grimak, and the grove council at Rádholt sounds the alarm if anyone is missing near the thicket. A feud between villages kills by the dozen and its dead are carried home and called, so no Varokh feud has ever made a _vrystgrund_.
 
+## Aurèldía: the Blood-field
+
+In [[place-aureldirgn|Aurèldía]] the dead are judged. The Threshold Keepers of [[affiliation-selmoros|Sélmoros]] perform the funeral rites and enter the dead in the temple records, and the Silent Judge receives each soul and weighs it without speaking. The judged go on to the Field of the Blessed, a region of the spirit realm that Aurèldían death-traditions have shaped over millennia. A blood-field is ground where thousands died and were not judged in order, and the clergy of Sélmoros end one by settlement: a formal placing of the dead in the god's keeping, which works perhaps half the time and is paid for by the district that asks.
+
+**The ground, not the battle.** [[place-provenzrgn|Provènzia]] has more fields than anywhere else, and its custom is to name the ground and let the battle go ([[lore-bloodfields|The Blood-fields of Provènzia]]). The battle at [[place-bldfldtiravlen|Tiravlen]] is known only from the Vylarian account, and no record says what war made [[place-bldfldkyvarel|Kývarel]] or [[place-bldfldcalvenza|Calvènza]].
+
+**Élavendre has none.** Its thin places are [[lore-aralwen|arálwain]], natural and kept by the Wardens. Its wars were fought by not being where the army was, and [[lore-elvtribute|the war of the tribute]] and [[lore-ardwynclose|the Ardwyn Closing]] cost lives without a slaughter. The Áelendan dead are commended onward by their shamans, and the Death-Speakers go to [[lore-nyfainspr|Nyfain]] to ask whether they have gone.
+
+**A rite must be the dead's own.** Sélmoros places in his keeping the dead who were his. The legion that died in [[place-horngorge|the Horn Gorge]] kept the Twelve, so a settlement could reach it, though no one has paid for one. The [[affiliation-saelvri|Saelvri]] did not keep the Twelve, and the rite they kept for their dead died with them, so no rite the living keep can settle [[place-hushwood|the Hushwood]]. It is the newest field in Aurèldía and the only one in living memory.
+
+Aurèldía has eight fields: six in Provènzia, the Horn Gorge in Astúrath and the Hushwood on Aelwyth. The [[affiliation-twinbldrdr|Twinblade Order]] keeps stations at a few battlefields as guards at a threshold, and keeps none of them. The [[place-threesisters|Three Sisters]], where the Great War of Aelwyth ended, left no field, and nothing marks the ground.
+
 ## Heliónis: the Herald's Crossing
 
 The Helionite cities are Aurèldían, and their account of the wound is the Aurèldían one: the dead were not judged in order before [[affiliation-selmoros|Sélmoros]]. What sets Heliónis apart is how seldom the account is needed. After a battle between Helionite cities the loser's herald walks onto the field under truce and takes the dead home, and every city buries its own to its own rites ([[lore-firstgames|the First Games]]). Sixteen centuries of wars among the cities have left no blood-field.
@@ -177,32 +189,35 @@ The Byzarian League's records keep a field under the name of the fort that stand
 
 In order of their making. A dash marks a field whose battle no record dates.
 
-| Field                                        | People whose ground it is | Battle                                                       | Made    | Kind                 | Thin                          |
-| -------------------------------------------- | ------------------------- | ------------------------------------------------------------ | ------- | -------------------- | ----------------------------- |
-| [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu               | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]               | 499 BF  | recurrence           | moderate                      |
-| [[place-sourplain\|The Sour Plain]]          | Heliónis                  | [[lore-heladturnedwrk\|The Turned Working]]                  | 327 BF  | withering            | thin                          |
-| [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                       | ~300 BF | silence              | moderate                      |
-| [[place-jilaq\|Jilaq]]                       | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                       | ~190 BF | recurrence           | thin                          |
-| [[place-thirstground\|The Thirsting Ground]] | Byzaría                   | [[lore-heladwells\|The Battle of the Wells]]                 | 158 BF  | silence              | moderate                      |
-| [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]]      | 268 AF  | withering, contained | moderate, worse in lean years |
-| [[place-gajasthali\|Gajasthalī]]             | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]                | ~270 AF | recurrence           | slight                        |
-| [[place-domsey\|Dómsey]]                     | The Nordlands             | [[lore-nordfirstsit\|The First Sitting on Dómsey]]           | 287 AF  | silence              | thin, quieted at each sitting |
-| [[place-skathhreth\|Skathhreth]]             | The Varokh                | [[lore-skathhrethlss\|The Loss of the Legion at Skathhreth]] | ~291 AF | recurrence           | thin                          |
-| [[place-wemaq\|Wemaq]]                       | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]        | ~312 AF | quickening           | moderate                      |
-| [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]                    | 315 AF  | dread                | thin                          |
-| [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu               | [[lore-vylconquest\|The Vylarian Conquest]]                  | 377 AF  | recurrence           | thin                          |
-| [[place-olcassafld\|Olcassa]]                | Vylaria                   | [[lore-olcassabtl\|The Battle of Olcassa]]                   | ~401 AF | quickening           | moderate                      |
-| [[place-skalfvatn\|Skalfvatn]]               | The Nordlands             | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                      |
-| [[place-blackmarshfld\|The Black Marsh]]     | Moktur (the Varokh dead)  | [[lore-blackmarshbtl\|The Battle of the Black Marsh]]        | 520 AF  | dread                | thin                          |
-| [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                 | the Nordheim raids                                           | ~520 AF | withering            | thin, worked on               |
-| [[place-grimak\|Grimak]]                     | The Varokh                | [[lore-grimakburning\|The Burning at Grimak]]                | ~536 AF | silence              | moderate, thin in the hollow  |
-| [[place-qimod\|Qìmod]]                       | The Khazryn steppe        | the sack of the spur town                                    | ~548 AF | silence              | thin                          |
-| [[place-dvulgvangr\|Dvulgvangr]]             | The Nordlands (Targud)    | [[lore-burningeast\|The Burning of the East]]                | 613 AF  | dread                | thin                          |
-| [[place-henhulpedin\|Henhulpedin]]           | Tellumel                  | the Breaking                                                 | ~620 AF | recurrence           | moderate                      |
-| [[place-bldfldtiravlen\|Tiravlen]]           | Provènzia                 | —                                                            | —       | recurrence           | —                             |
-| [[place-bldfldserravel\|Serravel]]           | Provènzia                 | —                                                            | —       | recurrence           | —                             |
-| [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                 | —                                                            | —       | quickening           | —                             |
-| [[place-bldfldcalvenza\|Calvènza]]           | Provènzia                 | —                                                            | —       | silence              | —                             |
+| Field                                        | People whose ground it is  | Battle                                                       | Made    | Kind                 | Thin                            |
+| -------------------------------------------- | -------------------------- | ------------------------------------------------------------ | ------- | -------------------- | ------------------------------- |
+| [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu                | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]               | 499 BF  | recurrence           | moderate                        |
+| [[place-sourplain\|The Sour Plain]]          | Heliónis                   | [[lore-heladturnedwrk\|The Turned Working]]                  | 327 BF  | withering            | thin                            |
+| [[place-oluratarna\|Olūratarana]]            | Vedyara                    | [[lore-unburnford\|The Unburned Ford]]                       | ~300 BF | silence              | moderate                        |
+| [[place-jilaq\|Jilaq]]                       | The Khazryn steppe         | [[lore-towercities\|The Tower Cities]]                       | ~190 BF | recurrence           | thin                            |
+| [[place-thirstground\|The Thirsting Ground]] | Byzaría                    | [[lore-heladwells\|The Battle of the Wells]]                 | 158 BF  | silence              | moderate                        |
+| [[place-horngorge\|The Horn Gorge]]          | Tarvénia (Vylarian dead)   | [[lore-horngorgebtl\|The Battle of the Horn Gorge]]          | ~143 AF | recurrence           | moderate                        |
+| [[place-bldfldtiravlen\|Tiravlen]]           | Provènzia                  | [[lore-tiravlenbattle\|Tiravlen]]                            | ~152 AF | recurrence           | slight                          |
+| [[place-bloodhills\|The Blood Hills]]        | Provènzia                  | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]        | ~248 AF | dread                | moderate, thin at the shrine    |
+| [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu                | [[lore-sealedgran\|The Battle of the Sealed Granaries]]      | 268 AF  | withering, contained | moderate, worse in lean years   |
+| [[place-gajasthali\|Gajasthalī]]             | Vedyara                    | [[lore-fieldelephnt\|The Field of Elephants]]                | ~270 AF | recurrence           | slight                          |
+| [[place-domsey\|Dómsey]]                     | The Nordlands              | [[lore-nordfirstsit\|The First Sitting on Dómsey]]           | 287 AF  | silence              | thin, quieted at each sitting   |
+| [[place-skathhreth\|Skathhreth]]             | The Varokh                 | [[lore-skathhrethlss\|The Loss of the Legion at Skathhreth]] | ~291 AF | recurrence           | thin                            |
+| [[place-wemaq\|Wemaq]]                       | The Khazryn steppe         | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]        | ~312 AF | quickening           | moderate                        |
+| [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                    | [[lore-marupalafl\|The Fall of Marupāla]]                    | 315 AF  | dread                | thin                            |
+| [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu                | [[lore-vylconquest\|The Vylarian Conquest]]                  | 377 AF  | recurrence           | thin                            |
+| [[place-olcassafld\|Olcassa]]                | Vylaria                    | [[lore-olcassabtl\|The Battle of Olcassa]]                   | ~401 AF | quickening           | moderate                        |
+| [[place-skalfvatn\|Skalfvatn]]               | The Nordlands              | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                        |
+| [[place-blackmarshfld\|The Black Marsh]]     | Moktur (the Varokh dead)   | [[lore-blackmarshbtl\|The Battle of the Black Marsh]]        | 520 AF  | dread                | thin                            |
+| [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                  | [[lore-southrnfleets\|The Southern Fleets]]                  | ~520 AF | withering            | thin, worked on                 |
+| [[place-grimak\|Grimak]]                     | The Varokh                 | [[lore-grimakburning\|The Burning at Grimak]]                | ~536 AF | silence              | moderate, thin in the hollow    |
+| [[place-qimod\|Qìmod]]                       | The Khazryn steppe         | the sack of the spur town                                    | ~548 AF | silence              | thin                            |
+| [[place-bldfldserravel\|Serravel]]           | Provènzia                  | [[lore-serravelbtl\|Serravel]]                               | ~556 AF | recurrence           | moderate in the campaign season |
+| [[place-dvulgvangr\|Dvulgvangr]]             | The Nordlands (Targud)     | [[lore-burningeast\|The Burning of the East]]                | 613 AF  | dread                | thin                            |
+| [[place-henhulpedin\|Henhulpedin]]           | Tellumel                   | the Breaking                                                 | ~620 AF | recurrence           | moderate                        |
+| [[place-hushwood\|The Hushwood]]             | Aelwyth (the Saelvri dead) | [[lore-saelvricrusade\|The Saelvri Crusade]]                 | ~703 AF | silence              | thin                            |
+| [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                  | —                                                            | —       | quickening           | moderate                        |
+| [[place-bldfldcalvenza\|Calvènza]]           | Provènzia                  | —                                                            | —       | silence              | slight                          |
 
 ## See Also
 

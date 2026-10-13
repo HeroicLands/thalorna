@@ -63,6 +63,10 @@ data:
           says: >-
             The Nordheim raids came in off the gulf, threw down the henge, sacked the abbey and left a withering field that the Black Flame has been rousing since; the kingdom has never been paid for any of it.
           agrees: full
+        - by: affiliation-kngdmlvndr
+          says: >-
+            The Nordmen burned the north shore, and King Thélmoren swore that the crown would make no treaty with them; it has made none.
+          agrees: full
         - by: affiliation-kngdmnrdhm
           says: >-
             The halls that had sent their old over the fell sent their sons south instead, and the sons came home with grain and silver; the skalds sing the fleets as the answer to the shame of the hunger and sing nothing of the henge.

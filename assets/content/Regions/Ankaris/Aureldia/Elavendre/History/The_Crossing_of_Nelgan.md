@@ -20,7 +20,7 @@ data:
         - place-silvrfrsts
         - place-ethalosse
       summary: >-
-        A western Pelwar band, pushed ahead of the Migration, crosses the eastern pass in snow under the herdsman Dhárgan, who has kept sheep all his life and never led. Some of the band sit down on the pass and do not get up. In the winter they spend at the edge of the Silver Forests, the Lean Year, the Sinalë turn every path away from them and open no door, and the fog-hollow at the wood's margin keeps one of Dhárgan's sons. The Sinalë watch the band the whole time.
+        A western Pelwar band, pushed ahead of the Migration, crosses the eastern pass in snow under the herdsman Dhárgan, who has kept sheep all his life and never led. Some of the band sit down on the pass and do not get up. In the winter they spend at the edge of the Silver Forests, the Lean Year, the Sinalë turn the paths in rings so that the band can neither come in nor be driven off, and open no door, and the fog-hollow at the wood's margin keeps one of Dhárgan's sons. The Sinalë watch the band the whole time.
       standing: attested
       names:
         - {name: the Crossing of Nélgan, by: lore-aelendnppl}
@@ -51,7 +51,7 @@ data:
           says: >-
             They came down the hill half-dead with cold, and we stayed in.
           agrees: full
-          withholds: that the paths were turned to drive them away and that the Lean Year was the Sinalë's doing
+          withholds: that the paths were turned in rings to keep them out and that the Lean Year was the Sinalë's doing
       unresolved:
         - who lit the fires on the plain beyond the mountains, and whether they were the people of the Taking of the Wood
         - what the Sinalë had grieved before the band came
@@ -73,13 +73,13 @@ The wood's bark took the starlight, and a light that was not fire moved in it. T
 
 The shaman Sîlor sang at the edge of the trees, and the wood did not answer. His songs had been made for wolf and rain and river on open ground. A boy followed the lights in, and the wood closed behind him; he came out at the next full moon, no thinner, certain that a breath had passed, and said that a tree had spoken one word to him, which was _Begin_. A man cut birch from the wood's edge for the fire, and his hands went numb and stayed numb, and the numbness passed to his sons.
 
-The [[lore-flksinale|Sinalë]] watched all of it. Haulera, the eldest of them, held that a pushed people does to the next thing what was done to it, and that the wood was the next thing. The Sinalë turned every path that led from the camp into the wood so that it ran away toward the sea, and none of them spoke against it.
+The [[lore-flksinale|Sinalë]] watched all of it. Haulera, the eldest of them, held that a pushed people does to the next thing what was done to it, and that the wood was the next thing, and she would have turned every path away to the sea. Lauva, who keeps the pool, answered that the band would stay by them either way. The rest said neither, and the Sinalë turned the paths in rings: they would not drive the band off to the sea, nor let it in, nor let it go.
 
 ## The Lean Year
 
 The game went into the wood where nobody could follow it, and the band hunted nothing in the snow. The people call that winter the Lean Year. A girl died in the camp, and her brothers went into the wood with fire to drive the deer out to the spears. The brands went out, and the wood walked the brothers in rings until dark. One of them, Dránketh, Dhárgan's son, followed a call he thought was a deer's into a white fog lying in a low hollow, and the fog kept him. He was not dead and he was not returned. Dhárgan's other son, Ánsel, lay down in the snow and laid his head on it.
 
-Dhárgan came up through the dark with no fire and no spear and his hands open, calling the boy by name, and nothing turned him. He took Ánsel out, and the rest after him. At the edge where the trees thin, he turned to the dark trees and said that he would come back with no cup, no fire, no spear and no bread, alone, and he went down into the smoke of the camp. Haulera stood a long while and then let the paths run straight.
+Dhárgan came up through the dark with no fire and no spear and his hands open, calling the boy by name. Haulera could have left the paths turned, and she let them straighten, so nothing turned him. He took Ánsel out, and the rest after him. At the edge where the trees thin, he turned to the dark trees and said that he would come back with no cup, no fire, no spear and no bread, alone, and he went down into the smoke of the camp. Haulera stood a long while and said to let him come, and the Sinalë left the paths straight.
 
 ## What It Left
 
