@@ -69,7 +69,7 @@ The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, 
 
 ## Notable Members
 
-- [[being-shadzrkmrz|Shâdezar Kamrûz]]: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of Báhrámiš, so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
+- [[being-shadznkmrz|Shâdezan Kamrûz]]: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of Báhrámiš, so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
 - **The Council of Scars**: a dozen old warriors whose agreement settles most questions before they are put.
 
 ## The Two Principles
@@ -82,7 +82,7 @@ When the Circle rides, its host is its own members and whatever warriors their t
 
 ## Relations
 
-- **The common council of the tribes**: the chieftains' council at [[place-ghavulekh|Ghavûlekh]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
+- **The common council of the tribes**: the chieftains' council at [[place-ghavulavad|Ghavûlâvad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
 - **The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]**: the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
 - **The Sovidur**: the herding tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
 - **Foreign powers**: the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.

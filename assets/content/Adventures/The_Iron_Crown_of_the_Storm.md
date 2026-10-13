@@ -20,8 +20,8 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 ## Hooks
 
-- **The thief.** A fence in [[place-qarvelekh|Qarvelekh]] pays well for the master's iron crown and asks no questions. A rival went south before him and did not come back.
-- **The mercenary or soldier.** The Amradi _ghedvôr_ at Qarvelekh posts the party to the Kinless Watch on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
+- **The thief.** A fence in [[place-qarvelakhend|Qarvelakhend]] pays well for the master's iron crown and asks no questions. A rival went south before him and did not come back.
+- **The mercenary or soldier.** The Amradi _ghedvadêr_ at Qarvelakhend posts the party to the Kinless Watch on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
 - **The leader.** A chieftain, or a member of the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]], hears that something in the storm is calling Dunhari to the Floor. The Old Promise forbids raising a blade against a Dunhari while an outside enemy walks the land, and nobody can say whether the master is still a Dunhari.
 - **The wanderer.** A traveler is found on the salt with glass rooted in his hands. He mutters verses in a voice-bearer's cadence that no living voice-bearer teaches.
 
@@ -31,7 +31,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Situation.** The party reaches the northern tent at dusk. A caravan waits to cross and the toll-keepers have named a day three nights hence. The sky is clear, and out on the white flat the lightning has already begun to strike, a thin forked line a long ride away.
 
-**NPCs and threats.** Two apprentices of the Lightning-Marked (_hamelôr_) keep the tent: **Dahrîn**, a tall, hollow-eyed young man who has not slept properly since he came to the Floor, and **Sarvesh**, an older apprentice with a scar across the lip who does the talking. They are polite, firm and afraid. Beyond the tent, the flat is walked at night by **glass-wights**, men and women of the caravans that crossed on the wrong day. A glass-wight is a figure of salt-white skin and green-grey glass, lit from inside by a flickering light. It moves in a stiff, patient march toward any traveler out of the tent's lamplight and does not speak. Its touch burns. It fears nothing except water poured onto its feet, which cracks the glass and slows it.
+**NPCs and threats.** Two apprentices of the Lightning-Marked (_hamelogâr_) keep the tent: **Dahrîn**, a tall, hollow-eyed young man who has not slept properly since he came to the Floor, and **Sarvesh**, an older apprentice with a scar across the lip who does the talking. They are polite, firm and afraid. Beyond the tent, the flat is walked at night by **glass-wights**, men and women of the caravans that crossed on the wrong day. A glass-wight is a figure of salt-white skin and green-grey glass, lit from inside by a flickering light. It moves in a stiff, patient march toward any traveler out of the tent's lamplight and does not speak. Its touch burns. It fears nothing except water poured onto its feet, which cracks the glass and slows it.
 
 **Player choices.**
 

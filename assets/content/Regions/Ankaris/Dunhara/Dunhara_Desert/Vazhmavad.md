@@ -1,6 +1,6 @@
 ---
-shortcode: vzhmkh
-name: {full: Vazhmekh, aliases: [The Weighing-Place, The Oasis of the Unrecited]}
+shortcode: vzhmvd
+name: {full: Vazhmavad, aliases: [The Weighing-Place, The Oasis of the Unrecited]}
 type: place
 subType: site
 description: "A palm oasis where poets of a third tribe once weighed the disputes of the tribes, now held by a poet-sorcerer who takes names and recitations, and whose raiders do not remember their own."
@@ -14,11 +14,11 @@ data:
   packFolder: dunharadesert
 ---
 
-Vazhmekh is the **weighing-place**, an oasis of date palms on a gravel shelf where the poets of a third tribe sit when two tribes bring their recitations in dispute and a judgment must be made. The Dunhari keep their law in memory, and where two memories disagree the decision has to be made by someone qualified to judge which is sound. This is where they sit.
+Vazhmavad is the **weighing-place**, an oasis of date palms on a gravel shelf where the poets of a third tribe sit when two tribes bring their recitations in dispute and a judgment must be made. The Dunhari keep their law in memory, and where two memories disagree the decision has to be made by someone qualified to judge which is sound. This is where they sit.
 
 ## The Weighing
 
-Vazhmekh is not a settlement. Its wells are deep and good, its palms are old, and a ring of low stone benches stands under the largest of them where the judging poets sit to hear each side recite. A Truce-Warden's peace lies over it in the season of a hearing, and poet-apprentices learn the recitations of every tribe there by listening. It is the nearest thing the desert has to an archive: not a building but a gathering of memories, each one held by a living person.
+Vazhmavad is not a settlement. Its wells are deep and good, its palms are old, and a ring of low stone benches stands under the largest of them where the judging poets sit to hear each side recite. A Truce-Warden's peace lies over it in the season of a hearing, and poet-apprentices learn the recitations of every tribe there by listening. It is the nearest thing the desert has to an archive: not a building but a gathering of memories, each one held by a living person.
 
 ## What Holds It
 
@@ -33,7 +33,7 @@ The source of the sorcery is below the deepest well of the oasis. Melkhûr found
 ## What the Tribes Say
 
 - Caravans on the southern circuit have not come in from the southern circuit, and the tribes that sent them cannot name their lost.
-- A trader who passed through Vazhmekh and bought dates there came away speaking in the cadence of a man long dead.
+- A trader who passed through Vazhmavad and bought dates there came away speaking in the cadence of a man long dead.
 - Torvâsh Shiradar's poets have stopped sending disputes to the weighing-place, and have been unable to say why.
 - The judging poets have stopped speaking of their own tribes at the gatherings.
 
@@ -43,11 +43,11 @@ The oasis lies on the southern circuit, a few days beyond the long wells. Its lo
 
 ## Hooks
 
-- **A claim lost.** A sheikh is asked to prove his line before the common council at [[place-ghavulekh|Ghavûlekh]] and cannot, because his poet came back from Vazhmekh empty.
+- **A claim lost.** A sheikh is asked to prove his line before the common council at [[place-ghavulavad|Ghavûlâvad]] and cannot, because his poet came back from Vazhmavad empty.
 - **A debt unwritten.** A merchant finds the kin-credit that carried half his trade has vanished from every memory but his own.
 - **The Circle.** The Circle has no mandate: the Old Promise bars a blade against a Dunhari while an outside enemy walks the land, and the Unrecited are Dunhari with their names removed.
 
-[[scenario-nrctdvzhmkh|The Riders Who Ask Your Name]] gives these as a five-scene adventure.
+[[scenario-nrctdvzhmvd|The Riders Who Ask Your Name]] gives these as a five-scene adventure.
 
 ## See Also
 

@@ -3,7 +3,7 @@ shortcode: dunhartrbs
 name: {full: Dunhara Tribes, aliases: []}
 type: affiliation
 subType: polity
-description: "The nomadic confederations of the Dunhara Desert—riders, guides and caravan-masters under their own sheikhs, joined by a common council at Ghavûlekh, the Laws of the Well and the code of salt."
+description: "The nomadic confederations of the Dunhara Desert—riders, guides and caravan-masters under their own sheikhs, joined by a common council at Ghavûlâvad, the Laws of the Well and the code of salt."
 data:
   templatePriority: null
   demonym: Dunharan
@@ -61,7 +61,7 @@ data:
       Envoy: Sent to treat with a settled power, and protected by custom while he carries the word.
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
-  seat: ghavulekh
+  seat: ghavulavad
   population: 1000000
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [dunharlng]}}
 
 ## Overview
 
-In the desert the well rules, and with it whoever reaches it first in the right season. The **Dunhara Tribes** are the nomadic and half-nomadic peoples of the [[place-dunhardsrtrgn|Dunhara Desert]], perhaps a dozen great confederations and many smaller tribes who ride their seasonal circuits between the oases of south-central [[place-ankrscntnnt|Ankaris Continent]]. They are not one realm. Each tribe governs itself under its sheikh and its elders, and what joins them is a shared tongue, a shared faith and a shared law of the desert: welcome for the guest, ferocity for the enemy, and respect for the water every life depends on. Their seat, so far as they have one, is the oasis of [[place-ghavulekh|Ghavûlekh]], where caravans hire their guides and the common council meets.
+In the desert the well rules, and with it whoever reaches it first in the right season. The **Dunhara Tribes** are the nomadic and half-nomadic peoples of the [[place-dunhardsrtrgn|Dunhara Desert]], perhaps a dozen great confederations and many smaller tribes who ride their seasonal circuits between the oases of south-central [[place-ankrscntnnt|Ankaris Continent]]. They are not one realm. Each tribe governs itself under its sheikh and its elders, and what joins them is a shared tongue, a shared faith and a shared law of the desert: welcome for the guest, ferocity for the enemy, and respect for the water every life depends on. Their seat, so far as they have one, is the oasis of [[place-ghavulavad|Ghavûlâvad]], where caravans hire their guides and the common council meets.
 
 ## Character
 
@@ -89,7 +89,7 @@ The Dunhari are master riders and pathfinders. They know where the hidden water 
 
 No one rules the tribes. A tribe is led by its **sheikh**, who holds his place by descent and by the consent of his elders together, and loses it when either fails. Beneath him the **householders** speak for their tents and herds, the **elders** settle what the young dispute by their memory of custom, and the **Keeper of the Feud** records blood owed and blood paid, without whom no settlement can be reckoned.
 
-Matters that touch more than one tribe go to the **common council** at Ghavûlekh. Each tribe sends delegates who may argue and may not bind, and the **Speaker of the Council** keeps the peace of the meeting and the order of speaking and has no other power. The council's offices serve the tribes in common: the **Lawkeeper** holds the customs the tribes share and arbitrates where two tribes' customs differ; the **Truce-Warden** keeps the peace at the council and the seasonal markets; the **Water-Warden** keeps the wells and pastures the tribes share and the order in which they are used; the **Host-Caller** summons the common muster when a threat concerns them all; and an **Envoy** carries the council's word to a settled power, protected by custom while he carries it.
+Matters that touch more than one tribe go to the **common council** at Ghavûlâvad. Each tribe sends delegates who may argue and may not bind, and the **Speaker of the Council** keeps the peace of the meeting and the order of speaking and has no other power. The council's offices serve the tribes in common: the **Lawkeeper** holds the customs the tribes share and arbitrates where two tribes' customs differ; the **Truce-Warden** keeps the peace at the council and the seasonal markets; the **Water-Warden** keeps the wells and pastures the tribes share and the order in which they are used; the **Host-Caller** summons the common muster when a threat concerns them all; and an **Envoy** carries the council's word to a settled power, protected by custom while he carries it.
 
 Two bodies stand beside the council and answer to none of the sheikhs. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers the acclaimed warriors of every tribe at the [[place-stoneofranaz|Stone of Ranâz]] at the season-turns, and its word carries moral weight in every camp. The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] keep a practitioner in every camp of consequence, read the weather for council and warband alike, and recognize the vessels in whom the storm god speaks. A sheikh who defies either of them can do it once.
 
@@ -109,7 +109,7 @@ The tribes trade almost entirely by [[lore-bartercnmy|barter]] and by [[lore-kin
 
 - [[place-dunharargn|Dunhara Region]]—the desert and its two countries
 - [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert the tribes range
-- [[place-ghavulekh|Ghavûlekh]]—the oasis seat of the common council
+- [[place-ghavulavad|Ghavûlâvad]]—the oasis seat of the common council
 - [[lore-dunhariclt|Dunhari]]—the people and their customs
 - [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the warriors' gathering at the Stone of Ranâz
 - [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers of the camps

@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Places** — Qarvelekh, Tazhinekh and Venzelekh now show the Kingdom of Amradad as their government, Batáren the Kingdom of Provènzia, Ashíra the Matriarchy of Bethûa, Ghavûlekh the Dunhara Tribes, and the Tarûzel Region the Confederation of Tarûzelian States.
+**Places** — Qarvelakhend, Tazhinakhend and Venzelakhend now show the Kingdom of Amradad as their government, Batáren the Kingdom of Provènzia, Ashíra the Matriarchy of Bethûa, Ghavûlâvad the Dunhara Tribes, and the Tarûzel Region the Confederation of Tarûzelian States.
 
 **Sinalë enclaves and Vorgald** — Aelirossë, Ethalossë, Serenthalë and the Hallowwood now show their own enclave as their government, and Vorgald, the Vardain Valleys and the nine valley settlements show Vorgald Hold.
 

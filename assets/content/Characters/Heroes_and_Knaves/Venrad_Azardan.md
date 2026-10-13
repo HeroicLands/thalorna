@@ -11,7 +11,7 @@ data:
   occupation: Pilot
   lore: []
   culture: dunhariclt
-  homes: [qarvelekh]
+  homes: [qarvelakhend]
   affiliations: {kngdmmrdd: {rank: 3}, bahramis: {rank: 1}}
   gender: male
   species: humanflk

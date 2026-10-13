@@ -1,5 +1,5 @@
 ---
-shortcode: nrctdvzhmkh
+shortcode: nrctdvzhmvd
 name: {full: The Riders Who Ask Your Name, aliases: []}
 type: scenario
 subType: adventure
@@ -7,7 +7,7 @@ description: "Silent riders in plain brown, bearing no clan marks, ambush the so
 tags: [draft]
 data:
   parents: []
-  locations: [vzhmkh, dunhardsrtrgn]
+  locations: [vzhmvd, dunhardsrtrgn]
   cast: []
   factions: [dunhartrbs]
   follows: []
@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-At [[place-vzhmkh|Vazhmekh]] the poets of a third tribe once judged between rival recitations. A poet named **Melkhûr** now holds the oasis, trades stolen names to a hollow in the well, and sends raiders who have no names of their own onto the southern circuit. The party must learn what he is buying, and with what.
+At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between rival recitations. A poet named **Melkhûr** now holds the oasis, trades stolen names to a hollow in the well, and sends raiders who have no names of their own onto the southern circuit. The party must learn what he is buying, and with what.
 
 ## Hooks
 
-- **The thief.** A sheikh's steward pays a thief to break into Vazhmekh and bring out one recitation, a single line of his lord's genealogy, before the common council sits.
+- **The thief.** A sheikh's steward pays a thief to break into Vazhmavad and bring out one recitation, a single line of his lord's genealogy, before the common council sits.
 - **The mercenary or soldier.** A caravan-master hires the party as guards for the southern circuit. Three caravans have vanished on it, and the survivors of the fourth cannot say whom they were hired by.
-- **The leader.** **Torvâsh Shiradar** at the oasis of Tevrazekh sends a trusted man to the party's chieftain. His poets have gone to Vazhmekh and have not returned, and the tribes' quarrels have nowhere to be heard.
+- **The leader.** **Torvâsh Shiradar** at the oasis of Tevrazavad sends a trusted man to the party's chieftain. His poets have gone to Vazhmavad and have not returned, and the tribes' quarrels have nowhere to be heard.
 - **The wanderer.** A traveler is found at a wayside well reciting a stranger's pedigree. He does not know his own, and he is frightened.
 
 ## Scene One: The Southern Circuit
@@ -50,9 +50,9 @@ At [[place-vzhmkh|Vazhmekh]] the poets of a third tribe once judged between riva
 
 **Purpose.** A roleplay encounter: the party meets the emptied poets.
 
-**Situation.** Vazhmekh lies under the palms, green and apparently at peace. The benches are filled with poets in dyed blue sashes who stand, sit and recite. The Truce-Warden's staff is planted in the ground at the oasis edge, and its peace still holds: the party can enter as guests, and no one will raise a hand against them. The poets recite the genealogies of the tribes in even voices without end.
+**Situation.** Vazhmavad lies under the palms, green and apparently at peace. The benches are filled with poets in dyed blue sashes who stand, sit and recite. The Truce-Warden's staff is planted in the ground at the oasis edge, and its peace still holds: the party can enter as guests, and no one will raise a hand against them. The poets recite the genealogies of the tribes in even voices without end.
 
-**NPCs and threats.** Forty or so poets stand around the oasis. They do not look at visitors, but their recitations adjust: a listener's own name is woven into the line. One of them, an old woman, **Khezmîn**, speaks in her own voice for an instant when she hears the oasis of Tevrazekh named, and then loses it.
+**NPCs and threats.** Forty or so poets stand around the oasis. They do not look at visitors, but their recitations adjust: a listener's own name is woven into the line. One of them, an old woman, **Khezmîn**, speaks in her own voice for an instant when she hears the oasis of Tevrazavad named, and then loses it.
 
 **Player choices.**
 
@@ -82,7 +82,7 @@ At [[place-vzhmkh|Vazhmekh]] the poets of a third tribe once judged between riva
 - _Bargain._ He offers anything he has: a recited line, a lost debt, a genealogy for a sheikh. The price is a name.
 - _Challenge him to a recitation._ By the old custom, a dispute is judged by poets. The poets of the oasis cannot judge, which is his defense.
 
-**Clues and rewards.** If the party eats the salt, Melkhûr tells them the story of Bazurân: a tribe in the south, swallowed by its neighbors when the Warrior's Circle refused to act against them. Its poets came to Vazhmekh seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists.
+**Clues and rewards.** If the party eats the salt, Melkhûr tells them the story of Bazurân: a tribe in the south, swallowed by its neighbors when the Warrior's Circle refused to act against them. Its poets came to Vazhmavad seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists.
 
 **Consequences.** The party now knows why Melkhûr does what he does. They also know that the Circle, and every Dunhari who keeps the Old Promise, is complicit.
 
@@ -121,7 +121,7 @@ At [[place-vzhmkh|Vazhmekh]] the poets of a third tribe once judged between riva
 
 - _Let it be recited._ The tribe of Bazurân is remembered, the neighbors are named, and a feud that the Circle refused to touch starts again.
 - _Bury it._ The poets are persuaded to forget the verse. Melkhûr's crime is erased with Bazurân's wrong.
-- _Carry it to Ghavûlekh._ The common council's Lawkeeper hears it, and the tribes decide.
+- _Carry it to Ghavûlâvad._ The common council's Lawkeeper hears it, and the tribes decide.
 - _Take Melkhûr to Torvâsh._ The man who ended his brothers' war knows an exit when one is shown him.
 
 **Clues and rewards.** The reward is the oasis restored and the poets' gratitude, a recitation that proves the claim of any sheikh the party names, and a modest gift: a purse of salt, a cloth of the poet-sash blue and a promise of a verse.
@@ -132,15 +132,15 @@ At [[place-vzhmkh|Vazhmekh]] the poets of a third tribe once judged between riva
 
 ## Aftermath
 
-- **Melkhûr taken to Tevrazekh.** The man who ended a civil war by refusing to win it hears a case no law has met, and the desert watches.
+- **Melkhûr taken to Tevrazavad.** The man who ended a civil war by refusing to win it hears a case no law has met, and the desert watches.
 - **The recitation of Bazurân spoken.** The two neighboring tribes are shamed in the common council. Their sheikhs seek an exit, and the poets of a third tribe are asked to judge.
 - **The recitation buried.** The southern circuit is safe, the oasis is silent, and a wrong goes unanswered.
 - **The Unrecited.** Those who regain their names return to their tribes or are rejected by them. Those rejected by their tribes become Kinless.
 
 ## See Also
 
-- [[place-vzhmkh|Vazhmekh]]—the weighing-place
+- [[place-vzhmvd|Vazhmavad]]—the weighing-place
 - [[lore-theshadow|The Shadow]]—the chaos behind the hollow
 - [[lore-dunhariclt|Dunhari]]—the poets, salt and what the Old Promise costs
 - [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise and its two refusals
-- [[place-oasistvrzkh|Oasis of Tevrazekh]]—where Torvâsh hears other sheikhs' quarrels
+- [[place-oasistvrzvd|Oasis of Tevrazavad]]—where Torvâsh hears other sheikhs' quarrels

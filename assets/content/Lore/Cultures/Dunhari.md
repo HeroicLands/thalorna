@@ -40,13 +40,13 @@ The Dunhari value most the word, the welcome, the keeping of water in common and
 
 ## The Man Admired
 
-**Torvâsh Shiradar**, the chieftain of the Shiradar at the spring that never fails, is the Dunhari warrior who ended a war by refusing to win it. He was the third son of Chieftain Rashad and proved himself by mastery rather than maneuver. He took his first wounds at sixteen and had made his name as a warrior by his early twenties. When his father died, his two elder brothers began a civil war over the place, and Torvâsh arranged a settlement that raised neither of them: the tribe would govern itself through a council. One brother died in a later border fight and the other took a place of honor without authority. Torvâsh became chieftain on the consent of the elders and not by right of succession, and he has held the place for decades since, apportioning the tribe's resources, managing its dealings with the settled kingdoms and defending its ground. His camp at [[place-oasistvrzkh|Tevrazekh]] is now where other sheikhs send quarrels to be heard.
+**Torvâsh Shiradar**, the chieftain of the Shiradar at the spring that never fails, is the Dunhari warrior who ended a war by refusing to win it. He was the third son of Chieftain Rezhad and proved himself by mastery rather than maneuver. He took his first wounds at sixteen and had made his name as a warrior by his early twenties. When his father died, his two elder brothers began a civil war over the place, and Torvâsh arranged a settlement that raised neither of them: the tribe would govern itself through a council. One brother died in a later border fight and the other took a place of honor without authority. Torvâsh became chieftain on the consent of the elders and not by right of succession, and he has held the place for decades since, apportioning the tribe's resources, managing its dealings with the settled kingdoms and defending its ground. His camp at [[place-oasistvrzvd|Tevrazavad]] is now where other sheikhs send quarrels to be heard.
 
 The Dunhari admire in him the art the whole law is for: he found the exit that cost his tribe least standing. His cost is vigilance. A poison from a rival left him scarred across the eye and a good deal more watchful, and he carries a grudge with the patience of a man who measures time in decades. The man who ended his brothers' war holds his own enemies to the same law, and keeps each feud until its exit is found.
 
 ## The Woman Admired
 
-**Mehrava**, the senior elder (_rûzhôr_) of the Lightning-Marked, is the woman whose word the storm cults cannot set aside. The Lightning-Marked are the smallest and most prestigious lineage of the cults, touched by the god in vision or by lightning, and she leads them with an authority that is personal and not inherited. The accuracy of what she reads is the source of it, and it is also the source of friction: when her reading of the sky stands against the readings of the larger lineages, the cults have two readings and one season.
+**Mehrava**, the senior elder (_rûzhogâr_) of the Lightning-Marked, is the woman whose word the storm cults cannot set aside. The Lightning-Marked are the smallest and most prestigious lineage of the cults, touched by the god in vision or by lightning, and she leads them with an authority that is personal and not inherited. The accuracy of what she reads is the source of it, and it is also the source of friction: when her reading of the sky stands against the readings of the larger lineages, the cults have two readings and one season.
 
 Her admiration is not a lesser form of the chieftain's. Torvâsh keeps a tribe whole, and Mehrava keeps the word of the storm honest. Misreading is the most serious failure a storm-cult practitioner can commit, and falsifying a reading is among the gravest offenses the cults recognize, so a practitioner whose readings prove true carries what the camp has no other way to buy. Her cost is the quarrel. A woman who will not soften a reading to keep the peace among the lineages is a woman the lineages cannot ignore, and the Dunhari prefer the argument to the comfort.
 
@@ -84,7 +84,7 @@ A tribe can be shamed as a tribe, and restoring the standing of one may take dec
 
 ## Sheikh, Circle, Cult and Council
 
-Authority in the open desert is layered and nobody sits at the top. A sheikh holds his tribe by descent, personal standing and the consent of his elders, and an elder settles by memory what the young dispute. The tribes meet in a common council at [[place-ghavulekh|Ghavûlekh]], whose delegates argue and do not bind, and whose offices serve the tribes in common: the Lawkeeper arbitrates where two tribes' customs differ, the Truce-Warden holds the peace of the meeting and the markets, and the Water-Warden fixes the order in which the herds come to the shared wells.
+Authority in the open desert is layered and nobody sits at the top. A sheikh holds his tribe by descent, personal standing and the consent of his elders, and an elder settles by memory what the young dispute. The tribes meet in a common council at [[place-ghavulavad|Ghavûlâvad]], whose delegates argue and do not bind, and whose offices serve the tribes in common: the Lawkeeper arbitrates where two tribes' customs differ, the Truce-Warden holds the peace of the meeting and the markets, and the Water-Warden fixes the order in which the herds come to the shared wells.
 
 Two bodies stand beside the council and answer to no sheikh. The Circle gathers the acclaimed warriors of every tribe and judges no quarrel between tribes; its authority is moral and its word carries in every camp. The storm cults recognize the vessels in whom the god is held to speak, and a vessel's word overrides a chieftain's ruling on a religious matter. A sheikh who defies either can do it once. Where the authorities conflict, the disputing tribes bring their recitations before poets of a third tribe, who judge which is sound. The Keeper of the Feud holds the tally of blood, the sheikh holds the hospitality gifts, and the oath sworn at a fire holds the rest.
 
@@ -128,7 +128,7 @@ The old are not set aside. An elder settles by memory what the young dispute, an
 
 ## Shelter, Teaching and Defense
 
-Shelter is the tent and the salt. A household with no room gives the guest a place at the fire and the count of days, and a camp with no household for a widow gives her the nearest kinsman's. Teaching is the poet's and the cult's. A child learns the genealogy and the verses at the fire, an apprentice (_hamelôr_) to a storm-cult lineage learns to read the sky, and a young warrior learns the raid and the escort from the warriors of the tent. Defense is the warriors of the tribe, the escort passed from tribe to tribe along the caravan road, and, when an outside enemy walks Dunhari land, the Circle.
+Shelter is the tent and the salt. A household with no room gives the guest a place at the fire and the count of days, and a camp with no household for a widow gives her the nearest kinsman's. Teaching is the poet's and the cult's. A child learns the genealogy and the verses at the fire, an apprentice (_hamelogâr_) to a storm-cult lineage learns to read the sky, and a young warrior learns the raid and the escort from the warriors of the tent. Defense is the warriors of the tribe, the escort passed from tribe to tribe along the caravan road, and, when an outside enemy walks Dunhari land, the Circle.
 
 ## The Tent at Every Age
 
@@ -150,7 +150,7 @@ The sin is what the Circle did with it. Twice the Circle was petitioned to act a
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations and their councils
 - [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise and the Quiet After
 - [[place-stoneofranaz|Stone of Ranâz]]—the hill-shrine of the Circle and the cults
-- [[place-oasistvrzkh|Oasis of Tevrazekh]]—where a chieftain's council hears other sheikhs' quarrels
+- [[place-oasistvrzvd|Oasis of Tevrazavad]]—where a chieftain's council hears other sheikhs' quarrels
 - [[doc-dunharilexcn|Dunhari Lexicon]]—the words of the well, the storm and the court
 - [[skill-dunharlng|Dunhari]]—the tongue the poets keep the law in
 
@@ -159,21 +159,21 @@ The sin is what the Circle did with it. Twice the Circle was petitioned to act a
 | Term                 | Meaning                                                                                                              |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | bahâr                | A member of the Warrior's Circle, named by acclamation; plural bahârân                                               |
-| belgôr               | A rain-caller, in the storm cults' own name for the lineage                                                          |
-| ghuzmôr              | A storm-walker, in the storm cults' own name for the lineage                                                         |
-| hamelôr              | An apprentice of a storm-cult lineage                                                                                |
+| belgogâr             | A rain-caller, in the storm cults' own name for the lineage                                                          |
+| ghuzmogâr            | A storm-walker, in the storm cults' own name for the lineage                                                         |
+| hamelogâr            | An apprentice of a storm-cult lineage                                                                                |
 | lightning-marked     | Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; qeshvî |
-| pevrôr               | A recognized storm-cult practitioner, who reads the weather for council and warband                                  |
+| pevrogâr             | A recognized storm-cult practitioner, who reads the weather for council and warband                                  |
 | qeshvî               | A lightning-marked, in the storm cults' own name for the lineage                                                     |
-| rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; belgôr                       |
-| rûzhôr               | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                              |
-| sehvôr               | A voice-bearer, in the storm cults' own name for the lineage                                                         |
-| storm-walker         | Storm-cult practitioner who walks into storms to read them from within; ghuzmôr                                      |
+| rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; belgogâr                     |
+| rûzhogâr             | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                              |
+| sehvogâr             | A voice-bearer, in the storm cults' own name for the lineage                                                         |
+| storm-walker         | Storm-cult practitioner who walks into storms to read them from within; ghuzmogâr                                    |
 | vadukesh             | "Followers": the Dunhari at large as the storm cults count them                                                      |
 | vâst-bahâr           | "Scar of the mighty": the indigo leather strip a member of the Warrior's Circle wears on the upper left arm          |
 | Voice of the Quarter | The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings                  |
-| voice-bearer         | Storm-cult orator who carries the repertoire of myth, hymn and ritual formula; sehvôr                                |
-| wind-reader          | Storm-cult diviner who reads omens and weather in the wind; zevrôr                                                   |
-| zevrôr               | A wind-reader, in the storm cults' own name for the lineage                                                          |
+| voice-bearer         | Storm-cult orator who carries the repertoire of myth, hymn and ritual formula; sehvogâr                              |
+| wind-reader          | Storm-cult diviner who reads omens and weather in the wind; zevrogâr                                                 |
+| zevrogâr             | A wind-reader, in the storm cults' own name for the lineage                                                          |
 
 Ard is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].

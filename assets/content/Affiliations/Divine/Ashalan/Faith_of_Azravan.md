@@ -37,7 +37,7 @@ data:
       - level: 4
         title: Shēkhulsīghot
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbarôr's vashkôr.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbaradêr's vashkadêr.
     offices:
       Shēkhulsīghot: >-
         Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
@@ -83,7 +83,7 @@ In the nomadic camps, worship of Ázráván takes more spontaneous form. A Dēlk
 
 The priesthood of Ázráván is smaller and more specialized than that of many other deities in the Āsháian pantheon, for the simple reason that death comes to all at roughly equal intervals regardless of season or circumstance. Unlike the priesthood of [[affiliation-zurathra|Zúráthrä]], which must manage irrigation and farming throughout the year, or [[affiliation-ataros|Ātáröš]], whose flame-tending is an endless daily labor, the priests of Ázráván focus their work on a few critical moments—the last breath, the exposure, the burning, the reading of signs.
 
-At the apex of Ázráván's priesthood stands the Shēkhulsīghot of the Towers—in major cities like [[affiliation-kngdmmrdd|Amradad]]'s capital, this is a figure of immense authority. The Shēkhulsīghot of the Towers does not merely oversee funerary rites; they serve as a keeper of the soul-ledgers and are consulted by the Shêbarôr's judges in matters of justice and cosmic law. It is said that a Shēkhulsīghot of the Towers can read in the movements of a dying person's final breath whether they will find peace in eternity or fall into darkness—and a Shêbarôr who ignores such a judgment does so at peril to his realm.
+At the apex of Ázráván's priesthood stands the Shēkhulsīghot of the Towers—in major cities like [[affiliation-kngdmmrdd|Amradad]]'s capital, this is a figure of immense authority. The Shēkhulsīghot of the Towers does not merely oversee funerary rites; they serve as a keeper of the soul-ledgers and are consulted by the Shêbaradêr's judges in matters of justice and cosmic law. It is said that a Shēkhulsīghot of the Towers can read in the movements of a dying person's final breath whether they will find peace in eternity or fall into darkness—and a Shêbaradêr who ignores such a judgment does so at peril to his realm.
 
 Below the Shēkhulsīghot, the Dēlkoshekhs of death tend the Towers and perform the rituals of exposure and passage. These priests undergo years of training in the precise protocols of the death-temple: how to handle the body with reverence without allowing emotion to cloud judgment, how to read omens in the fall of ash or the direction of flame, how to intone the Prayer of Passage with the correct intonation and rhythm. Many Dēlkoshekhs of Ázráván are themselves marked by loss—they enter the priesthood after losing a beloved one and dedicate their lives to guiding other souls through the same passage.
 

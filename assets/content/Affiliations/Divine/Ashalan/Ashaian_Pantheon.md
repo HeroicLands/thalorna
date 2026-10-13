@@ -36,7 +36,7 @@ data:
       - level: 4
         title: Shēkhulsīghot
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbarôr's vashkôr.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbaradêr's vashkadêr.
     offices:
       Shēkhulsīghot: >-
         Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
@@ -82,7 +82,7 @@ After death, the soul crosses the **Chinvat Bridge**—the Bridge of the Separat
 | Prosperity | **Árávēštä**  | The Golden Giver          | Golden chalice overflowing with wine and fruit | [[affiliation-aravesta\|Faith of Araveshta]]  |
 | Fertility  | **Zúráthrä**  | Mother of the Oasis       | Flowing spring encircled by palm fronds        | [[affiliation-zurathra\|Faith of Zurathra]]   |
 | Fire       | **Ātáröš**    | The Sacred Flame          | Flame atop an altar, encircled by sparks       | [[affiliation-ataros\|Faith of Ataros]]       |
-| Creation   | **Míthárä**   | The World's First Light   | Tree with roots entwined in a circle           | [[affiliation-mithara\|Faith of Mithara]]     |
+| Creation   | **Míthárä**   | The World's First Light   | Tree with roots entwined in a circle           | [[affiliation-mizhara\|Faith of Mizhara]]     |
 | Chaos      | **Ángáróš**   | The Shadowed Serpent      | Serpent coiled around a broken blade           | [[affiliation-angaros\|Faith of Angaros]]     |
 | Voyages    | **Šírvádár**  | The Wandering Guide       | Star chart etched on a golden disc             | [[affiliation-sirvadar\|Faith of Sirvadar]]   |
 | Decay      | **Mórváhñä**  | The Silent Keeper         | Crescent moon cradling a wilting flower        | [[affiliation-morvahna\|Faith of Mórváhñä]]   |
@@ -91,7 +91,7 @@ After death, the soul crosses the **Chinvat Bridge**—the Bridge of the Separat
 
 The Āsháian faith does not maintain the massive, state-integrated temple hierarchies of the Khelâthi tradition. Its priestly structure reflects its origins among nomadic peoples and its development in the settled courts of Amradad and the Khazryn oasis-cities.
 
-- **Shēkhulsīghot** ("Master of Fire")—the senior priest of a major fire-temple or a regional spiritual authority. The Shēkhulsīghot tends the sacred flame, interprets divine will through fire-reading, and adjudicates theological disputes. In the Kingdom of Amradad, the Shēkhulsīghot of the Great Fire-Temple holds political influence rivaling that of the Shêbarôr's vashkôr.
+- **Shēkhulsīghot** ("Master of Fire")—the senior priest of a major fire-temple or a regional spiritual authority. The Shēkhulsīghot tends the sacred flame, interprets divine will through fire-reading, and adjudicates theological disputes. In the Kingdom of Amradad, the Shēkhulsīghot of the Great Fire-Temple holds political influence rivaling that of the Shêbaradêr's vashkadêr.
 
 - **Dēlkoshekh** ("Teacher-Priest")—the working priesthood, responsible for daily rituals, instruction of the faithful, care of the sacred fires, and pastoral duties. Dēlkoshekhs serve in fire-temples, travel with caravans, and minister to tribal communities. They are trained in theology, astronomy, medicine, and the interpretation of omens.
 
@@ -103,7 +103,7 @@ Among the nomadic tribes of Dunhara and the Khazryn, the formal temple hierarchy
 
 The Āsháian pantheon is organized around the central opposition of **Āsha** (truth/order) and **Druj** (falsehood/chaos). [[affiliation-ahurdaen|Āhúrdáén]] embodies Āsha in its purest form—the cosmic order that makes existence possible. [[affiliation-angaros|Ángáróš]] embodies Druj—the principle of entropy, corruption, and dissolution that opposes creation and seeks to unmake it.
 
-Every other deity occupies a position within this framework. [[affiliation-ataros|Ātáröš]] is the weapon of Āsha—fire that burns away falsehood and purifies the corrupt. [[affiliation-korsadra|Khóršádrä]] is the light of Āsha—knowledge that exposes deception. [[affiliation-bahramis|Báhrámiš]] is the shield of Āsha—the storm that defends the righteous against chaos. [[affiliation-azravan|Ázráván]] and [[affiliation-morvahna|Mórváhñä]] maintain the ordered transitions between life and death that chaos would dissolve into meaninglessness. Even the apparently gentler deities—[[affiliation-zurathra|Zúráthrä]] nurturing life, [[affiliation-aravesta|Árávēštä]] blessing prosperity, [[affiliation-mithara|Míthárä]] sustaining creation—are understood as warriors in this cosmic struggle, holding back the tide of Druj through the affirmation of life, abundance, and creative power.
+Every other deity occupies a position within this framework. [[affiliation-ataros|Ātáröš]] is the weapon of Āsha—fire that burns away falsehood and purifies the corrupt. [[affiliation-korsadra|Khóršádrä]] is the light of Āsha—knowledge that exposes deception. [[affiliation-bahramis|Báhrámiš]] is the shield of Āsha—the storm that defends the righteous against chaos. [[affiliation-azravan|Ázráván]] and [[affiliation-morvahna|Mórváhñä]] maintain the ordered transitions between life and death that chaos would dissolve into meaninglessness. Even the apparently gentler deities—[[affiliation-zurathra|Zúráthrä]] nurturing life, [[affiliation-aravesta|Árávēštä]] blessing prosperity, [[affiliation-mizhara|Míthárä]] sustaining creation—are understood as warriors in this cosmic struggle, holding back the tide of Druj through the affirmation of life, abundance, and creative power.
 
 This theology gives the Āsháian faithful a martial quality that permeates even the most peaceful aspects of worship. To till a field is to defy chaos. To kindle a fire is to push back darkness. To speak truth is to wound the Serpent. The Āsháian faithful are not passive recipients of divine grace—they are participants in a cosmic war, and their daily choices are the weapons with which that war is fought.
 

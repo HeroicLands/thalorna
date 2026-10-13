@@ -1,6 +1,6 @@
 ---
-shortcode: kherzulekh
-name: {full: Kherzûlekh, aliases: []}
+shortcode: kherzulakhem
+name: {full: Kherzûlakhêm, aliases: []}
 type: place
 subType: settlement
 description: "A hunters' camp at a small oasis near the Khazryn frontier, where trackers from both deserts water, trade hides and keep the Laws of the Well."
@@ -10,11 +10,11 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 400
-  government: kherzlkhcmp
+  government: kherzlkhmcmp
   packFolder: dunharadesert
 ---
 
-Kherzûlekh is a hunters' camp at a small oasis in the north of the [[place-dunhardsrtrgn|Dunhara Desert]], where the sand seas run toward the long, vague frontier with the [[place-khzryndsrtrgn|Khazryn]]. A ring of stunted palms, a seep that fills a stone basin overnight and a scatter of tents make up the whole of it, and nobody lives there the year round. Hunters and trackers come in from both deserts to water, trade hides and sleep in the shade, and the Laws of the Well keep the peace between them however their tribes stand.
+Kherzûlakhêm is a hunters' camp at a small oasis in the north of the [[place-dunhardsrtrgn|Dunhara Desert]], where the sand seas run toward the long, vague frontier with the [[place-khzryndsrtrgn|Khazryn]]. A ring of stunted palms, a seep that fills a stone basin overnight and a scatter of tents make up the whole of it, and nobody lives there the year round. Hunters and trackers come in from both deserts to water, trade hides and sleep in the shade, and the Laws of the Well keep the peace between them however their tribes stand.
 
 It is the camp [[being-atenhershr|Atazkharu]], the Silent Jackal, calls home between his journeys, a Khazryn wanderer who found the Dunhari camp more to his liking than any of his own.
 

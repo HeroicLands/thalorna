@@ -1,5 +1,5 @@
 ---
-shortcode: mithara
+shortcode: mizhara
 name:
   full: Faith of Míthárä
   aliases: [The World's First Light, "Míthárä, The World's First Light"]
@@ -37,7 +37,7 @@ data:
       - level: 4
         title: Shēkhulsīghot
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbarôr's vashkôr.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbaradêr's vashkadêr.
     offices:
       Shēkhulsīghot: >-
         Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.

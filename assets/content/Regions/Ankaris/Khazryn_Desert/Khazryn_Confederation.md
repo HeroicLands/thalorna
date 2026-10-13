@@ -56,7 +56,7 @@ data:
       Caravan-Master: Holder of a house's trade upon the routes, and the practical source of its money.
       Warden of the Oasis: Keeper of a still-held settlement's water, walls and gates.
       Keeper of the Tablets: Archivist of the baked-clay record on which every house's claim to its ruins rests.
-      Envoy to the Kingdom: A house's representative at Amradad, where the Council meets on the Shêbarôr's courtesy.
+      Envoy to the Kingdom: A house's representative at Amradad, where the Council meets on the Shêbaradêr's courtesy.
       Keeper of the Feud: Recorder of blood owed and blood paid between houses and against the Ātárzád.
   seat: oasishirvn
   population: 800000

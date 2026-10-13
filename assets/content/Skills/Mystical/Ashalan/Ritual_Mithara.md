@@ -1,5 +1,5 @@
 ---
-shortcode: mithara
+shortcode: mizhara
 name: {full: "Ritual: Míthárä", aliases: [The World's First Light]}
 type: skill
 subType: mystical
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-mithara|Faith of Míthárä]]
+See [[affiliation-mizhara|Faith of Míthárä]]

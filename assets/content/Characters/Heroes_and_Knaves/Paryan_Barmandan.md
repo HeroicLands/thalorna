@@ -11,7 +11,7 @@ data:
   occupation: Jeweller
   lore: []
   culture: dunhariclt
-  homes: [qarvelekh]
+  homes: [qarvelakhend]
   affiliations: {kngdmmrdd: {rank: 3}, aravesta: {rank: 1}}
   gender: female
   species: humanflk

@@ -15,7 +15,7 @@ data:
   occupation: Hunter
   lore: []
   culture: sowidesclt
-  homes: [kherzulekh]
+  homes: [kherzulakhem]
   affiliations: {sahritrb: {rank: 3}, korsadra: {rank: 1}}
   gender: male
   species: humanflk

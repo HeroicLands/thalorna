@@ -11,7 +11,7 @@ data:
   occupation: Chieftain
   lore: []
   culture: dunhariclt
-  homes: [oasistvrzkh]
+  homes: [oasistvrzvd]
   affiliations: {dunhartrbs: {rank: 6}, zurathra: {rank: 1}}
   gender: male
   species: humanflk
@@ -414,7 +414,7 @@ Torvâsh stands 6'2" tall with a heavy build. He has tanned weathered skin, grey
 
 # Dossier {#dossier}
 
-Torvâsh Shiradar was born into the warrior caste of the [[affiliation-dunhartrbs|Dunhara Tribes]], the third son of Chieftain Rashad. Unlike his older brothers, who fought endlessly over matters of status and honor, Torvâsh proved himself through practical mastery rather than political maneuvering. He earned his first war wounds at sixteen, his first killing at seventeen. By his early twenties, he had established himself as a warrior whose prowess could not be questioned.
+Torvâsh Shiradar was born into the warrior caste of the [[affiliation-dunhartrbs|Dunhara Tribes]], the third son of Chieftain Rezhad. Unlike his older brothers, who fought endlessly over matters of status and honor, Torvâsh proved himself through practical mastery rather than political maneuvering. He earned his first war wounds at sixteen, his first killing at seventeen. By his early twenties, he had established himself as a warrior whose prowess could not be questioned.
 
 When tribal leadership fell vacant at his father's death, his two older brothers began a civil conflict that threatened to tear the entire tribe apart. Torvâsh, recognizing the danger, orchestrated a reconciliation that elevated neither of his brothers but instead unified the tribe under a council structure. Both brothers agreed to this arrangement—one died in a subsequent border conflict, the other accepted a position of honor without political authority. Torvâsh thus became chieftain not through right of succession but through demonstrated wisdom and, importantly, through the consensus of the tribe's elders and council.
 

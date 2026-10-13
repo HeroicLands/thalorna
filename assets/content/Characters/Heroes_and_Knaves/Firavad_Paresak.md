@@ -11,7 +11,7 @@ data:
   occupation: Shaman
   lore: []
   culture: dunhariclt
-  homes: [ghavulekh]
+  homes: [ghavulavad]
   affiliations: {dunhartrbs: {rank: 5}, bahramis: {rank: 4}}
   gender: male
   species: humanflk

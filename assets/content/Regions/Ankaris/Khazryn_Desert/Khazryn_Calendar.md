@@ -37,7 +37,7 @@ data:
   packFolder: khazryndesert
 ---
 
-The **Tellumi Calendar** is the ancient reckoning of the seven cities of [[place-swoasisbelt|Tellumel]], kept before the Breaking by the Shēkhulsīghots of the Great Temple of [[affiliation-ahurdaen|Āhúrdáén]] at Shirvan and kept since by the exile Shēkhulūkhem. Twelve months of thirty days each carry the year, and a five-day festival closes it before the next begins. Every month runs thirty days; only the closing festival is shorter. The months are counted, not named, with one exception: the priesthood calls the Fourth month _Lēqoshzūqel_, the garden moon, because the [[affiliation-mithara|Faith of Míthárä]] keeps its Festival of First Growth in it.
+The **Tellumi Calendar** is the ancient reckoning of the seven cities of [[place-swoasisbelt|Tellumel]], kept before the Breaking by the Shēkhulsīghots of the Great Temple of [[affiliation-ahurdaen|Āhúrdáén]] at Shirvan and kept since by the exile Shēkhulūkhem. Twelve months of thirty days each carry the year, and a five-day festival closes it before the next begins. Every month runs thirty days; only the closing festival is shorter. The months are counted, not named, with one exception: the priesthood calls the Fourth month _Lēqoshzūqel_, the garden moon, because the [[affiliation-mizhara|Faith of Míthárä]] keeps its Festival of First Growth in it.
 
 The new year opens with the spring equinox, the same day the [[lore-commoncal|Vylarian Calendar]] calls **1 Lîzêlândi**. The five festival days sit outside the twelve months and belong to the year that is ending, so the last of them falls on the day before the equinox and the new year's first month opens the following morning.
 

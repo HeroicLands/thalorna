@@ -11,7 +11,7 @@ data:
   occupation: Herder
   lore: []
   culture: dunhariclt
-  homes: [shebarekh]
+  homes: [shebarakhend]
   affiliations: {kngdmmrdd: {rank: 3}, zurathra: {rank: 1}}
   gender: male
   species: humanflk

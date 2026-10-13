@@ -11,7 +11,7 @@ data:
   occupation: Charcoaler
   lore: []
   culture: dunhariclt
-  homes: [shebarekh]
+  homes: [shebarakhend]
   affiliations: {kngdmmrdd: {rank: 3}, zurathra: {rank: 1}}
   gender: female
   species: humanflk

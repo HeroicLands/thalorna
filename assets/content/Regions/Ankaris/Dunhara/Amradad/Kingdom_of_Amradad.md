@@ -12,19 +12,19 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A hereditary Shêbarôr ruling through a Grand Vashkôr and court bureaucracy. Every standing in the realm is the Shêbarôr's grant and his to revoke, so his kinsmen hold none by blood: a prince stands where an appointment or a governorship places him, and the Mezhvôr's place is an office.
+      A hereditary Shêbaradêr ruling through a Grand Vashkadêr and court bureaucracy. Every standing in the realm is the Shêbaradêr's grant and his to revoke, so his kinsmen hold none by blood: a prince stands where an appointment or a governorship places him, and the Mezhvabûn's place is an office.
     ranks:
       - level: 0
         title: Outcast
         description: >-
-          Cast out by the Shêbarôr's word, stripped of protection, property and the right to trade in any city of the realm.
+          Cast out by the Shêbaradêr's word, stripped of protection, property and the right to trade in any city of the realm.
       - level: 1
         title: Bondsman
         description: >-
           Bound in service or debt, unable to depart or dispose of property, and answerable through a master rather than at law.
       - level: 2
         title: Subject
-        description: Free at law and owing the Shêbarôr's taxes, bearing no rank and holding no office.
+        description: Free at law and owing the Shêbaradêr's taxes, bearing no rank and holding no office.
       - level: 3
         title: Notable
         description: >-
@@ -32,40 +32,40 @@ data:
       - level: 4
         title: Officer of the Court
         description: >-
-          Appointed to the Shêbarôr's service and paid from his revenue, holding delegated authority but no land.
+          Appointed to the Shêbaradêr's service and paid from his revenue, holding delegated authority but no land.
       - level: 5
-        title: Tâgemôr
-        description: Governor of a city or oasis in the Shêbarôr's name, holding its garrison and its revenue.
+        title: Tâgemadêr
+        description: Governor of a city or oasis in the Shêbaradêr's name, holding its garrison and its revenue.
       - level: 6
-        title: Ghedvôr
+        title: Ghedvadêr
         description: >-
-          A great officer commanding armies or provinces, whose position rests on the Shêbarôr's favor rather than on descent.
+          A great officer commanding armies or provinces, whose position rests on the Shêbaradêr's favor rather than on descent.
       - level: 8
-        title: Shêbarôr
+        title: Shêbaradêr
         description: >-
           The throne itself, from which every other standing in the realm is granted and may be revoked.
     offices:
-      Shêbarôr: >-
+      Shêbaradêr: >-
         The sovereign, ruling in his own right over the oases, the cities and the roads between them.
-      Mezhvôr: >-
-        The Shêbarôr's principal wife, holding her own household, revenues and considerable informal power.
-      Grand Vashkôr: >-
-        Head of the administration, through whom the Shêbarôr's orders pass and to whom the divans answer.
-      Vashkôr: Minister of one department of state—the treasury, the army, the post, the waters.
-      Vazhmôr: Judge of a city, ruling on law and custom and administering pious endowments.
-      Yorvôr: Keeper of the registers and of the realm's revenue, answerable for its receipt and audit.
-      Gholvôr: Chamberlain, controlling access to the Shêbarôr's person and the order of his court.
-      Tâgemôr: Governor of a city or oasis, holding the Shêbarôr's authority within it.
-      Ghedvôr of the Host: Commander of the standing army in the field.
-      Master of the Post: Keeper of the courier routes and, in practice, of the Shêbarôr's intelligence.
-      Nûzgôr: >-
+      Mezhvabûn: >-
+        The Shêbaradêr's principal wife, holding her own household, revenues and considerable informal power.
+      Grand Vashkadêr: >-
+        Head of the administration, through whom the Shêbaradêr's orders pass and to whom the divans answer.
+      Vashkadêr: Minister of one department of state—the treasury, the army, the post, the waters.
+      Vazhmadêr: Judge of a city, ruling on law and custom and administering pious endowments.
+      Yorvabûn: Keeper of the registers and of the realm's revenue, answerable for its receipt and audit.
+      Gholvabûn: Chamberlain, controlling access to the Shêbaradêr's person and the order of his court.
+      Tâgemadêr: Governor of a city or oasis, holding the Shêbaradêr's authority within it.
+      Ghedvadêr of the Host: Commander of the standing army in the field.
+      Master of the Post: Keeper of the courier routes and, in practice, of the Shêbaradêr's intelligence.
+      Nûzgadêr: >-
         Inspector of markets, weights, and public morals, and the most resented office in any city.
       Keeper of the Wells: Warden of the oases' water rights, whose rulings decide which caravans may cross.
       Caravan-Master: >-
-        Chartered leader of a trading caravan, answerable to the Shêbarôr for its conduct and its dues.
-      Court Physician: Keeper of the Shêbarôr's health, and by that a confidant of unusual reach.
+        Chartered leader of a trading caravan, answerable to the Shêbaradêr for its conduct and its dues.
+      Court Physician: Keeper of the Shêbaradêr's health, and by that a confidant of unusual reach.
       Court Astrologer: Reader of the heavens for the timing of campaigns, marriages and journeys.
-  seat: shebarekh
+  seat: shebarakhend
   population: 2000000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt, lore-trzlncrncy]
   lore: [humanflk]
@@ -88,19 +88,19 @@ The Amradi say that their ancestors were the only Dunhari clever enough to stop 
 
 ## Character
 
-Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from [[place-byzariargn|Byzaría]], [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn]] meet on the coast facing the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]]. That crossroads has made the Shêbarôr enormously rich and far more important than his thinly peopled land would suggest.
+Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from [[place-byzariargn|Byzaría]], [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn]] meet on the coast facing the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]]. That crossroads has made the Shêbaradêr enormously rich and far more important than his thinly peopled land would suggest.
 
-The court at [[place-shebarekh|Shêbarekh]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Āsháian]] faith finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Āsháian orthodoxy for the tribes and the Tarûzeli alike, whether or not either listens.
+The court at [[place-shebarakhend|Shêbarakhend]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Āsháian]] faith finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Āsháian orthodoxy for the tribes and the Tarûzeli alike, whether or not either listens.
 
 ## Governance
 
-The Shêbarôr rules in his own right. His orders pass through the **Grand Vashkôr**, who heads the administration, to the vashkôrs of the treasury, the army, the post and the waters, and from them to a governor (_tâgemôr_) in every city and oasis. A judge (_vazhmôr_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_nûzgôr_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Shêbarôr knows.
+The Shêbaradêr rules in his own right. His orders pass through the **Grand Vashkadêr**, who heads the administration, to the vashkadêrs of the treasury, the army, the post and the waters, and from them to a governor (_tâgemadêr_) in every city and oasis. A judge (_vazhmadêr_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_nûzgadêr_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Shêbaradêr knows.
 
-The Shêbarôr's power is real and it has limits. The priests of the fire-temples hold great landed wealth and spiritual authority, and in every city the governor and the high priest each need the other. The great caravan-masters are chartered by the Shêbarôr and answer to him for their dues, and they know to the coin how much of his treasury they fill.
+The Shêbaradêr's power is real and it has limits. The priests of the fire-temples hold great landed wealth and spiritual authority, and in every city the governor and the high priest each need the other. The great caravan-masters are chartered by the Shêbaradêr and answer to him for their dues, and they know to the coin how much of his treasury they fill.
 
 ## Relations
 
-The Shêbarôr claims authority over every Dunhari people, and the tribes find the claim hilarious. In practice the two live together through trade agreements, marriages between the court and the sheikhs' houses, and carefully negotiated arrangements at the edge of the sown. The standing army is strong enough to hold the oases and too slow to catch anyone in the open desert, where the nomads go wherever they like.
+The Shêbaradêr claims authority over every Dunhari people, and the tribes find the claim hilarious. In practice the two live together through trade agreements, marriages between the court and the sheikhs' houses, and carefully negotiated arrangements at the edge of the sown. The standing army is strong enough to hold the oases and too slow to catch anyone in the open desert, where the nomads go wherever they like.
 
 Across the strait, relations with the Confederation of Tarûzelian States are warm. Relations with the [[affiliation-vylarinmpr|Vylarian Empire]] have long been hostile, and when Tarûzel, a Vylarian colony, rose against the empire some twelve years ago, Amradad was among those who helped it break free.
 
@@ -111,7 +111,7 @@ The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—elthêzâs, ankhrâ and bit
 ## See Also
 
 - [[place-amradadrgn|Amradad Region]]—the land the Kingdom holds
-- [[place-shebarekh|Shêbarekh]]—the seat of the court
+- [[place-shebarakhend|Shêbarakhend]]—the seat of the court
 - [[place-dunharargn|Dunhara Region]]—the wider desert
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the nomadic cousins of the open desert
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the ally across the strait

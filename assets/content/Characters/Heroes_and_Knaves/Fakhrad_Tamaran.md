@@ -11,8 +11,8 @@ data:
   occupation: Astrologer
   lore: []
   culture: dunhariclt
-  homes: [shebarekh]
-  affiliations: {kngdmmrdd: {rank: 3}, mithara: {rank: 1}}
+  homes: [shebarakhend]
+  affiliations: {kngdmmrdd: {rank: 3}, mizhara: {rank: 1}}
   gender: male
   species: humanflk
   born: "674.22"
@@ -466,7 +466,7 @@ Fakhrad's primary motivation is to prove that wisdom and utility need not come w
 Farmer Torvan of the Eastern Fields
 : A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
 
-The Village Elders of [[place-sorvadekh|Sorvadekh]]
+The Village Elders of [[place-sorvadakhend|Sorvadakhend]]
 : The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 
 Merchant Caravan Master Yelmâd
