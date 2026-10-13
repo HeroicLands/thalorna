@@ -402,7 +402,7 @@ Grácena is respected and feared alike. She has few friends outside her work fam
 
 ### Patrons
 
-**City Governor Alexios Monteros**—The official administrator of Montaña city. Alexios has held power for twelve years and has come to rely on Grácena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
+**City Governor Kekhebon Yegis**—The official administrator of Montaña city. Kekhebon has held power for twelve years and has come to rely on Grácena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
 
 ### Enemies
 
@@ -414,7 +414,7 @@ Grácena is respected and feared alike. She has few friends outside her work fam
 
 2. **The Traitor in Her Ranks**—Grácena discovers that one of her trusted subordinates, **Guard Captain Helvio**, has been accepting bribes from Rodion Carex in exchange for allowing contraband through the gates. Helvio is skilled and has been praised for his work. The betrayal is personal as well as a breach of duty. Grácena can arrest Helvio, ending his service in disgrace, or give him a chance to resign and disappear, which allows Carex to win this round but preserves the life of a man who made a terrible mistake.
 
-3. **The Governor's Secret**—City Governor Alexios approaches Grácena privately with a request: allow a specific individual to enter the city without inspection and with minimal documentation. The individual is a foreign agent with whom Alexios is secretly negotiating. Grácena is being asked to compromise her integrity and position for the governor's political ends. Refusing means losing her patron and probably her position. Accepting makes her complicit in whatever political scheme Alexios is conducting.
+3. **The Governor's Secret**—City Governor Kekhebon approaches Grácena privately with a request: allow a specific individual to enter the city without inspection and with minimal documentation. The individual is a foreign agent with whom Kekhebon is secretly negotiating. Grácena is being asked to compromise her integrity and position for the governor's political ends. Refusing means losing her patron and probably her position. Accepting makes her complicit in whatever political scheme Kekhebon is conducting.
 
 4. **The Carex Escalation**—Rodion Carex makes a bold move: he approaches Grácena and offers her a bribe to allow his next operation to pass. The bribe is substantial and the offer is explicitly disrespectful—Carex is wagering that even someone as incorruptible as Grácena has a price. When she refuses, he becomes publicly hostile and spreads rumors that she is incompetent and allowing weapons into the city (the opposite of the truth). He uses his wealth to lodge formal complaints against her with the city council. Grácena has to defend her name against someone wealthy enough to do political damage.
 

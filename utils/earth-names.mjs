@@ -47,6 +47,15 @@ const EXEMPT_FILES = new Set(["assets/content/Reference/Terran_Analogs.md"]);
 const RECORDED_KEY = /^\s*(?:"(?:oldName|oldAliases|oldPath|oldRefPaths)"|"[0-9a-f]{7,}:assets\/)/;
 const CONCORDANCE = "utils/nordmal-concordance.json";
 
+/**
+ * A lexicon page lists the names it refuses in a "Retired names" table, so those
+ * rows hold Earth names by design. Only table rows in that section are read past.
+ */
+const LEXICON_PAGE = /_Lexicon\.md$/;
+const RETIRED_HEADING = /^(#+)\s+Retired names\s*$/;
+const HEADING = /^(#+)\s/;
+const TABLE_ROW = /^\|/;
+
 /** A line carrying this marker is a comment for later authors. */
 const ANALOG_LINE = /#\s*terran_analog:/;
 
@@ -567,6 +576,156 @@ export const CURATED = [
 ];
 
 /**
+ * Earth-Greek given names and place names. No package lists them, and the
+ * setting's Helonic family is built to read as Greek without being Greek: its
+ * names come from the lexicon's roots and endings, and a name that is also an
+ * Earth person's or place is refused.
+ *
+ * Names are plain and unaccented; the guard folds accents in the text before
+ * matching, so "Stávros" and "Stavros" are the same hit. Both the f and the
+ * ph spelling of a name are listed where each is in use. A name that is also
+ * an ordinary word in the reader's tongue is left out.
+ */
+export const GREEK_NAMES = [
+    "Alexios",
+    "Alexandros",
+    "Nikandros",
+    "Stavros",
+    "Anastasios",
+    "Eugenios",
+    "Nikephoros",
+    "Nikeforos",
+    "Theoklitos",
+    "Photios",
+    "Fotios",
+    "Photianos",
+    "Basilios",
+    "Vasilios",
+    "Vasilis",
+    "Basileios",
+    "Konstantinos",
+    "Theodoros",
+    "Dimitrios",
+    "Demetrios",
+    "Georgios",
+    "Gregorios",
+    "Ioannis",
+    "Ioannes",
+    "Leonidas",
+    "Leontios",
+    "Nikolaos",
+    "Panagiotis",
+    "Petros",
+    "Spyros",
+    "Stefanos",
+    "Stephanos",
+    "Symeon",
+    "Timotheos",
+    "Kyriakos",
+    "Kyros",
+    "Lysandros",
+    "Makarios",
+    "Maximos",
+    "Menandros",
+    "Onesimos",
+    "Pamphilos",
+    "Pantelis",
+    "Prokopios",
+    "Serapion",
+    "Sophronios",
+    "Tryphon",
+    "Xenophon",
+    "Zosimos",
+    "Athanasios",
+    "Agathon",
+    "Ambrosios",
+    "Eustathios",
+    "Euthymios",
+    "Filaretos",
+    "Philaretos",
+    "Epiphanios",
+    "Epifanios",
+    "Dositheos",
+    "Zacharias",
+    "Kosmas",
+    "Neophytos",
+    "Klementos",
+    "Akakios",
+    "Arkadios",
+    "Athenagoras",
+    "Kallixenos",
+    "Leonides",
+    "Timotheon",
+    "Fotianos",
+    "Gregoras",
+    "Dalassenos",
+    "Katakalos",
+    "Melissenos",
+    "Patrikios",
+    "Polytimos",
+    "Kallinikos",
+    "Gavrilos",
+    "Demetrion",
+    "Efthymiopoulos",
+    "Philokenos",
+    "Kallisthenes",
+    "Zenais",
+    "Drakonis",
+    "Angelides",
+    "Chrysantos",
+    "Sampsion",
+    "Philandros",
+    "Filandros",
+    // women
+    "Anastasia",
+    "Eudokia",
+    "Theodora",
+    "Basilia",
+    "Euphrasia",
+    "Eufrasia",
+    "Athanasia",
+    "Melissa",
+    "Melissena",
+    "Olympia",
+    "Dorothea",
+    "Dorotheia",
+    "Pelagia",
+    "Eulalia",
+    "Glykeria",
+    "Ekaterini",
+    "Aikaterini",
+    "Katerina",
+    "Eirene",
+    "Sophia",
+    "Xenia",
+    "Paraskevi",
+    "Kassandra",
+    "Theophano",
+    "Theophania",
+    "Eleni",
+    "Eudoxia",
+    "Anthousa",
+    "Charito",
+    "Euphemia",
+    "Eufemia",
+    "Elpida",
+    "Thaleia",
+    "Timothea",
+    "Thekla",
+    "Theodosia",
+    "Zenaida",
+    "Isidora",
+    "Philina",
+    // places
+    "Temnos",
+    "Kephala",
+    "Kefala",
+    "Thessalonike",
+    "Thebas",
+    "Nekropolis",
+];
+
+/**
  * @param {string} name a country, capital or language name from the package
  * @returns {string[]} the whole-word names it contains
  */
@@ -598,6 +757,23 @@ export function earthNames() {
     return [...names].sort((a, b) => b.length - a.length || a.localeCompare(b));
 }
 
+let greekCache;
+
+/** @returns {RegExp} the matcher over the Earth-Greek names, applied to accent-folded text */
+function greekMatcher() {
+    greekCache ??= matcher([...GREEK_NAMES].sort((a, b) => b.length - a.length));
+    return greekCache;
+}
+
+/**
+ * @param {string} line
+ * @returns {string} the line with every accented letter reduced to its base letter, so
+ *   that each character keeps its column
+ */
+function foldAccents(line) {
+    return line.replace(/\p{L}/gu, (c) => (c.length === 1 ? c.normalize("NFD")[0] : c));
+}
+
 const escape = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 /**
@@ -625,11 +801,22 @@ const COMMON_CALENDAR = /\bcommon calendar\b/gi;
  */
 export function findEarthNames(file, text, names = earthMatcher()) {
     if (EXEMPT_FILES.has(file)) return [];
+    const lexicon = LEXICON_PAGE.test(file);
+    let retiredLevel = 0;
     return text.split("\n").flatMap((line, i) => {
+        if (lexicon) {
+            const heading = HEADING.exec(line);
+            if (heading) {
+                const retired = RETIRED_HEADING.exec(line);
+                if (retired) retiredLevel = retired[1].length;
+                else if (heading[1].length <= retiredLevel || !retiredLevel) retiredLevel = 0;
+            }
+            if (retiredLevel && TABLE_ROW.test(line)) return [];
+        }
         if (ANALOG_LINE.test(line)) return [];
         if (file === CONCORDANCE && RECORDED_KEY.test(line)) return [];
         const hits = [];
-        for (const [re, what] of [
+        for (const [re, what, subject] of [
             [ENGLISH, "the reader's language"],
             [COMMON, "a Common tongue"],
             [
@@ -637,8 +824,9 @@ export function findEarthNames(file, text, names = earthMatcher()) {
                 'the Vylarian Calendar\'s name in the tooling; write "the Vylarian Calendar"',
             ],
             [names, "an Earth proper name"],
+            [greekMatcher(), "an Earth-Greek name", foldAccents(line)],
         ]) {
-            for (const m of line.matchAll(re)) {
+            for (const m of (subject ?? line).matchAll(re)) {
                 hits.push({ col: m.index + 1, text: m[0], what });
             }
         }

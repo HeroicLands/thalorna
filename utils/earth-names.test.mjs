@@ -5,7 +5,7 @@
 
 import assert from "node:assert/strict";
 import test from "node:test";
-import { IN_WORLD, findEarthNames, scan } from "./earth-names.mjs";
+import { GREEK_NAMES, IN_WORLD, findEarthNames, scan } from "./earth-names.mjs";
 
 test("an Earth name is found, with its column", () => {
     assert.deepEqual(findEarthNames("a.md", "ok\nas in Scottish loch"), [
@@ -32,6 +32,32 @@ test("the Terran analogs note and terran_analog comments are exempt", () => {
     assert.deepEqual(findEarthNames("assets/content/Reference/Terran_Analogs.md", "Rome"), []);
     assert.deepEqual(findEarthNames("a.md", "# terran_analog: Rome, Norse"), []);
     assert.equal(findEarthNames("a.md", "Rome").length, 1);
+});
+
+test("Earth-Greek given and place names are found, accented or not", () => {
+    assert.deepEqual(findEarthNames("a.md", "ok\nLord Commander Vasilis holds it"), [
+        'a.md:2:16: error: "Vasilis" is an Earth-Greek name',
+    ]);
+    assert.equal(findEarthNames("a.md", "the scribe-houses of Temnos and Kephala").length, 2);
+    assert.equal(findEarthNames("a.md", "Stávros and Anastásios").length, 2);
+    assert.equal(findEarthNames("a.md", "Phótios, Fótios and Eufrasía").length, 3);
+    assert.equal(findEarthNames("a.md", "Melissêna the Elder").length, 1);
+    assert.equal(findEarthNames("a.md", "Fótianos Hodíkot and Grégoras").length, 2);
+    assert.equal(findEarthNames("a.md", "Efthymiópoulos, Ángelides and Patrikîos").length, 3);
+});
+
+test("Earth-Greek names match whole words only, and the setting's own forms pass", () => {
+    assert.equal(findEarthNames("a.md", "Stavrazul and Anastazâde").length, 0);
+    assert.equal(findEarthNames("a.md", "Basilkâr, Chrysandáhr and Nikómarzân").length, 0);
+    assert.equal(findEarthNames("a.md", "Vasilisk").length, 0);
+});
+
+test("the Earth-Greek list is plain, unaccented and free of duplicates", () => {
+    assert.equal(new Set(GREEK_NAMES).size, GREEK_NAMES.length);
+    for (const name of GREEK_NAMES) {
+        assert.equal(name, name.normalize("NFD").replace(/\p{M}/gu, ""), `${name} is accented`);
+        assert.match(name, /^[A-Z][a-z]+$/, `${name} is not a single capitalised word`);
+    }
 });
 
 test("every exemption carries a reason", () => {

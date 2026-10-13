@@ -1,6 +1,6 @@
 ---
 shortcode: klnksprfrkt
-name: {full: Kallínikos Porfyrákit, given: Kallínikos, clan: Porfyrákit, aliases: []}
+name: {full: Bazebos Porfyrákit, given: Bazebos, clan: Porfyrákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -420,29 +420,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[klnksprfrkt|Kallínikos Porfyrákit]]{float=top-left}
+![[klnksprfrkt|Bazebos Porfyrákit]]{float=top-left}
 
-Kallínikos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
+Bazebos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
 
 # Dossier {#dossier}
 
-Born into the Porfyrákit family of minor nobility within the Byzarian League, Kallínikos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
+Born into the Porfyrákit family of minor nobility within the Byzarian League, Bazebos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
 
-By his early thirties, Kallínikos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to genuine danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
+By his early thirties, Bazebos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to genuine danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
 
-Now at thirty-nine, Kallínikos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Byzarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
+Now at thirty-nine, Bazebos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Byzarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
 
 ## Psyche
 
 ### Personality
 
-Kallínikos is a man of genuine charm and infectious enthusiasm. In social settings, he is witty and engaging, his mind making unexpected connections between seemingly disparate subjects. He speaks eloquently about art, geography, history, and philosophy, and his passion for discovery is genuinely compelling. He cultivates relationships carefully, understanding that patronage and partnerships depend on goodwill.
+Bazebos is a man of genuine charm and infectious enthusiasm. In social settings, he is witty and engaging, his mind making unexpected connections between seemingly disparate subjects. He speaks eloquently about art, geography, history, and philosophy, and his passion for discovery is genuinely compelling. He cultivates relationships carefully, understanding that patronage and partnerships depend on goodwill.
 
 However, beneath this polished exterior lies something more driven and potentially reckless. In the field, away from civilized society, he becomes almost feral in his focus—pushing beyond prudent limits, taking risks that seasoned explorers would consider suicidal. There is something almost compulsive about his need to see what lies beyond the next ridge, to chart what others have not. His colleagues sometimes wonder if he is seeking something specific rather than merely exploration for its own sake.
 
 ### Motivation
 
-Kallínikos is driven by the deep human desire to know, to map the unmapped, to leave a legacy of discovery and artistic beauty. On the surface, he seeks to expand the League's knowledge and influence, to create maps so beautiful and comprehensive that they become treasured objects in their own right. Beneath this lies something darker—a conviction that something important awaits discovery on the edges of the known world, something that might change everything. He cannot articulate what he seeks, but he knows with absolute certainty that he will recognize it when he finds it.
+Bazebos is driven by the deep human desire to know, to map the unmapped, to leave a legacy of discovery and artistic beauty. On the surface, he seeks to expand the League's knowledge and influence, to create maps so beautiful and comprehensive that they become treasured objects in their own right. Beneath this lies something darker—a conviction that something important awaits discovery on the edges of the known world, something that might change everything. He cannot articulate what he seeks, but he knows with absolute certainty that he will recognize it when he finds it.
 
 ### Strengths
 
@@ -476,10 +476,10 @@ Lady Investress Calyndra
 ### Enemies
 
 The Orthodox Cartographers' Alliance
-: Conservative practitioners who view Kallínikos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
+: Conservative practitioners who view Bazebos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
 
 The Faceless Warden
-: An entity or individual Kallínikos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
+: An entity or individual Bazebos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
 
 ### Affiliations
 
@@ -491,12 +491,12 @@ The Explorers' Fellowship
 
 ## Plot Hooks
 
-1. **The Disappearing Expedition**: Kallínikos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Kallínikos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
+1. **The Disappearing Expedition**: Bazebos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Bazebos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
 
-2. **Maps That Shouldn't Exist**: Kallínikos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "The Forbidden Archive." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
+2. **Maps That Shouldn't Exist**: Bazebos discovers in an old archive a collection of extraordinarily detailed maps of regions he has never seen, drawn in a style that predates the current age by centuries. The territories depicted no longer exist—or have been lost to time. Among them is a map of his beloved Shadowpeak Mountains, showing a structure or location marked only as "The Forbidden Archive." He must decide whether to attempt to locate the archive, knowing it may be the source of these mysterious maps and possibly the lair of the entity that attacked him.
 
-3. **Rival Mapmakers**: A wealthy merchant house begins employing expeditions specifically to beat Kallínikos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Kallínikos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
+3. **Rival Mapmakers**: A wealthy merchant house begins employing expeditions specifically to beat Bazebos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Bazebos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
 
-4. **The Princess's Commission**: The heir to the Byzarian throne commissions Kallínikos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Kallínikos must decide whether to serve a princess or maintain his independence.
+4. **The Princess's Commission**: The heir to the Byzarian throne commissions Bazebos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Bazebos must decide whether to serve a princess or maintain his independence.
 
-5. **The Cartographer's Curse**: Kallínikos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Kallínikos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.
+5. **The Cartographer's Curse**: Bazebos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Bazebos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.

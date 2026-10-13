@@ -17,7 +17,7 @@ data:
 
 The Eastern March is the frontier district of the [[affiliation-byzarianlg|Byzarian League]] on the desert side of [[place-byzariargn|Byzaría]]—the high passes east of [[affiliation-argyrteikhos|Argýrteíkhos]] and the dry country at their feet, where the League's territory ends and the [[place-khzryndsrtrgn|Khazryn Desert]] begins. It is a march in the old sense: land held not because it is worth anything in itself but because whoever holds it holds the road, and the road is the whole reason the League exists.
 
-Like the League's other marches it is common territory, outside the charter of any city. Its lord is commissioned by the League council in [[affiliation-khryshteikhos|Khrýshteíkhos]] and answers to it; its garrison is drawn from the joint army all five cities raise by conscription; its treasury is the common treasury, fed by the silver of the Argýrteíkhos mines. The present holder of the commission is **Lord Commander Vasilis of the Eastern March**, who has held it for two decades and is by any practical measure the League's senior soldier.
+Like the League's other marches it is common territory, outside the charter of any city. Its lord is commissioned by the League council in [[affiliation-khryshteikhos|Khrýshteíkhos]] and answers to it; its garrison is drawn from the joint army all five cities raise by conscription; its treasury is the common treasury, fed by the silver of the Argýrteíkhos mines. The present holder of the commission is **Lord Commander Mazitos of the Eastern March**, who has held it for two decades and is by any practical measure the League's senior soldier.
 
 ## Geography
 
@@ -35,9 +35,9 @@ The Amradi frontier to the south is a different matter—a border with a neighbo
 
 ## Garrisons and Command
 
-The March's strength is a chain of posts rather than a single army: the way-forts along the pass road, the watchtowers above the mule-tracks, the outer caravanserai-forts on the steppe margin, and a mounted reserve at Argýrteíkhos that can reach any of them within two days. The soldiers are League conscripts—farm boys from the plateau and the coast, serving terms that turn into careers when the aptitude is there—under commissioned captains, many of whom rose from the ranks. [[being-arshzrktkls|Árshazûr Katakálos]], a farmer's son from the Nêsthirian countryside who has held a captaincy in the March garrison for a decade, is the type: competent, respected, and never expected to go home.
+The March's strength is a chain of posts rather than a single army: the way-forts along the pass road, the watchtowers above the mule-tracks, the outer caravanserai-forts on the steppe margin, and a mounted reserve at Argýrteíkhos that can reach any of them within two days. The soldiers are League conscripts—farm boys from the plateau and the coast, serving terms that turn into careers when the aptitude is there—under commissioned captains, many of whom rose from the ranks. [[being-arshzrktkls|Árshazûr Gavios]], a farmer's son from the Nêsthirian countryside who has held a captaincy in the March garrison for a decade, is the type: competent, respected, and never expected to go home.
 
-When the frontier turns critical the Lord Commander contracts mercenaries. [[being-lofrflmds|Lôfáhr Filomédis]] and his company have taken the League's silver for twenty years whenever Vasilis has needed more than conscripts, and the relationship is one of mutual respect on both sides.
+When the frontier turns critical the Lord Commander contracts mercenaries. [[being-lofrflmds|Lôfáhr Vuzaghios]] and his company have taken the League's silver for twenty years whenever Mazitos has needed more than conscripts, and the relationship is one of mutual respect on both sides.
 
 The Lord Commander's command is distinct from the city's: Argýrteíkhos governs itself and keeps its own walls and its own garrison under its military governor, who sits on the League council. The March is everything beyond the city's charter, and the two commands are meant to check each other. In practice they cooperate closely, because they face the same country, and the monks of Argýrteíkhos's eastern-rite monasteries serve both as chroniclers, healers and go-betweens with the peoples beyond the passes.
 
@@ -57,4 +57,4 @@ The March produces silver, tolls and contracts. The mines in the ranges around A
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country it faces
 - [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the neighbor on its southern forks
 - [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]—the League's other marches
-- [[being-arshzrktkls|Árshazûr Katakálos]], [[being-lofrflmds|Lôfáhr Filomédis]]—soldiers of the March
+- [[being-arshzrktkls|Árshazûr Gavios]], [[being-lofrflmds|Lôfáhr Vuzaghios]]—soldiers of the March

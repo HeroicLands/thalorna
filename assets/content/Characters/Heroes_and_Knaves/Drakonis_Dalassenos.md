@@ -1,6 +1,6 @@
 ---
 shortcode: drknsdlsns
-name: {full: Drákonis Dalássênos, given: Drákonis, clan: Dalássênos, aliases: []}
+name: {full: Mivios Zapemês, given: Mivios, clan: Zapemês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -414,31 +414,31 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drknsdlsns|Drákonis Dalássênos]]{float=top-left}
+![[drknsdlsns|Mivios Zapemês]]{float=top-left}
 
-Drákonis stands 6'0" tall with a heavy build. He has tanned ruddy skin, graying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and graying brows.
+Mivios stands 6'0" tall with a heavy build. He has tanned ruddy skin, graying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and graying brows.
 
 # Dossier {#dossier}
 
-Drákonis emerged from the frontier regions of the [[affiliation-byzarianlg|Byzarian League]], born into a family of trappers and hunters who worked the wild edges where civilization met untamed wilderness. His early years were spent learning the languages of animals—the signs that indicate a predator's territory, the weight and pace of a creature's movement, the subtle variations in track patterns that reveal age and condition. By his teens, he was already recognized as unusually gifted, capable of reading landscapes others could not comprehend.
+Mivios emerged from the frontier regions of the [[affiliation-byzarianlg|Byzarian League]], born into a family of trappers and hunters who worked the wild edges where civilization met untamed wilderness. His early years were spent learning the languages of animals—the signs that indicate a predator's territory, the weight and pace of a creature's movement, the subtle variations in track patterns that reveal age and condition. By his teens, he was already recognized as unusually gifted, capable of reading landscapes others could not comprehend.
 
-At twenty-seven, Drákonis ventured beyond the territories familiar to his family, seeking more dangerous prey and greater challenges. The wilderness accepted him, or perhaps more accurately, he learned to move through it with such attunement that he became barely an intruder. Over the next twenty-five years, he developed a reputation as the trapper to call when conventional methods had failed—when dangerous predators proved too intelligent or savage for ordinary hunters, when the wilderness itself seemed to be the adversary rather than merely the location of the hunt.
+At twenty-seven, Mivios ventured beyond the territories familiar to his family, seeking more dangerous prey and greater challenges. The wilderness accepted him, or perhaps more accurately, he learned to move through it with such attunement that he became barely an intruder. Over the next twenty-five years, he developed a reputation as the trapper to call when conventional methods had failed—when dangerous predators proved too intelligent or savage for ordinary hunters, when the wilderness itself seemed to be the adversary rather than merely the location of the hunt.
 
-His encounter with the great bear at age forty-seven nearly ended him. The beast was old, scarred by previous encounters with humans, and intelligently vicious. The battle lasted three days, leaving both combatants broken and scarred. Drákonis survived but was forever changed by the experience—his injuries and recovery seemed to deepen his connection to the wild world and his understanding of predation itself. Since that encounter, he has taken fewer commissions, chosen his work with more deliberation, and seems increasingly reluctant to engage with human civilization at all.
+His encounter with the great bear at age forty-seven nearly ended him. The beast was old, scarred by previous encounters with humans, and intelligently vicious. The battle lasted three days, leaving both combatants broken and scarred. Mivios survived but was forever changed by the experience—his injuries and recovery seemed to deepen his connection to the wild world and his understanding of predation itself. Since that encounter, he has taken fewer commissions, chosen his work with more deliberation, and seems increasingly reluctant to engage with human civilization at all.
 
 ## Psyche
 
 ### Personality
 
-Drákonis is famously taciturn and difficult. He communicates in short, precise statements and seems to find sustained human conversation nearly painful. Those who attempt casual pleasantries in his presence are met with patient but absolute dismissal. Yet the gruff exterior covers a real depth of character—a stoic philosophy that borders on wisdom and a capacity for dark, sardonic humor that surfaces only in the presence of those who have proven themselves worthy of his regard.
+Mivios is famously taciturn and difficult. He communicates in short, precise statements and seems to find sustained human conversation nearly painful. Those who attempt casual pleasantries in his presence are met with patient but absolute dismissal. Yet the gruff exterior covers a real depth of character—a stoic philosophy that borders on wisdom and a capacity for dark, sardonic humor that surfaces only in the presence of those who have proven themselves worthy of his regard.
 
 He is driven by a simple code: fulfill commitments, deal fairly with those who deal fairly with him, and maintain absolute independence from entanglements that would compromise his freedom. This code has been violated exactly once in his life, resulting in consequences he has spent decades attempting to escape. He moves through the world as an observer rather than a participant, finding more kinship with wolves and bears than with human settlements.
 
 ### Motivation
 
-Drákonis pursues his work partly from practical necessity—the wilderness provides his livelihood and sustenance—but primarily from a philosophical conviction that predators are necessary to the health of the wild, not merely tolerable in it. He views his work not as violence against nature but as participation in natural processes, helping to maintain the balance that civilization perpetually threatens to destroy. There is something almost priestly about his approach to hunting and trapping, a reverence for the prey and a belief that the animals he kills are themselves part of a larger understanding of mortality and transformation.
+Mivios pursues his work partly from practical necessity—the wilderness provides his livelihood and sustenance—but primarily from a philosophical conviction that predators are necessary to the health of the wild, not merely tolerable in it. He views his work not as violence against nature but as participation in natural processes, helping to maintain the balance that civilization perpetually threatens to destroy. There is something almost priestly about his approach to hunting and trapping, a reverence for the prey and a belief that the animals he kills are themselves part of a larger understanding of mortality and transformation.
 
-A more personal motivation underlies this: the wilderness is the only place where Drákonis feels fully alive, fully himself. Civilization constrains him, makes him itch with restlessness and disgust. The wild demands nothing of him except competence and respect, and these he can provide. Through his work in the wilderness, he achieves a kind of communion that he has never found in human society.
+A more personal motivation underlies this: the wilderness is the only place where Mivios feels fully alive, fully himself. Civilization constrains him, makes him itch with restlessness and disgust. The wild demands nothing of him except competence and respect, and these he can provide. Through his work in the wilderness, he achieves a kind of communion that he has never found in human society.
 
 ### Strengths
 
@@ -461,24 +461,24 @@ A more personal motivation underlies this: the wilderness is the only place wher
 ### Patrons
 
 Lord Harren of the frontier
-: A regional noble who maintains vast estates and regularly contracts Drákonis to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
+: A regional noble who maintains vast estates and regularly contracts Mivios to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
 
 The Kozna Collective of Woodsmen
-: A loose association of trappers and hunters who, while maintaining distance from Drákonis, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
+: A loose association of trappers and hunters who, while maintaining distance from Mivios, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
 
 Brother Selvak of Ménérva's Monastery
-: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
+: A monk keeper who acknowledges that Mivios's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
 ### Enemies
 
 Provincial Warden Tevik
-: An official tasked with enforcing hunting regulations and game laws, Tevik views Drákonis's disregard for these restrictions as insufferable and has made his arrest a personal mission despite the political complications his capture would create.
+: An official tasked with enforcing hunting regulations and game laws, Tevik views Mivios's disregard for these restrictions as insufferable and has made his arrest a personal mission despite the political complications his capture would create.
 
 The Poacher's Syndicate
-: A criminal organization that controls illegal hunting operations and views Drákonis as a threat to their profits; they have attempted to eliminate him multiple times.
+: A criminal organization that controls illegal hunting operations and views Mivios as a threat to their profits; they have attempted to eliminate him multiple times.
 
 Merchant-Lord Khalideon
-: A wealthy trader whose hunting party was decimated by a great predator; Khalideon blames Drákonis for failing to eliminate the beast beforehand and has sworn vendetta against him.
+: A wealthy trader whose hunting party was decimated by a great predator; Khalideon blames Mivios for failing to eliminate the beast beforehand and has sworn vendetta against him.
 
 ### Affiliations
 
@@ -486,12 +486,12 @@ None (works only on his own account).
 
 ## Plot Hooks
 
-1. **The Impossible Predator**: Drákonis is contracted to hunt a creature that local authorities describe as a massive wolf or perhaps a cursed bear. Investigation reveals that the creature is neither—it is something else entirely, something that moves with intelligence that seems almost human and shows a cunning no animal should have. The tracks suggest it is learning, adapting to Drákonis's methods as he applies them. As the pursuit continues, Drákonis becomes convinced that the creature is not a natural animal at all but something worse—a being from the wildlands that operates by rules he does not yet understand.
+1. **The Impossible Predator**: Mivios is contracted to hunt a creature that local authorities describe as a massive wolf or perhaps a cursed bear. Investigation reveals that the creature is neither—it is something else entirely, something that moves with intelligence that seems almost human and shows a cunning no animal should have. The tracks suggest it is learning, adapting to Mivios's methods as he applies them. As the pursuit continues, Mivios becomes convinced that the creature is not a natural animal at all but something worse—a being from the wildlands that operates by rules he does not yet understand.
 
-2. **The Hunted Hunter**: Drákonis discovers that he himself has become a target for a contract killing, hired by an enemy from his past (possibly related to the great bear and the mark it left on him). The irony is bitter: the greatest tracker now being tracked. The hunter becomes the hunted as Drákonis must use his entire arsenal of wilderness skills to identify who has contracted his death and why. The investigation leads him into circumstances he would ordinarily avoid entirely—cities, courts, political intrigue—where his native skills are far less effective.
+2. **The Hunted Hunter**: Mivios discovers that he himself has become a target for a contract killing, hired by an enemy from his past (possibly related to the great bear and the mark it left on him). The irony is bitter: the greatest tracker now being tracked. The hunter becomes the hunted as Mivios must use his entire arsenal of wilderness skills to identify who has contracted his death and why. The investigation leads him into circumstances he would ordinarily avoid entirely—cities, courts, political intrigue—where his native skills are far less effective.
 
-3. **The Beast's Offspring**: Drákonis is hired to eliminate a large predator, but upon killing it, discovers it is protecting offspring—multiple juvenile creatures of the same species. The contract specified total elimination, but Drákonis finds himself unable to slaughter young animals who are not themselves threats. He attempts to smuggle them to safety, violating his contract and creating a vendetta from the client while simultaneously attracting attention from others who would study or capture the creatures themselves.
+3. **The Beast's Offspring**: Mivios is hired to eliminate a large predator, but upon killing it, discovers it is protecting offspring—multiple juvenile creatures of the same species. The contract specified total elimination, but Mivios finds himself unable to slaughter young animals who are not themselves threats. He attempts to smuggle them to safety, violating his contract and creating a vendetta from the client while simultaneously attracting attention from others who would study or capture the creatures themselves.
 
-4. **The Conservation Revelation**: **Brother Selvak** brings Drákonis evidence suggesting that the dying of the Byzarian League's wilderness regions is not the result of too many predators but of systematic poaching and the clearing of wild land by a syndicate of wealthy merchants. The monk asks Drákonis to help investigate and expose this conspiracy, a task that would require him to engage in civilized methods—documentation, political maneuvering, public revelation—that are entirely contrary to his nature. Yet the alternative is watching the wilderness he reveres destroyed through human greed.
+4. **The Conservation Revelation**: **Brother Selvak** brings Mivios evidence suggesting that the dying of the Byzarian League's wilderness regions is not the result of too many predators but of systematic poaching and the clearing of wild land by a syndicate of wealthy merchants. The monk asks Mivios to help investigate and expose this conspiracy, a task that would require him to engage in civilized methods—documentation, political maneuvering, public revelation—that are entirely contrary to his nature. Yet the alternative is watching the wilderness he reveres destroyed through human greed.
 
-5. **The Great Bear's Return**: Drákonis is hired to investigate sightings of a great bear matching the description of the beast that scarred him seventeen years ago—sightings that should be impossible, as he killed that creature himself, watched it die. Investigation suggests either the original bear somehow survived, or its offspring has inherited its size and power along with its intelligence and its apparent vendetta against Drákonis specifically. As the evidence accumulates, Drákonis becomes increasingly convinced that something spiritual is at play—that the bear is more than an animal, something that cannot be killed through conventional means, and that his conflict with it extends beyond the purely physical.
+5. **The Great Bear's Return**: Mivios is hired to investigate sightings of a great bear matching the description of the beast that scarred him seventeen years ago—sightings that should be impossible, as he killed that creature himself, watched it die. Investigation suggests either the original bear somehow survived, or its offspring has inherited its size and power along with its intelligence and its apparent vendetta against Mivios specifically. As the evidence accumulates, Mivios becomes increasingly convinced that something spiritual is at play—that the bear is more than an animal, something that cannot be killed through conventional means, and that his conflict with it extends beyond the purely physical.

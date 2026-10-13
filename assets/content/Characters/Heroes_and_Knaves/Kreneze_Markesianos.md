@@ -1,6 +1,6 @@
 ---
 shortcode: krnzmrksns
-name: {full: Krênéze Markêsianos, given: Krênéze, clan: Markêsianos, aliases: []}
+name: {full: Krênéze Vokoghis, given: Krênéze, clan: Vokoghis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -416,7 +416,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[krnzmrksns|Krênéze Markêsianos]]{float=top-left}
+![[krnzmrksns|Krênéze Vokoghis]]{float=top-left}
 
 Krênéze stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, and dark brows.
 
@@ -424,7 +424,7 @@ Krênéze stands 5'8" tall with a light build. She has golden-toned skin, dark b
 
 **Daughter of Artisans**
 
-Krênéze was born in the coastal city of Byzaris to parents who were themselves hideworkers of considerable skill. Her mother, **Theodaríza Markêsianos**, specialized in the creation of fine leather clothing for nobility, while her father, **Basilkâr**, was known for his decorative leather work and tooling. From her earliest years, Krênéze was surrounded by the smell of tanning vats, the textures of supple leather, and the complex vocabulary of her parents' craft. Unlike many children who inherit their parents' trade out of obligation, Krênéze fell in love with the work almost immediately.
+Krênéze was born in the coastal city of Byzaris to parents who were themselves hideworkers of considerable skill. Her mother, **Theodaríza Vokoghis**, specialized in the creation of fine leather clothing for nobility, while her father, **Yorodkâr**, was known for his decorative leather work and tooling. From her earliest years, Krênéze was surrounded by the smell of tanning vats, the textures of supple leather, and the complex vocabulary of her parents' craft. Unlike many children who inherit their parents' trade out of obligation, Krênéze fell in love with the work almost immediately.
 
 Her childhood was spent in the workshop, initially at menial tasks—cleaning tools, preparing dyes, running errands—but gradually being inducted into the secrets of the craft. Her mother taught her the fundamental skills: how to assess the quality of raw hides, how to work with vegetable tanning processes, how to achieve the precise textures and finishes that distinguished their work from common production. Her father, however, taught her something rarer: the art of design and decoration. He showed her how leather could be carved, stained, and ornamented to create clothing that was also wearable art.
 
@@ -482,8 +482,8 @@ Krênéze seeks to elevate hideworking from the status of a mere trade to that o
 
 ### Patrons
 
-Lady Theodora Kallisthenes
-: A wealthy widow and patron of the arts who has become Krênéze's most consistent and generous patron. Theodora commissions regular pieces from Krênéze and has begun to introduce her work to other members of the city's artistic and intellectual circles.
+Lady Ghodîa Stilogis
+: A wealthy widow and patron of the arts who has become Krênéze's most consistent and generous patron. Ghodîa commissions regular pieces from Krênéze and has begun to introduce her work to other members of the city's artistic and intellectual circles.
 
 The Merchant Queens' Collective
 : An informal network of successful female merchants and business owners who have collectively commissioned several pieces from Krênéze and who actively promote her work within their circles.
@@ -493,7 +493,7 @@ High Priestess Irene of Ólvenía
 
 ### Enemies
 
-Master Anastásios of the Hideworkers' Guild
+Master Raghumon of the Hideworkers' Guild
 : The formal master of the guild who views Krênéze's independence and her rejection of traditional apprenticeship structures as a threat to the guild's authority and coherence. He has attempted to pressure her into formally joining the guild and submitting to its regulations.
 
 Competing Male Hideworkers
@@ -512,12 +512,12 @@ The Women's Artistic Collective
 
 ## Plot Hooks
 
-1. **The Collector's Commission**: A wealthy collector from a distant city arrives in Byzaris searching for Krênéze Markêsianos specifically. This person—known only as **The Antiquary**—is willing to pay an unprecedented sum for Krênéze to undertake a commission that is deeply unusual: to recreate a set of ceremonial leather garments from ancient texts and fragments, garments that supposedly held significant magical or spiritual power. The Antiquary claims to have sources that indicate what these garments looked like and roughly how they were constructed, but the project will require Krênéze to work with materials and techniques that go beyond her current knowledge. More troublingly, The Antiquary seems to know things about Krênéze's family history and her parents' work that suggest they may have been involved in creating similar items in the past—items her parents never mentioned to her.
+1. **The Collector's Commission**: A wealthy collector from a distant city arrives in Byzaris searching for Krênéze Vokoghis specifically. This person—known only as **The Antiquary**—is willing to pay an unprecedented sum for Krênéze to undertake a commission that is deeply unusual: to recreate a set of ceremonial leather garments from ancient texts and fragments, garments that supposedly held significant magical or spiritual power. The Antiquary claims to have sources that indicate what these garments looked like and roughly how they were constructed, but the project will require Krênéze to work with materials and techniques that go beyond her current knowledge. More troublingly, The Antiquary seems to know things about Krênéze's family history and her parents' work that suggest they may have been involved in creating similar items in the past—items her parents never mentioned to her.
 
 2. **The Contested Inheritance**: After her father's death, Krênéze inherits his workshop and with it a collection of his personal papers and unfinished projects. Among these, she discovers a series of elaborate leather pieces in various stages of completion—pieces so beautiful and technically accomplished that they rival her own best work. She also discovers journals indicating that her father was working on these pieces for a specific, secret purpose related to an organization or individual he never mentioned. As she investigates, she learns that there are people actively searching for these pieces, people who are willing to pay significant sums or resort to less savory methods to acquire them. Krênéze can sell these works, complete them herself, or investigate further to learn what role they were meant to play.
 
 3. **The Artistic Competition**: The city of Byzaris announces a grand artistic competition and festival celebrating craftsmanship in all disciplines. Participating artists will have the opportunity to display their work before the city's most influential patrons and intellectuals. Krênéze is encouraged by her supporters to enter, and with great trepidation, she agrees. However, she soon discovers that several other hideworkers—all male, all established members of the guild—are also entering, and they view her participation as an affront. They begin to spread rumors that her work is derivative, that she has stolen techniques from her father, that she is not a true craftsperson but merely a merchant repackaging men's work. More dangerously, someone breaks into her workshop and damages several of her competition pieces. She can withdraw or continue with the competition despite the sabotage, and she can confront her rivals openly or pursue her goals in spite of them.
 
-4. **The Guild's Offer**: Master Anastásios of the Hideworkers' Guild approaches Krênéze with an unexpected proposal: the guild will formally acknowledge her as a master artisan and will offer her a seat on the guild council if she agrees to take on an official role training apprentices within the guild structure and to sign an agreement that any new techniques she develops will be shared with the guild. The offer comes with substantial benefits and recognition, but it also represents a significant constraint on her independence and would require her to work within the traditional hierarchy that has been the source of so much conflict. As she considers the offer, she learns that the guild's sudden willingness to compromise comes from pressure from her patrons and supporters in the broader community—but she also discovers that Master Anastásios may be acting without the full support of the guild's council, and that some members actively oppose the concession.
+4. **The Guild's Offer**: Master Raghumon of the Hideworkers' Guild approaches Krênéze with an unexpected proposal: the guild will formally acknowledge her as a master artisan and will offer her a seat on the guild council if she agrees to take on an official role training apprentices within the guild structure and to sign an agreement that any new techniques she develops will be shared with the guild. The offer comes with substantial benefits and recognition, but it also represents a significant constraint on her independence and would require her to work within the traditional hierarchy that has been the source of so much conflict. As she considers the offer, she learns that the guild's sudden willingness to compromise comes from pressure from her patrons and supporters in the broader community—but she also discovers that Master Raghumon may be acting without the full support of the guild's council, and that some members actively oppose the concession.
 
 5. **The Sacred Commission**: A representative of a major temple approaches Krênéze with a commission unlike any she has undertaken before: to create a set of sacred leather vestments for use in important religious rituals. The vestments are to be created according to specifications provided by the temple's highest priesthood, and the project is spiritual as well as artistic. The compensation offered is substantial and the commission would cement her reputation as a master artisan of the highest order. However, as she begins the work, she discovers that the garments may be designed for something beyond ceremony—perhaps ritual magic or spiritual transformation.

@@ -497,12 +497,12 @@ rival faction
    - **Negotiating with Tribes**: Euthálash must navigate the complex relationships between the desert tribes, using his diplomacy to secure their loyalty or at least permission to seek the relic.
    - **Outwitting Rivals**: Guilded Talon and rival desert lords are also searching for the relic. Euthálash must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
 
-3. **Flames of Ambition: A Rival Diplomat**: A rival diplomat from Vylaria—**Theofylákar Drachenos**, a former acquaintance of Euthálash—has risen to prominence within the empire and is now working for a faction that opposes Kallistratos’ efforts. Theofylákar’s charm and wit rival Euthálash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+3. **Flames of Ambition: A Rival Diplomat**: A rival diplomat from Vylaria—**Ponákar Drachenos**, a former acquaintance of Euthálash—has risen to prominence within the empire and is now working for a faction that opposes Kallistratos’ efforts. Ponákar’s charm and wit rival Euthálash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
 
-   Theofylákar’s latest mission is to turn key Vylarian nobles against Kallistratos, convincing them that his pursuit of fire magic is dangerous. Euthálash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
-   - **Diplomatic Duel**: The core of the conflict is a battle of words between Euthálash and Theofylákar, each trying to sway influential nobles to their side. Euthálash must use his charm, political knowledge, and connections to outmaneuver Theofylákar.
-   - **Political Intrigue**: Theofylákar may resort to underhanded tactics—blackmail, bribery, or even assassination attempts. Euthálash must uncover and counter these plots while ensuring his own position remains strong.
-   - **Turning the Tide**: If Euthálash can outplay Theofylákar, he may even be able to turn the opposing nobles into allies for Kallistratos, securing a major political victory and weakening the opposition’s power base.
+   Ponákar’s latest mission is to turn key Vylarian nobles against Kallistratos, convincing them that his pursuit of fire magic is dangerous. Euthálash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
+   - **Diplomatic Duel**: The core of the conflict is a battle of words between Euthálash and Ponákar, each trying to sway influential nobles to their side. Euthálash must use his charm, political knowledge, and connections to outmaneuver Ponákar.
+   - **Political Intrigue**: Ponákar may resort to underhanded tactics—blackmail, bribery, or even assassination attempts. Euthálash must uncover and counter these plots while ensuring his own position remains strong.
+   - **Turning the Tide**: If Euthálash can outplay Ponákar, he may even be able to turn the opposing nobles into allies for Kallistratos, securing a major political victory and weakening the opposition’s power base.
 
 4. **The Guilded Talon’s Subversion**: The **Guilded Talon** has been spreading rumors about Kallistratos across Velysâra and other regions. These rumors are beginning to gain traction in Vylaria, threatening to cut off Kallistratos from the vital support he needs.
 

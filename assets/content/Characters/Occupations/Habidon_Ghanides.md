@@ -402,7 +402,7 @@ Habìdon occupies an unusual social position within Heliónis: respected for his
 
 ### Patrons
 
-**Admiral Kyrtos Pelagos**—The senior naval commander overseeing Habìdon's current detachment. Kyrtos is an officer of long service who recognizes Habìdon's value and has explicitly protected him from promotion pressure, understanding that Habìdon is far more useful as a senior marine than as a reluctant officer. Kyrtos has also seen to it that Habìdon's service record is exemplary, which will mean a strong pension when he retires.
+**Admiral Kyrtos Fozuros**—The senior naval commander overseeing Habìdon's current detachment. Kyrtos is an officer of long service who recognizes Habìdon's value and has explicitly protected him from promotion pressure, understanding that Habìdon is far more useful as a senior marine than as a reluctant officer. Kyrtos has also seen to it that Habìdon's service record is exemplary, which will mean a strong pension when he retires.
 
 ### Enemies
 

@@ -460,7 +460,7 @@ Kal√≠da is driven by a vision of pushing the boundaries of what pottery can be‚Ä
 
 ### Patrons
 
-Lord Archon Theodorus
+Lord Archon Gabinos
 : A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
 
 The Byzarian Merchant Consortium

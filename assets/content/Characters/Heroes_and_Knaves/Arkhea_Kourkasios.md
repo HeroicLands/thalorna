@@ -470,7 +470,7 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 Mother Superior Thessala of the House of Flórania
 : The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhêa. They share a spiritual understanding despite their vastly different circumstances.
 
-Merchant's Widow Helena Margikos
+Merchant's Widow Kraria Margikos
 : A wealthy woman whose sense of guilt over her comfortable life occasionally manifests as support for street-dwellers. She knows Arkhêa by name and sometimes provides coin or shelter.
 
 Young Scholar Dmitris
@@ -481,7 +481,7 @@ Young Scholar Dmitris
 The Brass Knuckles
 : A crew of street thugs led by a brutal enforcer named **Rahvárion** who run extortion rackets against beggars. They have beaten Arkhêa multiple times for "protection" money she could not pay.
 
-Stefanárzan
+Zerárzan
 : An official who views beggars as urban blight to be removed. He has had Arkhêa arrested multiple times for vagrancy, each arrest more brutal than the last.
 
 ### Affiliations

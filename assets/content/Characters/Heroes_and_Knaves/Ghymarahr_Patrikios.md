@@ -1,6 +1,6 @@
 ---
 shortcode: ghymrhrptrks
-name: {full: Ghymâráhr Patrikîos, given: Ghymâráhr, clan: Patrikîos, aliases: []}
+name: {full: Ghymâráhr Rorês, given: Ghymâráhr, clan: Rorês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -417,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ghymrhrptrks|Ghymâráhr Patrikîos]]{float=top-left}
+![[ghymrhrptrks|Ghymâráhr Rorês]]{float=top-left}
 
 Ghymâráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: dkhhrnbsrn
-name: {full: Dókhéhran Bessarîon, given: Dókhéhran, clan: Bessarîon, aliases: []}
+name: {full: Dókhéhran Fefês, given: Dókhéhran, clan: Fefês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, guilded, mages]
@@ -416,7 +416,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dkhhrnbsrn|Dókhéhran Bessarîon]]{float=top-left}
+![[dkhhrnbsrn|Dókhéhran Fefês]]{float=top-left}
 
 Dókhéhran stands 5'5" tall with a light build. She has warm olive skin, black hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a pronounced chin, strong brows, and sculpted cheeks.
 
@@ -426,7 +426,7 @@ Dókhéhran stands 5'5" tall with a light build. She has warm olive skin, black 
 
 ### Early Mastery
 
-Born into the distinguished Bessarîon merchant family of [[place-byzaris|Byzaris]], the wealthiest city of the Byzarian League, Dókhéhran demonstrated an uncanny affinity for the arcane from her earliest years. While her siblings learned commerce and trade, she filled the family library's margins with translations of ancient texts, much to her parents' bewilderment and concern. At thirteen, she formally petitioned the [[affiliation-panepistmm|Panepistemium]] for apprenticeship—an extraordinary acceptance that bypassed the usual age of entry and marked her as extraordinary. Her Epistemium masters recognized immediately that she possessed genius rather than mere curiosity—a mind attuned to the hidden frequencies of magical reality itself, with particular brilliance in pattern-recognition and linguistic analysis.
+Born into the distinguished Fefês merchant family of [[place-byzaris|Byzaris]], the wealthiest city of the Byzarian League, Dókhéhran demonstrated an uncanny affinity for the arcane from her earliest years. While her siblings learned commerce and trade, she filled the family library's margins with translations of ancient texts, much to her parents' bewilderment and concern. At thirteen, she formally petitioned the [[affiliation-panepistmm|Panepistemium]] for apprenticeship—an extraordinary acceptance that bypassed the usual age of entry and marked her as extraordinary. Her Epistemium masters recognized immediately that she possessed genius rather than mere curiosity—a mind attuned to the hidden frequencies of magical reality itself, with particular brilliance in pattern-recognition and linguistic analysis.
 
 ### Scholarly Pursuits and Dangerous Experiments
 
@@ -475,7 +475,7 @@ Praelatus Aleksandr of the Zephäris Sodalitas
 
 ### Enemies
 
-Magister Prokopáhr Varthis
+Magister Dramáhr Varthis
 : A conservative member of the Sodalitas Physéra whose theoretical work on the stability of ancient magical foundations Dókhéhran publicly discredited in print five years ago, devastating his reputation and prospects. **Varthis** has spent those years cultivating allies within the Epistemium's leadership, gathering what he claims is evidence of dangerous methodological flaws in her work and mounting a systematic campaign to discredit her scholarship. His vendetta has evolved from academic disagreement into something more personal and institutional.
 
 The Keepers of the Sealed Archive
@@ -492,7 +492,7 @@ The Keepers of the Sealed Archive
 
 2. **Patron's Hidden Agenda**: **Lord Mikhael Verath** reveals to the party (but not initially to Dókhéhran) that his support for her work is not purely academic—he is a representative of an exiled faction seeking to use recovered ancient magical knowledge to restructure power within the Byzarian League and potentially beyond. He demands that Dókhéhran create a specific ritual from her research—one that could disrupt the carefully maintained balance between the five merchant cities and destabilize the entire League's structure. The party can warn Dókhéhran and help her escape Verath's influence, negotiate with Verath to understand his true objectives, or undertake the dangerous task of investigating whether Verath's ambitions might actually be justified by the truth of what happened to the ancient kingdoms.
 
-3. **The Heresy Trial**: Magister **Prokopáhr Varthis**, allied with the Keepers of the Sealed Archive, finally convinces the Epistemium's leadership to open a formal inquiry into Dókhéhran's publications and research, claiming she has violated fundamental prohibitions against certain categories of inquiry and that her work risks breaching wards that seal away dangerous knowledge. Dókhéhran asks the party to help her gather evidence and witnesses to her defense, but their investigation uncovers deeply uncomfortable truths: her latest ritual—conducted in a sealed vault beneath the Flórania Temple—did accidentally destabilize a seal that has kept something imprisoned for centuries. That "something" may be a real threat, or merely what the Keepers want the Epistemium to believe. The party must deal with scholarly politics, forbidden magic, and the terrifying possibility that Dókhéhran's work may have threatened something that the Epistemium's leadership has kept hidden.
+3. **The Heresy Trial**: Magister **Dramáhr Varthis**, allied with the Keepers of the Sealed Archive, finally convinces the Epistemium's leadership to open a formal inquiry into Dókhéhran's publications and research, claiming she has violated fundamental prohibitions against certain categories of inquiry and that her work risks breaching wards that seal away dangerous knowledge. Dókhéhran asks the party to help her gather evidence and witnesses to her defense, but their investigation uncovers deeply uncomfortable truths: her latest ritual—conducted in a sealed vault beneath the Flórania Temple—did accidentally destabilize a seal that has kept something imprisoned for centuries. That "something" may be a real threat, or merely what the Keepers want the Epistemium to believe. The party must deal with scholarly politics, forbidden magic, and the terrifying possibility that Dókhéhran's work may have threatened something that the Epistemium's leadership has kept hidden.
 
 4. **Voices in the Archive**: Dókhéhran begins to experience increasingly vivid and coherent psychic contact with an intelligence that claims to be the preserved consciousness of an ancient Helionite archivist—one of the great scholars of the kingdoms that fell. This entity offers her knowledge in exchange for performing a series of increasingly complex rituals to restore communication across the rifts that fragmented the ancient civilization. The party slowly realizes that the "archivist" may be something far older and far more alien, or that Dókhéhran's interpretation of the contact may be dangerously distorted. She may have made binding agreements to something she doesn't fully understand. They must walk the fine line between supporting her scholarly breakthrough and breaking her free of a dangerous influence before she completes the final ritual—one that could have catastrophic consequences for the present order of the Byzarian League and beyond.
 

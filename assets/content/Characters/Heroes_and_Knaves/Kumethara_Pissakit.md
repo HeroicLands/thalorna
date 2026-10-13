@@ -426,7 +426,7 @@ Kûmêthâra stands 5'10" tall with a medium build. She has golden-toned skin, a
 
 # Dossier {#dossier}
 
-Kûmêthâra was born into the Pissákit family in the heavily forested regions of the [[affiliation-byzarianlg|Byzarian League]], in a village built literally within the forest itself. Her father, **Alexáhran Pissákit**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kûmêthâra was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kûmêthâra showed early aptitude for woodcraft.
+Kûmêthâra was born into the Pissákit family in the heavily forested regions of the [[affiliation-byzarianlg|Byzarian League]], in a village built literally within the forest itself. Her father, **Khodegáhran Pissákit**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kûmêthâra was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kûmêthâra showed early aptitude for woodcraft.
 
 Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Kûmêthâra took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
@@ -464,14 +464,14 @@ Kûmêthâra is driven by a profound love for the forests of her homeland and a 
 
 ### Patrons
 
-Master Carpenter Eustrátiash Athanaskâr
+Master Carpenter Eustrátiash Pimokhkâr
 : A renowned furniture maker who commissions Kûmêthâra specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
 
 The Architects' Collective of the Byzarian League
 : A group of progressive builders committed to sustainable construction. They seek Kûmêthâra's timber for high-profile projects and trust her judgment on material selection.
 
 The Monastery of Silent Waters
-: A religious community in the forest that employs Kûmêthâra to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
+: A religious community in the forest that employs Kûmêthâra to manage their woodlands sustainably while generating income. The head priest, **Father Yuvês**, shares her conservation philosophy.
 
 ### Enemies
 
@@ -498,7 +498,7 @@ The Forest Stewards' Council
 
 2. **The Poisoned Forest**: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kûmêthâra's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
-3. **The Apprentice Question**: A young woman, **Nargizán Eudokáhr**, seeks to apprentice with Kûmêthâra, claiming spiritual calling and genuine skill. Kûmêthâra would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kûmêthâra's work.
+3. **The Apprentice Question**: A young woman, **Nargizán Fulunáhr**, seeks to apprentice with Kûmêthâra, claiming spiritual calling and genuine skill. Kûmêthâra would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kûmêthâra's work.
 
 4. **The Lost Technique**: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kûmêthâra, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
 

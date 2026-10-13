@@ -48,7 +48,7 @@ Season decides the journey. The eastern passes are snowbound from late autumn to
 
 The League governs only three districts directly, and they are the ones nobody else wants: the border country. Each march lies outside every city's charter, under a lord the League council commissions and can dismiss, garrisoned by conscripts all five cities raise, and paid from the common treasury and the silver of Argýrteíkhos. The marches exist because the cities distrust one another: a frontier held by any one city would make it master of the rest.
 
-The [[place-eastrnmrch|Eastern March]] runs downhill from Argýrteíkhos's eastern gate into the steppe margin of the [[place-khzryndsrtrgn|Khazryn]]. Way-forts stand a day's march apart on the paved pass road, and every spring in the foothills has a fort, a shrine or a caravanserai built on it. **Lord Commander Vasilis** has held the March for two decades and is the League's senior soldier. Steppe raiders are the constant trouble, and a great khanate rising in the desert is the reason the walls are so thick. In the high passes above Órashion live the **Vezhnûr holds**, warrior clans outside any charter whom the League tolerates as its eastern shield.
+The [[place-eastrnmrch|Eastern March]] runs downhill from Argýrteíkhos's eastern gate into the steppe margin of the [[place-khzryndsrtrgn|Khazryn]]. Way-forts stand a day's march apart on the paved pass road, and every spring in the foothills has a fort, a shrine or a caravanserai built on it. **Lord Commander Mazitos** has held the March for two decades and is the League's senior soldier. Steppe raiders are the constant trouble, and a great khanate rising in the desert is the reason the walls are so thick. In the high passes above Órashion live the **Vezhnûr holds**, warrior clans outside any charter whom the League tolerates as its eastern shield.
 
 The [[place-southrnmrch|Southern March]] is dry pastoral upland on the road from Karvashion toward Dunhara, and its southern edge is the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], which runs the whole length of the League's south: a line of hills and customs posts crossed daily by drovers and smugglers both ways. [[being-vaskan|Lord Vaskan]] holds it from the saddle, and his hunts are its political season: merchant-princes and envoys ride after boar and gazelle with his hounds, hawks and coursing cats, and settle more League business around his fires than the council does in half its sessions.
 
@@ -130,7 +130,7 @@ WHERE type = 'being'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-In the Eastern March, [[being-arshzrktkls|Árshazûr Katakálos]] has held a garrison captaincy for a decade, and the mercenary [[being-lofrflmds|Lôfáhr Filomédis]] has taken the League's silver for twenty years. [[being-orshkrnlkt|Órashkâr Naulákit]], a teamster of Chrysamar, refused to pay the **Ravenswood Brigands** their tribute on the eastern routes and has been paying for it since.
+In the Eastern March, [[being-arshzrktkls|Árshazûr Gavios]] has held a garrison captaincy for a decade, and the mercenary [[being-lofrflmds|Lôfáhr Vuzaghios]] has taken the League's silver for twenty years. [[being-orshkrnlkt|Órashkâr Naulákit]], a teamster of Chrysamar, refused to pay the **Ravenswood Brigands** their tribute on the eastern routes and has been paying for it since.
 
 ## Ways In
 
@@ -141,7 +141,7 @@ At the first toll post, ask three questions: **Whose seal is on your load? Who i
 Campaigns here start well from a contract. A house hires the party to escort a caravan whose terms specify the arrival date to the day. An arbitrator needs a witness found before the hearing. A guild master's seal has turned up on goods his guild never made. A shipment of **Merchant House Valdris** has vanished on the eastern routes with no wreckage, no bodies and no sign of a struggle, and the Ravenswood Brigands are blamed for it.
 
 :::secret
-**For the GM:** What House Chrysákit's letter does not mention: twenty-six years ago a local lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take the village of [[place-trianthion|Trianthion]], and by nightfall every adult there was dead. The company collected its rate and the lord paid without comment. The Iron Wolves keep their compound outside [[place-veridon|Veridon]], they are the work the League prefers not to admit buying, and a survivor who testified in public would force the League to act. The company's most famous deserter, [[being-ghymrhrptrks|Ghymâráhr Patrikîos]], is still being hunted.
+**For the GM:** What House Chrysákit's letter does not mention: twenty-six years ago a local lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take the village of [[place-trianthion|Trianthion]], and by nightfall every adult there was dead. The company collected its rate and the lord paid without comment. The Iron Wolves keep their compound outside [[place-veridon|Veridon]], they are the work the League prefers not to admit buying, and a survivor who testified in public would force the League to act. The company's most famous deserter, [[being-ghymrhrptrks|Ghymâráhr Rorês]], is still being hunted.
 :::
 
 :::secret

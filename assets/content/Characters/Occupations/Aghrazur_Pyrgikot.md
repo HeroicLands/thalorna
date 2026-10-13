@@ -402,7 +402,7 @@ His combat ability is exceptional, honed through years of actual field experienc
 
 ### Patrons
 
-**Master Merchant Theodor Kantakouzenios**—A wealthy merchant who has retained Ághrazûr for significant operations over the past five years. Theodor recognizes Ághrazûr's value and pays generously, but more importantly, he does not attempt to micromanage or demand unnecessary risks. Their relationship is purely professional, but Theodor has begun suggesting that Ághrazûr consider permanent employment with his merchant house—a position that would provide wealth and security beyond what freelance work offers.
+**Master Merchant Storon Kantakouzenios**—A wealthy merchant who has retained Ághrazûr for significant operations over the past five years. Storon recognizes Ághrazûr's value and pays generously, but more importantly, he does not attempt to micromanage or demand unnecessary risks. Their relationship is purely professional, but Storon has begun suggesting that Ághrazûr consider permanent employment with his merchant house—a position that would provide wealth and security beyond what freelance work offers.
 
 ### Enemies
 

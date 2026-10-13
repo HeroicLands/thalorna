@@ -1,6 +1,6 @@
 ---
 shortcode: lofrflmds
-name: {full: Lôfáhr Filomédis, given: Lôfáhr, clan: Filomédis, aliases: []}
+name: {full: Lôfáhr Vuzaghios, given: Lôfáhr, clan: Vuzaghios, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -412,7 +412,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lofrflmds|Lôfáhr Filomédis]]{float=top-left}
+![[lofrflmds|Lôfáhr Vuzaghios]]{float=top-left}
 
 Lôfáhr stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 
@@ -464,13 +464,13 @@ Lôfáhr no longer fights merely for gold, though he insists this to himself and
 
 ### Patrons
 
-Lord Commander Vasilis of the [[place-eastrnmrch|Eastern March]]
+Lord Commander Mazitos of the [[place-eastrnmrch|Eastern March]]
 : A powerful nobleman who contracts Lôfáhr whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
 
 Merchant Consortium of the Golden Coast
 : Several trading families maintain Lôfáhr under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
 
-Duke Stávron Pylíkot
+Duke Ramikhios Pylíkot
 : An aging but still-powerful aristocrat who employs Lôfáhr for sensitive security work, often involving protection from internal conspiracies within the court.
 
 ### Enemies
@@ -496,7 +496,7 @@ The Order of Árdavon (Order Aspect)
 
 1. **The Contract Nobody Should Take**: A mysterious client offers Lôfáhr an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Lôfáhr investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
 
-2. **The Deserter's Daughter**: A young woman approaches Lôfáhr claiming to be the daughter of **Langárion Kyriákash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Lôfáhr to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
+2. **The Deserter's Daughter**: A young woman approaches Lôfáhr claiming to be the daughter of **Langárion Votash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Lôfáhr to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
 
 3. **The Redemption Contract**: A noble priest of Árdavon approaches Lôfáhr with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Lôfáhr discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
 

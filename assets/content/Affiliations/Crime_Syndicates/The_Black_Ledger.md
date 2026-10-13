@@ -94,7 +94,7 @@ Among working members, the principal informal distinction is between **cartograp
 
 ## Notable Members
 
-- **Master [[being-damklsmpsn|Damáklios Sampsiôn]]**—long-standing Ledger member. He maintains contact with the network as insurance and alternative income source even as his guild work has come under formal suspicion.
+- **Master [[being-damklsmpsn|Damáklios Bridutis]]**—long-standing Ledger member. He maintains contact with the network as insurance and alternative income source even as his guild work has come under formal suspicion.
 - **The senior coordinators**—unnamed; their identities are protected by the Ledger's structure and by the absence of any document that would record them.
 
 ## Practice and Specialties

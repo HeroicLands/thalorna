@@ -1,6 +1,6 @@
 ---
 shortcode: drshkrplytms
-name: {full: Dôrashkâr Polytimós, given: Dôrashkâr, clan: Polytimós, aliases: []}
+name: {full: Dôrashkâr Tredis, given: Dôrashkâr, clan: Tredis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -415,7 +415,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drshkrplytms|Dôrashkâr Polytimós]]{float=top-left}
+![[drshkrplytms|Dôrashkâr Tredis]]{float=top-left}
 
 Dôrashkâr stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
 
@@ -469,7 +469,7 @@ Dôrashkâr is driven by the conviction that food is one of humanity's greatest 
 ### Patrons
 
 The Proprietor of the Copper Kettle
-: His employer, **Merchant-Master Basilíon**, trusts him completely and defers to his judgment on all kitchen matters. Basilíon has invested significantly in the kitchen and treats Dôrashkâr almost as a partner.
+: His employer, **Merchant-Master Hidukôn**, trusts him completely and defers to his judgment on all kitchen matters. Hidukôn has invested significantly in the kitchen and treats Dôrashkâr almost as a partner.
 
 Wealthy Merchant Families
 : Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Dôrashkâr's cooking and have requested private catering for their events.
@@ -498,7 +498,7 @@ Informal Network of Master Cooks
 
 ## Plot Hooks
 
-1. **The Lost Recipe of the Ages**: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but genuine magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Fotianazûr**, seeks Dôrashkâr's help to reconstruct and test these ancient recipes. Success could elevate Dôrashkâr's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
+1. **The Lost Recipe of the Ages**: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but genuine magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Ghupifazûr**, seeks Dôrashkâr's help to reconstruct and test these ancient recipes. Success could elevate Dôrashkâr's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
 
 2. **The Culinary Competition**: The Council of the Byzarian League announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dôrashkâr's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
 

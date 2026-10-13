@@ -20,7 +20,7 @@ Selímara is a market town of about 5,000 on the inland roads of [[place-byzaria
 
 ## Who Lives Here
 
-Two of the people in the character notes call Selímara home: [[being-morzhrxylkt|Morzáhr Xylákit]], a timberwright, and [[being-alykosmpsn|Alýkos Sampsiôn]], a physician.
+Two of the people in the character notes call Selímara home: [[being-morzhrxylkt|Morzáhr Xylákit]], a timberwright, and [[being-alykosmpsn|Alýkos Bridutis]], a physician.
 
 ## See Also
 

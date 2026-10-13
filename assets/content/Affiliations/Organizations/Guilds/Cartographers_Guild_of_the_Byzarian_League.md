@@ -69,7 +69,7 @@ The guild keeps the **Cartographic Archive** in Byzaría, the central repository
 
 ## Notable Members
 
-- Master [[being-damklsmpsn|Damáklios Sampsiôn]]—among the finest cartographers in the known world, suspected by the League's city guard of espionage. The investigation is ongoing.
+- Master [[being-damklsmpsn|Damáklios Bridutis]]—among the finest cartographers in the known world, suspected by the League's city guard of espionage. The investigation is ongoing.
 - Master **Vésalon** (deceased)—mentor of Damáklios, famous for the dictum, _the map is not the territory but the territory is judged against the map._
 - Master **Méchon**—a younger, jealous talent, cultivating relationships with the city guard and quietly spreading insinuations against Damáklios. Méchon's motives are not entirely pure: he hopes to inherit Damáklios's commissions and is not above hastening the outcome.
 
@@ -94,6 +94,6 @@ A guild master's seal is a brass die carrying the master's personal mark and the
 ## Plot Hooks
 
 - _The Archive Theft._ Several classical maps have disappeared from the Cartographic Archive, and others have been copied. The leadership must investigate without alerting the spy network that is almost certainly inside the building.
-- _The Master's Trial._ Master Damáklios Sampsiôn is brought before the Council of Masters on charges of selling guild work to foreign agents. The Council is divided: some want to make an example of him, some want a quiet expulsion to avoid scandal, and some are themselves compromised and want the trial to disappear.
+- _The Master's Trial._ Master Damáklios Bridutis is brought before the Council of Masters on charges of selling guild work to foreign agents. The Council is divided: some want to make an example of him, some want a quiet expulsion to avoid scandal, and some are themselves compromised and want the trial to disappear.
 - _The Apprentice's Discovery._ A first-year apprentice, tasked with cataloguing old surveys, notices that three "independent" maps of the same coast are in fact tracings of one common source. The original is signed by a master long dead, and the discovery threatens to unravel three generations of falsified work.
 - _The Reform Vote._ The Council debates new protocols requiring all sealed maps to be reviewed by a second master before delivery. The reform would cripple the espionage trade, and several Council seats would lose substantial private income. The vote will be very close.

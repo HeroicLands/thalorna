@@ -1,6 +1,6 @@
 ---
 shortcode: plnthshplytms
-name: {full: Plánthash Polytimós, given: Plánthash, clan: Polytimós, aliases: []}
+name: {full: Plánthash Tredis, given: Plánthash, clan: Tredis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -413,7 +413,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[plnthshplytms|Plánthash Polytimós]]{float=top-left}
+![[plnthshplytms|Plánthash Tredis]]{float=top-left}
 
 Plánthash stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, a wide mouth, dark brows, sculpted cheeks.
 
@@ -461,7 +461,7 @@ Plánthash is driven by a desire to leave a mark upon his craft that transcends 
 Captain Merillos
 : The merchant captain who trained him in youth and remains his closest professional contact, regularly requesting Plánthash for important commissions and vouching for his reliability to other vessel owners.
 
-Merchant House Polytimós
+Merchant House Tredis
 : A trading concern that occasionally employs him for high-value cargo transport, respecting the family name connection and the competence he represents.
 
 The Harbor Master of [[place-thessalon|Thessálon]]

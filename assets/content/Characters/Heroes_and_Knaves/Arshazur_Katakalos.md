@@ -1,6 +1,6 @@
 ---
 shortcode: arshzrktkls
-name: {full: Árshazûr Katakálos, given: Árshazûr, clan: Katakálos, aliases: []}
+name: {full: Árshazûr Gavios, given: Árshazûr, clan: Gavios, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -415,7 +415,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arshzrktkls|Árshazûr Katakálos]]{float=top-left}
+![[arshzrktkls|Árshazûr Gavios]]{float=top-left}
 
 Árshazûr stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
 
@@ -433,7 +433,7 @@ What was meant to be two years of service became a life. Árshazûr discovered t
 
 ### Present Circumstances
 
-Now a veteran soldier with a decade remaining until he can expect retirement, Árshazûr maintains his position with exemplary discipline and bearing. He serves under **Lord Commander Vasilis of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
+Now a veteran soldier with a decade remaining until he can expect retirement, Árshazûr maintains his position with exemplary discipline and bearing. He serves under **Lord Commander Mazitos of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
 
 ## Psyche
 
@@ -469,8 +469,8 @@ Deep down, Árshazûr fears civilian life and what it might require of him—the
 
 ### Patrons
 
-Lord Commander Vasilis of the Eastern March
-: The military commander who has overseen Árshazûr's service for the past decade. Vasilis respects Árshazûr's judgment and frequently seeks his counsel on tactical matters.
+Lord Commander Mazitos of the Eastern March
+: The military commander who has overseen Árshazûr's service for the past decade. Mazitos respects Árshazûr's judgment and frequently seeks his counsel on tactical matters.
 
 Lady Merchant Elestra Panos
 : A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Árshazûr. She offers both material support and emotional companionship.
