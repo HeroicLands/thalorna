@@ -20,7 +20,7 @@ The elements are the island's own, and the pattern they make is what keeps a new
 
 ## Scope
 
-The register holds the place names, given names and bynames of every place and being that one of these rows catches. The type row limits the register to places and beings; a realm or an order that carries a place name is not entered, since its name is the place's.
+The register holds the place names, given names and bynames of every place and being that one of these rows catches. The type row limits the register to places and beings; a realm or an order that carries a place name is not entered, since its name is the place's. The register also holds the names the island's literature coins, each linked to the work whose title or alias carries it.
 
 | Kind    | Value                                                                                                                                   | What it catches                                                               |
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -190,6 +190,7 @@ A byname draws on these and on the place-name elements above.
 | **Alverton**    | [[being-edriclvrtn\|Alverton]], [[being-wnfrdlvrtn\|Alverton]]                                 | `byname` | `alver` + `ton`         |
 | **Ashby**       | [[being-hawiseshby\|Ashby]]                                                                    | `byname` | `ash` + `by`            |
 | **Ashford**     | [[place-ashford\|Ashford]]                                                                     | `place`  | `ash` + `ford`          |
+| **Ashwold**     | [[lore-windownaming\|Ashwold]]                                                                 | `place`  | `ash` + `wold`          |
 | **Barnwell**    | [[being-alfrdbrnwl\|Barnwell]], [[being-godabarnwl\|Barnwell]], [[being-lefrcbrnwl\|Barnwell]] | `byname` | `barn` + `well`         |
 | **Brandon**     | [[being-aldosbrndn\|Brandon]]                                                                  | `byname` | `brand` + `don`         |
 | **Browning**    | [[being-hildbrwnng\|Browning]]                                                                 | `byname` | `brown` + `ing`         |
@@ -199,7 +200,9 @@ A byname draws on these and on the place-name elements above.
 | **Chilton**     | [[being-aldthchltn\|Chilton]], [[being-edgarchltn\|Chilton]]                                   | `byname` | `chil` + `ton`          |
 | **Chilwell**    | [[being-lefrnchlwl\|Chilwell]]                                                                 | `byname` | `chil` + `well`         |
 | **Coldbeck**    | [[place-coldbeck\|Coldbeck]]                                                                   | `place`  | `cold` + `beck`         |
+| **Coldford**    | [[lore-coldfordhead\|Coldford]]                                                                | `place`  | `cold` + `ford`         |
 | **Cuthbert**    | [[being-cthbrtshrwn\|Cuthbert]]                                                                | `given`  | `cuth` + `bert`         |
+| **Cuthwin**     | [[lore-windownaming\|Cuthwin]]                                                                 | `given`  | `cuth` + `win`          |
 | **Dunmere**     | [[place-dunmere\|Dunmere]]                                                                     | `place`  | `dun` + `mere`          |
 | **Dunstan**     | [[being-dnstnhlmsly\|Dunstan]]                                                                 | `given`  | `dun` + `stan`          |
 | **Dunwell**     | [[being-oswaldunwl\|Dunwell]], [[being-wilfrednwl\|Dunwell]]                                   | `byname` | `dun` + `well`          |
@@ -209,6 +212,7 @@ A byname draws on these and on the place-name elements above.
 | **Edmund**      | [[being-edmndwlfrd\|Edmund]]                                                                   | `given`  | `ed` + `mund`           |
 | **Edric**       | [[being-edriclvrtn\|Edric]]                                                                    | `given`  | `ed` + `ric`            |
 | **Edrith**      | [[being-edrthgrylng\|Edrith]]                                                                  | `given`  | `ed` + `rith`           |
+| **Edwald**      | [[lore-roadstops\|Edwald]]                                                                     | `given`  | `ed` + `wald`           |
 | **Edwin**       | [[being-edwingarmn\|Edwin]]                                                                    | `given`  | `ed` + `win`            |
 | **Elfreda**     | [[being-elfrdlwknr\|Elfreda]]                                                                  | `given`  | `elf` + `red` + `a`     |
 | **Ethelinda**   | [[being-ethlndwgmr\|Ethelinda]]                                                                | `given`  | `ethel` + `lind` + `a`  |
@@ -221,10 +225,12 @@ A byname draws on these and on the place-name elements above.
 | **Hallowwood**  | [[place-hallowwood\|Hallowwood]]                                                               | `place`  | `hallow` + `wood`       |
 | **Harden**      | [[being-aldredhrdn\|Harden]], [[being-mildrdhrdn\|Harden]], [[being-oswinhardn\|Harden]]       | `byname` | `hard` + `den`          |
 | **Harding**     | [[being-audryhrdng\|Harding]]                                                                  | `byname` | `hard` + `ing`          |
+| **Harmund**     | [[lore-coldfordhead\|Harmund]]                                                                 | `given`  | `har` + `mund`          |
 | **Harold**      | [[being-hrldhlmsly\|Harold]]                                                                   | `given`  | `har` + `old`           |
 | **Helmsley**    | [[being-dnstnhlmsly\|Helmsley]], [[being-hrldhlmsly\|Helmsley]]                                | `byname` | `helm` + `s` + `ley`    |
 | **Highfold**    | [[place-highfold\|Highfold]]                                                                   | `place`  | `high` + `fold`         |
 | **Hilda**       | [[being-hildbrwnng\|Hilda]]                                                                    | `given`  | `hild` + `a`            |
+| **Hildric**     | [[lore-hildricplay\|Hildric]]                                                                  | `given`  | `hild` + `ric`          |
 | **Hushwood**    | [[place-hushwood\|Hushwood]]                                                                   | `place`  | `hush` + `wood`         |
 | **Ironfells**   | [[place-ironfells\|Ironfells]]                                                                 | `place`  | `iron` + `fells`        |
 | **Kenelm**      | [[being-kenelmadwl\|Kenelm]]                                                                   | `given`  | `ken` + `elm`           |
