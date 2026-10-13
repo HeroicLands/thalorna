@@ -400,8 +400,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Rádrún works in a Grimholt brothel and secretly serves the Gray Tide. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
 
-Now at 18 years of age, she is a known figure among the prostitutes of Vrystwald.
-
 ## Psyche
 
 ### Personality

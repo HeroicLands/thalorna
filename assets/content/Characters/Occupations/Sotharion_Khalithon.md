@@ -403,8 +403,6 @@ Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite h
 
 Lord Sôtharion is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and his skill in war. He is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
 
-Now at 44 years of age, he is a known figure among the tenants-in-chief of Heliónis.
-
 ## Psyche
 
 ### Personality

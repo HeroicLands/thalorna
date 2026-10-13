@@ -71,7 +71,7 @@ Offerings to Mórváná are the gifts of decay itself: autumn leaves, withering 
 
 ## Organization
 
-The priesthood of Mórváná is led by the **Magistra Mortis**, the High Priestess or High Priest. This figure is typically an older priestess who has spent decades in service to the goddess, often someone who has survived personal losses and has transformed grief into compassionate service to others. The Magistra Mortis serves as a counselor to the dying, a teacher of the faith, and an interpreter of the goddess's will.
+The priesthood of Mórváná is led by the **Magistra Mortis**, the High Priestess or High Priest. This figure is typically an older priestess who has spent decades in service to the goddess, often someone who has survived personal losses and has transformed grief into compassionate service to others. The Magistra Mortis is a counselor to the dying, a teacher of the faith, and an interpreter of the goddess's will.
 
 Below the Magistra stand the **Sacerdotes of Twilight**, ordained priests who serve as healers for the terminally ill, counselors for the bereaved, and keepers of Mórváná's temples. These priests are chosen for their capacity for empathy, their comfort with mortality, and their ability to speak honestly about death without cruelty. They are trained in the care of the dying, in funeral rites, and in the pastoral work of comforting those who grieve. The finest Sacerdotes of Twilight are renowned for their ability to help the dying achieve peace, to help families accept loss, and to transform grief into something that can be borne.
 

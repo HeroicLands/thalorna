@@ -373,7 +373,7 @@ The saga of Glurvselda Silverhand tells of her journey to a distant land where a
 
 ### Personality
 
-Glurvselda is shrewd and charismatic, with an eye for value that extends beyond mere coin. She sees potential in everything—in people, in places, in ideas—and has a gift for bringing out the best in whatever she touches. She is generous with her wealth but strategic in her generosity, always ensuring that her investments yield returns both material and social. She has a competitive streak and takes genuine delight in outsmarting opponents in negotiation. Despite her wealth, she maintains simple personal habits and is happiest when closing a deal rather than spending its profits.
+Glurvselda is shrewd and charismatic, with an eye for value that extends beyond mere coin. She sees potential in everything—in people, in places, in ideas—and has a gift for bringing out the best in whatever she touches. She is generous with her wealth but strategic in her generosity, always ensuring that her investments yield returns both material and social. She has a competitive streak and takes delight in outsmarting opponents in negotiation. Despite her wealth, she maintains simple personal habits and is happiest when closing a deal rather than spending its profits.
 
 ### Motivation
 
@@ -381,7 +381,7 @@ Glurvselda believes that prosperity is the foundation of peace and that trade co
 
 ### Strengths
 
-Glurvselda is one of the wealthiest individuals in the northern lands, and her trade network spans dozens of settlements. Her negotiation skills are legendary—she famously convinced a dragon to share its hoard. She has an encyclopedic knowledge of goods, currencies, and trade routes, and can assess the value of any object at a glance. Her wealth gives her influence that rivals many jarls, and her merchant contacts provide intelligence that military scouts cannot match.
+Glurvselda is one of the wealthiest individuals in the northern lands, and her trade network spans dozens of settlements. Her negotiation skills are famous—she convinced a dragon to share its hoard. She has an encyclopedic knowledge of goods, currencies, and trade routes, and can assess the value of any object at a glance. Her wealth gives her influence that rivals many jarls, and her merchant contacts provide intelligence that military scouts cannot match.
 
 ## Social
 

@@ -381,7 +381,7 @@ Skrildmýl seeks to unite the fractious northern clans under a common purpose, b
 
 ### Strengths
 
-Skrildmýl is a natural leader whose presence on the battlefield can turn the tide of a fight. His tactical skill in both open field and defensive warfare is widely respected. The lightning that accompanies him in battle is more than superstition—his strikes genuinely carry an electrical force that can stun and disorient opponents. His reputation as the man who walked to [[place-thrumufjall|Thrumufjall]] and brought back the sun makes him a legend among the common folk.
+Skrildmýl is a natural leader whose presence on the battlefield can turn the tide of a fight. His tactical skill in both open field and defensive warfare is widely respected. The lightning that accompanies him in battle is more than superstition—his strikes carry an electrical force that can stun and disorient opponents. His reputation as the man who walked to [[place-thrumufjall|Thrumufjall]] and brought back the sun makes him a legend among the common folk.
 
 ## Social
 
@@ -391,7 +391,7 @@ Skrildmýl is a natural leader whose presence on the battlefield can turn the ti
 
 **The Council of Elders**—The governing body of his clan, who support Skrildmýl's leadership and provide him with warriors, resources, and political backing.
 
-[[being-hnirvmylwise|Hnirvmýl the Wise]]—The renowned seer serves as Skrildmýl's advisor, providing prophetic guidance and diplomatic counsel that complements Skrildmýl's martial approach.
+[[being-hnirvmylwise|Hnirvmýl the Wise]]—The renowned seer is Skrildmýl's advisor, providing prophetic guidance and diplomatic counsel that complements Skrildmýl's martial approach.
 
 ### Enemies
 

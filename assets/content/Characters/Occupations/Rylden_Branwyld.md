@@ -400,8 +400,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzi
 
 Rýlden is the chieftain of a powerful tribal clan known for their warriors and hunters. He earned his place as leader through both his strength in battle and his cunning in negotiation. Rýlden is respected by his people, but his harsh and uncompromising ways have also made him feared. He is always looking out for threats to his position, both from rival clans and ambitious members of his own tribe.
 
-Now at 56 years of age, Rýlden Brânwyld has established himself as a known figure among the chieftains of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -404,8 +404,6 @@ Bràzenlâs Vânamyês is an embalmer of Corvinus, the garrison town in the Alys
 
 Bràzenlâs holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the collegium, who use the quicker preparations from Ôrzâra, find him a reproach.
 
-He is a known figure among the embalmers of Vylaria, and an unapproachable one.
-
 ## Psyche
 
 ### Personality

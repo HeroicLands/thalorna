@@ -57,7 +57,7 @@ data:
       Belgôr: >-
         Rain-Caller—conducts the great rain-rituals at the season-turns and the emergency rites in drought. The most ritually elaborate lineage.
       Qeshvî: >-
-        Lightning-Marked—touched directly by the god, usually by vision or prophetic seizure and rarely by literal lightning, in which case the survivor's standing is exceptional. The smallest lineage and the most prestigious.
+        Lightning-Marked—touched directly by the god, usually by vision or prophetic seizure and rarely by literal lightning, in which case the survivor's standing is higher still. The smallest lineage and the most prestigious.
       Ghuzmôr: >-
         Storm-Walker—walks into storms to read them from within, and reads the great seasonal weather-systems. Demanding and dangerous.
       Sehvôr: >-
@@ -99,7 +99,7 @@ The Storm Cults recognize five working lineages, each focused on a distinct prac
 
 - **The Wind-Readers** (_Zevrôr_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Báhrámiš's mood. The largest lineage by membership.
 - **The Rain-Callers** (_Belgôr_)—propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
-- **The Lightning-Marked** (_Qeshvî_)—initiates who have, by the cults' criteria, been touched directly by Báhrámiš's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is exceptional). The smallest lineage and the most prestigious.
+- **The Lightning-Marked** (_Qeshvî_)—initiates who have, by the cults' criteria, been touched directly by Báhrámiš's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is higher still). The smallest lineage and the most prestigious.
 - **The Storm-Walkers** (_Ghuzmôr_)—physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
 - **The Voice-Bearers** (_Sehvôr_)—orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
 
@@ -150,7 +150,7 @@ Recognized vessels of Báhrámiš wear a heavy iron torc at the throat, given at
 
 ## Plot Hooks
 
-- **The Contested Vessel.** A Storm-Walker of substantial reputation has begun, without Council authorization, to claim direct vesselhood and to issue rulings on religious matters. His personal authority is genuine; his weather-readings are accurate; the Council is divided on whether to recognize him formally, denounce him, or wait. The longer the Council waits, the harder either alternative becomes.
+- **The Contested Vessel.** A Storm-Walker of substantial reputation has begun, without Council authorization, to claim direct vesselhood and to issue rulings on religious matters. His personal authority is real; his weather-readings are accurate; the Council is divided on whether to recognize him formally, denounce him, or wait. The longer the Council waits, the harder either alternative becomes.
 - **The Khazryn Provocation.** A senior storm-shaman of one of the Sowides steppe tribes of the Khazryn has crossed into Dunhari territory and begun openly preaching the steppe tradition. The chieftains of the affected tribes have requested cult intervention. The intervention will be a formal religious confrontation at the Stone of Ranâz; the political consequences with the shaman's tribe, and with the dowek who sent him or failed to stop him, are likely to be substantial.
 - **The Misread Drought.** The Wind-Readers and Rain-Callers have given incompatible readings on the coming season's rainfall; the chieftains, forced to plan herd movements, cannot wait for the cults to reconcile. The senior elders of both lineages are committed to their readings. One lineage will be discredited by the outcome.
 - **The Stolen Stones.** The marked stones used by the Warrior's Circle to choose the Voice of the Quarter have gone missing from cult custody. Their loss prevents the next Warrior's Circle meeting from being convened in proper form. The cults must recover the stones before the Circle gathering, and the absence of the stones is itself an indication that someone with knowledge of the cults' internal procedures is acting against them.

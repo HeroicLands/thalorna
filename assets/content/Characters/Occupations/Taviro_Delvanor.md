@@ -400,8 +400,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Tavíro has always loved the sea, and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels at the heavy work of a ship, hoisting sails and loading cargo. He is a reliable crewman who values the fellowship of his shipmates. He dreams of one day sailing to distant lands and seeing other peoples.
 
-Now at 22 years of age, he is a known figure among the common seamen of Tarvénia.
-
 ## Psyche
 
 ### Personality

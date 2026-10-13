@@ -399,8 +399,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Frithgár has fought with Falkenstein’s war-band for many years. He is respected for his tactical knowledge and for teaching younger warriors to hold the palisade when a raiding party is away. He aims to pass on what he knows so the next generation can defend the village.
 
-Now at 42 years of age, Frithgár has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

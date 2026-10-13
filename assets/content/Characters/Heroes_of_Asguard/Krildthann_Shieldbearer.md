@@ -381,7 +381,7 @@ Krildthann believes that true strength lies not in the ability to destroy but in
 
 ### Strengths
 
-Krildthann's defensive combat style is nearly impenetrable; his ability to read an opponent's attacks and position his shield accordingly borders on precognition. His blessed shield is said to be unbreakable, and it serves as a rallying point for allies in battle. His endurance is extraordinary—he can fight defensively for hours without tiring, wearing down opponents who rely on aggression. His reputation as the man who held the gates alone makes him a symbol of hope in besieged communities.
+Krildthann's defensive combat style is nearly impenetrable; his ability to read an opponent's attacks and position his shield accordingly borders on precognition. His blessed shield is said to be unbreakable, and it is a rallying point for allies in battle. His endurance is extraordinary—he can fight defensively for hours without tiring, wearing down opponents who rely on aggression. His reputation as the man who held the gates alone makes him a symbol of hope in besieged communities.
 
 ## Social
 

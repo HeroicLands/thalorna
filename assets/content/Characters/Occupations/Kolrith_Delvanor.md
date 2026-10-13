@@ -403,8 +403,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Kólrith is a daring pilot known for his adventurous spirit and quick reflexes. He often takes on challenging routes and is not afraid to push the limits of his airship. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kólrith has a knack for finding innovative solutions in the air, making him a respected figure among his peers.
 
-Now at 25 years of age, Kólrith Delvánor has established himself as a known figure among the pilots of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

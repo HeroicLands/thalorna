@@ -373,7 +373,7 @@ The saga of Vraldorv One-Hand tells of his confrontation with a corrupt jarl who
 
 ### Personality
 
-Vraldorv is grave and deliberate, a man who weighs every word and action against an internal standard of righteousness. He does not smile often, but when he does, it carries genuine warmth. He is scrupulously fair in all dealings and will not tolerate dishonesty, even from allies. The loss of his hand made him more contemplative, and he often speaks of sacrifice as the truest measure of a person's character. He can be rigid in his moral convictions, which sometimes alienates those who see the world in shades of gray.
+Vraldorv is grave and deliberate, a man who weighs every word and action against an internal standard of righteousness. He does not smile often, but when he does, it carries warmth. He is scrupulously fair in all dealings and will not tolerate dishonesty, even from allies. The loss of his hand made him more contemplative, and he often speaks of sacrifice as the truest measure of a person's character. He can be rigid in his moral convictions, which sometimes alienates those who see the world in shades of gray.
 
 ### Motivation
 

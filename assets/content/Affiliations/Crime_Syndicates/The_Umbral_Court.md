@@ -158,7 +158,7 @@ compensation, and occasionally arranges a very specific injustice to be answered
 it is cheap, because it is the only source of legitimacy it has, and because every petition granted is
 a debt entered in the Rolls.
 
-The result is that the Umbral Court is genuinely popular among people who have never gambled a
+The result is that the Umbral Court is popular among people who have never gambled a
 penny—which is why four generations of Synod pressure have not dislodged it, and why the Synod's
 position that it does not exist is the least embarrassing one available.
 

@@ -399,8 +399,6 @@ sohl:
 
 Áleren was a hunter until his late twenties, when a vision took him on a winter hunt and left him three days in the snow. The old shaman of Sóurimael read it as a calling, and Áleren has served since. Sóurimael exists on sufferance in country that belongs to the Áelendan, and what it gives in return is an observance nobody explains to outsiders and a shaman keeps. Áleren keeps it. The rest of his work is the village's disputes and its omens, which he answers plainly and often unwelcomely. He holds that a shaman is a guide, not a miracle worker, and distrusts the grand visions other shamen build their standing on, including, on most days, his own.
 
-He is a known figure among the shamen of Élavendre.
-
 ## Psyche
 
 ### Personality

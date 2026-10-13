@@ -381,7 +381,7 @@ Vruthvir seeks to create a weapon worthy of Svartbrandr himself—a masterwork t
 
 ### Strengths
 
-Vruthvir's smithing skill is legendary; weapons and armor from his forge are prized across the northern lands. His physical strength, even diminished by old wounds, surpasses most warriors in their prime. The warhammer he forged for the giant battle retains some of its enchantment, glowing faintly when enemies approach. His knowledge of metallurgy and fire-craft makes him invaluable in siege warfare and engineering.
+Vruthvir's smithing skill is famous; weapons and armor from his forge are prized across the northern lands. His physical strength, even diminished by old wounds, surpasses most warriors in their prime. The warhammer he forged for the giant battle retains some of its enchantment, glowing faintly when enemies approach. His knowledge of metallurgy and fire-craft makes him invaluable in siege warfare and engineering.
 
 ## Social
 
@@ -397,7 +397,7 @@ Vruthvir's smithing skill is legendary; weapons and armor from his forge are pri
 
 **The Stone Giant remnants**—Survivors of the army Vruthvir defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
 
-**Knirvmýl the Envious**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than genuine skill, hoping to discredit him and steal his clients.
+**Knirvmýl the Envious**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than skill, hoping to discredit him and steal his clients.
 
 ## Plot Hooks
 

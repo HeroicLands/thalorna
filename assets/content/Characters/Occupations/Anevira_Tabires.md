@@ -401,8 +401,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Ánevira learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Ánevira is known for her intricate stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
 
-Now at 32 years of age, Ánevira Tâbîrês has established herself as a known figure among the tentmakers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

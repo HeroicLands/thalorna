@@ -41,7 +41,7 @@ The Blackpine Wolves are a small, vicious band of road bandits who prey on trave
 
 ## Organization
 
-The gang is led by [[being-dagulfvthr|Dágulf yra Véthar wur Thrárýth]], a [[lore-varokhiclt|Varokh]] runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thráwald yra Hildskorn wur Thrástein]] serves as a de facto second-in-command by virtue of seniority and sheer physical size.
+The gang is led by [[being-dagulfvthr|Dágulf yra Véthar wur Thrárýth]], a [[lore-varokhiclt|Varokh]] runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thráwald yra Hildskorn wur Thrástein]] is a de facto second-in-command by virtue of seniority and sheer physical size.
 
 The current membership stands at six:
 
@@ -60,7 +60,7 @@ Their camp shifts regularly to avoid detection, but tends to cluster around a se
 
 ## Methods
 
-The gang's operations are simple and brutal. Vandaric scouts targets in border taverns, identifying merchant caravans and estimating their escort strength and cargo value. The gang sets up ambush positions along the road—felled trees, concealed bowmen, and Dágulf's preferred tactic of attacking from both sides of the road simultaneously. Brunjár serves as a forward lookout, using bird calls to signal the caravan's approach and composition.
+The gang's operations are simple and brutal. Vandaric scouts targets in border taverns, identifying merchant caravans and estimating their escort strength and cargo value. The gang sets up ambush positions along the road—felled trees, concealed bowmen, and Dágulf's preferred tactic of attacking from both sides of the road simultaneously. Brunjár is a forward lookout, using bird calls to signal the caravan's approach and composition.
 
 Resistance is met with swift, overwhelming violence. Compliance is met with robbery and, usually, survival—though Dágulf's mood is unpredictable, and captives are sometimes treated with gratuitous cruelty. The gang avoids targets with serious military escorts and never attacks Vylarian garrison patrols directly.
 

@@ -404,8 +404,6 @@ Fródwyn is a scholar of plants and their uses at Dunkelwald, a deep-forest sett
 
 Fródwyn was sent as a girl to the border towns of Moktur, where she learned letters from a Vylarian physician's wife, and came home with the idea that what the wise-women carry in their heads could be set down. She has spent fifteen years doing it, walking the forest with the wise-women of a dozen villages and writing what they know out in Varokhi, in books that have gone down the rivers with the fur-boats to villages she has never visited. She teaches it to any woman who will sit with her, and she means it to be used; knowledge not put to work, she holds, is not knowledge.
 
-She is a known figure among the scholars of Vrystwald, and its wise-women are divided about her.
-
 ## Psyche
 
 ### Personality

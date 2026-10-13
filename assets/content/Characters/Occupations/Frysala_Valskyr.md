@@ -399,8 +399,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzi
 
 Frýsala became chieftain after her father's death in battle, and leads her clan by tradition where it serves and by her own methods where it does not. Known for her planning, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, her victories against raiders have won her respect.
 
-Now at 42 years of age, she is a known figure among the chieftains of Provènzia.
-
 ## Psyche
 
 ### Personality

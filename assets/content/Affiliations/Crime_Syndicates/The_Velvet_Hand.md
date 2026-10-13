@@ -107,7 +107,7 @@ Legitimate fronts include pleasure houses, theaters, art dealerships, and a hand
 
 The Velvet Hand sells information to everyone, including about the other syndicates. This makes it both indispensable and universally loathed. The Crimson Ledger buys financial intelligence from the Hand, knowing full well that the Hand is also selling intelligence about the Ledger to the Auric Compact. The Gray Tide has standing orders to kill confirmed Velvet Hand agents found operating in Tide territory without prior arrangement—orders enforced about half the time, depending on whether the agent has something useful to trade first.
 
-The Velvet Hand considers itself more sophisticated than its rivals and cultivates an air of aristocratic disdain for the "crude commerce" of the other syndicates. This attitude masks genuine fear—the Hand has no enforcers, no ships, no fighters. If a rival syndicate decided to wage open war, the Velvet Hand would be destroyed. Its survival depends on being too useful to kill and too dangerous to ignore.
+The Velvet Hand considers itself more sophisticated than its rivals and cultivates an air of aristocratic disdain for the "crude commerce" of the other syndicates. This attitude masks fear—the Hand has no enforcers, no ships, no fighters. If a rival syndicate decided to wage open war, the Velvet Hand would be destroyed. Its survival depends on being too useful to kill and too dangerous to ignore.
 
 The Ash Road is the Hand's most reliable client for assassination contracts, particularly when the Road needs a political obstacle in a coastal city quietly removed. The Hand charges premium rates for these services and has never been caught—a track record it guards jealously.
 

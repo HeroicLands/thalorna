@@ -36,4 +36,4 @@ Anlaghi Gar'Râqu is a 45-year-old man who stands 5'6" tall with a light build. 
 
 # Dossier {#dossier}
 
-Anlaghi Gar'Râqu serves as a young Wazu attached to the great hunt out of [[place-galezkara|Galezkara]]. The rites that attend the taking of a sacred beast are still being learned, under those who have performed them for decades. A hunter uncertain the rites were kept correctly looks to Anlaghi Gar'Râqu to set it right afterward.
+Anlaghi Gar'Râqu is a young Wazu attached to the great hunt out of [[place-galezkara|Galezkara]]. The rites that attend the taking of a sacred beast are still being learned, under those who have performed them for decades. A hunter uncertain the rites were kept correctly looks to Anlaghi Gar'Râqu to set it right afterward.

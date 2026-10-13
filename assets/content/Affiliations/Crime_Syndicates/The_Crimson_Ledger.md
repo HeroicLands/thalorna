@@ -109,4 +109,4 @@ The Auric Compact—the legitimate banking cartel—knows the Crimson Ledger exi
 
 ## Identifying Marks
 
-The Ledger doesn't use tattoos or sigils—too traceable. Members identify each other through a system of coded phrases embedded in financial language. A "crimson ledger entry" in a trade negotiation signals affiliation. Account numbers at certain counting houses serve as membership credentials. The only physical marker is a small, unnaturally precise nick cut into the edge of a specific coin, which serves as a token of safe passage between cells.
+The Ledger doesn't use tattoos or sigils—too traceable. Members identify each other through a system of coded phrases embedded in financial language. A "crimson ledger entry" in a trade negotiation signals affiliation. Account numbers at certain counting houses serve as membership credentials. The only physical marker is a small, unnaturally precise nick cut into the edge of a specific coin, which is a token of safe passage between cells.

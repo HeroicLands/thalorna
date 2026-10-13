@@ -402,8 +402,6 @@ Chýnara Kórisvar is a salter of Chastèlclair, the fortress town of the easter
 
 Chýnara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Valcèrise. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chýnara has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
 
-She is a known figure among the salters of Provènzia.
-
 ## Psyche
 
 ### Personality

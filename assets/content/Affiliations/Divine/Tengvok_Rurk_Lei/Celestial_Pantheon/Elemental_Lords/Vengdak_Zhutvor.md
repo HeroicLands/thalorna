@@ -119,7 +119,7 @@ Mortals petition Vëngdāk Zhütvōr through offerings at earth shrines, through
 
 **Quarry Operators and Stone-Workers** petition Vëngdāk Zhütvōr for authorization to extract stone, typically after years of waiting and proving their administrative compliance. The granting of a quarry license is considered a significant celestial authorization and is treated with corresponding ceremonial significance in mortal culture. Stone-workers maintain elaborate shrines to the Lord of Earth and observe ritual protocols around each quarrying operation.
 
-**Miners seeking precious metals or rare minerals** petition both Vëngdāk Zhütvōr (for earth disturbance) and Dāktūr Vōrthāt (for metal extraction), often in coordination with territorial administrators. These petitions are particularly difficult to secure and may require demonstrating that the minerals are essential to state-sanctioned projects or that the mining community has maintained exceptional spiritual merit.
+**Miners seeking precious metals or rare minerals** petition both Vëngdāk Zhütvōr (for earth disturbance) and Dāktūr Vōrthāt (for metal extraction), often in coordination with territorial administrators. These petitions are particularly difficult to secure and may require demonstrating that the minerals are essential to state-sanctioned projects or that the mining community has maintained great spiritual merit.
 
 **Builders and Architects** petition Vëngdāk Zhütvōr before beginning significant construction projects, requesting authorization to level ground, break bedrock, or otherwise fundamentally alter the earth's substrate. Major temples and state buildings receive explicit authorization from the Lord of Earth, often following years of petition and justification.
 

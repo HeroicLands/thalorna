@@ -53,7 +53,7 @@ sohl: {system: {commonSkills: []}}
 
 "You will want two blessings from the temple at [[place-iqu|Iqu]]," a **Blesser of the Caravans** tells a driver about to lead his first string of donkeys out onto the eastern desert roads. "One for what the fields give, and one for the road. People think they are separate prayers. With [[lore-pelgundty|Pelgun]] they are the same prayer."
 
-Pelgun is the god of the [[place-selatpelgunnome|Selat-Pelgun]], an upper-river selat that serves as the caravan-head for the eastern desert roads. His cult is one of harvest-festivals and virility rites, and the selat's chief temple of Pelgun stands in [[place-iqu|Iqu]], where the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] keeps his court. The same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.
+Pelgun is the god of the [[place-selatpelgunnome|Selat-Pelgun]], an upper-river selat that is the caravan-head for the eastern desert roads. His cult is one of harvest-festivals and virility rites, and the selat's chief temple of Pelgun stands in [[place-iqu|Iqu]], where the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] keeps his court. The same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.
 
 ## Two Offices, One Calendar
 

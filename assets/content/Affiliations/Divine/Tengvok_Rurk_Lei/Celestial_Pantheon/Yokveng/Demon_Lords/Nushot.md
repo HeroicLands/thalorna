@@ -58,7 +58,7 @@ Where the Bureau of Returns (Nüs Sëi) recycles dissolved things back into the 
 
 The Tānthëi teach that Nüshöt was born from a jurisdictional failure: a moment in the early cycles of the celestial administration when the Bureau of Returns and the Bureau of Transformation issued contradictory directives regarding the same cosmic material. The resulting conflict—dissolution and transformation applied simultaneously to the same thing—produced an entity that embodies both functions taken to their most destructive extreme.
 
-Nüshöt is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, profoundly illegal under celestial law. The Quaesitorium equivalent within the Tānvüri system—the Celestial Marshals (Tëng Vüszhük)—treat any evidence of Nüshöt invocation as a matter of the highest urgency.
+Nüshöt is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, illegal under celestial law. The Quaesitorium equivalent within the Tānvüri system—the Celestial Marshals (Tëng Vüszhük)—treat any evidence of Nüshöt invocation as a matter of the highest urgency.
 
 ### Mortal Cultus: The Nüszōk Rëit
 

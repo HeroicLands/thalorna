@@ -402,8 +402,6 @@ Born in the [[place-helionis|Heliónis]] region to a guilded family of Helionite
 
 Zádìmêros is a skilled cartographer known for his detailed maps of the surrounding region. Originally trained as an artist, he turned to mapmaking when he realized the lucrative opportunities it offered. His work is sought after by merchants, explorers, and nobles alike, though he has also been accused of selling sensitive maps to rival factions.
 
-Now at 45 years of age, Zádìmêros Mâkîthôn has established himself as a known figure among the cartographer/artists of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

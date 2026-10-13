@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: [naliktzuqal]}}
 
 **Domain:** Dreams, Visions, Prophecy, and the Moon
 
-Nal'ik Tz'uqal is unique among the Itzáni gods: she is one of the few who does not demand blood, accepting instead offerings of cacao, flowers, incense, and the spoken word. She is gentle where other deities are fearsome, and she teaches and illuminates where others demand sacrifice. Yet she is profoundly powerful, for she governs the visions that shape the decisions of kings, the prophecies that alter wars, and the dreams that provide glimpses of possible futures. In Ki'ichek understanding, dreams are not mere illusions but genuine perceptions of reality—alternate timelines, possible futures, the movements of the gods through the celestial spheres. Her celestial influence is most powerful during the dark of the moon, when the boundary between waking and dream grows thin and visions are most reliable.
+Nal'ik Tz'uqal is unique among the Itzáni gods: she is one of the few who does not demand blood, accepting instead offerings of cacao, flowers, incense, and the spoken word. She is gentle where other deities are fearsome, and she teaches and illuminates where others demand sacrifice. Yet she is powerful, for she governs the visions that shape the decisions of kings, the prophecies that alter wars, and the dreams that provide glimpses of possible futures. In Ki'ichek understanding, dreams are not mere illusions but real perceptions of reality—alternate timelines, possible futures, the movements of the gods through the celestial spheres. Her celestial influence is most powerful during the dark of the moon, when the boundary between waking and dream grows thin and visions are most reliable.
 
 ## Worship
 

@@ -119,7 +119,7 @@ Lesser demons that serve the Demon Lord [[affiliation-nushot|Nüshöt]] and embo
 
 #### **Wayward Spirits** (Dōkzhëkvōr)
 
-Demons of passage and misdirection, affiliated with the Demon Lord [[affiliation-dokyok|Dōkyök]]. These lesser demons maintain the hidden roads of the Infernal Realms and guide (or mislead) those who seek passage. Some wayward spirits are conscripted into serving [[affiliation-dokyok|Dōkyök]] by circumstance; others genuinely prefer the role of guide, as it grants them singular power over the spaces they maintain.
+Demons of passage and misdirection, affiliated with the Demon Lord [[affiliation-dokyok|Dōkyök]]. These lesser demons maintain the hidden roads of the Infernal Realms and guide (or mislead) those who seek passage. Some wayward spirits are conscripted into serving [[affiliation-dokyok|Dōkyök]] by circumstance; others prefer the role of guide, as it grants them singular power over the spaces they maintain.
 
 ### Mortal Engagement
 

@@ -121,7 +121,7 @@ This view is not universally shared. The Aurèldían clergy regard the claim as 
 
 The First Gods are not a recent revelation. Áelendan tradition holds that the Old Way was carried by the earliest Pelwar out of the eastern lands of their origin and was already ancient when the ancestors of the Áelendan reached the shores of [[place-elavendre|Élavendre]]. The other Pelwar peoples who settled farther east—the Vylari, the Provenzians, the Tarvéni—mostly set the old faith aside as they built cities and adopted the organized Aurèldían pantheon, but the Áelendan kept it, and keep it still.
 
-Whether the Old Way genuinely predates every other faith on Ankaris is a question that outside scholarship cannot settle. What can be said is that among the living religious traditions of the continent, the Áelendan claim to the earliest roots is not contradicted by any surviving record.
+Whether the Old Way predates every other faith on Ankaris is a question that outside scholarship cannot settle. What can be said is that among the living religious traditions of the continent, the Áelendan claim to the earliest roots is not contradicted by any surviving record.
 
 ## See Also
 

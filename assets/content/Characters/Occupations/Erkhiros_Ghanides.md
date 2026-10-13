@@ -401,8 +401,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Érkhiros has been a teamster for over thirty years, traveling countless miles and weathering many storms. He is a familiar face on the trade routes and is often sought after for advice by younger teamsters. Known for his easygoing nature, he enjoys the freedom of the open road, but age is starting to catch up with him.
 
-Now at 51 years of age, Érkhiros Ghânîdês has established himself as a known figure among the teamsters of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

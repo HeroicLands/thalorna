@@ -71,7 +71,7 @@ Individual worship often takes the form of private devotions before important bu
 
 ## Organization
 
-The priesthood of Ólvenía is organized around individual temples rather than a centralized hierarchy. Each major city's temple of Ólvenía is governed by a High Priestess (or High Priest, though priestesses are far more common), who serves as the cult's spiritual head and the primary intermediary between the goddess and her followers. These High Priestesses often wield considerable influence in their cities' merchant councils and trading guilds, as the affiliation between Ólvenía worship and commercial prosperity is well-established.
+The priesthood of Ólvenía is organized around individual temples rather than a centralized hierarchy. Each major city's temple of Ólvenía is governed by a High Priestess (or High Priest, though priestesses are far more common), who is the cult's spiritual head and the primary intermediary between the goddess and her followers. These High Priestesses often wield considerable influence in their cities' merchant councils and trading guilds, as the affiliation between Ólvenía worship and commercial prosperity is well-established.
 
 Below the High Priestess stand the Priestesses of the Temple, who manage day-to-day worship, maintain the sacred spaces, and counsel those who come seeking Ólvenía's favor. These ordained clergy are typically well-educated in the arts of negotiation, rhetoric, and persuasion—qualities essential for mediating disputes between merchants and for blessing commercial ventures. Many study the practical side of commerce (accounting, trade law, contract interpretation) as thoroughly as they study theology.
 

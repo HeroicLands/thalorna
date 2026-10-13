@@ -80,7 +80,7 @@ The Crown Moneylenders' **letters of credit** are honored at any of the three te
 
 ## Structure and Governance
 
-The federation of the Crown Trades is governed by the **Council of the Three-Flame Charters**—a body comprising the senior officer of each major chartered guild, meeting twice a year at the temple-city festival schedule and at the Crown's call when commerce-political matters require it. The Council coordinates federation positions on questions affecting multiple charters (royal taxation, foreign trade negotiation, charter-boundary disputes between guilds) and serves as the principal commercial counterparty when the kingdom negotiates with foreign powers.
+The federation of the Crown Trades is governed by the **Council of the Three-Flame Charters**—a body comprising the senior officer of each major chartered guild, meeting twice a year at the temple-city festival schedule and at the Crown's call when commerce-political matters require it. The Council coordinates federation positions on questions affecting multiple charters (royal taxation, foreign trade negotiation, charter-boundary disputes between guilds) and is the principal commercial counterparty when the kingdom negotiates with foreign powers.
 
 The Council is chaired by the **Steward of the Trades**—a royal appointment from the chartered moneylender ranks, serving at the Crown's pleasure for a typical term of five to ten years. The current Steward is **Mekhar Saharil**, a senior moneylender of Vuthráka whose moderate temperament and Gár-Hálzi correspondent relationships have made him acceptable to all three temple-cities and to the Crown.
 

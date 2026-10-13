@@ -36,4 +36,4 @@ Zenti Khelemu'Gathau is a 39-year-old man who stands 5'10" tall with a medium bu
 
 # Dossier {#dossier}
 
-Zenti Khelemu'Gathau serves as High Scribe out of [[place-garanlaghet|Gar-Anlaghet]], holding the drafting of treaties and trade agreements. He believes his protégée is the key to expanding his influence further still. Whether the protégée shares that reading of the relationship is a separate question he has not asked out loud.
+Zenti Khelemu'Gathau is High Scribe out of [[place-garanlaghet|Gar-Anlaghet]], holding the drafting of treaties and trade agreements. He believes his protégée is the key to expanding his influence further still. Whether the protégée shares that reading of the relationship is a separate question he has not asked out loud.

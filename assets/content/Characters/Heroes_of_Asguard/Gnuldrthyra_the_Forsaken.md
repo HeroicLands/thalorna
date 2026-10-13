@@ -391,7 +391,7 @@ Since absorbing the Heart of the Firstborn, Gnuldrthýra possesses strength and 
 
 ### Patrons
 
-[[being-dvrnvrshpr|Dvurnvir the Shaper]]—The only person who has ever treated Gnuldrthýra as a fellow being rather than a curiosity or monster. Their relationship is complicated by Dvurnvir's scientific interest in her unique nature, but his respect is genuine.
+[[being-dvrnvrshpr|Dvurnvir the Shaper]]—The only person who has ever treated Gnuldrthýra as a fellow being rather than a curiosity or monster. Their relationship is complicated by Dvurnvir's scientific interest in her unique nature, but his respect is real.
 
 **The Forsaken Ones**—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthýra as a champion since she absorbed the Heart of the Firstborn.
 

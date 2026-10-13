@@ -85,7 +85,7 @@ sohl: {system: {commonSkills: [xaqikhanal]}}
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life
 
-Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the sacred pools (_ch'uqil_)—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to [[place-chaltzumaq|Ch'al Tz'umaq]]. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the profound renewal that comes with water.
+Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the sacred pools (_ch'uqil_)—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to [[place-chaltzumaq|Ch'al Tz'umaq]]. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the renewal that comes with water.
 
 ## Worship
 
@@ -99,7 +99,7 @@ The goddess is given little blood and a great deal of water. Offerings are flowe
 
 ## Organization
 
-The priesthood is unique in being almost entirely female—the Ch'alix Ha'nal (Keeper of Waters) serves as chief healer of the city-state, the Ch'alixbal Tz'ab (birth priestesses) attend all significant births, and the Ch'alixbal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Ki'ichek civilization.
+The priesthood is unique in being almost entirely female—the Ch'alix Ha'nal (Keeper of Waters) is chief healer of the city-state, the Ch'alixbal Tz'ab (birth priestesses) attend all significant births, and the Ch'alixbal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Ki'ichek civilization.
 
 Those archives are the branch's answer to the observatories, and they are kept in the same spirit: treatments are recorded with their outcomes, including the failures, and a remedy that does not perform is struck. The **Keeper of the Healing Archives** is second in the branch only to the Ch'alix Ha'nal, and the two offices are frequently held in succession by the same woman.
 

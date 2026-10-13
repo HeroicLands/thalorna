@@ -406,8 +406,6 @@ Born at [[place-waldburg|Waldburg]] to a Varokh boatbuilding family, Wítharic c
 
 Wítharic hails from a long line of shipwrights and inherited his family's business. He builds river-boats prized for carrying people and cargo through the shallow forest channels. Wítharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
 
-Now at 38 years of age, Wítharic has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

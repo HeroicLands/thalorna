@@ -396,8 +396,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Vanâdîs was born into poverty, but her charm and beauty allowed her to rise above her circumstances. She began working as a courtesan in her late teens, attracting the attention of wealthy patrons. Vanâdîs is skilled in the art of conversation, music, and dance, making her a sought-after companion. Despite her success, she struggles with the societal judgment that comes with her profession.
 
-Now at 28 years of age, Vanâdîs Kâserânis has established herself as a known figure among the courtesans of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

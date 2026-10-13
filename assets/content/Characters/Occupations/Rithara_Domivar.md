@@ -399,8 +399,6 @@ Ríthara Dómivar is a common seaman of [[place-tarvenirgn|Tarvénia]], a Tarvé
 
 Ríthara comes of hill people who expected her to marry a hill man, and Torreviga has no sea in sight. She signed on as a deckhand at Valthári, undersized for the work and knowing nothing, and has spent five years learning. The stars came at once. She has a gift for navigation that her first mate noticed and her captain has used since—she works a reckoning as well as men twice her age—and she asks questions until the officers are sick of her. She is not strong, and knows it costs her in the crew's eyes. She means to be a captain, and has said so aloud.
 
-She is a known figure among the seamen of Tarvénia.
-
 ## Psyche
 
 ### Personality

@@ -400,8 +400,6 @@ Nûbàris Jâdîrôs is a courtier of Therádon, in [[place-helionis|Heliónis]]
 
 The city is governed by an assembly of its wealthiest and most educated citizens. The Jâdîrôs seat is an old one and a small one, and Nûbàris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nûbàris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Therádon and several in Thyrenae and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
 
-She is a known figure among the courtiers of Heliónis.
-
 ## Psyche
 
 ### Personality

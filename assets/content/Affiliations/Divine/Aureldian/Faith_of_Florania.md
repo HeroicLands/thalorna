@@ -73,7 +73,7 @@ Offerings to Flórania are abundant and sensory—fresh flowers, honey, wine, sw
 
 ## Organization
 
-The priesthood of Flórania is led by the **Magistra Florarum**, the High Priestess (occasionally High Priest, though the role is more frequently filled by women). This figure is typically a middle-aged priestess of renowned skill in healing and gardening, someone whose wisdom and warmth draw the faithful and whose authority extends throughout the priesthood. The Magistra Florarum serves as a healer, teacher, and intermediary between the goddess and her people.
+The priesthood of Flórania is led by the **Magistra Florarum**, the High Priestess (occasionally High Priest, though the role is more frequently filled by women). This figure is typically a middle-aged priestess of renowned skill in healing and gardening, someone whose wisdom and warmth draw the faithful and whose authority extends throughout the priesthood. The Magistra Florarum is a healer, teacher, and intermediary between the goddess and her people.
 
 Below the Magistra stand the **Sacerdotes**, ordained priestesses and priests who serve as healers, midwives, gardeners, and officiants at marriages and fertility blessings. These priests are chosen for their skill in healing arts, their knowledge of herbs and plants, and their capacity for compassion. Many Sacerdotes maintain their own herb gardens or healing practices and are supported by their temples. The finest Sacerdotes are renowned healers sought by noble families and common people alike, trusted to deliver babies safely and to cure illnesses that other physicians cannot treat.
 

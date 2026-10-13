@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A sworn devotee serves as Hand-Squire until the Council of Hands examines and admits him a Sworn Hand; the Council also tries and puts a Hand from the order for a broken ruling, and elects the Voice of Lögstead from its Elder Hands for life.
+      A sworn devotee is Hand-Squire until the Council of Hands examines and admits him a Sworn Hand; the Council also tries and puts a Hand from the order for a broken ruling, and elects the Voice of Lögstead from its Elder Hands for life.
     ranks:
       - level: 0
         title: Eidvargr

@@ -373,7 +373,7 @@ The saga of Dvurnvir the Shaper tells of his most ambitious experiment, where he
 
 ### Personality
 
-Dvurnvir is obsessive and brilliant, a man whose mind operates on a different plane from ordinary people. He speaks in rapid, tangential bursts, jumping between subjects in ways that leave listeners bewildered. He is deeply uncomfortable with social interaction and prefers the company of his creations to that of people. Despite his eccentricity, Dvurnvir possesses a genuine desire to make the world better through his work, though his definition of 'better' often alarms those around him. He has no sense of personal danger and will cheerfully walk into life-threatening situations if they promise interesting results.
+Dvurnvir is obsessive and brilliant, a man whose mind operates on a different plane from ordinary people. He speaks in rapid, tangential bursts, jumping between subjects in ways that leave listeners bewildered. He is deeply uncomfortable with social interaction and prefers the company of his creations to that of people. Despite his eccentricity, Dvurnvir possesses a desire to make the world better through his work, though his definition of 'better' often alarms those around him. He has no sense of personal danger and will cheerfully walk into life-threatening situations if they promise interesting results.
 
 ### Motivation
 
@@ -381,7 +381,7 @@ Dvurnvir seeks to complete what Mótefnir began—to perfect the art of creation
 
 ### Strengths
 
-Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their behavior, communicate with them to some degree, and modify their physical forms. His alchemical and scholarly knowledge is vast, spanning disciplines that most scholars would consider mutually exclusive. The Forsaken Guardian he created serves as both protector and companion, a formidable creature that obeys his commands with surprising loyalty.
+Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their behavior, communicate with them to some degree, and modify their physical forms. His alchemical and scholarly knowledge is vast, spanning disciplines that most scholars would consider mutually exclusive. The Forsaken Guardian he created is both protector and companion, a formidable creature that obeys his commands with surprising loyalty.
 
 ## Social
 

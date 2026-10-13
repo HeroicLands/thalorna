@@ -401,8 +401,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Alváren is a seasoned salter who has spent decades perfecting his craft. He runs a large saltworks that supplies salt to several coastal towns. Known for his knowledge of the trade, he often tries different ways of evaporating the brine to produce salts of his own, including flavored varieties. He is respected in the community for his knowledge and often mentors younger salt workers.
 
-Now at 36 years of age, he is a known figure among the salters of Tarvénia.
-
 ## Psyche
 
 ### Personality

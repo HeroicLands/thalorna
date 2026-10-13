@@ -70,7 +70,7 @@ This doctrine has come into particular prominence in recent decades as the [[aff
 
 ### Relationship with the Crown
 
-The kingdom of Élavendre's authorities accept the Wardens' jurisdiction over sacred sites without question. Even the most ambitious Élavendri noble knows better than to challenge a Warden on their own ground. This arrangement is not a concession to necessity but a reflection of genuine respect—the nobility's own cultural memory ties them to the Áelendan and the Kindred Pact, and they understand what the Wardens protect. Royal magistrates will not accept complaints from parties who entered sacred territory and were subsequently "mistreated"; the first question in any such case is whether the complainant had been warned, and the Wardens' answer is authoritative.
+The kingdom of Élavendre's authorities accept the Wardens' jurisdiction over sacred sites without question. Even the most ambitious Élavendri noble knows better than to challenge a Warden on their own ground. This arrangement is not a concession to necessity but a reflection of respect—the nobility's own cultural memory ties them to the Áelendan and the Kindred Pact, and they understand what the Wardens protect. Royal magistrates will not accept complaints from parties who entered sacred territory and were subsequently "mistreated"; the first question in any such case is whether the complainant had been warned, and the Wardens' answer is authoritative.
 
 ### Organization
 

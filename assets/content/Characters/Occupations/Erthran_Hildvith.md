@@ -402,8 +402,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Erthran has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect the land and take only what is needed. He is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of respect for the land.
 
-Now at 44 years of age, he is a known figure among the trappers of Vrystwald.
-
 ## Psyche
 
 ### Personality

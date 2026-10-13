@@ -56,7 +56,7 @@ data:
           The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
     offices:
       Ix'tq'an: >-
-        Star-Voice—senior priest of the observatory, who must hold genuine mastery of mathematics and astronomy and is examined on it, not appointed to it.
+        Star-Voice—senior priest of the observatory, who must hold mastery of mathematics and astronomy and is examined on it, not appointed to it.
       Keeper of the Star-Houses: >-
         Holds the ix'ilan ch'umbal where the most sacred codices are kept, and the list of those authorized to consult them.
       Warden of the Moon-Houses: >-
@@ -97,7 +97,7 @@ The **Reckoner of Conjunctions** issues the auspicious and forbidden days to eve
 
 ## Organization
 
-Her priesthood maintains sophisticated astronomical observatories at pyramid peaks, containing aligned stone monoliths marking solstice positions, ch'umbal tz'uqal (moon-houses) tracking the lunar cycle, and sighting devices for planetary observation. The senior priest, the Ix'tq'an (Star-Voice), must possess genuine expertise in mathematics and astronomy—it is not enough to be well-born. This meritocratic requirement makes Ix'ilan Ch'alix's temples somewhat more open than other branches, and it is not unusual for a Ch'alixbal astronomer to rise to high rank despite relatively humble birth.
+Her priesthood maintains sophisticated astronomical observatories at pyramid peaks, containing aligned stone monoliths marking solstice positions, ch'umbal tz'uqal (moon-houses) tracking the lunar cycle, and sighting devices for planetary observation. The senior priest, the Ix'tq'an (Star-Voice), must possess expertise in mathematics and astronomy—it is not enough to be well-born. This meritocratic requirement makes Ix'ilan Ch'alix's temples somewhat more open than other branches, and it is not unusual for a Ch'alixbal astronomer to rise to high rank despite relatively humble birth.
 
 Advancement is by examination, conducted in the open before the assembled priests of the observatory: a candidate is given a set of recorded observations and asked to derive from them a prediction that will be checked against the sky. A failed prediction is recorded alongside the candidate's name and is not expunged. The branch is thoroughly aware that this makes it unlike every other institution in Ki'ichek society, and it guards the practice fiercely, on the grounds that a hierarchy of birth would within two generations be unable to compute an eclipse.
 
@@ -115,6 +115,6 @@ With [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch is indispensable and r
 
 The serpent-keepers of [[affiliation-puqilchaqun|P'uqil Ch'aqun]] take the branch's calculation of the final configuration and seal it in chambers the astronomers may not enter. The astronomers regard this as the safekeeping of arithmetic by people who cannot check it; the serpent-keepers regard publication as the surest way to bring on the panic they exist to prevent. Neither position has moved in living memory.
 
-Toward [[affiliation-piqalkulqat|P'iqal Kul'qat]] the relationship is genuinely warm, since both branches advance by demonstrated competence and both are staffed largely by people of ordinary birth. Observatories are built to astronomer's specification by builder-priests, and the alignment of a new sighting-stone is a joint rite of the two branches.
+Toward [[affiliation-piqalkulqat|P'iqal Kul'qat]] the relationship is warm, since both branches advance by demonstrated competence and both are staffed largely by people of ordinary birth. Observatories are built to astronomer's specification by builder-priests, and the alignment of a new sighting-stone is a joint rite of the two branches.
 
 The road priests of [[affiliation-xilanixlan|Xilan Ix'lan]] carry the branch's corrections and observations between cities, and the branch in turn surveys their causeways; the white roads run straight for hundreds of miles because astronomers laid the lines. The dream-keepers of [[affiliation-naliktzuqal|Nal'ik Tz'uqal]] are the branch's one real intellectual rival, and the rivalry is amiable: both maintain vast classified archives of recorded phenomena, and they argue endlessly about whether a pattern found in dreams is knowledge of the same kind as a pattern found in the sky.

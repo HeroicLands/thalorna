@@ -398,8 +398,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a minor noble family of Pr
 
 Gália is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Gália often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
 
-Now at 23 years of age, Gália Rálwen has established herself as a known figure among the nobility (courtier)s of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

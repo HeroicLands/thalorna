@@ -402,8 +402,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Kàlendrîs learned the craft of sewing from her grandmother, who was the village seamstress. When her grandmother passed away, she took over the role and now provides clothing repair and custom garments for the villagers. Kàlendrîs has a natural eye for design and has started experimenting with incorporating local dyes into her fabrics.
 
-Now at 30 years of age, Kàlendrîs Korkâlenîs has established herself as a known figure among the clothiers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

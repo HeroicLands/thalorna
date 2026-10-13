@@ -401,8 +401,6 @@ Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite h
 
 Dôrashîa is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
 
-Now at 30 years of age, she is a known figure among the mercantylers of Heliónis.
-
 ## Psyche
 
 ### Personality

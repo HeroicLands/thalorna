@@ -400,8 +400,6 @@ Thâven Fárwèn is a ship's bosun of [[place-provenzrgn|Provènzia]], a Provenz
 
 Thâven is a march boy who found he preferred the sea to the levy, and a bosun is what the sea made of him. He has a rule for everything the crew handles and keeps every rule, in fair weather when it seems needless and in foul when it is the reason the ship comes home. Captains hire him because a Fárwèn crew does what it is told at once and has never lost a man to a rotten line. When the ship lays up he goes home to Chastèlclair, where his wife keeps the house and his sons are growing up.
 
-He is a known figure among the bosuns of Provènzia.
-
 ## Psyche
 
 ### Personality

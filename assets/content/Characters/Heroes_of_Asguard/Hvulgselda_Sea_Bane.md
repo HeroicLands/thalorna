@@ -381,7 +381,7 @@ Hvulgselda seeks to make the northern seas safe for her people, hunting the mons
 
 ### Strengths
 
-Hvulgselda is an exceptional sailor and navigator who can read the weather, currents, and stars with uncanny accuracy. Her combat style with the axe is adapted for shipboard fighting—quick, close, and devastatingly effective in confined spaces. The Ship of Thunder she reclaimed responds to her commands in ways that seem almost supernatural, moving faster and handling better than any ordinary vessel.
+Hvulgselda is a skilled sailor and navigator who can read the weather, currents, and stars with uncanny accuracy. Her combat style with the axe is adapted for shipboard fighting—quick, close, and devastatingly effective in confined spaces. The Ship of Thunder she reclaimed responds to her commands in ways that seem almost supernatural, moving faster and handling better than any ordinary vessel.
 
 ## Social
 

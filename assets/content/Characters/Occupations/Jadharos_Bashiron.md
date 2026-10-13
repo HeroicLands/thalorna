@@ -402,8 +402,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Jâdhâros is an experienced seaman who has spent years sailing the coastal waters. Known for his reliability and work ethic, he is often called upon to handle various tasks aboard the ship. Jâdhâros is well-liked by his crewmates for his sense of humor and ability to lift spirits during long voyages. He dreams of one day becoming a captain himself.
 
-Now at 26 years of age, Jâdhâros Bâshirôn has established himself as a known figure among the common seamans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

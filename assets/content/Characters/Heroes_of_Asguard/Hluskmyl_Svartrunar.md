@@ -374,7 +374,7 @@ The most notorious saga of Hluskmýl Svartrúnar involves his desecration of [[p
 
 ### Personality
 
-Hluskmýl is vile and sadistic, taking pleasure in corruption and defilement. Where Hvirnorv is coldly rational and Skruldthann is brutally direct, Hluskmýl is cruel for cruelty's sake. He delights in twisting things of beauty into things of horror and considers the fall of [[place-haulonna|Haulonna]] his masterwork. He is paranoid and trusts no one, surrounding himself with layers of Helspawn guardians. Despite his evil, he possesses a perverse artistic sensibility—his rune-carvings are genuinely beautiful, which makes their dark purpose all the more disturbing.
+Hluskmýl is vile and sadistic, taking pleasure in corruption and defilement. Where Hvirnorv is coldly rational and Skruldthann is brutally direct, Hluskmýl is cruel for cruelty's sake. He delights in twisting things of beauty into things of horror and considers the fall of [[place-haulonna|Haulonna]] his masterwork. He is paranoid and trusts no one, surrounding himself with layers of Helspawn guardians. Despite his evil, he possesses a perverse artistic sensibility—his rune-carvings are beautiful, which makes their dark purpose all the more disturbing.
 
 ### Motivation
 
@@ -382,7 +382,7 @@ Hluskmýl seeks to corrupt and defile every place of beauty and life he can find
 
 ### Strengths
 
-Hluskmýl's runic magic is devastatingly effective at corrupting natural and divine magic, making him particularly dangerous to druids, the Sinalë, and priests. His black runes can taint land, water, and living things, spreading death and decay wherever they are carved. The corrupted [[place-haulonna|Haulonna]] serves as his stronghold and source of dark power. He can sense and target places of natural beauty and divine favor, drawn to them like a moth to flame.
+Hluskmýl's runic magic is devastatingly effective at corrupting natural and divine magic, making him particularly dangerous to druids, the Sinalë, and priests. His black runes can taint land, water, and living things, spreading death and decay wherever they are carved. The corrupted [[place-haulonna|Haulonna]] is his stronghold and source of dark power. He can sense and target places of natural beauty and divine favor, drawn to them like a moth to flame.
 
 ## Social
 

@@ -403,8 +403,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Sédrik has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Sédrik believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
 
-Now at 49 years of age, Sédrik Mórlineth has established himself as a known figure among the jailers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

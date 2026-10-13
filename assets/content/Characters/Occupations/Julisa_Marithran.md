@@ -400,8 +400,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a guilded family of Tarvén
 
 Júlisa took over the Maríthran Inn after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Júlisa prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
 
-Now at 48 years of age, Júlisa Maríthran has established herself as a known figure among the innkeepers of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

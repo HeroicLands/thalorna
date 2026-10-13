@@ -374,7 +374,7 @@ The most infamous saga of Hvirnorv the Deathmage recounts his assault on a grand
 
 ### Personality
 
-Hvirnorv is cold, calculating, and utterly without remorse. He views living beings as raw materials and dead ones as tools, and this utilitarian cruelty extends to his own followers, whom he considers expendable. He is intellectually brilliant and takes genuine pleasure in the elegance of a well-executed plan, though his definition of elegance includes acts of staggering cruelty. The one vestige of his former humanity is a fascination with beautiful objects—he collects art, jewelry, and fine craftsmanship, perhaps the last echo of the man he once was.
+Hvirnorv is cold, calculating, and utterly without remorse. He views living beings as raw materials and dead ones as tools, and this utilitarian cruelty extends to his own followers, whom he considers expendable. He is intellectually brilliant and takes pleasure in the elegance of a well-executed plan, though his definition of elegance includes acts of staggering cruelty. The one vestige of his former humanity is a fascination with beautiful objects—he collects art, jewelry, and fine craftsmanship, perhaps the last echo of the man he once was.
 
 ### Motivation
 

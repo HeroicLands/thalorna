@@ -73,7 +73,7 @@ This philosophy produces practitioners who are practical, conservative, and deep
 
 The school's signature domains are correspondingly tangible. Alchemy—the transformation of materials through arcane and chemical processes—has its deepest roots in Physéra, and the [[affiliation-ordoarcanis|College of Alchemy]] draws heavily from this school. Herblore, the arcane study of plants and their properties, is almost exclusively a Physéra domain. The magic of bodily enhancement—strength, endurance, resistance to harm—is Physéra's contribution to combat, less spectacular than Fire but often more survivable. And the shaping of stone, earth, and growing things is the school's most characteristic art: Physéra mages built the walls of more than one chapter house, and the gardens that surround them are as much arcane laboratories as they are pleasant grounds.
 
-The deeper principle of Physéra is _the power of what endures_. Fire burns out. Water evaporates. Wind dies. But the stone remains. The tree that survives the storm puts down deeper roots. The body that recovers from illness is stronger for having fought it. Physéra magic is patient magic—slow to build, slow to fade, and profoundly difficult to displace once established.
+The deeper principle of Physéra is _the power of what endures_. Fire burns out. Water evaporates. Wind dies. But the stone remains. The tree that survives the storm puts down deeper roots. The body that recovers from illness is stronger for having fought it. Physéra magic is patient magic—slow to build, slow to fade, and difficult to displace once established.
 
 ## The Opposition: Pneuménos
 

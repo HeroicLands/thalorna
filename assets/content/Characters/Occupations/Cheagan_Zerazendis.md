@@ -401,8 +401,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Chéagan inherited the Zêrâzêndis Inn from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Chéagan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
 
-Now at 28 years of age, Chéagan Zêrâzêndis has established herself as a known figure among the innkeepers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

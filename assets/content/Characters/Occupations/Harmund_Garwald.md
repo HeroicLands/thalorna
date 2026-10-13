@@ -402,8 +402,6 @@ Born in [[place-falkensten|Falkenstein]] to a Varokh smithing family, Hármund i
 
 Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters on the Nordmal frontier. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
 
-Now at 55 years of age, he is a known figure among the armorers of Vrystwald.
-
 ## Psyche
 
 ### Personality

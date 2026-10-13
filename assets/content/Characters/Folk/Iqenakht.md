@@ -36,4 +36,4 @@ Iqenakht is a 48-year-old man who stands 6'1" tall with a heavy build. He has ta
 
 # Dossier {#dossier}
 
-Iqenakht serves as senior priest at [[place-khelunu|Khelunu]], out of [[place-anlaghzetun|Anlagh-Zetûn]], and functions as the high priest's enforcer. Intelligence and ruthlessness both serve that function, and he is heavily invested in keeping certain matters buried. Anyone digging into those matters finds Iqenakht already aware of the digging.
+Iqenakht is senior priest at [[place-khelunu|Khelunu]], out of [[place-anlaghzetun|Anlagh-Zetûn]], and functions as the high priest's enforcer. Intelligence and ruthlessness both serve that function, and he is heavily invested in keeping certain matters buried. Anyone digging into those matters finds Iqenakht already aware of the digging.

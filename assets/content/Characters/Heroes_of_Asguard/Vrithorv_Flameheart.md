@@ -381,7 +381,7 @@ Vrithorv seeks the glory of battle and the approval of Svartbrandr, whom he wors
 
 ### Strengths
 
-Vrithorv's resistance to heat and fire borders on the supernatural, allowing him to fight in conditions that would incapacitate ordinary warriors. His ferocity in combat is legendary, and his war cry alone has been known to break enemy formations. He is an expert in fighting in volcanic and geothermal terrain, using the landscape itself as a weapon against his foes.
+Vrithorv's resistance to heat and fire borders on the supernatural, allowing him to fight in conditions that would incapacitate ordinary warriors. His ferocity in combat is famous, and his war cry alone has been known to break enemy formations. He is an expert in fighting in volcanic and geothermal terrain, using the landscape itself as a weapon against his foes.
 
 ## Social
 

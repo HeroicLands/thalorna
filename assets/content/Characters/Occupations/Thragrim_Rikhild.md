@@ -400,8 +400,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Thrágrim has spent most of his life working in the forests, felling trees and shaping timber for building. He learned the trade from his father and has a reputation for skill and quick work. He is a hardworking man who takes pride in his craft, but his rough manner can be off-putting. He often works alone, preferring the solitude of the woods to the bustle of the village.
 
-Now at 48 years of age, he is a known figure among the timberwrights of Vrystwald.
-
 ## Psyche
 
 ### Personality

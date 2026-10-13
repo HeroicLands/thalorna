@@ -58,7 +58,7 @@ The eldest and most feared of the Demon Lords, Hürnzhük is not a fallen offici
 
 The Tānthëi describe Hürnzhük not as a being with shape or personality, but as an _anti-classification_—a force that dissolves categories in its presence. Things near Hürnzhük lose their names. Metals forget whether they are iron or copper. Rivers run in directions that have no word. Mortals exposed to its influence begin to lose the distinctions that make thought possible: the difference between self and other, between past and future, between waking and sleep.
 
-The Bureau of Entropy (Hürn Sëi) was created, in part, to manage the boundary between controlled dissolution and Hürnzhük's domain. The Tānthëi consider any discussion of Hürnzhük profoundly dangerous—not because the name has power, but because thinking too precisely about anti-classification tends to erode the thinker's own categories. Scholars who study the Hürnlëi too deeply have been known to forget their own names.
+The Bureau of Entropy (Hürn Sëi) was created, in part, to manage the boundary between controlled dissolution and Hürnzhük's domain. The Tānthëi consider any discussion of Hürnzhük dangerous—not because the name has power, but because thinking too precisely about anti-classification tends to erode the thinker's own categories. Scholars who study the Hürnlëi too deeply have been known to forget their own names.
 
 ### Mortal Cultus: The Nüszōk Rëit
 

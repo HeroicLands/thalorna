@@ -396,8 +396,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Wulfhár is known for his intimidating presence and fearlessness in battle. He guards Thornhaven with its war-band and has built a reputation as a reliable protector. He trains younger fighters beside the people who have fought with him for years. While he thrives in battle, he struggles to express his emotions outside it.
 
-Now at 26 years of age, Wulfhár has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

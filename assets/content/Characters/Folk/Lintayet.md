@@ -36,4 +36,4 @@ Lintayet is a 50-year-old woman who stands 6'1" tall with a heavy build. She has
 
 # Dossier {#dossier}
 
-Lintayet serves as priestess of [[lore-thubaidty|Thubâ'i]] out of [[place-amqelulegez|Amqelu-Legez]], and reads the river's rise each year. What she says the year will bring is believed, because her readings have earned that trust over time. She also guides the performer [[being-thiryegezaqe|Thirye Gez'Aqêu]] through the spiritual side of her art, a second trust earned the same slow way.
+Lintayet is priestess of [[lore-thubaidty|Thubâ'i]] out of [[place-amqelulegez|Amqelu-Legez]], and reads the river's rise each year. What she says the year will bring is believed, because her readings have earned that trust over time. She also guides the performer [[being-thiryegezaqe|Thirye Gez'Aqêu]] through the spiritual side of her art, a second trust earned the same slow way.

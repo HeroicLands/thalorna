@@ -403,8 +403,6 @@ Born in the [[place-helionis|Heliónis]] region to a minor noble family of Helio
 
 Ghígnaros is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the court. He is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. His experience makes him a trusted figure among the nobility, though he is not without his detractors.
 
-Now at 50 years of age, Ghígnaros Mâkîthôn has established himself as a known figure among the heralds of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -404,8 +404,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Pédroth has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Pédroth is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
 
-Now at 53 years of age, Pédroth Jútharen has established himself as a known figure among the tentmakers of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

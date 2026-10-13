@@ -101,7 +101,7 @@ The band currently musters twelve warriors—every fighting man the Zarnûsh can
 
 - **Bahrazad Darûsh**—War Captain. Hard-eyed and economical with words, he radiates competence and danger in equal measure. The weight of the tribe's survival sits visibly on his shoulders.
 - **Shirvand Khorsand**—Second-in-command. Bahrazad's closest confidant and blood-brother. Equally skilled with bow and lance, but the kidnapping of his daughter Fazhina has made him reckless and volatile. He wants blood, not strategy.
-- **Razâshar Varîdân**—Master archer. Legendary accuracy from a galloping horse; prone to gambling and overconfidence. His debts to a Dûrmand horse-trader are a vulnerability the enemy could exploit.
+- **Razâshar Varîdân**—Master archer. Great accuracy from a galloping horse; prone to gambling and overconfidence. His debts to a Dûrmand horse-trader are a vulnerability the enemy could exploit.
 - **Torvâsh Kavirân**—Spear-specialist and tactician. Older warrior, once proposed for captain but content now as strategist. He was the one who argued for accepting the Shirzâri ransom—Bahrazad overruled him, and the disagreement has not been forgotten.
 - **Kâvehân Mahvârân**—Cavalry scout and tracker. Fastest rider in the band, with an almost supernatural sense for water and hidden camps. He has been conducting solo reconnaissance of the Shirzâri camps for months, and he knows their patrol patterns better than they do.
 - **Armanad Gazvân**—Heavy cavalry. Largest warrior in the band, prefers the lance to any other weapon. His wife and infant son were among those taken by the Shirzâri—he is fighting for his family, and he will not accept any outcome that does not include their return.

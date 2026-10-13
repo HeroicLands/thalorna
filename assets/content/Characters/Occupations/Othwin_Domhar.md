@@ -401,8 +401,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Óthwin has lived in the woods his entire life, learning to trap animals for food and furs from his grandfather. He is a grizzled veteran of the trade, well versed in the habits of forest creatures. His experience lets him find animals that others cannot, and he is often sent for to track dangerous predators. His gruff nature can be intimidating, but he is loyal to those who earn his trust.
 
-Now at 52 years of age, he is a known figure among the trappers of Vrystwald.
-
 ## Psyche
 
 ### Personality

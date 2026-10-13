@@ -404,8 +404,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Proven
 
 Vérynna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
 
-Now at 30 years of age, Vérynna Brânwyld has established herself as a known figure among the shamans of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -399,8 +399,6 @@ Arzânalàs Bâredâs is a huscarl of Lord Halvar's household at Tyrellan, in th
 
 In Moktur, the empire's northern shield, the border-lords keep households of sworn fighting men against the Varokh raids that come over the march every summer. Arzânalàs has been one of Lord Halvar's for thirty-seven years—a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
 
-He is a known figure among the huscarls of Vylaria.
-
 ## Psyche
 
 ### Personality

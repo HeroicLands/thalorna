@@ -373,7 +373,7 @@ The saga of Knirvthýra Goldenhair is one of resilience, transformation, and tri
 
 ### Personality
 
-Knirvthýra is magnetic and dangerous, a woman who has transformed suffering into power. She is utterly pragmatic, having learned early that sentiment is a luxury the poor cannot afford. She is warm and charming when it serves her purpose and cold as northern steel when it does not. Despite the hardness that her experiences have forged in her, she retains a fierce protectiveness toward those who have been exploited and uses her power to shelter and empower women in circumstances similar to her own past. She never forgets a slight, and her patience in pursuing vengeance is legendary.
+Knirvthýra is magnetic and dangerous, a woman who has transformed suffering into power. She is utterly pragmatic, having learned early that sentiment is a luxury the poor cannot afford. She is warm and charming when it serves her purpose and cold as northern steel when it does not. Despite the hardness that her experiences have forged in her, she retains a fierce protectiveness toward those who have been exploited and uses her power to shelter and empower women in circumstances similar to her own past. She never forgets a slight, and her patience in pursuing vengeance is famous.
 
 ### Motivation
 

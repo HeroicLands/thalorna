@@ -403,8 +403,6 @@ Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Zazûra
 
 Zazûran has spent his life transporting goods across the countryside, driving wagons filled with everything from grain to lumber. He knows the trade routes well and has a reputation for getting cargo to its destination on time, no matter the conditions. While reliable and hardworking, Zazûran is a bit rough around the edges and can be gruff with strangers.
 
-Now at 38 years of age, Zazûran Qusâdûnî has established himself as a known figure among the teamsters of Tarûzel. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

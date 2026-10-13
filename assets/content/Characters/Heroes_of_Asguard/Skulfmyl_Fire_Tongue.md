@@ -373,11 +373,11 @@ The saga of Skulfmýl Fire-Tongue tells of how he brought the city of [[place-tv
 
 ### Personality
 
-Skulfmýl is charismatic and provocative, a man who genuinely believes that the existing social order is rotten and that chaos is the necessary first step toward something better. He is witty, passionate, and dangerously persuasive, with an ability to articulate the grievances that ordinary people feel but cannot express. He is also deeply irresponsible, rarely staying to see the consequences of the revolutions he sparks. He tells himself this is because his work is to light the fire, not tend it, but the truth is that he fears what he would see if he looked back.
+Skulfmýl is charismatic and provocative, a man who believes that the existing social order is rotten and that chaos is the necessary first step toward something better. He is witty, passionate, and dangerously persuasive, with an ability to articulate the grievances that ordinary people feel but cannot express. He is also deeply irresponsible, rarely staying to see the consequences of the revolutions he sparks. He tells himself this is because his work is to light the fire, not tend it, but the truth is that he fears what he would see if he looked back.
 
 ### Motivation
 
-Skulfmýl believes that rigid social structures are prisons that benefit only those at the top, and that the common people deserve the freedom to shape their own destiny. He uses Vélgrímr's gifts to tear down oppressive systems, genuinely believing that what rises from the ashes will be better. His deeper motivation is a need to matter—to prove that words alone can change the world and that the pen (or tongue) truly is mightier than the sword.
+Skulfmýl believes that rigid social structures are prisons that benefit only those at the top, and that the common people deserve the freedom to shape their own destiny. He uses Vélgrímr's gifts to tear down oppressive systems, believing that what rises from the ashes will be better. His deeper motivation is a need to matter—to prove that words alone can change the world and that the pen (or tongue) truly is mightier than the sword.
 
 ### Strengths
 
@@ -407,4 +407,4 @@ Skulfmýl's oratory is supernaturally persuasive; his words can stir emotions, c
 
 2. **The Silence Campaign**—The Order of Stability has developed a way to magically suppress Skulfmýl's voice. Without his greatest weapon, he must find another way to survive and continue his work.
 
-3. **The Tyrant's Fall**—A genuinely terrible tyrant rules a northern city, and the oppressed people have begged Skulfmýl for help. For once, the revolution seems justified—but the tyrant's spymaster is one step ahead, and the city is a trap.
+3. **The Tyrant's Fall**—A terrible tyrant rules a northern city, and the oppressed people have begged Skulfmýl for help. For once, the revolution seems justified—but the tyrant's spymaster is one step ahead, and the city is a trap.

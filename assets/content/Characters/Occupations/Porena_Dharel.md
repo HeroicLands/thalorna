@@ -397,8 +397,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Pórena has worked as a longshorewoman since she was a girl, in a trade that has few women in it. She is known for her agility and for moving quickly through the crowded docks. She has earned respect among the other dock hands for her skill in cargo handling and is often called upon to train new workers. She takes pride in her work and is determined to show that a woman can do it as well as anyone.
 
-Now at 24 years of age, she is a known figure among the dock hands of Élavendre.
-
 ## Psyche
 
 ### Personality

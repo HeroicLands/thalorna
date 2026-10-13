@@ -117,4 +117,4 @@ The Velvet Hand occasionally contracts the Road for operations requiring desert 
 
 ## Identifying Marks
 
-Ash Road members use desert navigation symbols—stylized representations of stars, dunes, and oasis markers—scratched or drawn in ash at meeting points, safe houses, and caches. These marks are invisible to anyone unfamiliar with desert travel and meaningless to most who are. Members also carry small pouches of ash-gray sand from a specific (and secret) location in the Khazryn, which serves as a token of affiliation. The sand has a distinctive color and mineral composition that cannot be easily faked.
+Ash Road members use desert navigation symbols—stylized representations of stars, dunes, and oasis markers—scratched or drawn in ash at meeting points, safe houses, and caches. These marks are invisible to anyone unfamiliar with desert travel and meaningless to most who are. Members also carry small pouches of ash-gray sand from a specific (and secret) location in the Khazryn, which is a token of affiliation. The sand has a distinctive color and mineral composition that cannot be easily faked.

@@ -373,7 +373,7 @@ The saga of Murvselda the Enchantress tells of how she saved her homeland from r
 
 ### Personality
 
-Murvselda is sophisticated and perceptive, reading people with an accuracy that seems almost supernatural. She maintains a carefully cultivated image of graceful charm while keeping her true thoughts and feelings hidden behind an enigmatic smile. She is genuinely compassionate beneath her polished exterior and uses her influence to protect the vulnerable when she can. She is a master of the social arts—conversation, flattery, negotiation, and manipulation—but prefers persuasion to coercion and always seeks solutions that benefit as many people as possible.
+Murvselda is sophisticated and perceptive, reading people with an accuracy that seems almost supernatural. She maintains a carefully cultivated image of graceful charm while keeping her true thoughts and feelings hidden behind an enigmatic smile. She is compassionate beneath her polished exterior and uses her influence to protect the vulnerable when she can. She is a master of the social arts—conversation, flattery, negotiation, and manipulation—but prefers persuasion to coercion and always seeks solutions that benefit as many people as possible.
 
 ### Motivation
 

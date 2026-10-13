@@ -373,7 +373,7 @@ The saga of Dvirnmýl the Deceiver tells how he exploited the arrogance and gree
 
 ### Personality
 
-Dvirnmýl is charming, quick-witted, and completely amoral. He views the world as a game where the clever eat and the foolish starve, and he intends to feast. He can become anyone at a moment's notice—a weeping beggar, a confident noble, a devout priest—and switch between personas with unsettling ease. He is genuinely funny and uses humor as both a weapon and a shield. Despite his selfishness, he has a soft spot for orphans and street children, quietly funding several shelters with his ill-gotten gains, though he would deny it vigorously if confronted.
+Dvirnmýl is charming, quick-witted, and completely amoral. He views the world as a game where the clever eat and the foolish starve, and he intends to feast. He can become anyone at a moment's notice—a weeping beggar, a confident noble, a devout priest—and switch between personas with unsettling ease. He is funny and uses humor as both a weapon and a shield. Despite his selfishness, he has a soft spot for orphans and street children, quietly funding several shelters with his ill-gotten gains, though he would deny it vigorously if confronted.
 
 ### Motivation
 

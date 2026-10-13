@@ -63,7 +63,7 @@ Goddess of dreams, celestial visions, and the veil between worlds. Zûnêlâs br
 
 ## Worship
 
-The worship of Zûnêlâs is contemplative and private, centered on dreams, visions, and states of profound rest. Her temples are designed as sanctuaries of silence and shadow—spaces intentionally constructed to encourage sleep, meditation, and the vivid dreaming that brings divine insight. Temple chambers are draped in soft fabrics in shades of midnight and silver; the air is perfumed with herbs that encourage sleep; the very architecture seems designed to quiet the waking mind. Unlike the processional grandeur of temples honoring other deities, Zûnêlâs's sanctuaries are intimate spaces where the faithful come to rest, to dream, and to seek communion with the goddess through visions.
+The worship of Zûnêlâs is contemplative and private, centered on dreams, visions, and states of deep rest. Her temples are designed as sanctuaries of silence and shadow—spaces intentionally constructed to encourage sleep, meditation, and the vivid dreaming that brings divine insight. Temple chambers are draped in soft fabrics in shades of midnight and silver; the air is perfumed with herbs that encourage sleep; the very architecture seems designed to quiet the waking mind. Unlike the processional grandeur of temples honoring other deities, Zûnêlâs's sanctuaries are intimate spaces where the faithful come to rest, to dream, and to seek communion with the goddess through visions.
 
 The priesthood maintains the temple as a place of healing sleep for the sick, the injured, and the spiritually troubled. Those suffering from wasting illnesses, deep wounds, or psychological torment may spend nights or even weeks in Zûnêlâs's temple, cared for by priestesses while they rest and dream under the goddess's protection. Such rest is understood as more healing than any mundane remedy—for Zûnêlâs can mend what waking physicians cannot touch.
 
@@ -75,7 +75,7 @@ Offerings to Zûnêlâs are subtle and personal—a lock of hair bound with silv
 
 ## Organization
 
-The priesthood of Zûnêlâs is led by the **Somniatrix**, the High Priestess or High Priest—a title used regardless of gender. This figure is typically an elderly priestess of legendary visionary power, someone whose dreams have guided kingdoms and whose wisdom is sought by monarchs and councils. The Somniatrix serves as the chief interpreter of the goddess's will and as a teacher and mentor to younger priests.
+The priesthood of Zûnêlâs is led by the **Somniatrix**, the High Priestess or High Priest—a title used regardless of gender. This figure is typically an elderly priestess of visionary power, someone whose dreams have guided kingdoms and whose wisdom is sought by monarchs and councils. The Somniatrix is the chief interpreter of the goddess's will and as a teacher and mentor to younger priests.
 
 Below the Somniatrix stand the **Oraculi**, ordained priestesses (and occasionally priests) who serve as dream-healers and interpreters of divine vision. The Oraculi are trained for years in the techniques of lucid dreaming, in the interpretation of symbols and omens, and in the pastoral care of those seeking Zûnêlâs's guidance. They maintain the temple sanctuaries, oversee ritual purifications, and guide supplicants through the process of seeking divine dreams.
 

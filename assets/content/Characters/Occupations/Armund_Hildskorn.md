@@ -399,8 +399,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Ármund grew up among the halls and landing places of Falkenstein, using humor and wit to entertain those around him. His wordplay, acrobatics and mimicry have made him welcome at more than one hearth. He travels between village feasts and market gatherings, though his cheer often masks deeper insecurities.
 
-Now at 26 years of age, Ármund has established himself as a known figure among the jesters of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -399,8 +399,6 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Sundwíra has worked as an ostler for many years, focusing on the health and well-being of horses. She is known for her ability to identify problems early, ensuring that horses remain in peak condition. Sundwíra often assists travelers in saddling their horses and provides advice on care and feeding. Her reputation for excellence has earned her the trust of both locals and visiting merchants.
 
-Now at 26 years of age, Sundwíra has established herself as a known figure among the ostlers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

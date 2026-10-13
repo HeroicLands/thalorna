@@ -108,7 +108,7 @@ Tānzhös then performed the **Dāk Zhāklëi** (the Great Sorting): separating 
 
 The Hürnlëi was not destroyed by this process. It was merely pushed to the margins—contained but never eliminated. It persists at the edges of classification, in the spaces between categories, in paradoxes and contradictions. The [[lore-infrnlrlms|Infernal Realms]] are understood as regions where the Great Sorting was incomplete or has begun to unravel.
 
-This origin story has profound implications for the Tānvüri worldview: the universe is not a gift from a loving creator, but an ongoing _administrative project_. Maintaining cosmic order is not worship—it is _work_. And if the administration fails, the Hürnlëi will reclaim what was sorted.
+This origin story has implications for the Tānvüri worldview: the universe is not a gift from a loving creator, but an ongoing _administrative project_. Maintaining cosmic order is not worship—it is _work_. And if the administration fails, the Hürnlëi will reclaim what was sorted.
 
 ---
 
@@ -169,7 +169,7 @@ happen to carry text, and copies of the great ones are studied by clerks the way
 rulings.
 
 All of which the priests charge for, at a price of their own setting. The Tānvüri do not consider
-this corrupt. The years are real, the skill is real, and a badly made petition is genuinely lost—so the fee buys exactly what it appears to buy. It is also, as everyone understands, a monopoly.
+this corrupt. The years are real, the skill is real, and a badly made petition is lost—so the fee buys exactly what it appears to buy. It is also, as everyone understands, a monopoly.
 
 ### Sacrifice as Postage
 

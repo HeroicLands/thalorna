@@ -400,8 +400,6 @@ Born in the Élavendre region to a freeman family of Élavendri heritage, Dérae
 
 Déraen is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Déraen has a keen eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
 
-Now at 25 years of age, Déraen Kálmereth has established herself as a known figure among the salters of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

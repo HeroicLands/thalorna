@@ -30,7 +30,7 @@ data:
         title: Dróttstjóri
         lore: drottstjorirnk
         description: >-
-          Leads the order's rune-study and serves as Ódvar's senior seer and advisor where called.
+          Leads the order's rune-study and is Ódvar's senior seer and advisor where called.
     offices: {}
   seat: null
   population: null

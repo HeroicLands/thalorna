@@ -403,8 +403,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Ghéranira found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the work as a way to help families bear their loss and to see that their dead are treated with dignity. Her gentle manner suits her to the work, though it sometimes takes a toll on her. She often uses rituals and herbs that are believed to protect the spirit of the dead.
 
-Now at 33 years of age, she is a known figure among the embalmers of Heliónis.
-
 ## Psyche
 
 ### Personality

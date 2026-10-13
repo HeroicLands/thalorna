@@ -404,8 +404,6 @@ Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Rasûnu
 
 Rasûnum has worked in the city’s administrative offices for over three decades, climbing the ranks through diligence and a feel for the politics of the bureaucracy. He is known for his exact record-keeping and strict adherence to procedure, though the years have left him jaded and weary of corruption in the higher offices.
 
-Now at 53 years of age, he is a known figure among the bureaucrats of Tarûzel.
-
 ## Psyche
 
 ### Personality

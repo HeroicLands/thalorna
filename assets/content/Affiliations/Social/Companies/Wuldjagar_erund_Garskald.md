@@ -104,7 +104,7 @@ The northern expedition will test every skill the Wuldjagár possesses. They wil
 
 ## Internal Dynamics
 
-The Wuldjagár functions with remarkable cohesion, but the food crisis has exposed fault lines:
+The Wuldjagár functions with strong cohesion, but the food crisis has exposed fault lines:
 
 - **Hárundar's challenge** to Tháralund's authority is the most visible tension. He argues—not without reason—that negotiating shared hunting rights with the Hildskorn is safer than gambling the entire company on an expedition into unknown territory. The fact that Hárundar has been courting the Hildskorn chief's daughter adds a personal dimension to his preference for diplomacy. Tháralund sees the boy's argument as cowardice dressed up as prudence, and has said so publicly.
 - **Erinthil's decline** is a slow-motion catastrophe. His eyesight is failing, his reflexes are a half-step slower than they were, and he knows it. The northern hunt will demand the best from every hunter, and Erinthil may no longer be the best. He has compensated so far with cunning and experience, but a missed shot at the wrong moment—a charging bear, a startled elk herd—could cost lives. He will not step down voluntarily. In Varokh culture, a hunter who admits he can no longer hunt is admitting he is ready to die.
