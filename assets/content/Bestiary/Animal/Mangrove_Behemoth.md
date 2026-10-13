@@ -1,12 +1,13 @@
 ---
 shortcode: mngbhmth
-name: {full: Mangrove Behemoth, aliases: []}
+name: {full: Mangrove Behemoth, aliases: [Vaarvanu]}
 type: being
 subType: creature
 description: "A reptilian predator of some fifteen hundred pounds and up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."
 tags: [animal]
 data:
   packFolder: animals
+  culture: kaliharanclt
   icon: icon-person
   templatePriority: null
   archetypes: []
@@ -250,7 +251,7 @@ The path along the mangrove edge is packed mud and roots, and halfway along it t
 
 # Dossier {#dossier}
 
-The Mangrove Behemoth is the great monitor lizard of the coastal lowlands of [[place-kaliharargn|Kalihara]], fifteen to eighteen feet from snout to tail, with a broad flat head, a mouth that opens wider than the head looks able to, and a bite that poisons whatever it does not kill outright. It lives in the mangrove and the jungle edge behind the island's eastern shore, among the gardened villages, and it is one of the creatures the island is known for and nobody abroad has seen alive. It is patient, solitary and slow until it strikes, and then it is very fast for a few strides. It eats anything it can catch or find dead, from crabs to wild pigs to a buffalo calf, and a grown behemoth can swallow a goat whole.
+The Mangrove Behemoth, _vaarvanu_ in [[skill-kalihrlng|Kalihári]], "the one that holds the water", for an animal that lies still at the water's edge for a day, is the great monitor lizard of the coastal lowlands of [[place-kaliharargn|Kalihara]], fifteen to eighteen feet from snout to tail, with a broad flat head, a mouth that opens wider than the head looks able to, and a bite that poisons whatever it does not kill outright. It lives in the mangrove and the jungle edge behind the island's eastern shore, among the gardened villages, and it is one of the creatures the island is known for and nobody abroad has seen alive. It is patient, solitary and slow until it strikes, and then it is very fast for a few strides. It eats anything it can catch or find dead, from crabs to wild pigs to a buffalo calf, and a grown behemoth can swallow a goat whole. It holds the shore, and the [[being-mbrydct|Ember-eyed Cat]] holds the forest behind it; the cat is the only forest beast that competes with it for carcasses.
 
 ## Presentation
 
@@ -258,7 +259,7 @@ A low, heavy body slung between four bowed, thick-clawed legs, and a tail nearly
 
 ## In the Land
 
-Behemoths hold the coastal lowlands of eastern Kalihara, the strip of mangrove, mudflat and jungle edge between the sea and the steep ridges that close off the interior. They are thickest round the river mouths, where the tide strands fish and the villages' pigs and goats come down to drink, and on the islets off the eastern shore, where they swim across between the tides. Each animal keeps a range of a few miles, with a burrow in a bank or under a root-mass for the cool of the night, and a few sunning places it uses every morning. They do not climb the ridges and they are not met in the terraced valleys above them. Round [[place-ilovanu|Ilovanu]] they come to the edge of the cleared ground and no further, but the harbor-wardens tell every foreign factor not to walk the mangrove path beyond the last warehouse at dusk, and the warning is about behemoths.
+Behemoths hold the coastal lowlands of eastern Kalihara, the strip of mangrove, mudflat and jungle edge between the sea and the steep ridges that close off the interior. They are thickest round the river mouths, where the tide strands fish and the villages' pigs and goats come down to drink, and on the islets off the eastern shore, where they swim across between the tides and share the beaches with the [[being-slndtrtl|Island Turtle]]. Each animal keeps a range of a few miles, with a burrow in a bank or under a root-mass for the cool of the night, and a few sunning places it uses every morning. They do not climb the ridges and they are not met in the terraced valleys above them. Round [[place-ilovanu|Ilovanu]] they come to the edge of the cleared ground and no further, but the harbor-wardens tell every foreign factor not to walk the mangrove path beyond the last warehouse at dusk, and the warning is about behemoths.
 
 ## Key Behaviors
 
@@ -266,7 +267,7 @@ A behemoth hunts by waiting. It lies beside a game trail, a wallow or a village'
 
 ## What the Villages Do
 
-The coastal villages live beside behemoths as they live beside the monsoon, as part of the island they are bound to keep in balance, and they do not hunt them out. They fence their gardens and pig-pens with a stake wall the height of a man's chest, keep children off the river paths at dawn and dusk, and draw water in company. A village that loses a person to a behemoth puts the matter to its council. The council decides whether that one animal has learned to take people, and if it has, the men kill it with long spears from behind a stake fence, and the village cleans and burns the body. The villages wash every behemoth bite at once with seawater and a bark poultice whose making they keep among themselves, and they do not let a bitten person sleep alone. Foreigners at Ilovanu have offered good prices for the hide and the skull. The harbor-wardens do not let either leave the island.
+The coastal villages live beside behemoths as they live beside the monsoon, as part of the island they are bound to keep in balance, and they do not hunt them out. They fence their gardens and pig-pens with a stake wall the height of a man's chest, cut from the dead prop roots of the [[lore-klhrflora|Stilt Tree]], whose stakes do not rot, keep children off the river paths at dawn and dusk, and draw water in company. A village that loses a person to a behemoth puts the matter to its council. The council decides whether that one animal has learned to take people, and if it has, the men kill it with long spears from behind a stake fence, and the village cleans and burns the body. The villages wash every behemoth bite at once with seawater and a bark poultice whose making they keep among themselves, and they do not let a bitten person sleep alone. Foreigners at Ilovanu have offered good prices for the hide and the skull. The harbor-wardens do not let either leave the island.
 
 ## Signs
 
