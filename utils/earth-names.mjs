@@ -17,8 +17,12 @@
  * guide or a comment. A name is recast as a gloss or a rendering, and a sound is
  * described without naming a language.
  *
- * Two places may name them: the Terran analogs note, and a `# terran_analog:`
- * comment line.
+ * Two places may name other Earth names: the Terran analogs note, and a
+ * `# terran_analog:` comment line.
+ *
+ * "English", "French" and "Latin" are the reader's own languages. Each is refused
+ * as a whole word in any case everywhere under `assets/content`, the Terran
+ * analogs note and `# terran_analog:` lines included.
  *
  * Findings are written `file:line:column: error: message`, the path first and
  * relative to the working directory, to stderr; the summary goes to stdout and the
@@ -787,7 +791,8 @@ function matcher(names) {
     );
 }
 
-const ENGLISH = /\benglish\b/gi;
+// The reader's own languages: refused on every line, exempt or not.
+const READER_LANGUAGES = /\b(?:english|french|latin)\b/gi;
 // Capitalized only: "common speech" in lower case is an in-setting lingua franca.
 const COMMON = /\bCommon[- ](?:tongue|Tongue|Speech)\b/g;
 // Any case: no people in the setting calls its year-count common.
@@ -800,7 +805,7 @@ const COMMON_CALENDAR = /\bcommon calendar\b/gi;
  * @returns {string[]} one `file:line:column: error: message` finding per hit
  */
 export function findEarthNames(file, text, names = earthMatcher()) {
-    if (EXEMPT_FILES.has(file)) return [];
+    const exemptFile = EXEMPT_FILES.has(file);
     const lexicon = LEXICON_PAGE.test(file);
     let retiredLevel = 0;
     return text.split("\n").flatMap((line, i) => {
@@ -811,20 +816,24 @@ export function findEarthNames(file, text, names = earthMatcher()) {
                 if (retired) retiredLevel = retired[1].length;
                 else if (heading[1].length <= retiredLevel || !retiredLevel) retiredLevel = 0;
             }
-            if (retiredLevel && TABLE_ROW.test(line)) return [];
         }
-        if (ANALOG_LINE.test(line)) return [];
+        const exempt =
+            exemptFile || ANALOG_LINE.test(line) || Boolean(retiredLevel && TABLE_ROW.test(line));
         if (file === CONCORDANCE && RECORDED_KEY.test(line)) return [];
         const hits = [];
         for (const [re, what, subject] of [
-            [ENGLISH, "the reader's language"],
-            [COMMON, "a Common tongue"],
-            [
-                COMMON_CALENDAR,
-                'the Vylarian Calendar\'s name in the tooling; write "the Vylarian Calendar"',
-            ],
-            [names, "an Earth proper name"],
-            [greekMatcher(), "an Earth-Greek name", foldAccents(line)],
+            [READER_LANGUAGES, "the reader's language"],
+            ...(exempt ?
+                []
+            :   [
+                    [COMMON, "a Common tongue"],
+                    [
+                        COMMON_CALENDAR,
+                        'the Vylarian Calendar\'s name in the tooling; write "the Vylarian Calendar"',
+                    ],
+                    [names, "an Earth proper name"],
+                    [greekMatcher(), "an Earth-Greek name", foldAccents(line)],
+                ]),
         ]) {
             for (const m of (subject ?? line).matchAll(re)) {
                 hits.push({ col: m.index + 1, text: m[0], what });

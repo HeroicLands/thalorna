@@ -7,7 +7,7 @@ description: "The central sacred mountain range of Élavendre—heart of Áelend
 tags: [mountain, sacred]
 data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}
 
-# terran_analog: "The Swiss Alps and adjacent French Alpine massifs—the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Cervaron Spine that forms the Vylarian frontier further east."
+# terran_analog: "The Swiss Alps and adjacent Savoyard Alpine massifs—the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Cervaron Spine that forms the Vylarian frontier further east."
 ---
 
 - **Type:** Sacred mountain range

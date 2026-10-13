@@ -79,7 +79,7 @@ data:
   packFolder: calypsa
 sohl: {system: {commonSkills: [nordmalng, valtarlng]}}
 
-# terran_analog: "A small fictional island off the northern French coast—roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and northern French Aurèldían commerce."
+# terran_analog: "A small fictional island off the Normandy coast—roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and Norman Aurèldían commerce."
 ---
 
 ## Overview

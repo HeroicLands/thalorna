@@ -16,7 +16,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Helonic}}
 
-# terran_analog: Bethuan stands to Helonic as Spanish to Latin, and the Khelâthi superstrate parallels the Arabic stratum in Spanish.
+# terran_analog: Bethuan stands to Helonic as Spanish to the Roman tongue, and the Khelâthi superstrate parallels the Arabic stratum in Spanish.
 # terran_analog: the fossilized article is Arabic al- frozen into Spanish loans such as alcázar and almacén.
 ---
 

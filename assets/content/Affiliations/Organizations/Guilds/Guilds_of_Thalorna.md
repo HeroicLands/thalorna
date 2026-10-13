@@ -12,7 +12,7 @@ subType: economy
 description: "Overview of the guild system as it functions across the realms of Thalorna—varying by region in form, prestige, and authority, but ubiquitous as the institution by which trades are organized, standards are kept, and apprentices are trained."
 tags: []
 
-# terran_analog: the Vylarian tongue and institutions are the Latin of the Roman Empire.
+# terran_analog: the Vylarian tongue and institutions are the tongue of the Roman Empire.
 ---
 
 - **Type:** Overview note describing the guild system as a continent-spanning phenomenon

@@ -24,7 +24,7 @@ test("an Earth name is found, with its column", () => {
 test("whole words and in-world vocabulary pass", () => {
     assert.equal(findEarthNames("a.md", "englishman").length, 0);
     assert.equal(findEarthNames("a.md", "the common tongue of an empire").length, 0);
-    assert.equal(findEarthNames("a.md", "latin and the romans in lower case").length, 0);
+    assert.equal(findEarthNames("a.md", "the romans in lower case").length, 0);
     assert.equal(findEarthNames("a.md", "Romanization of the Frankish").length, 0);
 });
 
@@ -32,6 +32,16 @@ test("the Terran analogs note and terran_analog comments are exempt", () => {
     assert.deepEqual(findEarthNames("assets/content/Reference/Terran_Analogs.md", "Rome"), []);
     assert.deepEqual(findEarthNames("a.md", "# terran_analog: Rome, Norse"), []);
     assert.equal(findEarthNames("a.md", "Rome").length, 1);
+});
+
+test("the reader's languages are refused even where Earth names are exempt", () => {
+    const analogs = "assets/content/Reference/Terran_Analogs.md";
+    assert.equal(findEarthNames("a.md", "# terran_analog: the Latin of Rome").length, 1);
+    assert.equal(findEarthNames("a.md", "# terran_analog: latin").length, 1);
+    assert.equal(findEarthNames(analogs, "French").length, 1);
+    assert.equal(findEarthNames(analogs, "English").length, 1);
+    assert.deepEqual(findEarthNames("a.md", "# terran_analog: Japan"), []);
+    assert.deepEqual(findEarthNames(analogs, "Rome"), []);
 });
 
 test("Earth-Greek given and place names are found, accented or not", () => {

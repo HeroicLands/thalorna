@@ -75,7 +75,7 @@ data:
   packFolder: xelem
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
+# terran_analog: Venezuela, Guyana, Suriname, the Guianas, northern Brazil
 # terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 

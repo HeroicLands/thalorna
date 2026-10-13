@@ -53,7 +53,7 @@ data:
   relations: {}
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: the Vylarian tongue and institutions are the Latin of the Roman Empire.
+# terran_analog: the Vylarian tongue and institutions are the tongue of the Roman Empire.
 ---
 
 Letters still come to Besîkar from [[place-orzara|Ôrzâra]] addressed to the "Magnum Collegium Tarûzelicum," and the house they are addressed to answers none of them. That house is the Vezâkûnî, the Council of the Guild-Wardens, and it has no Vylarian name: it charters Tarûzel's guilds, registers their masters, examines their apprentices, judges disputes between trades and, through its treasury, runs the Confederation's banking, all in Tarûzeli and on Tarûzelian forms. The Vylarian [[affiliation-magnumclgm|Magnum Collegium]] refuses to acknowledge the name it chose, and the refusal is a standing diplomatic offense that the Tarûzelian council protests in public and enjoys in private, because it costs Vylaria credibility every time it is repeated.

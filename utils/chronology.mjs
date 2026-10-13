@@ -21,7 +21,8 @@
  * year zero, because 1 BF is followed directly by 1 AF.
  *
  * An era is a row of a calendar note's `data.eras`, and the toolchain bounds and
- * selects it, so this guard says nothing about eras. A `stated` date gives an
+ * selects it; the guard holds a calendar's ages to its body (rule 10) and a
+ * Mídhalión history note to its age (rule 11). A `stated` date gives an
  * event's year as a calendar writes it: `calendar` is the calendar note's
  * shortcode and `text` is a date in that calendar's default format, at whatever
  * precision it names (`1 AC`, `2378 ST`). It is read through package-build's own

@@ -13,7 +13,7 @@ data:
   packFolder: xelem
   government: xelem
 
-# terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil; the Ha'nal Tz'uma is the Orinoco and the Ha'nal Xilik the Essequibo; the eastern highlands are the Guiana Highlands and the pu'utz are its tepuis; Tz'alukul is Orinoquía and Ch'al Pu'utz is Kamarata; the vision-vine is ayahuasca
+# terran_analog: Venezuela, Guyana, Suriname, the Guianas, northern Brazil; the Ha'nal Tz'uma is the Orinoco and the Ha'nal Xilik the Essequibo; the eastern highlands are the Guiana Highlands and the pu'utz are its tepuis; Tz'alukul is Orinoquía and Ch'al Pu'utz is Kamarata; the vision-vine is ayahuasca
 ---
 
 ## Overview
