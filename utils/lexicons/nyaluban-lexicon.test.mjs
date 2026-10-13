@@ -74,6 +74,61 @@ test("a word closing on a consonant the page does not allow is an error", () => 
     assert(errorsOf(broken).length > 0);
 });
 
+const wordEdited = (from, to) =>
+    errorsOf(rowEdited(`| \`${from}\``, (line) => line.replace(`\`${from}\``, `\`${to}\``)));
+
+test("a word opening on a fricative and a stop is an error", () => {
+    for (const opening of ["sp", "st", "sk"])
+        assert(
+            wordEdited("lubemo", `${opening}ubemo`).some((f) =>
+                f.message.includes(`\`${opening}\``),
+            ),
+            opening,
+        );
+});
+
+test("a fricative and a stop inside a word is an error", () => {
+    assert(wordEdited("lubemo", "lusbemo").some((f) => f.message.includes("`sb`")));
+    assert(wordEdited("lubemo", "luskemo").some((f) => f.message.includes("`sk`")));
+});
+
+test("a syllable closing on a consonant inside a word is an error", () => {
+    assert(wordEdited("lubemo", "lulbemo").some((f) => f.message.includes("`lb`")));
+    assert(wordEdited("lubemo", "lupkemo").some((f) => f.message.includes("`pk`")));
+});
+
+test("a word closing on any consonant is an error, nasals and voiceless stops included", () => {
+    for (const coda of ["m", "n", "ng", "p", "t", "k"])
+        assert(
+            wordEdited("lubemo", `lubemo${coda}`).some((f) => f.message.includes(`\`${coda}\``)),
+            coda,
+        );
+});
+
+test("a nasal before a stop opens or stands inside a word without a finding", () => {
+    for (const word of [
+        "mbubemo",
+        "ndubemo",
+        "nkubemo",
+        "njubemo",
+        "lumbemo",
+        "lunjemo",
+        "lunzemo",
+    ])
+        assert.deepEqual(
+            wordEdited("lubemo", word).map((f) => f.message),
+            [],
+            word,
+        );
+});
+
+test("a consonant with a glide after it stands inside a word without a finding", () => {
+    assert.deepEqual(
+        wordEdited("lubemo", "lubwemo").map((f) => f.message),
+        [],
+    );
+});
+
 test("a word written in a letter the tongue lacks is an error", () => {
     const broken = rowEdited("| `heto`", (line) => line.replace("`heto`", "`heco`"));
     assert(errorsOf(broken).some((f) => f.message.includes("`c`")));

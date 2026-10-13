@@ -37,6 +37,7 @@ Nyáluban employs a rich consonantal inventory shaped by areal contact with neig
 
 - Unvoiced: p, t, k
 - Voiced: b, d, g
+- Affricate: j (as in "judge")
 - Implosive: b', d', g'—voiced stops drawn inward instead of released outward, giving them a hollow, popping quality
 
 **Fricatives:**
@@ -53,7 +54,7 @@ Nyáluban employs a rich consonantal inventory shaped by areal contact with neig
 **Distinctive Features:**
 
 - The implosive consonants (b', d', g') create a striking rhythmic pattern and carry grammatical weight
-- Geminate consonants are phonemically significant and frequently mark verb tenses or plurality
+- Vowel length is phonemically significant and frequently marks verb tenses or plurality
 - Nasal consonants are numerous and productive in morphological processes
 - The language possesses a high degree of consonantal richness, particularly in fricatives and nasals
 
@@ -104,9 +105,9 @@ Different drum types (bass drums, talking drums, pitch-varying drums) produce di
 
 Analysis reveals:
 
-- **Initial Clusters:** Limited; typically fricative + stop (sp-, st-, sk-) or fricative + nasal
-- **Syllable Structure:** Predominantly CV and CVC; complex codas are rare
-- **Final Consonants:** Limited to nasals (-m, -n, -ny, -ng) and voiceless stops (-p, -t, -k); final vowels are extremely common
+- **Initial Clusters:** Only a nasal followed by a stop or affricate: mb-, mp-, nd-, nt-, nk-, nj-, nz-. No word opens on a fricative and a stop (sp-, st-, sk-) or on a fricative and a nasal
+- **Syllable Structure:** Open: every syllable is a consonant and a vowel (CV) or a vowel alone (V). A nasal before a stop is the onset of the syllable that follows it, so mb, nd, nk and nj open syllables rather than close them. A consonant may take a glide (w or y) after it, as in bw or ly. No cluster joins a fricative to a stop
+- **Final Consonants:** None; every word closes on a vowel
 - **Word Length:** Moderate; compounds and affixed words create polysyllabic formations, but roots tend toward bisyllabic or monosyllabic forms
 - **Stress Patterns:** Primary stress typically falls on the initial syllable; secondary stress may occur on alternate syllables in longer words. Stress interacts complexly with tonal patterns.
 
@@ -119,7 +120,7 @@ Nyáluban exhibits **Subject-Verb-Object (SVO)** order in main clauses, though p
 ### Nominal System
 
 - **Nouns** are organized into noun classes marked by prefixes that indicate animacy, countability, and other semantic features
-- **Number:** Singular and plural are marked through prefix modification and sometimes through gemination or vowel changes
+- **Number:** Singular and plural are marked through prefix modification and sometimes through vowel lengthening or vowel changes
 - **Definiteness:** Articles (demonstratives and identifiality markers) precede the noun and agree with its class
 - **Possession:** Inalienable possession (body parts, kinship relations) is marked through prefix agreement; alienable possession uses adpositional constructions
 
@@ -198,7 +199,7 @@ Contemporary Nyáluban shows some dialectal variation, though the oral tradition
 2. **Zherámi le zhõne**—_Blessing invocation; "Spirits good abide" (formulaic expression of peaceful greeting)_
 3. **Nkúlu ẽnyi-kî**—_Statement of respect; "Elder [you]-honor" (mid tone marks deference)_
 4. **Kabìshi njíra**—_Trade expression; "merchandise-precious bring-hither" (rising tone marks urgency)_
-5. **Djámbà selémé**—_Oath formula; "Ancestors witness" (falling tone marks solemnity and finality)_
+5. **Jámbà selémé**—_Oath formula; "Ancestors witness" (falling tone marks solemnity and finality)_
 
 ## Related Languages
 
@@ -238,7 +239,7 @@ Secret names, known only to close family or spiritual advisors, are believed to 
 - Reference the ancestral founder, a geographical feature of significance, or a historical event
 - Often elaborate compounds with lengthy histories and associated genealogies
 - May include honorific prefixes marking the clan's status or spiritual affiliations
-- Examples: _Mphándza_ (river-watchers), _Kúbola_ (mountain-dwellers), _Ndánga-Sólembe_ (the-ancient-gatherers)
+- Examples: _Mpánza_ (river-watchers), _Kúbola_ (mountain-dwellers), _Ndánga-Sólembe_ (the-ancient-gatherers)
 
 ### Titles and Honorifics
 
@@ -256,11 +257,11 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Bákeni (noble)
 - Bálesho (strong-one)
 - Dámbani (worthy)
-- Djáo (lion)
-- Djéllo (skillful)
 - Fódemi (learned)
-- Gadún (generous)
+- Gadúno (generous)
 - Gòngwelo (victorious)
+- Jáo (lion)
+- Jélo (skillful)
 - Kádewo (brave)
 - Kásimo (fighter)
 - Kisádo (protector)
@@ -271,7 +272,7 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Mondú (wise)
 - Ndáfiyo (noble-born)
 - Njáka (lion-like)
-- Pándza (wanderer)
+- Pánza (wanderer)
 - Rábesi (respected)
 - Sálumo (fortunate)
 - Sándé (truthful)
@@ -300,18 +301,19 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Éduma (jewel)
 - Fádewa (distinguished)
 - Féliwa (happy)
-- Gádja (gracious)
+- Gája (gracious)
 - Góndesi (noble)
 - Habíshe (well-loved)
 - Háyeba (excellent)
 - Jénda (gentle)
-- Kádja (capable)
+- Júma (beloved)
+- Kája (capable)
 - Káleshi (valuable)
 - Kénzowa (pure)
 - Kíshela (beautiful-one)
 - Kóbesa (strong)
 - Lálíja (dancing)
-- Lándja (fair)
+- Lánja (fair)
 - Lénza (bright)
 - Lólewa (luminous)
 - Máderi (inspired)
@@ -323,13 +325,13 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Múndewa (merciful)
 - Ndáka (honorable)
 - Néntoli (graceful)
-- Nídja (noble)
+- Níja (noble)
 - Níseta (brilliant)
 - Njúma (blessed)
 - Núremi (light)
-- Pándja (steadfast)
+- Pánja (steadfast)
 - Píkesa (excellent)
-- Rádja (royal)
+- Rája (royal)
 - Rálesi (celebrated)
 - Sálúa (peaceful)
 - Sándeyo (gracious)
@@ -340,11 +342,10 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Tálíba (beautiful)
 - Témoyi (steadfast)
 - Téndoli (worthy)
-- Tjúma (beloved)
 - Túndaye (strong)
-- Wándja (beloved)
+- Wánja (beloved)
 - Wéndasi (victorious)
-- Yádja (precious)
+- Yája (precious)
 - Záyeli (flowering)
 - Zénda (morning-brightness)
 
@@ -367,9 +368,9 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Lándala (the-travelers)
 - Lómbala (the-memory-keepers)
 - Lúsani (the-radiant-ones)
-- Málazul (the-bright-hearts)
+- Málazuli (the-bright-hearts)
 - Mbándala (the-gatherers)
-- Mphándza (the-river-watchers)
+- Mpánza (the-river-watchers)
 - Múgandala (the-strong-ones)
 - Ndálude (the-noble-line)
 - Ndánga-Sólembe (the-ancient-gatherers)
@@ -389,7 +390,7 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Órindi (the-singers)
 - Ótandala (the-standing-firm)
 - Pálambe (the-peaceful-folk)
-- Pándazul (the-wandering-blessed)
+- Pándazuli (the-wandering-blessed)
 - Péndala (the-dancers)
 - Rábandala (the-respected-line)
 - Róbandala (the-powerful-ones)
@@ -400,7 +401,7 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Súlamba (the-gentle-speakers)
 - Tábandala (the-foundation-keepers)
 - Tálamba (the-eloquent-ones)
-- Tándizul (the-firm-blessed)
+- Tándizuli (the-firm-blessed)
 - Téndiro (the-standing-watchers)
 - Tómalinde (the-wise-speakers)
 - Túbandala (the-strong-line)

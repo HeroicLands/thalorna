@@ -31,8 +31,9 @@
  *   and an optional Tongue column naming which tongues write it), `### Word
  *   edges` (Edge | Sounds, with the rows "Pairs that may open a word" and
  *   "Consonants that close a word", and optionally "Pairs that may close a word",
- *   "Vowels that may stand together" and "Consonants that may carry a
- *   syllable"), `### Clusters` (Rule | Count, with
+ *   "Vowels that may stand together", "Consonants that may carry a
+ *   syllable", "Pairs that may stand inside a word" and "Glides that may
+ *   follow a consonant"), `### Clusters` (Rule | Count, with
  *   the row "Most consonants together inside a word") and optionally
  *   `### Spellings the pages do not use` (Written | Read as | What it is).
  * - `## Building words` with optional `### Joining` (First closes on | Second
@@ -503,6 +504,8 @@ export function readPage(text) {
                 closingPairs: [],
                 vowelPairs: null,
                 syllabic: [],
+                innerPairs: null,
+                glides: [],
             };
             for (const { cells } of t.rows) {
                 const label = plain(cells[0]).toLowerCase();
@@ -513,10 +516,20 @@ export function readPage(text) {
                 else if (label.startsWith("vowels that may stand together")) out.vowelPairs = forms;
                 else if (label.startsWith("consonants that may carry a syllable"))
                     out.syllabic = forms;
+                else if (label.startsWith("pairs that may stand inside")) out.innerPairs = forms;
+                else if (label.startsWith("glides that may follow")) out.glides = forms;
             }
             return out;
         },
-        { opening: [], closing: [], closingPairs: [], vowelPairs: null, syllabic: [] },
+        {
+            opening: [],
+            closing: [],
+            closingPairs: [],
+            vowelPairs: null,
+            syllabic: [],
+            innerPairs: null,
+            glides: [],
+        },
     );
 
     const clusters = read(() => {
@@ -837,6 +850,15 @@ export function soundProblems(word, page, tag) {
         closesOnConsonant && !bound ? -1 : undefined,
     );
     for (const r of inner) {
+        if (
+            page.edges.innerPairs &&
+            r.length === 2 &&
+            !page.edges.innerPairs.includes(r.join("")) &&
+            !page.edges.glides.includes(r[1])
+        )
+            out.push(
+                `sets \`${r.join("")}\` together inside a word, a pair the page does not list`,
+            );
         if (r.length > page.clusters)
             out.push(
                 `runs ${r.length} consonants together (\`${r.join("")}\`), past ${page.clusters}`,

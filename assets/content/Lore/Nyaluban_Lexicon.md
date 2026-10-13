@@ -10,7 +10,7 @@ The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no
 
 A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _Ruwozi_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyóli Ruwozi_ is the Daughter of the Lion, and _Shorínya Ndáfo_ is the Great Brightness.
 
-The sound of Nyáluban is open and sung. Most syllables are a consonant and a vowel, a word closes on a vowel far more often than not, and a nasal before a stop opens many words: _mb_, _nd_, _nk_. Pitch carries meaning, which is what lets a drum speak it; the pages mark a high tone with the acute and a low one with the grave, and neither changes the letter beneath it.
+The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning, which is what lets a drum speak it; the pages mark a high tone with the acute and a low one with the grave, and neither changes the letter beneath it.
 
 ## How to read the tables
 
@@ -52,6 +52,7 @@ Each word table has these columns:
 | ----------------------- | ----------- | ------------------------------------------------------------------------------ |
 | `p`, `t`, `k`           | consonant   | the plain stops, without a breath after them                                   |
 | `b`, `d`, `g`           | consonant   | the voiced stops                                                               |
+| `j`                     | consonant   | the stop-and-hiss of _judge_                                                   |
 | `b'`, `d'`, `g'`        | consonant   | the implosives: _b_, _d_, _g_ drawn inward, with a hollow, popping sound       |
 | `f`, `s`, `sh`, `h`     | consonant   | _f_, _s_, _ship_, _h_                                                          |
 | `z`, `zh`               | consonant   | _z_, and the _s_ of _measure_                                                  |
@@ -65,13 +66,15 @@ Each word table has these columns:
 
 ### Word edges
 
-A word opens on a vowel, a single consonant or one of the pairs below, and closes on a vowel or on one of the consonants below. A bound stem, written with a closing hyphen, closes on anything.
+Every syllable is a consonant and a vowel, or a vowel alone. A word opens on a vowel, a single consonant or one of the nasal pairs below, and closes on a vowel. Inside a word a run of two consonants is a nasal pair below, or a consonant with a glide after it, as in _lobwe_; the nasal belongs to the syllable that follows it, so no syllable closes on a consonant. No pair is a fricative with a stop. A bound stem, written with a closing hyphen, closes on anything.
 
-| Edge                           | Sounds                                                           |
-| ------------------------------ | ---------------------------------------------------------------- |
-| Pairs that may open a word     | `sp`, `st`, `sk`, `sm`, `sn`, `mb`, `mp`, `nd`, `nt`, `nk`, `nz` |
-| Consonants that close a word   | `m`, `n`, `ny`, `ng`, `p`, `t`, `k`                              |
-| Vowels that may stand together | `ai`, `au`, `ei`, `eu`, `oi`, `ou`                               |
+| Edge                               | Sounds                                   |
+| ---------------------------------- | ---------------------------------------- |
+| Pairs that may open a word         | `mb`, `mp`, `nd`, `nt`, `nk`, `nj`, `nz` |
+| Consonants that close a word       | —                                        |
+| Pairs that may stand inside a word | `mb`, `mp`, `nd`, `nt`, `nk`, `nj`, `nz` |
+| Glides that may follow a consonant | `w`, `y`                                 |
+| Vowels that may stand together     | `ai`, `au`, `ei`, `eu`, `oi`, `ou`       |
 
 ### Clusters
 
@@ -340,7 +343,7 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `Indala-Bomba` | `Heto Lubemo`      | built on Earth words, the ground of the council          |
 | `Tambá le ína` | `Zherámi le zhõne` | an Earth phrase, the blessing invocation                 |
 | `Nkúlu ngá-kî` | `Nkúlu ẽnyi-kî`    | an Earth word, in the statement of respect               |
-| `Djámbà sángo` | `Djámbà selémé`    | an Earth word, in the oath formula                       |
+| `Djámbà sángo` | `Jámbà selémé`     | an Earth word, in the oath formula                       |
 | `Ndánga-Sámbo` | `Ndánga-Sólembe`   | an Earth word, in the name lists                         |
 | `Amadú`        | `Amaléso`          | an Earth given name, in the name lists                   |
 | `Bákari`       | `Bákeni`           | an Earth given name, in the name lists                   |
@@ -408,6 +411,23 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `Tómandala`    | `Tómalinde`        | an Earth word, in the name lists                         |
 | `Zákandala`    | `Zákedala`         | an Earth word, in the name lists                         |
 | `Zúmandala`    | `Zúmaledi`         | an Earth word, in the name lists                         |
+| `Djáo`         | `Jáo`              | a cluster the tongue lacks, in the name lists            |
+| `Djéllo`       | `Jélo`             | a cluster the tongue lacks, in the name lists            |
+| `Pándza`       | `Pánza`            | a cluster the tongue lacks, in the name lists            |
+| `Gádja`        | `Gája`             | a cluster the tongue lacks, in the name lists            |
+| `Kádja`        | `Kája`             | a cluster the tongue lacks, in the name lists            |
+| `Lándja`       | `Lánja`            | a cluster the tongue lacks, in the name lists            |
+| `Nídja`        | `Níja`             | a cluster the tongue lacks, in the name lists            |
+| `Pándja`       | `Pánja`            | a cluster the tongue lacks, in the name lists            |
+| `Rádja`        | `Rája`             | a cluster the tongue lacks, in the name lists            |
+| `Tjúma`        | `Júma`             | a cluster the tongue lacks, in the name lists            |
+| `Wándja`       | `Wánja`            | a cluster the tongue lacks, in the name lists            |
+| `Yádja`        | `Yája`             | a cluster the tongue lacks, in the name lists            |
+| `Málazul`      | `Málazuli`         | a closing the tongue lacks, in the name lists            |
+| `Mphándza`     | `Mpánza`           | a cluster the tongue lacks, in the name lists            |
+| `Pándazul`     | `Pándazuli`        | a closing the tongue lacks, in the name lists            |
+| `Tándizul`     | `Tándizuli`        | a closing the tongue lacks, in the name lists            |
+| `Djámbà`       | `Jámbà`            | a cluster the tongue lacks, in the name lists            |
 | `Old Kraal`    | `Old Heto`         | an Earth word, the stone enclosures of the lost builders |
 | `Old Kraals`   | `Old Hetos`        | an Earth word, the stone enclosures of the lost builders |
 | `Kraal`        | `Heto`             | an Earth word, a stone enclosure                         |
