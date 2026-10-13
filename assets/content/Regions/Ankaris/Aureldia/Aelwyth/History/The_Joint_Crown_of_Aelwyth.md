@@ -78,7 +78,7 @@ The [[lore-fallkhazturn|fall of Khazártúrn]] in 2427 BF ended all dealing betw
 
 The crown was held by a Sinalë king, and the kingdom was governed by both peoples. How the offices were divided is not recorded; the Khazári archive at Vorgald holds the figures and the Sinalë do not discuss them. The work divided by skill. The Khazári cut stone, as they always have: roadbeds laid across the island in fitted blocks, bridge piers, and the footings of the towns that grew along them. The Sinalë built little in stone and did not wish to. They raised the crown's other works as living things: avenues of trained oak and beech along the roadbeds that gave shade and marked the way in winter, hedged boundaries, and bridges of grown timber. Neither people's work can be read without the other's.
 
-The subjects were the farmers the Khazári had long kept at their gates, the [[lore-vardain|Vardain]] and the other [[lore-pelwarpepl|Pelwar]] settled on the island, with the small parties of newcomers who came over later and were accepted. The crown gave them one law across the island, and the Khazári, who had always depended on their farmers' goodwill, found that it suited them.
+The subjects were the [[lore-vardain|Vardain]], the farmers the Khazári had long kept at their gates, with the small parties of [[lore-pelwarpepl|Pelwar]] who came over later and were accepted. The crown gave them one law across the island, and the Khazári, who had always depended on their farmers' goodwill, found that it suited them.
 
 ## What It Left
 

@@ -530,7 +530,7 @@ Tānvüri is a language isolate with no widely-accepted external relatives. Olde
 
 In Tānvüri tradition, names are auspicious utterances invoking favorable qualities, celestial principles, or virtuous ancestors. The bestowing of a name is an occasion of considerable importance, often conducted by a learned scholar or priest who consults astrological and classical texts.
 
-Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes the given name, creating names of two to three compound elements. Given names are constructed from the Tānvüri vocabulary through compounding—a name like _Tëitjëk_ ("Iron Blade") or _Lënglōt_ ("Bright Lotus") is simultaneously a name and a meaningful phrase.
+Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes the given name, creating names of two to four compound elements. Given names are constructed from the Tānvüri vocabulary through compounding—a name like _Tëitjëk_ ("Iron Blade") or _Lënglōt_ ("Bright Lotus") is simultaneously a name and a meaningful phrase.
 
 **Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dāk_ (great), _vüs_ (warrior), _zhös_ (dragon), _jīk_ (gold), _thëi_ (scholar), _rëk_ (thunder).
 

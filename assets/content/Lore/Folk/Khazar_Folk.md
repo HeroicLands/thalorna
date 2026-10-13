@@ -93,7 +93,7 @@ Like the Sinalëan enclaves, the holds are remote, and the remoteness is the mou
 
 Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vrystwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tanvurempr|Tānvür]]'s western border, and ranges in [[place-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is [[lore-khazarturn|Khazártúrn]].
 
-The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], founded around **3100 BF** in the late centuries of [[lore-khazarturn|Khazártúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the making of it began with the making of farmers, and those farmers are the [[lore-vardain|Vardain]].
+The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], founded around **3100 BF** in the late centuries of [[lore-khazarturn|Khazártúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the Khazári carried a small company of humans across with them to farm beneath it, and their descendants are the [[lore-vardain|Vardain]].
 
 ## Relations with Humanity
 

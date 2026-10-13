@@ -22,14 +22,13 @@ and the earlier movement was not flight.
 The [[lore-flkkhazar|Khazári]] have never been able to feed themselves—a hold grows nothing and will
 not depend on an outside larder—so wherever they settled they needed farmers at the gate, and the
 Pelwar were the people they took. Peaceful, agricultural, patient and numerous, Pelwar communities were
-**brought** to hold-country across Ankaris and beyond it, including across open water to
-[[place-aelwyth|Aelwyth]], to work land for lords who did not farm.
+**brought** to hold-country across Ankaris and beyond it, to work land for lords who did not farm.
 
 None of this was remembered by the Pelwar as an event. It is not in their traditions; it happened to
 particular villages over centuries and left no story. It is, however, why human communities turn up
 beside Khazári holds far earlier than any human migration accounts for—and the
-[[lore-vardain|Vardain]] of Aelwyth, who still farm for a hold and cannot say why they were taught to,
-are the last of them.
+[[lore-vardain|Vardain]] of Aelwyth, who are not Pelwar but an older people, still farm for a hold and cannot say why they were taught to,
+and are the last such community.
 
 ## What Drove Them: the Varkhad
 

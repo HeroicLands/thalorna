@@ -95,7 +95,7 @@ Then the two separated, long before any human city. Apart from one attempt on Ae
 
 Each people guards the secret for its own reason. The Khazári guard it as their humiliation. The Sinalë guard it because one of their own did it, and because of what they had failed to say beforehand.
 
-On Aelwyth the break was later attempted in earnest. A sub-group of the Sinalë and a sub-group of the Khazári joined in a single kingdom governing the whole island, before humans arrived there. When the Sinalë king was killed at the Three Sisters, the Sinalë abandoned the field, and the Khazári took it very poorly. A scholar who presses the question meets a silence so absolute and so cold that the conversation is not attempted again.
+On Aelwyth the break was later attempted in earnest. A sub-group of the Sinalë and a sub-group of the Khazári joined in a single kingdom governing the whole island, before the Pelwar arrived there. When the Sinalë king was killed at the Three Sisters, the Sinalë abandoned the field, and the Khazári took it very poorly. A scholar who presses the question meets a silence so absolute and so cold that the conversation is not attempted again.
 
 ## What the Sinalë Keep Closed
 

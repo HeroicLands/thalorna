@@ -48,7 +48,7 @@ What broke it was [[lore-khazarturn|Khazártúrn]]. In 2427 BF a Sinalë outlaw 
 
 Each people guards the secret for its own reason. The Khazári because it is their humiliation; the Sinalë because one of theirs did it, and because of what they had failed to say beforehand.
 
-On Aelwyth the break was afterward attempted in earnest. A sub-group of the Sinalë and a sub-group of the Khazári joined in a single kingdom that governed the whole island, before humans arrived there. When the Sinalë king was killed at the [[place-threesisters|Three Sisters]], the Sinalë abandoned the field, and the Khazári took it very poorly.
+On Aelwyth the break was afterward attempted in earnest. A sub-group of the Sinalë and a sub-group of the Khazári joined in a single kingdom that governed the whole island, before the Pelwar arrived there. When the Sinalë king was killed at the [[place-threesisters|Three Sisters]], the Sinalë abandoned the field, and the Khazári took it very poorly.
 
 By the time humanity began to build cities and keep records, the Sinalë were already diminished—fewer in number, withdrawn into ever-more-remote sanctuaries, engaged in concerns that had nothing to do with the affairs of the younger race. The rise of human civilizations barely registered in their reckoning. Empires that seemed eternal to humans—the Vylarian Republic, the Khelâthi dynasties—were brief seasons to a people who remembered the world before cities existed.
 

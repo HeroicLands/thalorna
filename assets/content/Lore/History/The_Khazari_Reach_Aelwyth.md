@@ -3,7 +3,7 @@ shortcode: vorgaldcut
 name: {full: The Cutting of Vorgald, aliases: [The Khazári Reach Aelwyth]}
 type: lore
 subType: history
-description: "Around 3100 BF the Khazári cut Vorgald in the eastern Ironfells—the westernmost hold they ever placed and the only one reached across open sea—and make the farmers beneath it who become the Vardain."
+description: "Around 3100 BF the Khazári cut Vorgald in the eastern Ironfells—the westernmost hold they ever placed and the only one reached across open sea—and bring across the farmers beneath it who become the Vardain."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [place-ironfells, lore-flkkhazar, lore-grukaraelwyth]
       summary: >-
-        In the late centuries of Khazártúrn the Khazári carry a hold further west than they ever carry another, across open sea, and cut Vorgald in the eastern Ironfells of Aelwyth. Because a hold cannot import what it eats, the founding begins with the making of farmers beneath it. Those communities become the Vardain, and Aelwyth becomes the one country where both Elder Races are living on the same ground.
+        In the late centuries of Khazártúrn the Khazári carry a hold further west than they ever carry another, across open sea, and cut Vorgald in the eastern Ironfells of Aelwyth. Because a hold cannot import what it eats, the Khazári bring a small company of humans across with them to farm beneath it, a much older people than the Pelwar. Their descendants become the Vardain, and Aelwyth becomes the one country where both Elder Races are living on the same ground.
       standing: single-source
       where:
         locus: [place-vorgald]
@@ -26,7 +26,7 @@ data:
             how: >-
               the island is the one country in the world where Sinalë and Khazári hold ground together, which is why what happens elsewhere seven centuries later is answered here rather than accepted
             knowledge: named
-      who: [{ref: lore-flkkhazar, role: actor}, {ref: lore-pelwarpepl, role: instrument}]
+      who: [{ref: lore-flkkhazar, role: actor}, {ref: lore-vardain, role: instrument}]
       follows:
         - event: lore-khazturnrsd
           how: enabled
@@ -52,8 +52,8 @@ sea cliffs, is [[place-vorgald|Vorgald]]. That it exists is known. Very little e
 The Deep Folk came to this range while [[lore-khazarturn|Khazártúrn]] still stood and its people were
 still carrying holds outward from it. Vorgald is the far western end of that reach: a hold on an
 island, across open water, at the edge of the country its founders knew. Because a hold cannot import
-what it eats, making one here meant first making farmers beneath it, and the
-[[lore-vardain|Vardain]] of the valleys below have fed this mountain ever since.
+what it eats, making one here meant bringing farmers across with the founders, and the
+[[lore-vardain|Vardain]] of the valleys below, their descendants, have fed this mountain ever since.
 
 What it settles is the ground everything else in the island's elder history stands on. Seven centuries
 later Khazártúrn fell and the two Elder Races stopped dealing with one another everywhere in the

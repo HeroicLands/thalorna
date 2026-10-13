@@ -150,5 +150,5 @@ In the year of the city 2090, on the eighth day of the thaw, Fekare of Ravadarun
 - [[place-vorgald|Vorgald]]—the hold the account founds, and what Aelwyth knows of it
 - [[lore-vorgaldcut|The Cutting of Vorgald]]—the founding as the setting's history keeps it
 - [[lore-khazariclt|Khazári]]—the finder, the refuge, the feast of the finding and the record
-- [[lore-vardain|The Vardain]]—the farmers made at the gate, and what became of them
+- [[lore-vardain|The Vardain]]—the farmers at the gate, and what became of them
 - [[skill-drthrkscrpt|Pirzath]]—the carved form the inscription is cut in

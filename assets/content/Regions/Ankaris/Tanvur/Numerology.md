@@ -23,7 +23,7 @@ A Tānvüri builder asked to add a fourth step to a temple stair adds a fifth in
 
 ## The Inauspicious Numbers
 
-**Four** belongs to no domain at all. It is not the elements' five, the throne's nine or the Emperor's one, and the Tānvüri call it an unsorted number. It is kept out of filings, buildings and names, because a thing marked with four is held to slip a little out of its classification.
+**Four** belongs to no domain at all. It is not the elements' five, the throne's nine or the Emperor's one, and the Tānvüri call it an unsorted number. It is kept out of official buildings, because a thing marked with four is held to slip a little out of its classification.
 
 **Six** is one short of the seven domains of the [[lore-phlsphylvr|Lëivōr]] philosophy—the five material domains, Spirit and the Neutral—and so it is a number of unfinished sorting. It is not wholly unlucky, and in some contexts it is a good number, but families avoid it for a wedding or a long contract, where what is wanted is permanence.
 

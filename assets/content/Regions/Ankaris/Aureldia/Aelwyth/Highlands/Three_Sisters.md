@@ -46,15 +46,15 @@ There had been humans on Aelwyth for a very long time, and it was the
 
 A hold grows nothing and cannot be supplied from outside, so the Deep Folk have always needed farmers
 within reach of the gate—and when they settled this island they did what they had done everywhere
-else: they **brought Pelwar across from the mainland to work the land for them**. Peaceful, patient,
-agricultural, and willing; the arrangement is the same one that produced the
-[[lore-vardain|Vardain]] a world away, and it worked here for a very long time.
+else: they **brought a small company of humans across with them to work the land**, an older
+people than the Pelwar, whose descendants are the [[lore-vardain|Vardain]]. Peaceful, patient,
+agricultural, and willing; the arrangement worked here for a very long time.
 
-More came afterward on their own account, in **small numbers**, and were **accepted**—given ground,
+Pelwar came afterward on their own account, in **small numbers**, and were **accepted**—given ground,
 taken into the kingdom, and dealt with as subjects rather than intruders. The Khazári in particular
 took to them, for reasons that were entirely practical and not at all secret.
 
-So when the flood arrived, the people already on Aelwyth were **the newcomers' own kin**, settled
+So when the flood arrived, many of the humans already on Aelwyth were **the newcomers' own kin**, settled
 generations deep, farming for elder-race lords. That is a large part of why the island could not simply
 refuse them, and a large part of why refusing them anyway went as badly as it did.
 
