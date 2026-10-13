@@ -150,19 +150,35 @@ sohl:
 
 ![[cobra|Cobra]]{float=top-left}
 
-The basket lid rises and you see it before the handler speaks — a column of living muscle rising vertically from the coils below, spreading its hood into a broad, flattened disc of scaled flesh that frames the head like a dark halo. The scales are smooth and gleaming, deep black shading to gray-brown along the flanks, and the hood displays a pattern that your mind insists is a face — two dark eyespots staring from the distended skin with the fixed regard of something that has decided whether you are prey or threat and is merely waiting for you to act first. The head is small and elegant, almost delicate, tapering to a blunt snout with dark, unblinking eyes that track movement with mechanical precision. The forked tongue flickers — once, twice — tasting the air with a deliberation that suggests it is gathering more information about you than you would prefer. When it draws back into the striking coil, the movement is unhurried, a slow retraction of the raised body into a tighter S-curve that puts several feet of muscle behind the head like a drawn bowstring. The hiss, when it comes, is not loud but carries an unmistakable finality.
+A sound like torn cloth comes from the dark behind the grain-bin. In the slit of light from the door a slender body rises off the floor to the height of your waist, the neck flattening into a broad, dark hood with a pale pattern on it. A small oval head sways over it, perfectly calm, and the round black eyes watch your hand.
 
 # Dossier {#dossier}
 
-The Cobra is the most feared snake of the river lowlands — a large, venomous serpent found in river margins, irrigation channels, granaries, abandoned buildings, and the rocky outcrops of the desert edge. An adult cobra reaches six to eight feet in length, with exceptional specimens exceeding nine feet, and while its body is relatively slender compared to constrictors, it is deceptively powerful and fast. The cobra's most distinctive feature is its hood — an expansion of the neck ribs that spreads the skin into a broad, flattened disc when the snake is threatened or preparing to strike. The hood serves as both warning display and species identification, and in the river kingdoms the cobra's hooded silhouette — the uraeus — is the most sacred symbol of royal authority, representing divine sovereignty and the power of life and death. Living cobras are sacred, associated with the protection of royalty and the wrath of the gods, and killing one is forbidden except in direct self-defense. This creates a complicated relationship in agricultural communities, where cobras are simultaneously revered and feared — they control rats and other vermin in granaries, but their venom can kill a grown man in hours. Adventurers encounter cobras in irrigation works, in the ruins of ancient temples, in granary complexes, and coiled in the shade of riverside vegetation during the heat of the day.
+The Cobra is the great venomous snake of the river lowlands, six to eight feet long, thirty pounds, found in irrigation channels, granaries, ruined temples and rocky ground at the desert edge of [[place-aukhelathrgq|Aû'Khelâthu]]. Its raised hood is the royal sign of the empire, and a living cobra is sacred and may be killed only in self-defense. Farmers value it for the rats it keeps down and fear it for a bite that kills a grown man within hours.
 
 ## Presentation
 
-A large, smooth-scaled serpent with a slender, muscular body that appears deceptively fragile until the hood spreads. The dorsal coloring ranges from jet black to dark brown to gray-olive depending on the local population, while the ventral scales are typically paler, often cream or yellowish. The hood, when extended, reveals its full width — sometimes eight to ten inches across — displaying species-specific markings that include dark eyespots, pale bands, or chevron patterns. The head is relatively small and oval, with round pupils and a calm, almost contemplative expression that belies the animal's lethal capability. The fangs are fixed (not folding like a viper's) and relatively short — half an inch to an inch in length — but positioned at the front of the mouth for efficient venom delivery. The body moves with a fluid, lateral undulation on the ground but adopts a distinctive raised posture when alarmed — the anterior third of the body lifts vertically while the hood spreads, creating the iconic silhouette that is recognized and feared throughout the river lands. The overall impression is of a creature that carries itself with a quiet, almost regal authority — unhurried, deliberate, and confident in its own lethality.
+A large, smooth-scaled snake with a slender, strong body, jet black, dark brown or gray-olive above and cream or yellow below. When it is alarmed it lifts the front third of its body and spreads a hood eight to ten inches across, marked with eyespots, pale bands or chevrons. The head is small and oval, with round pupils. The fangs are fixed and short, half an inch to an inch, at the front of the mouth. It moves in a smooth side-to-side glide.
+
+## In the Land
+
+Cobras live in the papyrus marshes of the delta of [[place-aukhelathrgq|Aû'Khelâthu]], along the irrigation channels and field-banks of the river valley, in granaries and in the rocky ground at the desert edge. A snake keeps to one length of bank or one set of ruins, hunting rats, frogs and birds, and basking on a wall in the morning. Cobras are common in the river lowlands, and nearly every village has one living in its mud-brick walls or its grain store.
 
 ## Key Behaviors
 
-Cobras are primarily diurnal or crepuscular, active during morning and evening hours and resting during the hottest parts of the day in shade, burrows, or beneath debris. They are solitary hunters, feeding primarily on rodents, frogs, lizards, other snakes, and birds. Their preference for rodent prey draws them inevitably toward human grain storage, creating the paradoxical situation where the most dangerous snake in the region is also one of the most economically useful. Cobras are not naturally aggressive toward humans — they prefer to avoid confrontation and will retreat if given the opportunity. However, when cornered, surprised, or defending a nest, they become extremely dangerous. The hood display is the primary warning — a cobra that has raised its body and spread its hood is communicating a clear and unambiguous threat. If the warning is not heeded, the strike follows. Female cobras guarding eggs are the most dangerous, as they will strike without the preliminary hood display, attacking anything that approaches the nest with immediate and lethal aggression. Cobras are excellent swimmers and frequently hunt along irrigation channels and riverbanks, and they are capable climbers, ascending trees and walls to reach bird nests or to escape floods.
+Cobras are active in the morning and evening and lie up in shade, burrows or rubble through the heat. They hunt alone, taking rats, frogs, lizards, other snakes and birds, which draws them to granaries. They avoid a fight and retreat if they can. A cornered or startled cobra rears and spreads its hood as a clear warning, and strikes if the warning is ignored. A female guarding eggs strikes without warning. Cobras swim well and hunt along channels and banks, and they climb trees and walls to reach nests or escape a flood.
+
+## What the Delta Villages Do
+
+The raised hood is the royal sign of the empire, and a cobra is sacred to [[lore-shebazetdty|Shebazet]], the cobra-goddess of the delta's papyrus marshes, whose temples and estates hold the marsh villages of [[place-garshebazet|Gar-Shebazet]]. A village does not kill a cobra in its granary; it sends for a snake-charmer of the temple, who takes the animal in a basket and carries it to the marsh. A farmer who is bitten is taken to the temple, whose priests keep the antidotes. Fowlers and reed-cutters wear tall boots of reed-weave and beat the ground ahead of them with a stick.
+
+## Signs
+
+- A shed skin, whole and as long as a man, caught on a reed or in the crack of a granary wall.
+- A track like a rope drawn through the dust, with a soft S-shaped edge.
+- A sudden hiss from a pile of baskets or the shadow of a door, and a hood spread like a hand.
+- A dead rat on the threshold of a granary, with two small punctures in the neck.
+- Frogs leaping out of a ditch in a line, all in the same direction.
 
 ## Combat Strategy
 
@@ -186,15 +202,15 @@ The cobra's venom is a potent neurotoxin that attacks the nervous system, causin
 
 ### Hood Display
 
-The spread hood serves as both warning and defense. The expanded neck presents a larger, more intimidating silhouette that causes many predators to reconsider their approach. The eyespot markings on some cobra populations create the illusion of a much larger face staring at the threat, exploiting the instinctive fear response of predators that recognize facial patterns. The display is genuinely effective — most animals, including humans, instinctively recoil from a hooded cobra, buying the snake time to escape or prepare a strike.
+The spread hood works as both warning and defense. The expanded neck presents a larger, more intimidating silhouette that causes many predators to reconsider their approach. The eyespot markings on some cobra populations create the illusion of a much larger face staring at the threat, exploiting the instinctive fear response of predators that recognize facial patterns. The display is effective — most animals, including humans, instinctively recoil from a hooded cobra, buying the snake time to escape or prepare a strike.
 
-### Exceptional Awareness
+### Awareness
 
 Cobras perceive the world primarily through vibration, scent, and thermal sensitivity. They detect the footsteps of approaching creatures through ground vibration, identify prey and predators through the scent organ in the roof of the mouth (served by the constantly flickering tongue), and sense the body heat of warm-blooded creatures at close range. This combination of senses makes cobras extremely difficult to surprise and allows them to hunt effectively in total darkness.
 
 ### Sacred Serpent
 
-The cobra holds a position of profound religious significance in the river kingdoms. The uraeus — the rearing cobra — adorns the crowns of the god-kings and the headdresses of high priests, symbolizing divine authority and the power to deal death to enemies of the realm. Living cobras found in temples are considered manifestations of divine protection and are fed milk and offerings. This sacred status means that cobras in settled river areas face virtually no predation pressure from humans, allowing populations to thrive in close proximity to human habitation.
+The cobra holds a position of deep religious significance in the river kingdoms. The uraeus — the rearing cobra — adorns the crowns of the god-kings and the headdresses of high priests, symbolizing divine authority and the power to deal death to enemies of the realm. Living cobras found in temples are considered manifestations of divine protection and are fed milk and offerings. This sacred status means that cobras in settled river areas face virtually no predation pressure from humans, allowing populations to thrive in close proximity to human habitation.
 
 ## Attributes
 

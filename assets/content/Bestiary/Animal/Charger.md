@@ -242,19 +242,35 @@ sohl:
 
 ![[charger|Charger]]{float=top-left}
 
-The muscle-bound form towers above human height, a living mountain of power and discipline. The warhorse stands seventeen hands at the shoulder, its chest broad as a shield and thick-boned beneath sleek, well-groomed coat. When it shifts its weight, the ground acknowledges the burden—each hoof the size of a large man's palm impacts with a soft but definitive thud. Its breathing is controlled and deep, nostrils flaring only slightly, and its eyes—intelligent, dark, watchful—track movement with the focus of a seasoned warrior. The scent that rises from its warm body carries the metallic tang of sweat and leather, the smell of something bred for violence but held firm through discipline.
+Behind the stable-yard gate a tall, dark horse is being walked in a ring by a groom, its coat shining and its mane braided with leather cords. It is taller than any farm horse you have seen and heavier in the bone. When a trumpet sounds in the street outside, its ears flick forward and its nostrils flare, and it does not shy. A pale scar runs across the shoulder where a blade once opened the hide.
 
 # Dossier {#dossier}
 
-The Charger is a warhorse: specifically selected, carefully bred, and extensively trained for military service. Standing sixteen to eighteen hands tall and weighing twelve hundred to eighteen hundred pounds, these horses represent centuries of selective breeding for size, strength, and temperament. A Charger has been conditioned from youth to tolerate noise, violence, the scent of blood, and the presence of armed soldiers. Their courage is legendary; they will charge into circumstances that would panic less disciplined horses. They are most commonly found in service to wealthy nobility, military organizations, or as the mount of experienced knights. Adventurers encounter Chargers primarily on roads when passing convoys, on battlefields, as remnants of destroyed military forces, or as prestigious mounts for powerful individuals.
+The Charger is the warhorse of the noble houses and garrison towns, sixteen to eighteen hands high and twelve to eighteen hundred pounds, selected, bred and trained to carry an armed rider into a fight. It is brought up from a colt to stand under a drum and a banner and to endure noise, blood and fire. The stables of [[place-aureldirgn|Aurèldía]], [[place-aelwyth|Aelwyth]] and the five cities of [[place-byzariargn|Byzaría]] keep them, and a knight rides one to battle and a lighter horse on the road.
 
 ## Presentation
 
-An impressive equine standing noticeably taller and broader than ordinary horses, with particularly heavy bone structure in the legs. The body is muscular and compact, with a thick neck, pronounced withers, and a compact back well-suited to bearing armor and weight. The head is proportionally smaller than common horses but conveying an impression of intelligence and strength. The coat is typically solid colors: black, dark brown, chestnut, or gray—carefully maintained and groomed. The mane and tail are often braided with leather cords, metal clips, or small bells. The hooves are large and dark, kept in excellent condition. Chargers often bear scars from previous battles: old cuts, burns, or marks where armor edges have abraded hide. Their bearing is distinctive—the posture of a trained war machine, alert and responsive, ears forward and nostrils flared. Many Chargers have visible discipline marks from training: areas where saddle sores, bites, or whip marks have left faint scars beneath the coat.
+A tall, broad horse with heavy bone in the legs and a muscular, compact body, thick in the neck, with pronounced withers and a short back that carries armor and a rider. The head is small for the frame and carried alertly. The coat is a solid black, dark brown, chestnut or gray, kept groomed, and the mane and tail are braided with cords, clips or small bells. The hooves are large and dark. An old charger carries scars, healed cuts, burns and marks where armor edges have rubbed the hide.
+
+## In the Land
+
+Chargers are kept in the stables of the noble houses and keeps of [[place-aureldirgn|Aurèldía]] and [[place-aelwyth|Aelwyth]] and in the garrison towns of the five cities of [[place-byzariargn|Byzaría]]. A charger lives in a stall, is groomed and fed on grain, and is brought out for drill and for war. It is not bred in the open: stud farms in the grain belt and the river meadows breed them under a stud-master, and a colt is trained from his second year.
 
 ## Key Behaviors
 
-Chargers are fundamentally herd animals, but their training has modified natural herd instinct. They bond intensely with their handler or rider and will follow commands even in situations where untrained horses would panic. They are more aggressive than civilian horses and show dominance behaviors toward other equines, establishing hierarchy through posturing and occasional fighting. In military service, they work with other Chargers in coordinated formations, moving as units rather than individuals. They are sensitive to the emotional state of their rider—a calm, confident handler produces a calm, confident horse; a fearful handler produces a horse that senses danger and becomes unreliable. Off the battlefield, they can be surprisingly gentle and playful with handlers they trust, though they maintain alertness and respond explosively when threatened. They consume large quantities of food and water, requiring excellent nutrition to maintain their physical condition.
+Chargers are herd animals, but training has bent the instinct toward the rider. A charger bonds with its handler and follows commands that would send an untrained horse bolting. It is more aggressive than a farm horse and fights other horses for rank. Drilled chargers move together as one body. A horse reads its rider: a calm rider produces a calm horse, and a frightened one makes it unreliable. Away from the field a charger can be gentle with people it trusts, and it eats and drinks a great deal to hold its condition.
+
+## What the Knights Do
+
+A knight or a man-at-arms keeps one charger as the horse he fights from, and he rides a lighter horse on the road. The stable-master trains a colt to stand under a banner, to hold steady at a drum and at the smell of blood, and to turn into a charge on a word. A good charger is worth more than the armour on its rider's back. In a siege or a rout the horses are the first thing a defeated army tries to save and the first thing a victor takes. A charger bred in war is led, not ridden, over any road that is not necessary, and is walked cool after drill.
+
+## Signs
+
+- A long stable with doors on both sides, and a groom at each one walking a big horse cool.
+- Hoof-prints, deep and wide, in the churned mud of a drill-field.
+- A horse that stands unmoved by a shout, a horn and a fire.
+- A saddle with a high cantle and a breastplate hung over a stall door.
+- A bay stallion that flattens its ears and turns its quarters to a stranger who walks past too close.
 
 ## Combat Strategy
 
@@ -284,7 +300,7 @@ Once an opponent is on the ground or knocked down, the Charger will deliberately
 
 Generations of selective breeding and rigorous training have created a horse that does not panic in circumstances that would terrify ordinary equines. A Charger trained to war tolerates fire, blood, death screams, and close combat without losing focus or bolting. This training allows them to be effective in combat scenarios and makes them valuable military assets. The bond between a Charger and its experienced rider can be extraordinarily strong, with the horse responding to subtle weight shifts and commands inaudible to others.
 
-### Exceptional Strength and Mass
+### Strength and Mass
 
 A Charger's physical power greatly exceeds that of civilian horses. They can carry significantly heavier loads, accelerate to high speeds despite their mass, and deliver impacts with devastating force. Their muscle and bone density allow them to sustain impacts and injuries that would cripple lighter horses. A charging Charger becomes a living battering ram with the impact force of a siege weapon.
 

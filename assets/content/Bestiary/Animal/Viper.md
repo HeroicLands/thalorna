@@ -150,19 +150,35 @@ sohl:
 
 ![[viper|Viper]]{float=top-left}
 
-The pattern seems to shift before your eyes, colors that match stone or leaf rippling with the creature's slow coiling motion. The head is distinctly triangular and flattened, and the eyes that fix upon you are cold and calculating. You feel rather than see the creature's awareness sweeping across you, searching for weaknesses, measuring threat levels with the cold logic of a predator that has learned the mathematics of killing. The coil tightens, and you understand that you're looking at patient death — something willing to wait eternally for the moment of its strike.
+The dry-stone wall is warm from the afternoon sun, and a line of dark diamonds shows on a flat gray stone among the lichen. It is a snake three or four feet long, the body thick for its length, and the broad, flattened head is lying on its own coils. Two small pits sit between the eyes and the nostrils. The head lifts, slowly, and tilts to look at your hand.
 
 # Dossier {#dossier}
 
-The Viper is a venomous serpent ranging from 3-8 feet in length depending on species, found in warm and temperate regions across grasslands, forests, and rocky terrain. These ambush specialists are among the deadliest creatures gram-for-gram, relying entirely on venom and precision to overcome prey larger than themselves. Adventurers encounter vipers while camping in wild lands, traveling through grasslands, or disturbing rocky areas where the creatures rest.
+The Viper is the thick-bodied venomous snake of the grassland, rock and forest edge, three to eight feet long, found in the dry hills of the Byzarian [[place-southrnmrch|Southern March]], on the farms of [[place-velanthrgn|Velanthia]] and across the warmer lands. It relies entirely on venom and a precise strike to bring down prey larger than itself, and it is among the deadliest of snakes for its size.
 
 ## Presentation
 
-The viper is a sinuous serpent covered in patterns that provide extraordinary camouflage, with colors and markings specific to each regional subspecies. The head is distinctly triangular and flattened, with forward-facing eyes and heat-sensing pits between the eyes and nostrils. The body is relatively slender but muscular. The mouth is capable of unhinging to deliver specialized venom through hinged fangs that fold back into the roof of the mouth.
+A sinuous snake in patterns that make it very hard to see, each region's snakes marked differently. The head is distinctly triangular and flattened, with forward-facing eyes and heat-sensing pits between the eyes and the nostrils. The body is slender but muscular. The mouth opens wide, and the hinged fangs fold back against the roof of the mouth when not in use.
+
+## In the Land
+
+Vipers lie in the grassland, rocky hills and forest edges of the warm and temperate lands, from the dry hills of the Byzarian [[place-southrnmrch|Southern March]] to the farms of [[place-velanthrgn|Velanthia]] and the hot country of the south. A viper lies coiled under a rock, in a stone wall or in a grass tussock, motionless for hours, and strikes at anything that comes within reach. It is most active at dusk and on warm nights.
 
 ## Key Behaviors
 
-Vipers are ambush specialists that spend extended periods motionless waiting for prey. They are primarily nocturnal or crepuscular, most active during cool parts of the day. They hunt through combination of vision, heat-sensing, and scent. They are fundamentally solitary except during mating season.
+Vipers lie motionless for long periods waiting for prey. They are active at night and at dusk, in the cool parts of the day. They hunt by sight, heat and scent. They live alone except in the mating season.
+
+## What the Farmers Do
+
+Farmers and haymakers wear boots in the high grass and run a stick before them. A bite is cut, sucked and bound, and the victim carried to a healer or a herb-wife. Hay is turned in daylight, and a stone wall is not rebuilt in the heat of the day. A viper in a house is a bad omen, and the family carries it out on a shovel. Children are taught to look before sitting. The venom is bought by apothecaries.
+
+## Signs
+
+- A zigzag line down the back of a coiled gray or brown snake lying on a sunlit stone.
+- A sharp hiss from the grass at a boot's height.
+- A shed skin hung on a bramble.
+- A small dead animal under a bush with two puncture holes.
+- A dog yelping and holding up a swollen foot.
 
 ## Combat Strategy
 
@@ -194,7 +210,7 @@ Highly specialized fangs deliver precise venom doses that incapacitate prey effi
 
 ### Rapid Strike
 
-The viper's strike speed is exceptional, difficult to avoid once prey is within range.
+The viper's strike speed is very high, difficult to avoid once prey is within range.
 
 ### Additional Information
 

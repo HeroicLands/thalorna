@@ -302,7 +302,7 @@ The badger knocks a standing man off his feet with its shoulder and weight and d
 
 The badger attacks animals many times its size without hesitation and goes on attacking while it is dying. It does not recognize that it is losing.
 
-### Exceptional Durability and Armor
+### Durability and Armor
 
 The loose hide slides over the muscle, so that a bite or a point that lands does not reach what it was aimed at, and a cut that would open another animal opens a fold of skin.
 

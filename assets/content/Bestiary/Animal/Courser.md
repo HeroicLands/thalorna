@@ -242,23 +242,39 @@ sohl:
 
 ![[courser|Courser]]{float=top-left}
 
-The animal carries itself with nervous energy barely constrained. Built on clean, fine-boned legs, the courser shifts its weight constantly, ears swiveling to track every sound. Its breathing is controlled but noticeably faster than a placid horse, and its muscles seem to ripple beneath thin skin every time it moves. When it accelerates, the transition is nearly instantaneous: one moment in a trot, the next in a driving gallop that covers ground with terrifying efficiency. The wind from its passage stirs your cloak, and you realize the speed is something you could never match on foot.
+The rider is bent low over the neck of a slim bay horse, and the pair come down the ridge at a flat gallop with the dust standing behind them. The horse's head is high and its eyes are wide, rolling white at the rim. It checks at the ford, snorting, and the rider has to speak to it twice before it will go on into the water.
 
 # Dossier {#dossier}
 
-The Courser is a light, swift horse bred specifically for speed and maneuverability rather than strength and weight-bearing capacity. Standing fourteen to fifteen hands tall and weighing eight hundred to one thousand pounds, these horses are the choice of scouts, messengers, and light cavalry. They are nervous, energetic animals with quick reactions and the stamina to maintain speed for hours. Unlike heavier breeds, a Courser is a sprinter capable of achieving higher speeds than draft or war horses, though they lack the staying power and collision force of larger animals. They are most valuable in roles emphasizing agility and speed rather than direct combat power. Adventurers riding Coursers benefit from superior mobility and the ability to flee from threats that heavier horses could not outrun. A Courser ridden by a skilled rider can outmaneuver mounted knights on heavier horses, though one-on-one combat is a poor choice for a light cavalry mount.
+The Courser is the light, fast horse of the steppe and the post-roads, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred for speed and stamina rather than weight. Scouts, messengers and light cavalry ride it. Herds are bred on the grass of the [[place-khzryndsrtrgn|Khazryn]] steppe, the horse pasture of [[place-velanthrgn|Velanthia]] and the plateau of [[place-byzariargn|Byzaría]]. It outruns a draft or war horse but lacks the weight for a charge.
 
 ## Presentation
 
-A distinctly elegant equine with a refined build emphasizing length of leg over bulk. The legs are particularly fine-boned but not fragile, with tendons and muscles visible beneath thin skin. The chest is not especially broad but is deep, housing lungs engineered for high oxygen exchange. The back is relatively short and straight, optimized for speed and rider weight distribution rather than load carrying. The neck is long and gracefully curved, held high, with excellent maneuverability. The head is refined and proportionally smaller than heavier breeds, with sharp, intelligent features and nostrils that flare dramatically. The eyes are large and frequently wide—an expression of nervousness or alertness. The coat is typically sleek and well-maintained on domestic animals, though wild Coursers may appear shaggy. Coloring varies: chestnut, bay, black, gray, or spotted patterns are all common. The tail and mane are fine but full. Overall, the Courser presents as a creature built for speed and elegance rather than power.
+An elegant horse built long in the leg rather than heavy in the body. The legs are fine-boned, with the tendons and muscles showing under thin skin. The chest is deep rather than broad, the back short and straight, and the neck long and curved, carried high. The head is fine, with flaring nostrils and large, often wide eyes. The coat is sleek and comes in chestnut, bay, black, gray or spotted. The mane and tail are fine but full.
+
+## In the Land
+
+Coursers are bred on the grass of the [[place-khzryndsrtrgn|Khazryn]] steppe, the horse-pasture of [[place-velanthrgn|Velanthia]] and the plateau of [[place-byzariargn|Byzaría]], and they are kept at the posting-stations along the long roads. A courser lives on pasture in summer and hay and grain in winter, and it is ridden hard for a day and rested for two. The tribes run their light horses in herds, and a colt is handled at a year.
 
 ## Key Behaviors
 
-Coursers are notably more nervous than heavier horse breeds, reacting quickly to stimuli and demonstrating superior awareness of threats. They require experienced, confident handlers—a nervous or inexperienced rider will transmit anxiety that makes the horse more nervous. Once they trust a handler, they bond intensely and will perform enthusiastically. They require less food than heavier horses but need consistent access to water and rest. They are particularly sensitive to whip and spur, responding to very light pressure; heavy-handed riders will create a nervous, resistant animal. They have excellent memories and will remember routes, threats, and familiar locations. Unlike heavier horses, Coursers are prone to panic—a spooked Courser can bolt with such speed that even experienced riders have difficulty maintaining control. They are less naturally suited to military discipline than Chargers and require careful training to maintain composure in chaos. In wild form, Coursers are typically herd animals, living in large groups for protection.
+Coursers are nervous, quick to react to a sound or a movement and aware of danger. They need a steady rider, since a rider's anxiety passes to the horse. They bond hard with a handler they trust. They need less feed than a heavy horse but regular water and rest. They answer light pressure from whip and spur, and a heavy hand makes them resistant. They remember routes and threats well. When one panics it bolts at speed. They are less suited to discipline than chargers. Wild ones live in large herds.
+
+## What the Scouts Do
+
+A scout, a courier or a rider of the border companies chooses a courser for its speed and its nerve, and rides it light, with a short stirrup and little baggage. A message-rider keeps two or three on the road and changes horses at each station. The Byzarian marches keep coursers for their border scouts, and the Hosts of Velanthia ride them on raids. The tribes of the steppe prize a courser's bloodline and keep it in the family for generations. A courser fed too richly turns fretful, and a heavy hand ruins one in a week.
+
+## Signs
+
+- A rider's dust, a long way off, moving fast along a ridge and never slowing.
+- Light, narrow hoof-prints, cut deep at the toe, in a soft river-bank.
+- A horse at a post-station standing sweat-streaked and trembling, led in circles to cool.
+- A fine-boned horse that shies at a leaf in the wind and then stands for a whole afternoon with its rider.
+- A line of horses at full gallop across a flat, with riders low over the neck.
 
 ## Combat Strategy
 
-A Courser’s primary combat advantage is speed and mobility. An ideal strategy for a Courser-mounted rider is to use hit-and-run tactics: make passes at enemies while maintaining distance, strike from unexpected angles, and retreat at speed if pressed. The horse is not defensively strong and should not be expected to stand and fight. A competent Courser rider will use terrain, speed, and mobility to overcome opponents relying on weight and strength. Against multiple mounted opponents on heavier horses, a Courser can typically outmaneuver them. Against a mounted knight on a Charger, the Courser’s speed is its advantage, allowing evasion of the more powerful charge but reducing opportunity for decisive counter-attacks.
+A Courser’s strength in a fight is speed and mobility. An ideal strategy for a Courser-mounted rider is to use hit-and-run tactics: make passes at enemies while maintaining distance, strike from unexpected angles, and retreat at speed if pressed. The horse is not defensively strong and should not be expected to stand and fight. A competent Courser rider will use terrain, speed, and mobility to overcome opponents relying on weight and strength. Against multiple mounted opponents on heavier horses, a Courser can typically outmaneuver them. Against a mounted knight on a Charger, the Courser’s speed is its advantage, allowing evasion of the more powerful charge but reducing opportunity for decisive counter-attacks.
 
 ## Attack Methods
 
@@ -276,7 +292,7 @@ The Courser’s primary contribution to combat is not through direct attack but 
 
 ## Special Abilities
 
-### Exceptional Speed and Acceleration
+### Speed and Acceleration
 
 A Courser can accelerate from standstill to gallop in seconds and can sustain speeds that exceed most horses significantly. The speed is particularly useful for distance travel and for tactical retreat. A Courser at full gallop is faster than a human can run, faster than most mounted pursuers can match, and faster than most projectiles can travel.
 
@@ -290,7 +306,7 @@ A Courser that has bonded with an experienced rider will respond to subtle commu
 
 ### Sustained Endurance Despite Light Build
 
-Despite light weight and fine bone structure, a well-trained and well-fed Courser has remarkable endurance, capable of traveling thirty to forty miles per day at moderate pace and maintaining reasonable speed for hours at a time. This endurance advantage is particularly useful for scouts and messengers who need to cover ground quickly.
+Despite light weight and fine bone structure, a well-trained and well-fed Courser has great endurance, capable of traveling thirty to forty miles per day at moderate pace and maintaining reasonable speed for hours at a time. This endurance advantage is particularly useful for scouts and messengers who need to cover ground quickly.
 
 ## Attributes
 

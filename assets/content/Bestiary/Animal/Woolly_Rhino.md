@@ -242,19 +242,35 @@ sohl:
 
 ![[wllyrhn|Woolly Rhino]]{float=top-left}
 
-Shaggy fur hangs in matted clumps, shifting as the massive creature moves with deceptive grace across difficult terrain. The horn is dark and rough, curving forward slightly, clearly scarred and aged from countless uses. Each exhalation produces mist in the cold air. The broad shoulders and sturdy build speak to a creature built for surviving frozen wastelands, a behemoth of patience and territorial resolve.
+On the tundra the wind has scoured the snow back from a ridge, and a mound the size of a hay-wagon stands on it, shaggy and brown-gray, with clumps of coat hanging from it. It swings a huge head with a great forward-curving horn as long as a man, scarred and dark, and the long hair on its back streams in the gale. It is grazing. The only sound is the tearing of frozen sedge.
 
 # Dossier {#dossier}
 
-The Woolly Rhino is a massive grazer standing 6-7 feet at the shoulder and reaching up to 13-14 feet in body length, found exclusively in tundra and cold steppe regions. These solitary herbivores are fundamentally peaceful but fiercely territorial and dangerous when defending range or young. Adventurers encounter them primarily while traveling through arctic regions or when mistaken for threatening the creature.
+The Woolly Rhino is the great grazer of the tundra and cold steppe, six to seven feet at the shoulder and up to thirteen or fourteen feet long. It lives alone on the northern plateaus of the [[place-nrdlndsrgn|Nordlands]] and the cold high steppe of [[place-idwkrrgn|Idwakor]]. It is peaceful but fiercely territorial, and dangerous when defending its range or young.
 
 ## Presentation
 
-The woolly rhino is massive and heavily built with a thick brownish-gray coat that hangs in clumps for insulation. The signature feature is the large forward-curving horn of dense keratin reaching 4-5 feet in length, often scarred and darkened with age. Broad shoulders and sturdy legs support the creature’s weight across difficult terrain.
+A massive, heavily built animal in a thick brownish-gray coat that hangs in clumps. The mark of the animal is the large forward-curving horn of dense keratin, four to five feet long, scarred and darkened with age. The shoulders are broad and the legs sturdy.
+
+## In the Land
+
+Woolly rhinos graze the tundra and cold steppe of the northern plateaus of the [[place-nrdlndsrgn|Nordlands]] and the cold high steppe of [[place-idwkrrgn|Idwakor]]. A rhino keeps a range around good grazing and moves little, feeding on grass and sedge and clearing snow from it with its horn. It has a thick coat and a hump of fat on its shoulders. A bull is solitary, and a cow keeps her calf at her side for two years.
 
 ## Key Behaviors
 
-Woolly rhinos are solitary grazers that spend much of their time foraging in harsh tundra environments. They are fiercely territorial and will defend feeding grounds aggressively, particularly during mating season. They are intelligent about remembering dangerous locations and adjusting movement patterns.
+Woolly rhinos live alone and graze for much of their time in harsh tundra. They defend their feeding grounds fiercely, most of all in the mating season. They remember dangerous places and change their movements.
+
+## What the Hunters Do
+
+The caribou clans and the steppe hunters leave a rhino alone unless the hunting is poor. A rhino is taken with a pit and spears in winter, a feast for a whole camp. The wool is spun, the hide is used for tents and the horn is carved. A rhino charges at a threat to its range and is as fast as a horse for a short run. The hunters drive it into soft ground or a pit and spear it from both sides. A beast that has killed a person is left alone for a season.
+
+## Signs
+
+- Huge, three-toed tracks, deep in the snow, with a long drag-mark between them.
+- A patch of tundra grazed to the ground with a rubbed boulder at its edge.
+- A big shaggy hump on a ridge against the sky.
+- Frozen dung heaps the size of a bucket.
+- A pit in the snow with horn-marks where a rhino has dug.
 
 ## Combat Strategy
 
@@ -278,7 +294,7 @@ The rhino’s charge over distance gains additional force and impact.
 
 ### Cold Adaptation
 
-The thick fur provides genuine protection against extreme cold and minor insulation against slashing attacks.
+The thick fur provides real protection against extreme cold and minor insulation against slashing attacks.
 
 ### Relentless Territorial Defense
 

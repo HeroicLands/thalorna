@@ -234,19 +234,35 @@ sohl:
 
 ![[snwlprd|Snow Leopard]]{float=top-left}
 
-The snow itself seems to move, and for a moment you cannot distinguish the creature from the background until the eyes open — pale, blue-green, and regarding you with ancient predatory certainty. The color is nearly perfect camouflage: smoky-gray fur with darker rosette patterning that dissolves into the snowscape, making it seem as though the creature is merely a fold in the terrain. The build is deceptive — the legs are more powerful than their appearance suggests, and the long, bushy tail wraps around its body like an additional layer of insulation. There is no aggression in its bearing, only calm patience and the confidence of something that has hunted these mountains for generations.
+High on the rock face above the snowline, among the grays and creams of the scree, a patch of the rock is a different gray. A thick, smoky coat marked with dark rosettes moves slightly, and a broad face with pale blue-green eyes looks down at you from sixty feet above. A tail as thick as your arm is wound round its body like a scarf. It does not seem to be afraid. After a while it rises, stretches and walks away along the ledge.
 
 # Dossier {#dossier}
 
-The Snow Leopard is a solitary apex predator of high-altitude mountains, standing 2.5-3 feet at the shoulder and reaching 4-5 feet in length, distinguished by its thick insulating coat and exceptional climbing ability. These elusive predators hunt in mountainous terrain where no other large predators compete, specializing in mountain goats and sheep but capable of taking larger prey. Adventurers encounter snow leopards while traveling mountain passes, establishing camps in high-altitude terrain, or exploring remote mountain peaks.
+The Snow Leopard is the lone hunter of the high mountains, two and a half to three feet at the shoulder and four to five feet long, living above the tree-line in the [[place-graznmntns|Grazian Mountains]], where no other large predator competes. It hunts wild goats and sheep, and will take larger prey. It comes down in the severest winters, when the game does. It is not afraid of people unless it is provoked or defending its range.
 
 ## Presentation
 
-The Snow Leopard is a muscular feline with a build slightly more compact than a true leopard, optimized for movement across snow and rocky mountain terrain. The coat is thick and insulating, with fur that ranges from smoky gray to pale cream, marked with darker rosettes and irregular spots that provide extraordinary camouflage against snow, rock, and shadows. The eyes are pale blue-green and positioned forward-facing for predatory vision. The face is broad and powerful-jawed, with a strong jaw capable of delivering lethal bites. The limbs are proportionally longer than typical leopards, adapted for climbing steep terrain and leaping across crevasses. The paws are large and heavily furred on the bottom, providing grip on snow and ice and insulation against cold. The tail is long, bushy, and often wrapped around the body for insulation.
+A muscular cat, more compact than a leopard, built for snow and rock. The coat is thick, smoky gray to pale cream, marked with dark rosettes and irregular spots that match snow, rock and shadow. The eyes are pale blue-green and face forward. The face is broad and the jaw strong. The limbs are longer than a leopard's, for climbing and leaping across crevasses. The big paws are furred underneath for grip and warmth. The tail is long, bushy and often wrapped around the body for warmth.
+
+## In the Land
+
+Snow leopards live above the tree-line in the high ranges of the [[place-graznmntns|Grazian Mountains]], on the rock walls and snow-fields where the wild goats and sheep graze. A cat holds a thinly stocked range of many miles of ridge and ravine, rests in a cave or a crevice by day and hunts at twilight and in the early morning. It climbs and leaps across gaps, and its smoke-gray coat disappears against the rock.
 
 ## Key Behaviors
 
-Snow Leopards are solitary creatures establishing exclusive high-altitude territories where prey is scarce and encounters between individuals are minimal. They are most active during twilight and early morning, resting during the hottest parts of the day and the cold nights. They hunt primarily mountain goats and sheep but will consume almost any meat available, including smaller predators and humanoid prey. They are relatively fearless of humans unless provoked or defending territory. Snow Leopards are capable of descending to lower elevations in severe winters when prey moves to lower altitudes but prefer the high mountains where food is scare but hunters are scarce. The creatures are intelligent and capable of learning, remembering dangerous hunters and productive hunting grounds.
+Snow leopards live alone, each in a high range where prey is scarce and meetings are few. They are active at twilight and in the early morning, and rest in the heat of the day and the cold of the night. They eat wild goats and sheep, and almost any meat that offers, small predators and people included. They are intelligent and learn: they remember dangerous hunters and productive hunting grounds.
+
+## What the Mountain People Do
+
+The Ösket herders of the high valleys, such as [[place-tsokhar|Tsökhar]], lose goats and young yaks to a snow leopard and watch the ledges at dusk. They are seen by few and are known by their tracks and kills. A pelt is a chief's gift, and the long tail is worn as a collar. Guides lead parties over the passes by day and camp below the cliffs. A hunter who follows a track into a ravine goes with others. The bones are sold to the healers of the lowland cities.
+
+## Signs
+
+- Round pug-marks, with a tail-line between them, in fresh snow on a ledge.
+- A wild sheep carcass hidden under rocks high above the valley, with the throat torn.
+- A scrape on a rock where the cat marks its range, with a sharp, musky smell.
+- A low, moaning call at night from the cliffs above a camp.
+- A gray shape that crosses a snow-field and is gone.
 
 ## Combat Strategy
 
@@ -274,11 +290,11 @@ The snow leopard uses its muscular body to pin opponents, relying on weight and 
 
 ### Mountain Camouflage
 
-The snow leopard's coloration is extraordinarily effective in alpine environments. The creature gains significant advantage on stealth checks in mountainous terrain, particularly in snow and among rocks.
+The snow leopard's coloration is extraordinarily effective in alpine environments. It is hard to see in mountain country, particularly in snow and among rocks.
 
 ### Expert Climber
 
-The snow leopard is supremely adapted to vertical and near-vertical terrain, capable of scaling sheer cliffs and boulders that humanoids would find impossible. The creature fights with advantage when on steep or uneven terrain.
+The snow leopard is supremely adapted to vertical and near-vertical terrain, capable of scaling sheer cliffs and boulders that humanoids would find impossible. It fights best on steep or uneven ground, where its footing is surer than its enemy's.
 
 ### Cold Adaptation
 
@@ -294,7 +310,7 @@ The snow leopard's hearing, vision, and smell are all adapted for mountain hunti
 
 ### Additional Information
 
-Snow Leopards are most dangerous in their native mountain terrain where they maintain overwhelming advantage. In open or low-altitude terrain, the creature's advantage diminishes significantly. The creatures are solitary and avoiding already-claimed territory prevents encounters. A snow leopard that has successfully hunted humanoids becomes more bold in approaching humans, making it a potential threat to isolated mountain settlements. The creature's pelt is extraordinarily valuable and can be harvested after death to create winter clothing or insulation.
+Snow Leopards are most dangerous in their native mountain terrain where nothing can follow them. In open or low-altitude country the cat is far less dangerous. The creatures are solitary and avoiding already-claimed territory prevents encounters. A snow leopard that has successfully hunted humanoids becomes more bold in approaching humans, making it a potential threat to isolated mountain settlements. The creature's pelt is extraordinarily valuable and can be harvested after death to create winter clothing or insulation.
 
 ## Attributes
 

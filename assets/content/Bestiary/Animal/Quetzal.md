@@ -210,19 +210,35 @@ sohl:
 
 ![[quetzal|Quetzal]]{float=top-left}
 
-The jungle canopy is a cathedral of green, and the bird moves through it like a fragment of stained glass come to life. You hear the call first — a soft, fluting whistle that rises and falls like a question asked of the forest itself — and then a flash of color so vivid it seems impossible in a world of leaf and shadow. The breast is a red so deep it looks like arterial blood caught in light. The head and back are iridescent green — not merely green but a green that shifts to gold and turquoise and back again with every movement, as if the feathers are made of liquid metal rather than keratin. But the tail is what stops your breath. Two feathers, impossibly long — three feet of emerald ribbon streaming behind a bird no larger than a pigeon — ripple and undulate in the humid air as the quetzal moves from branch to branch, each landing a momentary sculpture of color against the dark canopy. The highland peoples say that when the gods needed to mark something as holy, they caught a piece of the sky and gave it feathers. Watching this bird, you understand why its plumage is worth more than gold, why killing one is punishable by death, and why the priest-kings wear its feathers as proof of divine authority.
+In the green dimness of the cloud forest a flash of emerald catches the light, high on a branch. It is a small bird with a rounded, helmet-like crest and a crimson breast. Then it launches itself into the air with two long green streamers pouring out behind it, longer than a man's arm, rippling and undulating, and hovers in front of a fruit-tree. It plucks a berry, and a soft, melodious whistle drifts down through the mist.
 
 # Dossier {#dossier}
 
-The Quetzal is the most sacred bird of the tropical lowland jungles — a small, brilliantly colored trogon whose iridescent green tail feathers are the single most valuable natural material in the highland civilizations of [[place-kchchkcntnnt|K'ich'chik]], worth literally more than their weight in gold. The bird itself is modest in size — roughly twelve inches of body with tail streamers adding another two to three feet — and weighs barely half a pound. But its cultural weight is immeasurable. The quetzal's feathers adorn the headdresses of priest-kings and high priests, and their possession marks the wearer as divinely sanctioned. The bird is associated with the wind deity and with the concept of freedom itself — the highland peoples say the quetzal cannot survive captivity, that it will die rather than be caged. Whether this is literally true or an expression of the bird's sacred status, the result is the same: quetzals are not kept in cages, and their feathers must be obtained by trapping birds alive, removing a few tail feathers, and releasing them unharmed. Professional quetzal trappers are a specialized and respected class, and the trade in quetzal feathers is controlled by the temples. Killing a quetzal — whether deliberately or through careless trapping — is a capital offense throughout the region. Adventurers encounter the quetzal primarily as a symbol: on temple walls, in feather-work headdresses, and in the reverent tones of anyone who speaks of it. Seeing one in the wild is considered a profound blessing.
+The Quetzal is the sacred bird of the cloud forest, a trogon about twelve inches long with a male's tail streamers adding two or three feet and weighing half a pound. It lives in the mist forests between the lowland jungle and the highland plateau above [[place-xelemrgn|Xelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. Its tail feathers are the most valuable natural material of the highland civilizations of [[place-kchchkcntnnt|K'ich'chik]], worth more than their weight in gold. The bird is tied to the wind god and to freedom, and it is said to die in a cage.
 
 ## Presentation
 
-The quetzal is a small bird of staggering beauty. The male's plumage is what has earned it sacred status: the head, back, and upper breast are covered in iridescent feathers that shift between emerald green, gold, and turquoise depending on the angle of light — a structural coloration produced by microscopic feather architecture rather than pigment, which makes the color seem to glow from within. The lower breast and belly are deep crimson. The head bears a rounded crest of green feathers that gives it a helmeted appearance. The beak is short and yellow. The eyes are large and dark, adapted for the dim light of the forest interior. But the defining feature is the male's tail: two upper tail coverts that extend far beyond the true tail, forming flowing streamers of iridescent green that can exceed three feet in length — longer than the bird's entire body several times over. These streamers ripple and undulate during flight, creating an effect so striking that it has inspired an entire artistic and religious tradition. The female is more subdued — green above, gray below, with shorter tail coverts — but still beautiful by any ordinary standard.
+A small bird of dazzling beauty. The male's head, back and upper breast are iridescent, shifting between emerald, gold and turquoise with the light, the color seeming to glow from inside. The lower breast and belly are deep crimson. The head carries a rounded crest of green feathers, and the beak is short and yellow. The eyes are large and dark. Two upper tail coverts hang far beyond the true tail as flowing green streamers more than three feet long, which ripple in flight.
+
+## In the Land
+
+Quetzals live in the mist-wrapped cloud forest between the hot lowland jungle and the highland plateau, above [[place-xelemrgn|Xelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. A bird sits quietly in the middle canopy and plucks small fruit on the wing, hovering. A male has a green tail-streamer two or three feet long. In the breeding season it leaps from the tree-tops and spirals down, trailing it.
 
 ## Key Behaviors
 
-Quetzals are solitary or paired birds that inhabit the cloud forest canopy — the mist-shrouded mountain forests between the lowland jungles and the highland plateau. They are frugivorous, feeding primarily on small fruits which they pluck in hovering flight, though they also take insects, small frogs, and lizards. The male's tail streamers are central to courtship: during display flights, the male ascends above the canopy and spirals downward with the streamers flowing behind, creating a visual spectacle visible at great distance. Quetzals nest in tree cavities, and the male's long tail feathers protrude from the hole entrance during incubation — a vulnerability that makes nesting birds easier to locate. They are shy, retiring birds that avoid human activity, preferring the deepest and most undisturbed sections of cloud forest. Their call — a soft, melodious whistle — is considered one of the most beautiful bird sounds of the cloud forest and features in temple music and poetry.
+Quetzals live alone or in pairs in the cloud-forest canopy and eat small fruit, which they pluck in hovering flight, along with insects, small frogs and lizards. In courtship the male rises above the canopy and spirals down with his streamers trailing. They nest in tree cavities, and the male's long tail feathers protrude from the hole during incubation. They are shy and keep to the deepest forest. The call, a soft, melodious whistle, is used in temple music and poetry.
+
+## What the Itzáni Do
+
+The Itzáni prize the quetzal's tail-feathers above gold. Plumes are worn by rulers and priests, and the feather-workers of the highland cities make headdresses and cloaks from them. Bird-catchers take the long feathers from the living bird and let it go, and a bird killed for its feathers is a sacrilege. The feathers of the quetzal and the macaw are among the goods sent from the valleys of Ix'bal Tza'ku to the cities. A male's streamers are measured in the market with a knotted cord.
+
+## Signs
+
+- A flash of green at the edge of a cloud-forest clearing and a glimpse of a red breast.
+- A long, emerald plume on the mossy ground below a nesting hole in a rotten trunk.
+- A low, liquid whistle from a tree-crown that carries through mist.
+- A hole in a dead tree-trunk with a bird's tail curled out of it.
+- A bird-catcher's lime-twigs on a bare branch above a fruiting tree.
 
 ## Combat Strategy
 
@@ -246,7 +262,7 @@ The quetzal's protected status surpasses even the peacock's or the crane's elsew
 
 ### Canopy Camouflage
 
-Despite its vivid coloration, the quetzal is remarkably difficult to spot in its natural habitat. The iridescent green feathers match the play of light through cloud forest canopy almost exactly, and a motionless quetzal on a moss-covered branch is effectively invisible until it moves or calls.
+Despite its vivid coloration, the quetzal is very difficult to spot in its natural habitat. The iridescent green feathers match the play of light through cloud forest canopy almost exactly, and a motionless quetzal on a moss-covered branch is effectively invisible until it moves or calls.
 
 ## Attributes
 

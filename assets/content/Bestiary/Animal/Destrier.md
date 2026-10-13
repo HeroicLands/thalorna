@@ -242,19 +242,35 @@ sohl:
 
 ![[destrier|Destrier]]{float=top-left}
 
-The ground shakes before you see the creature. What emerges is a mountain of controlled power: a horse of extraordinary size, nearly eighteen hands tall, built on a frame of pure muscular strength. The chest is as broad as a shield, the neck as thick as a tree, the legs like pillars of living iron. Beneath the weight of armor and rider, lesser horses would stumble; this creature bears them with the indifference of something engineered specifically for this burden. When it moves, the earth acknowledges its passage. When it rears, it becomes a statue of equine fury, twenty feet tall, muscles rippling beneath armor and hide. The sound it makes—a deep, resonant neigh—carries across battlefields and silences lesser threats through sheer presence.
+The horse standing in the castle yard is bigger than the cart beside it. It is black, with a thick neck, a wide chest and haunches like a bull's, and its ears have been cropped short and square. A groom stands at its head with a hand on the bridle, holding a basket of oats, and the whole bulk shifts its weight from one forefoot to the other without a sound. The hoof comes down as wide as a dinner-plate.
 
 # Dossier {#dossier}
 
-The Destrier is the apex of warhorse evolution: a creature engineered through centuries of selective breeding to be a mobile fortress, a living tank, a partner in the most violent conflicts humans can create. Standing seventeen to eighteen hands tall and weighing eighteen hundred to twenty-four hundred pounds, a Destrier carries its rider and full plate armor as though the rider were a feather. These horses are not fast—they cannot match a Courser's speed or even a Charger's acceleration—but they possess extraordinary strength and immovable resilience. A Destrier trained for war is a creature of singular purpose: to advance, to break through obstacles, to carry its rider into the enemy line and plant it there unshakably. Destriers are most commonly found with wealthy nobility, military leaders, and elite knights who can afford both the horse and the expertise to ride it. Their presence on a battlefield is a statement of power—a single Destrier can break a cavalry charge, and a line of Destriers can shatter infantry formations. Adventurers riding Destriers are rare, as the cost and expertise required is beyond most people's resources, but when they appear, the Destrier's presence cannot be ignored.
+The Destrier is the heaviest warhorse, seventeen to eighteen hands high and eighteen to twenty-four hundred pounds, carrying a rider in full plate as if he weighed nothing. It is slower than a courser and slower off the mark than a charger, but nothing stops its advance. It is kept in the stables of the great houses and royal castles of [[place-aureldirgn|Aurèldía]] and [[place-aelwyth|Aelwyth]], where the knights who can afford both horse and training ride it. A single destrier can break a cavalry charge, and a line of them can shatter infantry.
 
 ## Presentation
 
-An enormous equine built for maximum weight and strength rather than grace or speed. The frame is broader and stockier than other horse breeds, with particularly pronounced chest, shoulder, and haunch development. The legs are not merely thick but are engineered with different biomechanics than lighter horses—the joints are stronger, the bones denser, the muscles more powerful. The head is proportionally large and somewhat blocky, with a straight or slightly convex profile. The neck is unusually thick and carries muscle from jaw to shoulder. The back is strong and compact, designed to bear weight without sagging. The hooves are large and hard, capable of digging into soft ground for traction without sinking. The coat is typically solid colors: black, bay, gray, or chestnut. Scars from previous battles are common, particularly around the face and shoulders. Many Destriers have their ears cropped short and squared, a practical and terrifying battlefield modification. The overall presentation is of a creature built for one purpose: overwhelming force.
+An enormous horse built for weight and strength, stockier and broader than any other breed, with heavy development in the chest, shoulders and haunches. The legs have denser bone and stronger joints. The head is large and blocky, the neck thick with muscle from jaw to shoulder, and the back compact and strong. The hooves are large and hard. The coat is black, bay, gray or chestnut, and old horses carry battle scars at the face and shoulders. Many have the ears cropped short and square.
+
+## In the Land
+
+Destriers are kept in the stables of the great houses and royal castles of [[place-aureldirgn|Aurèldía]] and [[place-aelwyth|Aelwyth]], where the landed knights who ride them hold their fiefs. A destrier lives in the best stall, is fed on oats, and is groomed, shod and walked every day. It is a mount for war and the tourney and is not used on the road or in the field. The breeding stud of a house is managed by its master of horse, and a house with a famous line guards it.
 
 ## Key Behaviors
 
-Destriers bond intensely with their riders, often forming lifelong partnerships. They are sensitive to the emotional state of the rider and will respond to barely perceptible weight shifts and rein movements from experienced handlers. They require extensive training to develop the discipline to advance into chaos, to charge at what lesser horses would flee from, to stand firm when terrified. Only horses with temperament suitable to this training survive the selection process. Destriers are notably more aggressive than civilian horses, and males in particular will challenge other horses and establish dominance. They are territorial and will defend space they have claimed. They consume tremendous quantities of food—a Destrier requires more than double the feed of a lighter horse to maintain its size and strength. They are long-lived, sometimes reaching thirty years, and develop increasingly strong personalities and preferences as they age. An experienced Destrier can anticipate its rider's intentions and act before commands are fully communicated.
+Destriers bond with their riders, often for life, and answer the slightest shift of weight or rein. They are trained for years to advance into chaos and stand when terrified, and only horses with the right temper pass the selection. They are more aggressive than farm horses, and stallions challenge other horses and hold ground they have claimed. A destrier eats more than twice the feed of a lighter horse. They live thirty years and grow strong personalities with age. An experienced destrier anticipates its rider's intention.
+
+## What the Great Houses Do
+
+A knight rides a destrier into battle and a palfrey on the road, and leads his destrier behind him until the fight. A destrier costs more than a village. The great houses breed them for generations, and a stallion's line is kept in the house's records. A knight's squire is judged by how he handles his master's destrier. A destrier is lamed or killed more often than its rider, and a house that loses its line loses standing.
+
+## Signs
+
+- A very large horse led by a groom in a covered yard, its coat shining.
+- A hoof-print as wide as a dinner-plate, sunk deep in the mud of a castle yard.
+- A stable-door with iron bands and a bar, and a stallion's scream behind it.
+- A heavy saddle, high before and behind, hung on a peg above a stall.
+- A line of armoured horses in the field at dawn, steaming in the cold.
 
 ## Combat Strategy
 
@@ -282,7 +298,7 @@ A Destrier will accelerate directly through obstacles that would stop lighter ho
 
 ### Overwhelming Strength and Collision Force
 
-A Destrier's physical power is legendary. It can carry weight that would cripple lighter horses, accelerate to devastating speed despite its mass, and deliver impacts with the force of siege weapons. In direct collision, a Destrier is virtually unstoppable—few things in nature can withstand the impact of a Destrier-mounted knight charging at full gallop.
+A Destrier's physical power is famed. It can carry weight that would cripple lighter horses, accelerate to devastating speed despite its mass, and deliver impacts with the force of siege weapons. In direct collision, a Destrier is virtually unstoppable—few things in nature can withstand the impact of a Destrier-mounted knight charging at full gallop.
 
 ### Discipline and Battle-Hardness
 
@@ -290,7 +306,7 @@ A Destrier has been trained from youth to advance into chaos, to ignore pain and
 
 ### Resilience and Endurance
 
-Despite their size, Destriers have remarkable endurance for their weight. They can march for days, sustain combat for hours, and recover from injuries that would disable lighter horses. The dense bone and muscle structure provides natural armor, making them more resistant to injury than their weight alone would suggest.
+Despite their size, Destriers have great endurance for their weight. They can march for days, sustain combat for hours, and recover from injuries that would disable lighter horses. The dense bone and muscle structure provides natural armor, making them more resistant to injury than their weight alone would suggest.
 
 ### Battlefield Presence and Psychological Impact
 

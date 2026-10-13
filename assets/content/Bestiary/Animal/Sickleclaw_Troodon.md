@@ -225,19 +225,35 @@ sohl:
 
 ![[scklclwt|Sickleclaw Troodon]]{float=top-left}
 
-The creature stands motionless, and your eyes nearly pass over it — a feathered shape small enough to dismiss before the reflective eyes snap toward you with predatory awareness. It's impossibly slender for a predator, standing barely taller than a human waist, yet there is nothing harmless in its bearing. The head tilts, and you see the mouth open, revealing a line of needle-sharp teeth designed for precision cuts rather than crushing. Then it moves, and the horror becomes clear — the slow, deliberate tap-tap-tap of a curved claw against stone echoing through the space, and you realize something terrible: the sound is meant for you. This creature does not hunt with speed or surprise, but with patience and psychological dissolution.
+In the ruins, in the last of the daylight, something is tapping on stone. A light, rapid click-click-click comes from the dark behind you, and a moment later from the left. You turn, and a lean, feathered shape, no taller than your chest, stands in the doorway of a roofless room, brown and gray and mottled. Large, reflective eyes shine at you. The hind foot lifts and shows a curved claw as long as a finger.
 
 # Dossier {#dossier}
 
-The Sickleclaw Troodon is a small bipedal predator standing 3-4 feet tall, found in forests, badlands, and ruins across temperate to warm regions. These sophisticated hunters use stealth, patience, and psychological warfare to overcome prey, relying on terror and disorientation rather than direct physical superiority. Adventurers encounter troodons primarily while camping, exploring ruins, or traversing forests where the creatures establish territory.
+The Sickleclaw Troodon is the small, intelligent bipedal hunter of the badlands, ruins and forest edges, three to four feet tall. It hunts in packs and works on its prey's nerves, following for days or weeks just out of sight, tapping its claws on stone and uttering low growls and sudden shrieks until the victim panics. It haunts the scrub and ruins of the [[place-sthmrchsrgn|South Marches]], the ruined stonework of the [[place-sthrnsvnhs|Southern Savannahs]] and the broken ground at the edge of the forests.
 
 ## Presentation
 
-The Sickleclaw Troodon is a lean, feathered predator with a body built for balance and precision. The head is relatively small with large, reflective eyes positioned for forward-facing vision and maximal light gathering in dim conditions. The mouth is filled with needle-like teeth designed for precision cutting rather than crushing. The body is covered in fine, downy feathers that may be dark brown, gray, or mottled for camouflage. The most distinctive feature is the sickle-shaped claw on each hind foot — a curved talon approximately 2-3 inches in length, clearly adapted for slashing rather than gripping. The feet are three-toed and adapted for delicate, quiet movement. The tail is long and feathered, used for balance and directional control.
+A lean, feathered hunter with a body made for balance and precision. The head is relatively small, with large reflective eyes set forward for forward vision in dim light, and a mouth full of needle-like teeth for cutting. The body is covered in fine, downy feathers, dark brown, gray or mottled. On each hind foot is a sickle-shaped claw two to three inches long, made for slashing. The feet are three-toed, for quiet movement. The tail is long and feathered, for balance and steering.
+
+## In the Land
+
+Sickleclaw troodons haunt the scrub and ruins of the [[place-sthmrchsrgn|South Marches]], the ruined stonework of the [[place-sthrnsvnhs|Southern Savannahs]] and the broken ground at the edge of the forests. A pack hunts at dusk and through the night, and shelters by day in a ruin or a thicket. They are three or four feet tall, run on two legs and hold their long, curved claws off the ground.
 
 ## Key Behaviors
 
-Troodons are intelligent pack predators that hunt with sophisticated coordination and psychological tactics. They stalk prey relentlessly, maintaining pursuit across days or weeks while remaining just out of view, allowing their eerie claw-tapping to create a sense of inescapable hunting. They emit vocalizations combining low growls and sudden sharp shrieks designed to create panic and disorientation in prey. Young troodons are trained in coordinated pack hunting and develop sophisticated understanding of prey behavior. The creatures are most active during twilight and night hours but hunt opportunistically. After a kill, troodons exhibit behavior suggesting intentional arrangement of prey remains in disturbing patterns, possibly serving territorial warning or social communication functions.
+Troodons are clever pack hunters. They stalk their prey for days or weeks, staying just out of view, and the tapping of their claws makes pursuit seem inescapable. Low growls and sudden shrieks panic and disorient. The young are taught to hunt as a pack and learn what the prey does. They are most active at twilight and by night, and hunt at any time when the chance comes. After a kill the remains are sometimes arranged in disturbing patterns, which may be a warning to other packs or a way of talking to them.
+
+## What the Marchers Do
+
+The marcher clans keep their animals within sight of a fire at night and set a watch on the camp. A pack follows a flock or a traveler for days, and the first warning is a faint tapping of claws on stone at the edge of the dark. The clans do not camp in ruins. A pack is driven off with fire and noise, and a sleeping party takes turns on watch. The tales told of troodons in the Marches are tales of being followed and not seen.
+
+## Signs
+
+- A faint click-click-click of claws on stone, behind a camp in the dark.
+- Three-toed prints in a line, with a long gap between them, and a gouged mark where the sickle claw touched the ground.
+- A flock bunched in its fold, all the animals looking the same way.
+- A short, sharp shriek out of the brush that is answered from the other side.
+- A kill torn open at the belly, with the neck-bones untouched.
 
 ## Combat Strategy
 
@@ -261,7 +277,7 @@ Pack members attack simultaneously from different directions, making it nearly i
 
 ### Surgical Precision
 
-The troodon's attacks are calculated to target vital areas and vulnerable points. The creature gains advantage on attack rolls against unarmored targets and against specific vital areas (throat, eyes, joints).
+The troodon's attacks are calculated to target vital areas and vulnerable points. Its strikes land more surely against unarmored targets and at the vital areas (throat, eyes, joints).
 
 ### Psychological Warfare
 
@@ -277,7 +293,7 @@ The troodon's eyes are adapted for maximum light gathering and low-light vision.
 
 ### Stealth and Speed
 
-The troodon is exceptionally quick and quiet, capable of approaching prey without detection. The creature gains advantage on stealth checks and can move at speed while remaining relatively silent.
+The troodon is very quick and quiet, capable of approaching prey without detection. It is hard to hear or see until it strikes, and it can move at speed while remaining relatively silent.
 
 ### Additional Information
 

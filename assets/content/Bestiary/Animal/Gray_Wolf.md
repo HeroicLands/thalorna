@@ -210,19 +210,35 @@ sohl:
 
 ![[graywolf|Gray Wolf]]{float=top-left}
 
-The howl reaches you long before the wolf itself—a long, echoing call that speaks to something primal in your bones. When the creature emerges from the darkness, it moves like smoke given form, muscle and sinew rippling beneath a thick coat of gray and brown. The eyes catch firelight and reflect it back: amber and gold, burning with intelligence that is utterly unlike the predators you know. The nose works the air constantly, cataloging scents beyond your ability to perceive. When it growls, the sound vibrates in your chest, and the teeth—sharp and white—promise things your mind rejects even as your instincts scream warnings. But the worst part is the realization that you are seeing only one, and somewhere in the darkness around you, others are moving, flanking, waiting for the moment to strike together.
+Far up the slope, on the skyline above the tree-line, a gray shape stands against the snow. It is joined by another, and then a third. None of them moves. A long note rises from the first and is taken up by the others, falling and rising, and hangs over the valley. When it stops the silence is complete, and the shapes are gone.
 
 # Dossier {#dossier}
 
-The Gray Wolf is a highly social predator that hunts in coordinated packs rather than as individuals. These creatures are masters of tactical hunting, using numbers and intelligence to bring down prey far larger than any single wolf. Gray wolves are found in wild lands across temperate and cold regions, establishing territories that they defend fiercely. Adventurers most commonly encounter them when traveling through wilderness areas or when a pack's territory overlaps human settlements.
+The Gray Wolf is the pack-hunting wolf of the cold and temperate wilds, thirty inches at the shoulder and eighty to a hundred twenty pounds. Packs run in the forests of [[place-vrystwald|Vrystwald]], the [[place-nrdlndsrgn|Nordlands]], the forest-steppe of [[place-velanthrgn|Velanthia]] and the [[place-graznmntns|Grazian Mountains]], and each holds a range it defends. By working together they pull down animals far bigger than themselves. A pack whose range reaches the farms hunts the stock.
 
 ## Presentation
 
-A mature gray wolf stands roughly thirty inches at the shoulder and weighs between eighty and one hundred twenty pounds, making it larger than most dogs. The build is lean and muscular, optimized for endurance and speed rather than raw power. The coat is thick and multi-layered, in shades of gray, brown, black, and white, with darker colors along the spine and lighter colors on the belly and chest. The head is broad but tapered, with a long snout and forward-facing eyes that provide good binocular vision. The ears are triangular and positioned high, rotating independently for directional hearing. The mouth is filled with sharp teeth, with the canines particularly prominent. The tail is long and bushy, used for balance and communication. The overall appearance is that of a creature built perfectly for hunting.
+A lean, muscular canine, larger than most dogs, built for endurance and speed. The coat is thick and layered, in gray, brown, black and white, darker along the spine and paler on belly and chest. The head is broad but tapering, with a long snout and forward-facing eyes. The ears are triangular, set high and turn independently. The canines are prominent. The tail is long and bushy and serves for balance and signals.
+
+## In the Land
+
+Gray wolves run in the forests and open country of [[place-vrystwald|Vrystwald]], the [[place-nrdlndsrgn|Nordlands]], the forest-steppe of [[place-velanthrgn|Velanthia]] and the mountains of the [[place-graznmntns|Grazian range]], and south along the Khazryn steppe. A pack of six to twelve keeps a range of a hundred square miles, follows the deer and the stock, and denns each spring in a hollow under a bank. In winter, when the snow lies deep, the pack drives its prey into the open.
 
 ## Key Behaviors
 
-Gray wolves are pack animals that live in hierarchical social groups of four to ten individuals, centered on an alpha pair. The pack hunts cooperatively, using coordinated strategies that allow them to take prey far larger than themselves. They are territorial and patrol established ranges, marking boundaries with scent and howl. They hunt primarily ungulates (deer, elk) and smaller mammals, though they will take larger prey and will scavenge. Packs are most active at dawn and dusk but will hunt at any time if prey is available. They communicate through howls, barks, growls, and body language.
+Packs of four to ten live by a rank order headed by an alpha pair. They hunt together, using planned tactics, mostly deer and elk and smaller animals, and they scavenge. A pack patrols its range and marks the borders with scent and howling. They are most active at dawn and dusk and hunt at any hour when prey is to be found. They speak by howls, barks, growls and posture.
+
+## What the Villages Do
+
+The wolf is the wesk of Vrystwald villages such as Hárholt, Wulfrýth and Hildburg, whose rites forbid the killing of a wolf in the village's own woods, and the Kindred of the north include wolf-spirits who ward a particular ridge. Elsewhere the villages post a watch on the sheepfolds in winter, keep big dogs, and pay a bounty for a pair of ears. The steppe tribes hunt wolves from horseback in winter with bows. The pelts are made into cloaks and hoods. A shepherd in the Grazian passes follows the sound of the pack to learn where the flock is safe.
+
+## Signs
+
+- Tracks in the snow in a single line, one set placed exactly in the last.
+- A long howl at dusk on a ridge, and the answer from the next ridge.
+- A deer killed and half-eaten in a thicket, with the carcass dragged and the bones scattered.
+- Gray scat full of hair and bone, on the crown of a trail.
+- A flock that bunches in the fold and will not graze after dark.
 
 ## Combat Strategy
 
@@ -244,7 +260,7 @@ Multiple wolves attack simultaneously from different angles, using confusion and
 
 When hunting with other wolves, the pack gains supernatural coordination—they never hesitate or stumble over each other, they read each other's movements perfectly, and they execute tactics that isolate and overwhelm targets. A solitary wolf loses this advantage and becomes noticeably less effective.
 
-### Legendary Endurance
+### Endurance
 
 The wolf can pursue prey across vast distances without tiring, running at a steady pace for days if necessary. This endurance allows wolves to wear down prey that cannot sustain such effort.
 

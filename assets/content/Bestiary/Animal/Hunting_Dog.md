@@ -210,19 +210,35 @@ sohl:
 
 ![[hntngdg|Hunting Dog]]{float=top-left}
 
-The dog's nostrils flare as it catches your scent on the wind, and its entire body goes tense with focus. Every muscle defines itself beneath sleek fur, and its eyes—bright and intelligent—lock onto you with predatory interest. The warm, animal smell of it carries on the breeze, mingled with the scent of leather and old sweat from the hunters it serves. A low, rumbling sound builds in its chest, not yet a snarl, but a promise of violence.
+The kennel yard erupts into noise as the huntsman opens the gate, a dozen lean red and brindle dogs flowing out around his legs. Their tails are up and their noses are already down, working the ground in quick, fierce circles. One finds a line on the grass and lifts its head to give tongue, and the whole pack pours away through the hedge after the sound, the huntsman's horn behind them.
 
 # Dossier {#dossier}
 
-Hunting dogs are medium-sized, powerfully built canines bred and trained over generations to track, pursue, and bring down prey. They stand 24-28 inches at the shoulder and weigh 45-70 pounds, with lean, muscular builds designed for endurance over distance and speed in short bursts. Their intelligence is considerably higher than that of wild dogs, a result of selective breeding and training.
+The Hunting Dog is the tracking and holding hound of the hunting companies, twenty-four to twenty-eight inches at the shoulder and forty-five to seventy pounds, bred over generations to follow a scent, pursue and bring down quarry. Packs are kept by the hunting companies of [[place-vrystwald|Vrystwald]], the river-prince courts and estates of [[place-velanthrgn|Velanthia]], the hunt-lords of [[place-byzariargn|Byzaría]] and the noble houses of [[place-aureldirgn|Aurèldía]]. They are far more intelligent than wild dogs.
 
 ## Presentation
 
-Hunting dogs display a variety of coat colors—red, black, brindle, or combinations thereof—depending on their breeding line. Their fur is short and dense, providing protection from brush and weather without impeding movement. They have deep chests, long legs with visible musculature, and tails that remain raised and alert. Their ears are medium-sized and alert, and their eyes are bright, intelligent, and constantly scanning. They move with an economical grace, each step purposeful. A well-trained hunting dog may wear a leather collar or harness and often bears scars from previous hunts.
+A medium-sized, powerful dog, lean and muscular, built for endurance and short bursts of speed. The coat is short and dense, red, black, brindle or a mixture. The chest is deep, the legs long with the muscle showing, and the tail is carried up and alert. The ears are medium-sized and the eyes bright and always moving. It moves economically. A working dog wears a leather collar or harness and often carries scars from earlier hunts.
+
+## In the Land
+
+Hunting dogs are kept by the hunting companies of [[place-vrystwald|Vrystwald]], the river-prince courts and the estates of [[place-velanthrgn|Velanthia]], the hunt-lords of [[place-byzariargn|Byzaría]] and the noble houses of [[place-aureldirgn|Aurèldía]]. A pack is kept in a kennel beside the huntsman's house, fed on offal and meal, and run on the hunting days and exercised on the others. A good hound follows a scent for dozens of miles.
 
 ## Key Behaviors
 
-Hunting dogs are disciplined and focused, capable of tracking a scent over dozens of miles and across many hours. They respond to handler commands instantly and will maintain a hunt even when exhausted. They are highly social within their pack structure, following a clear hierarchy. When working, they communicate through subtle body postures, brief vocalizations, and scent marking. They rest between hunts, alert but patient, waiting for their handler's next instruction.
+Hunting dogs are disciplined and focused, able to follow a scent for dozens of miles and for hours, and to keep on when exhausted. They obey a handler at once. In a pack they keep a clear order and speak with body posture, short calls and scent. Between hunts they rest, alert and patient, waiting for the next order.
+
+## What the Huntsmen Do
+
+A huntsman chooses his dogs by nose, voice and temper and trains them from a puppy to follow a scent, hold a quarry and stand off from it until the spears come up. The Varokh use dogs to hold boar in the winter hunts. The lords of the Southern March ride after boar and gazelle with their hounds, and the kennel is a point of pride for a house. A man's pack is passed to his heir with the horses. Hounds are named, and a great hound is mourned when it dies.
+
+## Signs
+
+- A pack at full cry in the distance, rising and falling along a ridge.
+- Tracks of four or five dogs together, running, with the toes spread.
+- A kennel with a long yard and a trough, and the smell of wet dog.
+- A hound with its nose to the ground that works a hedge-line from end to end.
+- A horn at dawn, a single long note, and a clatter of dogs.
 
 ## Combat Strategy
 
@@ -246,7 +262,7 @@ The hunting dog can follow a scent trail over any surface and across extended di
 
 ### Pack Coordination
 
-Hunting dogs gain significant combat bonuses when working alongside other trained dogs, and they can execute complex coordinated attacks based on subtle handler signals or instinctive pack behavior.
+Hunting dogs fight far more effectively alongside other trained dogs, and they can execute complex coordinated attacks based on subtle handler signals or instinctive pack behavior.
 
 ## Attributes
 

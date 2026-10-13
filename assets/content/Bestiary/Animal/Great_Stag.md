@@ -242,19 +242,35 @@ sohl:
 
 ![[grtstg|Great Stag]]{float=top-left}
 
-The forest seems to bow before it—a creature standing over six feet at the shoulder, carrying antlers that span nearly ten feet, spreading like the branches of an ancient oak rendered in bone. The coat is rich brown, lightening to a soft tan on the belly, with a distinctive white patch blazing across the chest like a mark of distinction. The stag moves with fluid grace that belies its size, each step careful and deliberate, and the antlers—heavy as they must be—are carried with perfect balance. The eyes are dark and soulful, large enough to reflect your image, and they hold an intelligence that is unmistakable. When the stag raises its head and fixes its gaze on you, you feel not hunted but weighed, evaluated, and found to be of interest.
+A line of bark has been stripped from the oak at the height of your head, in long ribbons, and the ground beneath it is torn and wet. A low roar comes through the trees, and then, in the glade ahead, a great deer steps out from the beeches, over six feet at the shoulder and brown as a chestnut, with a white blaze on his chest. His antlers, a matched pair spreading nine or ten feet, rock slowly as he turns his head and finds you.
 
 # Dossier {#dossier}
 
-The Great Stag is a regal megafauna creature that dominates the deeper forests and wild woodlands of temperate climates. These are herd animals, though they are led by a single dominant male whose strength and size set him apart from all others. A Great Stag in his prime is nearly unstoppable—a creature built for dominance through sheer physical power. These animals are generally peaceful grazers, but a stag defending his territory, his does, or his status will fight with absolute determination.
+The Great Stag is the giant red deer of the deep woods, over six feet at the shoulder, with antlers spanning nine to ten feet. A herd of does and young animals under one dominant stag lives in the old oak and beech woods of [[place-vrystwald|Vrystwald]], the woodland of [[place-aureldirgn|Aurèldía]] and the Silver Forests of Élavendre. The stag is peaceful until he has a territory, a doe or his standing to defend, and then he fights with total determination.
 
 ## Presentation
 
-The Great Stag is an animal of clear majesty and power. Standing over six feet at the shoulder, the creature is built with the grace of a dancer and the power of a warrior. The antlers are the defining feature: a matched pair spanning nine to ten feet across, with multiple points and branches, each point capable of penetrating armor. The coat is rich brown with lighter underbelly, and a distinctive white patch marks the chest—a blaze of color that announces the stag's confidence and status. The head is large and noble, with large, intelligent eyes and ears positioned to catch sound from all directions. The body is muscular but refined, not bulky—the stag is built for speed as much as power.
+A large, noble deer, muscular but refined, built for speed as well as power. The antlers are a matched pair spanning nine to ten feet, with many points and branches, each sharp enough to go through armor. The coat is rich brown with a paler belly and a white patch on the chest. The head is large, with intelligent eyes and ears set to catch sound from all sides.
+
+## In the Land
+
+Great stags hold the old oak and beech woods of [[place-vrystwald|Vrystwald]], the temperate woodland of [[place-aureldirgn|Aurèldía]] and the Silver Forests of Élavendre. A herd of does and young animals keeps to a stretch of woodland, a glade for grazing and a thicket for lying up, and the master stag stays with them through the autumn rut. In winter the herd yards up in a sheltered valley and browses the bark and twigs.
 
 ## Key Behaviors
 
-Great Stags are herd animals that roam in established herds, typically composed of does and their young, with the dominant stag maintaining exclusive breeding rights. During the rut (mating season), stags become territorial and aggressive, challenging rivals and defending harems. Outside breeding season, stags may form bachelor groups with other males of similar age or strength. They are primarily nocturnal or crepuscular feeders, spending daylight hours resting and chewing cud. They communicate through vocalizations (bugling and roaring) and through scent marking.
+Herds are made up of does and their young, and the dominant stag has the breeding. In the rut stags are aggressive and territorial, challenging rivals and holding their does. Outside the season they may form bachelor groups with males of like strength. They feed at night and in the twilight and chew the cud by day. They bugle and roar, and mark ground with scent.
+
+## What the Villages Do
+
+The stag is the wesk of Vrystwald villages such as Eichwald, Thrágrund and Dágstein, and a stag's hunt there is a rite, led by the Weskár. The lords of the Aurèldían kingdoms keep woods for the chase, and take a great stag with hounds, a horn and a mounted party. The Sinalë call the stag by a name of its own, and treat its kill as a theft from the wood. A stag's antlers are carved into hilts and combs, and the hide is made into gloves. A village that kills the master stag in its own woods loses the herd for several seasons.
+
+## Signs
+
+- A tree with its bark torn off in strips at head height, where the antlers were rubbed.
+- A hollow in the leaf litter, bed-sized and still warm in the morning.
+- A deep roar, repeated, across a valley in the cold mornings of autumn.
+- Prints of a cloven hoof as wide as a man's hand, with the dew-claws showing.
+- A ring of trampled ground, with torn turf and broken saplings, where two stags have fought.
 
 ## Combat Strategy
 

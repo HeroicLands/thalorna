@@ -242,19 +242,35 @@ sohl:
 
 ![[khzrncml|Khazryn Camel]]{float=top-left}
 
-The creature regards you with weary, liquid eyes set high in a long, narrow face. Two broad humps rise above its shoulders like dunes made flesh, covered in shaggy wool the color of dried grass matted and stained with dust. The air around it carries a thick, rank smell—sweat and something acidic, bitter. Its breath steams faintly in the cold air, and when it shifts its weight, you can hear the creak of sinew and the grinding of joint against bone.
+The string of camels comes down the pass through the first snow, each shaggy animal tied to the one in front, each hump standing high and firm. Their breath smokes. The leader stops at the ice-glazed stones of the ford, groans, and lowers its long neck to look at the water. Behind it the whole string stops. They smell of sweat and wet wool and acid.
 
 # Dossier {#dossier}
 
-The [[place-khzryndsrtrgn|Khazryn]] camel is an ungulate of remarkable endurance, built to thrive in the harshest, coldest environments where other beasts would perish. Standing seven to eleven feet tall at the shoulder and weighing upward of a thousand pounds, these two-humped creatures are primarily transport animals for merchants and soldiers traversing frozen mountain passes, wind-scoured plateaus, and bitter deserts. Unlike their single-humped cousins, Khazryn camels are notably more docile and less aggressive, though a threatened or startled individual can be as dangerous as any hoofed animal. Adventurers may encounter them as pack animals with caravans, in herds on open grasslands, or abandoned and feral in regions where trade routes have fallen into disuse.
+The Khazryn Camel is the two-humped camel of the cold desert and steppe, seven to eleven feet at the shoulder and over a thousand pounds, bred for endurance on frozen passes, wind-scoured plateaus and bitter deserts. It carries merchants and soldiers across the [[place-khzryndsrtrgn|Khazryn]] and through the passes of the [[place-graznmntns|Grazian Mountains]]. It is more docile than the one-humped dromedary, though a frightened one is as dangerous as any hoofed animal. Herds that have gone feral hold the abandoned reaches of old trade routes.
 
 ## Presentation
 
-A long-necked, long-legged animal with a compact but muscular body. Two prominent humps rise high above its shoulders, stored with fat for sustenance during lean periods and harsh seasons. Its coat is thick and shaggy, typically dun, brown, or gray, and shedding in matted clumps during warm seasons. The face is long and narrow with a pronounced cleft upper lip, high-set eyes that are dark and surprisingly intelligent, and small, pointed ears. The feet are broad and two-toed, with leathery pads that grip rocky ground and snow with equal facility. The smell is distinctive and unpleasant—a combination of sweat, urine, and acidic saliva that becomes more pronounced when the animal is agitated.
+A long-necked, long-legged animal with a compact, muscular body and two high humps over the shoulders, full of fat for lean seasons. The coat is thick and shaggy, dun, brown or gray, shed in matted clumps in warm weather. The face is long and narrow, with a split upper lip, high-set dark eyes and small pointed ears. The feet are broad and two-toed with leathery pads that grip rock and snow. Its smell is sweat, urine and acid saliva, stronger when it is agitated.
+
+## In the Land
+
+Two-humped camels are bred and herded across the steppe and cold desert of the [[place-khzryndsrtrgn|Khazryn]], and they are driven through the high passes of the [[place-graznmntns|Grazian Mountains]] and over the plateau of the northern road. A herd grazes the thorn and the tough grass of the margins and winters in the sheltered valleys, growing a thick coat that it sheds in clumps in spring. A few herds that have gone feral hold the abandoned reaches of old trade routes.
 
 ## Key Behaviors
 
-Khazryn camels exist in herds or as beasts of burden. In the wild, they graze on low shrubs and tough grasses that few other animals will eat, showing remarkable ability to extract nutrition from marginal vegetation. Females are protective of calves but will flee rather than fight if escape is possible. Males are more territorial and aggressive, particularly during rut (autumn), when they mark territory with loud bellows and engage in dramatic neck-wrestling contests. Domesticated Khazryn camels that have returned to feral life often gather in small groups of five to fifteen individuals. They are long-lived creatures, sometimes reaching fifty years or more, and develop strong social bonds. An animal separated from its herd will search actively, and losing a companion may drive a Khazryn into a state of deep distress that makes it dangerous and unpredictable.
+Khazryn camels live in herds or work as beasts of burden. In the wild they graze on low shrubs and tough grasses few animals will eat. Cows guard their calves but run if they can. Bulls are territorial and fierce in the autumn rut, bellowing and wrestling with their necks. Feral camels gather in groups of five to fifteen. They live fifty years or more and form strong bonds, and an animal separated from its herd searches for it. A camel that loses a companion may be so distressed that it turns dangerous and unpredictable.
+
+## What the Caravans Do
+
+The Khazryn tribes sell the camel road by the mile, and it is crossed by camel strings. A caravan master chooses the two-humped camel for cold and for long stages, and a string of fifty carries a merchant's whole stock. Soldiers use them for baggage. A camel is better tempered than a dromedary, but a startled one bites and kicks, and a bull in the autumn rut is kept apart from the string. The wool is combed in spring and spun into rope and tent-cloth. Camel-dung is the fuel of the steppe, and a camel is the measure of a man's wealth.
+
+## Signs
+
+- A long string of shaggy animals strung out across a ridge, each tied to the one before.
+- Two-toed, broad tracks in the dust of a pass, with the drag-marks of a load behind them.
+- Clumps of brown wool snagged on thorn bushes along the road.
+- A camel lying on its chest in a camp at dusk, chewing and groaning.
+- A wild herd standing on a skyline, watching and unmoving.
 
 ## Combat Strategy
 
@@ -278,7 +294,7 @@ When pressed into close combat, a Khazryn will bite with considerable force. Its
 
 ### Cold Resistance and Endurance
 
-A Khazryn camel's thick double coat and efficient metabolism allow it to thrive in frozen environments where other beasts quickly succumb to cold. It requires far less water and food than animals of comparable size, storing energy in its humps with remarkable efficiency. This makes it an invaluable desert or mountain animal, capable of surviving weeks with minimal sustenance.
+A Khazryn camel's thick double coat and efficient metabolism allow it to thrive in frozen environments where other beasts quickly succumb to cold. It requires far less water and food than animals of comparable size, storing energy in its humps with great efficiency. This makes it an invaluable desert or mountain animal, capable of surviving weeks with minimal sustenance.
 
 ### Keen Senses and Navigation
 

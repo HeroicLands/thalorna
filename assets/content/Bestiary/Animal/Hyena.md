@@ -211,19 +211,35 @@ sohl:
 
 ![[hyena|Hyena]]{float=top-left}
 
-Movement catches your eye on the savanna—a wiry, muscular shape with a distinctive sloping back, built higher at the shoulders than the rear. The creature's mottled coat of brown and black makes it almost invisible against the grassland, and its proportions seem somehow wrong, disturbingly asymmetrical. Then it laughs—a cackling, whooping sound that rises and falls like the wail of something unhinged. The laugh chills your blood. Its eyes are old and cruel, glinting with an intelligence born from hunger and cunning.
+After dark a whooping laugh breaks out of the grass, rising to a scream, and is answered from three directions. At the edge of the firelight a pair of eyes shines, low to the ground, and does not move. Then a heavy, sloping shape with a mottled coat and a thick neck steps half into the light, head swinging from side to side, and a rank smell of carrion drifts across the camp.
 
 # Dossier {#dossier}
 
-Hyenas are medium-sized carnivores, muscular and built for endurance rather than speed. They stand 30 inches tall at the shoulder and weigh 90-160 pounds depending on subspecies. The spotted hyena, most common and largest of the types, has a mottled coat of brown, tan, and black patches, though no two individuals bear identical markings. The distinctive sloped back—higher at shoulders, lower at hips—is characteristic and immediately recognizable. Their powerful build is concentrated in the neck, shoulders, and forelimbs.
+The Hyena is the clan-living carnivore of the dry country, thirty inches at the shoulder and ninety to a hundred sixty pounds, with a back that slopes from high shoulders to low hips. Clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the desert margin of [[place-aukhelathrgq|Aû'Khelâthu]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn]], where the Mega Hyena also hunts. They are as much hunters as scavengers, and break up bone that no other large predator can stomach.
 
 ## Presentation
 
-Hyenas have massive heads with powerful jaws and prominent teeth that often protrude slightly even when the mouth is closed. Their ears are rounded and alert, positioned on top of the head. Their eyes are small and dark but miss nothing. The fur is coarse and bristling, longer along the neck and spine. Their tail is relatively short and held low. Their musk is distinctive and pungent—the smell of carrion and predation. When they vocalize, they produce a remarkable range of sounds: whooping laughs, growls, cackles, and high-pitched squeals that carry for miles.
+A heavy-shouldered animal with a massive head, powerful jaws and teeth that show even when the mouth is closed. The coat is coarse and bristling, longer along the neck and spine, mottled in brown, tan and black, in a pattern different for every animal. The ears are rounded and set on top of the head, the eyes small and dark, the tail short and carried low. It has a strong, pungent musk. It whoops, cackles, growls and squeals, and the sound carries for miles.
+
+## In the Land
+
+Hyena clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the dry scrub and desert margin of [[place-aukhelathrgq|Aû'Khelâthu]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn]], where the Mega Hyena also hunts. A clan of a dozen or more keeps a territory of ten square miles around a communal den, hunts at night and follows the big cats to their kills. It marks its borders with dung and scent.
 
 ## Key Behaviors
 
-Hyenas are intensely social, living in clan groups dominated by a matriarch with strict hierarchical ranking among all members, even between males. Clan members mark and defend a territory that may encompass 10 or more square miles. They are scavengers and active hunters in equal measure, following large predators to steal kills or hunting cooperatively to bring down prey themselves. Their digestive systems are powerful enough to break down and process bone, fur, and hide—material that no other large predator can stomach. They are not the mindless scavengers of popular myth; they are intelligent, strategic hunters that plan and communicate complex tactics.
+Clans are led by a matriarch, with strict rank among all members, males as well. A clan marks and defends ten square miles or more. Its members follow big predators to steal kills and hunt together to bring down prey, planning and signaling the tactics. Their digestion handles bone, fur and hide. They are intelligent and strategic hunters, and not the mindless scavengers they are taken for.
+
+## What the Clans Do
+
+The herding clans guard their cattle at night against hyenas and keep fires lit by the cattle-fold. Camel-drivers cover their loads and tether the animals close to the camp, since hyenas will take a sleeping man's foot or a tethered kid. Hunters follow the sound of a clan to find a carcass. In the cities of the river the hyenas come to the edge of the burial grounds, and the temples keep the necropolis walls high. A clan that has lost a den has been driven out by lions or a spreading drought.
+
+## Signs
+
+- A whooping, giggling call in the dark that rises into a scream.
+- White droppings, chalky and full of hair, in a heap at a track junction.
+- A carcass cracked open, with the large bones snapped and the marrow gone.
+- Tracks of a four-toed paw with blunt, close-set claws, in an echelon around a kill.
+- A pair of eyes at the edge of firelight that don't move, and then another pair.
 
 ## Combat Strategy
 
@@ -243,11 +259,11 @@ Multiple hyenas attack simultaneously from different angles, forcing opponents t
 
 ### Bone-Crushing Bite
 
-The hyena's bite force is legendary, capable of breaking bone, shattering weapons, and penetrating most armor; a target bitten by a hyena suffers ongoing damage from the deep puncture wounds and potential infection.
+The hyena's bite force is famed, capable of breaking bone, shattering weapons, and penetrating most armor; a target bitten by a hyena suffers ongoing damage from the deep puncture wounds and potential infection.
 
 ### Pack Tactics
 
-Hyenas gain substantial combat bonuses when fighting alongside clan members, and they can execute complex coordinated attacks based on the hierarchy and experience of the pack.
+Hyenas fight far more effectively alongside clan members, and they can execute complex coordinated attacks based on the hierarchy and experience of the pack.
 
 ## Attributes
 

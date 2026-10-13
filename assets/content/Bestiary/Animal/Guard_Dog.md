@@ -210,23 +210,39 @@ sohl:
 
 ![[guarddog|Guard Dog]]{float=top-left}
 
-The dog rises before you fully register its presence, muscles rippling beneath short, dense fur. It is large—easily comparable in weight to a full-grown man—with the build of a creature bred for power and endurance. The eyes are intelligent and focused, fixing on you with absolute certainty of purpose. The growl is not threatening display but simple fact: this creature knows exactly what you are, has assessed you as potential threat, and has decided how it will respond. When the teeth show, they are functional and sharp. The ears are forward, tracking your slightest movement, and the entire body is coiled tension—ready to move in any direction at the instant the command arrives.
+The dog lies across the gate of the yard, a big, short-coated animal the color of wet slate, with its chin on its paws. It has not barked. It watches you come along the lane with calm eyes that follow every step, and when you reach the gatepost it stands, all at once, standing two feet at the shoulder with the muscle moving under the coat. A low note starts in its chest and holds.
 
 # Dossier {#dossier}
 
-Guard Dogs are large canines bred and trained for protection work, combining the loyalty of domestic dogs with the aggression of predators. These are disciplined, intelligent creatures that follow commands from handlers and protect designated charges with unwavering dedication. A guard dog is worth several armed humanoids in defensive capability. Adventurers most commonly encounter them protecting settlements, guarding important persons, or defending valuable locations.
+The Guard Dog is the big protection dog of the villages and strongholds, about two feet at the shoulder and a hundred twenty to a hundred eighty pounds. It is kept in the villages of [[place-vrystwald|Vrystwald]], on the estates of [[place-velanthrgn|Velanthia]], at the gates of the cities of [[place-byzariargn|Byzaría]] and in the keeps of [[place-aelwyth|Aelwyth]], and it guards a fold, a granary, a wall or a person. A dog like this is worth several armed men in defence.
 
 ## Presentation
 
-A mature guard dog stands roughly two feet at the shoulder and weighs between one hundred twenty and one hundred eighty pounds. The build is powerfully muscular, with broad shoulders and deep chest. The coat is typically short and dense, in colors ranging from black to brown to mottled. The head is large and powerful, with a broad muzzle and strong jaw. The eyes are intelligent, capable of reading human emotion with uncanny accuracy. The overall impression is of a creature simultaneously noble and dangerous.
+A powerfully built dog with broad shoulders and a deep chest. The coat is short and dense, black, brown or mottled. The head is large, with a broad muzzle and strong jaws. The eyes are intelligent and read a person's mood quickly. The dog looks noble and dangerous at once.
+
+## In the Land
+
+Guard dogs are kept in the villages of [[place-vrystwald|Vrystwald]], on the farms and estates of [[place-velanthrgn|Velanthia]], at the gates of the walled cities of [[place-byzariargn|Byzaría]] and in the keeps of [[place-aelwyth|Aelwyth]]. A dog lives with its handler's household, sleeps at the door or in the yard, and works a fixed beat around a fold, a granary or a wall. It is fed well and trained from a puppy to answer a few words and hand-signs.
 
 ## Key Behaviors
 
-Guard dogs are intensely loyal to their handlers and obey commands absolutely, even unto death. They are territorial and aggressive toward perceived threats to their territory or charges. Unlike wild dogs, they are disciplined and do not attack without provocation or command. A well-trained guard dog responds to subtle hand signals and voice commands, moving with precision. They are most active during daylight hours but can work at night if trained.
+Guard dogs are loyal to their handlers and obey them to the death. They are territorial and hostile to anything that threatens their ground or their charge, but they are trained to hold back until they are told. A good dog answers hand signals and voice with precision. It works mainly by day, and can be trained to work at night.
+
+## What the Households Do
+
+A shepherd, a miller, a gate-warden or a lord keeps a dog or a pair, and a good dog is not for sale. The handler walks it on a chain through the market so that the dog knows the faces, and teaches it to hold a stranger at bay without biting. A village keeps the dogs of the watch together and feeds them from the common store. A dog that has bitten without a command is killed, and a dog that has saved a household is fed from the table. Travelers coming at night call out their names at the gate and wait for the handler.
+
+## Signs
+
+- A big, short-coated dog lying across a doorway with its chin on its paws and its eyes open.
+- A deep, level bark from a farmyard that stops the moment a door opens.
+- A chain-worn patch of bare earth around a post in a yard.
+- A dog that walks along a fence-line at a measured pace, stops at the gate and sits.
+- A pair of dogs on the road ahead of a flock, at an even distance from the sheep.
 
 ## Combat Strategy
 
-A guard dog fights with discipline and strategy, not wild aggression. If commanded to attack, the dog lunges with focused purpose, attempting to grapple and immobilize. If defending a charge, the dog positions itself between threat and protected individual. A guard dog fighting for its handler commits fully and shows remarkable reluctance to retreat.
+A guard dog fights with discipline and strategy, not wild aggression. If commanded to attack, the dog lunges with focused purpose, attempting to grapple and immobilize. If defending a charge, the dog positions itself between threat and protected individual. A guard dog fighting for its handler commits fully and shows great reluctance to retreat.
 
 ## Attack Methods
 
@@ -242,7 +258,7 @@ The dog uses its weight to knock opponents down—running directly at threats an
 
 ### Protective Loyalty
 
-When defending its handler or designated charge, the guard dog gains significant bonuses to all combat actions. The dog will not retreat if its charge is threatened.
+When defending its handler or designated charge, the guard dog fights with far greater force. The dog will not retreat if its charge is threatened.
 
 ### Command Obedience
 

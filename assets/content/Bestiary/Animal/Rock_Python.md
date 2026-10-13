@@ -171,19 +171,35 @@ sohl:
 
 ![[rckpythn|Rock Python]]{float=top-left}
 
-The ground beneath your feet seems to shift as something massive moves, creating ripples in dust and small stones. Before you can react, coils of muscular, patterned flesh rise from the shadows, each coil as thick as a human torso. The scales shimmer with patterns of brown and green that seem to shift and blur, making it difficult to parse the creature's true form. The head rises last, revealing an eye yellow and lidless, staring with the certainty of something that has waited centuries for prey to arrive. The air itself seems to tighten as the creature acknowledges you, and you understand with absolute clarity that escape may no longer be an option.
+What you took for a boulder at the mouth of the cave is breathing. The brown-and-green patterning runs over it in great geometric loops, and where the coils pile on each other the pile is as high as your waist. A wedge-shaped head the size of a saddle lies on the stone, one yellow vertical-pupiled eye open, and a forked tongue slides out into the air between you and withdraws.
 
 # Dossier {#dossier}
 
-The Rock Python is a massive constrictor serpent reaching lengths of 30-40 feet with a body girth of 1-2 feet in diameter, found in deep jungles, rocky highlands, and cave systems across isolated regions. These apex predators are slow-moving but nearly unstoppable once prey is located, relying on patience, stealth, and overwhelming strength. Adventurers might encounter rock pythons while exploring ruins, crossing jungle terrain, or descending into caves where these creatures establish territory.
+The Rock Python is the great constrictor of the deep jungle, rocky highlands and caves, thirty to forty feet long and one to two feet thick. It lies in the jungle and cave country of [[place-bharavavana|Bhāravavana]] in southern Vedyara and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul]]. It is slow, and once prey is located it is almost impossible to stop. It can wait at one boulder or cave-mouth for months.
 
 ## Presentation
 
-The Rock Python is a creature of overwhelming mass and alien physiology. The body is covered in scales arranged in complex geometric patterns of earthy brown, mottled green, and pale cream that provide extraordinary camouflage against rocks, dirt, and foliage. The head is proportionally smaller than the body, with a jaw capable of unhinging to remarkable proportions and an eye positioned to provide monocular vision along each side. The unblinking yellow eye is vertically pupilled and seems to possess intelligence and calculation beyond what serpents typically display. The mouth, when visible, reveals rows of small backward-pointing teeth designed to grip and guide prey down the gullet rather than to tear. The tongue is constantly active, flickering in and out to taste the air and ground, drawing chemical information through a vomeronasal organ.
+A creature of immense mass. The scales form complex geometric patterns of earth-brown, mottled green and pale cream, which match rock, soil and leaves. The head is smaller than the body, with a jaw that opens enormously, and an unblinking yellow eye with a vertical pupil on each side. The mouth holds rows of small backward-pointing teeth that grip and guide prey down the throat. The tongue flickers constantly to taste the air and ground.
+
+## In the Land
+
+Rock pythons lie in the jungle, rocky highlands and cave country of [[place-bharavavana|Bhāravavana]] in southern Vedyara and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul]]. A snake keeps one boulder, one cave-mouth or one hollow bank for months, hunting from it at dusk. It takes pigs, deer and monkeys and may go weeks between meals. A big snake does not move far from its lair.
 
 ## Key Behaviors
 
-Rock Pythons are fundamentally ambush predators that spend the vast majority of their time waiting motionless in locations where prey regularly passes. A single rock python may occupy the same boulder or cave mouth for months, becoming essentially a geological feature. They are patient to a degree that seems inhumane — capable of waiting weeks between meals and remaining absolutely still for days or weeks while waiting for prey. They are solitary and territorial, with large pythons actively killing smaller pythons that encroach on feeding grounds. Pythons are most active during dawn and dusk when temperature conditions favor optimal movement speed. Their metabolism is extraordinarily slow; a large python may consume a creature the size of a deer and then fast for months while digestion occurs.
+Rock pythons ambush their prey, waiting still for days or weeks where prey regularly passes, so that a snake on a boulder or at a cave-mouth becomes part of the ground. It lives alone and holds a range, and a big python kills a smaller one that crosses into its feeding ground. It is most active at dawn and dusk. Its metabolism is slow: it takes a creature the size of a deer and then fasts for months while it digests.
+
+## What the Hunters Do
+
+Hunters and woodcutters know the lairs and go around them. A snake that has fed is slow and is taken with nets and spears, or burnt out of its hole. A village that loses a goat posts a watch for several nights. The hide is cut into belts, shield-covers and drum-heads, and the fat is rubbed on joints. Strangers are told where not to sit down. In K'ankul the cave pools are avoided, and a pilgrim to a sacred cenote goes in a party and carries a lamp.
+
+## Signs
+
+- A broad, flattened trail through the leaf litter, as wide as a man's body.
+- A shed skin, longer than a boat, caught in a thicket.
+- A boulder with a dark shape lying along it that is not rock.
+- A deer or a pig gone from a game-trail with no blood to follow.
+- A cave mouth worn smooth, with the smell of musk.
 
 ## Combat Strategy
 
@@ -207,7 +223,7 @@ If the python uses its tail defensively, it can generate impacts with significan
 
 ### Immovable Grapple
 
-Once the python has coiled around a victim, the grapple is nearly impossible to escape through conventional means. The strength required to break free from python constriction exceeds the capability of most humanoids. Magical assistance or use of exceptional strength is typically required.
+Once the python has coiled around a victim, the grapple is nearly impossible to escape through conventional means. The strength required to break free from python constriction exceeds the capability of most humanoids. Magical assistance or use of great strength is typically required.
 
 ### Natural Camouflage
 
@@ -223,7 +239,7 @@ The python requires far less food than a comparably sized mammalian predator, al
 
 ### Unhinging Jaw
 
-The python's jaw can expand to remarkable proportions, allowing it to consume prey nearly as large as itself. This capability means that prey items other creatures would consider too large to hunt are fair game for a rock python.
+The python's jaw can expand to great proportions, allowing it to consume prey nearly as large as itself. This capability means that prey items other creatures would consider too large to hunt are fair game for a rock python.
 
 ### Additional Information
 

@@ -233,19 +233,35 @@ sohl:
 
 ![[fox|Fox]]{float=top-left}
 
-Movement catches your eye—a flicker of rust-colored fur and a dark flash of motion at the edge of the underbrush. Then it pauses, and you see it clearly: a slim, elegant animal no higher than your knee, ears pricked forward and absolutely still. Its bushy tail, tipped with white, curls around its haunches, and its eyes—sharp and amber-bright—meet yours for just a fraction of a second. In that look is pure calculation, a weighing and measuring of risk versus reward. Then, as if reaching an internal conclusion, the fox turns and melts back into the brush with barely a whisper of movement, leaving only the faint musk of its passage.
+At the edge of the field, where the stubble meets the hedge, a red shape is sitting in the last of the light. It has watched you for some time. It rises, shakes itself, looks back over its shoulder, and trots off along the ditch with its brush held out behind it. A hen-house door stands ajar at the farm below, and one of the hens is missing.
 
 # Dossier {#dossier}
 
-The fox is a small, intelligent carnivore that thrives in diverse environments from temperate forests to grassland margins and even the edges of human settlement. These creatures are solitary hunters with a reputation for remarkable cunning—they are known to raid chicken coops, outsmart traps, and appear to mock pursuing dogs through sheer agility and wit. Adventurers most often encounter foxes as nuisances around settlements, as omens of mischief in folklore, or as rare companions for those with the patience and ingenuity to befriend them.
+The Fox is the small red hunter of the woods, hedges and field margins, twelve to fifteen inches at the shoulder and up to thirteen pounds. It lives in the clearings of [[place-vrystwald|Vrystwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], the Silver Forests of Élavendre, the Nordlands coast and the northern tundra of Ixtem Tzul, and it raids hen-houses, escapes traps and leads dogs astray. It is the wesk of several Varokh villages.
 
 ## Presentation
 
-A fox stands roughly 12 to 15 inches at the shoulder and rarely weighs more than 12 or 13 pounds, making it far smaller than most predators of the region. Its coat is typically a rich russet or rust-orange with white underside, and the ears are large and pointed, positioned high on the skull for excellent directional hearing. The tail is long, bushy, and often tipped with white or black. The face is narrow and tapered, with a sharp muzzle and amber or golden eyes that suggest considerable intelligence. The build is lean and muscular, adapted for the quick bursts of speed and agility that characterize the fox's hunting style. The overall impression is one of elegance and cunning.
+A small, lean, muscular animal with a russet or rust-orange coat and a white underside. The ears are large, pointed and set high, for sharp hearing. The tail is long and bushy, tipped with white or black. The face is narrow, with a sharp muzzle and amber or golden eyes. It is built for quick bursts of speed and agility.
+
+## In the Land
+
+Foxes live in the woods, hedges and field margins of nearly every settled country: the clearings of [[place-vrystwald|Vrystwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], the Silver Forests of Élavendre, the cold coast of the Nordlands and the northern tundra of Ixtem Tzul, where the arctic fox grows its white winter coat. A fox digs an earth in a bank or a hollow under roots, ranges several miles at night around the farms, and eats mice, voles, hens, eggs and windfalls.
 
 ## Key Behaviors
 
-Foxes are primarily nocturnal or crepuscular, most active in the hours around dawn and dusk when prey is abundant and visibility is poor enough to favor the predator's keener senses. They are solitary except during mating season, when pairs form temporary bonds. A fox establishes a home range and hunts primarily small mammals (rodents, rabbits, hares) and birds, though they are opportunistic scavengers and will take insects, fruit, and discarded food. They are noted for their intelligence—they remember trap locations, avoid obvious dangers, and seem to deliberately test the boundaries of their environments. A fox watching a dog or human will often appear to be mocking them, leading pursuers on wild chases before slipping away without apparent effort.
+Foxes are active at dawn, dusk and night. They live alone except in the mating season, when pairs form for a time. A fox holds a home range and hunts mice, voles, rabbits, hares and birds, and takes insects, fruit and scraps. They remember the traps and avoid obvious dangers, and they test the bounds of their surroundings. A fox with a dog or a person after it often leads the pursuit on a long chase and slips away without effort.
+
+## What the Farmers Do
+
+A farmer keeps hens shut in at night and the hen-house door barred, and sets a snare at a gap in the hedge where a fox has been. Hunters of Vrystwald ride after a fox with hounds, and trappers sell the fur through the Nordlands trade. The fox is the wesk of Vrystwald villages such as Balthhaven and Thornholt. In the Silver Forests the Sinalë tell of Rhysgen, the Red Fox of the Lower Wood, a thief and bargainer among the Kindred; [[lore-rhysgenspr|Rhysgen]] is the one spirit there that will renegotiate its terms. Fox pelts are among the furs traded as currency.
+
+## Signs
+
+- Small, narrow tracks in a straight line across a snowfield, one print placed exactly in the last.
+- A scatter of feathers in a hen-run, a hole under the fence and no hen.
+- A musky, skunk-like smell at the mouth of an earth in a bank.
+- A red shape on the edge of a field at dusk that sits down to watch the observer.
+- A trap-line sprung, the bait gone and the snare undisturbed.
 
 ## Combat Strategy
 
@@ -265,7 +281,7 @@ Using the sharp claws on its paws, the fox rakes at a target's face, legs, or ex
 
 ### Cunning Escape
 
-The fox possesses a remarkable ability to understand and exploit terrain in its favor. It knows escape routes, hiding places, and can navigate broken ground at full speed while larger creatures stumble. A fox pursued by humanoids or dogs will often lead pursuers in loops and spirals before disappearing entirely.
+The fox possesses a great ability to understand and exploit terrain in its favor. It knows escape routes, hiding places, and can navigate broken ground at full speed while larger creatures stumble. A fox pursued by humanoids or dogs will often lead pursuers in loops and spirals before disappearing entirely.
 
 ### Keen Senses
 

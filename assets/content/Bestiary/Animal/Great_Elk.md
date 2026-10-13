@@ -242,19 +242,35 @@ sohl:
 
 ![[greatelk|Great Elk]]{float=top-left}
 
-The earth trembles before you fully comprehend what approaches—a massive shape moving with deceptive grace through the forest. The elk stands nearly eight feet at the shoulder, a creature of overwhelming physical presence. The antlers are the true marvel: a crown of bone spanning twelve feet or more, branching like an ancient tree, each point sharp enough to pierce armor. The coat is rich tawny brown, lighter on the belly, and moves like silk over the powerful musculature beneath. The breath steams visibly in the cold air, and the eyes—large and dark—fix on you with an expression that combines calm intelligence with the capacity for terrible violence. The sound of the hooves on stone is heavy and authoritative, and the ground seems to reshape itself to accommodate the creature's passage.
+The mud at the river's edge has been trodden to a trough by hundreds of cloven hooves, each print as wide as a dinner-plate. A bank of willow is stripped to the height of a man on a horse. Across the river a bull stands at the edge of the birch, nearly eight feet at the shoulder, with antlers spreading wider than the span of a longboat's oars. He lifts his muzzle and bellows, and the sound rolls over the valley.
 
 # Dossier {#dossier}
 
-The Great Elk is a regal megafauna creature that dominates the temperate and cold forests and plains where it ranges. These animals are migratory, often traveling hundreds of miles in established herds that follow seasonal patterns established over generations. A mature bull elk stands nearly eight feet at the shoulder and can weigh close to a ton—a creature built for both grace and raw power. Great Elks are generally peaceful herbivores but become territorial and aggressive during the rutting season, and any threat to calves is met with protective fury.
+The Great Elk is the giant deer of the northern forests and plains, a bull standing nearly eight feet at the shoulder and weighing close to a ton. Herds range the birch and pine forest of the [[place-nrdlndsrgn|Nordlands]], the river valleys and mixed woodland of [[place-vrystwald|Vrystwald]] and the forest-steppe of [[place-velanthrgn|Velanthia]], moving hundreds of miles between summer and winter ground by routes handed down over generations. They are peaceful until the rut and fierce in defence of calves.
 
 ## Presentation
 
-The Great Elk is built for power and endurance, with a body that combines the muscle of a draft animal with the grace of a dancer. The front legs are columnar and strong, supporting the enormous weight of the torso and head. The antlers are the defining feature: a massive crown of bone that can span twelve feet or more, branching extensively with multiple points all sharp enough to serve as weapons. The coat is dense and double-layered, providing protection from cold, in shades of tawny brown with lighter coloring on the belly and underside. The head is large and noble in bearing, with large, expressive eyes and a broad muzzle. The neck is thick and muscular, built to support the weight of the antlers. The overall impression is of a creature of majesty and power.
+A huge deer built for power and endurance, with columnar forelegs under a heavy body and a thick, muscular neck that carries the antlers. The antlers are the mark of the animal: a massive crown of bone that can span twelve feet or more, branching into many sharp points. The coat is dense and double-layered, tawny brown with a paler belly. The head is large and carried nobly, with big, expressive eyes and a broad muzzle.
+
+## In the Land
+
+Great elk range the birch and pine forest of the [[place-nrdlndsrgn|Nordlands]], the broad river valleys and mixed woodland of [[place-vrystwald|Vrystwald]] and the forest-steppe of [[place-velanthrgn|Velanthia]]. A herd moves in spring to the high ground and the river meadows and back to the lower forest before the snow, along the same routes it has used for generations. Bulls keep apart from the cows and calves for most of the year and rejoin them for the autumn rut.
 
 ## Key Behaviors
 
-Great Elks are herd animals that travel in organized groups ranging from a few individuals to herds of several dozen. They are migratory, following established routes to summer and winter ranges. They are primarily crepuscular, most active during dawn and dusk, spending daylight hours resting and chewing cud. They feed on vegetation—grasses, shrubs, leaves, and twigs—and can consume enormous quantities. Bulls are solitary during non-breeding season but gather with cows for the rut (mating season), during which they become intensely territorial and aggressive. Calves are protected fiercely by mothers, and bulls will defend harems from rival males.
+Elk travel in herds of a few animals to several dozen, along fixed routes to summer and winter ranges. They are most active at dawn and dusk and rest and chew the cud by day. They eat grass, shrubs, leaves and twigs in great quantity. Bulls live alone outside the breeding season and join the cows for the autumn rut, when each holds ground and a harem against rivals. Cows protect their calves fiercely.
+
+## What the Hunting Companies Do
+
+The hunting companies of Vrystwald follow the elk on their migrations and plan a season's hunting around the herd's route. A bull is a month's meat for a company, and the antlers and the hide are traded south. In the rut a bull will attack a man on foot, and the hunters work from a stand or from the saddle. Whole villages depend on a good run: when a herd takes another route, as it did for the Gárskald when the Hildskorn country drew it away, the hunters go hungry. The great antlers are set over the doors of clan halls.
+
+## Signs
+
+- A broad trail of cloven prints, deep in the mud, running between a river meadow and a ridge.
+- Bark scraped from young trees at a man's reach, with strips hanging.
+- Shed antlers lying in the leaf litter in late winter, the points gnawed by mice.
+- A bugling roar over a valley at dawn in the autumn.
+- Browse-lines on the pines, cut level at the height of a raised hand.
 
 ## Combat Strategy
 
@@ -276,7 +292,7 @@ The hind legs deliver powerful kicks—slow but tremendously forceful—that can
 
 Within a herd, Great Elks are nearly impossible to surprise—one alert individual shares danger signals with the entire group, allowing them to react as a coordinated unit. A solitary elk is more vulnerable but still maintains excellent vigilance.
 
-### Legendary Endurance
+### Endurance
 
 The Great Elk can travel for days without tiring, covering vast distances at a steady pace. This endurance allows escape from most pursuers, though it also means a determined elk can follow prey relentlessly.
 

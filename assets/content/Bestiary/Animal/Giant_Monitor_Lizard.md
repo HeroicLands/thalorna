@@ -232,19 +232,35 @@ sohl:
 
 ![[gntmntrlzrd|Giant Monitor Lizard]]{float=top-left}
 
-You notice the disturbance in the scrub first—a barely perceptible parting of the underbrush, accompanied by the smell of aged decay and something distinctly reptilian. Then the creature emerges, moving with deceptive slowness that masks coiled power: a massive lizard whose scales catch and scatter the light in dull bronze and gray. Its forked tongue flicks repeatedly, tasting your scent on the wind. When it turns toward you, its eyes are ancient and flat, and the malevolent intelligence behind them is unmistakable. Each claw-strike against stone rings like a death knell.
+The scrub above the beach is hot and still, and the air smells of rot and musk. A broad furrow runs through the sand with a line of tail-drag down the middle. At the end of it a thing the color of wet bronze lies half out of its burrow, nine feet from snout to tail, its forked tongue tasting the wind. The small eyes turn toward you, and the heavy body begins to lift on its legs.
 
 # Dossier {#dossier}
 
-The giant monitor lizard is the largest living lizard, measuring 9 to 10 feet in length and weighing 200-300 pounds. Its body is heavily built and muscular, with coarse scales in shades of gray-brown or bronze-black that darken with age. The body thickens along the back and sides, creating a powerful, tapering silhouette. Its head is proportionally broad, with a wide jaw and small eyes positioned somewhat forward of center, granting good forward vision for ambush hunting.
+The Giant Monitor Lizard is the largest lizard, nine to ten feet long and two to three hundred pounds, living on the dry islands of the [[place-suryaislnds|Sūrya-samudra Islands]], the rocky scrub of southern [[place-vedyarargn|Vedyara]] and the lowlands of the Jürthāti islands. It lies in ambush on a game-trail and smells carrion from far off. Its saliva carries venom and infection, so a bite goes on weakening an animal after the lizard has lost the fight.
 
 ## Presentation
 
-Giant monitor lizards display rough, knobbed scales across their entire body, with prominent ridges along the spine and tail. Their coloration provides excellent camouflage in rocky, scrubby environments, and individuals often bear darker mottling or paler patches depending on local soil coloration. The head is broad and flattened, with powerful musculature visible beneath the scales. The mouth is slightly underslung and can open to an impressive width. Claws are sharp and constantly maintained through use. The tail is nearly as long as the body, muscular and whip-like. A musky, acrid odor surrounds them at all times.
+A heavily built, muscular lizard with rough, knobbed scales in gray-brown or bronze-black that darken with age, and ridges along the spine and tail. The head is broad and flattened, with a wide mouth that opens very far and small eyes set forward of center. The claws are sharp from constant use. The tail is almost as long as the body, muscular and whip-like. A musky, acrid smell surrounds it.
+
+## In the Land
+
+Giant monitors live on the warm, dry islands of the [[place-suryaislnds|Sūrya-samudra Islands]], on the rocky scrub of the south coast of [[place-vedyarargn|Vedyara]] and in the lowlands of the Jürthāti islands. A lizard keeps a territory of a few miles of beach, scrub and dry stream-bed, a burrow under a rock and a basking-place on a warm slope. It lies in ambush on a game trail and follows the scent of carrion for miles, and several will gather at a carcass.
 
 ## Key Behaviors
 
-Giant monitor lizards are primarily solitary predators, though they will congregate at carcasses or in regions of high prey abundance. They are ambush hunters par excellence, spending much of their day resting in burrows, beneath rocks, or in dense vegetation, waiting for prey. They hunt during the day and rest at night. A lizard can sense carrion from a considerable distance and will congregate with other dragons to feed on a fresh kill, their social hierarchy determining feeding order. Their venomous saliva, combined with pathogenic bacteria, makes a bite persistently dangerous; prey bitten by a lizard gradually weakens as venom and infection ravage the body, even if the lizard loses the initial encounter.
+Giant monitors hunt alone, resting in a burrow, under rocks or in thick cover and waiting for prey by day. They gather at a carcass and at places with plenty of prey, and rank decides who feeds first. They sense carrion from far away. They rest at night. A bitten animal sickens as the venom and infection spread, so the lizard can let it go and follow it until it weakens.
+
+## What the Islanders Do
+
+Fishing villages leave animal offal in the surf and keep their children from the scrub behind the beach. Herders count their goats at dusk and keep them penned at night. The islanders hunt the monitor with spears and dogs for the hide, which makes drum-heads and sword-grips, and for the claws, which they sell. A person bitten by one is taken at once to a healer, since the bite festers and the fever follows. The old lizards are known by name along the shore, and a village leaves a pig at a known lizard's beach in a bad year.
+
+## Signs
+
+- A broad, scraped trail through sand or leaf litter, with a line of tail-drag down the middle.
+- A forked tongue tasting the air at the mouth of a burrow in a bank.
+- Foot-prints with five long toes and claws, spread wide, set in a staggering line.
+- A goat or a deer carcass dragged into the shade, with bite wounds that have gone black.
+- A smell of rot, sweet and strong, carried on a warm wind off the scrub.
 
 ## Combat Strategy
 
@@ -268,7 +284,7 @@ The giant monitor lizard's bite injects a complex venom mixed with pathogenic ba
 
 ### Ambush Master
 
-The giant monitor lizard gains substantial bonuses to stealth and to attack rolls when striking from surprise; in terrain of its choice, the lizard is nearly undetectable until it chooses to strike.
+The giant monitor lizard strikes hardest from surprise; in terrain of its choice, it is nearly undetectable until it chooses to strike.
 
 ## Attributes
 

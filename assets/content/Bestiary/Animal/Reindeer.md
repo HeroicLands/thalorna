@@ -242,19 +242,35 @@ sohl:
 
 ![[reindeer|Reindeer]]{float=top-left}
 
-The herd appears on the horizon like a dark tide moving across the tundra — hundreds of shapes flowing together with a rhythm that makes the ground itself seem to migrate. As the nearest animals draw close, you see them clearly: sturdy, broad-chested creatures built low and wide for a climate that kills the tall and the lean. Both sexes carry antlers — the males' enormous and sweeping, the females' smaller but no less purposeful. The coats are dense and layered, pale gray-brown fading to white on the chest and belly, and the sound they make is extraordinary — a constant clicking from their ankles, thousands of tendons snapping over bone with every step, so that the herd produces a rhythmic, percussive music that carries across the empty landscape like the heartbeat of the north itself.
+A low, clicking noise reaches you across the snow, a sound like thousands of dry twigs snapping. It comes out of a gray line on the horizon that lengthens and thickens as you watch. Reindeer, hundreds upon hundreds, pour over the rise, heads down, antlers swaying in a forest of branching bone, their breath rising in a cloud. The ground shakes. They pass you at a walk, in a river the width of a valley, and the clicking goes on.
 
 # Dossier {#dossier}
 
-The Reindeer is the defining animal of the far north and its kingdoms — the creature around which entire cultures are organized. Standing three to four feet at the shoulder and weighing three hundred to five hundred pounds, reindeer are the only cervids in which both sexes grow antlers. They are supreme cold-weather survivors, possessing adaptations that allow them to thrive in conditions that kill most other large mammals. Wild herds numbering in the thousands migrate across the high interior plateau in seasonal patterns that have been followed for millennia. Domesticated herds provide the northern peoples and the highland clans with transport, milk, leather, sinew, bone tools, and meat — there is no part of the reindeer that northern peoples do not use. Adventurers encounter reindeer constantly in the north: as pack animals, as wild herds blocking passes, as the economic foundation of every settlement they visit, and occasionally as aggressive bulls during the autumn rut.
+The Reindeer is the deer of the far north, three to four feet at the shoulder and three to five hundred pounds, the only deer in which both sexes grow antlers. Wild herds of thousands cross the tundra and pine forest of the [[place-nrdlndsrgn|Nordlands]] and the subarctic plateau of [[place-ixtemtzulrgn|Ixtem Tzul]] in seasonal migrations that have followed the same routes for millennia. The northern peoples and the highland clans use every part: transport, milk, leather, sinew, bone tools and meat.
 
 ## Presentation
 
-The reindeer is built for survival in extreme cold — compact and broad-chested with short, powerful legs that end in wide, splayed hooves designed to act as snowshoes on soft ground and paddles in water. The coat is extraordinarily dense, composed of hollow guard hairs over a thick undercoat that provides insulation sufficient to sleep on open tundra in blizzard conditions. Coloration ranges from dark gray-brown on the back and flanks to pale cream on the chest, belly, and rump. The face is broad with a furred muzzle — unique among cervids — that warms inhaled air before it reaches the lungs. The antlers of mature bulls are massive and complex, sweeping back and upward with multiple tines and a distinctive forward-pointing brow tine that overhangs the face like a visor. Female antlers are smaller but functional, retained through winter when males have shed theirs. The most distinctive feature is the audible clicking of the ankle tendons — a sound that allows herd members to maintain contact in whiteout conditions.
+A compact, broad-chested deer on short, powerful legs ending in wide, splayed hooves that work as snowshoes on soft ground and paddles in water. The coat is extremely dense, hollow guard hairs over a thick undercoat, dark gray-brown on the back and flanks and pale cream on the chest, belly and rump. The face is broad with a furred muzzle that warms the air before it reaches the lungs. A bull's antlers are massive and complex, sweeping back and up with many tines and a forward brow tine that overhangs the face; a cow's are smaller and kept through the winter after the bulls have shed theirs. The ankle tendons click audibly as the animal walks, which lets the herd keep together.
+
+## In the Land
+
+Reindeer, called caribou in the north, live in great herds on the tundra and the pine forest of the [[place-nrdlndsrgn|Nordlands]] and on the subarctic plateau of [[place-ixtemtzulrgn|Ixtem Tzul]]. A herd of hundreds moves in spring from the sheltered winter forest to the summer tundra and back in autumn, by routes led by the old cows, and crosses the same rivers at the same fords each year. The cold slows nothing; the herd feeds by pawing the snow away from lichen.
 
 ## Key Behaviors
 
-Reindeer are profoundly social herd animals whose lives are governed by seasonal migration. Wild herds follow routes established over centuries, moving between winter forest shelter and summer tundra grazing, covering distances of several hundred miles each way. The migration is led by experienced females who remember the route, the river crossings, and the timing of seasonal changes. Bulls join the herds in autumn for the rut, competing through antler displays and sparring matches that are vigorous but rarely fatal — the winner collects a harem and guards it jealously for the duration of the breeding season. Reindeer are excellent swimmers, crossing wide rivers and even fjord channels during migration. They feed on grasses, sedges, and lichens — their ability to smell and dig through deep snow to reach buried lichen is critical to winter survival and represents an ecological niche no other large herbivore can exploit.
+Reindeer live in herds ruled by the seasons. The routes between winter forest and summer tundra are hundreds of miles each way and are led by experienced cows, who remember the crossings and the timing. Bulls join in autumn for the rut, with antler displays and sparring that are vigorous but rarely fatal, and the winner takes a harem. Reindeer swim rivers and even fjord channels. They eat grasses, sedges and lichens, and smell lichen under deep snow and dig for it, which no other large grazer can do.
+
+## What the Caribou Clans Do
+
+The caribou clans of the northern plateaus live by the herds. They follow the migration with their tents and sleds, take the meat and the hides, use the sinew for thread and the antlers for tools, and drink the milk. At the carvers' town of [[place-marvstead|Marvstead]], reindeer antler is worked into combs and hilts alongside walrus tusk. The clans herd tame animals as draft and riding beasts, and they take wild animals at the river crossings. Wolves, bears and eagles follow the herds, and the clans lose calves to them every spring.
+
+## Signs
+
+- A broad trail of cloven prints trampled into snow or tundra, miles long.
+- A clicking sound in the dark, from the tendons of a herd on the move.
+- Shed antlers on the ground in a heap, gnawed by mice.
+- Pits in the snow where the animals have pawed to the lichen.
+- A column of animals crossing a river, heads up, with wolves behind.
 
 ## Combat Strategy
 
@@ -286,12 +302,12 @@ Reindeer can detect lichen buried under several feet of snow through scent alone
 
 ### Tendon Click Communication
 
-The distinctive clicking sound produced by the ankle tendons serves as a passive communication system, allowing herd members to maintain cohesion in darkness, fog, or blizzard whiteout conditions. A herd moving at night produces a continuous clicking rhythm that can be heard at significant distance — both a navigation aid for the herd and an early warning to anything in its path.
+The distinctive clicking sound produced by the ankle tendons works as a passive communication system, allowing herd members to maintain cohesion in darkness, fog, or blizzard whiteout conditions. A herd moving at night produces a continuous clicking rhythm that can be heard at significant distance — both a navigation aid for the herd and an early warning to anything in its path.
 
 ## Attributes
 
 - **Strength:** 9-14 (1d6+8) — Compact and powerful, built for hauling loads and pushing through deep snow
-- **Endurance:** 11-16 (1d6+10) — Exceptional stamina for migration and extreme cold survival
+- **Endurance:** 11-16 (1d6+10) — Great stamina for migration and extreme cold survival
 - **Dexterity:** 8-11 (1d4+7) — Adequate but not refined; built for function, not precision
 - **Agility:** 11-16 (1d6+10) — Sure-footed across tundra, snowfield, and river crossing
 - **Perception:** 11-16 (1d6+10) — Keen senses, particularly smell; can detect lichen under deep snow

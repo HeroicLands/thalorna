@@ -239,23 +239,39 @@ sohl:
 
 ![[crcdl|Crocodile]]{float=top-left}
 
-The water moves wrong. What you thought was a floating log shifts, and suddenly features resolve into a reptilian head the size of a human torso. The jaw opens in a gape that should be impossible—the hinge working in a way that reveals interior more cavernous than any predator should possess. Rows of teeth, worn and dark with age, gleam as water drains back across them. The eye, a vertical slit in the side of the head, fixes directly on you with an intelligence that seems almost human—cold, assessing, ancient. The body beneath the water is colossal, a wedge of muscle and armored scale that displaces water with each movement. When it moves, the entire river seems to rearrange itself.
+The sandbank in the middle of the river looks like a drift of old logs, until one of the logs opens an eye. A long, ridged back lies half out of the water, olive and brown, plated like a ship's hull, with a snout lying flat before it. Beyond it the ford where the herds cross is silent and the water is perfectly still. The air smells of musk and mud.
 
 # Dossier {#dossier}
 
-The Crocodile is a semi-aquatic apex predator representing evolution's perfection of the ambush strategy. Measuring fourteen to twenty feet in length and weighing five hundred to over two thousand pounds, these reptiles are found in warm rivers, lakes, swamps, and coastal waters worldwide. A crocodile is a creature of extraordinary patience and explosive violence—it can remain motionless for hours, days even, waiting for suitable prey to approach. When the moment arrives, it attacks with a speed and ferocity that contrasts dramatically with its earlier immobility. Crocodiles are intelligence enough to recognize individual threats, remember previous encounters, and plan complex hunting strategies. They are known to hunt cooperatively in some cases and to hold grudges against humans who have harmed them. Adventurers encounter crocodiles while crossing rivers, camping on banks, exploring swamps, or sailing on waters where the creatures live. A crocodile that has fed on human flesh may actively hunt humans thereafter, viewing them as prey.
+The Crocodile is the great river reptile of the warm waters, fourteen to twenty feet long and five hundred to over two thousand pounds. It lies in the rivers, papyrus channels and marsh pools of [[place-aukhelathrgq|Aû'Khelâthu]], along the lower rivers of [[place-okharisrgn|Okháris]] and in the river country of the [[place-sthrnsvnhs|Southern Savannahs]]. A crocodile waits motionless for hours at a ford or a drinking place and then strikes at once. One that has taken a person comes back for another.
 
 ## Presentation
 
-A massively built reptile with a body shaped like a terrestrial ship's hull: broad and deep in the middle, tapering toward the snout and the tail. The skin is covered entirely in rough scales arranged in rows, providing natural armor. The color is typically dark brown, gray, or olive-green, allowing the creature to blend with muddy water and vegetation. The underside is lighter, typically yellowish or pale green. The head is triangular when viewed from above, tapering to a snout that contains the nostrils positioned to allow breathing while mostly submerged. The mouth is enormous and can open to an angle that seems to dislocate the jaw—the hinge mechanism is engineered to allow this extreme gape. The teeth are numerous, pointing backward and designed to grip prey rather than cut it. The eyes are positioned high on the head, allowing the crocodile to see while mostly submerged. The tail is powerfully muscled and laterally flattened, serving as the primary swimming organ and as a devastating weapon. The legs are short and positioned laterally, allowing the crocodile to move on land but not efficiently. The entire creature reeks of musk and water-stained scales, the smell of a creature that lives in the boundary between water and land.
+A massive reptile shaped like a hull, broad and deep in the middle and tapering toward snout and tail, covered in rows of rough scales, dark brown, gray or olive above and yellowish below. The head is triangular from above, with the nostrils and eyes set high so that the animal can breathe and see while almost submerged. The mouth opens enormously on numerous backward-pointing teeth. The tail is thick, flattened and strong, and drives the animal through the water. The short legs are set at the sides, and the animal is clumsy on land. It smells of musk.
+
+## In the Land
+
+Crocodiles lie in the rivers, papyrus channels and marsh pools of [[place-aukhelathrgq|Aû'Khelâthu]], along the lower reaches of the rivers of [[place-okharisrgn|Okháris]] and in the eastern river country of the [[place-sthrnsvnhs|Southern Savannahs]], among the hippopotamus pools. A crocodile holds a stretch of river for years, basking on a sandbank by day and hunting the drinking-places at dusk and in the dark. The big ones are found at the fords, where the herds cross.
 
 ## Key Behaviors
 
-Crocodiles are territorial predators that establish lairs along rivers or in swamps. A single crocodile may control several miles of river, defending territory against other crocodiles through displays and occasional combat. They are primarily ambush predators, spending most of daylight hours motionless in water, observing potential prey. They hunt primarily during dawn, dusk, and night when visibility is reduced and prey is most active. They hunt any animal that approaches the water: fish, birds, small mammals, and large ungulates coming to drink. They have been documented hunting humans, and a crocodile that has successfully killed humans will hunt humans preferentially. They are capable of going extended periods without food—a large crocodile may eat only once per month or less frequently, digesting prey slowly. They are long-lived animals, sometimes exceeding sixty years. Females are notably more aggressive during nesting season, defending eggs and hatchlings ferociously. They are sensitive to temperature and prefer warm waters; in cold regions, they become less active or enter dormant states.
+Crocodiles hold a stretch of river, several miles for a big one, and defend it against other crocodiles by display and sometimes a fight. They spend the day motionless in the water and hunt at dawn, dusk and night, taking fish, birds, small animals and the large herbivores that come to drink. A big animal eats once a month or less. A female guards the nest and the hatchlings ferociously. They recognize individual enemies and remember encounters, and a crocodile that has killed a person hunts people. They slow in cold weather, and may live over sixty years.
+
+## What the River Peoples Do
+
+In Aû'Khelâthu the crocodile is sacred to [[lore-tjelsukdty|Tjelsur]], and the river temples feed the animals that live by them. The Nyáluba clan of the Kolembozi are the crocodile-clan, and for them the crocodile guide is an ancestral presence and not only an animal; they are the river-people and fish the whole river country. Villages place their water-points and wash-places at the upstream end of a bend and fence them with stakes. The hunters of the Zeghet'Nelgu take a crocodile in open water as proof of their rank. A fisherman looks for the track on the bank before he wades.
+
+## Signs
+
+- A long, ridged shape on a sandbank that slides into the water when approached.
+- A slide of flattened mud down a river bank, and a trail of claw-marks beside it.
+- Two eyes and a nose on the water that do not move, in the pool by a ford.
+- A herd of antelope drinking in a line, with a dozen spaced yards between each animal.
+- A dog or a goat gone from the water's edge, with a swirl and no shout.
 
 ## Combat Strategy
 
-A crocodile's preferred hunting strategy is to identify prey approaching the water, submerge itself nearly completely, wait for the prey to enter the water, then accelerate and attack. The initial attack is a bite to the head, throat, or limb—the goal is to seize and pull the prey into the water. Once water-bound, the crocodile gains tremendous advantage: it is a stronger swimmer than most prey, can hold its breath indefinitely, and uses the medium to apply force that would be impossible on land. A seized prey is typically subjected to the famous death roll—the crocodile rotates its body rapidly around the long axis of its snout, attempting to dismember the prey through torque and shearing force. Multiple crocodiles feeding on a carcass will sometimes coordinate, with one individual holding the prey while others tear chunks away. If a crocodile is forced onto land or forced into combat, it is less effective but still dangerous—the bite force is extraordinary, and the tail is a devastating bludgeon.
+A crocodile's preferred hunting strategy is to identify prey approaching the water, submerge itself nearly completely, wait for the prey to enter the water, then accelerate and attack. The initial attack is a bite to the head, throat, or limb—the goal is to seize and pull the prey into the water. Once water-bound, the crocodile is far stronger: it is a stronger swimmer than most prey, can hold its breath indefinitely, and uses the medium to apply force that would be impossible on land. A seized prey is typically subjected to the famous death roll—the crocodile rotates its body rapidly around the long axis of its snout, attempting to dismember the prey through torque and shearing force. Multiple crocodiles feeding on a carcass will sometimes coordinate, with one individual holding the prey while others tear chunks away. If a crocodile is forced onto land or forced into combat, it is less effective but still dangerous—the bite force is extraordinary, and the tail is a devastating bludgeon.
 
 ## Attack Methods
 
@@ -269,7 +285,7 @@ Once the crocodile has seized prey in its jaws, it may perform the death roll: r
 
 ### Tail Strike
 
-Using the powerful caudal fin, the crocodile can strike opponents with tremendous force, capable of breaking bones, dislocating joints, or simply knocking targets prone. The tail is used both in water and on land, and its reach exceeds the crocodile's bite range.
+Using the powerful caudal fin, the crocodile can strike opponents with tremendous force, capable of breaking bones, dislocating joints, or simply knocking a man down. The tail is used both in water and on land, and its reach exceeds the crocodile's bite range.
 
 ### Crushing Jaw Pressure
 
@@ -287,7 +303,7 @@ In water, the crocodile is apex predator with no equal. It can outswim most crea
 
 ### Crushing Bite Force and Jaw Engineering
 
-The crocodile's bite force exceeds that of any land mammal by a significant margin. The jaw design allows it to bite with force comparable to the impact force of a falling boulder. The jaw cannot be forced open once closed by external force, making escape from a crocodile bite exceptionally difficult.
+The crocodile's bite force exceeds that of any land mammal by a significant margin. The jaw design allows it to bite with force comparable to the impact force of a falling boulder. The jaw cannot be forced open once closed by external force, making escape from a crocodile bite very difficult.
 
 ### Regenerating Teeth and Scalp Armor
 

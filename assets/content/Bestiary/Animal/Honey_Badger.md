@@ -233,19 +233,35 @@ sohl:
 
 ![[hnybdgr|Honey Badger]]{float=top-left}
 
-You catch movement in the underbrush—a low, powerful shape with contrasting white and black fur. The creature's musky scent reaches you first, rank and acrid. When it pauses to sniff the air, you notice the raw power coiled in its squat frame; muscles ripple beneath loose, thick skin. Its claws have torn the earth into furrows, and its eyes—small and dark but utterly focused—lock onto yours without hesitation or fear. The air around it crackles with hostile intent.
+The wild fig by the dry river-bed has been torn open at the root, and a bee-tree beyond it is shedding wax. Something low and black and white is crossing the sand toward you with a rolling gait, no taller than your knee, with its head down. It is a creature the size of a dog that has no intention of stepping aside. It stops, and the coarse hair stands up along its back.
 
 # Dossier {#dossier}
 
-The honey badger is a small but devastatingly dangerous mustelid, measuring only 2-3 feet long yet possessing the heart of something ten times its size. Its distinctive black and white coat serves as a warning to would-be predators, and its thick, almost rubbery skin can twist within itself, allowing the creature to rotate and bite an attacker even when pinned or partially swallowed. It weighs up to 35 pounds of pure combative fury.
+The Honey Badger is a small, ferocious badger, two to three feet long and up to thirty-five pounds, with a black coat and a pale stripe from head to tail. It lives on the savanna and dry woodland of the [[place-sthrnsvnhs|Southern Savannahs]], the scrub of the [[place-sthmrchsrgn|South Marches]] and the hills of [[place-okharisrgn|Okháris]], raiding bee-trees, killing snakes and attacking animals many times its size. Its skin is so loose that it can twist and bite an attacker that has hold of it.
 
 ## Presentation
 
-Honey badgers are compact and heavily muscled, with stocky legs ending in powerful claws perfect for burrowing and tearing. Their fur is coarse and dense, providing insulation and protection. The black coat contrasts dramatically with white or pale stripes running from the head along the spine to the tail. Small, rounded ears sit flush against the head, and the snout is short but packed with sharp, formidable teeth. They move with a peculiar, rolling gait that belies their explosive speed and agility.
+A compact, heavily muscled animal on stocky legs ending in strong claws for digging and tearing. The fur is coarse and dense. A black coat is marked by a white or pale stripe from the head along the spine to the tail. The ears are small and set flat to the head, and the snout is short with sharp teeth. It moves with a rolling gait and is much quicker than it looks.
+
+## In the Land
+
+Honey badgers live on the savanna and in the dry woodland of the [[place-sthrnsvnhs|Southern Savannahs]], the scrub of the [[place-sthmrchsrgn|South Marches]] and the hills of the [[place-okharisrgn|Okháris]] country. A badger digs a burrow in a bank, ranges a few miles at night and by day for bees, snakes, small animals and carrion, and follows the honey-guide birds to the hives. It moves from one burrow to the next and holds no fixed den.
 
 ## Key Behaviors
 
-Honey badgers are notoriously fearless and will attack adversaries many times their size without hesitation. They are voracious hunters, seeking out bees, snakes (including venomous ones), small mammals, and insects with equal enthusiasm. Highly territorial, a honey badger marks its domain and defends it against all intrusion, whether from rival badgers or creatures far larger. Their persistence is legendary—once engaged, they rarely retreat, often fighting to the death even when catastrophically injured. They are primarily nocturnal but hunt during the day when prey is abundant.
+Honey badgers fear nothing and attack animals much larger than themselves. They hunt bees, snakes including venomous ones, small mammals and insects. Each holds and defends a territory against all comers, and once a fight starts it rarely breaks off, even badly hurt. They are mainly nocturnal, and hunt by day when food is plentiful.
+
+## What the Herders Do
+
+The herding clans lose hens, kids and honey to it. They hang their hives from tall branches on wires and sticks and put the henhouse on legs. A badger that has got into a pen is killed with spears and clubs, and the loose skin makes it hard to hold. The honey-hunters watch for the black-and-white animal at the base of a tree, since where it digs is where the bees are. Traders do not buy the pelt, which is too thick and rubbery for any use. A herder who has been bitten knows to keep the wound clean.
+
+## Signs
+
+- A hive-tree with a gaping hole torn in the trunk and wax strewn around the base.
+- A deep burrow in a bank with a wide, ragged mouth and a spray of dug earth.
+- The skin of a snake, flayed whole, lying at the mouth of a hole.
+- A black-and-white shape, low and fast, crossing a dry watercourse at dusk.
+- A hen-house wall torn through at the base.
 
 ## Combat Strategy
 
@@ -265,11 +281,11 @@ The honey badger's jaws are capable of crushing bone and can latch onto soft or 
 
 ### Thick, Loose Hide
 
-The honey badger's skin is remarkably elastic and can slip within itself, allowing it to escape many grabs or constrictions and rotate to bite attackers who think they have pinned it. This hide also resists cuts, bites, and stings from most sources.
+The honey badger's skin is very elastic and can slip within itself, allowing it to escape many grabs or constrictions and rotate to bite attackers who think they have pinned it. This hide also resists cuts, bites, and stings from most sources.
 
 ### Relentless Fury
 
-Honey badgers continue fighting with undiminished aggression even when severely wounded, and they gain bonuses to actions when injured and defending their territory or young.
+Honey badgers continue fighting with undiminished aggression even when severely wounded, and they fight harder when injured and defending their territory or young.
 
 ## Attributes
 

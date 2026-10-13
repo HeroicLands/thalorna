@@ -425,19 +425,35 @@ sohl:
 
 ![[chmpnz|Chimpanzee]]{float=top-left}
 
-The first sign is the sound—a series of rising pant-hoots that chill the blood, echoing through the canopy with primal intensity. Then the figure emerges: a powerful, dark-haired form swinging from branch to branch with acrobatic grace. As it descends closer, you see the musculature, the bare face and hands of startling intelligence, and then the lips peel back in a threat display that reveals massive canines. The creature lets out a full, aggressive screech that echoes through your chest. Its eyes—intelligent, calculating, and utterly devoid of compassion—fix directly on you.
+Overhead the canopy is shaking. A single hoot starts up, rises into a scream and is taken up from three sides, and then the branches are thrashing all around you. A dark shape drops to a lower limb with a long arm hooked over it, and then another, and another. Their faces are bare and wrinkled and entirely clear. They have taken your measure, and one of the males begins to beat his chest with a hand.
 
 # Dossier {#dossier}
 
-The chimpanzee is a primate of frightening intelligence and savage capability. Standing four to five and a half feet tall and weighing ninety to two hundred pounds depending on sex, these creatures possess intelligence comparable to human children, a memory of faces and grievances that rivals human capacity, and a propensity for calculated violence that exceeds most predators. Unlike bears or big cats, which kill by instinct, chimpanzees plan, coordinate, and pursue revenge with vindictive precision. They live in hierarchical societies where dominance struggles determine access to resources and mating, and these struggles are settled through violence. Adventurers may encounter chimpanzees while exploring tropical forests, investigating lost civilizations in jungle regions, or being pursued by organized groups of these creatures that view humans as territorial rivals or threats to social hierarchy.
+The Chimpanzee is the forest ape, four to five and a half feet tall and ninety to two hundred pounds, living in communities of fifteen to eighty in the rain-forest of the [[place-cntrlrnfrsts|Central Rainforests]]. It is clever, remembers faces and grievances, and plans its attacks. Communities defend their ground against their neighbors and raid across the border. People who cross a community's range meet the same coalition of males that guards it against other chimpanzees.
 
 ## Presentation
 
-A powerful primate with proportionally long arms—the span from hand to hand equals or exceeds the creature’s height. The body is compact and heavily muscled, particularly in the shoulders, chest, and back. The head is large with a pronounced brow ridge, small ears set to the sides, and a face that, while ape-like, conveys an unsettling impression of intelligence. The eyes are dark and expressive, capable of showing emotions and intentions clearly. The mouth is large with substantial canine teeth visible when the creature displays threat or bares teeth. The skin is bare on the face and hands, typically dark brown or black, while the rest of the body is covered in dark hair typically dark brown or black. Mature males develop pronounced muscle tone and sometimes acquire a speckled appearance as darker hairs emerge. The knuckles of the hands are pronounced and heavily callused, adapted for knuckle-walking. Every individual shows scars from past battles—claw marks, bite wounds, torn ears, or damaged eyes. These scars are badges of survival and status within their groups.
+A powerful ape with arms so long that the span from hand to hand is as great as its height. The body is compact and heavily muscled across the shoulders, chest and back. The head is large, with a heavy brow ridge, small ears and a bare face of dark brown or black that is expressive. The mouth is wide, with canines that show when the animal threatens. The rest of the body is covered in dark hair, which flecks with age in a mature male. The knuckles are callused for walking. Every adult carries scars from fights.
+
+## In the Land
+
+Chimpanzee communities live in the rain-forest of the [[place-cntrlrnfrsts|Central Rainforests]], where a group holds a territory of several square miles of fruit trees, river bank and sleeping groves. A community feeds in the canopy by day and builds a nest of bent branches each night, in a different tree. Neighboring communities meet at the border of their ranges and fight. The Rainforests are large enough to hold dozens of groups, and the tribes do not know how many.
 
 ## Key Behaviors
 
-Chimpanzees live in societies of fifteen to eighty individuals organized around a complex hierarchy. Dominance is established and maintained through displays of strength, coalition building, and violence. Adult males form the core of social structure, with alliances determining who holds power. Females are typically subordinate but possess their own hierarchies. Remarkably, chimpanzees wage war—distinct groups defend territories and engage in organized raids against neighboring groups, sometimes killing all members of the rival group they encounter. They are intensely territorial, patrolling boundaries and attacking intruders without mercy. Within their group, they show extraordinary social bonds: mothers and offspring remain close, coalitions form and dissolve, and individuals show genuine grief when group members die. They use tools regularly: sharpened sticks for hunting, stones for cracking nuts, moss for carrying water. They hunt, cooperatively bringing down monkeys and other animals through coordinated effort. They have learned to fear humans and fire, and this fear is transmitted through generations.
+Communities are ordered by rank, held by display, alliance and violence, with adult males at the core. Females keep a hierarchy of their own. Neighboring groups fight over their borders, patrolling them and sometimes killing every member of a rival group they catch. Inside a community mothers and young stay close, alliances form and dissolve, and animals grieve their dead. Chimpanzees use tools: sharpened sticks, stones for nuts and moss to carry water. They hunt monkeys together, and they fear fire and people, a fear the young learn.
+
+## What the Forest Tribes Do
+
+The forest tribes keep their camps and gardens away from the fruit trees a community feeds in. They do not walk alone, and they walk in numbers, with spears and drums, when a community's range lies across the track to the river. Gardens are fenced with thorn and watched from platforms by day. A tribe that loses a child blames a chimpanzee, and a hunt for the offender follows. The Sengala trade-parties that come in from the savanna edge are warned of the territories by the first village they reach, and they cross by night or in strength.
+
+## Signs
+
+- A great hooting and screaming through the canopy that rises, passes and falls away.
+- Nests of bent branches high in a tree, the leaves of each browning at the edges.
+- Half-eaten fruit, dropped from the crown of a fig-tree onto the path below.
+- Short sticks stripped of leaves lying beside a termite hill, with its holes freshly opened.
+- A stone or a heavy branch left on the ground at the base of a fruit tree.
 
 ## Combat Strategy
 
@@ -469,7 +485,7 @@ Chimpanzees are not merely intelligent animals—they are calculating predators 
 
 ### Preternatural Strength and Climbing Ability
 
-A chimpanzee’s strength exceeds human capability by a factor of three to five, allowing them to move through forest canopy with effortless grace and inflict damage that seems impossible given their size. They can ascend vertical surfaces, swing from branch to branch with one arm while carrying additional weight, and exert force that humans cannot resist. This advantage in vertical terrain is particularly significant—humans are disadvantaged fighting creatures in trees.
+A chimpanzee’s strength exceeds human capability by a factor of three to five, allowing them to move through forest canopy with effortless grace and inflict damage that seems impossible given their size. They can ascend vertical surfaces, swing from branch to branch with one arm while carrying additional weight, and exert force that humans cannot resist. In the trees this strength tells most—a person fighting a chimpanzee on a branch is badly placed.
 
 ### Fearlessness and Pain Tolerance
 

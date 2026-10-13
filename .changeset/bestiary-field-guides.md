@@ -5,6 +5,7 @@
 **The Bestiary**
 
 - Every creature reads as a field-guide entry: where it lives, what it does, what makes it dangerous or valuable, and how the people around it deal with it.
+- The ordinary animals, from bears and wolves to horses, camels and house cats, read the same way, placed in the countries where they live.
 - Each entry lists the signs that give the creature away and says what the local people do about it, from the Khazryn and Vedyara to Aelwyth, the Nordlands, K'ich'chik, Xerathia and Iseron.
 - Dreadspawn, elementals, spirits, the undead, constructs, the Grukar and the dragons follow what the setting's own lore says they are, the Elementals and Undead lore pages say so plainly, and dragons unravel magic worked near them.
 - Attack names match the attacks on each creature's sheet, listed attribute ranges match the dice each sheet rolls, and creature weights fit their stated size; the Komodo Behemoth is now the Mangrove Behemoth.

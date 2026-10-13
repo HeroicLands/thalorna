@@ -234,19 +234,35 @@ sohl:
 
 ![[blckbr|Black Bear]]{float=top-left}
 
-The smell reaches you first—a sharp, musky odor mixed with the reek of overturned soil and crushed berries. The creature emerges from the tree line with deceptive grace, its glossy black coat catching dappled sunlight. Its head swings toward you, and you see small, intelligent eyes set above a blunt muzzle. The forest floor trembles with each heavy-footed step, and when the bear rises onto its hind legs, muscles ripple beneath its dense fur. The sound it makes—a low, rumbling huffing—vibrates in your chest.
+The berry thicket has been torn open at head height, with branches bent down and the ground beneath them heaped with purple dung. Fifty paces on, a black shape stands up on its hind legs at the edge of the trees, taller than you, and turns its broad head to sample the air. Its coat is glossy, the ears are round and set well back, and the small dark eyes are fixed on you.
 
 # Dossier {#dossier}
 
-The black bear is a forest predator and scavenger of remarkable strength and surprising intelligence. Standing five to six feet tall on its hind legs and weighing four hundred to six hundred pounds, it is one of the most common large carnivores adventurers will encounter in temperate and boreal regions. Despite their fearsome reputation, black bears are opportunistic and typically avoid humans when they can. However, they are fiercely protective of food sources and offspring, making them dangerous when startled, hungry, or defending cubs. A bear that has learned humans carry food becomes increasingly bold and increasingly dangerous. Adventurers may encounter them in forests, near campsites, around berry-rich clearings, or at carrion sites.
+The Black Bear is a strong, adaptable bear of the oak, beech and mixed woods of [[place-vrystwald|Vrystwald]], the forested hills of the [[place-nrdlndsrgn|Nordlands]] and the forests of [[place-velanthrgn|Velanthia]], four to six hundred pounds and five or six feet tall on its hind legs. It eats berries, nuts, roots, fish, small animals and carrion, and keeps away from people until it learns that they carry food. A bear that has been rewarded at a camp or a bee-tree comes back, and grows bolder each time.
 
 ## Presentation
 
-A powerfully built mammal standing on short, sturdy legs. Its coat is thick and glossy, typically jet black but sometimes dark brown or cinnamon. The head is broad with rounded ears set midway back, and its face tapers to a shorter muzzle than most canines. Small, dark eyes convey surprising intelligence. Its paws are large, each equipped with five long, curved claws—formidable tools for climbing, digging, and combat. Despite its mass, the bear moves with a deceptive grace, capable of surprising speed in short bursts. The most distinctive feature is the character of the animal's scent, a complex musk that fills an entire area when the bear is agitated.
+A powerful bear on short, sturdy legs. The coat is thick and glossy, usually jet black, sometimes dark brown or cinnamon. The head is broad, with rounded ears set midway back, a short muzzle and small, dark eyes. Each paw carries five long, curved claws, good for climbing, digging and fighting. The animal moves lightly for its bulk and can charge a short distance very fast. When it is agitated it gives off a heavy musk.
+
+## In the Land
+
+Black bears live in the oak, beech and mixed woods of [[place-vrystwald|Vrystwald]] and the forested hills of the [[place-nrdlndsrgn|Nordlands]] and [[place-velanthrgn|Velanthia]], and they are thinner in the high taiga where nothing fruits. A bear's range takes in a berry glade, a stream with a fish run, and a den in a hollow tree or under a root-mass. Bears dig in on the edge of settled country, near orchards and bee-trees, more readily than the larger brown bear does, and the same animal is met year after year on the same few miles.
 
 ## Key Behaviors
 
-Black bears are primarily solitary animals, though females with cubs are occasionally seen in small family groups. They are prolific foragers, capable of deriving sustenance from dozens of different food sources: berries, nuts, roots, insects, fish, small mammals, and carrion. This dietary flexibility allows them to thrive in diverse environments. They have exceptional memories and learn quickly—a bear that discovers a rich food source will return to it repeatedly, and a bear that has stolen food from humans will continue attempting to do so until the behavior is harshly punished. Black bears are stronger swimmers than brown bears and will spend considerable time in water during salmon runs or in hot weather. They build dens for winter hibernation, choosing protected cave sites or hollow trees, and enter a torpor state that lasts several months. Cubs remain with their mother for one to two years, learning essential survival skills, and mothers are extraordinarily protective during this period. Any perceived threat to cubs will trigger an immediate and savage response.
+Black bears are solitary, apart from a sow and her cubs, who stay together for one or two years. They feed on dozens of foods and go back to any rich source until they are driven off it hard. They swim well and fish in the runs. In winter they sleep for months in a hollow tree or a cave. A sow with cubs attacks at once at any threat.
+
+## What the Villages Do
+
+The Varokh villages tolerate a black bear that keeps to the deep woods and take the bear wesk's rites as a reason to leave it alone. They hunt one that has learned to raid, in autumn when it is fat, with dogs and boar-spears. Beekeepers set their hives in the crowns of trees, or inside a stockade of sharpened stakes. A farmer in a cleared valley leaves nothing edible on the ground at night and does not let children gather berries alone. The hide makes a heavy cloak and the grease keeps a boot supple; the fat is sold to apothecaries for chest-salves.
+
+## Signs
+
+- A tree with long, parallel claw-scores at the height of a man's head, and tufts of black hair in the bark.
+- A rotten log torn apart, the insects gone, with the pieces thrown a body-length away.
+- Dung full of berry-seed and hazelnut shells, in a heap on a game-trail.
+- A broken-open bee-tree, with wax scattered below it and the hive gone.
+- Round tracks with five toes and claw-marks well ahead of them, heel-deep in a stream bank.
 
 ## Combat Strategy
 
@@ -268,13 +284,13 @@ When at close quarters, the bear snaps with powerful jaws, attempting to seize a
 
 ## Special Abilities
 
-### Exceptional Strength and Resilience
+### Strength and Resilience
 
 Black bears possess powerful muscles and dense bone structure. They are capable of moving boulders weighing hundreds of pounds to access roots and insects beneath, and their physical resilience allows them to absorb impacts that would disable human-sized opponents. Blunt force trauma is notably less effective than cutting or piercing attacks.
 
 ### Keen Senses
 
-A bear's sense of smell is legendary—it can detect food sources miles away on the wind and can distinguish scents that would be undetectable to humans. Its hearing is equally acute, capable of detecting the crackle of a campfire or the rustle of prey in undergrowth. Vision is the weakest sense, but it remains adequate for detecting movement and estimating distance.
+A bear's sense of smell is famed—it can detect food sources miles away on the wind and can distinguish scents that would be undetectable to humans. Its hearing is equally acute, capable of detecting the crackle of a campfire or the rustle of prey in undergrowth. Vision is the weakest sense, but it remains adequate for detecting movement and estimating distance.
 
 ### Climbing and Swimming
 

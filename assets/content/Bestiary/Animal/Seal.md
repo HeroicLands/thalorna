@@ -179,19 +179,35 @@ sohl:
 
 ![[seal|Seal]]{float=top-left}
 
-The rocks are alive with them. Dozens of sleek, mottled bodies draped across the shoreline like discarded gray cloaks, their wet fur catching the pale northern light. The nearest one lifts its head and regards you with enormous dark eyes that hold an expression so human it is briefly unsettling — curious, wary, and faintly melancholic, as if it knows something about the world that you have not yet learned. The body is a streamlined torpedo of muscle and blubber, perfectly smooth, every line curved for speed through water. On land it moves with an ungainly, lurching shuffle, propelling itself with rippling contractions of its torso. But when the nearest animal slides into the water at your approach, the transformation is instantaneous — the awkward slug becomes a silver arrow, rolling and diving with fluid grace, its wake a brief ripple on dark water before it vanishes entirely.
+The skerry off the point is crowded with dark, glistening bodies, humped on the weed-covered rock like sacks of grain. A round head with huge, liquid eyes comes up beside your boat, whiskers streaming, and looks at you with an open, unalarmed curiosity. It sinks without a ripple. On the rock a bull barks, a hoarse, bellowing note that is answered from the water.
 
 # Dossier {#dossier}
 
-The Seal is the common marine mammal of the northern coastlines, fjords, and island chains — a sleek, fish-eating pinniped weighing between one hundred fifty and six hundred pounds depending on species and sex. Seals are the everyday subsistence animal of coastal northern communities: their meat feeds families through winter, their blubber provides lamp oil and waterproofing, their hides make durable leather for clothing and boat-skins, and their bones and sinew serve a hundred practical purposes. Where reindeer define highland and tundra culture, seals define coastal life. They congregate in breeding colonies on rocky shorelines and haul-out sites, and their seasonal movements along the coast dictate the fishing and hunting calendar of every fjord settlement. Seals are also the primary prey of the polar bear, and their breathing holes in sea ice are the focal points of the most dangerous predator-prey interaction in the north. Adventurers encounter seals during coastal travel, at fishing settlements, and occasionally in sea caves or on ice floes where their colonies provide unexpected obstacles or opportunities.
+The Seal is the common seal of the cold northern coasts, fjords and island chains of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]], a fish-eating swimmer of one hundred fifty to six hundred pounds. It is the everyday subsistence animal of the coast: meat, blubber for lamp oil and waterproofing, hides for clothing and boat-skins, and bone and sinew for a hundred uses. Where the reindeer defines the tundra, the seal defines the coast. Its breathing-holes in the sea ice are where the polar bear hunts it.
 
 ## Presentation
 
-The seal's body is a masterwork of hydrodynamic design — a smooth, tapered cylinder with no protruding ears, no external limbs to create drag, and a layer of dense, close-fitting fur over a thick blubber layer that provides both insulation and streamlining. The coat is typically mottled gray to dark brown with irregular spots and blotches that provide camouflage against rocky shorelines and dappled water. The head is round with large, forward-facing eyes adapted for underwater vision in low light — dark, liquid, and remarkably expressive. The whiskers are long and extraordinarily sensitive, capable of detecting the hydrodynamic wake of a fish swimming nearby. The forelimbs are short flippers used primarily for steering, while the rear flippers provide the powerful thrust that drives the animal through water at speeds no human swimmer can match. On land, the seal moves by hunching its body in caterpillar-like undulations, hauling itself across rock and sand with patient determination.
+A smooth, tapered cylinder with no external ears and a close coat of dense fur over thick blubber. The coat is mottled gray to dark brown with irregular spots and blotches that blend with rocky shores and dappled water. The head is round, with large, forward-facing, dark, liquid eyes made for dim light underwater. The whiskers are long and sense the wake of a fish. The forelimbs are short flippers for steering and the rear flippers drive the swimmer faster than any person. On land the animal hauls itself along in caterpillar-like undulations.
+
+## In the Land
+
+Seals swim the cold coasts, fjords and island chains of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]]. A colony hauls out on a rocky island or a skerry to breed in spring and pup, and the animals fish singly in the water, taking cod and herring. In winter they follow the fish into the fjords and rest on the ice.
 
 ## Key Behaviors
 
-Seals are gregarious animals that gather in colonies for breeding, pupping, and resting, but hunt individually in the water. They are primarily fish-eaters, pursuing cod, herring, and other schooling fish with speed and agility in three-dimensional underwater chases. They can dive to considerable depths and hold their breath for extended periods, though most feeding dives are relatively shallow. Breeding colonies form on rocky islands and remote shorelines, where bulls compete for territory and access to females through vocal displays and physical confrontations. Pups are born on land and nursed for several weeks before being weaned and left to fend for themselves. Seals are curious and relatively fearless of humans in areas where they are not heavily hunted, approaching boats and swimmers with apparent interest. In hunted areas, they become wary and difficult to approach.
+Seals gather in colonies to breed, pup and rest, and hunt alone in the water. They eat cod, herring and other shoaling fish, chasing them in three dimensions. They dive deep and hold their breath for a long time, though most dives for food are shallow. Breeding colonies form on rocky islands and remote shores, where bulls compete for ground and females by calling and fighting. Pups are born on land and nursed for several weeks before being left to fend for themselves. Seals are curious and unafraid of people in places where they are not hunted heavily, and wary and hard to approach where they are.
+
+## What the Fjord People Do
+
+The fjord people live by the seal. Its meat feeds a household through winter, its blubber gives lamp-oil and waterproofing, and its hide is made into clothing, boots and boat-skins. A hunter waits at a haul-out or a breathing-hole with a club and a harpoon, and a boy is taught to wait without moving for an hour. Sealskin is traded south as currency. The sealers of the northern coast share their catch with the household of a man lost at sea. A colony is not hunted at pupping.
+
+## Signs
+
+- A round, whiskered head in the water that watches a boat and sinks.
+- A black shape on a skerry, humped and shining, with others beside it.
+- A barking and moaning from a rock, rising at dusk.
+- A trail of flipper-prints and body-drag from the water to a rock.
+- Fishing nets torn and emptied, with a bite taken from the best fish.
 
 ## Combat Strategy
 

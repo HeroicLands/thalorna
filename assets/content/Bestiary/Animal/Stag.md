@@ -221,19 +221,35 @@ sohl:
 
 ![[stag|Stag]]{float=top-left}
 
-The forest parts to reveal a magnificent creature standing motionless, its form so perfectly balanced between grace and power that it seems more ideal than real. Antlers spread from its skull like the branches of a dark, winter-bare tree, each point worn smooth from years of combat and territorial marking. The coat is a rich reddish-brown that dissolves into forest shadow at the edges, making it seem less a separate creature than an extension of the woodland itself. The eyes are large and alert, and as it turns its head slightly, you see the absolute confidence of something that knows itself apex predator in this environment.
+The leaf litter of the glade is churned and wet, and the saplings at its edge are stripped of their bark in ribbons. At the sound of a snapped twig the head comes up from the grass: a big red-brown animal with a dark neck and a rack of branching antlers, scored and worn from fights. It stands for a long moment with its ears turning, nostrils wide. Then it bounds away between the trees and is gone.
 
 # Dossier {#dossier}
 
-The Stag is a mature male cervid standing 4-5 feet at the shoulder and reaching 6-7 feet in length, distinguished by its large, branching antlers and powerful build. These forest-dwelling herbivores are found throughout temperate and cool regions where forests provide shelter and forage. Adventurers encounter stags while traveling through forests, hunting game, or inadvertently approaching during the rutting season when the creatures become aggressive and territorial.
+The Stag is the mature male of the forest deer, four to five feet at the shoulder and six to seven feet long, with branching antlers and a powerful build. It lives in the woods of [[place-vrystwald|Vrystwald]], the woodland of [[place-aureldirgn|Aurèldía]] and the cool, temperate forests, where the trees give shelter and browse. It is peaceful outside the autumn rut, when it becomes territorial and dangerous.
 
 ## Presentation
 
-The Stag presents a vision of controlled power combined with elegant grace. The body is muscular and compact, covered in reddish-brown to dark brown coat with lighter areas on the underside and posterior. The most distinctive feature is the antlers — branching structures that spread and point upward, often showing substantial grooves and wear from years of combat with rival stags. The antlers are shed annually and regrow, varying in size and complexity with the animal's age and health. The head is proportionally large with prominent eyes, acute hearing, and a powerful neck. The legs are slender but muscular, adapted for traversing forest terrain and achieving surprising speeds. The hooves are specialized for soft ground and forest floor purchase.
+A muscular, compact animal with a reddish-brown to dark-brown coat, paler on the underside and rump. The antlers branch and spread upward, grooved and worn by years of fighting, and are shed each year and regrown, larger or smaller with the animal's age and health. The head is large, with prominent eyes, sharp hearing and a powerful neck. The legs are slender but muscular, for speed through woodland. The hooves suit soft ground and the forest floor.
+
+## In the Land
+
+Stags live in the forests of [[place-vrystwald|Vrystwald]], the woodland of [[place-aureldirgn|Aurèldía]] and the temperate woods of the cool regions, where the trees give shelter and the browse is good. A stag in the autumn holds a few does and a stretch of woodland. He feeds on leaves, bark and shoots, lies up in a thicket by day and comes out to graze at dusk. Outside the rut stags keep apart in small groups.
 
 ## Key Behaviors
 
-Stags are fundamentally peaceful herbivores that spend most of their time foraging for vegetation, leaves, bark, and roots. They are social with other deer but establish exclusive ranges. During the autumn rutting season, males become intensely territorial and aggressive, using their antlers to establish dominance over rivals and to guard access to females. The testosterone surge during this period makes stags dangerous and unpredictable. Outside of rutting season, stags are relatively shy and avoid confrontation, fleeing from threats unless defending young or territory. Stags are intelligent and capable of learning to avoid human hunters, remembering dangerous locations and adjusting movement patterns accordingly.
+Stags spend most of their time browsing leaves, bark, shoots and roots. They are sociable with other deer but hold their own ranges. In the autumn rut males are territorial and aggressive, using the antlers to establish rank and to guard the does. Outside the rut they are shy and flee, unless defending young or ground. Stags learn to avoid hunters and remember dangerous places and change their movements.
+
+## What the Foresters Do
+
+Foresters and hunters follow the stag in autumn and take it for the meat and the antlers. In the rut a stag will attack a man who comes between him and a doe, and woodcutters keep away from the glades he holds. The antlers are cut into hilts, combs and buttons, and the hide into gloves. The lords of the kingdoms reserve the chase and punish poaching. A stag's call carries a mile through the trees.
+
+## Signs
+
+- A young tree stripped of bark in ribbons at the height of a man's head.
+- A bellowing roar from a wooded ridge at dawn in autumn.
+- A trail of cloven prints through the leaf litter, with a bed pressed in the ferns.
+- Branches thrashed and torn by antlers, with a patch of scraped earth beneath.
+- Droppings in a heap at the edge of a clearing.
 
 ## Combat Strategy
 
@@ -257,7 +273,7 @@ If an opponent is knocked off balance or off its feet, the stag may attempt to t
 
 ### Forest Agility
 
-The stag is supremely adapted to forest terrain, capable of running at speed through dense undergrowth where humanoids would struggle. The creature gains advantage when moving through forests and can escape most ground-bound predators.
+The stag is supremely adapted to forest terrain, capable of running at speed through dense undergrowth where humanoids would struggle. It outruns most ground-bound predators in woodland.
 
 ### Swift Retreat
 

@@ -233,19 +233,35 @@ sohl:
 
 ![[wlvrn|Wolverine]]{float=top-left}
 
-The stocky form moves with deceptive grace despite its compact musculature, each step deliberate and predatory. The dark brown fur is dense and rippling with muscle, and the curved claws rake stone audibly as the creature sniffs the air. The short, wide snout twitches, processing information, while the small, bright eyes burn with focused intensity that seems almost unsettling in their clarity. When the creature growls, the sound reverberates with quiet menace that belies its modest size — this is something that knows itself formidable and fears nothing.
+The cache hung high in the pines has been torn open, and the pieces of it scattered across the snow. A line of prints runs away from it, five-toed and dead straight, over the ridge. Ahead, in the snow beneath the spruce, a low brown animal is working at a frozen deer-leg, tearing at it with long, curved claws. It looks up. It has the face of something much larger, and no intention of leaving.
 
 # Dossier {#dossier}
 
-The Wolverine is a stocky, densely muscled predator standing 12-18 inches tall and reaching 2.5-3.5 feet in body length with a bushytail, found in cold, harsh terrains across northern regions and high mountains. These relentlessly aggressive creatures are known for confronting predators many times their size and for their refusal to retreat when engaged. Adventurers encounter wolverines primarily while traveling through harsh climates or when the creature is drawn to camps by food scents.
+The Wolverine is the small, fearless hunter of the cold north, twelve to eighteen inches at the shoulder and two and a half to three and a half feet long, with a bushy tail. It ranges the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands]], the high taiga of [[place-vrystwald|Vrystwald]] and the upper valleys of the [[place-graznmntns|Grazian Mountains]]. It faces down predators many times its size and will not retreat once engaged. It is drawn to camps by food.
 
 ## Presentation
 
-The wolverine is compact and heavily muscled beneath a dense brown coat that provides exceptional insulation. The face is broad with a short, powerful snout adapted for rooting and tearing. The eyes are small but bright and intelligent. The claws are long and curved, suitable for both climbing and tearing. The build is deceptive — the creature appears stocky but is far stronger than its modest size suggests.
+A compact, heavily muscled animal in a dense brown coat of excellent insulation. The face is broad, with a short, strong snout for rooting and tearing, and small, bright, intelligent eyes. The claws are long and curved, for climbing and tearing. It looks stocky and is far stronger than its size suggests.
+
+## In the Land
+
+Wolverines range the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands]], the high taiga of [[place-vrystwald|Vrystwald]] and the upper valleys of the [[place-graznmntns|Grazian Mountains]]. A wolverine holds a huge range for its size, alone, and travels it in all weathers, covering miles in a day. It eats carrion, small animals and the kills of wolves, and caches what it cannot finish under snow or stones.
 
 ## Key Behaviors
 
-Wolverines are solitary and fiercely territorial, establishing enormous ranges for their size. They are opportunistic both as hunters and scavengers, capable of taking down prey as large as deer and of usurping kills from predators much larger than themselves. They are fearless to the point of recklessness and will confront bears, wolves, and other large predators for access to food. They are extraordinarily persistent and capable of pursuing prey or enemies relentlessly despite damage or exhaustion.
+Wolverines live alone and hold enormous ranges for their size, defended fiercely. They hunt and scavenge, taking prey as big as a deer and robbing bigger predators of their kills. They are reckless and will face bears and wolves for food. They are very persistent, and will pursue prey or enemies despite damage or exhaustion.
+
+## What the Trappers Do
+
+Trappers hate the wolverine, which follows a trap-line and eats the catch, breaks open caches and fouls what it cannot carry. A cabin is built of logs too large to gnaw, and a cache is set on stilts high up. The fur does not freeze and is valued for hoods and cuffs. A wolverine at bay fights a wolf or a bear, and trappers do not corner one. The animal is hunted with dogs and traps and shot from a distance.
+
+## Signs
+
+- A wandering line of prints in the snow, five-toed, straight over ridges and through drifts.
+- A trap-line robbed, with the traps sprung and the catch gone.
+- A cache torn open on a branch, and the contents scattered.
+- A carcass of a deer dragged from a wolf-kill and cached under logs.
+- A musky stink on a trail.
 
 ## Combat Strategy
 

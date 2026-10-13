@@ -232,19 +232,35 @@ sohl:
 
 ![[mntrlzrd|Monitor Lizard]]{float=top-left}
 
-The lizard’s tail is what catches your attention first—a muscular, whip-like appendage that sweeps across the ground with ominous purpose. The body following it is lean and powerful, covered in scales that range from yellow-brown to dark gray depending on how the light hits them. Its head is small but purposeful, with a jaw line that suggests strength, and when it flicks its forked tongue in and out, the motion seems to taste your very fear. Its claws click against stone as it moves with fluid grace. The eyes—small, bright, and utterly focused—never leave you as it approaches.
+A slab of the sun-heated rock moves. It is a lizard, yellow-brown and gray, with darker bands across its back, five or six feet long. The rough scales along its spine and tail stand up in knobs. A forked tongue flicks out and back. It turns a small dark eye toward you, then spins and runs, fast, across the stones, tail whipping, and goes headlong into the river and swims.
 
 # Dossier {#dossier}
 
-Monitor lizards are large, agile reptiles measuring 5-7 feet in length and weighing 15-35 pounds, depending on species. Their bodies are covered in rough, scaly hides colored in patterns of yellow, brown, and gray that provide good camouflage in arid or rocky environments. The build is lean but muscular, with powerful musculature concentrated in the neck, shoulders, and tail. The head is proportionally small and tapered, with a strong jaw and small eyes positioned forward.
+The Monitor Lizard is the five- to seven-foot lizard of the dry margins, fifteen to thirty-five pounds, found at the desert edge of [[place-aukhelathrgq|Aû'Khelâthu]], in the river margins and hot forest of [[place-vedyarargn|Vedyara]] and in the scrub of the [[place-dunhardsrtrgn|Dunhara Desert]] near the wells. It hunts on the ground, climbs after birds' eggs and dives after fish, and eats carrion.
 
 ## Presentation
 
-Monitor lizards display rough, knobbed scales across their entire body, particularly along the spine and tail. The coloration is typically cryptic—browns, grays, and yellows with darker banding or mottling—allowing them to blend with rocky or sandy terrain. The tail comprises nearly half the total body length and is muscular, whip-like, and used for balance, swimming, and combat. The head is triangular when viewed from above, with a powerful jaw line and small, dark eyes. The claws on all four feet are sharp and partially curved, designed for climbing. The tongue is long and forked, used for smelling and tasting the air.
+A large, agile lizard with rough, knobbed scales in yellow, brown and gray with darker banding or mottling that matches rock and sand, ridged along the spine and tail. The build is lean and muscular. The head is small and triangular from above, with a strong jaw and small dark eyes. The tail is nearly half the length and is used for balance, swimming and fighting. The claws are sharp and curved for climbing, and the tongue is long and forked.
+
+## In the Land
+
+Monitor lizards live on the dry scrub and rocky ground at the edge of the desert in [[place-aukhelathrgq|Aû'Khelâthu]], in the river margins and hot forest of [[place-vedyarargn|Vedyara]] and in the scrub of the [[place-dunhardsrtrgn|Dunhara Desert]] near the wells. A lizard keeps a burrow under a rock or in a bank and ranges a few miles. It climbs into trees after eggs, swims after fish and runs down rats, and several will meet at a carcass.
 
 ## Key Behaviors
 
-Monitor lizards are opportunistic hunters, equally comfortable hunting terrestrial prey, climbing to raid bird nests, or diving in water after aquatic prey. They are primarily solitary but may gather at carcasses or rich feeding grounds. They are excellent climbers, swimmers, and runners, using speed and agility to capture prey. They have relatively good eyesight and rely on it heavily in hunting. They are active during the day and retreat to burrows or crevices at night or during extreme heat.
+Monitors take whatever comes: prey on the ground, nests in the trees, fish in the water. They live alone but gather at carcasses and rich feeding grounds. They climb, swim and run well, hunt by sight, and are active by day, retreating to burrows or crevices at night or in extreme heat.
+
+## What the Villages Do
+
+Villages tolerate the monitors that stay at the edge of the fields, since they eat rats and snakes. They shut their hen-houses at night and keep egg-baskets off the ground. A boy sent to take a lizard's eggs wears thick boots. The hide is tough and is made into drum-heads and sandals, and the meat is eaten in lean years. A bite from a big one is washed and bound at once. Traders who cross the desert margin sleep with their food hung from a pole.
+
+## Signs
+
+- A broad, shallow trail in sand with a wavy line of tail-drag down the middle.
+- A long, yellow-and-gray lizard flat on a hot rock that scuttles off at a run when approached.
+- Eggshells scattered under a nesting tree and a rope of drag-marks to a burrow.
+- A forked tongue tasting the air at the edge of a pond.
+- A hole in a mud bank the width of a man's thigh with claw-scratches around it.
 
 ## Combat Strategy
 
@@ -264,11 +280,11 @@ The lizard sweeps its whip-like tail to strike opponents at distance or to defen
 
 ### Climber’s Grip
 
-Monitor lizards can traverse vertical and inverted surfaces with ease, using their sharp claws for grip; they gain bonuses to climbing and escaping checks, and can retreat to places opponents cannot easily follow.
+Monitor lizards can traverse vertical and inverted surfaces with ease, using their sharp claws for grip; they climb and escape quickly, and can retreat to places opponents cannot easily follow.
 
 ### Swift Strike
 
-Monitor lizards have quick reflexes and gain bonuses to initiative and to reaction checks; they can sometimes take additional actions during combat due to their speed and agility.
+Monitor lizards have quick reflexes and often strike first or twice before an opponent has reacted, because of their speed and agility.
 
 ### Aquatic Hunter
 

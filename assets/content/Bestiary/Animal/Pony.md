@@ -242,19 +242,35 @@ sohl:
 
 ![[pony|Pony]]{float=top-left}
 
-A compact, muscular frame stands before you, no taller than a man's chest, yet projecting an unmistakable solidity. The pony's coat is thick and weathered, its mane shaggy and seemingly never fully combed, and its stocky legs appear barely adequate to support the creature's substance. Yet there is a quality of independence to it — intelligence showing in dark eyes that assess you with a practicality you wouldn't expect from a mere working animal. The smell of hay and honest sweat clings to it, mixed with the scent of earth and thistles.
+The pony stands in the lane in front of the farm gate with its feet planted, thick-necked and heavy-maned, a shaggy dun with a dark stripe down its back. A boy is hauling at its halter and getting nowhere. It looks at him with a calm, considering eye. After a time it decides, for its own reasons, to move, and ambles through the gate with the cart rolling behind it.
 
 # Dossier {#dossier}
 
-Ponies are stocky, strong equines standing under fourteen hands (approximately 56 inches) at the shoulder, built for endurance and labor rather than speed or elegance. These adaptable creatures are found throughout farmland, hills, and rough terrain across settled lands, serving as draft animals, farm workers, and reliable mounts for smaller riders or dwarves. Adventurers might encounter a pony as a working animal left unattended, integrated into a traveling caravan, or encountered on roads and hill paths where they work their owners' land.
+The Pony is the small, strong horse of the hill farms, under fourteen hands and five hundred to eight hundred pounds, built for endurance and labor. It works the upland farms of [[place-aureldirgn|Aurèldía]], the steadings of the [[place-nrdlndsrgn|Nordlands]] and the clearings of [[place-vrystwald|Vrystwald]] as a draft animal, farm worker and mount for small riders. It carries a weight that is large for its size.
 
 ## Presentation
 
-The pony presents a concentrated muscular form with thick neck, broad chest, and powerful legs disproportionately thick for its body size. Its coat is characteristically dense and coarse, often shades of gray, brown, chestnut, or black, sometimes marked with lighter dun coloring or primitive striping. The mane is thick and often full and unruly, while the tail is characteristically heavy and full. The head is broader than a horse's, with smaller ears and a sturdier jaw. Adult ponies typically weigh 500-800 pounds and can carry significant weight for their size. The eyes are intelligent and alert, marked with a personality and stubbornness that distinguishes them from horses.
+A concentrated, muscular animal with a thick neck, a broad chest and powerful legs thick for its size. The coat is dense and coarse, gray, brown, chestnut or black, sometimes dun with a dark stripe. The mane is thick, full and unruly, and the tail heavy and full. The head is broader than a horse's, with smaller ears and a sturdier jaw. The eyes are intelligent and alert, with a stubborn look.
+
+## In the Land
+
+Ponies work on the hill farms of [[place-aureldirgn|Aurèldía]], the upland steadings of the [[place-nrdlndsrgn|Nordlands]], the forest clearings of [[place-vrystwald|Vrystwald]] and wherever a farm lies too steep or too poor for a larger horse. A pony lives in the yard, grazes the rough pasture, and is fed through the winter on hay and oats. Hill ponies run out on the common pasture and are gathered in autumn.
 
 ## Key Behaviors
 
-Ponies are intelligent, opinionated animals that respond best to consistent handling and develop strong personalities around their regular handlers. They are capable of extraordinary endurance and will work steadily through difficult conditions without complaint, though they will actively resist bad treatment or unreasonable demands. Ponies are herd animals but thrive equally well in isolation, becoming attached to individual handlers or other animals they live alongside. They are curious, methodical in their approach to problems, and possess excellent memory — a pony that encounters a situation remembers it years later. Compared to horses, ponies are considerably less inclined to panic and are practical in their assessment of danger.
+Ponies are intelligent and opinionated and do best with steady handling, and each develops a strong character with the people it works for. They will work through hard conditions without complaint but resist bad treatment and unreasonable demands. They live in herds but do as well alone, attaching to a handler or to animals they share a yard with. They are curious and methodical, and remember a situation for years. They panic less than horses and judge danger practically.
+
+## What the Farmers Do
+
+A farm keeps a pony or two for the plough, the cart and the pack-saddle, and for the children to ride. They are stocky, long-lived and strong for their size, and they pull on poor feed. A pony resists a handler who strikes it and works willingly for one who is steady. A dealer buys the best colts at the autumn gathering. A pony carries a miller's sacks to the town and returns alone along the same road.
+
+## Signs
+
+- A stocky, shaggy horse under fourteen hands, grazing a hillside with a hobble on its forefeet.
+- Small, round hoof-prints, deep and close together, in the mud of a farm track.
+- A pony pulling a two-wheeled cart through a ford, with a child on its back.
+- A stubborn animal with its feet planted that will not be led by a rope.
+- A shed with a few ponies in it, fed on hay and bedded in bracken.
 
 ## Combat Strategy
 
@@ -290,7 +306,7 @@ The pony possesses an uncanny ability to find its way across difficult terrain, 
 
 ### Honest Stubbornness
 
-The pony will not be driven beyond what it judges reasonable — a pony that refuses to proceed does so because it has identified a genuine hazard (thin ice, unstable slope, dangerous animal) that its instinct rejects. Wise handlers listen to this obstinacy rather than forcing compliance.
+The pony will not be driven beyond what it judges reasonable — a pony that refuses to proceed does so because it has identified a real hazard (thin ice, unstable slope, dangerous animal) that its instinct rejects. Wise handlers listen to this obstinacy rather than forcing compliance.
 
 ### Additional Information
 

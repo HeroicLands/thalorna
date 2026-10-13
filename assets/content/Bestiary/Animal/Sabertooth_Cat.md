@@ -234,19 +234,35 @@ sohl:
 
 ![[sbrtthct|Sabertooth Cat]]{float=top-left}
 
-The shape emerges from tall grass like death materializing, its tawny hide rippling with predatory grace. The first thing you notice are the teeth — elongated, curved, dark, like ivory daggers that extend from the creature’s upper jaw and protrude below its lower jaw, ghastly and efficient. The body beneath is corded muscle covered in fur marked with faint rosettes that provide perfect camouflage in dappled shadow. The eyes are impossibly large and cold, golden and intelligent, tracking your position with the certainty of something that has killed thousands. As it growls, the sound reverberates through your chest, a promise of violence contained barely in a living throat.
+The wounded carcass of a bison lies in a trampled hollow at the edge of the long grass, its throat laid open in a single deep gash. A few paces off, something crouches behind a clump of tall stems, tawny and rosetted, its shoulder blades rising and falling. A massive head turns, and two curved teeth as long as a man's hand hang down past the lower jaw, wet and gleaming. The golden eyes find you.
 
 # Dossier {#dossier}
 
-The Sabertooth Cat is a large, muscular feline predator reaching 8-10 feet in length with a shoulder height of 4-5 feet, found in grasslands, forests, and scrublands where large prey animals are plentiful. These apex predators are ambush specialists that hunt creatures much larger than themselves through precision and power. Adventurers might encounter sabertooth cats while traveling through wild lands, hunting in territory already claimed by the cats, or defending themselves when the cats perceive humans as prey.
+The Sabertooth Cat is the big stabbing cat of the grassland and woodland edge, eight to ten feet long and four to five feet at the shoulder. It hunts the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the herds migrate, and the savanna and forest fringe of the [[place-sthrnsvnhs|Southern Savannahs]], taking animals much larger than itself by a leap and a stab of the long canines. One that has hunted people may take to them.
 
 ## Presentation
 
-The Sabertooth Cat is a vision of predatory efficiency and lethal adaptation. The body is heavily muscled and compact, covered in short fur in tawny gold or faint reddish tones with darker rosette patterning that provides camouflage in dappled grassland and shadow. The distinctive feature is the elongated canine teeth, which extend 4-6 inches below the jaw line, curved and sharp like curved scimitars or tusks. These teeth are the creature’s primary killing tool. The head is disproportionately large with massive jaw muscles, golden eyes positioned for predatory vision, and retractable claws on powerful paws. The tail is long and muscular, used for balance during explosive movements and directional control during hunting.
+A heavily muscled, compact cat with a short coat of tawny gold or faint red, marked with darker rosettes that blend into dappled grass and shadow. The mark of the animal is the pair of long upper canines, four to six inches below the jaw, curved and sharp like scimitars. The head is large for the body, with massive jaw muscles, golden eyes and strong paws with retractable claws. The tail is long and muscular, a counterbalance in the leap.
+
+## In the Land
+
+Sabertooth cats hunt the open grassland and woodland edge of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the migrating herds pass, and the savanna and forest fringe of the [[place-sthrnsvnhs|Southern Savannahs]]. A cat holds a range of many miles around a lying-up place in rock or thick cover, and takes animals much larger than itself with a leap and a stab of its long canines. It hunts at dawn and dusk and drags a kill into cover.
 
 ## Key Behaviors
 
-Sabertooth Cats are solitary apex predators with large territorial ranges that they defend aggressively against other cats. They are ambush specialists that hunt large prey items, including animals significantly larger than themselves, using patience, stealth, and explosive power. The cats are most active during dawn and dusk but hunt opportunistically at any time. They are intelligent, capable of learning hunting patterns and prey behavior, and of adjusting tactics based on experience. A cat that has successfully hunted humanoids may specialize in human prey. Sabertooths mark territory through claw marks on trees and scent deposits, and they communicate through vocalizations that can carry across substantial distances.
+Sabertooths live alone and hold large ranges against other cats. They hunt from ambush with patience and a sudden, powerful leap, mostly at dawn and dusk and at any hour when the chance comes. They are intelligent and learn the habits of the herds and adjust their tactics. They mark their ground with claw-marks on trees and scent, and call to one another over long distances.
+
+## What the Hunters Do
+
+Hunters keep clear of a sabertooth's range and read its kills from the vultures. A cat that has taken to stock or to people is hunted by a party of spearmen with dogs, and the skin and the long teeth are a hunter's trophy for life. The long canines are made into necklaces and ceremonial knives. Herders keep their animals in thorn cattle-folds and a watch at night. A lone traveler on open grass sleeps in a tree.
+
+## Signs
+
+- A great round pug-mark, as wide as a plate, with four toes and a heel pad.
+- A bison or a zebra carcass, killed with a deep wound in the throat and dragged into the grass.
+- A snarl in the long grass at dusk, and a herd that runs.
+- Claw-marks on a trunk at the height of a standing man's head.
+- Vultures circling a thicket where nothing else moves.
 
 ## Combat Strategy
 
@@ -270,7 +286,7 @@ The cat’s jaw muscles are extraordinarily powerful, capable of crushing bone a
 
 ### Ambush Predator
 
-The sabertooth cat is superlatively effective when attacking from cover or from an unexpected direction, gaining significant advantage on attack rolls and damage when striking from ambush or hidden position. The cat is nearly silent when stalking and can approach prey without being heard or seen.
+The sabertooth cat is superlatively effective when attacking from cover or from an unexpected direction, striking harder and more surely from ambush or from a hidden position. The cat is nearly silent when stalking and can approach prey without being heard or seen.
 
 ### Killing Strike
 
@@ -282,7 +298,7 @@ Despite its size, the sabertooth cat can move with explosive acceleration, closi
 
 ### Territorial Intelligence
 
-The cat’s familiarity with its own territory provides advantage in combat within established range — the cat knows the terrain and can use it tactically while opponents do not.
+The cat’s familiarity with its own territory makes it dangerous within its established range — the cat knows the terrain and can use it tactically while opponents do not.
 
 ### Additional Information
 

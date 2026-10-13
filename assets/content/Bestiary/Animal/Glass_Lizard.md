@@ -232,19 +232,35 @@ sohl:
 
 ![[glsslzrd|Glass Lizard]]{float=top-left}
 
-At first you think you're seeing a shimmer in the heat—a distortion in the air that makes you squint. Then it moves, and your eyes struggle to track it. The creature is impossibly long and slender, snake-like but distinctly scaled in a way that catches and fractures light into dazzling patterns. The coloration is metallic—golds, silvers, and subtle iridescence that changes based on the angle of the light. The head is sharp and triangular, and when it opens its mouth to hiss, you see rows of small, needle-like teeth. The forked tongue flicks out repeatedly, tasting the air, and there's an intelligence in the creature's eyes that you would not expect from something so alien. When it moves, it moves with shocking speed, almost faster than you can follow.
+A thin line of bright metal runs across the warm rock, copper in one angle of the light and silver in the next, and then it is not there. You look again and see that it has not moved. A long, legless body lies along the stone, the polished scales throwing back the sun in broken flashes, and the sharp, triangular head is turned toward you, eyes forward. Then the whole length slides off the rock without a sound.
 
 # Dossier {#dossier}
 
-The Glass Lizard is a semi-arboreal reptilian predator that has evolved remarkable adaptations to blend into its environment. Growing to ten feet or more in length, these creatures are sleek hunters that prefer rocky terrain, scrublands, and sparse forest. They are primarily nocturnal but bask extensively during daylight hours on warm rocks and cliff faces. These are solitary creatures that establish small hunting territories and defend them with territorial aggression.
+The Glass Lizard is a long, legless lizard of ten feet or more, found in the rocky scrub and mesa country of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]] and the stony ridges at the edge of the savanna. It basks on warm rock and cliff by day, hunts small mammals, birds and other reptiles at dawn and dusk, and keeps a small territory that it defends fiercely.
 
 ## Presentation
 
-The Glass Lizard is an elegant creature built entirely for speed and predation. The body is long, slender, and entirely legless, more snake-like than typical lizards. The scales are highly polished and refractive, creating a shimmering appearance that varies from gold to silver to copper depending on light angle and the creature's emotional state. The scales are hard and smooth, refracting light in ways that make the lizard difficult to visually track in sunlight. The head is triangular and tapered to a sharp point, with forward-facing eyes that provide excellent binocular vision. The mouth is filled with sharp, backward-curving teeth designed to catch and hold prey. The tail is long and comprises much of the creature's total length, and it can be shed in segments if the creature is threatened.
+A long, slender, legless lizard, more like a snake than a lizard. The scales are hard, smooth and highly polished, throwing back the light in shimmers of gold, silver or copper that shift with the angle and with the animal's mood, so that it is hard to follow in sunlight. The head is triangular and tapers to a point, with forward-facing eyes. The mouth holds sharp, backward-curving teeth. The tail makes up much of the length and can be shed in segments when the animal is threatened.
+
+## In the Land
+
+Glass lizards live in the rocky scrub and mesa country of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]] and the stony ridges at the edge of the savanna. A lizard basks on a warm rock in the morning, hunts at dawn and dusk and shelters in a crack in the rock through the heat. It lies along a ledge or a branch, and its polished scales break the sunlight into flashes that make it hard to follow against stone.
 
 ## Key Behaviors
 
-Glass Lizards are diurnal baskers that spend much of the day thermoregulating on warm rocks and exposed surfaces. They hunt primarily at dawn and dusk, when prey is abundant and they are not visible against the sun. A hunting glass lizard is an efficient predator that can cover considerable distances while searching for small mammals, birds, and other reptiles. They are primarily predatory but will consume carrion if it's available. They are solitary and establish small territories that they patrol regularly. During mating season, males become notably more aggressive and territorial.
+Glass lizards bask on warm rocks and exposed surfaces through the day and hunt at dawn and dusk, when they are not visible against the sun. A hunting lizard covers a lot of ground looking for small mammals, birds and other reptiles, and eats carrion if it finds it. It lives alone and patrols a small territory. In the mating season the males are noticeably more aggressive and territorial.
+
+## What the Herders Do
+
+The pastoral clans of the South Marches keep their lambs penned in the evenings and look at the rocks before they sit. A herder checks a ledge with a stick before he reaches over it. The Dunhari take a glass lizard for the skin, which dries as hard and clear as horn, and which they cut into lamp-shades and small windows. A bitten animal is cut open and drained. Children are told to go round rock outcrops and not over them. Travelers keep their packs off the ground at a camp.
+
+## Signs
+
+- A faint smear on the rock where a body has lain, warm to the touch in the morning.
+- A scatter of small bones and fur on a ledge, with no nest.
+- A long, shed skin, thin as paper and almost clear, caught in a bush.
+- A lamb gone from a pen, with a scrape on the rail.
+- The head of a lizard turned toward the observer on the top of a boulder, and then not there.
 
 ## Combat Strategy
 

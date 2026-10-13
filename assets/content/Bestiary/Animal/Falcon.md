@@ -231,19 +231,35 @@ sohl:
 
 ![[falcon|Falcon]]{float=top-left}
 
-Something streaks across the sky—so fast you almost miss it. A second glance catches only a compact silhouette, wings tucked close to a lean body that seems to bend the very air around its passage. Then comes the cry: a chittering shriek of terrible intensity that echoes off the stone around you. The falcon banks hard, and for an instant its eye locks with yours—golden, knowing, and filled with hunger. Your skin prickles with the terrible clarity that you have been seen and assessed by something far more lethal than it has any right to be.
+A dark speck hangs in the wind a long way above the field, hardly moving. A flock of pigeons feeding at the edge of the stubble goes up with a clatter of wings, scatters, and the speck comes down out of the sky like a thrown stone. There is a puff of feathers. By the time the pigeons have settled, the speck has gone off with something small and limp in its feet.
 
 # Dossier {#dossier}
 
-The falcon is a sleek, compact predator of the middle air—smaller and more specialized than the eagle, but possessed of a speed and precision that no larger raptor can match. These birds are solitary hunters that favor high-altitude stalking and devastating vertical attacks. Adventurers encounter them most often in mountain passes, open plains, and along coastal cliffs where the thermal winds favor high-altitude hunting.
+The Falcon is the fast raptor of the middle air, a foot and a half tall, striking birds in flight in a vertical dive. It nests on crags and rock faces in [[place-vrystwald|Vrystwald]], on the cliffs above the [[place-falkhaven|Falkhaven]] shore, in the [[place-graznmntns|Grazian range]] and along the desert edge of [[place-aukhelathrgq|Aû'Khelâthu]]. A pair hunts the open country below its ledge. Nobles and the desert hunters keep trained falcons.
 
 ## Presentation
 
-A falcon stands barely a foot and a half tall, with a powerful build that is all muscle beneath deceptively fine plumage. Its feathers are dark steel-blue on the back, with a buff or russet breast, and its head bears distinctive dark malar stripes—markings that give it an almost predatory expression of intensity. The eyes are large and forward-facing, providing binocular vision that allows pinpoint targeting in a dive. Talons are moderate in size but wickedly sharp, and the hooked beak is built for swift, lethal strikes. The falcon's posture is always alert, and even perched it gives the impression of coiled spring energy.
+A small, compact raptor, all muscle under fine plumage, dark steel-blue on the back with a buff or russet breast and dark malar stripes on the face. The eyes are large and face forward. The talons are moderate and sharp, and the beak is hooked for quick killing. Even perched, the falcon looks alert and ready to spring.
+
+## In the Land
+
+Falcons nest on crags and rock faces in [[place-vrystwald|Vrystwald]], the cliffs above the [[place-falkhaven|Falkhaven]] shore, the mountains of the [[place-graznmntns|Grazian range]] and the desert edge of [[place-aukhelathrgq|Aû'Khelâthu]]. A pair uses one ledge year after year and hunts the open country below it for birds. A falcon watches from a high perch or from the air, folds its wings, and drops on a bird in flight. In winter it follows the flocks of waterbirds down to the marshes and the coast.
 
 ## Key Behaviors
 
-Falcons are solitary and fiercely territorial, with each bird commanding vast hunting grounds. They hunt primarily on the wing, soaring at altitude and diving at tremendous speed to strike small birds mid-flight, or stooping to snatch small mammals from the ground. A hunting falcon may spend hours aloft, climbing to thin air where few other creatures can follow, then plummeting in a stoop that reaches breathtaking velocity. They are less prone to returning to the same kill site than eagles, and they leave less evidence of their hunts—prey is consumed rapidly or cached in high places beyond easy discovery.
+Falcons live alone and hold their hunting ground fiercely. They hunt on the wing, climbing to a great height and stooping at tremendous speed on a bird in flight, or snatching a small mammal from the ground. A falcon spends hours aloft. It leaves less sign of a kill than an eagle does, since it eats quickly or caches the prey in some high place.
+
+## What the Falconers Do
+
+The falcon is the wesk of Vrystwald villages such as Rádstein and Falkrýth, and Falkenstein takes its name and its totem from the falcon that nests on the crag the fort is cut into. In Aû'Khelâthu the hunters of the desert edge take nestlings and passage-birds for the nobles, and the Guiding Falcon, [[lore-gewaatisdty|Gewa'âtis]], is the god of travelers and voyages. The lords of the Byzarian March fly hawks and falcons with hounds and coursing cats. A trained falcon is carried hooded on the fist, flown at a flushed bird and called back to a lure.
+
+## Signs
+
+- A dark bird holding itself still in the wind high over a field, and then falling like a stone.
+- Feathers scattered across a stone in a ring, the breastbone picked clean.
+- A pair of loud, ringing calls from a cliff, over and over, in the nesting season.
+- A flock of pigeons or ducks that suddenly goes silent and bunches over water.
+- A falconer's hood and jesses hung by the door of a lord's mews.
 
 ## Combat Strategy
 
@@ -263,7 +279,7 @@ The falcon's beak is built for swift, precise damage—it is neither as hooked a
 
 ### Blinding Dive
 
-A falcon can reach speeds in a vertical dive that make its approach nearly imperceptible until the moment of impact. An opponent targeted by a dividing falcon is at disadvantage on defensive rolls unless they have advance warning. The falcon's speed in the stoop also allows it to target opponents that believe they are safely out of range.
+A falcon can reach speeds in a vertical dive that make its approach nearly imperceptible until the moment of impact. A target of a diving falcon has little chance to defend unless it has advance warning. The falcon's speed in the stoop also allows it to target opponents that believe they are safely out of range.
 
 ### Aerial Mastery
 

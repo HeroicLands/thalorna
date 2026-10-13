@@ -234,19 +234,35 @@ sohl:
 
 ![[stppln|Steppe Lion]]{float=top-left}
 
-The golden color shifts with the creature's movement, and suddenly you realize what you're looking at is not mere terrain — it's a predator so perfectly matched to its environment that separation from background requires active thought. The mane is dark and full, framing a head that turns slowly to assess you with amber eyes that hold genuine intelligence and hunger. The body beneath is pure, coiled power, muscles moving beneath fur in patterns that suggest strength far beyond what appearance alone would indicate. As the creature shifts weight, you see the claws extend and retract in unconscious gesture, and you understand with sudden, terrible clarity that this is one of the apex predators of these lands.
+The grass on the knoll is pressed flat in a long oval, and the rock beside it is scored with claw-marks as high as a standing man's chest and smelling sharply of cat. In the shade of the rocks a tawny shape rises from the stems, much bigger than a hunting dog, a dark mane framing the broad, golden-eyed face. It is alone. It looks at you, and then at your horses, and takes its time.
 
 # Dossier {#dossier}
 
-The Steppe Lion is a massive solitary predator standing 4-5 feet at the shoulder and reaching 10-12 feet in length, found in grasslands, rocky steppes, and open forests across temperate to semi-arid regions. These apex hunters are ambush specialists that maintain enormous territories and defend them aggressively. Adventurers encounter steppe lions while traveling steppes, camping in territories the lions claim, or hunting game in areas where the cats also hunt.
+The Steppe Lion is the lone maned lion of the grass and rocky steppe, four to five feet at the shoulder and ten to twelve feet long, hunting dozens of square miles of the [[place-khzryndsrtrgn|Khazryn]] steppe, the open forest of the [[place-velanthrgn|Velanthian]] steppe margin and the dry uplands of the Byzarian March. Unlike the lions of the south it does not live in prides. Each cat holds its range alone, resting in a thicket or a rock-pile and watching the herds from cover.
 
 ## Presentation
 
-The Steppe Lion is a vision of predatory perfection and muscular power. The coat is golden-tan to pale brown with darker mottling and faint striping, particularly evident near the tail and on the legs, providing camouflage across grasslands and rocky terrain. The distinctive feature is the thick, dark mane that frames the head and extends down the neck and onto the chest, likely serving both territorial display and protection of vital areas. The face is broad and powerful, with forward-facing amber eyes suited for predatory vision, strong jaw muscles, and teeth designed for killing and eating large prey. The body is compact and heavily muscled, with shoulders and foreparts more heavily developed than hindquarters. The claws are large and curved, capable of slashing and gripping. The tail is long and muscular, used for balance and communication.
+A massive, heavily muscled cat with a golden-tan to pale-brown coat, darker mottling and faint stripes, most visible near the tail and on the legs. A thick, dark mane frames the head and runs down the neck and chest. The face is broad and powerful, with forward-facing amber eyes and strong jaw muscles. The shoulders and forequarters are heavier than the hindquarters. The claws are large and curved. The tail is long and muscular.
+
+## In the Land
+
+Steppe lions hunt the grass and rocky country of the [[place-khzryndsrtrgn|Khazryn]] steppe, the open forest of the [[place-velanthrgn|Velanthian]] steppe margin and the dry uplands of the Byzarian March. Unlike the lions of the south they live alone, each cat holding a range of dozens of square miles, resting in a thicket or a rock-pile and watching the herds from cover. It marks its ground with scent and claw-marks and hunts at night and in the cool of the day.
 
 ## Key Behaviors
 
-Steppe Lions are solitary hunters that establish and defend enormous territories spanning dozens of square miles. They are ambush specialists that spend much of their time resting in vegetation or rocky cover while maintaining surveillance of likely prey areas. They mark territory through claw marks on rocks and trees and scent deposits. Lions are most active during cooler times of day and during night, resting during peak heat. They are intelligent and capable of learning hunting strategies, remembering productive areas and dangerous hunters. Outside of mating season, lions are solitary and intolerant of other lions on their claimed territory. Mating season brings temporary tolerance and social interaction, but post-mating separation is absolute.
+Steppe lions hunt alone and hold huge ranges of dozens of square miles against other lions. They rest in vegetation or rocky cover and keep an eye on likely prey, and they mark their ground with claw-marks on rocks and trees and scent. They are active in the cooler hours and at night. They are intelligent, remember productive grounds and dangerous hunters, and learn tactics. Outside the mating season they tolerate no other lion on their ground; in it they tolerate a mate for a time, and then part for good.
+
+## What the Tribes Do
+
+The steppe tribes guard their herds at night with fires and dogs and move them from the range of a known cat. A steppe lion that has taken to stock is tracked and killed by a party of riders with spears and bows. The mane is worn by a tribal champion, and the skin is a mark of rank. Travelers on the long road camp in numbers and do not leave the road at dusk. A tribe that sells a camel road by the mile sells a safe camp with it.
+
+## Signs
+
+- Tracks as wide as a hand, four toes and a broad pad, crossing a game-trail.
+- A wild horse or onager carcass hauled into a rock-pile, with the haunch eaten.
+- A thundering roar at night from a ridge, and then silence.
+- Claw-marks and a spray of scent on a boulder at a path junction.
+- A band of horses bunched and facing the same way, snorting.
 
 ## Combat Strategy
 
@@ -270,7 +286,7 @@ The lion uses its massive weight and momentum to knock opponents off balance or 
 
 ### Steppe Camouflage
 
-The lion's coloration is extraordinarily effective in grasslands and rocky terrain. The creature gains significant advantage on stealth checks in steppe environments and can remain nearly invisible when still.
+The lion's coloration is extraordinarily effective in grasslands and rocky terrain. It is very hard to see in steppe country and can remain nearly invisible when still.
 
 ### Explosive Speed
 
@@ -278,7 +294,7 @@ Despite its size, the steppe lion can accelerate rapidly over short distances, a
 
 ### Ambush Predator
 
-The lion is superlatively effective when attacking from cover or from a position of advantage. The creature gains significant bonus to attack rolls and damage when striking from ambush or hidden position.
+The lion is superlatively effective when attacking from cover or from a position of advantage. It strikes harder and more surely from ambush or from a hidden position.
 
 ### Devastating Strength
 

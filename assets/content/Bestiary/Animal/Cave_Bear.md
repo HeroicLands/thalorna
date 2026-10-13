@@ -234,19 +234,35 @@ sohl:
 
 ![[cavebear|Cave Bear]]{float=top-left}
 
-The stench hits first: ancient earth and decay, the smell of something that has slept for centuries in airless darkness. Something shifts in the shadows ahead, and your eyes struggle to comprehend the sheer mass rising before you. Its coat, matted and streaked with cave dust and debris, seems to absorb light rather than reflect it. The sound of claws scraping against stone—each talon as long as a dagger—reverberates through the cavern with a grinding finality. When it breathes, the exhalation carries the warmth of a hibernating giant finally stirring, and the cave itself seems to tremble with the weight of its presence.
+The cave mouth is worn smooth on the stone at the height of a heavy animal's flank, and the rock above it is grooved with claw-marks as high as a man can reach. Bones lie in the dust before it, split lengthwise. A deep, slow breathing comes out of the dark. Then the shadow inside grows, a shaggy head with a heavy brow comes forward into the light, and the animal rises on its hind legs under the roof of the cave.
 
 # Dossier {#dossier}
 
-The Cave Bear is an apex predator of mountains and deep caverns, representing evolution perfected for a life of isolated predation. Standing up to ten feet tall on hind legs and weighing upward of two thousand pounds, the Cave Bear is physically larger than its brown bear cousins and built with even greater muscle mass. These solitary creatures are thought to be remnants of an older age—some believe they are prehistoric beings that evolution has outpaced, clinging to existence in regions humans cannot easily reach. Cave Bears are extraordinarily territorial, defending their lairs and surrounding hunting grounds against all comers with suicidal ferocity. Unlike other bears, they show no inclination to avoid human conflict; instead, they seem to view humans as intruders in their domain, deserving of death. Adventurers exploring deep caves, mountain passes, or ancient ruins may encounter these creatures defending territory that has been theirs for centuries.
+The Cave Bear is the largest of the bears, up to ten feet tall on its hind legs and over two thousand pounds. It holds the deep limestone caves and high valleys of the [[place-graznmntns|Grazian Mountains]], the broken ground of the Shattered Peaks in the [[place-nrdlndsrgn|Nordlands]] and the upland caverns of [[place-vrystwald|Vrystwald]], and a few caves have been a bear's den for longer than any village has stood near them. Unlike other bears, it does not avoid people and attacks anything that comes into its cave or its valley.
 
 ## Presentation
 
-A creature of primal power—a massive quadruped that rises to overwhelming height when it rears. Its frame is more heavily muscled than a brown bear, with shoulder muscles particularly pronounced and powerful. The fur is thick and shaggy, typically dark brown to nearly black, matted and streaked with cave dust, mud, and the remnants of past kills. The head is notably large with a pronounced brow ridge, a broad and flat muzzle, and relatively small eyes positioned forward-facing for hunting precision. The jaws are immense and capable of crushing bone, with canine teeth an inch or more long. The paws are enormous, each ending in curved claws that measure four to six inches in length—naturally adapted for tearing meat and rock alike. The claws are typically dark and worn, grooved by use against stone. The general impression is of a creature locked in time, carrying genetics and instincts from an earlier age when such predators were common rather than rare.
+A massive bear, more heavily muscled than a brown bear, with especially large shoulders. The fur is thick and shaggy, dark brown to almost black, matted with cave dust and mud. The head is large, with a heavy brow ridge, a broad, flat muzzle and small, forward-set eyes. The jaws crush bone, and the canines are an inch or more long. Each paw ends in curved claws four to six inches long, dark and grooved from use on stone.
+
+## In the Land
+
+Cave bears hold the deep limestone caves and high valleys of the [[place-graznmntns|Grazian Mountains]], the broken ground of the Shattered Peaks in the [[place-nrdlndsrgn|Nordlands]] and the upland caverns of [[place-vrystwald|Vrystwald]]. A territory takes in a cave system, the valley below it and the game-trails that run to water, and the bear winters in the deepest chamber. A few caves have been held by bears for longer than any village has stood near them.
 
 ## Key Behaviors
 
-Cave Bears are strictly solitary outside of mating season. A territory-holding bear may range across fifteen to twenty-five square miles of caves and adjacent terrain, marking boundaries with claw marks on trees and stone, and depositing scat at territorial markers. They are primarily carnivorous, hunting large prey: elk, deer, aurochs, and occasionally human travelers. They are ambush hunters despite their size, capable of surprising prey through patience and knowledge of terrain. During hibernation season, they select deep, secure cave systems and enter extended torpor, emerging in spring lean and aggressive. A female with cubs is extraordinarily dangerous—even more so than males. They have the longest memory of any bear species, remembering the location of previous kills, favorable hunting territories, and threats across years or decades. A Cave Bear that has successfully killed humans will become progressively bolder, viewing humans not as threats but as prey or territorial rivals.
+Cave bears live alone, apart from the mating season. A bear holds fifteen to twenty-five square miles of caves and ground around them, marking the edges with claw-marks on trees and stone and scat at the markers. It hunts elk, deer, aurochs and sometimes travelers, by ambush from cover it knows well. In winter it sleeps in the deepest chamber of a cave system and comes out lean and savage in spring. A sow with cubs is more dangerous than a male. A bear remembers kills and threats for years, and one that has killed people comes to take them as prey.
+
+## What the Mountain People Do
+
+The mountain guides know which caves hold bears and mark them with a cairn at the trailhead. Pack-trains halt a day's march away from a marked cave and go round. The caribou clans of the Nordlands plateaus lose calves and stragglers to cave bears and move the herd when a bear takes a liking to a pass. Hunters do not go into a bear's cave, because there is no room to use a spear and no way out. Skulls and great claws hang in clan halls as proof of a bear's death, and the fat is sold for lamp oil.
+
+## Signs
+
+- A cairn of fist-sized stones at a trailhead, with claw-scores in the rock above it as high as a man can reach.
+- A cave mouth worn smooth by a heavy body, with broken bones in the dust before it.
+- Tracks as broad as a shield, with the toes close together.
+- A hillside of rubbed trees, the bark gone to the height of a rider on a horse.
+- Scat the size of a loaf, full of bone and hair.
 
 ## Combat Strategy
 
@@ -284,7 +300,7 @@ The Cave Bear hunts with intelligence and patience that exceeds most creatures. 
 
 Unlike other bears, Cave Bears do not tolerate intrusion. They view territorial violation as an existential threat and respond with absolute violence. This fury can override pain and self-preservation, making a cornered or defending Cave Bear nearly impossible to disengage from combat.
 
-### Exceptional Endurance
+### Endurance
 
 Cave Bears can sustain physical exertion and combat for extended periods, accumulating fatigue slowly. Their reserves of strength seem almost inexhaustible. A Cave Bear may continue fighting long after creatures of similar size would collapse from exhaustion.
 

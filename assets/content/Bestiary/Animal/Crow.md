@@ -231,19 +231,35 @@ sohl:
 
 ![[crow|Crow]]{float=top-left}
 
-The bird cocks its head, assessing you with an eye that seems disturbingly intelligent. Glossy black feathers catch sunlight in iridescent flashes of purple and blue as it shifts its weight. The beak is sharp and capable, the eye itself dark and penetrating—not the empty gaze of animal instinct but something resembling calculation. It caws—a harsh, echoing sound that seems to carry far more meaning than simple birdsong should. Somewhere nearby, you hear the response: other crows, numerous, answering the call.
+A flock lifts off the stubble field all at once, a ragged black cloud cawing, and settles again on the fence. One bird stays on the post nearest you. It tilts its head and watches you with one bright eye, then drops to the ground, takes something shiny from the grass and flies off with it. The others go on calling, to each other and about you.
 
 # Dossier {#dossier}
 
-The Crow is a medium-sized passerine bird remarkable for its intelligence, adaptability, and social complexity. Weighing one to two pounds and measuring sixteen to twenty-one inches in length, crows are found in nearly every terrestrial environment and have adapted successfully to human civilization. Unlike most birds, crows show genuine curiosity, problem-solving capacity, and what might be called personality. They recognize individual humans, remember those who have harmed them, and interact with each other through complex vocalizations and behavior. They are opportunistic feeders, consuming whatever food is available: insects, seeds, small animals, carrion, and garbage. They are notorious thieves, stealing shiny objects and hoarding them. While individually a crow presents minimal threat to humans, crows in flocks are considerably more dangerous—they can harass and distract, and historically documented cases exist of crows defending themselves against threats with coordinated attacks. Adventurers may encounter crows in almost any environment, particularly around settlements, battlefields, and hunting grounds where carrion is available.
+The Crow is the black bird of the fields, villages and battlefields, sixteen to twenty-one inches long and one to two pounds, found from the clearings of [[place-vrystwald|Vrystwald]] and the grain country of [[place-velanthrgn|Velanthia]] to the towns of every kingdom south of them. It is clever, curious and a thief, and it recognizes the faces of the people who have harmed it. A single crow is no danger, and a flock will harry and distract. The crow is the wesk of several Varokh villages.
 
 ## Presentation
 
-A medium-sized passerine with an all-black plumage that displays iridescent blue and purple highlights in certain lighting conditions. The head is proportionally large with an intelligent eye placed laterally, allowing good vision to the side and rear. The beak is thick, powerful, and slightly curved downward. The wing-to-body ratio indicates a creature built for extended flight and maneuverability rather than pure speed. The tail is squared rather than forked, serving as a rudder in flight. The feet are strong and capable of gripping perches firmly or grasping food items. The overall impression is of a bird built for intelligence rather than speed or strength, with a frame suggesting sustained flight capability and manual manipulation. The corvid family (crows, ravens, jays) is distinctive in having a proportionally larger brain-to-body ratio than most other birds, and the physical design reflects this neural sophistication.
+A medium-sized black bird whose plumage shows blue and purple in the light. The head is large, with a bright eye at the side, and the beak is thick, strong and slightly curved. The tail is squared and works as a rudder. The feet grip a perch firmly and hold food. The build is for steady flight and careful handling of objects rather than for speed.
+
+## In the Land
+
+Crows live wherever there are people: on the fields and farm-clearings of [[place-vrystwald|Vrystwald]], in the grain country of [[place-velanthrgn|Velanthia]], around the villages and harbors of the Nordlands and in the towns of every kingdom to the south. A flock roosts in a stand of tall trees and spreads out by day to the fields, the middens and the roads. Pairs nest in the same tree each year, and a flock of dozens may share a roost.
 
 ## Key Behaviors
 
-Crows are social animals, forming flocks that range from dozens to hundreds of individuals. Within these flocks, complex hierarchies exist, with dominant individuals controlling access to resources. They are known to recognize individual human faces, remember those who have harmed them, and communicate information about dangerous humans to other crows. They are tool users, capable of using sticks to extract insects from crevices and other problem-solving behaviors. They are highly vocal, communicating through a complex variety of caws, clicks, and other vocalizations. They have been documented playing—engaging in apparently non-functional behaviors that seem to be driven by curiosity or enjoyment. They are famous thieves, stealing shiny objects and hoarding them in hidden locations. They are also famous scavengers, following hunters and eating carcasses abandoned after hunting. They mate for life and show affection toward mates and offspring. They are omnivorous, eating anything from insects and seeds to small animals and garbage. They are long-lived birds, sometimes reaching twenty-five years in captivity and likely similar ages in the wild.
+Crows live in flocks of dozens to hundreds, ruled by dominant birds that control food. They recognize human faces, remember those who have harmed them and tell the flock about them. They use sticks to draw insects out of crevices, call in many different voices, and appear to play. They are thieves of shiny objects, which they hide, and scavengers that follow hunters and eat what the hunters leave. They pair for life. They eat anything from insects and seeds to small animals and refuse, and live twenty-five years or more.
+
+## What the Villages Do
+
+The Varokh villages that keep the crow as their wesk, among them Hildrýth, Skathrýth and Rádholt, will not harm one. Elsewhere farmers scare crows from sown fields with scarecrows, clappers and boys with slings, and pay a bounty for a pair of feet. Crows learn the face of a person who has harmed them, and teach it to the flock. A shepherd on a hillside watches them, since a flock that gathers is a sign of a carcass, a fox or a wounded animal. The black feathers are used for fletching and for the quills of the lower scribes.
+
+## Signs
+
+- A flock rising together from a field with a harsh chorus, wheeling and settling again.
+- A single bird on a fence-post that watches a person pass and turns its head to follow.
+- A ring of crows standing around a carcass in the road, too wary to eat.
+- Shiny bits of tin, glass and wire in the crotch of a tree, among old sticks.
+- A bird that drops a nut on a road, waits for a cart to break it and hops down after.
 
 ## Combat Strategy
 
@@ -265,13 +281,13 @@ When multiple crows coordinate, they create sustained harassment through simulta
 
 ## Special Abilities
 
-### Exceptional Intelligence and Problem-solving
+### Intelligence and Problem-solving
 
 Crows are problem-solvers capable of understanding cause and effect, spatial relationships, and even basic tool use. This intelligence allows them to exploit weaknesses in defenses, identify vulnerable targets, and adapt tactics in real-time. A crow or group of crows may engage in deception: creating distraction to allow steal attempts, or driving prey toward obstacles.
 
 ### Aerial Superiority and Maneuverability
 
-Crows are exceptional fliers with superior maneuverability to most other birds. They can hover, turn sharply, and navigate complex terrain from the air. This aerial advantage makes them difficult to target and allows them to attack from positions that ground-based opponents cannot defend against effectively.
+Crows are skilled fliers with superior maneuverability to most other birds. They can hover, turn sharply, and navigate complex terrain from the air. This aerial advantage makes them difficult to target and allows them to attack from positions that ground-based opponents cannot defend against effectively.
 
 ### Complex Communication and Coordination
 

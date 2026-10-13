@@ -211,19 +211,35 @@ sohl:
 
 ![[direwolf|Dire Wolf]]{float=top-left}
 
-You hear it first: a sound that carries for miles, a howl that raises the hair on your arms and freezes your breath in your throat. Then you see them emerging from shadow and forest edge—creatures that dwarf ordinary wolves. The lead animal stands as tall as a human’s waist, its frame a lean assemblage of coiled muscle and predatory grace. Storm-gray fur ripples over powerful limbs; yellow eyes gleam with an intelligence that seems almost human. The jaws open in a snarl that reveals teeth made for tearing, and the smell hits—wild, musk-laden, carrying the scent of blood and danger. When it moves, there is almost no sound: just the whisper of paws on earth and the distant, chilling song of the pack.
+The deer's carcass has been dragged thirty yards across the snow and torn open, the long bones cracked and the marrow gone. The tracks around it are as broad as your hand, spread flat, and there are three sets of them. Then a long howl rises out of the trees upslope. It is answered from the left, and from the right, and a gray shape the size of a pony steps out of the spruce and stands looking down at you.
 
 # Dossier {#dossier}
 
-The Dire Wolf is an apex predator found in deep forests, mountains, and wilderness regions far from human civilization. Standing four feet tall at the shoulder and measuring seven to nine feet from nose to tail, these enormous canines are twice the size of common gray wolves while retaining the pack intelligence and social complexity of their smaller cousins. Unlike common wolves that hunt small game, Dire Wolves regularly take prey as large as elk and have been documented hunting humans when circumstances allow. They are extraordinarily intelligent, capable of tactics that suggest planning and coordination beyond simple instinct. A Dire Wolf pack represents one of the most serious predatory threats an adventurer can encounter in wilderness. Solitary Dire Wolves are rarer than packs and are typically outcasts from pack hierarchies—they are notably more aggressive and more likely to attack humans. Adventurers may encounter these creatures while traveling through wilderness, camping in their territory, or investigating missing person cases where the missing have been taken by wolves.
+The Dire Wolf is the great wolf of the deep forest, four feet at the shoulder and seven to nine feet long, twice the size of a gray wolf. A pack of five to fifteen holds the deep forest of [[place-vrystwald|Vrystwald]] north of the Vylarian border, the marsh forests of [[place-grkrhlmrgn|Grukarholm]] and the high taiga of the [[place-nrdlndsrgn|Nordlands]], and takes elk. Packs have hunted people, and a lone dire wolf, usually an outcast from a pack, is the likeliest to attack.
 
 ## Presentation
 
-A massive canine built on a frame designed for power and endurance. The body is lean and muscular, with long legs positioned for sustained running and powerful shoulders engineered for taking down large prey. The head is broad and powerful with a snout designed to deliver devastating bite force. The eyes are yellow or amber and positioned laterally, allowing excellent peripheral vision. The ears are erect and mobile, capable of rotating independently for precise hearing. The fur is thick and unkempt, typically gray, black, or reddish-brown, with lighter undersides. Scars marking territorial conflicts and past hunts are virtually universal on adult individuals. The teeth are formidable, with canines measuring one and a half inches or more. The tail is long, thick, and muscular. The overall impression is of a creature engineered for predation: powerful, intelligent, and utterly dangerous.
+A massive wolf, lean and muscular, with long legs for sustained running and heavy shoulders. The head is broad, with a powerful muzzle, and the eyes are yellow or amber. The ears are erect and turn independently. The fur is thick and unkempt, gray, black or reddish brown, paler beneath. Adults carry scars from territorial fights and hunts. The canines are an inch and a half long or more, and the tail is long and thick.
+
+## In the Land
+
+Dire wolves hold the deep forest of [[place-vrystwald|Vrystwald]] north of the Vylarian border, the marsh forests of [[place-grkrhlmrgn|Grukarholm]] and the high taiga of the [[place-nrdlndsrgn|Nordlands]], country that few people enter and none live in. A pack of five to fifteen keeps a range of a hundred miles or more and follows the elk and the caribou through the seasons. They den in a rock cleft or under a root-wall. In deep winter, when the herds have gone, a pack comes down to the margin of the farms.
 
 ## Key Behaviors
 
-Dire Wolves live in packs typically numbering five to fifteen individuals, with a clear alpha hierarchy. Packs are matriarchal—the alpha female is typically the most powerful and authoritative, with the alpha male supporting her authority. Subordinate pack members are organized in a hierarchy that determines feeding order and mating rights. Pack members communicate through vocalizations (howling, growling), scent marking, and body language of extraordinary sophistication. They hunt cooperatively, using tactics that suggest planning: some individuals herd prey toward a kill zone while others attack from ambush. They establish territories spanning twenty to fifty square miles and defend those territories fiercely against rival packs. A pack that has learned humans carry food or that humans are vulnerable prey will actively hunt humans. They are capable of sustained pursuit, tracking prey for hours or days. They have long memories and will remember human hunters who have opposed them, actively seeking revenge.
+Packs are matriarchal, led by the alpha female with the alpha male supporting her, and a rank order fixes the feeding and the breeding. Members communicate by howling, growling, scent and posture. They hunt together: some drive the prey toward a kill zone while others wait in ambush, and they will follow a quarry for hours or days. A pack holds twenty to fifty square miles against rival packs. A pack that has learned that people carry food or are weak prey hunts them. They remember the hunters who have opposed them.
+
+## What the Hunters Do
+
+The hunting companies of Vrystwald, such as the Wuldjagár of the Gárskald, know the ranges of the big packs and keep to the edges of them. A dire wolf kill is a feast and a clan matter, since a pack that is attacked and not finished comes back for the hunters. Villages that keep the wolf as their wesk, such as Hárholt and Wulfrýth, forbid the killing of a wolf in their own woods and ask the Weskár when one has been seen near the houses. In winter, villages bring their stock indoors at dusk and post a watch with a horn. A dire wolf pelt is worth a horse.
+
+## Signs
+
+- Tracks as broad as a man's hand spread flat, in a line, and a second line beside it, and a third.
+- A deer carcass pulled apart across thirty yards of snow, the bones cracked for marrow.
+- A long howl at dusk that is answered from three directions.
+- Hair on a low branch, gray and coarse, a full arm's length above the ground.
+- A herd of elk bunched in open ground at midday, all facing the same way.
 
 ## Combat Strategy
 
@@ -253,7 +269,7 @@ Using their bite, Dire Wolves can seize and shake prey violently, potentially br
 
 Dire Wolves are intelligent enough to execute complex hunting strategies requiring planning, communication, and coordination. A pack can surround prey, cut off escape routes, and attack in precisely coordinated waves. This intelligence makes them far more dangerous than animals relying on instinct alone.
 
-### Exceptional Strength and Endurance
+### Strength and Endurance
 
 Dire Wolves can sustain pursuit for hours, traveling at speeds that exhaust human runners. Their bite force exceeds that of bears, and their physical resilience allows them to sustain injuries that would incapacitate lesser predators.
 

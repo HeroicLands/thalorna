@@ -233,19 +233,35 @@ sohl:
 
 ![[cat|Cat]]{float=top-left}
 
-It watches you from the corner with eyes that catch and reflect light like polished amber or jade. The creature is compact and sinuous, muscles rippling beneath fur as it shifts position with liquid grace. Its whiskers twitch, sensory organs constantly scanning the environment. When it moves, there is almost no sound—just the faint pad of tiny feet on wood or stone, and the occasional whisper of claws extending and retracting. The tail, seemingly possessed of independent intelligence, curves and straightens in an endless conversation with the world around it.
+The granary is dim and smells of dust and old grain. On the beam above the door two green-gold points shine out of the dark and do not blink. A small, sleek shape is lying along the timber with its tail hanging, quite still. Then the tail twitches, the shape drops soundlessly to the floor and crosses it, and there is a sharp, quick sound in the corner.
 
 # Dossier {#dossier}
 
-The domestic cat is a small predator that has evolved in close partnership with humans, existing in a state between wild and tame. Weighing five to fifteen pounds and standing eight to ten inches tall at the shoulder, cats are formidable hunters of small prey despite their size. They are primarily solitary creatures, though they tolerate human company and the proximity of other cats if food is plentiful. Unlike dogs, cats maintain independence and will abandon situations they find unfavorable. They are found in virtually all human settlements and in wild areas adjacent to human habitation. While not a significant threat to armed adults, cats can cause injury when provoked or defending territory, and they occasionally trigger terror in those with specific phobias. Adventurers encounter domestic cats primarily in towns and villages, where they serve as mousers, pets, or semi-wild hunters of local rodent populations.
+The Cat is the house cat of the villages, granaries, ports and temple precincts of the settled lands, five to fifteen pounds and eight to ten inches at the shoulder. It keeps the rats and mice out of the grain and lives half-tamed beside people, as a hearth cat, a street cat or a field cat. A cat feeds and sleeps where it likes, tolerates other cats while food is plentiful, and bites and rakes if it is cornered or handled roughly.
 
 ## Presentation
 
-A small, sleek mammal with a compact body built for stealth and climbing. The body is muscular and flexible, capable of contorting in surprising ways. The head is proportionally large with a broad face, pointed ears set to the sides and capable of independent rotation, and large forward-facing eyes that glow faintly in darkness. The eyes are expressive, conveying mood and intention clearly to those who understand cat behavior. The mouth contains sharp canine teeth and rough, rasping tongue. The paws contain retractable claws that are kept razor-sharp through constant grooming and maintenance. The tail is long, typically a third of the cat's total body length, and serves as both balance organ and communication device. Fur varies dramatically by individual: from short sleek coats to long, flowing fur; from solid colors to complex patterns; from snow-white to jet-black to every color in between. The scent gland secretions are pungent, especially in intact males, and territorial cats mark territory extensively.
+A small, sleek animal with a flexible, muscular body built for stealth and climbing. The head is broad, with pointed ears that turn independently and large forward-set eyes that shine in the dark. The teeth are sharp and the tongue is rough. The claws are retractable and kept sharp by use. The tail, a third of the cat's length, serves for balance and signals. The coat runs from short and sleek to long and full, in every color from snow-white to jet black. Males mark their ground with a pungent scent.
+
+## In the Land
+
+Cats live wherever grain is stored: in the villages of [[place-vrystwald|Vrystwald]], the granaries of [[place-velanthrgn|Velanthia]], the warehouses of the Hellad ports and the temple precincts of [[place-aukhelathrgq|Aû'Khelâthu]]. A house cat keeps a few rooms, a kitchen and a barn loft, and a street cat the alleys of a quarter. Some keep to the fields and live as wild animals, and these are leaner and more watchful than the hearth cats.
 
 ## Key Behaviors
 
-Domestic cats are ambush hunters that spend much of daylight resting in warm, elevated places. They become active around dusk, hunting small prey: rodents, birds, insects, and small reptiles. A cat's hunting methodology is patient stalking followed by explosive acceleration—they will watch a hunting ground for many minutes before pouncing. They are territorial, particularly males, and will defend home ranges from other cats through displays and physical combat. Cats are surprisingly social animals: they form bonds with humans and with other cats they grew up alongside, communicating through vocalizations, body language, and scent marking. They are fastidious animals, spending significant time grooming themselves and maintaining cleanliness. Cats are also curious animals, investigating new objects and changes to their environment with intensity. A cat that has been ill-treated will remember and avoid that person indefinitely; conversely, a cat that has been fed and treated well will actively seek out that person's company. They are crepuscular, most active during twilight hours, and largely nocturnal in wild populations.
+Cats rest through the day in warm, high places and become active at dusk, hunting mice, rats, birds, insects and small reptiles. A cat watches a hunting ground for many minutes before it pounces. Males hold ranges and fight other cats for them. Cats bond with people and with cats they grew up beside, and spend a good part of the day grooming. A cat that has been ill-treated avoids the person for good, and one that has been fed and treated kindly seeks out his company. Wild cats are largely nocturnal.
+
+## What People Do
+
+A household keeps a cat to hold down mice and rats around the grain, and feeds it with the scraps. A ship's cat is carried on a long voyage and is held to bring good luck. Granary-keepers pay for a good mouser and keep her through the winter. In the great ports they live on the quays and in the fish-markets, and the fishermen leave them the guts of the catch. A cat that is cornered or handled roughly bites and rakes, and the wounds fester easily.
+
+## Signs
+
+- A pair of eyes shining from a granary beam at night, and then no mice in the morning.
+- A row of small, neat paw-prints across a floured table or a dusty windowsill.
+- A dead rat laid on a doorstep.
+- A pile of feathers in the corner of a garden where a bird-table stood.
+- A purr, a long yowl in the dark and a clatter of tiles.
 
 ## Combat Strategy
 
@@ -273,11 +289,11 @@ Cats move with minimal sound due to the soft pads of their paws and their natura
 
 ### Superior Agility and Balance
 
-Cats possess extraordinary balance and proprioception, allowing them to land feet-first from falls that would injure humans, to navigate narrow ledges and precarious terrain, and to dodge with remarkable precision. Their flexibility allows them to contort their spine in ways that let them escape grapples and reach targets that seem inaccessible.
+Cats possess extraordinary balance and proprioception, allowing them to land feet-first from falls that would injure humans, to navigate narrow ledges and precarious terrain, and to dodge with great precision. Their flexibility allows them to contort their spine in ways that let them escape grapples and reach targets that seem inaccessible.
 
 ### Acute Senses
 
-Cats possess exceptional night vision, seeing clearly in light levels that appear dark to humans. Their hearing is acute enough to detect ultrasonic sounds that humans cannot perceive. Their sense of smell is strong, allowing them to track prey and navigate by scent alone. Combined, these senses make cats exceptionally aware of their surroundings and difficult to surprise.
+Cats possess keen night vision, seeing clearly in light levels that appear dark to humans. Their hearing is acute enough to detect ultrasonic sounds that humans cannot perceive. Their sense of smell is strong, allowing them to track prey and navigate by scent alone. Combined, these senses make cats very aware of their surroundings and difficult to surprise.
 
 ### Territorial Aggression
 

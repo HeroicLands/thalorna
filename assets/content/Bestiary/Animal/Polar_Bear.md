@@ -234,19 +234,35 @@ sohl:
 
 ![[plrbr|Polar Bear]]{float=top-left}
 
-The ice field is empty. You are certain of this. You scanned it not thirty seconds ago and there was nothing — nothing but white on white, pressure ridges and blown snow, and the gray sky pressing down. Then a shape stands up sixty paces away, and the world rearranges itself around the fact that the largest land predator of the far north has been watching you for some time. The fur is not white — not truly. It is pale yellow, cream, the color of old ivory, and against the snow it simply ceases to exist until the animal chooses to move. It is enormous. Taller than a brown bear, longer, leaner, built along lines that speak of distance and patience and a hunger that never fully abates. The head swings toward you on a neck longer than any bear's should be, and the black nose works the air with visible, deliberate attention. The eyes are dark and calm. There is no threat display. No warning. It has already decided what you are.
+The ice stretches away flat and blue-white to the horizon. A long way out, a creamy shape on the floe is moving toward you, head low, swinging from side to side. It is far larger than any bear you have seen. Its neck is long, its paws are as wide as dinner-plates, and it walks with a rolling, tireless stride. It lifts its muzzle and tests the wind, scenting you across a mile of open ice.
 
 # Dossier {#dossier}
 
-The Polar Bear is the apex predator of the arctic reaches — a solitary, patient, supremely dangerous hunter adapted for life on ice and in freezing water. Males stand five feet at the shoulder and can reach ten feet when rearing, weighing between nine hundred and fifteen hundred pounds of lean, cold-adapted muscle. Unlike the brown bear, which is an omnivorous opportunist, the polar bear is a dedicated carnivore — a pure predator that hunts seals, fish, walrus calves, and anything else it can catch, including humans. The polar bear possesses the keenest nose of any land predator, capable of detecting prey from miles away and through feet of ice. It is an exceptional swimmer, capable of crossing open water for dozens of miles. Among the peoples of the far north, the ice bear is regarded with a mixture of terror and spiritual reverence — it is the embodiment of the killing cold, and its pelt is among the most valued trophies a hunter can claim. Adventurers encounter polar bears on arctic coastlines, on sea ice, in far-northern settlements where bears scavenge, and during winter expeditions into the deep north.
+The Polar Bear is the great white hunter of the ice, five feet at the shoulder and ten feet when it rears, nine hundred to fifteen hundred pounds, living on the pack-ice and frozen shore of the far north of the [[place-nrdlndsrgn|Nordlands]]. It is a pure meat-eater, taking seals, fish, walrus calves and people, with the keenest nose of any land hunter, able to find prey through feet of ice. It swims for dozens of miles. Among the northern peoples it is the embodiment of the killing cold, and its pelt is among the most valued trophies.
 
 ## Presentation
 
-The polar bear is built along different lines than its brown cousin — longer, leaner, more hydrodynamic. The body is elongated and streamlined, with a long neck that gives the head reach and flexibility unusual in bears. The skull is narrower and more predatory than a brown bear's, the muzzle longer, the jaw designed for gripping and killing rather than the omnivorous crushing of the brown bear. The fur appears white or cream but is actually composed of hollow, transparent guard hairs over black skin — a thermal engineering system that channels sunlight to the skin while trapping body heat. The paws are enormous — up to twelve inches across — and partially webbed, functioning as paddles in water and snowshoes on soft snow. The soles are covered in small, soft papillae that provide grip on ice. The overall impression is of something designed by the cold itself: efficient, patient, and built to kill in an environment where nothing else can.
+A long, lean, streamlined bear with a long neck and a narrower skull and longer muzzle than the brown bear's, made for gripping and killing. The fur looks white or cream, made of hollow, transparent guard hairs over black skin. The paws are up to twelve inches across and partly webbed, paddles in water and snowshoes on soft snow, with soles covered in soft papillae that grip ice.
+
+## In the Land
+
+Polar bears hunt the pack-ice and the frozen shore of the far north of the [[place-nrdlndsrgn|Nordlands]], where the ice reaches the coast and the seal colonies lie. A bear walks the ice-edge and waits at a seal's breathing-hole, and in summer, when the ice retreats, it comes ashore and lives on its fat. It can swim for miles and range hundreds of miles in a season.
 
 ## Key Behaviors
 
-Polar bears are solitary obligate carnivores that spend most of their lives on or near sea ice, where they hunt seals at breathing holes and along ice edges. A hunting polar bear will locate a seal's breathing hole by scent, then wait — motionless, silent, for hours — until the seal surfaces to breathe. The strike is explosive and precise: a single blow from a forepaw that can shatter a seal's skull through the ice. When sea ice retreats in summer, polar bears move to land, where they become scavengers, eating carrion, bird eggs, and berries while waiting for the ice to return. Hungry bears in this period are the most dangerous to humans — they actively investigate settlements, camps, and boats as potential food sources. Polar bears are powerful swimmers and have been documented swimming continuously for days, covering enormous distances between ice floes. They are intelligent, curious, and persistent — a polar bear that has identified potential prey will follow it for miles with tireless patience.
+Polar bears live alone and nearly always on or near the sea ice, hunting seals at breathing-holes and along the ice edge. A bear finds a hole by scent, waits motionless and silent for hours, and kills with one blow of a forepaw that can break a seal's skull through the ice. When the ice retreats in summer the bears come ashore and live on carrion, eggs and berries until it returns, and hungry bears at that season are the most dangerous, investigating camps, settlements and boats for food. They have swum for days between floes. They are intelligent, curious and persistent, and will follow prey for miles.
+
+## What the Sealers Do
+
+The sealers of the northern coast watch the ice for bears and work in numbers. A bear that has found a camp returns to it, and a camp keeps its meat in a cache on stilts. Hunters kill a bear with spears and dogs for the hide, which is the warmest bed-cover in the north, and for the fat, which burns well. A bear is taken only when it threatens a camp, and the skull is set on a pole. Boats stay clear of an animal swimming in open water. The old tell of a bear that waited a whole winter for a man who had struck it.
+
+## Signs
+
+- Tracks as wide as a dinner-plate on the ice, with a long, sliding stride.
+- A seal carcass with the skin and blubber eaten and the rest left lying.
+- A pale shape on the ice at a distance that is not a snowdrift, and moves.
+- A heap of snow at a breathing-hole, built up by a patient animal.
+- A cache torn open, with the poles splintered and the meat gone.
 
 ## Combat Strategy
 

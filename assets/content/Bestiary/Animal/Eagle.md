@@ -233,19 +233,35 @@ sohl:
 
 ![[eagle|Eagle]]{float=top-left}
 
-The wind carries a shrill cry that makes your blood quicken. High above, a silhouette wheels through the clouds—wings stretched wide, banking and diving with predatory grace. Its shadow slides across the ground far below. As it drops lower, you catch the glint of sunlight off cruel curved talons and glimpse the intense, unblinking stare of a hunter that has already decided you are worth noting. The air itself seems to tremble with its presence.
+A shadow slides over the scree, much faster than any cloud, and you look up. The bird is a thousand feet over the ridge, wings flat, turning in a long circle on the wind. It is so high that it is no bigger than a thumb-nail. It stops turning. For a moment it hangs, and then it folds and falls, and the sound of the stoop comes down the mountain a long time after.
 
 # Dossier {#dossier}
 
-The eagle is a magnificent apex predator of the high places—a solitary hunter that dominates its territory from ridge to cloud. These birds patrol vast hunting grounds, striking with sudden violence at small mammals, fish, and anything else they can snatch from the ground or water. Adventurers most often encounter them when crossing mountain passes or open terrain, where an eagle's territory may overlap the road, or when they stumble upon an aerie and awaken a protective parent.
+The Eagle is the great raptor of the high ridges, four feet tall with a wingspan of six feet or more, hunting small mammals, fish and anything it can take from the ground or the water. It nests on crags and rock spires in the [[place-graznmntns|Grazian Mountains]], the [[place-nrdlndsrgn|Nordlands]] and above the forests of [[place-vrystwald|Vrystwald]], where a pair keeps several valleys to itself. A road that crosses a pair's range crosses their hunting ground, and a parent at the eyrie strikes at anything that climbs toward it.
 
 ## Presentation
 
-A mature eagle stands roughly four feet tall with a wingspan exceeding six feet when fully extended. Its plumage is dark brown to black with distinctive pale coloring on the head and neck, creating the appearance of an aged, severe face. The eyes are pale gold or amber, fixed with an intensity that seems to pierce through you. The talons are the color of old bone and curve wickedly, each as long as a man's finger. The beak is massive and hooked, capable of rending flesh with effortless strength. It moves with deliberate grace on the ground, but in the air it is pure predatory poetry—every turn and dive economical and deadly.
+A big raptor, dark brown to black, with pale plumage on the head and neck that gives it an old, stern face. The eyes are pale gold or amber. The talons are the color of old bone, curved, each as long as a man's finger. The beak is massive and hooked. It walks with deliberate steps on the ground and in the air makes every turn and dive without wasted motion.
+
+## In the Land
+
+Eagles nest on the cliffs and crags of the [[place-graznmntns|Grazian Mountains]], on the rock spires of the [[place-nrdlndsrgn|Nordlands]] and above the forests of [[place-vrystwald|Vrystwald]]. A pair keeps one range of several valleys and one nest on a ledge, adding sticks to it each spring until it is as wide as a cart. They hunt in the morning and the evening and soar over open slopes at midday.
 
 ## Key Behaviors
 
-Eagles are solitary hunters except during breeding season, when a mated pair fiercely defends its nesting territory. They establish and patrol large hunting grounds, returning to favored perches or thermals to scan for prey. A hunting eagle is patient, circling for hours if necessary before detecting movement. They hunt primarily small mammals and fish, though a large eagle will occasionally take grouse, rabbits, or other relatively large prey. They are crepuscular hunters, most active in the hour after dawn and before dusk, though they will hunt at any time if pressed by hunger.
+Eagles hunt alone, and a mated pair defends its nesting range through the breeding season. A bird patrols a large hunting ground, returning to favored perches and updrafts to scan for movement, and circles for hours until it sees it. It takes small mammals and fish, and sometimes grouse or hares. It hunts in the hour after dawn and before dusk, and at any time when hunger presses.
+
+## What the Mountain People Do
+
+The eagle is the wesk of Vrystwald villages such as Arnholt, Arnwald and Arngrund, who keep a watch on the cliff where it nests and take a pair's flights as omens. The Nyáluba eagle-clan, the Ngonzi, count the eagle guide as their ancestral presence and not as the bird alone. Shepherds in the passes pen their lambs under the crags in spring and keep dogs near the flock. An eyrie holds the bones of every kill, and a feather from it is worth a good knife. Falconers do not take eagles, which are too heavy for the wrist and too fierce to train.
+
+## Signs
+
+- A broad shadow sliding across a slope with no cloud above it.
+- A lamb or a hare gone from the high pasture between one look and the next.
+- A harsh yelp from a crag, repeated, and then silence.
+- A bulky stick nest on a ledge, white with droppings, and bones below.
+- A gold-brown feather as long as a forearm lying on a stone.
 
 ## Combat Strategy
 
@@ -265,11 +281,11 @@ A vicious pecking and tearing attack, usually pressed once the eagle has grapple
 
 ### Keen Eyesight
 
-An eagle's vision is legendary among birds—it can detect the movement of a rabbit from a thousand paces away and can track a flying target across open sky with perfect clarity. This translates to a marked advantage in any perception or tracking roll involving visual stimuli, and the eagle cannot be easily surprised or ambushed from a distance.
+An eagle's vision is famed among birds—it can detect the movement of a rabbit from a thousand paces away and can track a flying target across open sky with perfect clarity. It is hard to surprise or ambush from a distance.
 
 ### Powerful Wings
 
-The eagle's massive wings allow it to climb and maneuver at speeds that leave most terrestrial creatures behind. Once aloft, it can dive with punishing acceleration and recover from a dive into a steep climb that no land-bound pursuer can match. This gives it supreme tactical advantage in open air combat.
+The eagle's massive wings allow it to climb and maneuver at speeds that leave most terrestrial creatures behind. Once aloft, it can dive with punishing acceleration and recover from a dive into a steep climb that no land-bound pursuer can match. This makes it the master of any fight in open air.
 
 ## Additional Information
 

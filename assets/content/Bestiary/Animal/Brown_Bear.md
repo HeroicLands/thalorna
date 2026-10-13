@@ -234,19 +234,35 @@ sohl:
 
 ![[brwnbr|Brown Bear]]{float=top-left}
 
-The earth seems to hold its breath. A mountain of muscle and brown fur emerges from the treeline, each footfall deliberate and heavy. The creature's shoulders rise above your head even as it walks on all fours—a bulk so immense that the forest seems to shrink around it. Its smell precedes it fully: a reek of fish, overturned soil, and something wild and acrid that fills your nostrils and makes your eyes water. When the bear rises on its hind legs, it becomes something impossible—a wall of hair and sinew that blots out the sky. The sound it makes, a deep, chest-rattling roar, resonates through your bones and echoes across the valleys, a declaration that this is its world and you are merely permitted to exist within it.
+A salmon lies on the flat rock, the head and belly eaten and the rest thrown aside. Upstream, in the shallows, something brown is rising out of the water with a fish in its jaws, a mound of wet fur with a hump over the shoulders. The paw it plants on the gravel is as wide as your hand with the fingers spread. It lifts its muzzle, tests the wind and turns its head toward you.
 
 # Dossier {#dossier}
 
-The brown bear represents apex predation in boreal and alpine regions: a creature of extraordinary size, strength, and predatory intelligence. Standing nine to thirteen feet tall on hind legs and weighing eight hundred to twenty-five hundred pounds, brown bears are the most dangerous large predators in the northern hemisphere. Unlike black bears, brown bears are highly territorial and are far more likely to defend territory and kills against any perceived threat. They are less commonly afraid of humans and more likely to attack on first encounter. Brown bears are solitary animals, typically only gathering during salmon runs or mating season, and they are more aggressive and less afraid than their black cousins. An adult brown bear has no natural predators; it competes only with other bears for resources. Adventurers in northern and alpine regions may encounter brown bears while crossing mountain passes, exploring highlands, fishing salmon-rich streams, or investigating sightings of unusually aggressive predators in settled areas.
+The Brown Bear is the largest hunter of the northern mountains and forests, eight hundred to twenty-five hundred pounds, nine to thirteen feet tall when it rears. It holds the mountain valleys and salmon streams of the [[place-nrdlndsrgn|Nordlands]], the deep taiga of [[place-vrystwald|Vrystwald]] and the high valleys of the [[place-graznmntns|Grazian Mountains]], alone, and defends its range and its kills against all comers. Unlike the black bear it seldom gives way to people and often attacks at the first meeting.
 
 ## Presentation
 
-A creature of overwhelming physical presence—a massively built quadruped standing on powerful legs, each paw the size of a human hand and armed with claws four to five inches long. The body is thick and muscular, covered in thick fur ranging from tan to dark brown, with longer guard hairs on the shoulders and neck creating a distinctive hump. The head is broad with a pronounced snout longer and more projecting than a black bear's, small dark eyes that miss nothing, and rounded ears set to the sides. The face often bears scars from battles with rival bears—this is normal and marks a successful male. When a brown bear rises on hind legs, it becomes a towering figure that can reach twelve to fourteen feet in height, muscles rippling beneath fur, the full gravity of its physical dominance apparent. The smell is distinctive and carries for considerable distances: a musky, wild odor mixed with earth and the particular scent of whatever food the bear has recently consumed.
+A massive, thick-bodied bear on powerful legs, each paw the size of a human hand and armed with claws four to five inches long. The fur runs from tan to dark brown, with long guard hairs over the shoulders that raise a hump. The head is broad, with a longer, more projecting snout than the black bear's, small dark eyes and rounded ears. Old males carry scars on the face from fights with rivals. Reared up, a bear reaches twelve to fourteen feet. It smells of musk, earth and whatever it has last eaten.
+
+## In the Land
+
+Brown bears hold the mountain forests and river valleys of the [[place-nrdlndsrgn|Nordlands]], the deep taiga and uplands of [[place-vrystwald|Vrystwald]], and the high valleys of the [[place-graznmntns|Grazian Mountains]]. A big male ranges over several valleys and a stretch of river, and fishes the same run each summer. They are most numerous where salmon spawn and the berries are thick, and they den through the winter in a cave or under a fallen tree on a north slope.
 
 ## Key Behaviors
 
-Brown bears are fierce, solitary predators with massive territories spanning multiple valleys or coastal regions. A dominant male may control fifteen to fifty square miles of territory, chasing away all competitors including other males and most females. They are seasonal creatures: in summer they feast intensely on salmon, berries, and vegetation; in autumn they gorge themselves preparing for hibernation; in spring they emerge lean and aggressive, having lost a substantial portion of body weight during their winter torpor. During salmon runs, brown bears congregate in tight groups along streams—tolerance increases somewhat, but dominant individuals still claim the best fishing spots and the right to harass subordinates. A female with cubs is the most dangerous bear configuration—the ferocity with which she defends them is absolute. Brown bears have exceptional memories and will remember the locations of previous kills, salmon runs, and territorial boundaries across seasons and years. An individual that has successfully defended a food cache or deterred a human will become progressively bolder, learning that aggression works and escalating threat displays into attacks.
+A dominant male holds fifteen to fifty square miles, driving out other males and most females. Summer is spent on salmon, berries and green food, autumn on gorging for the winter sleep, and spring on recovering, when the bears come out lean and savage. At the salmon runs bears crowd along a stream and tolerate each other, though the largest keep the best spots. A sow with cubs is the most dangerous of all. Bears remember kills, runs and boundaries from year to year, and one that has defended a cache or driven off a person grows bolder.
+
+## What the Hunters Do
+
+The Varokh hunt the brown bear last, and only after elk and boar fail, since a bear takes the lives of hunters. The bear wesk is kept by villages such as Mahnwald and Weskstein, whose rites bar the killing of a bear in the village's own woods. In the Nordlands a bear-hunt is a clan matter, with the clan's best spearmen and a rope-line of dogs, and the man who gives the killing thrust takes the claws. The Grazian guides carry noise-makers and keep their goats penned at night in bear country. The hide goes to the clan chief, and the fat to the sick.
+
+## Signs
+
+- Tracks as long as a forearm, with five toes and claw-marks well forward, pressed deep into a stream bank.
+- A tree stripped of bark to twice a man's height, with deep claw-scores and a rubbing-patch of brown hair.
+- A salmon carcass picked clean at the head and flung aside on a rock.
+- A stone turned or a log shredded, with the insects gone, and the pieces cast several yards away.
+- A broad trail through the berry thicket, with branches broken at chest height.
 
 ## Combat Strategy
 
@@ -274,11 +290,11 @@ Using its full weight, the bear may simply throw itself atop a knocked-down oppo
 
 ### Overwhelming Strength and Resilience
 
-Brown bears possess not just large muscles but muscle density exceeding most predators. They can flip massive boulders to access grubs, move fallen trees, and physically overpower most animals of equivalent weight. Their bone structure is dense and robust, and wounds that would cripple human-sized creatures are mere minor injuries. They are less vulnerable to blood loss than mammals of similar size, possessing exceptional cardiovascular resilience.
+Brown bears possess not just large muscles but muscle density exceeding most predators. They can flip massive boulders to access grubs, move fallen trees, and physically overpower most animals of equivalent weight. Their bone structure is dense and robust, and wounds that would cripple human-sized creatures are mere minor injuries. They are less vulnerable to blood loss than mammals of similar size, possessing great cardiovascular resilience.
 
 ### Keen Senses and Territorial Memory
 
-A brown bear's sense of smell is even more acute than a black bear's—some evidence suggests they can smell food sources from twenty miles away on the wind. Combined with exceptional hearing and a territorial sense that allows them to remember landmarks and previous encounters, this makes brown bears extremely effective predators. They remember productive hunting locations, territorial boundaries, and previous human encounters with remarkable precision.
+A brown bear's sense of smell is even more acute than a black bear's—some evidence suggests they can smell food sources from twenty miles away on the wind. Combined with keen hearing and a territorial sense that allows them to remember landmarks and previous encounters, this makes brown bears extremely effective predators. They remember productive hunting locations, territorial boundaries, and previous human encounters with great precision.
 
 ### Thick Hide and Fur Insulation
 

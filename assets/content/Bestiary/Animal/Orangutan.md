@@ -425,19 +425,35 @@ sohl:
 
 ![[orngtn|Orangutan]]{float=top-left}
 
-The canopy ahead erupts with sound — the creak of straining wood and the rustle of leaves as something massive shifts weight between branches. A shape moves in the dappled shadow above, reddish-brown and impossibly long-armed, studying you with an intelligence that seems almost unsettling in an animal. You catch the rich, earthen smell of the forest mixed with something musky and alive. The creature reaches overhead, arm extending nearly twice the length of its heavy body, and settles onto a thicker branch with a confidence that suggests it has never feared a fall.
+Fruit-skins and seeds drop through the leaves onto the forest floor in front of you. Forty feet up, along a branch of the fig, a huge red-orange shape moves with a deliberate, hand-over-hand patience. Its arms hang in loops, and its leathery face turns, large and grave, with deep-set eyes that regard you for a long while. It does not hurry. Then it goes back to choosing a fig.
 
 # Dossier {#dossier}
 
-The orangutan is a highly intelligent forest ape inhabiting dense rainforest canopies across distant, untamed lands. These solitary, contemplative creatures are peaceful herbivores that will only turn violent when threatened directly or if their young are endangered. Adventurers are likely to encounter them while navigating jungle ruins, gathering rare forest plants, or being misdirected by guides into inhabited territory.
+The Orangutan is the red forest ape of the southern forests of [[place-vedyarargn|Vedyara]], five to six feet tall with arms that span up to ten feet, living alone in the high canopy. It is gentle, thoughtful and very intelligent, and violent only when it is attacked or its young are in danger. It spends nearly its whole life in the trees and comes to the ground only to cross between patches of forest or to drink.
 
 ## Presentation
 
-The orangutan stands 5 to 6 feet tall but appears even larger due to its extraordinarily long arms, which can span up to 10 feet from fingertip to fingertip. Its body is covered in coarse, reddish-brown to deep orange fur that becomes thicker and darker with age. The face is distinctive — large, leathery, and expressive, with deep-set intelligent eyes that shift from dark brown to amber. The hands and feet are large and dexterous, with opposable thumbs and powerful gripping strength. Adult males often develop a pronounced shoulder hump and throat pouch that deepens their vocalizations into resonant, haunting calls that echo through the forest canopy.
+A big ape that looks bigger because of the arms, which can span up to ten feet from fingertip to fingertip. The fur is coarse, reddish brown to deep orange, thicker and darker with age. The face is large, leathery and expressive, with deep-set, intelligent eyes that shift from dark brown to amber. The hands and feet are large and clever, with opposable thumbs and a powerful grip. Old males grow a shoulder hump and a throat pouch that deepens their calls into a resonant sound that echoes through the canopy.
+
+## In the Land
+
+Orangutans live high in the canopy of the great forests of southern [[place-vedyarargn|Vedyara]], where the fig, the durian and the jackfruit fruit in turn through the year. An animal keeps a large range, alone, moves from tree to tree by swinging and climbing and rarely comes to the ground. Each evening it builds a new nest of folded branches in a fork, high up, and it rests through the rains under a roof of leaves.
 
 ## Key Behaviors
 
-Orangutans are fundamentally solitary creatures that maintain large territorial ranges, defending trees rich in fruit through solitary dominion rather than aggression. They spend nearly their entire lives in the trees, descending to ground level only to move between forest patches or to drink. These creatures are contemplative and methodical, often spending hours examining and carefully extracting insects from bark crevices or studying a fruit tree to determine the ripest picks. They are highly intelligent, capable of recognizing individual humans and remembering encounters over years. Mothers fiercely protect offspring for six to seven years, teaching them navigation, foraging, and survival skills with patience and care.
+Orangutans live alone, each holding a large range and its fruit trees, which it holds by presence rather than by fighting. They spend hours picking insects from the bark or studying a tree to choose the ripest fruit. They recognize individual people and remember them for years. A mother keeps her young one for six or seven years, teaching it to find its way, to forage and to survive.
+
+## What the Forest Villages Do
+
+The forest villages call the orangutan the old man of the trees and leave it alone. They do not hunt it, and a woodcutter who finds one in a tree he has marked takes another. Fruit-gatherers know the tree an animal is working by the rain of skins and seeds beneath it. A mother with a young one is given plenty of room. Hunters who take the young for a menagerie find that the mother follows for days. The orangutan is gentle until a young animal is threatened.
+
+## Signs
+
+- A rain of fruit-skins and seeds dropping from a tree-crown onto the path.
+- A nest of folded branches in the fork of a high tree, fresh green at the edges.
+- A long, rolling call that rises and breaks off, from deep in the forest at dawn.
+- A branch bending under a great red-brown shape that moves slowly and deliberately.
+- A fig or jackfruit with one bite taken, thrown on the ground.
 
 ## Combat Strategy
 
@@ -461,7 +477,7 @@ If a grapple is successful, the orangutan may bite at exposed flesh, particularl
 
 ### Arboreal Mastery
 
-The orangutan moves through the forest canopy with effortless grace and speed that defies gravity. It can brachiate across gaps, swing in complex patterns, and position itself on branches humans cannot reach, giving it unmatched tactical mobility in forest combat. In the trees, it gains advantage on agility and climbing checks.
+The orangutan moves through the forest canopy with effortless grace and speed that defies gravity. It can brachiate across gaps, swing in complex patterns, and position itself on branches humans cannot reach, giving it unmatched tactical mobility in forest combat. In the trees it moves faster and more surely than any person.
 
 ### Incredible Strength
 

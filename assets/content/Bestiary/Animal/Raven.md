@@ -231,19 +231,35 @@ sohl:
 
 ![[raven|Raven]]{float=top-left}
 
-The bird tilts its head, watching you with an intensity that feels almost aware, almost calculating. Its feathers are an absolute black, light-devouring obsidian, yet they seem to shimmer with hints of deep purples and greens as the bird shifts. A sound emerges from its throat — not quite a caw, more a ragged croak that sounds disturbingly like a word, barely formed. The beak works methodically, clicking and clacking, and you realize the raven is examining you the way a scholar might examine an artifact, as if considering your value, your weakness, your utility. There is something in that gaze that speaks of intelligence that should not belong to a mere bird.
+Two big black birds are sitting on the broken wall above the ford. Everything about them is black, the feathers, the heavy beak, even the eyes, so that they look like holes cut in the sky. One of them tilts its head and examines you with a depth of attention that is not like a bird's. It says something in a low, rolling croak. Then both lift off the wall together and follow the road ahead of you.
 
 # Dossier {#dossier}
 
-The raven is a large, highly intelligent bird standing 20-25 inches tall with a wingspan of 3.5-4 feet, distinguished by its entirely black plumage, thick neck, and heavy beak. These adaptable creatures are found throughout the world, thriving in almost every environment from deep wilderness to crowded urban centers, often occupying an uncomfortable middle ground between wild animal and civilized bird. Adventurers encounter ravens frequently — as companions to hermits and sorcerers, as messengers in civilized lands, as harbingers in places of death and darkness, or simply as scavengers following armies and caravans.
+The Raven is the large black bird of the north, twenty to twenty-five inches tall with a wingspan of three and a half to four feet, living in the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands]], the forests of [[place-vrystwald|Vrystwald]] and the mountains of the Grazian range. It is clever, curious and a scavenger, and follows armies, hunts and caravans. Ódvar's two ravens, [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]], are read as messengers and teaching figures.
 
 ## Presentation
 
-The raven's most striking feature is its absolute blackness — feathers that seem to absorb light, creating a silhouette that stands in stark relief against almost any background. The head is proportionally large, with a powerful beak that can pierce leather and crack bone, and dark eyes that hold an unnerving depth of understanding. The neck is thick and capable of turning to nearly impossible angles, allowing the raven to observe from every direction. The wings are broad and powerful, allowing swift flight and surprising maneuverability despite the bird's solid build. The feet are strong and capable of gripping, clutching, or perching indefinitely on harsh surfaces.
+A big bird, entirely black, in feathers that seem to take in the light. The head is large, with a powerful beak that can pierce leather and crack bone and dark eyes with an unsettling depth. The neck is thick and turns to nearly impossible angles. The wings are broad and strong, allowing swift flight and nimble turns. The feet are strong and can grip, clutch or perch indefinitely on rough ground.
+
+## In the Land
+
+Ravens live across the cold north: the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands]], the forests of [[place-vrystwald|Vrystwald]] and the mountains of the Grazian range, and they follow armies, hunts and herds for what is left. A pair holds a crag or a tall tree for life and adds to the nest each year. In winter they gather in flocks at carcasses, dumps and the edges of villages.
 
 ## Key Behaviors
 
-Ravens are profoundly intelligent — capable of learning commands, recognizing individual humans, remembering locations of food sources months after a single visit, and even using basic tools. They are highly social birds that maintain complex family bonds and community structures, with ravens communicating through dozens of distinct vocalizations. Ravens are scavengers with an impressive range of diet, eating nearly anything that might provide sustenance, but they are also opportunistic hunters capable of taking small animals. They are fascinated by shiny objects and will steal, cache, and recall the locations of interesting items. Ravens are curious to an almost compulsive degree and will investigate anything novel in their territory. When nesting, ravens become fiercely defensive and protective of eggs and young.
+Ravens learn commands, recognize individual people, remember food-places for months after one visit and use simple tools. They live in families and communities and speak in dozens of calls. They eat nearly anything, scavenge and take small animals. They steal, hide and remember shiny things, and inspect anything new in their ground. At the nest they defend eggs and young fiercely.
+
+## What the Nordmen Do
+
+Ódvar keeps two ravens, [[lore-hugvin|Hugvin]] for thought and [[lore-munvin|Munvin]] for memory, and the Nordmen read the black birds that follow the host as a sign. A raven over a field of battle is a welcome sight, since it shows the dead will be seen to. Farmers dislike the flocks, and shepherds watch for them at lambing, when they take the eyes of a weak lamb. Ravens learn the faces of people who have wronged them, and can be taught to speak a few words. The black feathers are used in fletching and as charms.
+
+## Signs
+
+- A deep, croaking call from a crag, answered from another.
+- A pair of black birds tumbling and rolling in the air above a ridge.
+- A circle of ravens on the snow around a carcass, hopping and waiting for a wolf to finish.
+- A large, black bird on a gallows or a gravestone that watches the road.
+- A big stick nest on a ledge, lined with wool and hair.
 
 ## Combat Strategy
 

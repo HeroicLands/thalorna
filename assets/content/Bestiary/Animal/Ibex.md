@@ -242,29 +242,35 @@ sohl:
 
 ![[ibex|Ibex]]{float=top-left}
 
-You see it on the cliff face and your first thought is that it cannot possibly be standing where it is standing. The ledge — if it can be called a ledge — is no wider than your hand, angled at thirty degrees above a drop that would kill anything that fell from it. The ibex stands there as comfortably as you would stand on a road, one foreleg casually folded, chewing a mouthful of scrub torn from a crack in the rock. The horns are enormous — great sweeping curves of ridged bone that arc backward over the shoulders, seeming far too heavy for the narrow, agile body that carries them. It regards you from its impossible perch with the calm superiority of something that lives in a world with an extra dimension you cannot access. Then it turns and walks up the cliff face — up, on a surface that looks vertical from where you stand — hooves finding purchase on holds you cannot even see, and within moments it has disappeared over the rim into a landscape of rock and sky where you will never be able to follow.
+The cliff above the water-hole looks empty until a stone rattles down and you see the ledge, no wider than your hand, and the animal standing on it. It is a heavy, dun-colored goat with horns sweeping back from its forehead in a ridged crescent as long as its body. It looks down at you without alarm. Then it steps up the rock face, as lightly as another animal would cross a floor, and is gone over the lip.
 
 # Dossier {#dossier}
 
-The Ibex is the wild goat of the desert mesas, wadis, and mountain escarpments — a medium-sized, powerfully built caprid found on the cliff faces, rocky plateaus, and canyon systems that punctuate the desert landscape. An adult male stands two and a half to three feet at the shoulder and weighs a hundred to two hundred and seventy pounds, with females somewhat smaller. The ibex is the supreme specialist of vertical terrain — capable of ascending and descending rock faces that would challenge experienced human climbers, traversing ledges narrower than its own hooves, and leaping between surfaces with a precision and confidence that borders on the supernatural. This mastery of the vertical makes the ibex effectively immune to predation in its preferred habitat; no lion, cheetah, or wolf can follow where an ibex goes, and the few predators that can climb — leopards, eagles — find the ibex's alertness and agility make it a poor investment of effort.
-
-In desert culture, the ibex is a symbol of the wild places — the mesas and canyons that the nomads travel past but do not inhabit. Ibex horns are prized trophies, displayed in the tents of successful hunters, and ibex hunting is considered one of the great tests of desert skill — not because the animal is particularly dangerous, but because reaching it in its cliff-face habitat requires climbing ability and mountain knowledge that few lowland nomads possess. The rocky escarpments where ibex live are also frequently sites of spiritual significance — sacred caves, ancient rock paintings, and pilgrimage destinations — and the ibex's presence at these sites reinforces its association with the liminal spaces between the human world and the divine.
-
-Adventurers encounter ibex on cliff faces, mesa tops, in rocky canyon systems, and at the few water sources that emerge from the base of desert escarpments. They are also occasionally found in ruined structures built into cliff faces — the ibex's indifference to height and its attraction to the mineral-rich mortar of old stonework make it a common inhabitant of exactly the kinds of ancient, elevated ruins that adventurers tend to explore.
+The Ibex is the wild goat of the cliffs, mesas and canyons, two and a half to three feet at the shoulder and a hundred to two hundred seventy pounds, climbing rock faces that would stop a human climber. It lives on the mesas and cliffs of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar, the ravines of the Khazryn Dikraqor and the high cliffs of the [[place-graznmntns|Grazian Mountains]]. No lion, cheetah or wolf can follow it up, and leopards and eagles find it too alert to be worth the effort. The nomads see it as a symbol of the wild places they travel past and do not inhabit.
 
 ## Presentation
 
-A compact, muscular goat with a body built for climbing — deep-chested, short-backed, and carried on relatively short, powerful legs. The coat is short and coarse, varying from sandy brown to gray-brown in summer and thickening to a darker, denser winter coat in cold months. Males carry a short, dark beard and a ridge of longer hair along the spine. The hooves are the ibex's defining anatomical feature — broad, with a hard outer rim that grips rock edges and a soft, flexible inner pad that conforms to irregular surfaces, providing traction on terrain where any other hoof would slip. Each hoof functions like a specialized climbing shoe, distributing the animal's weight precisely and finding purchase on holds measured in fractions of an inch.
+A compact, muscular goat with a deep chest, a short back and short, powerful legs. The coat is short and coarse, sandy brown to gray-brown in summer and darker and thicker in winter. Males have a short dark beard and a ridge of longer hair along the spine. The hooves have a hard outer rim that grips rock edges and a soft inner pad that fits uneven surfaces. The horns of the male are thick, heavily ridged crescents sweeping back for three or four feet along the curve, one ridge for each year of growth. The female's are shorter and thinner. The eyes are dark, wide-set and the ears are short and mobile.
 
-The horns of the male are spectacular — thick, heavily ridged crescents that sweep back from the forehead in a long, curving arc, sometimes reaching three to four feet along the outer curve. The ridges are pronounced, each one representing a year of growth, giving the horns the appearance of segmented, sculpted bone. Female horns are much shorter and thinner but still present. The head is relatively narrow with a straight profile, large dark eyes set wide for excellent peripheral vision (essential for spotting predators while climbing), and short, mobile ears. The overall impression is of an animal that appears top-heavy — those massive horns on a body built for agility — yet moves through vertical terrain with an ease that makes the weight seem irrelevant.
+## In the Land
+
+Ibex live on the cliff faces, mesa tops and canyon walls of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar, the ravines of the Dikraqor in the [[place-khzryndsrtrgn|Khazryn]] and the high cliffs of the [[place-graznmntns|Grazian Mountains]]. Does and kids keep to the best ledges in herds, and bucks live apart on the neighboring slopes. They come down to water at night and climb back to the rock at first light.
 
 ## Key Behaviors
 
-Ibex are social animals, forming sex-segregated groups for most of the year — female herds with kids occupying the best cliff-face habitat, bachelor male groups living on adjacent terrain — that come together during the winter rut. Males establish dominance through spectacular horn-clashing contests: two bucks rear on their hind legs and crash together headfirst, the impact of horn on horn producing a crack that echoes across canyons. These contests can continue for hours, the bucks rearing and colliding repeatedly until one concedes, and the sound draws spectators — both ibex and human — from considerable distance.
+Ibex live in groups of the same sex for most of the year, females and kids on the best cliffs and bachelor males on the ground nearby, and come together for the winter rut. Bucks settle rank by rearing and crashing headfirst, with a crack that echoes through the canyons, for hours at a time. They feed in the cool hours on the tough plants of crevices, ledges and mesa tops and come down to water at night. Their defence is to go up where nothing can follow. Kids climb within days of birth. They need water more often than oryx or gazelle, which ties them to ground near springs.
 
-Ibex are primarily crepuscular, feeding during the cooler hours on the sparse vegetation that grows in rock crevices, cliff-face ledges, and the thin soil of mesa tops: tough grasses, herbs, lichens, and the leaves of scrubby trees and bushes. They descend to lower elevations and water sources during the night, when predator activity is harder to detect, and retreat to the safety of the cliff faces during the day. They are surprisingly water-efficient for a non-desert-specialist, but do need to drink more frequently than oryx or gazelles, which ties them to terrain near permanent or semi-permanent water sources.
+## What the Hunters Do
 
-Their anti-predator strategy is simple and nearly foolproof: go somewhere the predator cannot follow. At the first sign of danger, ibex move upward and onto steeper terrain, quickly reaching positions where nothing without their specialized hooves can maintain footing. Kids are capable of navigating challenging cliff terrain within days of birth, an urgency driven by the predation pressure that targets the brief vulnerable period before they develop full climbing competence.
+To hunt an ibex a hunter needs climbing skill and mountain-sense that few lowland nomads have. A successful hunter hangs the horns in his tent. The mesa tribes cross the canyons without living in them, and treat the escarpments as wild ground. Ibex are drawn to the old stonework of ruins cut into cliff faces, and travelers exploring such a ruin find hoof-prints on the stairs. Ibex meat is dried for the road, the hide is made into waterskins, and the horns are cut into cups and rings.
+
+## Signs
+
+- A row of small, sharp hoof-prints on a bare rock ledge, higher than a person can easily reach.
+- A crack like a stone breaking, echoing down a canyon, as two bucks meet head on.
+- Dung pellets scattered on a cliff terrace, and a faint, goaty smell.
+- A sudden clatter of stones falling from a face, and a line of animals moving up it.
+- A lone animal with great ridged horns, motionless on a pinnacle against the sky.
 
 ## Combat Strategy
 
@@ -280,7 +286,7 @@ The male ibex lowers its head and charges, driving the heavy, ridged horns into 
 
 ### Cliff-Edge Knockback
 
-In its preferred terrain, the ibex does not need to injure an attacker — merely displacing them is lethal. A charging horn-butt or a shouldering shove from an ibex on a narrow cliff ledge can knock a human-sized target off the edge. The ibex's superior footing and balance give it an enormous advantage in these encounters, and it seems to understand this intuitively.
+In its preferred terrain, the ibex does not need to injure an attacker — merely displacing them is lethal. A charging horn-butt or a shouldering shove from an ibex on a narrow cliff ledge can knock a human-sized target off the edge. The ibex's superior footing and balance make it very hard to dislodge in these encounters, and it seems to understand this intuitively.
 
 ## Special Abilities
 

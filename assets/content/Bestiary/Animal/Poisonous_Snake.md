@@ -151,19 +151,35 @@ sohl:
 
 ![[psnssnk|Poisonous Snake]]{float=top-left}
 
-Movement catches your eye — the subtle shift of coiled muscle beneath patterned scales, a ripple across sun-warmed stone. The snake lifts its head, and suddenly a forked tongue tastes the air, searching for your scent. Its unblinking eyes, vertical-pupiled and ancient-seeming, track your position with predatory focus. A faint hiss emerges, and you notice the slight widening of the neck — a warning display. The smell of musk and something sharp hangs in the air, and the temperature of the ground beneath the creature seems wrong somehow, as if its presence drains warmth.
+The flat stone in the sun has a faint pattern on it that was not there a moment ago. It moves: a loop of body no thicker than your wrist lifts from the rock, brown and gray with darker banding, and a flat, triangular head slides out of it. A forked tongue flicks twice, testing. There is a dry, rasping hiss, and the head draws back into an S, level with your boot.
 
 # Dossier {#dossier}
 
-Poisonous snakes are efficient ambush predators equipped with specialized venom delivery systems, ranging in size from three to six feet in length and varying dramatically in coloration depending on species and regional origin. These creatures are found in diverse habitats from dense forests to rocky badlands, always occupying niches where patient hunting and quick strikes provide advantage. An adventuring party might encounter them while moving through underbrush, entering caves or ruins, or traversing warm climates where the creatures hunt most actively.
+Venomous snakes are the ambush hunters of the warm country, three to six feet long, lying coiled in the rocky gorges and thorn scrub of the Byzarian [[place-southrnmrch|Southern March]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]], the rock country of the [[place-dunhardsrtrgn|Dunhara Desert]] and the forest floor of wetter lands. The coloring depends on kind and country. A snake waits motionless for hours beside a game-trail for something to come within reach, and a bite from one can kill.
 
 ## Presentation
 
-A poisonous snake's appearance reflects its environment and species — some display brilliant warning colors of red, yellow, and black in bold banding patterns, while others wear subtle earth tones, stripes, or mottling that render them nearly invisible against stone or dry vegetation. The head is typically triangular or spade-shaped, with the positioning of the eyes giving it monocular vision and a flat, predatory gaze. Scales vary from smooth and shining to keeled and dull, depending on species. The body tapers gradually to a tail, which in some species ends in a rattle or vibrates when threatened. The mouth is capable of unhinging to swallow prey whole or deliver venom through specialized fangs (either grooved or hollow).
+A snake's look follows its kind and country: some wear bold red, yellow and black bands as a warning, others the earth tones, stripes or mottling that make them hard to see against stone or dry plants. The head is triangular or spade-shaped, with eyes set for a flat, predatory stare. The scales are smooth and shining or keeled and dull. The body tapers to the tail, which in some kinds ends in a rattle or shakes when the snake is threatened. The venom is delivered through grooved or hollow fangs.
+
+## In the Land
+
+Venomous snakes lie in the rocky gorges and thorn scrub of the Byzarian [[place-southrnmrch|Southern March]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]], the rock country of the [[place-dunhardsrtrgn|Dunhara Desert]] and the forest floor of the wetter countries. A snake lies in one spot for hours or days beside a game-trail, under a rock or a fallen log, and moves little in the cold. It hunts at dusk and in the first hours of dark.
 
 ## Key Behaviors
 
-Poisonous snakes are ambush specialists that spend hours or days in a single location, waiting for suitable prey to pass within striking distance. They are most active during warm daylight or early evening hours and slow considerably when temperatures drop. These creatures are fundamentally solitary and territorial, with most species tolerating one another only during mating seasons. They hunt primarily through vibration sensing and scent — the flickering forked tongue draws chemical particles from the air and ground, processed through a vomeronasal organ that provides a "taste" of the creature's surroundings. Snakes are patient to a degree that defies human understanding; they may fast for weeks between meals and spend the intervening time in near-total stillness.
+Venomous snakes lie in wait for hours or days in one spot. They are active in warm daylight and early evening and slow in the cold. They live alone and hold ground, tolerating each other only in the mating season. They hunt by vibration and scent, tasting the air and ground with the tongue. They can fast for weeks between meals and spend the time almost motionless.
+
+## What the Herders Do
+
+Herders and field-workers wear high boots and watch where their hands and feet go. A bitten limb is bound above the wound, washed and kept still, and the victim is taken to a healer; the herb-wives of the hill villages keep remedies in their stores. Children are told to turn a stone over with a stick. A house with a bad name for snakes is kept clear of woodpiles and old thatch. A snake killed in the yard is burnt, and the head buried.
+
+## Signs
+
+- A slender S-shaped track across a dusty patch, with a smooth edge.
+- A dry, rasping hiss from the rock beside a path.
+- A shed skin, whole and thin as paper, caught in a bush.
+- A dead mouse or lizard by a log, stiff and swollen.
+- A coiled shape in the sun on a stone wall that is gone when looked at again.
 
 ## Combat Strategy
 
@@ -191,11 +207,11 @@ The snake's venom is produced in specialized glands and delivered through precis
 
 ### Thermal Sensing
 
-Some poisonous snakes (particularly pit vipers) possess specialized heat-sensing pits along their jaws that allow them to detect warm-blooded creatures in complete darkness, giving them a significant hunting advantage in caves, thick vegetation, or at night.
+Some poisonous snakes (particularly pit vipers) possess specialized heat-sensing pits along their jaws that allow them to detect warm-blooded creatures in complete darkness, which helps them hunt in caves, thick vegetation, or at night.
 
 ### Rapid Strike Reflexes
 
-The snake's entire body is built for explosive acceleration. It can strike from coil to full extension in a fraction of a second, making it exceptionally difficult to dodge or prevent the bite once the creature has positioned itself for attack.
+The snake's entire body is built for explosive acceleration. It can strike from coil to full extension in a fraction of a second, making it very difficult to dodge or prevent the bite once the creature has positioned itself for attack.
 
 ### Camouflage
 

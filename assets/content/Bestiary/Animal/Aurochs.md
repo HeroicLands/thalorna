@@ -242,19 +242,35 @@ sohl:
 
 ![[aurochs|Aurochs]]{float=top-left}
 
-The ground trembles before you see it. A mountain of muscle and matted fur emerges from the grassland, shoulders heaving with each labored breath. The reek of musk and wet earth fills the air as the creature tilts its massive head, revealing horns the length of a man’s arm, sharp as spear points and darkened with use. Its pale underbelly stripe gleams against its coal-black hide, and the sound it makes—a low, rumbling snort—vibrates through your bones.
+The grass ahead is trampled flat in a swath wide enough for a wagon, and the dung along it is steaming. A long way off on the plain a dark line of backs lifts out of the grass, and the nearest of them raises a head with horns as long as your arm and a pale stripe running from shoulder to rump. The bull blows once, and the smell of musk and wet earth reaches you on the wind.
 
 # Dossier {#dossier}
 
-The Aurochs is the apex of wild bovine evolution: a creature of prehistoric power and untamed temperament. Standing over six feet tall at the shoulder and weighing upward of two thousand pounds, these massive cattle haunt grasslands and sparse forests across multiple continents. They are rarely encountered singly; where one Aurochs appears, others linger nearby. Adventurers pursuing lost herds, investigating trampled settlements, or seeking to prove their prowess may cross paths with these formidable creatures.
+The Aurochs is the great wild ox of the open grassland, over six feet at the shoulder and upward of two thousand pounds, black, with a pale stripe along the back. Herds graze the forest-steppe of [[place-velanthrgn|Velanthia]] and the clearings at the southern edge of [[place-vrystwald|Vrystwald]], keeping to the river meadows and the steppe margin where the plough has not reached. A herd keeps together, and where one cow is seen the rest are grazing close by.
 
 ## Presentation
 
-A colossal creature built on a framework of iron sinew and dense bone. Shaggy black hair, four to six inches thick, covers its body except for a distinctive cream or pale gold stripe running from shoulder to rump, which stands out starkly against the dark coat. Its curving horns arc outward and upward, each measuring three to four feet long, with a wickedly sharp point and a slightly forward hook. The nose is broad and square, capable of snorting clouds of dust when agitated. Its hooves are the size of a man’s clenched fist. The creature’s eyes, small relative to its head size, miss little movement in its environment.
+A huge, black ox on a frame of iron sinew and heavy bone. Shaggy hair four to six inches long covers the body except for a cream or pale gold stripe from shoulder to rump. The horns curve outward and up, three to four feet long, with a sharp point and a slight forward hook. The muzzle is broad and square, and snorts up dust when the animal is angry. The hooves are as big as a man's fist, and the small eyes miss little.
+
+## In the Land
+
+Aurochs herds graze the forest-steppe of [[place-velanthrgn|Velanthia]], where the black-earth grain belt breaks into river meadow, and the open clearings along the southern edge of [[place-vrystwald|Vrystwald]]. A herd keeps to a range of several valleys, moving between summer meadow and winter forest by the same routes each year. Plough-land and villages push the herds back to the river bottoms and the steppe margin, and a herd in the grain belt is nearly always one that has been driven there.
 
 ## Key Behaviors
 
-Aurochs maintain small, matriarchal herds of four to twelve individuals. They spend most daylight hours grazing in open grasslands where they can watch for threats, seeking denser forest cover only during the hottest parts of summer or when predators become uncomfortably persistent. Cows with calves are extraordinarily aggressive and will defend their young against anything, including much larger predators. Even solitary bulls will charge at what they perceive as territorial intrusion or disrespect. Despite their size and strength, Aurochs are not mindless brutes—they are intelligent enough to remember dangerous threats, avoid known hunting grounds, and modify their routes seasonally. A bull’s temperament depends heavily on season; during rutting months (late autumn), they become notably more irascible and dangerous.
+Aurochs live in small matriarchal herds of four to twelve. They graze in open grassland through the day, where they can see what approaches, and go into woodland only in the hottest weeks or when wolves are pressing. Cows with calves attack anything that comes near, including larger predators, and a lone bull charges what it takes for a rival. In the late autumn rut the bulls are at their worst. A herd remembers the places where it has been hunted, avoids them and changes its routes with the seasons.
+
+## What the Hosts Do
+
+The Velanthian Hosts keep their horses out of aurochs country in the autumn rut and drive a herd off the winter grain with fire and noise, since a bull will not be turned by a man alone. A bull taken in a hunt feeds a Host for a month. The horns are banded in silver and passed round the ataman's table, and the hide makes the best tent-covers on the frontier. Calves are left alone, because the cows follow a calf-taker for miles. Farmers on the river-prince estates fence their cattle away from wild herds, which will take a tame cow into the herd and keep her.
+
+## Signs
+
+- A wide, trampled swath through the long grass, with dung heaps the size of a cart-wheel along it.
+- Trees rubbed bare of bark at the height of a man's shoulder, with coarse black hair caught in the wood.
+- Hoof-prints as wide as a man's palm, deeper in the muddy ground of a drinking place.
+- A low rumbling snort from the edge of a thicket, and then the grass moving.
+- A bull's horn-scrapes on a fence-post at a farm that keeps no bull.
 
 ## Combat Strategy
 

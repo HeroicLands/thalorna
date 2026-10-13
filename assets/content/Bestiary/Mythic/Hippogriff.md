@@ -360,7 +360,7 @@ The hooked beak tears at whatever the talons have taken hold of, and takes the h
 
 ## Special Abilities
 
-### Exceptional Speed
+### Speed
 
 Nothing with wings but a dragon outflies a hippogriff. It comes in from a quarter nobody expected and is gone before the answer is made.
 

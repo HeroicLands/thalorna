@@ -232,19 +232,35 @@ sohl:
 
 ![[hrndtd|Horned Toad]]{float=top-left}
 
-The desert floor erupts with motion—a squat, armored shape surfacing from the sand like a spiky crown. Every inch of the creature bristles with sharp, bony protrusions that catch the sunlight. Its coloration blends so perfectly with the surrounding dunes that you almost missed it, and only the swift dart of its oversized eyes and the flick of a long, precise tongue give it away. The air carries a faint, metallic tang—old blood, perhaps. This is survival distilled into scales and spines.
+You take it for a stone until a pair of eyes swivel in different directions in the same stone. It sits flat on the gravel, four feet from nose to tail, tan and gray and dusty brown, with a crown of horns on its flat head and a row of spines down its back and ringed tail. A long, sticky tongue flicks out and returns, and an ant is gone.
 
 # Dossier {#dossier}
 
-The Horned Toad is a four-foot-long reptile perfectly adapted to harsh desert and badlands environments. Its body is a armor plating of jagged, bony protrusions that extend from its crown, back, and tail, serving both as defensive armor and as a warning to would-be predators. Its sand-colored scales and warty, irregular texture allow it to vanish against rocky or sandy terrain. Its eyes are large and independently mobile, providing nearly 360-degree vision.
+The Horned Toad is a four-foot desert reptile armored in jagged plates, living in the stony badlands and gravel flats of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar and the sand seas and mesas of [[place-chakultzklrgn|Ch'akul Tza'kul]]. It lies unseen against the ground and eats ants, beetles and small lizards. Its spines and its eyes make a stranger leave it alone.
 
 ## Presentation
 
-Horned toads are squat and heavily built, with short, powerful legs that allow them to move with surprising speed across desert terrain. Their heads are broad and flattened, crowned with a row of distinctive spikes and horns. The body tapers slightly toward a thick, muscular tail ringed with spines. The scales are dull and dusty in coloration—tan, brown, and gray with darker mottling—providing excellent camouflage. Their eyes are large, unblinking, and capable of swiveling to track movement in nearly any direction. A long, sticky tongue extends frequently, catching insects.
+A squat, heavy reptile on short, strong legs that carry it quickly over desert ground. The head is broad and flat, crowned with a row of horns and spikes, and the body tapers to a thick tail ringed with spines. The scales are dull tan, brown and gray with darker mottling and match the ground. The eyes are large, unblinking and swivel independently to cover nearly every direction. The tongue is long and sticky.
+
+## In the Land
+
+Horned toads live in the stony badlands and gravel flats of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar and the sand seas and mesas of [[place-chakultzklrgn|Ch'akul Tza'kul]]. A toad has a burrow under a rock or a bush and a small territory it patrols each day, and it eats ants, beetles and the smaller lizards. It stands motionless against the ground for hours, and its sand and gravel colors make it almost invisible.
 
 ## Key Behaviors
 
-Horned toads are primarily insectivorous, spending much of their day hunting small arthropods with their precise, rapid-fire tongue strikes. They are solitary and territorial, establishing home ranges that they patrol daily but remain in for extended periods. During extreme heat, they burrow into sand or hide beneath rocks to avoid dehydration and temperature extremes. They are most active during cooler mornings and evenings. When threatened, they exhibit a dramatic and effective defensive display: they can force blood to pool behind their eyes and spray it outward with surprising force and accuracy, creating a burst of crimson that startles and disorients predators.
+Horned toads eat small arthropods, striking with the tongue in rapid shots, through most of the day. Each holds a home range that it patrols daily. In extreme heat it burrows into the sand or hides under rocks, and it is active in the cooler mornings and evenings. Threatened, it forces blood into the sinuses behind its eyes and sprays it out with force and accuracy in a crimson burst that startles and disorients an attacker.
+
+## What the Nomads Do
+
+The nomads walk round the stony ground where they know one lives, and a camel will not be led across it. They do not eat the flesh, and the tribes of Dunhara cut horns from the plates for amulets. A bitten animal is led to water and rested. Children are shown how to find a toad by its shadow, and told not to pick one up. Prospectors in the badlands sleep with their boots upside down.
+
+## Signs
+
+- A rock that is not a rock, with a hooked row of spines, sitting on the flat.
+- A small, deep pit at the base of a shrub, with a smooth tail-drag leading to it.
+- A line of ants running to one point and vanishing.
+- A dog yelping and backing away from a stony patch, its face wet.
+- A tail-track like a broom handle dragged through gravel.
 
 ## Combat Strategy
 

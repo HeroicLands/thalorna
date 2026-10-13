@@ -425,19 +425,35 @@ sohl:
 
 ![[gorilla|Gorilla]]{float=top-left}
 
-The sound comes first—a deep, reverberating roar that makes your bones vibrate. The gorilla steps into view, and your perspective on size recalibrates. The creature stands nearly eight feet tall, and the sheer density of muscle across its chest and arms is overwhelming. The dark hair is thick and coarse, and across the back and shoulders you see the distinctive silvering that marks an alpha male. The eyes are deeply set but expressive, burning with intelligence and protective fury. The arms are disproportionately massive, hanging partway down the legs. Then the gorilla beats its chest—a thunderous percussion that echoes across the landscape—and the display is so perfectly timed to the roar that you understand you are witnessing a creature asserting absolute dominion over its territory.
+The undergrowth ahead of you is being crushed flat by something heavy and slow. A strong, musty smell like a stable comes down the slope. Then a great black shape rises at the edge of the thicket, seven feet tall, with a silver saddle across its back and arms that hang to its knees. It stands very still, looking at you under a heavy brow, and then it drums its chest, a hollow, ringing sound that goes on and on.
 
 # Dossier {#dossier}
 
-The Gorilla is a massive, supremely intelligent primate that lives in family groups (troops) centered on an alpha male (the silverback). These are generally peaceful herbivores that cause little trouble unless provoked or unless their group is threatened. However, a silverback defending its troop is a nightmare of muscle and determination—capable of matching or exceeding humanoid warriors in physical combat. Adventurers most commonly encounter gorillas when exploring deep jungles or when trespassing into territory the gorillas claim.
+The Gorilla is the great ape of the mountain forests, living in troops of eight to fifteen led by an old male, the silverback. The troops live on the cool, wet slopes of the [[place-cntrlrnfrsts|Central Rainforests]], feeding on leaves, stems and fruit. They are peaceful and cause no trouble until they are provoked or their troop is threatened, and then a silverback is a match for armed men.
 
 ## Presentation
 
-A mature silverback gorilla is an overwhelming physical presence. The creature stands seven to eight feet tall and can weigh several hundred pounds, nearly all of it muscle and bone. The body is powerfully built with an upright or semi-upright posture, long arms that hang nearly to the knees, and legs built to support the immense weight. The hair is dark brown or black, with the characteristic silvering across the back and shoulders that marks a mature male. The face is distinctly primate in structure, with deep-set eyes, a broad nose, and prominent teeth. The hands are large with powerful fingers and opposable thumbs. The overall impression is of a creature that is not humanoid but not fully animal either—something caught in between, possessed of remarkable intelligence and emotional complexity.
+A silverback is seven to eight feet tall and several hundred pounds, nearly all of it muscle and bone, with an upright or half-upright stance, arms hanging almost to the knees and legs built to take the weight. The hair is dark brown or black, silver across the back and shoulders of a mature male. The face is deep-set, with a broad nose and prominent teeth. The hands are large and strong, with opposable thumbs. It is neither a man nor wholly a beast, and has a depth of feeling that shows in its face.
+
+## In the Land
+
+Gorillas live in the montane forest and the cool, wet slopes of the [[place-cntrlrnfrsts|Central Rainforests]]. A troop of eight to fifteen, led by a silverback, ranges over a few square miles of forest in a day, feeding on leaves, stems and fruit, and building a fresh nest of bent branches each night. They move to the lower forest in the dry season. They keep away from the river-bottoms, where the leopards and the tribes are.
 
 ## Key Behaviors
 
-Gorillas live in social groups of eight to fifteen individuals led by a dominant silverback male. The group spends most of the day foraging for vegetation, fruits, and leaves in a defined territory. They are primarily diurnal and follow established movement patterns within their range. They communicate through vocalizations, gestures, and displays, and there is clear social hierarchy and affection within groups. Silverbacks are highly protective of their troop and will intervene in conflicts between subordinates or to protect young. An infant gorilla is nursed for several years, creating strong bonds between mothers and offspring.
+A troop moves through a fixed territory by day, feeding on leaves, fruit and stems along established paths, and builds a fresh nest of bent branches each night. Members communicate by calls, gestures and displays, and there is a clear order and plenty of affection. The silverback protects the troop, settles quarrels between the others and stands between it and any threat. An infant is nursed for several years, and mother and young stay close.
+
+## What the Hunters Do
+
+Most forest tribes do not hunt gorillas for food. They avoid the slopes where a troop lives, and a hunter who finds a nest-site turns back. When a silverback charges, it is in defence of the troop, and the correct answer is to stand still and look away. Traders who pass through the forest pay the tribes for guides who know the troop ranges. A silverback's skull is kept in a village as a mark of respect.
+
+## Signs
+
+- A loud chest-drumming, like a hollow log being beaten, from somewhere in the trees.
+- A bed of bent branches and trampled leaves in the fork of a low tree, with a pile of dung beside it.
+- Knuckle-prints, deep, in the soft ground of a forest trail.
+- A strong, musty smell, like a stable, rising from a thicket.
+- A screaming and crashing in the undergrowth, and a dark shape rising to its full height.
 
 ## Combat Strategy
 
@@ -469,7 +485,7 @@ When the silverback's troop is threatened, the gorilla's combat effectiveness in
 
 ## Additional Information
 
-A silverback gorilla's strength is legendary, and some cultures revere them as forest spirits or embodiments of protective power. A gorilla that has not been provoked will rarely attack, though they will enforce boundaries around their territory. Attempting to separate a gorilla from its troop is supremely dangerous. Some indigenous peoples report negotiating peace with gorilla troops through specific gestures and respectful behavior.
+A silverback gorilla's strength is famed, and some cultures revere them as forest spirits or embodiments of protective power. A gorilla that has not been provoked will rarely attack, though they will enforce boundaries around their territory. Attempting to separate a gorilla from its troop is supremely dangerous. Some indigenous peoples report negotiating peace with gorilla troops through specific gestures and respectful behavior.
 
 ## Attributes
 

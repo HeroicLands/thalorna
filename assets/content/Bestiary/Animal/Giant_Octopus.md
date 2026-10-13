@@ -241,7 +241,7 @@ The skin takes the color and the grain of rock, sand or weed in a moment. On the
 
 The funnel pours a cloud of black ink that blinds anything in the water and tastes foul, and the octopus is gone behind it before the cloud thins.
 
-### Remarkable Intelligence
+### Intelligence
 
 It learns a boat, a line and a trap, remembers a place and a face, opens what is closed and sets a snare of its own with a baited stone. Its arms think for themselves, and the whole animal thinks better than most of the men who hunt it.
 

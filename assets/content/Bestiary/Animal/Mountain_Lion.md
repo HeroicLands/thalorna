@@ -234,19 +234,35 @@ sohl:
 
 ![[mntnln|Mountain Lion]]{float=top-left}
 
-A sleek, tawny shadow flows across the terrain with liquid grace—a muscular body built for explosive speed and deadly precision. The mountain lion crouches low, its long tail held rigidly behind it for balance, muscles coiled and ready. Its piercing yellow eyes lock onto you with undeniable intelligence and predatory focus. When it moves, there is almost no sound, and you are struck with the terrible realization that it has been watching you for far longer than you have been watching it. The silence that surrounds it is the silence of a perfect hunter.
+In the soft earth below the ledge a line of round prints crosses the stream, four toes and a heel, with no claw-marks and a drag of the tail between them. A deer's carcass lies half-buried under a mound of leaves and sticks. Overhead on the rock a pair of yellow eyes follows you, and a long, tawny body lies flat along the stone, the tail hanging, perfectly still.
 
 # Dossier {#dossier}
 
-The mountain lion, also known as the cougar or puma, is a large solitary felid measuring 6-8 feet in body length and weighing 80-220 pounds, with males considerably larger than females. The coat is short and uniformly tawny or reddish-brown, ranging from pale cream to rich rust depending on individual and environment. The build is lean and muscular, built for explosive speed and agility rather than raw strength. The head is small and rounded, with a powerful jaw and bright yellow eyes. The tail is long, nearly as long as the body, and used for balance and subtle communication.
+The Mountain Lion is the large lone cat of the mountains and scrub, six to eight feet long and eighty to two hundred twenty pounds. It hunts the forested mountains of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tza'kul]] and the highlands of [[place-ixilankulrgn|Ix'ilankul]], taking deer and wild goats. It avoids people and larger threats and prefers to hunt unseen.
 
 ## Presentation
 
-Mountain lions display a sleek, aerodynamic build with long, powerful hind legs that provide explosive jumping power. The fur is short and dense, tawny in coloration with white ventral surfaces. The face is narrow and angular, with small, rounded ears and forward-facing yellow eyes that provide excellent binocular vision. The claws are sharp, curved, and retractable, allowing silent movement and excellent climbing capability. The tail is long and muscular, often held low when stalking or coiled tightly when tense. The musculature is visible beneath the thin fur, particularly in the shoulders and hind legs. Individual mountain lions often bear scars from territorial disputes or hunting injuries.
+A sleek, aerodynamic cat, lean and muscular, with long, powerful hind legs for jumping. The coat is short, dense and tawny, from pale cream to rich rust, white beneath. The face is narrow and angular, with small rounded ears, a powerful jaw and forward-facing yellow eyes. The claws are sharp, curved and retractable. The tail, nearly as long as the body, is held low in a stalk and coiled tight when the cat is tense. Old animals carry scars from fights and hunts.
+
+## In the Land
+
+Mountain lions hunt the forested mountains of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tza'kul]] and the highlands of [[place-ixilankulrgn|Ix'ilankul]]. A lion holds a range of forty square miles or more with several lying-up places in rock or thick cover, and it follows the deer and the wild goats through the seasons. It hunts at dusk and dawn and covers its kills with leaves.
 
 ## Key Behaviors
 
-Mountain lions are solitary predators except during mating season, establishing and defending large territories ranging across forests, mountains, deserts, and scrublands. They are ambush hunters par excellence, stalking prey silently for long distances before striking. They hunt primarily at dawn and dusk, though they will hunt at any time when prey is available. They prefer large prey—deer, wild goats, and similar animals—and can bring down prey much larger than themselves through explosive speed and powerful bite. They are elusive and generally avoid confrontation with humans or other large threats, preferring to hunt undetected and escape if threatened.
+Mountain lions live alone except in the mating season, each holding a large range of forest, mountain, desert or scrub. They stalk silently for long distances, strike from ambush and prefer big prey such as deer and wild goats, which they bring down with a leap and a heavy bite, even when the animal is much larger than the cat. They hunt at dawn and dusk and at any time when prey is available. They are elusive, and when threatened they escape rather than fight.
+
+## What the Hunters Do
+
+Hunters follow a lion's track to learn where the deer have been taken and keep away from the cache. A herder in the foothills pens stock at night and walks the flock at dawn, and a lion that has taken sheep is hunted with dogs, which tree it. The pelt is a gift to a chief, and the skull and claws are worn as charms. A lion is rarely seen, and a trail that passes under a ledge is followed in daylight only. Travelers keep children close in lion country and make noise.
+
+## Signs
+
+- Round, four-toed tracks without claw-marks in a mud bank, with a tail-drag mark beside them.
+- A deer carcass half-buried under a mound of leaves and sticks.
+- A scream like a woman's in the night from a high ridge.
+- Deep claw-scratches on a trunk, head-high, with a patch of scraped earth beneath it.
+- A dog that will not go beyond the edge of a camp.
 
 ## Combat Strategy
 
@@ -266,14 +282,14 @@ The mountain lion uses its sharp, retractable claws in rapid succession to shred
 
 ### Ambush Master
 
-The mountain lion gains substantial bonuses to stealth and to attack rolls when striking from surprise; it can stalk prey for extended distances without being detected and gains advantage on the first attack of an ambush.
+The mountain lion strikes hardest from surprise; it can stalk prey for extended distances without being detected, and its first attack of an ambush is the one that counts.
 
 ### Explosive Speed
 
-The mountain lion can move with extraordinary speed over short distances, allowing it to close distance rapidly or escape from threats; this grants it bonuses to initiative and allows it to move further than would normally be possible.
+The mountain lion can move with extraordinary speed over short distances, allowing it to close distance rapidly or escape from threats; it usually strikes before its opponent has moved, and covers more ground in a rush than a person would expect.
 
 ### Climbing Master
 
-The mountain lion can scale vertical surfaces and trees with ease, using its claws and muscle control; it gains bonuses to climbing checks and can reach terrain that non-climbing opponents cannot easily follow.
+The mountain lion can scale vertical surfaces and trees with ease, using its claws and muscle control; it climbs very quickly and can reach terrain that non-climbing opponents cannot easily follow.
 
 ## Attributes

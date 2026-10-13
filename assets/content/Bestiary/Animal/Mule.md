@@ -242,19 +242,35 @@ sohl:
 
 ![[mule|Mule]]{float=top-left}
 
-The mule stands with quiet dignity, its lean, muscular body built low and compact. Large ears rotate constantly, tracking sounds you cannot hear, and its intelligent dark eyes watch with the wariness of something that has learned not to trust easily. When it shifts its weight, you see the power coiled in its compact frame—not the showy strength of a horse, but something more pragmatic and enduring. A faint dust rises from its rough coat as it moves, and its very posture suggests an animal utterly practical and utterly unmoved by pretension or panic.
+The mule at the head of the string stops on the narrow ledge, ears swiveling, and will not take another step. The muleteer behind it says nothing. Below the ledge the path crosses a slope of loose shale that slides when a stone is dropped on it. The mule looks at it for some time with one large dark eye, then turns, carefully, and sets off back the way it came. The string follows.
 
 # Dossier {#dossier}
 
-The mule is a hybrid animal, the offspring of a male donkey and a female horse, measuring 4-5 feet at the shoulder and weighing 450-600 pounds. The body combines the compact, sturdy build of a donkey with the muscular frame and agility of a horse. The coat is short and coarse, typically colored in shades of bay, gray, or sorrel, with a lighter colored muzzle. The ears are long and mobile, larger and more mobile than a horse's, and the tail is somewhat sparse and donkey-like. The head is proportionally larger than a horse's, with a straight profile and intelligent dark eyes.
+The Mule is the pack animal of the hard roads, the offspring of a jack donkey and a mare, four to five feet at the shoulder and four hundred fifty to six hundred pounds. It carries loads over steep and broken country on the passes of the [[place-graznmntns|Grazian Mountains]], the hill roads of the Byzarian [[place-southrnmrch|Southern March]], the gorges of [[place-aelwyth|Aelwyth]] and the mountain tracks of [[place-ixilankulrgn|Ix'ilankul]]. It has a donkey's compact build and a horse's muscle and agility, and a long memory and good judgement.
 
 ## Presentation
 
-Mules display an unusual physical profile, combining equine and asinine traits in a unique way. The head is broad and angular, with a pronounced jaw and large, expressive ears capable of extreme mobility. The eyes are dark, intelligent, and set to allow nearly 360-degree vision. The body is compact and heavily muscled, with a deep chest and powerful hindquarters. The legs are sturdy and relatively short, ending in tough, hard hooves rarely in need of shoes. The tail is sparse compared to a horse's, and the mane is coarse and short. The coat is rough and coarse compared to a horse's finer hair. Individual mules often bear calluses, scars, and brands from years of work.
+A compact, sturdy animal with the muscle and agility of a horse and the frame of a donkey. The head is broad and angular, with a pronounced jaw, large mobile ears and dark, intelligent eyes set to give nearly all-round sight. The chest is deep and the hindquarters strong. The legs are short and sturdy, ending in tough, hard hooves that rarely need shoeing. The coat is short and coarse, bay, gray or sorrel, with a paler muzzle. The mane is coarse and short and the tail sparse. An old mule carries calluses, scars and brands from years of work.
+
+## In the Land
+
+Mules are bred and worked wherever the roads are hard: the passes of the [[place-graznmntns|Grazian Mountains]], the hill roads of the Byzarian [[place-southrnmrch|Southern March]], the gorges of [[place-aelwyth|Aelwyth]] and the mountain tracks of [[place-ixilankulrgn|Ix'ilankul]]. A mule lives in a muleteer's yard, grazes the verges and works six days in seven. It cannot breed, so every mule is the product of a mare and a jack kept for the purpose.
 
 ## Key Behaviors
 
-Mules are hardy, intelligent animals with exceptional memory and judgment. They are used extensively for packing, carrying supplies over difficult and rough terrain where horses would struggle. Mules are remarkably surefootedted and will refuse to cross truly dangerous ground, making them safer partners than horses in treacherous environments. They are less temperamental than donkeys and more independent than horses, making their own judgments about situations rather than blindly following commands. They form strong bonds with handlers and other pack animals they have worked with. They are capable of working long hours on minimal food and water, and have exceptionally long working lives.
+Mules are hardy and shrewd. They are used for packing over difficult ground where horses struggle, and they are very sure-footed and will not cross ground they judge unsafe, which makes them safer than horses on bad roads. They are less temperamental than donkeys and more independent than horses, forming their own opinion of a situation instead of simply obeying. They bond with handlers and with the animals they have worked beside. They work long hours on little food and water, and their working lives are long.
+
+## What the Muleteers Do
+
+A muleteer owns a string of six to twenty and walks at its head. He chooses the animal that goes first, which sets the pace and refuses a bad step, and the others follow it. A mule is loaded evenly and unloaded at noon, and the load is checked for rubs. Mules will not cross ground they judge unsafe, and a muleteer who sees one stop lets it stand. They are more sure-footed than horses on ice and scree, and they last longer than donkeys. Armies use them for baggage and for hauling guns and timber on steep ground.
+
+## Signs
+
+- A string of big-eared animals picking down a scree slope, nose to tail.
+- Small, hard hoof-prints in a neat row on a narrow ledge, cut deep and square.
+- A bell on the lead animal, ringing slowly in a gorge.
+- A mule with its feet planted and its ears back, which will not move for any pull.
+- A muleteer's whistle on a switchback, answered by every animal in the string.
 
 ## Combat Strategy
 
@@ -274,11 +290,11 @@ If grappled or if an opponent comes within reach, the mule will bite—not with 
 
 ### Sure-Footed
 
-The mule's exceptional sense of balance and hoof placement grants it bonuses to checks to avoid slipping, falling, or being knocked prone; mules will refuse to cross truly treacherous ground and can navigate terrain that would be impassable for horses.
+The mule's sure sense of balance and hoof placement makes it very unlikely to slip, fall or be knocked down; mules will refuse to cross truly treacherous ground and can navigate terrain that would be impassable for horses.
 
 ### Hybrid Endurance
 
-The mule combines the strength and speed of the horse with the endurance and durability of the donkey; it can work long hours with minimal food or water, gains bonuses to endurance checks, and can carry loads that would exhaust horses.
+The mule combines the strength and speed of the horse with the endurance and durability of the donkey; it can work long hours with minimal food or water, outlasts nearly anything else in harness, and can carry loads that would exhaust horses.
 
 ### Intelligent Judgment
 

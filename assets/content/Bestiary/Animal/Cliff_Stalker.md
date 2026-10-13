@@ -310,7 +310,7 @@ The Stalker's camouflage, stillness and patience make its first blow the one tha
 
 The cat crosses near-vertical rock, wet or iced, as a man crosses a floor. It cannot be shaken off a ledge, and it fights on footing that would kill a man.
 
-### Exceptional Vision and Hearing
+### Vision and Hearing
 
 It sees a moving goat across a valley and hears a boot on gravel far below. In its own country it knows a party is coming long before the party knows anything.
 

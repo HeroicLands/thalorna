@@ -200,19 +200,35 @@ sohl:
 
 ![[walrus|Walrus]]{float=top-left}
 
-The smell arrives first — a wall of fish and musk and rancid blubber that makes your eyes stream. Then you see them: a dozen mountains of wrinkled, pinkish-brown flesh hauled out on the rocks, so densely packed that individual bodies blur into a single undulating mass of hide and tusk. The nearest bull raises its head and you understand immediately why the northern peoples call them sea-kings. The face is a grotesque masterpiece — small, bloodshot eyes buried in folds of bristled skin, a mustache of coarse whiskers as thick as quills, and two ivory tusks descending from the upper jaw like curved swords, each one as long as your forearm and stained yellow with age. The animal weighs more than a horse. It should be helpless on land. It is not. When it surges toward you, hauling its impossible bulk across the rocks with a lurching, explosive motion, the tusks sweep in an arc that would disembowel anything they caught, and the sound it makes — a deep, bellowing roar that echoes off the cliff face — carries the unmistakable authority of something that has never once been prey.
+The beach at the foot of the cliff is a heaving mass of brown, wrinkled bodies, packed so close that none of the stones show. A bellowing rises from them, hoarse and enormous. At the edge, a bull with tusks as long as a man's arm heaves himself up on his flippers, the great head swinging from side to side. The smell reaches you before the bull does, a thick, fishy, animal reek, and the tusks, grooved and chipped, rattle together.
 
 # Dossier {#dossier}
 
-The Walrus is one of the largest and most formidable animals of the far northern coastal waters — a semi-aquatic pinniped weighing between fifteen hundred and three thousand pounds, armed with tusks that can reach three feet in length, and insulated by blubber several inches thick. Walruses haul out in enormous colonies on rocky shorelines and ice floes, where their combined mass and aggression make them effectively unassailable. They are critical to the northern coastal economy: walrus ivory is a primary trade good, walrus hide is used for ship cordage and shield facings, and the blubber provides lamp oil and waterproofing. Hunting walrus is one of the most dangerous activities in the north — the animals are aggressive, unpredictable, and capable of destroying small boats. Adventurers encounter walruses on coastal missions, during sea voyages through northern waters, or when ivory trade is involved. A walrus in water is a genuine threat to any vessel smaller than a longship.
+The Walrus is the great tusked seal of the far north, fifteen hundred to three thousand pounds with tusks up to three feet, hauling out in colonies of dozens or hundreds on the rocky shores, skerries and ice floes of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]]. Walrus ivory is a main trade good of the north, the hide goes into ship cordage and shield facings and the blubber into lamp oil and waterproofing. Hunting one is among the most dangerous work in the north, and a walrus in the water can wreck any vessel smaller than a longship.
 
 ## Presentation
 
-The walrus is a creature of staggering bulk — a barrel-shaped body covered in thick, wrinkled skin that ranges from cinnamon-brown in younger animals to pinkish-gray in old bulls whose hide has been scarred and weathered by decades of fighting and hauling across rock. The skin is extraordinarily tough, up to two inches thick on the neck and shoulders where bulls ram each other during mating disputes. Beneath the skin lies a layer of blubber four to six inches deep that provides both insulation and energy reserves. The head is broad and blunt, dominated by the tusks — elongated upper canines that grow continuously throughout life, curving slightly downward and outward. Old bulls' tusks can exceed three feet and bear deep grooves and chips from a lifetime of use as ice-picks, fighting weapons, and hauling anchors. The face is covered in a dense mat of stiff, sensitive whiskers called vibrissae, each one individually mobile and capable of detecting shellfish on the ocean floor by touch alone. The flippers are broad and powerful, with the rear flippers capable of rotating forward for surprisingly effective locomotion on land.
+A barrel-shaped animal of enormous bulk in thick, wrinkled skin, cinnamon-brown in young animals and pinkish gray in old bulls, scarred and weathered; the skin on the neck and shoulders is up to two inches thick. Under it lies four to six inches of blubber. The head is broad and blunt, with tusks, upper canines that grow all through life, curving down and outward and in old bulls over three feet long, grooved and chipped by use as ice-picks, weapons and anchors for hauling. The face is covered with a dense mat of stiff whiskers, each one mobile, that feel for shellfish on the sea floor. The flippers are broad, and the rear pair can turn forward for movement on land.
+
+## In the Land
+
+Walruses haul out on the rocky beaches, skerries and ice floes of the far northern coast of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]]. A colony of dozens or hundreds lies packed on the stones, the biggest-tusked bulls at the best positions. They dive to the sea-bed for clams and move south and north with the ice. A beach holds the same colony season after season.
 
 ## Key Behaviors
 
-Walruses are social animals that congregate in colonies of dozens to hundreds on favored haul-out sites — rocky beaches, ice floes, and sheltered coves. The colonies are hierarchical, with the largest-tusked bulls claiming the best positions and access to females. Bulls compete through threat displays — raising themselves upright, bellowing, and clashing tusks — and through direct combat that can inflict serious puncture wounds. Despite their aggression toward each other, walruses are cooperative in the water, and adults will defend calves communally against predators including polar bears and sharks. They feed primarily on benthic invertebrates — clams, mussels, snails — which they locate with their whiskers and excavate with powerful suction from their lips. A feeding walrus can consume several thousand clams in a single dive session. They are capable of diving to considerable depths and can hold their breath for extended periods, though they prefer shallow feeding grounds.
+Walruses live in colonies on favored haul-out sites: rocky beaches, ice floes and sheltered coves. Rank is held by size, and the largest-tusked bulls take the best places and the females. Bulls compete by rearing up, bellowing and clashing tusks, and by fights that can cause deep puncture wounds. In the water they cooperate, and adults defend calves together against polar bears and sharks. They eat clams, mussels and snails, found with the whiskers and sucked out of the sea floor; a feeding walrus takes several thousand clams in one session of dives. They dive deep and hold their breath for a long time but prefer shallow feeding grounds.
+
+## What the Carvers Do
+
+The carvers of [[place-marvstead|Marvstead]] work walrus tusk into combs, hilts and trade goods that carry the name of Vithgard south. The hunters take walrus at the haul-out with spears from a boat, when the herd is asleep, and the hide, blubber and ivory pay for a season. A bull in the water will tip a boat. Hunters stay downwind and approach slowly. A stampede of a colony crushes pups and hunters alike. The meat is shared, and the best tusks go to the carvers.
+
+## Signs
+
+- A mass of brown bodies on a beach, with a great bellowing carrying over the water.
+- A bristled, tusked head rising beside a boat.
+- A long gouge in the shingle where a walrus has dragged itself ashore.
+- Mounds of crushed clam shells on the sea-bed, brought up in a net.
+- A tusk lying whole on the shore above the tide-line.
 
 ## Combat Strategy
 

@@ -172,19 +172,35 @@ sohl:
 
 ![[cnstrctr|Constrictor Snake]]{float=top-left}
 
-The pile of coils barely registers as a threat until it moves. The snake is truly enormous—thick as a man's leg, scaled in patterns of dark brown and cream that make it nearly invisible against earth and vegetation. The head is disproportionately small, supported on a neck that seems impossibly slender compared to the vast bulk behind it. Its eyes—dark and deeply set—open as your shadow falls across it, and you see in that moment that this creature is not afraid. The jaw unhinges with a wet pop, wider than seems possible, revealing thin, backward-curving teeth and a pale pink interior. Then the movement begins: sinuous, purposeful, and utterly inexorable.
+The bank is a mat of roots and dead leaves, and a smooth furrow as wide as a man's thigh runs down through it into the water. A branch overhead is bowed under a dark, patterned weight, coiled over it in loops. A small, blunt head lifts out of the coils, a forked tongue flicking, and the heavy body begins to shift on the branch.
 
 # Dossier {#dossier}
 
-The Constrictor Snake represents one of nature's most efficient designs: a predator that can kill prey far larger than its own head through sustained pressure and inhuman patience. These non-venomous snakes measure fifteen to twenty-five feet in length, sometimes longer, and weigh forty to two hundred pounds depending on species and individual size. They are found in tropical and subtropical regions worldwide, inhabiting forests, swamps, and grasslands where prey is abundant. A constrictor's hunting strategy is based on ambush, speed, and the ability to apply pressure until prey cannot breathe. Unlike venomous snakes that kill quickly, a constrictor works gradually, tightening its coils with each breath the prey takes until respiration becomes impossible. Adventurers may encounter constrictors while traveling through jungles, sleeping in tents in grasslands, or exploring ruins in tropical regions where snakes have established dens.
+The Constrictor Snake is the big non-venomous snake of the hot forests and swamps, fifteen to twenty-five feet long and forty to two hundred pounds. It lives in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the forest of [[place-xelemrgn|Xelem]] and the river country of the south. It kills by tightening its coils around its prey with every breath the animal takes, and it can kill an animal far larger than its own head.
 
 ## Presentation
 
-An enormous serpent with a body of impressive thickness and length. The head is relatively small and roughly triangular when viewed from above, with the snout tapering to a point. The eyes are positioned laterally and feature vertical pupils—reflective surfaces visible in dim light. The mouth is capable of opening to an extreme angle, the jaw hinging at the rear of the skull. The teeth are small, thin, and curved backward—not designed for biting force but for grip. The body posterior to the head is substantially thicker, muscular, and composed of hundreds of vertebrae surrounding powerful musculature. The scales are keeled (ridged), providing texture and some mechanical advantage during constriction. Coloration ranges from solid earth tones to dramatic patterns of contrasting colors, all serving to blend with soil, vegetation, and shadows. The tail tapers gradually to a point and is prehensile, capable of gripping branches, crevices, or prey. The belly scales are larger than dorsal scales and show wear from traveling across rough terrain.
+An enormous snake, thick-bodied and heavily muscled. The head is small and roughly triangular, with the snout tapering, vertical pupils and a mouth that opens very wide. The teeth are small, thin and curved back for gripping. The body is much thicker behind the head. The keeled scales run from earth-brown to bold patterns of contrasting color that blend into soil, leaves and shadow. The tapering tail can grip a branch or a crevice. The belly scales are larger than those on the back and worn from travel.
+
+## In the Land
+
+Rock pythons and their kin live in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the hot forest of [[place-xelemrgn|Xelem]] and the river country of the south. A constrictor lies along a branch over a game-trail, in the edge of a swamp or in a hollow under a bank, and it hunts at night. A big snake stays in one stretch of river for years, and it feeds once in a month or two.
 
 ## Key Behaviors
 
-Constrictor snakes are solitary animals with overlapping home ranges that they patrol seasonally. They are ambush predators that remain nearly motionless for extended periods—sometimes days—waiting for prey to come within striking range. Once they have eaten, they digest slowly, often spending weeks processing a large meal before needing to hunt again. This slow digestion has allowed individual constrictors to have periods of inactivity and reduced feeding frequency. They are more active during warm seasons and may enter reduced-activity states during cool periods. They are sensitive to temperature and prefer warm environments. Interestingly, some snakes have learned to associate human presence with food—a constrictor near a human settlement will become more active during periods when humans are sleeping. They have no maternal care and the young are independent from the moment of birth, receiving no parental protection or training. Constrictors are long-lived animals, sometimes reaching thirty years in age.
+Constrictors live alone with overlapping ranges that they patrol by season. A snake lies nearly motionless for days beside a game-trail, a pool or a branch, and rushes when prey comes in range. After a big meal it digests for weeks and does not need to hunt. It prefers warmth and slows in the cool season. Some snakes have learned to come near a settlement at night, when people sleep. The young are independent from birth, and an adult may live thirty years.
+
+## What the Hunters Do
+
+The forest tribes and the hunters of the river country know the pools where a big snake has its den, and they take the water from another place. A snake that has eaten is slow, and hunters take it then, tied to a pole, for the hide and the fat. The hide is cut into belts, drum-skins and shield-covers; the fat is rubbed on joints. A village that loses a goat to a snake sets a watch for several nights. A traveler sleeping on the ground of a river camp takes a lamp and a cut staff with him, and wakes if the dogs go quiet.
+
+## Signs
+
+- A long, flat furrow in the leaf litter or the mud of a bank, as wide as a man's thigh.
+- A branch over a trail bowed under a dark, coiled weight.
+- A goat or pig gone from a pen, with no blood, and the fence unbroken.
+- Dogs that will not go near a pool, or a hollow bank, and stand at the edge whining.
+- A shed skin, longer than a rowboat, caught in a thorn bush.
 
 ## Combat Strategy
 

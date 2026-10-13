@@ -242,19 +242,35 @@ sohl:
 
 ![[ramanml|Ram]]{float=top-left}
 
-The animal stands solid and immovable, its head held low in unmistakable threat. The curved horns spiral outward and forward, thick as a man's fist at their base, their surfaces worn and scarred from countless impacts. You feel the ground shudder slightly as the creature's hooves dig in, and you catch the heavy musk of wool and animal aggression. Its breath emerges in forceful snorts, and its eyes lock on you with a singular, murderous intent. There is no negotiation in that gaze — only the promise of violence.
+A hundred yards up the hillside two rams stand facing each other with their heads lowered, their curled horns nearly touching. Neither moves. Then they rear and come together, and the crack of horn on horn rolls down the valley like a felled tree. They back off, shake their heads and do it again. The flock grazes on, indifferent.
 
 # Dossier {#dossier}
 
-The ram is the dominant male of sheep herds, distinguished by its massive curved horns, muscular build, and aggressive temperament particularly during the autumn rutting season. Standing three to four feet tall and weighing 250-350 pounds, the ram is a formidable opponent despite its herbivorous nature. Adventurers might encounter rams while traveling through pastoral highlands, defending flocks against predators, or protecting territory in mountainous regions.
+The Ram is the dominant male of the sheep flocks, three to four feet at the shoulder and 250 to 350 pounds, kept on the upland pastures of the Byzarian [[place-southrnmrch|Southern March]], the [[place-graznmntns|Grazian Mountains]], the hill farms of [[place-aureldirgn|Aurèldía]] and the steppe margin of [[place-velanthrgn|Velanthia]]. It has massive curved horns and a hard temper, worst in the autumn rut. It defends the flock against predators and attacks whatever it takes for a rival.
 
 ## Presentation
 
-The ram presents a squat, densely packed form of solid muscle and bone beneath a thick, often wool coat that may be white, brown, gray, or black depending on breed and region. The defining feature is the pair of large, curved horns that spiral outward and backward from the skull, sometimes reaching three feet in length and weighing upward of fifteen pounds each. These horns are dense, hard bone that curves in a characteristic spiral, their surfaces often scarred and chipped from years of combat with rival rams. The head is massive and blocky, with a strong jaw and large teeth adapted for grinding vegetation. The neck is thick and muscular, leading to powerful shoulders. Males often display a throat pouch and emit a distinctive musk during breeding season. The hooves are hard and well-adapted to rocky terrain.
+A squat, densely built animal of solid muscle and bone under a thick coat of wool, white, brown, gray or black. The horns spiral out and back from the skull, up to three feet long and fifteen pounds each, of dense bone, scarred and chipped by fights. The head is massive and blocky with a strong jaw, and the neck is thick and muscular, with powerful shoulders. Males sometimes show a throat pouch, and in the breeding season give off a musk. The hooves are hard and suit rock.
+
+## In the Land
+
+Rams run with the flocks of the upland pastures: the dry uplands of the Byzarian [[place-southrnmrch|Southern March]], the passes of the [[place-graznmntns|Grazian Mountains]], the hill farms of [[place-aureldirgn|Aurèldía]] and the steppe margin of [[place-velanthrgn|Velanthia]]. A ram stays with his ewes in the breeding season, and outside it with other rams on the higher ground. In autumn the rams butt their way to rank, and the sound carries a mile.
 
 ## Key Behaviors
 
-Rams are inherently territorial and hierarchical, establishing dominance over competing males through ritualized headbutting matches that can last hours. During the rutting season (autumn in most regions), rams become intensely aggressive and will charge at anything they perceive as threat or competition. They defend their flocks with genuine ferocity and will actively attack predators that approach ewes or lambs. Outside of breeding season, rams are still aggressive but somewhat less hair-triggered. They are highly intelligent about terrain and can navigate difficult slopes with confidence that seems to defy physics.
+Rams are territorial and ordered by rank, settled by headbutting matches that can last for hours. In the autumn rut they charge anything they take for a threat or a rival, and outside it they are still aggressive. They guard ewes and lambs, and attack predators that come near them. They know the slopes well and cross difficult ground with confidence.
+
+## What the Shepherds Do
+
+A shepherd keeps one ram to a flock of thirty ewes and chooses him for his horns, his fleece and his temper. He walks the flock behind a dog, and a ram in rut is penned apart. The curled horns are carved into drinking horns, combs and the handles of tools. A ram that charges a person is killed for the pot, since it will do it again. Rams defend a flock against a dog or a fox, and against a wolf, a ram will stand in front of the ewes. Strangers in the pasture do not turn their backs on one.
+
+## Signs
+
+- A crack like a split log, repeated, from a hillside where two rams have met.
+- A big, heavy-horned animal standing in front of a flock and watching a stranger with its head lowered.
+- Hoof-scars on bare ground where rams have backed up and charged.
+- A strong musky smell on a hill-pasture in autumn.
+- A fence rail splintered at a ram's height.
 
 ## Combat Strategy
 
@@ -278,7 +294,7 @@ If the ram's horns connect with an opponent's torso, it may attempt to hook the 
 
 ### Mountain-Sure Footing
 
-The ram is extraordinarily nimble on steep, rocky, and difficult terrain despite its heavy build. It can traverse slopes and uneven ground that would challenge a human, giving it advantage in highland and mountainous terrain. It is nearly impossible to knock off balance on difficult ground.
+The ram is extraordinarily nimble on steep, rocky, and difficult terrain despite its heavy build. It can traverse slopes and uneven ground that would challenge a human, which makes it formidable in highland and mountainous country. It is nearly impossible to knock off balance on difficult ground.
 
 ### Charging Impact
 
@@ -286,7 +302,7 @@ The ram's bones are dense and incredibly thick, capable of withstanding and deli
 
 ### Stubborn Determination
 
-Once the ram commits to a charge or attack, it follows through with complete commitment, almost incapable of stopping or changing direction mid-motion. This makes it predictable but also exceptionally dangerous.
+Once the ram commits to a charge or attack, it follows through with complete commitment, almost incapable of stopping or changing direction mid-motion. This makes it predictable but also very dangerous.
 
 ### Thermal Insulation
 

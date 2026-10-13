@@ -242,19 +242,35 @@ sohl:
 
 ![[drmdrycm|Dromedary Camel]]{float=top-left}
 
-The creature regards you with mild disinterest as you approach, one eye open while the other remains nearly closed. Standing taller than a human's head on relatively slender legs, the dromedary carries its single hump like a monument to survival. The sandy coat, weathered and practical, blends so perfectly with surrounding dunes that distance makes the creature seem to materialize from the sand itself. Long eyelashes frame dark eyes, and the distinctive split upper lip twitches occasionally. When the wind shifts, you catch the smell: acrid, warm, faintly unpleasant—the smell of something that survives in a world where most things perish.
+The string of camels comes over the dune-crest one behind another, tall and rangy, the humps swaying against the sky. The lead animal stops at the well-head and kneels with a groan, and its lip curls back from yellow teeth. A bubbling, grumbling roar comes out of it, and green froth sprays the sand a yard from your boots.
 
 # Dossier {#dossier}
 
-The Dromedary Camel is a one-humped ungulate engineered across millennia to thrive in the harshest, most arid environments. Standing six and a half to seven and a half feet tall at the shoulder and weighing nine hundred to fourteen hundred pounds, these creatures are primary transport animals across deserts. Unlike their two-humped cousins, dromedaries are notably more nervous and more aggressive. They are faster, more agile, and less tolerant of difficult conditions. They are found primarily in hot deserts and arid regions where water is scarce. Dromedaries are known to be temperamental—a camel in poor mood can be dangerous, capable of spitting foul-smelling liquid, kicking with impressive force, and biting. Adventurers riding dromedaries benefit from speed, agility, and the ability to survive extended desert travel. Trading caravans rely on dromedaries as their primary transport across vast desert regions.
+The Dromedary is the one-humped camel of the hot deserts, six and a half to seven and a half feet at the shoulder and nine hundred to fourteen hundred pounds, the transport animal of [[place-dunhardsrtrgn|Dunhara]] and the oasis cities of [[place-amradadrgn|Amradad]]. It is faster and more agile than the two-humped Khazryn camel but more nervous and more aggressive, and less able to stand cold or hardship. A dromedary in a bad mood spits, kicks and bites. Caravans depend on it across the wide deserts.
 
 ## Presentation
 
-A long-legged ungulate with a distinctive single hump rising above the shoulders. The head is proportionally long and narrow, with prominent lips (the upper lip notably split), nostrils that close against sandstorms, and long eyelashes protecting eyes from sand. The body is relatively lean except for the hump, which stores fat reserves. The legs are long and slim but surprisingly strong. The feet are two-toed with leathery pads, well-adapted to sand. The tail is thin and typically held close to the body. The coat is typically sandy brown or tan, well-camouflaged in desert environments. The overall impression is of a creature built for speed and endurance in harsh conditions, not for strength or power.
+A long-legged animal with a single hump above the shoulders. The head is long and narrow, with a split upper lip, nostrils that close against sandstorms and long lashes that guard the eyes. The body is lean apart from the hump, which stores fat. The legs are long and slim but strong, ending in two-toed feet with leathery pads for sand. The tail is thin. The coat is sandy brown or tan.
+
+## In the Land
+
+Dromedaries are kept in the hot deserts of [[place-dunhardsrtrgn|Dunhara]], the oasis cities of [[place-amradadrgn|Amradad]] and the dry southern margin of the Khazryn, where the cold of the northern steppe stops them. They are a herd animal: a tribe keeps a string of breeding cows, a few bulls and a number of geldings, and drives them from well to well. A camel can go several days without water and carries a load of two hundred pounds or more for twenty miles a day.
 
 ## Key Behaviors
 
-Dromedaries are social herd animals but are more independent-minded than two-humped camels. They are faster and more agile, capable of speed and maneuvering that Khazryn camels cannot match. They are particularly nervous animals, reacting quickly to stimuli and demonstrating clear preferences about handlers and routes. They have notable temperaments—individuals develop personality and can be stubborn or cantankerous. They are capable of traveling extended periods with minimal food and water, though they cannot match Khazryn endurance. They are most active during cool hours (dawn, dusk, and night) and conserve energy during heat.
+Dromedaries live in herds, with more independence of mind than the Khazryn camels. They are quick to react, have definite preferences about handlers and routes, and can be stubborn or cantankerous. They travel long distances on little food and water, though not as long as a Khazryn camel can. They are active in the cool of dawn, dusk and night and save their strength in the heat.
+
+## What the Caravans Do
+
+The tribes of Dunhara ride dromedaries in war and on raids and sell them to the caravans. The Amradad cities buy them for the carrying-trade along the coast. A rider sits behind the hump, controls the animal with a stick and a nose-line, and chooses a camel for its temper as well as its speed. A dromedary in rut will bite, kick and spit, and a bull is kept apart from the string. The tribes judge a man's wealth by the number of his camels. Camel milk is drunk fresh and made into cheese, and the dung is burned for fuel.
+
+## Signs
+
+- A long string of tall, rangy animals on the skyline, each led by the rope of the one in front.
+- Oval, broad-pad tracks, deep in the sand, with a scuffed toe-mark.
+- A camel kneeling beside a tent in the heat of the day, groaning and chewing.
+- A gurgling, grumbling roar from a bull at the well, and a spray of green froth.
+- Dung dropped in dry pellets along a caravan road, with bones of camels that did not finish the crossing.
 
 ## Combat Strategy
 

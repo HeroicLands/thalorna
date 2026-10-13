@@ -242,23 +242,39 @@ sohl:
 
 ![[donkey|Donkey]]{float=top-left}
 
-The small, sturdy animal stands with quiet patience, its oversized ears tracking movement with independent precision. The coat is rough and practical, gray or brown, unadorned by vanity. The short, strong legs end in sturdy hooves that have walked countless miles through terrain that would destroy lesser animals. When it turns its head toward you, the eyes are intelligent and patient—this is not a beast driven by fear or unreasoning aggression but by stoic pragmatism.
+At the top of the stony slope a small gray animal stands with its legs braced, ears up, and a load of baskets roped to its back. It looks at the path, which is steeper than any you would care to climb, and then at the man tugging on its halter. It does not move. When it does set off, a minute later, it chooses its own line down, picking the small stones with its hooves.
 
 # Dossier {#dossier}
 
-The Donkey is a small equine renowned for endurance, sure-footedness, and stubbornness. Standing ten to fourteen hands tall and weighing five hundred to nine hundred pounds, donkeys are primary pack animals for adventurers, merchants, and farmers. They excel in rough terrain where horses struggle, require less food and water than horses, and live longer—often exceeding thirty years. Donkeys are intelligent and develop strong preferences about routes and handlers. They are surprisingly aggressive when defending themselves or their young, capable of injuring predators with kicks and bites. Despite stereotypes about stupidity, donkeys are thoughtful animals that refuse dangerous tasks if they assess the task as likely to injure them. Adventurers rely on donkeys for transport through mountains, deserts, and rough wilderness where heavier horses cannot go.
+The Donkey is the small pack animal of the rough country, ten to fourteen hands high and five to nine hundred pounds, kept in the hill villages of the [[place-southrnmrch|Southern March]], the passes of the [[place-graznmntns|Grazian Mountains]] and the caravan stations of the desert. It carries loads over ground that stops a horse, eats and drinks less, and often lives past thirty. It is intelligent and refuses a task it judges likely to injure it. A donkey defending itself or its foal kicks and bites hard.
 
 ## Presentation
 
-A compact equine with a stocky frame and short, strong legs positioned for stability rather than speed. The head is proportionally large with long, mobile ears providing excellent hearing and serving as status indicators. The muzzle is relatively long and flexible. The coat is typically coarse and gray or brown. The tail is thin and often cropped short. The hooves are small and hard, well-adapted for rocky terrain. Donkeys often bear scars from pack straps, saddle rubbing, or past injuries. The overall impression is of a creature built for practicality and endurance rather than beauty or speed.
+A compact animal with a stocky frame and short, strong legs set for stability. The head is large, with long, mobile ears and a long, flexible muzzle. The coat is coarse, gray or brown, and the tail is thin. The hooves are small and hard and suit rock. Many donkeys carry scars from pack-straps, saddles and old injuries.
+
+## In the Land
+
+Donkeys are kept in every country where a road is rough: the hill villages of the [[place-southrnmrch|Southern March]], the mountain passes of the [[place-graznmntns|Grazian Mountains]], the oases and caravan stations of [[place-khzryndsrtrgn|Khazryn]] and [[place-dunharargn|Dunhara]], the terraced valleys of [[place-aukhelathrgq|Aû'Khelâthu]] and the salt-works of Tellumel. A donkey lives in the yard of the house it works for, grazes on thin pasture and eats little, and walks a mountain path with a load that would stop a horse.
 
 ## Key Behaviors
 
-Donkeys are highly social herd animals that form strong bonds with their companions—both other donkeys and humans. They are thoughtful animals that remember routes, recognize individual handlers, and prefer certain companions. They are stubborn in the sense that they will refuse tasks they assess as dangerous, not from obstinacy but from practical assessment. They are territorial and will defend space they occupy. They are long-lived and develop strong personalities with clear preferences. They have good memories and will remember handlers, routes, and past events.
+Donkeys live in herds and bond with other donkeys and with people. They remember routes, recognize handlers and prefer some companions. They will not do what they think is dangerous, which looks like stubbornness and is a sound judgement. They defend the space they hold. They live long, and each develops a strong character of its own with clear likes and dislikes.
+
+## What the Caravans Do
+
+A caravan driver buys donkeys for the passes and the short desert stages and uses camels on the long ones. The priests of Pelgun bless the first string of a young driver at the temple at Iqu, and he takes a donkey for the road and another for the fields. A farmer's donkey carries the harvest, the water and the wood. Salt-cutters stack blocks in pairs on a donkey's panniers and walk beside it. A donkey that stops cannot be driven on, and a driver who wants a donkey to move stands before it with a handful of feed. Mules are bred from them.
+
+## Signs
+
+- A short, dust-colored animal with ears like a hare's, standing in the sun at the top of a hill and refusing to move.
+- A string of donkeys, tied nose to tail, picking its way down a stony slope with panniers swaying.
+- A loud, rasping bray from a village at dawn that sets off every other donkey in the valley.
+- Small, neat hoof-prints on a mountain path, in a line, exactly where a horse would have fallen.
+- A cross-shaped dark stripe on a gray back, over the withers.
 
 ## Combat Strategy
 
-Donkeys prefer flight to fight but will defend themselves vigorously when cornered. They use powerful rear-leg kicks and bites. A donkey defending young is remarkably aggressive.
+Donkeys prefer flight to fight but will defend themselves vigorously when cornered. They use powerful rear-leg kicks and bites. A donkey defending young is very aggressive.
 
 ## Attack Methods
 
@@ -272,7 +288,7 @@ The donkey will bite when grabbed or cornered, delivering sharp bites capable of
 
 ## Special Abilities
 
-### Exceptional Endurance and Sure-footedness
+### Endurance and Sure-footedness
 
 A donkey can carry substantial loads over terrain that would defeat horses: narrow mountain passes, rocky ground, and unstable surfaces. It can travel days with minimal water and food. Its footing on dangerous terrain is superior to horses.
 
@@ -282,7 +298,7 @@ A donkey will refuse tasks it assesses as dangerous. This is not stupidity but i
 
 ### Longevity and Intelligence
 
-Donkeys live thirty or more years and develop genuine relationships with handlers. They remember routes, recognize individuals, and show emotions including grief.
+Donkeys live thirty or more years and develop real relationships with handlers. They remember routes, recognize individuals, and show emotions including grief.
 
 ## Attributes
 

@@ -232,23 +232,39 @@ sohl:
 
 ![[boar|Boar]]{float=top-left}
 
-The bristling shape erupts from the underbrush with a savage shriek that freezes your blood. Coarse, dark hair stands on end across its muscular shoulders and back, making it appear larger than it already is. Two curved tusks, yellowed and wickedly sharp, frame a snout that plows through the dirt in its rage. The reek of musk and churned earth fills the air, and you can see froth flecking the beast's jaws as it lowers its head and charges.
+The leaf litter along the path has been turned over in long, black furrows, and the bark of the nearest oak is rubbed smooth and plastered with mud. A hot, rank smell hangs in the air. Then a stocky shape rises out of a hollow ten paces off, bristles up along its neck and spine, and the small eyes fix on you.
 
 # Dossier {#dossier}
 
-The wild boar is a creature born of territories and violence, a compact engine of aggression and muscle covered in dense, bristling hair. Standing three to four feet tall at the shoulder and weighing two hundred to four hundred pounds, these tusked ungulates are found in forests, grasslands, and scrublands across most inhabited continents. They are neither apex predators nor entirely harmless grazers—they are opportunistic survivors that will eat roots, grubs, small animals, and carrion with equal enthusiasm. A boar's true danger lies in its temperament: it is quick to anger, slow to retreat, and fights with suicidal determination. Males are noticeably more aggressive than females, particularly during autumn rut. Adventurers may encounter them at wallows during summer, defending territorial ground, protecting litters of piglets, or simply rooting for food in areas humans have claimed as their own.
+The Boar is the wild pig of the woods and scrub, three to four feet at the shoulder and two to four hundred pounds, with curved tusks and a coat of coarse bristles. It roots through the oak and beech of [[place-vrystwald|Vrystwald]], the gorges of the Byzarian [[place-southrnmrch|Southern March]] and the thickets of many lowland valleys, eating roots, grubs, small animals and carrion. Boars are quick to anger, slow to retreat, and most dangerous in the autumn rut and with piglets.
 
 ## Presentation
 
-A sturdily built ungulate with a stocky body sitting low on short, powerful legs. The head is large and tapers to a reinforced muzzle designed for rooting and digging. Its tusks—typically curved outward and upward—can measure four to six inches in length, and older males display prominent tusks that are yellowed, chipped, and darkened by use and blood. The coat is thick and coarse, ranging from dark brown to nearly black, with hair standing upright on the neck, shoulders, and spine when the animal is agitated. The eyes are small and set relatively high on the head, dark and possessed of surprising intelligence and malice. The tail is thin and usually upright when the animal is alert. Most distinctive is the reek—a powerful musk that becomes more pronounced when the boar is stressed or agitated.
+A stocky pig with a heavy head tapering to a muzzle made for rooting, on short, powerful legs. The tusks curve out and up, four to six inches long on a mature animal, yellow and chipped in an old boar. The coat is thick and coarse, dark brown to nearly black, and the hair stands up on the neck and spine when the animal is roused. The eyes are small and set high. The tail is thin and carried up when alert. A strong musk marks it.
+
+## In the Land
+
+Wild boar root through the oak and beech woods of [[place-vrystwald|Vrystwald]], the gorges and scrub of the [[place-southrnmrch|Southern March]] above Byzaría, and the river thickets and reed-beds of many lowland valleys. A sow with her sounder holds a few square miles around a wallow and a mast-bearing stand of trees. Boars are bolder where farms meet woodland, and a field of roots or grain at the forest edge is rooted over before the harvest.
 
 ## Key Behaviors
 
-Wild boars are highly territorial animals. Mature males establish and defend home ranges, marking trees with tusks and scent glands, confronting rivals, and mating with available females during autumn rut. Females form small matriarchal groups of related individuals and sows with piglets—these maternal groups are even more aggressive than solitary males when protecting offspring. Boars are prolific foragers, turning over soil with their snouts to reach grubs, roots, and tubers, and they will ravage cultivated fields with single-minded efficiency. They are surprisingly intelligent animals with long memories. A boar that has been hunted will become exceptionally wary, will adjust its activity patterns to avoid humans, and will remember the hunting grounds as dangerous. Conversely, boars that find no opposition will become bolder, approaching human settlements and livestock with increasing confidence. They are creatures of routine—a boar typically follows similar paths to water, feeding grounds, and wallows, returning to the same mud holes during hot weather.
+Mature boars hold a home range, marking trees with tusks and scent, and fight rivals in the autumn rut. Sows live in small related groups, and a sow with piglets is more dangerous than a lone boar. Boars turn soil for grubs and tubers and ruin a planted field in a night. They follow the same paths to water and the same wallows, and a hunted boar becomes wary, shifts its hours and avoids people, while one that meets no opposition comes closer to farms each season.
+
+## What the Villages Do
+
+The Varokh hunt boar in winter on foot, with dogs to hold the animal and a crossbar on the spear-head to keep it from running up the shaft. Farmers in the clearings plant ditches and thorn-hedges around field-crops and keep dogs for the night. In the Southern March the lords of the League ride after boar in hunts that double as political occasions. Boar meat is salted for winter, the hide is tanned for boot-leather, and the bristles are sold for brushes. The tusk-caps of a famous boar hang over a hunter's door. Boar are among the animals that the Atarzad tribes of the Khazryn forbid as unclean, so they are neither hunted nor eaten there.
+
+## Signs
+
+- A swath of turned earth through the leaf litter, as if a plough had been dragged through it.
+- A mud-wallow in a hollow, churned black, with bristles stuck to the trees around it.
+- A trunk rubbed smooth and muddy at the height of a man's knee.
+- Cloven tracks, deep and splayed, with the dew-claws showing in soft ground.
+- Grunting and snapping of twigs in a thicket, and then silence.
 
 ## Combat Strategy
 
-A boar's primary tactic is a devastating charge from which it will not deviate unless severely wounded or genuinely overcome with fear. It will lower its head, steel itself into a narrow profile to minimize exposure, and accelerate directly at the threat with tusks angled upward to impale and disembowel. If the charge connects and the target is knocked down, the boar will continue to attack, slashing with its tusks and attempting to gore any vulnerable area. Boars rarely flee once engaged—they will continue attacking until the threat is neutralized, they themselves are mortally wounded, or they have achieved sufficient distance to charge again. A wounded boar becomes progressively more dangerous; pain and blood-scent trigger deeper aggression. When forced to retreat, a boar will back away slowly, maintaining eye contact and readiness to charge if the threat advances.
+A boar's primary tactic is a devastating charge from which it will not deviate unless severely wounded or overcome with fear. It will lower its head, steel itself into a narrow profile to minimize exposure, and accelerate directly at the threat with tusks angled upward to impale and disembowel. If the charge connects and the target is knocked down, the boar will continue to attack, slashing with its tusks and attempting to gore any vulnerable area. Boars rarely flee once engaged—they will continue attacking until the threat is neutralized, they themselves are mortally wounded, or they have achieved sufficient distance to charge again. A wounded boar becomes progressively more dangerous; pain and blood-scent trigger deeper aggression. When forced to retreat, a boar will back away slowly, maintaining eye contact and readiness to charge if the threat advances.
 
 ## Attack Methods
 

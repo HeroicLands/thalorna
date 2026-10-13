@@ -233,19 +233,35 @@ sohl:
 
 ![[condor|Condor]]{float=top-left}
 
-You notice the shadow first — a cruciform darkness sliding across the mountainside with impossible slowness, too large to be any bird you know, too steady to be a cloud. You look up, shielding your eyes against the highland sun, and the scale of the thing becomes apparent only by degrees. The wingspan is enormous — ten feet, perhaps more — held rigidly extended in a posture of absolute stillness as the bird rides a thermal updraft without a single wingbeat. The body between those vast wings seems almost incidental: compact, black-feathered, hunched forward in a posture that speaks of patience measured in geological time. The head is bare — wrinkled, dark red skin stretched over a skull that seems too small for the body it commands — and a ruff of white feathers circles the neck like a ceremonial collar. The bird tilts, banks, adjusts an invisible rudder, and sweeps across the face of the cliff with silent authority. The highland peoples say the condor carries the souls of the dead to the upper world. Watching it ride the wind above the peaks with that vast, unhurried stillness, you understand why they believe it. Nothing that moves with such certainty through the empty sky could be concerned with the affairs of the living.
+High on the cliff, a hundred feet above the ledge you are climbing toward, a black shape launches off the rock and falls a long way before its wings open. They span more than a man can stretch his arms, and the white panels on them flash as it banks. The bare, wrinkled red head turns to look down at you, and the bird slides away along the face of the mountain without a wingbeat.
 
 # Dossier {#dossier}
 
-The Condor is the largest flying bird of the tropical highlands and the most sacred creature of the highland religion — a massive soaring vulture with a wingspan exceeding ten feet that inhabits the highest mountain ranges and deepest canyons of the high mountain chains. Weighing twenty to thirty-three pounds, the condor is a carrion feeder that locates carcasses from extraordinary altitudes using eyesight that can detect a dead animal from miles away. In the cosmology of the highland sun religion, the condor is the messenger between the mortal world and the upper realm of the sun — the being that carries the dead to their celestial rest and returns with omens for the living. Condor imagery appears on temple walls, ceremonial textiles, and the headdresses of high priests. Condor feathers are sacred objects, and deliberate killing of a condor is one of the most serious religious offenses in highland temple law — punishable by sacrifice. The birds are long-lived, potentially surviving for decades, and breeding pairs are known to individual communities across generations. A condor circling above a settlement is read as an omen, and the direction, duration, and altitude of its flight are interpreted by temple astronomers. Adventurers in the high country encounter condors as constant presences in the mountain sky — distant, enormous, silent, watching.
+The Condor is the great vulture of the high mountains, twenty to thirty-three pounds with a wingspan over ten feet. It nests on the cliff ledges and in the high canyons above [[place-ixilankulrgn|Ix'ilankul]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. It eats carrion and finds it from a great height. In the faith of the Itzáni it is the messenger between the world and the sun, its feathers are sacred, and killing a condor is punished by death.
 
 ## Presentation
 
-The condor is a bird of stark, austere grandeur. The plumage is predominantly black, deep and glossy, with striking white panels on the upper wings that are visible only in flight — creating a dramatic flash of contrast as the bird banks and turns. The head and neck are bare of feathers, covered in wrinkled skin that ranges from dark red to purplish-black, with a fleshy comb or caruncle on the crown of males. This bare skin serves a thermoregulatory function but gives the bird an ancient, almost reptilian appearance. A thick ruff of white feathers encircles the base of the neck like a collar. The beak is large, hooked, and powerful — designed for tearing open tough hides that other scavengers cannot breach. The eyes are sharp and intelligent, reddish in males. The feet are large but flat, with blunt claws adapted for walking rather than gripping — unlike eagles and hawks, the condor is not a grasping predator. The wingspan is the defining feature: when fully extended, it exceeds ten feet and can approach eleven, making the condor's silhouette unmistakable against the sky. In flight, the condor holds its wings rigidly extended and soars on thermals for hours without a single wingbeat, covering vast distances with minimal effort.
+A huge bird, black and glossy, with white panels on the upper wings seen in flight. The head and neck are bare, wrinkled and dark red to purplish black, with a fleshy comb on the male's crown. A white ruff circles the base of the neck. The beak is large and hooked. The feet are flat with blunt claws made for walking and not for gripping. The eyes are sharp, reddish in the male. The wings, over ten feet across, are held rigid in flight.
+
+## In the Land
+
+Condors nest on the cliff ledges and in the high canyons of the mountains above [[place-ixilankulrgn|Ix'ilankul]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. A pair uses the same ledge for decades. The birds roost in groups on the cliff and fly out at mid-morning, when the sun has warmed the rock and the air rises along the slope, and they sail for hours on a rising wind without a wingbeat. They descend to the lower valleys for carrion after a storm or a battle.
 
 ## Key Behaviors
 
-Condors are social for vultures, roosting communally on cliff ledges and feeding in hierarchical groups at carcasses. They are obligate scavengers — they do not kill prey but locate carrion from extreme altitudes using their extraordinary eyesight, then descend in spiraling circles that serve as signals to other condors across enormous distances. A descending condor attracts others, and a major carcass can draw dozens of birds from across an entire mountain range. At the carcass, a strict dominance hierarchy determines feeding order, with the largest males eating first. Condors are monogamous and breed slowly — a single egg every one to two years — which makes their populations fragile and their individual lives culturally significant. They are long-lived birds, and highland communities track the lifespans of local breeding pairs across human generations. Condors roost on high, inaccessible cliff ledges, often the same sites used for centuries, and the accumulation of droppings, feathers, and bone fragments at these sites makes them identifiable — and sometimes contested, as the feathers and bones are sacred materials.
+Condors roost together on cliff ledges and feed in groups at a carcass in order of rank, the largest males first. They do not kill. A bird that has found a carcass descends in spirals, and the others come to it from across the mountain range. Pairs are monogamous and rear a single chick every year or two, so the populations are small and the individual birds are known to the highland communities over generations. The same roost is used for centuries, and feathers and bones from it are sacred and contested.
+
+## What the Priests Do
+
+In the faith of the Itzáni a condor is the messenger between the world and the sun. The temples keep its feathers on altars and in the headdresses of high priests, and a condor is never killed, on pain of the death of the killer. A dead condor found on a mountain is carried to a temple by whoever finds it, with a prayer, and a feast is held. The mountain villages lay their dead out on high rock for the birds, and a body the condors leave alone is read as a bad sign. The weavers of the highlands work condor patterns into ceremonial cloth.
+
+## Signs
+
+- A huge black bird with white wing-patches, turning on a rising wind without a beat of its wings.
+- A line of birds dropping in slow circles toward one slope, and others joining from every side.
+- A long, white-streaked ledge on a cliff face above a nest, with bones below.
+- A black quill, as long as a man's forearm, lying on a track.
+- A broad shadow that crosses a village street at noon and is gone.
 
 ## Combat Strategy
 
@@ -282,7 +298,7 @@ In the high country, the condor's protected religious status creates a practical
 - **Dexterity:** 8-11 (1d4+7) — Adequate in air; clumsy on ground
 - **Agility:** 13-18 (1d6+12) — Supreme aerial agility; thermal navigation is an art form
 - **Perception:** 14-19 (1d6+13) — Extraordinary high-altitude vision; detects carcasses from miles
-- **Aura:** 9-14 (1d6+8) — Sacred messenger of the upper world; profound religious significance
+- **Aura:** 9-14 (1d6+8) — Sacred messenger of the upper world; deep religious significance
 - **Will:** 7-10 (1d4+6) — Patient and persistent; not aggressive
 - **Reasoning:** 5-8 (1d4+4) — Social intelligence within feeding hierarchy
 - **Creativity:** 4-7 (1d4+3) — Limited

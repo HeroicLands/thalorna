@@ -305,7 +305,7 @@ Rearing, the ram strikes down with the forefeet, or lashes back with the hind fe
 
 ### Mountain Agility
 
-The ram crosses near-vertical rock, ledges a hand wide and loose scree at a run, and turns where a man could not stand. On its own ridges it has the advantage of every footing.
+The ram crosses near-vertical rock, ledges a hand wide and loose scree at a run, and turns where a man could not stand. On its own ridges it is surer of every footing than any man.
 
 ### Downhill Charge
 

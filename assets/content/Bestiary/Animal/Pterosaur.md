@@ -254,19 +254,35 @@ sohl:
 
 ![[pterosau|Pterosaur]]{float=top-left}
 
-The shadow passes overhead before you hear the sound — a high-pitched shriek that seems to come from nowhere and everywhere at once. Leathery wings block out the sun, impossibly vast, their silhouette revealing the strange, elongated frame of the creature. The wind of its passage buffets you, and you catch the reek of old fish and something more primal. Banking with predatory grace, it circles higher, and you see the sharp, tooth-filled snout turned downward, searching. Its cry comes again as it climbs, the sound of something utterly alien to warm-blooded lands.
+The cliff above the beach is white with droppings, and a rank, fishy smell comes down from it. Then the ledges seem to unfold. A shape with a wingspan wider than your house-front opens leathery, veined wings against the sky and drops off the rock without a flap. A long, pointed beak full of curved teeth swings toward you, and the narrow head turns, a tall crest behind it. Another one launches, and another.
 
 # Dossier {#dossier}
 
-Pterosaurs are ancient flying reptiles that dominate sky and coastline in isolated regions, boasting wingspans up to thirty feet and bodies deceptively thin despite their mass. These creatures are rarely encountered in heavily settled lands, existing primarily in untamed coastlines, deep valleys, and prehistoric regions where they hunt fish, small mammals, and unwary humanoids. An adventuring party might encounter a pterosaur while navigating coastal cliffs, exploring remote islands, or traversing sky passages between distant lands.
+The Pterosaur is the great flying reptile of the sea cliffs and deep valleys, with a wingspan up to thirty feet on a thin, lean body. It nests in colonies on the headlands of the western fjord coast of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk]], where cedar rain-forest runs down to the cliffs, and is rarely met in settled land. It hunts fish, small mammals and anything else it can seize, from the air.
 
 ## Presentation
 
-The pterosaur's most striking feature is its vast leathery wings, translucent and veined like parchment stretched over an impossibly complex framework of bone and muscle. The wings are supported by an enormously elongated fourth finger bone, which bears much of the creature's weight. The body beneath is surprisingly lean and compact, covered in scales that range from pale gray to reddish-brown, often patterned to blend with rocky outcrops or water. The head is dominated by a long, pointed snout that extends forward from the skull, filled with sharp, backward-pointing teeth designed to grip struggling fish. Some species display elaborate crests or frills along the skull that may serve both display and rudder functions in flight. The tail, if present, is used for steering and balance in aerial maneuvers.
+The wings are the first thing seen: vast, leathery and translucent, veined like parchment and stretched over a long fourth finger bone. The body beneath is lean and compact, scaled from pale gray to reddish brown, patterned to blend with rock or water. The head is dominated by a long, pointed snout set with sharp, backward-pointing teeth to hold struggling fish. Some kinds carry a crest or frill on the skull that serves in display and as a rudder. The tail, where there is one, steers.
+
+## In the Land
+
+Pterosaurs nest on the sea cliffs and in the deep valleys of the western fjord coast of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk]], where cedar rain-forest runs down to the water and the cliffs face the open ocean. A colony of a dozen or more roosts on one headland and uses the updraft along the face to glide out over the sea. They fish at the surface, scavenge on the shore and range far inland along the rivers.
 
 ## Key Behaviors
 
-Pterosaurs are opportunistic predators and scavengers that hunt primarily from the air, rarely descending to ground level unless attracted by carrion or nesting. They are most active during daylight hours and are typically social creatures, establishing loose colonies on high cliffs where thermals provide reliable lift for gliding. These creatures possess prodigious appetites and must consume large quantities of fish, small mammals, or anything else they can capture. Pterosaurs are migratory in cooler regions, following fish runs and hunting seasons. They are intelligent enough to recognize patterns and remember productive hunting grounds.
+Pterosaurs hunt from the air and seldom come down, except at carrion or to nest. They are active by day and live in loose colonies on high cliffs, where the rising air gives steady lift. Their appetites are huge, and a bird must take a great deal of fish, small mammals or anything else to feed. In the cooler regions they migrate with the fish runs. They remember good hunting grounds and notice patterns.
+
+## What the Coast People Do
+
+The coast villages keep their boats drawn up on the beaches under the cliffs only in daylight and do not spread fish to dry on open ground. Children are kept in at dusk in the nesting season. A fisherman on the water watches the cliff-tops for the long wings and goes in. A pterosaur carries off a dog, a goat or a small child, and the villages kill them when they can with nets and long spears. The bones are light and strong and are worked into frames and fishing-floats.
+
+## Signs
+
+- A vast shadow with a narrow, angular outline sliding over the water.
+- A shrieking from a headland, harsh and echoing, in a colony at dusk.
+- Fish remains scattered on a cliff ledge, with white streaks down the rock beneath it.
+- A line of clawed, three-fingered prints on a mud-flat, widely spaced.
+- A fish-drying rack on the beach flung down with the catch gone.
 
 ## Combat Strategy
 
@@ -290,7 +306,7 @@ In desperation or when grounded, the pterosaur sweeps its massive wings in a wid
 
 ### Aerial Mastery
 
-The pterosaur is superlative in flight, capable of hovering with minimal effort, achieving tremendous velocities in dives, and executing aerial maneuvers that defy gravity. It gains significant advantage in all actions taken while airborne.
+The pterosaur is superlative in flight, capable of hovering with minimal effort, achieving tremendous velocities in dives, and executing aerial maneuvers that defy gravity. It is far more dangerous in the air than on the ground.
 
 ### Thermal Gliding
 
@@ -302,7 +318,7 @@ The pterosaur's eyes are positioned laterally and forward-facing, providing mono
 
 ### Bone Hollow
 
-The pterosaur's skeleton is hollow and remarkably light, allowing a creature with an enormous wingspan to remain surprisingly maneuverable and light. This contributes to its grace in flight but makes it fragile to heavy impacts when grounded.
+The pterosaur's skeleton is hollow and very light, allowing a creature with an enormous wingspan to remain surprisingly maneuverable and light. This contributes to its grace in flight but makes it fragile to heavy impacts when grounded.
 
 ### Additional Information
 

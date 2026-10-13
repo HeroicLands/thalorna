@@ -242,19 +242,35 @@ sohl:
 
 ![[palfrey|Palfrey]]{float=top-left}
 
-The horse approaches with a measured, almost gliding stride, its motion so smooth it seems the rider barely rocks in the saddle. Dappled sunlight plays across its well-groomed coat, rich chestnut or gray depending on bloodline, rippling with each effortless step. Its head carries high, ears alert but relaxed, dark eyes showing intelligence and calm acceptance. There is nothing hurried or aggressive in its bearing — only a quiet competence that speaks of miles and hours of reliable travel.
+The lady's horse waits at the inn door, a gray palfrey with a long neck and a fine head, standing quietly in a saddle with a quilted pad and a bridle bright with small brass bosses. It lifts its ears as she comes out and puts its nose into her hand. When she mounts, it sets off at once on a long, even walk that carries the whole string of riders out of the yard without a hurried step.
 
 # Dossier {#dossier}
 
-The palfrey is a refined riding horse selectively bred by nobility for comfort and endurance across long distances, typically standing 14-15 hands tall and weighing 800-1000 pounds. These mounts are not creatures of war or speed racing but rather the preferred conveyance of ladies, couriers, and wealthy merchants who value steady progress over dramatic performance. A traveling party might own a palfrey or hire one along established trade routes, making it a commonplace sight in civilized lands.
+The Palfrey is the riding horse of comfort and distance, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred by the nobility for a smooth, steady gait. Ladies, couriers and wealthy merchants ride it for steady progress and not for speed or war. It is kept in the stables of the noble houses of [[place-aureldirgn|Aurèldía]], on the post-roads of the Byzarian League and at the inns along the trade routes, where one can be hired by the stage.
 
 ## Presentation
 
-Palfreys display refined proportions with long, graceful necks, sloping shoulders, and legs built for stamina rather than explosive power. Their coats typically display clear solid colors — chestnut, gray, bay, or black — usually well-maintained and often marked with heraldic trappings, fancy saddles, and decorative tack. The face is alert but kind-natured, with large, intelligent eyes and ears that respond to subtle commands. Compared to warhorses, palfreys appear lighter and more elegant, lacking the massive musculature and commanding presence of military mounts.
+A horse of refined proportions with a long, graceful neck, sloping shoulders and legs built for stamina. The coat is a clear solid color, chestnut, gray, bay or black, well kept and often marked by fine trappings, decorated saddles and tack. The face is alert and kindly, with large, intelligent eyes and ears that answer a light touch. It looks lighter and more elegant than a warhorse and lacks its mass and presence.
+
+## In the Land
+
+Palfreys are kept in the stables of the noble houses of [[place-aureldirgn|Aurèldía]], on the post-roads of the Byzarian League and at the inns and posting-houses along the long trade routes. A palfrey is stabled in a town or at a manor and sent out on a road by the day. Merchants hire one by the stage, and the best are bred for their gait on the studs of the river valleys.
 
 ## Key Behaviors
 
-Palfreys are temperamentally calm and responsive to their riders, having been selected for generations for obedience and steady nerves. They focus entirely on the task of traveling, maintaining a consistent, distance-eating gait through varied terrain. These horses are social creatures that travel well in groups but form strong bonds with individual riders and handlers. They are primarily diurnal, preferring to travel during daylight hours and settle during dusk. Their diet consists of grass, grain, and hay, and they require regular water and rest. Without an experienced handler, palfreys become anxious and may refuse to travel.
+Palfreys are calm and answer their riders, selected over generations for obedience and steady nerves. They give their whole mind to the road and keep a distance-eating gait across rough ground. They travel well in company and bond with the people who ride them. They work by day and settle at dusk. They eat grass, grain and hay and need regular water and rest. Without an experienced handler they become anxious and may refuse to go on.
+
+## What the Road Does
+
+Ladies, couriers, factors and merchants ride a palfrey, because the animal's steady walk will cover thirty miles a day for a week without tiring a rider. A noble house gives one to a daughter at her marriage. The inns on the trade roads keep horses for hire and ask a deposit. A good palfrey costs more than a plough team, and a thief who takes one is hanged. The animal is neither fast nor strong, and it is not a war-horse; it is walked cool and watered at every ford.
+
+## Signs
+
+- A neat bay or dun horse at a hitching-rail, saddled with a side-saddle or a padded pack.
+- Even hoof-prints in the dust of a road, long-striding, at a walk.
+- A string of riders on the road with a lady in the middle on a gray palfrey.
+- A stable with a row of horses of one size and color, tied and rugged against the cold.
+- A horse that stands calm in the middle of a busy yard.
 
 ## Combat Strategy
 

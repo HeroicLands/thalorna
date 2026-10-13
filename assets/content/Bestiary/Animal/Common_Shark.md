@@ -215,19 +215,35 @@ sohl:
 
 ![[cmmnshrk|Common Shark]]{float=top-left}
 
-The water becomes heavier somehow, thicker, as if something large moves beneath. You catch sight of it first as a silhouette against lighter water above: a shape that is all muscle and hunger, streamlined for speed and designed for killing. The dorsal fin cuts the surface of the water, a dark wedge that never stops moving, circling, assessing. When it turns toward you, the angle of the sun catches rows of teeth—thousands of them, arranged in wheels of replacement within its jaw—and you see in that moment the absolute indifference of nature's most perfect predator.
+The harbor water is flat and green, and a gray fin stands up out of it a hundred yards from the quay, moving in a slow circle. Under the surface a long, pale shape slides between the pilings with its tail sweeping once. Then the fin sinks and the water closes. The dockhands who were fishing from the end of the pier have all stepped back from the edge.
 
 # Dossier {#dossier}
 
-The Common Shark is an oceanic predator refined across millennia to be a supremely efficient killing machine. These creatures measure ten to fifteen feet in length and weigh three hundred to five hundred pounds, though size varies by subspecies. They are found in warm and temperate ocean waters worldwide, either in open ocean or cruising coastal waters in search of prey. A shark's hunting strategy is based on sensory precision and explosive speed—they can detect blood in water from miles away, sense electrical impulses from prey nerves, and accelerate to devastating speeds in brief bursts. They are mindless predators in the sense that they possess no capacity for planning or mercy; they hunt by instinct and pure sensory information. A shark encountering a human in water views that human as potential food and acts accordingly, regardless of how dangerous the human might be. Adventurers encounter sharks while swimming, on ships attacked during ocean voyages, or when diving in coastal waters to investigate shipwrecks or retrieve items from the sea floor.
+The Common Shark is the shark of the warm and temperate seas, ten to fifteen feet long and three to five hundred pounds. It cruises the Vylarian Sea, the island channels of [[place-taruzelrgn|Tarûzel]], the waters off [[place-jurthatrgn|Jürthāt]] and the fjord coast of the [[place-nrdlndsrgn|Nordlands]], and comes into harbors and shallows for offal and blood. A shark finds blood in the water from miles away, and a swimmer is treated as food.
 
 ## Presentation
 
-A torpedo-shaped fish engineered for speed and predation. The body is fusiform—tapered at both ends, with maximum diameter roughly in the middle—allowing rapid acceleration and effortless movement through water. The skin is gray or slate-colored on the dorsal surface, transitioning to white or pale gray on the ventral surface. The texture is rough, covered in microscopic ridges that reduce drag during movement. The dorsal fin is prominent and raised, providing stability during turns. The pectoral fins are broad and used for steering and braking. The caudal fin is asymmetrical, with the upper lobe longer than the lower, providing thrust. The gill slits are prominent and functional, allowing water to pass over gills for oxygenation. The mouth is positioned ventrally (on the underside of the head) and can open wide to reveal rows of teeth: multiple rows of replacement teeth are visible, with new teeth migrating forward as anterior teeth wear or break. The eyes are lateral and reasonably large, capable of detecting movement and light-level changes. The entire creature is designed for one purpose: locating, hunting, and consuming prey.
+A torpedo-shaped fish, slate gray above and white below, with rough skin. The tall dorsal fin stands up in the water, and the broad pectoral fins steer. The tail is uneven, the upper lobe longer than the lower. The gill slits are visible. The mouth lies on the underside of the head and opens on rows of teeth, with new teeth moving forward to replace those that wear or break. The eyes are large and set at the sides.
+
+## In the Land
+
+Sharks cruise the warm and temperate seas, from the Vylarian Sea and the island channels of [[place-taruzelrgn|Tarûzel]] to the waters off [[place-jurthatrgn|Jürthāt]] and the cold fjord coast of the [[place-nrdlndsrgn|Nordlands]], where they come in with the summer herring. They follow the fish runs, the whale carcasses and the offal from the quays, and they come into shallow water to feed at dusk. A shark is met more often in a harbor mouth than in open water.
 
 ## Key Behaviors
 
-Common Sharks are migratory, moving seasonally between feeding grounds and breeding grounds. They are generally solitary hunters, though large concentrations may occur around food sources (dead whales, fish runs, or congregations of prey species). A shark's sensory hunting uses smell first: they can detect a single drop of blood in an temple bathing-pool and will follow the concentration gradient upstream to its source. Once the prey is located, vision takes over, and they assess size and threat level. Sharks do not sleep in the conventional sense but instead reduce activity during certain times. They are cannibalistic and will attack and consume other sharks, including members of their own species, if opportunity presents and size disparity is sufficient. They have no memory in a human sense but operate entirely on instinct, with learned behaviors limited to basic responses to repeated stimuli (food, threat, mating opportunity). Interestingly, sharks do feel pain and injury, but pain does not seem to trigger retreat—instead, injured sharks become more aggressive, possibly due to blood scent triggering feeding response.
+Sharks move with the seasons between feeding and breeding grounds. They hunt alone but gather at a dead whale, a fish run or a crowd of prey. A shark follows the smell of blood first and uses its eyes at the end to judge the size of what it has found. It eats other sharks if one is smaller. It feels injury without being deterred, and a wounded shark grows more aggressive at the scent of its own blood.
+
+## What the Coast People Do
+
+The fishing towns drive the sharks away from their nets with noise and lines of floats. The pearl and sponge divers of the island channels dive in numbers, with a watcher in the boat and a knife in the hand, and come up at once when the water goes still. Shark-liver oil is burnt in lamps, and the skin, dried and stretched, is used to polish wood and bone. Garhaven in Vrystwald takes the shark as its wesk. Swimmers do not bathe near a slaughter-house or a fish-market outfall.
+
+## Signs
+
+- A dark triangular fin cutting the surface in a slow circle.
+- Seabirds crowding one patch of water and diving into a boil of small fish.
+- A net hauled up with half its catch missing and the mesh bitten through in a curve.
+- A gray shape under the keel, longer than the boat, at the turn of the tide.
+- Blood in the water from a gutted catch, and then nothing beneath it, and then everything.
 
 ## Combat Strategy
 
@@ -255,7 +271,7 @@ The shark can detect blood in water from extraordinary distances—the ability t
 
 ### Aquatic Dominance and Speed
 
-In water, the shark is apex predator, capable of accelerating to speeds that exceed human swimming capability by factors of three or more. It maneuvers with precision, banks and turns instantly, and can position itself advantageously regardless of terrain. A human in water is at catastrophic disadvantage against a shark.
+In water, the shark is apex predator, capable of accelerating to speeds that exceed human swimming capability by factors of three or more. It maneuvers with precision, banks and turns instantly, and can position itself advantageously regardless of terrain. A swimmer has almost no chance against a shark.
 
 ### Feeding Frenzy and Escalating Aggression
 

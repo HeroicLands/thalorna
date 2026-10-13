@@ -210,19 +210,35 @@ sohl:
 
 ![[jackal|Jackal]]{float=top-left}
 
-A shape slips between the dunes at the edge of firelight — low-slung, tawny, moving with the practiced silence of something that has learned to survive by never being noticed until it chooses to be. The ears come first: tall, black-tipped, swiveling independently like a pair of sentries. Then the narrow face, sharp-muzzled and intelligent, with amber eyes that catch the light and throw it back as twin coins of gold. The body is lean to the point of emaciation, every rib visible beneath a coat of dusty gold and brown, but the leanness is deceptive — this is not starvation but economy, a creature stripped to nothing but sinew, speed, and hunger. It pauses, one paw lifted, nose working the air with rapid precision. Behind it, more shapes materialize from the darkness: three, five, seven — a loose constellation of identical silhouettes, each watching with the same patient, calculating stillness. They do not growl. They do not need to. They have been here longer than you, and they will be here long after you leave.
+At dusk a thin, wailing cry rises from the dry channel beyond the last field. It is answered at once from the cemetery wall, and then by the village dogs. A slender gold-gray shape is trotting along the top of the wall, long-legged, with oversized ears and a black-tipped tail held low. It stops, looks back with amber eyes that shine green in the lamplight, and goes on.
 
 # Dossier {#dossier}
 
-The Jackal is the ubiquitous canid of the river lowlands — a small, adaptable predator-scavenger found along the great river, in the desert margins, around village middens, and among the necropolis complexes where it feeds on offerings left for the dead. An adult jackal stands roughly sixteen to twenty inches at the shoulder and weighs fifteen to thirty-five pounds — far smaller than a wolf, but compensating with intelligence, speed, and a social flexibility that allows it to hunt alone, in mated pairs, or in loose packs of up to a dozen individuals. Jackals are sacred to the lord of the dead, and their presence near tombs and burial sites is considered both natural and spiritually significant. Killing a jackal near a necropolis is a serious religious offense in the river kingdoms, though farmers and herders who lose livestock to jackal predation feel rather differently about the matter. Adventurers encounter jackals constantly in the river lands — trotting along roadsides at dusk, skulking around campsites, scavenging battlefields, and haunting the margins of every settlement. They are rarely dangerous individually, but a pack of hungry jackals is a genuine threat to the wounded, the sleeping, and the unwary.
+The Jackal is the small wild dog of the river lowlands, sixteen to twenty inches at the shoulder and fifteen to thirty-five pounds, living along the river and channels of [[place-aukhelathrgq|Aû'Khelâthu]], in the desert margins, around village middens and among the tombs of the necropolis cities. It scavenges first and hunts second, alone, in pairs or in loose packs of up to a dozen. Jackals are sacred to the lord of the dead, and killing one near a tomb is a serious offense, which the farmers who lose livestock to them feel differently about.
 
 ## Presentation
 
-A slender, long-legged canid built for endurance rather than power. The coat is short and coarse, typically a blend of tawny gold, russet brown, and pale cream, with darker saddle markings across the back and black tips on the ears and tail. The face is narrow and fox-like, with a pointed muzzle, large amber or golden eyes, and oversized ears that give the animal an alert, perpetually watchful expression. The legs are proportionally long for the body, built for sustained trotting over open ground rather than the explosive sprinting of a hunting dog. The tail is bushy and held low when relaxed, raised when alert or dominant. The overall impression is of a creature designed for survival in marginal environments — lightweight, quick, adaptable, and always watching. At night, jackal eyes reflect firelight with an eerie golden-green glow, and their distinctive wailing cry — a rising, ululating howl answered by others across the darkness — is one of the signature sounds of the river night.
+A slender, long-legged wild dog, built for endurance. The coat is short and coarse, a blend of tawny gold, russet and pale cream, with a darker saddle and black tips to the ears and tail. The face is narrow and fox-like, with a pointed muzzle, amber or golden eyes and large ears. The legs are long for a trot over open ground. The bushy tail is held low when the animal is relaxed. At night the eyes shine gold-green in firelight.
+
+## In the Land
+
+Jackals live along the river and the irrigation channels of [[place-aukhelathrgq|Aû'Khelâthu]], in the scrub at the edge of the desert, around village middens and among the tombs of the necropolis cities. A pair or a family shelters in a shallow den or a rock crevice by day and hunts at dusk and dawn. They are wary, quick and adaptable, and feed on carrion, fruit, rodents, insects and whatever people throw away.
 
 ## Key Behaviors
 
-Jackals are crepuscular and nocturnal, most active at dawn, dusk, and through the night. During the day they rest in shallow dens, rock crevices, or dense scrub. They are omnivorous scavengers first and hunters second, feeding on carrion, insects, fruit, small mammals, birds, reptiles, and refuse from human settlements. A mated pair will hunt cooperatively, one driving small prey toward the other, and larger packs can bring down young gazelles or sickly livestock through harassment and exhaustion. Jackals are intensely territorial, marking boundaries with urine and scat and defending home ranges against rival pairs with aggressive vocal displays and, when necessary, physical combat. They are among the most vocal of canids — their evening chorus of howls, yips, and wailing cries serves to establish territory, coordinate pack movements, and warn of predators. Jackals mate for life, and both parents participate in raising pups, with older offspring from previous litters sometimes remaining to help raise younger siblings. Near human settlements, jackals become increasingly bold over time, learning to raid middens, steal food from camps, and exploit the distraction of human activity to scavenge more effectively.
+Jackals are active at dawn, dusk and night and rest by day in shallow dens, rock crevices or thick scrub. They eat carrion, insects, fruit, small mammals, birds, reptiles and refuse. A pair hunts together, one driving small prey toward the other, and a bigger pack can wear down a young gazelle or a sick animal. They mark their ranges with urine and scat and drive off rivals with calls and, if needed, a fight. They mate for life, and both parents raise the pups, helped by the older young. Near settlements they grow bolder, raiding middens and camps.
+
+## What the Necropolis Keepers Do
+
+[[lore-hezmuiridty|Hezmu'îri]], the Keeper of Transitions, is shown with a jackal's head, and the embalmers who work the drying beds hold the animal in respect for the care it seems to take of the dead. The necropolis keepers feed the jackals that live in the cemetery walls and drive them from freshly sealed tombs. Farmers shoot or trap the ones that take poultry. The Houseless warband of exiled Bethûan women in the South Marches takes the jackal's name. A jackal's call at night is a village's sign that a death is near, and a dog's reply is not welcomed.
+
+## Signs
+
+- A thin, wailing chorus at dusk that sets every dog in the village barking.
+- A lean, gold-gray shape slipping along a wall between two tombs, with something in its mouth.
+- Small, neat tracks along the margin of a channel, with a tail-brush in the sand.
+- A scatter of bones around the base of a cemetery wall.
+- Eyes shining at the edge of a lamp in the desert, in pairs.
 
 ## Combat Strategy
 
@@ -232,11 +248,11 @@ A jackal avoids direct combat with anything larger than itself whenever possible
 
 ### Darting Bite
 
-The jackal lunges forward with a quick, snapping bite aimed at exposed extremities — ankles, calves, hands, and faces of prone targets. The bite itself is relatively weak compared to larger canids, but the teeth are sharp and the jaw quick, inflicting ragged wounds that bleed freely and are prone to infection.
+The jackal lunges forward with a quick, snapping bite aimed at exposed extremities — ankles, calves, hands, and faces of those on the ground. The bite itself is relatively weak compared to larger canids, but the teeth are sharp and the jaw quick, inflicting ragged wounds that bleed freely and are prone to infection.
 
 ### Pack Harassment
 
-Multiple jackals coordinate attacks from different angles, darting in to bite and retreating before the target can retaliate. The psychological effect of being surrounded by multiple fast-moving attackers is often more debilitating than any individual bite, and the cumulative blood loss from dozens of small wounds can be genuinely life-threatening.
+Multiple jackals coordinate attacks from different angles, darting in to bite and retreating before the target can retaliate. The psychological effect of being surrounded by multiple fast-moving attackers is often more debilitating than any individual bite, and the cumulative blood loss from dozens of small wounds can be life-threatening.
 
 ## Special Abilities
 
@@ -246,7 +262,7 @@ The jackal is superbly adapted to arid environments. It can survive on minimal w
 
 ### Keen Senses
 
-The jackal's hearing is exceptional — those oversized ears detect the movement of insects beneath sand and the footsteps of approaching creatures at considerable distance. Its sense of smell, while not as developed as a wolf's, is still remarkably acute, allowing it to locate carrion from miles away on the wind. At night, the jackal's vision is excellent, adapted for low-light hunting.
+The jackal's hearing is keen — those oversized ears detect the movement of insects beneath sand and the footsteps of approaching creatures at considerable distance. Its sense of smell, while not as developed as a wolf's, is still very acute, allowing it to locate carrion from miles away on the wind. At night, the jackal's vision is excellent, adapted for low-light hunting.
 
 ### Cunning and Adaptability
 
@@ -254,7 +270,7 @@ Jackals are among the most intelligent of the smaller canids, capable of learnin
 
 ### Necropolis Haunter
 
-In the river kingdoms, jackals are associated with the dead and the boundary between the living and spirit worlds. Whether this association reflects genuine supernatural sensitivity or merely the jackal's preference for carrion near burial sites is debated by priests and scholars alike. What is certain is that jackals are always present near necropolises, that they seem drawn to sites of recent death, and that their howling chorus near a settlement is considered an omen — sometimes of death approaching, sometimes of the lord of the dead extending protection.
+In the river kingdoms, jackals are associated with the dead and the boundary between the living and spirit worlds. Whether this association reflects real supernatural sensitivity or merely the jackal's preference for carrion near burial sites is debated by priests and scholars alike. What is certain is that jackals are always present near necropolises, that they seem drawn to sites of recent death, and that their howling chorus near a settlement is considered an omen — sometimes of death approaching, sometimes of the lord of the dead extending protection.
 
 ## Attributes
 

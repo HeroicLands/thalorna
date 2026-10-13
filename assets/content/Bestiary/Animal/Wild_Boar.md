@@ -242,19 +242,35 @@ sohl:
 
 ![[wildboar|Wild Boar]]{float=top-left}
 
-The dense, matted bristles catch the light as the creature stamps forward, revealing a musculature beneath the coat that belies the stocky frame. The tusks curve upward wickedly from the lower jaw, aged and stained, clearly weapons used repeatedly to gore earth and enemies alike. The elongated snout roots at the ground methodically, evidence of both foraging behavior and destructive power. The small eyes are bright with intelligence and aggression, and the growl that emerges speaks of relentless territoriality and absolute willingness to fight.
+The cart-track through the chestnut wood is torn up in a long, dark furrow, and the mud in the hollow beside it is churned black and stuck with bristles. Something grunts in the thicket ahead, and the undergrowth shivers. A stocky, barrel-shaped shape comes into view with its head down and its dark bristles on end, curved tusks showing along the jaw, and stands there, staring and ready.
 
 # Dossier {#dossier}
 
-The Wild Boar is a heavily muscled, stocky ungulate standing 2-3 feet at the shoulder and weighing 200-400 pounds, found in forests, scrublands, and rough terrain throughout temperate regions. These aggressive, territorial creatures are dangerous primarily during defensive moments, though mature males are aggressive year-round. Adventurers encounter them while traveling forests, hunting game, or inadvertently entering territory claimed by boars.
+The Wild Boar is the wild pig of the forests, scrub and rough ground of the temperate lands, two to three feet at the shoulder and 200 to 400 pounds. It roots through the oak and chestnut woods of [[place-aureldirgn|Aurèldía]], the gorges of the Byzarian [[place-southrnmrch|Southern March]] and the river thickets of [[place-velanthrgn|Velanthia]]. It is dangerous mainly when defending itself or its young, though a mature male is aggressive all year.
 
 ## Presentation
 
-The wild boar is stocky and barrel-shaped with a dark bristly coat ranging from brown to black. Short, sturdy legs support the weight, and powerful tusks curve upward from the lower jaw. The snout is elongated and powerful, clearly adapted for rooting through soil. The body is heavily muscled beneath the bristly coat, and the hide is thick and tough.
+A stocky, barrel-shaped pig with a dark bristly coat from brown to black, short, sturdy legs and tusks that curve up from the lower jaw. The snout is long and strong, made for rooting. The body under the bristles is heavily muscled and the hide is thick and tough.
+
+## In the Land
+
+Wild boar root in the oak and chestnut woods of [[place-aureldirgn|Aurèldía]], the gorges of the Byzarian [[place-southrnmrch|Southern March]], the river thickets of [[place-velanthrgn|Velanthia]] and the scrub of many lowland valleys. A sow with her sounder keeps a few square miles around a wallow, and a boar lives alone outside the rut. They root at dusk, at night and at dawn, and lie up by day in a thicket.
 
 ## Key Behaviors
 
-Wild boars are omnivorous and spend much time rooting through soil for roots, tubers, and grubs. They are solitary except during mating season, when males become intensely aggressive. They are active primarily during dawn, dusk, and night. They can move with surprising speed despite their build. Mothers defending young become nearly unstoppable in aggression.
+Wild boars root through the soil for roots, tubers and grubs, and eat meat and carrion. They live alone except in the mating season, when the males are very aggressive. They are active at dawn, dusk and night, and are surprisingly quick for their build. A sow defending her young is nearly unstoppable.
+
+## What the Hunters Do
+
+Hunting a boar is a sport of lords and a necessity for farmers. The lords of the Southern March ride after it with hounds and boar-spears. Farmers fence their fields and set ditches around the roots and the grain, and shoot a boar at night from a platform. A wounded boar charges, and a hunter plants the butt of the spear in the ground. The meat is salted for winter, the bristles go for brushes and the tusks for charms. A sow with piglets is left alone.
+
+## Signs
+
+- A field of roots turned over from edge to edge in a single night.
+- A trough of black mud in a hollow with bristles stuck to the sides.
+- Cloven tracks, deep, with the dew-claws showing, in soft ground.
+- A tree rubbed at knee height and plastered with mud.
+- A sudden grunt and crash in the undergrowth.
 
 ## Combat Strategy
 

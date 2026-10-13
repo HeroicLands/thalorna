@@ -425,19 +425,35 @@ sohl:
 
 ![[baboon|Baboon]]{float=top-left}
 
-The noise reaches you before the sight — a cacophony of barking screams that echoes off the sandstone cliff face like the sounds of a small war. Then you see them: dozens of gray-brown shapes moving across the rocks with an unsettling combination of animal speed and almost-human deliberation. The nearest one turns to face you and the resemblance to something familiar and something alien collides in your gut. The face is long and doglike, framed by a heavy mane of coarse fur, but the eyes — small, deep-set, and amber — hold an intelligence that no dog ever possessed. It pulls its lips back from canine teeth as long as your thumb, the pink gums bright against the dark face, and produces a sound that is half bark and half scream. The others take up the call. There are very many of them, and they are watching you with an attention that feels disturbingly like assessment.
+A bark comes from the rock above the river path, short and flat, and is answered from further along the cliff. A big gray animal sits on the ledge with its knuckles on the stone, watching you with deep-set amber eyes. Its mane is thick over the shoulders and its long muzzle is wrinkled back from teeth as long as a leopard's. Behind it, among the boulders, you can make out a dozen more.
 
 # Dossier {#dossier}
 
-The Baboon is the largest and most dangerous primate of the river lowlands — a powerfully built, highly social monkey found in rocky escarpments, river margins, and increasingly around the edges of human settlements along the great river. An adult male stands two to three feet at the shoulder when on all fours and weighs fifty to a hundred pounds, with the largest dominant males occasionally exceeding this range. They live in troops of twenty to over a hundred individuals organized around a strict dominance hierarchy, and it is the troop — not the individual — that makes baboons genuinely dangerous. A lone baboon is a nuisance; a troop of angry baboons is a disaster. Baboons are sacred to the scribe-god of the river kingdoms, associated with wisdom, writing, and the judgment of souls, and troops that inhabit temple complexes are fed and protected by priests. This sacred status creates constant tension with farmers, whose crops and granaries suffer devastating raids from troops that have learned human agriculture represents an easy food source. Adventurers encounter baboons along cliff faces and rocky outcrops near rivers, in temple complexes where they are semi-domesticated, raiding agricultural areas, and occasionally in wilderness areas where troops have established territories across mountain passes or canyon systems.
+The Baboon is the largest monkey of the river lowlands, fifty to a hundred pounds, living in troops of twenty to over a hundred on the cliffs and rocky escarpments above the great river of [[place-aukhelathrgq|Aû'Khelâthu]] and along the river margins of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]. A lone animal is a nuisance; a troop strips a granary or a field in an hour. The animals are sacred to the scribe-god [[lore-rethsaardty|Reth'Sa'âr]], and the troops of the temple courts are fed by the priests.
 
 ## Presentation
 
-A heavy-bodied primate with a distinctly doglike face — a long, projecting muzzle ending in a broad nose, deep-set amber eyes beneath heavy brow ridges, and powerful jaws equipped with canine teeth that rival those of a leopard in length. Males are substantially larger than females and carry a thick mane of coarse gray-brown fur across the shoulders and upper back, giving them a hulking, almost leonine silhouette. The body is muscular and compact, built for climbing and fighting rather than the graceful arboreal movement of smaller monkeys. The hands are large with strong, dexterous fingers capable of gripping, manipulating objects, and delivering surprisingly powerful strikes. The hindquarters feature distinctive bare callosities — patches of hardened, often brightly colored skin — that serve as social signals. The tail is medium-length and carried in a characteristic arch. The overall impression is of a creature that occupies an uncomfortable middle ground between animal and something more: too intelligent to dismiss, too aggressive to ignore, and too numerous to fight.
+A heavy-bodied monkey with a long, doglike muzzle ending in a broad nose, deep-set amber eyes under heavy brows, and canine teeth as long as a leopard's. The males carry a thick gray-brown mane over the shoulders and upper back and stand two to three feet at the shoulder on all fours. The body is compact and muscular. The hands are large and strong, and the tail is of medium length, carried in an arch. The hindquarters have bare, brightly colored patches of hardened skin.
+
+## In the Land
+
+Baboon troops live on the cliffs and rocky escarpments above the great river of [[place-aukhelathrgq|Aû'Khelâthu]] and along the river margins of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]. A troop sleeps on a cliff ledge or in a stand of tall trees, descends at first light to the river bottoms and the fields, and walks the same circuit each day. Troops that have taken to the temple precincts stay in them year-round and are fed from the temple kitchens. Wild troops hold the canyons and mountain passes farther inland.
 
 ## Key Behaviors
 
-Baboons are intensely social animals organized into troops governed by complex dominance hierarchies. Males compete for rank through displays, alliances, and violent confrontation, while females maintain their own parallel hierarchy that passes from mother to daughter. The dominant male controls access to food and mates but must constantly defend his position against younger challengers. Troops forage together, moving across their territory in organized groups with sentries posted on high ground to watch for predators. They are omnivorous and opportunistic — eating fruit, seeds, roots, insects, small mammals, birds and eggs, and anything they can steal from human settlements. Baboons are destructive raiders of crops and granaries, working cooperatively to distract guards while others steal food. They are capable of opening latches, pulling apart thatched roofing, and solving simple mechanical problems to access stored food. In temple complexes, baboons that have been fed by priests for generations become semi-tame but never truly domesticated — they tolerate human presence but remain capable of sudden, unpredictable aggression, particularly during mating season or when young are present. Baboons are vocal and expressive, communicating through a complex repertoire of barks, screams, grunts, and lip-smacking displays that convey aggression, submission, alarm, and social bonding.
+Troops are led by a dominant male who holds his rank against younger challengers, while the females keep a hierarchy of their own, handed down from mother to daughter. They forage together over a fixed territory with sentries posted on high ground, and eat fruit, seeds, roots, insects, eggs, small animals and whatever can be stolen. They raid in teams, one group distracting the guards while another takes the grain, and they open latches and pull thatch apart. Temple troops, fed for generations, tolerate people but turn on them suddenly in the mating season or when young are near.
+
+## What the Temples Do
+
+The temples of the scribe-god [[lore-rethsaardty|Reth'Sa'âr]] feed the troops that live in their courts and forbid anyone to strike one. A farmer whose granary has been stripped has no remedy under temple law, and the loss falls on the village until the scribes assess it against the temple's tithe. Farmers guard ripe fields with watchers on towers, with drums, and with dogs, and they build granary doors with a bar set high where a baboon's hand cannot lift it. A baboon that kills a child is the one case in which the priests allow the troop's leader to be driven out of the precinct.
+
+## Signs
+
+- Barks and screams from the cliff-tops at dawn, passed along the face from one sentry to the next.
+- A thatched roof pulled open from the edge, with the grain bin beneath it emptied.
+- A field of ripe barley trampled flat in a band the width of a troop, with seed-heads shredded.
+- A watcher on a high rock who does not run when approached and does not take his eyes off the traveler.
+- Flat stones turned over along a river bank, and the insects beneath them gone.
 
 ## Combat Strategy
 
@@ -451,11 +467,11 @@ The baboon's primary weapon. The canines of an adult male are two to three inche
 
 ### Grappling and Mauling
 
-Using its powerful hands and arms, the baboon seizes its target and pulls it close to deliver repeated bites. The grip strength is remarkable — a baboon that has seized a human arm or leg is extraordinarily difficult to dislodge. Against smaller opponents, a baboon may simply overpower and pin them, biting at the face and throat.
+Using its powerful hands and arms, the baboon seizes its target and pulls it close to deliver repeated bites. The grip is very strong — a baboon that has seized a human arm or leg is extraordinarily difficult to dislodge. Against smaller opponents, a baboon may simply overpower and pin them, biting at the face and throat.
 
 ### Troop Swarm
 
-The baboon's most dangerous tactic. Multiple individuals attack simultaneously from different directions, overwhelming the target's ability to defend. While individually a baboon can be driven off, facing five or ten simultaneously is a genuinely life-threatening situation. The psychological effect of being swarmed by screaming, biting primates with almost-human faces is devastating to morale.
+The baboon's most dangerous tactic. Multiple individuals attack simultaneously from different directions, overwhelming the target's ability to defend. While individually a baboon can be driven off, facing five or ten simultaneously is a life-threatening situation. The psychological effect of being swarmed by screaming, biting primates with almost-human faces is devastating to morale.
 
 ## Special Abilities
 

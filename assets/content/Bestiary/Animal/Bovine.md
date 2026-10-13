@@ -219,19 +219,35 @@ sohl:
 
 ![[bovine|Bovine]]{float=top-left}
 
-The creature's massive form dominates the pasture—all solid muscle and weight pressing down on four columnar legs. Its coat gleams in the sunlight, smoothed by endless hours of grooming and weather. The head swings toward you slowly, and you catch the animal's scent on the wind: warm, earthy, tinged with the ammonia of straw bedding. Its breath huffs from flared nostrils as it regards you with eyes large and dark as storm clouds, intelligence and indifference mixing in that eternal bovine stare. When it shifts its weight, the ground seems to settle and adjust.
+The pasture gate has been chained against the lane, and in the field behind it a red-brown bull stands by himself with his head low, his tail lashing and a front hoof scraping the turf. The cows have drifted to the far hedge. The bull's breath smokes in the cold, and he has not taken his eyes off you since you reached the gate.
 
 # Dossier {#dossier}
 
-Domestic cattle represent one of the first domestications in human civilization—animals selected across millennia for docility, strength, and productivity. Yet beneath that domestication lies the frame and muscle of massive herbivores capable of inflicting serious injury. Standing four to six feet tall at the shoulder and weighing eight hundred to two thousand pounds depending on breed, a bull is a creature of significant power. While bovines as a whole are more docile than wild ungulates, they retain the capacity for violence, particularly bulls during rut, mothers defending calves, or any individual provoked into defending itself. Adventurers encounter bovines primarily in pastoral regions, on farms, driving cattle herds, or when attempting to pass through pasture lands where a protective bull stands guard.
+Bovines are the cattle of the farms and herds of every farming country, four to six feet at the shoulder and eight hundred to two thousand pounds, the bull heaviest. Villages keep them for the plough, the milk and the hide, and the herding clans of the [[place-sthrnsvnhs|Southern Savannahs]] reckon their wealth in them. A herd is placid, but a bull in the autumn rut, a cow with a young calf and an animal that has been struck or cornered all charge.
 
 ## Presentation
 
-A large, heavy-bodied animal with a compact frame resting on four thick, pillar-like legs. The body is composed almost entirely of muscle covered in short fur that varies by breed—black, white, brown, red, or combinations thereof. Bulls are noticeably larger and more heavily muscled than cows, with a thicker neck and more prominent shoulder and chest development. Horns vary dramatically by breed: some cattle bear no horns at all, while others carry substantial horns capable of reaching three feet in length, sweeping outward and forward. The face is broad and carries a distinctive pattern of nose and eyes—the nostrils are large and often lighter in color than the body, and the eyes are large, dark, and placed on the sides of the head to provide panoramic vision. The tail is long and thin, usually ending in a tassel of longer hair. Most distinctive is the aroma—a warm, earthy, slightly acrid smell that becomes stronger in damp conditions.
+A heavy-bodied animal on four thick, pillar-like legs, almost all muscle under a short coat that runs from black to white, brown or red. Bulls are bigger than cows, with a thick neck and heavy shoulders. Horns depend on the breed: some herds are polled, and others carry horns up to three feet long, sweeping out and forward. The face is broad, the nose large and often paler than the coat, and the eyes dark, set at the sides of the head. The tail ends in a tassel. A warm, earthy smell hangs about a herd, stronger in damp weather.
+
+## In the Land
+
+Cattle are kept in every farming country in the setting, from the river-prince estates of [[place-velanthrgn|Velanthia]] to the pasture-uplands of the [[place-southrnmrch|Southern March]] and the herding country of the [[place-sthrnsvnhs|Southern Savannahs]]. A farm's herd grazes the home meadow by day and is penned or tethered at night; a village's cattle are driven to the summer pasture under one herder. Bulls are kept apart from the cows in a separate pen, a stout paddock or a field with a deep ditch.
 
 ## Key Behaviors
 
-Domestic cattle are fundamentally herd animals. A single isolated bovine becomes nervous and unpredictable; a herd of cattle moves with collective purpose. They spend most of their time grazing, moving slowly through pasture and ruminating at leisure, sleeping in short bursts. Cows are protective of calves, particularly in the first few weeks of life, and will charge at perceived threats without hesitation. Bulls develop strong territorial behavior, especially during breeding season (autumn), when a single bull may attack other bulls, humans, or animals that approach cows. Some bulls become progressively aggressive as they age, learning that charging and goring work as deterrents and growing bolder each time they succeed. Cattle have long memories and recognize individual humans—a bull that has been struck or cornered by a particular person will often bear a grudge and seek confrontation on subsequent encounters. They are also herd animals in a deep sense: if one member of a group bolts in panic, others will follow, creating the catastrophic stampedes that have devastated communities throughout history.
+Cattle live as a herd, and a single animal cut off from it becomes nervous. They graze, chew the cud and sleep in short bouts. Cows guard a new calf closely and charge any threat. Bulls turn territorial in the autumn, and some become more aggressive with age, learning that a charge works. Cattle recognize people, and a bull that has been struck or cornered by one person looks for him again. If one animal bolts in fright the rest follow, and a stampede wrecks fences, crops and houses.
+
+## What the Herders Do
+
+The savanna clans measure wealth in cattle and keep them with great care, and a herd is the first thing a clan brings to a bargain. In the farming countries a bull is kept for breeding and nothing else, and a herder will not turn him loose in a field where a path crosses it. Oxen draw the plough and the heavy wagon. Cows are milked, and the hide, horn and tallow go to the tanner, the comb-maker and the chandler. On the road, a drover goes ahead of a herd to clear the way, and a traveler who finds a bull in a lane waits at a gate until the herder arrives.
+
+## Signs
+
+- A worn track between pasture and byre, churned to mud at each gate.
+- Dung pats in the road, one or two days old, and the smell of a herd behind a hill.
+- A bull pawing the ground at the corner of a field, head low, tail lashing.
+- A bell on a dun cow, ringing slowly across a valley at dusk.
+- A fence rail broken outward, with hair on the splinters.
 
 ## Combat Strategy
 
@@ -259,7 +275,7 @@ A group of cattle amplifies individual aggression through herd behavior. When on
 
 ### Surprising Strength and Resilience
 
-Despite their herbivorous nature, bovines are remarkably strong and robust. Their muscle and bone density exceed that of predators of comparable size. The thick skin and body structure provide some resistance to both slashing and piercing attacks, and blunt force trauma to the body is less likely to incapacitate them than cutting attacks.
+Despite their herbivorous nature, bovines are very strong and robust. Their muscle and bone density exceed that of predators of comparable size. The thick skin and body structure provide some resistance to both slashing and piercing attacks, and blunt force trauma to the body is less likely to incapacitate them than cutting attacks.
 
 ### Keen Senses and Herd Awareness
 

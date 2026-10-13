@@ -234,19 +234,35 @@ sohl:
 
 ![[lion|Lion]]{float=top-left}
 
-The moment you see it, you understand why it is called the king of beasts. The massive lion strides into view with utter confidence, its golden coat rippling with each powerful motion. The distinctive mane frames the head and neck like a crown of spun copper and amber, catching the light and making the animal appear even larger than it already is. Its muscles move beneath the fur like coiled rope, and its eyes—amber and intelligent—hold yours for a moment. A low rumble that you feel as much as hear emanates from its throat: a sound of absolute authority.
+On the flat top of the kopje a tawny shape lies stretched in the shade of a thorn tree, its tail flicking. Cubs tumble about it. Further off, among the long grass at the edge of the pan, five more heads rise and turn together. The male at the top of the rock stands up. His mane, black at the edges, hangs to his shoulders, and the roar that comes out of him shakes the stones under your feet.
 
 # Dossier {#dossier}
 
-The lion is a massive carnivore — second in size only to the tiger among the great cats — weighing 300-500 pounds with males significantly larger than females. The body is covered in short, tawny fur ranging from pale gold to deep reddish-brown, with white spots visible on the ears and face. Males possess a distinctive mane—thick, long fur covering the neck, shoulders, and parts of the face—that serves both as display and as protection during combat. The mane darkens with age and virility, becoming nearly black in the oldest, most dominant males. The body is heavily muscled, built for explosive power rather than sustained speed.
+The Lion is the great social cat, three to five hundred pounds, males much heavier than females, living in prides of four to thirty on the plains and acacia woodland of the [[place-sthrnsvnhs|Southern Savannahs]] and the savanna of the south of [[place-okharisrgn|Okháris]]. It is the only cat that lives in groups. The lionesses hunt together, and the males hold the ground and guard the cubs. A pride defends a huge range against other prides.
 
 ## Presentation
 
-Lions display impressive musculature throughout their entire frame, with the shoulders and forelimbs particularly developed. Their heads are broad and powerful, with jaws capable of crushing bone. Their eyes are large and forward-facing, providing excellent binocular vision. The ears are rounded and move independently to pinpoint sounds. The tail is long—nearly a meter—and tipped with a tuft of hair that can be used for signaling. The claws are sharp and partially retractable. A male's mane varies considerably in size and color depending on health, dominance, and age; a particularly impressive mane indicates a lion at the peak of its power.
+A massive, heavily muscled cat with short tawny fur from pale gold to deep reddish brown and white spots on the ears and face. The male has a thick, long mane over the neck, shoulders and parts of the face, darkening with age to almost black; it is bigger and darker on the oldest, strongest males. The head is broad and powerful, with jaws that crush bone and large forward-facing eyes. The ears are rounded. The tail, nearly a yard long, ends in a tuft. The claws are sharp and partly retractable.
+
+## In the Land
+
+Lions hold the plains, acacia woodland and rocky kopjes of the [[place-sthrnsvnhs|Southern Savannahs]] and the grass and savanna of the south of [[place-okharisrgn|Okháris]], following the migrating herds. A pride of four to thirty keeps a territory of many miles around a few shady resting-places and a water-hole, the lionesses hunting and the males patrolling the boundaries. The pride rests through the heat of the day and hunts at dusk and at dawn. The roar carries for miles.
 
 ## Key Behaviors
 
-Lions are the only truly social felids, living in prides of 4 to 30 individuals with a complex social hierarchy and division of labor. Females do most of the hunting while males guard territory and young. The pride hunts cooperatively, surrounding prey and cutting off escape routes before a coordinated strike. Lions are territorial and patrol and defend an enormous range against rival prides. They rest up to 20 hours per day, hunting primarily during dawn and dusk. Males spend much of their time patrolling and marking territory with scent and visual markers.
+A pride has a firm rank order and divides its work, the females doing most of the hunting while the males patrol and guard. The pride hunts together, surrounding prey and cutting off escape before a coordinated strike. Lions rest up to twenty hours a day and hunt mostly at dawn and dusk. Males patrol the boundaries and mark them with scent and signs.
+
+## What the Herding Clans Do
+
+The Nyáluba clan of the Ruwozi are the lion-clan, the cattle-herders of the central plains and the first among the five clans, and for them the lion guide is an ancestral presence and not only an animal. At the Great Lubemo at [[place-hetolubemo|Heto Lubemo]] the lion cult keeps the memory-song of the Long Pact. Herders bring the cattle into a thorn cattle-fold at night and kindle fires, and a boy keeps watch on the roof of the hut. A lion that takes a man is hunted down by a party of spears. The forest-hunters of the Khelâthi guild take lion in the savanna fringe.
+
+## Signs
+
+- Paw-prints as wide as a man's hand, four toes and a broad pad, in a line along a dry river-bed.
+- A zebra or antelope carcass dragged into a shaded thicket, with vultures walking round it.
+- A deep, coughing roar at night that rolls across the plain, and then a second from the other side.
+- A tawny shape stretched in the shade of a tree, flicking its tail, with cubs tumbling about it.
+- Herds that bunch and stare in one direction, and the grass moving.
 
 ## Combat Strategy
 
@@ -260,17 +276,17 @@ The lion lunges to clamp powerful jaws on the target's neck, throat, or vulnerab
 
 ### Claw Swipe
 
-The lion rakes its claws across an opponent, capable of delivering deep lacerations, disarming weapons, or knocking a target prone; the swipe is often a follow-up to a successful charge.
+The lion rakes its claws across an opponent, capable of delivering deep lacerations, disarming weapons, or knocking a man down; the swipe is often a follow-up to a successful charge.
 
 ## Special Abilities
 
 ### Strength of Kings
 
-The lion possesses extraordinary raw strength and uses this to overpower opponents; it gains bonuses to feats of strength and can perform actions that would be impossible for lesser creatures.
+The lion possesses extraordinary raw strength and uses this to overpower opponents; it can do feats of strength that lesser creatures cannot.
 
 ### Pack Hunter
 
-Lions gain significant bonuses when fighting alongside other pride members, and they can execute coordinated attacks with preternatural synchronization, communicating through subtle roars and body language.
+Lions fight far more effectively alongside other pride members, and they can execute coordinated attacks with preternatural synchronization, communicating through subtle roars and body language.
 
 ## Attributes
 

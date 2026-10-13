@@ -210,19 +210,35 @@ sohl:
 
 ![[ratter|Ratter]]{float=top-left}
 
-The wiry frame of the dog is perpetual motion, almost vibrating with barely contained energy. Its nose works constantly, vacuuming scents from the ground in quick, efficient sweeps, its body language screaming intensity and focus. The short coat is weathered and practical, often stained with earth or whatever quarry it has recently pursued. Its eyes are bright and alert, darting constantly, noting everything. You can sense the coiled spring in its muscles — this is not a dog content to lie still, but rather a creature engineered for tireless pursuit and efficient violence against creatures smaller than itself.
+In the corner of the grain-store a small, wiry dog stands rigid, nose to a crack in the boards and one forefoot lifted. Its short tail is stuck straight up, quivering. It has not moved for several minutes, and does not turn when you come in. Then it whines, once, very softly, and explodes into a frenzy of digging, scattering dust and meal.
 
 # Dossier {#dossier}
 
-Ratters are small, wiry hunting dogs selectively bred for efficiency in hunting rodents and small game, typically standing 12-18 inches tall and weighing 10-20 pounds. These energetic, intelligent dogs are found throughout settled lands wherever vermin control is needed or wherever humans establish farms, mills, and grain stores. An adventuring party might encounter a ratter as a working animal attached to a settlement, as a traveling companion with a rural guide, or abandoned in a dungeon or settlement where rodent infestation has become unbearable.
+The Ratter is the small hunting dog of the farms, mills and grain stores, twelve to eighteen inches tall and ten to twenty pounds, bred to go after rats and small game. It lives in the settled lands of [[place-velanthrgn|Velanthia]], the grain ports of the Hellad and the river towns of [[place-vedyarargn|Vedyara]], kept by a miller, a baker or a granary-keeper. Its mind is on the quarry, and it is bold to fight a creature larger than itself if its owner or ground is threatened.
 
 ## Presentation
 
-The ratter presents a compact, muscular frame built for efficiency rather than size. The body is lean, with powerful hindquarters and a deep chest, all contained in a small package that allows access to tight spaces where vermin hide. The coat is typically short and hard, often brown, tan, white, or multicolored with minimal grooming required. The head is disproportionately intelligent-looking for a dog, with alert eyes, pointed ears, and a long muzzle designed for probing into holes and crevices. The tail is typically short and carried high, flagging the dog's constant state of excitement. The paws are surprisingly large for the body size, with strong claws suitable for digging and climbing.
+A compact, muscular dog with a lean body, powerful hindquarters and a deep chest, small enough to enter the tight places where vermin hide. The coat is short and hard, brown, tan, white or mixed. The head looks intelligent, with alert eyes, pointed ears and a long muzzle for probing holes and crevices. The tail is short and carried high. The paws are large for its size, with strong claws for digging and climbing.
+
+## In the Land
+
+Ratters live in the mills, granaries, barns and warehouses of the settled lands, from the farms of [[place-velanthrgn|Velanthia]] to the grain-ports of the Hellad and the river towns of Vedyara. A ratter belongs to a household or a mill and sleeps by the grain bins. It works the buildings at dusk, in the yards and in the drains, and a well-kept pair clears a granary in a few weeks.
 
 ## Key Behaviors
 
-Ratters are obsessive, almost monomaniacal in their focus on hunting small prey. Once a ratter catches the scent of a rodent, it becomes nearly impossible to distract — the dog will pursue that quarry relentlessly through any terrain, burrow, or building. They are fiercely loyal to their handlers and owners, developing strong attachments and becoming deeply distressed by separation. Ratters are pack hunters when multiple dogs work together, coordinating drives and ambushes with remarkable sophistication. They are intelligent enough to learn the geography of their assigned territory and to remember productive hunting grounds. Despite their size, they are fearless and will readily attack creatures larger than themselves if their territory or owner is threatened.
+Ratters are obsessive about small prey. A ratter that has caught the scent of a rodent can hardly be distracted, and will follow it through any burrow or building. They are devoted to their handlers and distressed by separation. Several dogs work together, driving and ambushing in coordination. They learn the layout of the ground they work and remember where the rats are.
+
+## What the Millers Do
+
+A miller, a baker or a granary-keeper keeps a ratter or two and pays no more than their keep. A good ratter is valued by the number of rats it kills in a night, and the best are taken on the road as companions. A ratter is loyal to one person and distressed by separation, and it will wait at a door all day. The animal's hunting instinct overrides everything, and it is not walked near a rabbit-warren or a hen-run. A sack of grain that has been kept by a ratter is sold for more.
+
+## Signs
+
+- A small, wiry dog standing rigid in a corner of a barn with its nose pressed to a crack.
+- A row of dead rats laid out on a granary floor in the morning.
+- A dog digging furiously at the base of a wall, throwing earth between its hind legs.
+- A barn quiet at night, with no scratching in the beams.
+- A scatter of small, neat paw-prints in meal-dust on the floor.
 
 ## Combat Strategy
 
@@ -246,7 +262,7 @@ When multiple ratters hunt together, they execute coordinated attacks, with one 
 
 ### Rodent Hunter Specialization
 
-The ratter is superlatively effective against small creatures — rats, mice, rabbits, and similar prey are dispatched with frightening efficiency. Against small targets, the ratter gains significant advantage in attack rolls and movement speed.
+The ratter is superlatively effective against small creatures — rats, mice, rabbits, and similar prey are dispatched with frightening efficiency. Against small targets the ratter is quicker and surer still.
 
 ### Keen Olfaction
 
