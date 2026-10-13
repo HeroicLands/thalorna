@@ -78,6 +78,12 @@ import YAML from "yaml";
 export const NOTE = "assets/content/Skills/Languages/Khazari.md";
 export const SINALE = "assets/content/Skills/Languages/Sinale.md";
 export const LEXICON = "assets/content/Lore/Khazari_Lexicon.md";
+
+/**
+ * No source language: Khazári is the tongue of no human people. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = [];
 export const CONTENT = "assets/content";
 
 /** The shortcode of the Khazári folk note, whose `data.lore` mentions put a note in scope. */

@@ -37,6 +37,12 @@ export const NOTE = "assets/content/Skills/Languages/Elavendri.md";
 /** The lexicon. */
 export const LEXICON = "assets/content/Lore/Elavendri_Lexicon.md";
 
+/**
+ * The source languages: the Romance speech of Gaul and Breton. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["french", "breton"];
+
 /** The guard's configuration, read by the shared core. */
 export const CONFIG = {
     label: "Élavendri",

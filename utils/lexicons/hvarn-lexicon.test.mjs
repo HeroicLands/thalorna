@@ -7,16 +7,20 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
 import { analyse, readTree } from "./lexicon-pages.mjs";
-import { listDirs, loadEarth } from "./khazryn-lexicon.mjs";
-import { LEXICON, SPEC } from "./hvarn-lexicon.mjs";
+import { earthHolding, glossOn } from "./earth-fixture.mjs";
+import { LEXICON, SOURCES, SPEC } from "./hvarn-lexicon.mjs";
 
 const lexicon = fs.readFileSync(LEXICON, "utf8");
 const tree = readTree(undefined, { titles: SPEC.titles });
-const earth = loadEarth(listDirs());
-const haveLists = earth.lists.size > 0;
 
 const run = (text = lexicon, lists = null, notes = tree) =>
-    analyse({ lexFile: SPEC.lexicon, lexText: text, tree: notes, earth: lists }).findings;
+    analyse({
+        lexFile: SPEC.lexicon,
+        lexText: text,
+        tree: notes,
+        earth: lists,
+        sources: SPEC.sources,
+    }).findings;
 const errorsOf = (text, lists, notes) =>
     run(text, lists, notes).filter((f) => f.severity === "error");
 
@@ -65,9 +69,16 @@ test("a word opening on a cluster the page does not list is an error", () => {
     assert(errorsOf(broken).some((f) => f.message.includes("opens on `pv`")));
 });
 
-test("a coined word that is an Earth word is an error", { skip: !haveLists }, () => {
+test("a coined word matching a list is a warning, since the tongue has no source language", () => {
     const broken = rowEdited("| `vosh`", (line) => line.replace("`vosh`", "`tudra`"));
-    assert(errorsOf(broken, earth).some((f) => f.message.includes("`tudra`")));
+    const severities = (earth) =>
+        run(broken, earth)
+            .filter((f) => f.message.includes("`tudra` is a word in the"))
+            .map((f) => f.severity);
+    assert.deepEqual(SOURCES, []);
+    assert.deepEqual(severities(earthHolding("tudra", "latin", glossOn(broken, "tudra"))), [
+        "warning",
+    ]);
 });
 
 test("a retired name written in a note is an error", () => {

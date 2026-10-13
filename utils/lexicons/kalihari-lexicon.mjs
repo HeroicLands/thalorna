@@ -21,7 +21,8 @@
  * `lexicon-pages.mjs`, whose contract lists the predicates: the words and
  * their sound rules, the register's coverage of Kalihara, its ports, its
  * custodians and its people, the attested names held to the rules as warnings,
- * the retired names swept from the tree, and the local Earth word lists.
+ * the retired names swept from the tree, and the local Earth word lists,
+ * which refuse a word only for copying a source language `SOURCES` names.
  *
  * A guard proves the page agrees with its own rules, never that a coined
  * word sounds Kalihári; that is judged by reading it aloud.
@@ -32,8 +33,12 @@ import { runGuard } from "./lexicon-pages.mjs";
 
 export const LEXICON = "assets/content/Lore/Kalihari_Lexicon.md";
 
+/** No source language: Kalihári is modelled on no Earth tongue. */
+export const SOURCES = [];
+
 export const SPEC = {
     lexicon: LEXICON,
+    sources: SOURCES,
     label: "Kalihari lexicon",
     titles: true,
     tagFor: () => "kalihari",

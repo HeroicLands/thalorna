@@ -55,6 +55,12 @@ import { retiredIn } from "./vedyari-lexicon.mjs";
 
 export const NOTE = "assets/content/Skills/Languages/Khelathi.md";
 
+/**
+ * The source languages: Egyptian and its last stage, Coptic. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["egyptian", "coptic"];
+
 /** The content tree the beings are read from. */
 export const CONTENT = "assets/content";
 

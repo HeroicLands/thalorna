@@ -7,16 +7,21 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
 import { analyse, readTree } from "./lexicon-pages.mjs";
-import { listDirs, loadEarth } from "./khazryn-lexicon.mjs";
-import { LEXICON, SPEC } from "./tanvuri-lexicon.mjs";
+import { earthHolding, glossOn } from "./earth-fixture.mjs";
+import { allSources } from "./word-lists.mjs";
+import { LEXICON, SOURCES, SPEC } from "./tanvuri-lexicon.mjs";
 
 const lexicon = fs.readFileSync(LEXICON, "utf8");
 const tree = readTree(undefined, { titles: SPEC.titles });
-const earth = loadEarth(listDirs());
-const haveLists = earth.lists.size > 0;
 
 const run = (text = lexicon, lists = null, notes = tree) =>
-    analyse({ lexFile: SPEC.lexicon, lexText: text, tree: notes, earth: lists }).findings;
+    analyse({
+        lexFile: SPEC.lexicon,
+        lexText: text,
+        tree: notes,
+        earth: lists,
+        sources: SPEC.sources,
+    }).findings;
 const errorsOf = (text, lists, notes) =>
     run(text, lists, notes).filter((f) => f.severity === "error");
 
@@ -73,10 +78,18 @@ test("a register row in a tongue the page does not declare is an error", () => {
     assert(errorsOf(broken).some((f) => f.message.includes("helvetic")));
 });
 
-test("a coined word that is an Earth word is an error", { skip: !haveLists }, () => {
+test("a coined word copying its source language is an error, and any other match a warning", () => {
     const coined = cellEdited("| `nürk`", 4, "—");
     const broken = coined.replace("| `nürk`", "| `rën`");
-    assert(errorsOf(broken, earth).some((f) => f.message.includes("`rën`")));
+    const gloss = glossOn(broken, "rën");
+    const source = allSources(SOURCES)[0];
+    const severities = (earth) =>
+        run(broken, earth)
+            .filter((f) => f.message.includes("`rën` is a word in the"))
+            .map((f) => f.severity);
+    assert.deepEqual(severities(earthHolding("rën", source, gloss)), ["error"]);
+    assert.deepEqual(severities(earthHolding("rën", source, "a quince")), ["warning"]);
+    assert.deepEqual(severities(earthHolding("rën", "quenya", gloss)), ["warning"]);
 });
 
 test("a retired name written in a note is an error", () => {

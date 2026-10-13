@@ -253,7 +253,7 @@ Foxes are active at dawn, dusk and night. They live alone except in the mating s
 
 ## What the Farmers Do
 
-A farmer keeps hens shut in at night and the hen-house door barred, and sets a snare at a gap in the hedge where a fox has been. Hunters of Vrystwald ride after a fox with hounds, and trappers sell the fur through the Nordlands trade. The fox is the wesk of Vrystwald villages such as Balthhaven and Thornholt. In the Silver Forests the Sinalë tell of Rhysgen, the Red Fox of the Lower Wood, a thief and bargainer among the Kindred; [[lore-rhysgenspr|Rhysgen]] is the one spirit there that will renegotiate its terms. Fox pelts are among the furs traded as currency.
+A farmer keeps hens shut in at night and the hen-house door barred, and sets a snare at a gap in the hedge where a fox has been. Hunters of Vrystwald ride after a fox with hounds, and trappers sell the fur through the Nordlands trade. The fox is the wesk of Vrystwald villages such as Balthhaven and Thornholt. In the Silver Forests the Sinalë tell of Kíltas, the Red Fox of the Lower Wood, a thief and bargainer among the Kindred; [[lore-kiltasspr|Kíltas]] is the one spirit there that will renegotiate its terms. Fox pelts are among the furs traded as currency.
 
 ## Signs
 

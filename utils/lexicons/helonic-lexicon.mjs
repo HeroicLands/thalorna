@@ -22,7 +22,8 @@
  * their sound rules, the daughters' reflexes of the shared roots through the
  * page's change tables, the register's coverage of the three lands and the
  * three cultures' beings, the attested names held to the rules as warnings,
- * the retired names swept from the tree, and the local Earth word lists.
+ * the retired names swept from the tree, and the local Earth word lists,
+ * which refuse a word only for copying a source language `SOURCES` names.
  *
  * A guard proves the page agrees with its own rules, never that a coined
  * word sounds Helonic; that is judged by reading it aloud.
@@ -32,6 +33,17 @@ import path from "node:path";
 import { runGuard } from "./lexicon-pages.mjs";
 
 export const LEXICON = "assets/content/Lore/Helonic_Lexicon.md";
+
+/**
+ * The source languages by tongue: Helonic reads classical Greek, Byzarian a
+ * Greek koine with Persian and Turkic eastern roots, and Bethuan a Romance
+ * island tongue with an Arabic loan stratum.
+ */
+export const SOURCES = {
+    helonic: ["ancient-greek"],
+    byzarian: ["ancient-greek", "persian", "turkish"],
+    bethuan: ["spanish", "arabic"],
+};
 
 /** Which tongue a note in scope belongs to, by its culture or its folder. */
 const TONGUE_OF = {
@@ -46,6 +58,7 @@ const TONGUE_OF = {
 
 export const SPEC = {
     lexicon: LEXICON,
+    sources: SOURCES,
     label: "Helonic lexicon",
     tagFor(note) {
         const data = note.front?.data ?? {};

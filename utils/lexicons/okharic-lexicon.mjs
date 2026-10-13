@@ -21,7 +21,8 @@
  * `lexicon-pages.mjs`, whose contract lists the predicates: the words and
  * their sound rules, the register's coverage of Okháris, its faith and its
  * people, the attested names held to the rules as warnings, the retired names
- * swept from the tree, and the local Earth word lists.
+ * swept from the tree, and the local Earth word lists,
+ * which refuse a word only for copying a source language `SOURCES` names.
  *
  * A guard proves the page agrees with its own rules, never that a coined
  * word sounds Okháric; that is judged by reading it aloud.
@@ -32,8 +33,12 @@ import { runGuard } from "./lexicon-pages.mjs";
 
 export const LEXICON = "assets/content/Lore/Okharic_Lexicon.md";
 
+/** The source languages: rain-fed North Africa and the Sahel. */
+export const SOURCES = ["arabic", "berber", "hausa"];
+
 export const SPEC = {
     lexicon: LEXICON,
+    sources: SOURCES,
     label: "Okháric lexicon",
     titles: true,
     tagFor: () => "okharic",

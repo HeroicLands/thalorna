@@ -109,7 +109,13 @@ import path from "node:path";
 import YAML from "yaml";
 
 /** The note every predicate is derived from. */
-const NOTE = "assets/content/Skills/Languages/Varokhi.md";
+export const NOTE = "assets/content/Skills/Languages/Varokhi.md";
+
+/**
+ * The source language: Gothic. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["gothic"];
 
 /** The table that settles which names are retired and what replaced them. */
 const CONCORDANCE = "utils/nordmal-concordance.json";

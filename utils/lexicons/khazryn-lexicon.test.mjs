@@ -448,7 +448,7 @@ test("Earth words, Earth morphemes and Dunhari forms are refused", () => {
         ],
     };
     const found = errors(run({}, { earth, dunhari: new Set(["ta"]) })).join("\n");
-    assert.match(found, /stem `kirun` is a word in the testlang list/);
+    assert.doesNotMatch(found, /`kirun`/);
     assert.match(found, /stem `lum` is an Earth morpheme/);
     assert.match(found, /name `Tallumi` contains the Earth morpheme `lum`/);
     assert.match(found, /stem `poke` contains the Earth morpheme `pok`/);
@@ -461,6 +461,30 @@ test("Earth words, Earth morphemes and Dunhari forms are refused", () => {
         earthHits("ta", { lists: new Map([["x", new Set(["ta"])]]), morphemes: [] }),
         [],
     );
+});
+
+test("a stem is refused only for copying its tongue's source language", () => {
+    const glossed = (gloss) => ({
+        lists: new Map([["testlang", new Set(["kirun"])]]),
+        glosses: new Map([["testlang", new Map([["kirun", [gloss]]])]]),
+        morphemes: [],
+    });
+    const kirun = (findings) =>
+        findings
+            .filter((f) => f.message.includes("`kirun`"))
+            .map((f) => `${f.severity}: ${f.message}`);
+    assert.deepEqual(
+        kirun(run({}, { earth: glossed("rock salt"), sources: { toy: ["testlang"] } })),
+        [
+            'error: Toy stem `kirun` is a word in the testlang list, a source language, and copies its word for "rock salt"',
+        ],
+    );
+    assert.deepEqual(kirun(run({}, { earth: glossed("a cart"), sources: { toy: ["testlang"] } })), [
+        "warning: Toy stem `kirun` is a word in the testlang list, a source language, with another meaning",
+    ]);
+    assert.deepEqual(kirun(run({}, { earth: glossed("rock salt"), sources: { toy: ["other"] } })), [
+        "warning: Toy stem `kirun` is a word in the testlang list, which is no source language",
+    ]);
 });
 
 test("loose words are checked against every tongue, and a refused word says why", () => {

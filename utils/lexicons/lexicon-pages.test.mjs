@@ -513,3 +513,86 @@ test("a GM-only note is in a page's scope only by its own address", () => {
     assert.equal(inScope(note("thalorna-note-doc-secret", ["gm"]), page, none), false);
     assert.equal(inScope(note("thalorna-note-doc-named", ["gm"]), page, none), true);
 });
+
+/**
+ * Earth lists for the fixture: `src` is the parent's source language and holds
+ * `kātān` (normalized `katan`) with a gloss when `gloss` is given; `other` is no
+ * source language and holds it too when `other` is set. Every word here is
+ * invented for the test.
+ */
+function earthOf({ gloss = null, other = false } = {}) {
+    const lists = new Map([["src", new Set(["katan"])]]);
+    const glosses = new Map();
+    if (gloss !== null) glosses.set("src", new Map([["katan", [gloss]]]));
+    if (other) lists.set("other", new Set(["katan"]));
+    return { lists, glosses, morphemes: [] };
+}
+
+const earthFindings = (earth, sources = { par: ["src"] }) =>
+    analyse({ lexFile: "Lex.md", lexText: PAGE, tree: TREE, earth, sources })
+        .findings.map(format)
+        .filter((l) => l.includes("`kātān`"));
+
+test("a coined word with the form and meaning of its source language's word is an error", () => {
+    const found = earthFindings(earthOf({ gloss: "a waterman, one who carries water" }));
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /: error: `kātān` is a word in the src list, a source language, and copies its word for "a waterman, one who carries water"$/,
+    );
+});
+
+test("a coined word with the form of a source-language word and another meaning is advisory", () => {
+    const found = earthFindings(earthOf({ gloss: "a kind of reed" }));
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /: warning: `kātān` is a word in the src list, a source language, with another meaning/,
+    );
+});
+
+test("a coined word matching a list that is no source language is advisory", () => {
+    const found = earthFindings(earthOf({ gloss: "a kind of reed", other: true }), {
+        par: ["src"],
+    }).filter((l) => l.includes("the other list"));
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /: warning: `kātān` is a word in the other list, which is no source language/,
+    );
+    const none = earthFindings(earthOf({ gloss: "a waterman" }), {});
+    assert.equal(none.length, 1);
+    assert.match(
+        none[0],
+        /: warning: `kātān` is a word in the src list, which is no source language/,
+    );
+});
+
+test("a source-language match is advisory when the list carries no glosses", () => {
+    const found = earthFindings(earthOf());
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /: warning: `kātān` is a word in the src list, a source language whose list carries no gloss for it; review it for copying/,
+    );
+});
+
+test("a copy in a page that borrows from its source language is a warning naming the word", () => {
+    const earth = earthOf({ gloss: "a waterman, one who carries water" });
+    const found = analyse({
+        lexFile: "Lex.md",
+        lexText: PAGE,
+        tree: TREE,
+        earth,
+        sources: { par: ["src"] },
+        borrows: true,
+    })
+        .findings.map(format)
+        .filter((l) => l.includes("`kātān`"));
+    assert.deepEqual(found.length, 1);
+    assert.match(
+        found[0],
+        /: warning: `kātān` is a word in the src list, a source language the lexicon borrows from, and is its word for "a waterman, one who carries water"$/,
+    );
+    assert.match(earthFindings(earth)[0], /: error: /);
+});

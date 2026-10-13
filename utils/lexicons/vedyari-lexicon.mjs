@@ -97,6 +97,15 @@ export const NOTE = "assets/content/Skills/Languages/Vedyari.md";
 /** The note holding the rules, the words and the register of attested names. */
 export const LEXICON = "assets/content/Lore/Vedyari_Lexicon.md";
 
+/**
+ * The source languages: Sanskrit, Hindi and Tamil. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["sanskrit", "hindi", "tamil"];
+
+/** Vedyari borrows from Sanskrit and Hindi by design, so a word that is theirs is a choice, not a copy. */
+export const BORROWS = true;
+
 /** The content tree the register's scope is derived from. */
 export const CONTENT = "assets/content";
 

@@ -38,9 +38,12 @@
  *    error, since it belongs in the register; one the elements do not build is
  *    attested and left as written.
  * 5. **Earth words.** Each name is compared with the local Earth word lists and
- *    morphemes. A hit on an attested name is a warning, since renaming it is the
- *    owner's; `--check` holds a coined name to the lists as an error. With no
- *    lists present the comparison is skipped with one message.
+ *    morphemes by the rule `word-lists.mjs` states. A hit on an attested name is
+ *    a warning, since renaming it is the owner's. `--check` refuses a coined name
+ *    that contains an Earth morpheme and prints a word-list hit as an advisory:
+ *    the tongue declares no source language and a loose name carries no gloss,
+ *    so no list hit is a copy. With no lists present the comparison is skipped
+ *    with one message.
  *
  * A guard proves the page agrees with its own elements, never that a name is
  * good; that is judged by reading it aloud.
@@ -52,7 +55,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
-import { listDirs, loadEarth, earthHits } from "./khazryn-lexicon.mjs";
+import { earthHits, listDirs, loadEarth } from "./word-lists.mjs";
 import {
     CONTENT,
     fold,
@@ -67,6 +70,9 @@ import {
 
 /** The lexicon. */
 export const LEXICON = "assets/content/Lore/Aelwythi_Lexicon.md";
+
+/** No source language: Aelwythi is given in the reader's own language, which no list holds. */
+export const SOURCES = [];
 
 const POSITIONS = new Set(["first", "last", "either", "link"]);
 const KINDS = ["place", "given", "byname"];
@@ -258,15 +264,19 @@ function spells(name, kind, page, parts) {
  * @param {ReturnType<typeof readPage>} page - The page.
  * @param {ReturnType<typeof loadEarth>|null} earth - The lists, or null.
  * @param {string} [kind] - `place`, `given` or `byname`; place when absent.
- * @returns {{parts: string[]|null, problems: string[]}}
+ * @returns {{parts: string[]|null, problems: string[], advisories: string[]}} A
+ *   problem refuses the name; an advisory is a word-list hit to read.
  */
 export function checkWord(name, page, earth, kind = "place") {
     const found = readings(name, kind, page);
     const problems = [];
+    const advisories = [];
     if (!found.length)
         problems.push(`${name} is not built from listed elements of the ${kind} kind`);
-    if (earth) for (const hit of earthHits(name, earth)) problems.push(`${name} ${hit}`);
-    return { parts: found[0] ?? null, problems };
+    if (earth)
+        for (const hit of earthHits(name, earth, { sources: SOURCES }))
+            (hit.severity === "error" ? problems : advisories).push(`${name} ${hit.message}`);
+    return { parts: found[0] ?? null, problems, advisories };
 }
 
 /** The names a note carries, by the kind the register files them under. */
@@ -489,12 +499,12 @@ export function analyse({ lexFile, lexText, tree, earth = null }) {
     // 5. Earth words.
     if (earth)
         for (const row of [...page.register, ...page.outside]) {
-            const hits = earthHits(row.name, earth);
+            const hits = earthHits(row.name, earth, { sources: SOURCES });
             if (hits.length)
                 add(
                     row.offset,
                     "warning",
-                    `${row.name} ${hits.join("; ")}; it is attested, so renaming it is the owner's`,
+                    `${row.name} ${hits.map((h) => h.message).join("; ")}; it is attested, so renaming it is the owner's`,
                 );
         }
     return { findings: out, page, missing };
@@ -528,6 +538,7 @@ export function run(argv = process.argv.slice(2)) {
                 `${name} (${kind}): ${result.parts ? result.parts.join(" + ") : "no reading"}`,
             );
             for (const p of result.problems) console.log(`  ${p}`);
+            for (const a of result.advisories) console.log(`  advisory: ${a}`);
             if (result.problems.length) process.exitCode = 1;
         }
         return;

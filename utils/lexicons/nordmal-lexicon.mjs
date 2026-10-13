@@ -82,7 +82,13 @@ import YAML from "yaml";
 import { keepsMembershipTitle } from "../nordmal-membership-titles.mjs";
 
 /** The note every predicate is derived from. */
-const NOTE = "assets/content/Skills/Languages/Nordmal.md";
+export const NOTE = "assets/content/Skills/Languages/Nordmal.md";
+
+/**
+ * The source language: Old Norse. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["old-norse"];
 
 /** The register of which names are settled old and which settled new. */
 const CONCORDANCE = "utils/nordmal-concordance.json";

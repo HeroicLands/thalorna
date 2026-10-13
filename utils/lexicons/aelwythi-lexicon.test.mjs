@@ -97,11 +97,14 @@ test("an Earth word list hit on an attested name is a warning, never an error", 
     assert(found.every((f) => f.severity === "warning"));
 });
 
-test("a coined word that hits an Earth list is an error", () => {
+test("a coined word that hits an Earth list is advisory, and one with an Earth morpheme is refused", () => {
     const page = readPage(lexicon);
     const earth = { lists: new Map([["testlist", new Set(["oakford"])]]), morphemes: [] };
     const result = checkWord("Oakford", page, earth);
-    assert(result.problems.some((p) => p.includes("testlist")));
+    assert(!result.problems.some((p) => p.includes("testlist")));
+    assert(result.advisories.some((p) => p.includes("testlist")));
+    const morpheme = { lists: new Map(), morphemes: [{ form: "oak", at: "start" }] };
+    assert(checkWord("Oakford", page, morpheme).problems.some((p) => p.includes("`oak`")));
 });
 
 test("checkWord builds a new name from the listed elements", () => {

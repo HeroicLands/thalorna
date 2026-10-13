@@ -85,15 +85,19 @@
  *    the tree, is an error where it is written; literature notes, poetry
  *    fences, `terran_analog` comments and the table itself are not read.
  * 6. **Earth words.** Every word form and every root is compared with the local
- *    Earth word lists and morphemes; a hit on a form the page coins is an
- *    error, and a hit on a form a note already attests is a warning, since the
- *    attested form is the owner's. A bound stem is not compared, only the words
- *    built on it. With no lists present the comparison is skipped with one
- *    message.
+ *    Earth word lists and morphemes by the rule `word-lists.mjs` states. A word
+ *    the page coins is an error when it copies a source language the guard's
+ *    `sources` declares: the same form as a word of that language's list, with
+ *    the same meaning as the word's gloss. Every other list hit is a warning,
+ *    and so is a copy on a word a note already attests or on a root, since the
+ *    attested form is the owner's. A morpheme hit on a coined word is an error.
+ *    A bound stem is not compared, only the words built on it. With no lists
+ *    present the comparison is skipped with one message.
  *
  * `--missing` prints a register row for every name in scope the register lacks,
  * ready to paste; `--check <word>...` holds loose words to the sound rules of
- * every tongue and the Earth lists.
+ * every tongue and prints every Earth list hit with its severity. A loose word
+ * carries no gloss, so a list hit is never a copy there.
  *
  * A guard proves the page agrees with its own rules, never that the rules are
  * good or the page worth reading. Findings are `file:line:column: severity:
@@ -105,8 +109,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import YAML from "yaml";
-import { normalize } from "./collision-check.mjs";
-import { earthHits, listDirs, loadEarth } from "./khazryn-lexicon.mjs";
+import { allSources, earthHits, listDirs, loadEarth, sourcesFor } from "./word-lists.mjs";
 import { retiredIn } from "./vedyari-lexicon.mjs";
 
 /** The content tree every page's scope is read from. */
@@ -1029,10 +1032,22 @@ const FREE_TAGS = new Set(["translation", "kept"]);
  * @param {string} input.lexText - The page.
  * @param {ReturnType<typeof readTree>} input.tree - The content tree.
  * @param {ReturnType<typeof loadEarth>|null} [input.earth] - The local Earth lists, or null to skip.
+ * @param {string[]|Record<string, string[]>} [input.sources] - The source languages, for
+ *   the whole page or by tongue tag.
+ * @param {boolean} [input.borrows] - Whether the page borrows from its source
+ *   languages by design, so a copy is a warning.
  * @param {object} [input.extra] - Extra checks: `wordChecks(word, page) => string[]` run on every word.
  * @returns {{findings: {file: string, text: string, offset: number|null, severity: string, message: string}[], page: object, missing: {name: string, address: string, kind: string}[]}}
  */
-export function analyse({ lexFile, lexText, tree, earth = null, extra = {} }) {
+export function analyse({
+    lexFile,
+    lexText,
+    tree,
+    earth = null,
+    sources = [],
+    borrows = false,
+    extra = {},
+}) {
     const page = readPage(lexText);
     const out = [];
     const add = (offset, severity, message, file = lexFile, text = lexText) =>
@@ -1132,12 +1147,14 @@ export function analyse({ lexFile, lexText, tree, earth = null, extra = {} }) {
             }
         }
         // A bound stem is no word, so only the words built on it are compared.
-        // A hit on a word the setting already attests is the owner's to judge,
-        // so it warns; a hit on a word this page coins is an error.
+        // A copy of a source-language word is an error on a word this page
+        // coins and a warning on one the setting already attests, which is the
+        // owner's to judge; every other hit is a warning.
         if (earth && (earth.lists.size || earth.morphemes.length) && w.cls !== "stem") {
-            const severity = linked(w.attested).length ? "warning" : "error";
-            for (const hit of earthHits(w.form, earth))
-                add(w.offset, severity, `\`${w.form}\` ${hit}`);
+            const attested = linked(w.attested).length > 0;
+            const coined = { gloss: plain(w.gloss), sources: sourcesFor(sources, tag), borrows };
+            for (const hit of earthHits(w.form, earth, coined))
+                add(w.offset, attested ? "warning" : hit.severity, `\`${w.form}\` ${hit.message}`);
         }
         if (extra.wordChecks)
             for (const m of extra.wordChecks(w, page)) add(w.offset, "error", `\`${w.form}\` ${m}`);
@@ -1160,8 +1177,13 @@ export function analyse({ lexFile, lexText, tree, earth = null, extra = {} }) {
             });
             // The roots are the inherited stock the notes attest, so a hit warns.
             if (earth && (earth.lists.size || earth.morphemes.length)) {
-                for (const hit of earthHits(row.parent, earth))
-                    add(row.offset, "warning", `\`${row.parent}\` ${hit}`);
+                const coined = {
+                    gloss: plain(row.gloss ?? ""),
+                    sources: sourcesFor(sources, parentTag),
+                    borrows,
+                };
+                for (const hit of earthHits(row.parent, earth, coined))
+                    add(row.offset, "warning", `\`${row.parent}\` ${hit.message}`);
             }
         }
     }
@@ -1290,7 +1312,7 @@ export function format(f) {
  * error. `--missing` prints register rows for every name in scope the register
  * lacks; `--check <word>...` holds loose words to the rules.
  *
- * @param {{lexicon: string, label: string, tagFor?: (note: object, page: object) => string, extra?: object}} spec
+ * @param {{lexicon: string, label: string, sources?: string[]|Record<string, string[]>, tagFor?: (note: object, page: object) => string, extra?: object}} spec
  * @param {string[]} [argv]
  */
 export function runGuard(spec, argv = process.argv.slice(2)) {
@@ -1318,7 +1340,8 @@ export function runGuard(spec, argv = process.argv.slice(2)) {
                     `  ${t.tag}: ${problems.length ? problems.join("; ") : "keeps the sound rules"}`,
                 );
             }
-            for (const hit of earthHits(word, earth)) lines.push(`  ${hit}`);
+            for (const hit of earthHits(word, earth, { sources: allSources(spec.sources) }))
+                lines.push(`  ${hit.severity}: ${hit.message}`);
             console.log(`${word}\n${lines.join("\n")}`);
         }
         return;
@@ -1329,6 +1352,8 @@ export function runGuard(spec, argv = process.argv.slice(2)) {
         lexText,
         tree,
         earth,
+        sources: spec.sources ?? [],
+        borrows: Boolean(spec.borrows),
         extra: spec.extra ?? {},
     });
     if (argv.includes("--missing")) {

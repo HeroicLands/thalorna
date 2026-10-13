@@ -60,6 +60,12 @@ export const NOTE = "assets/content/Skills/Languages/Aelendi.md";
 /** The lexicon. */
 export const LEXICON = "assets/content/Lore/Aelendi_Lexicon.md";
 
+/**
+ * The source languages: the Celtic tongues of the uplands. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["welsh", "breton", "irish"];
+
 /** The Vylari lexicon, which holds the ancient forms. */
 export const ANCESTOR = "doc-vylarilexcn";
 

@@ -7,16 +7,16 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
 import { analyse, readTree } from "./lexicon-pages.mjs";
-import { listDirs, loadEarth } from "./khazryn-lexicon.mjs";
-import { LEXICON, SPEC } from "./taruzeli-lexicon.mjs";
+import { earthHolding, glossOn } from "./earth-fixture.mjs";
+import { allSources } from "./word-lists.mjs";
+import { LEXICON, SOURCES, SPEC } from "./taruzeli-lexicon.mjs";
 
 const lexicon = fs.readFileSync(LEXICON, "utf8");
 const tree = readTree();
-const earth = loadEarth(listDirs());
-const haveLists = earth.lists.size > 0;
 
 const run = (text = lexicon, lists = null) =>
-    analyse({ lexFile: SPEC.lexicon, lexText: text, tree, earth: lists }).findings;
+    analyse({ lexFile: SPEC.lexicon, lexText: text, tree, earth: lists, sources: SPEC.sources })
+        .findings;
 const errorsOf = (text, lists) => run(text, lists).filter((f) => f.severity === "error");
 
 /** The page with one table row changed by `change`, failing loudly when no row starts with `start`. */
@@ -72,7 +72,15 @@ test("a register row in a tongue the page does not declare is an error", () => {
     assert(errorsOf(broken).some((f) => f.message.includes("helvetic")));
 });
 
-test("a coined word that is an Earth word is an error", { skip: !haveLists }, () => {
+test("a coined word copying its source language is an error, and any other match a warning", () => {
     const broken = rowEdited("| `telmum`", (line) => line.replace("`telmum`", "`qatam`"));
-    assert(errorsOf(broken, earth).some((f) => f.message.includes("qatam")));
+    const gloss = glossOn(broken, "qatam");
+    const source = allSources(SOURCES)[0];
+    const severities = (earth) =>
+        run(broken, earth)
+            .filter((f) => f.message.includes("`qatam` is a word in the"))
+            .map((f) => f.severity);
+    assert.deepEqual(severities(earthHolding("qatam", source, gloss)), ["error"]);
+    assert.deepEqual(severities(earthHolding("qatam", source, "a quince")), ["warning"]);
+    assert.deepEqual(severities(earthHolding("qatam", "quenya", gloss)), ["warning"]);
 });

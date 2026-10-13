@@ -7,16 +7,21 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
 import { analyse, readTree } from "./lexicon-pages.mjs";
-import { listDirs, loadEarth } from "./khazryn-lexicon.mjs";
-import { LEXICON, SPEC } from "./kiichek-lexicon.mjs";
+import { earthHolding, glossOn } from "./earth-fixture.mjs";
+import { allSources } from "./word-lists.mjs";
+import { LEXICON, SOURCES, SPEC } from "./kiichek-lexicon.mjs";
 
 const lexicon = fs.readFileSync(LEXICON, "utf8");
 const tree = readTree();
-const earth = loadEarth(listDirs());
-const haveLists = earth.lists.size > 0;
 
 const run = (text = lexicon, lists = null, notes = tree) =>
-    analyse({ lexFile: SPEC.lexicon, lexText: text, tree: notes, earth: lists }).findings;
+    analyse({
+        lexFile: SPEC.lexicon,
+        lexText: text,
+        tree: notes,
+        earth: lists,
+        sources: SPEC.sources,
+    }).findings;
 const errorsOf = (text, lists, notes) =>
     run(text, lists, notes).filter((f) => f.severity === "error");
 
@@ -85,7 +90,15 @@ test("a retired form written in a note is an error", () => {
     );
 });
 
-test("a coined word that is an Earth word is an error", { skip: !haveLists }, () => {
+test("a coined word copying its source language is an error, and any other match a warning", () => {
     const broken = rowEdited("| `ul'om`", (line) => line.replace("`ul'om`", "`balam`"));
-    assert(errorsOf(broken, earth).some((f) => f.message.includes("balam")));
+    const gloss = glossOn(broken, "balam");
+    const source = allSources(SOURCES)[0];
+    const severities = (earth) =>
+        run(broken, earth)
+            .filter((f) => f.message.includes("`balam` is a word in the"))
+            .map((f) => f.severity);
+    assert.deepEqual(severities(earthHolding("balam", source, gloss)), ["error"]);
+    assert.deepEqual(severities(earthHolding("balam", source, "a quince")), ["warning"]);
+    assert.deepEqual(severities(earthHolding("balam", "quenya", gloss)), ["warning"]);
 });

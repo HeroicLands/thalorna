@@ -45,6 +45,12 @@ export const NOTE = "assets/content/Skills/Languages/Tarveni.md";
 /** The lexicon. */
 export const LEXICON = "assets/content/Lore/Tarveni_Lexicon.md";
 
+/**
+ * The source languages: Castilian, over a Basque-shaped mountain speech. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["spanish", "basque"];
+
 /** The Vylari lexicon, which holds the ancient forms. */
 export const ANCESTOR = "doc-vylarilexcn";
 

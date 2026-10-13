@@ -63,6 +63,12 @@ export const NOTE = "assets/content/Skills/Languages/Vylari.md";
 /** The lexicon. */
 export const LEXICON = "assets/content/Lore/Vylari_Lexicon.md";
 
+/**
+ * The source language: the Roman tongue. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = ["latin"];
+
 /** The guard's configuration, read by the shared core. */
 export const CONFIG = {
     label: "Vylari",

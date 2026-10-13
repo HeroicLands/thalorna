@@ -7,16 +7,21 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
 import { analyse, readTree } from "./lexicon-pages.mjs";
-import { listDirs, loadEarth } from "./khazryn-lexicon.mjs";
-import { LEXICON, SPEC } from "./valtari-lexicon.mjs";
+import { earthHolding, glossOn } from "./earth-fixture.mjs";
+import { allSources } from "./word-lists.mjs";
+import { LEXICON, SOURCES, SPEC } from "./valtari-lexicon.mjs";
 
 const lexicon = fs.readFileSync(LEXICON, "utf8");
 const tree = readTree(undefined, { titles: SPEC.titles });
-const earth = loadEarth(listDirs());
-const haveLists = earth.lists.size > 0;
 
 const run = (text = lexicon, lists = null, notes = tree) =>
-    analyse({ lexFile: SPEC.lexicon, lexText: text, tree: notes, earth: lists }).findings;
+    analyse({
+        lexFile: SPEC.lexicon,
+        lexText: text,
+        tree: notes,
+        earth: lists,
+        sources: SPEC.sources,
+    }).findings;
 const errorsOf = (text, lists, notes) =>
     run(text, lists, notes).filter((f) => f.severity === "error");
 
@@ -82,11 +87,19 @@ test("a throat sound the pidgin does not say is an error", () => {
     );
 });
 
-test("a coined word that is an Earth word is an error", { skip: !haveLists }, () => {
+test("a coined word copying its source language is an error, and any other match a warning", () => {
     const broken = rowEdited("| `bunelo`", (line) =>
         line.replace("`bunelo`", "`kalo`").replace(/\[\[skill-valtarlng[^\]]*\]\]/, "—"),
     );
-    assert(errorsOf(broken, earth).some((f) => f.message.includes("`kalo`")));
+    const gloss = glossOn(broken, "kalo");
+    const source = allSources(SOURCES)[0];
+    const severities = (earth) =>
+        run(broken, earth)
+            .filter((f) => f.message.includes("`kalo` is a word in the"))
+            .map((f) => f.severity);
+    assert.deepEqual(severities(earthHolding("kalo", source, gloss)), ["error"]);
+    assert.deepEqual(severities(earthHolding("kalo", source, "a quince")), ["warning"]);
+    assert.deepEqual(severities(earthHolding("kalo", "quenya", gloss)), ["warning"]);
 });
 
 test("a retired name written in a note is an error", () => {

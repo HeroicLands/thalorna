@@ -96,6 +96,12 @@ export const NOTE = "assets/content/Skills/Languages/Sinale.md";
 /** The note holding the words and the register of attested names. */
 export const LEXICON = "assets/content/Lore/Sinale_Lexicon.md";
 
+/**
+ * No source language: Sinalë is modelled on no Earth tongue. The collision check reads it for this guard's notes; the
+ * guard itself compares no word list.
+ */
+export const SOURCES = [];
+
 /** The content tree the register's scope is derived from. */
 export const CONTENT = "assets/content";
 

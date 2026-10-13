@@ -56,30 +56,37 @@
  *    coinage is visible without failing the run.
  * 6. **Dunhari** — no stem and no derived name equals a name or word the
  *    Dunhari note lists, marks folded.
- * 7. **Earth words** — no stem and no derived name equals a word in a local
- *    word list, and none contains a listed Earth morpheme or proper name. The
- *    lists are every `<language>.txt` in the word-list directories (normalized
- *    as the collision check normalizes) and every `morphemes/*.txt` beneath
- *    them, where a plain line matches anywhere, `-x` only at a word's end and
- *    `x-` only at its start. Forms shorter than three letters after
- *    normalization are not compared with the word lists. The directories are
- *    each `--wordlists <dir>`, else the `KHAZRYN_WORDLISTS` variable (paths
- *    joined by the platform's delimiter), else `nogit/wordlists` and
- *    `nogit/real-word-audit/lists` of the checkout, or of the main checkout
- *    when run inside a worktree under `.claude/worktrees/`. The repository
- *    holds no list; with none present the comparison is skipped with one
- *    message.
+ * 7. **Earth words** — every stem and every derived name is compared with the
+ *    local word lists and morphemes by the rule `word-lists.mjs` states. A
+ *    stem or a derived word is an error when it copies a source language
+ *    `SOURCES` declares for its tongue: the same form as a word in that
+ *    language's list, with the same meaning as the stem's sense or the word's
+ *    gloss. Every other list hit is a warning, among them every hit on a
+ *    registered name, which carries no gloss. A form containing a listed Earth
+ *    morpheme or proper name is an error. The lists are every
+ *    `<language>.txt` in the word-list directories and every
+ *    `morphemes/*.txt` beneath them, where a plain line matches anywhere, `-x`
+ *    only at a word's end and `x-` only at its start. Forms shorter than three
+ *    letters after normalization are not compared with the word lists. The
+ *    directories are each `--wordlists <dir>`, else the `KHAZRYN_WORDLISTS`
+ *    variable (paths joined by the platform's delimiter), else
+ *    `nogit/wordlists` and `nogit/real-word-audit/lists` of the checkout, or
+ *    of the main checkout when run inside a worktree under
+ *    `.claude/worktrees/`. The repository holds no list; with none present the
+ *    comparison is skipped with one message.
  *
  * `--check` runs checks 1, 2, 6 and 7 on each word given, against every tongue,
- * and tries to derive it from each tongue's stems. A word fails when it matches
- * an Earth word, a morpheme or Dunhari, or derives in no tongue.
+ * and tries to derive it from each tongue's stems. A word fails when it
+ * contains an Earth morpheme, matches Dunhari, or derives in no tongue; a word
+ * list hit is printed as advisory, since a loose word carries no gloss to
+ * compare.
  *
  * Findings are `file:line:column: severity: message`.
  */
 
 import fs from "node:fs";
 import path from "node:path";
-import { normalize } from "./collision-check.mjs";
+import { allSources, earthHits, listDirs, loadEarth, sourcesFor } from "./word-lists.mjs";
 import { corpus, position, section, tables, ticked } from "./khazari-lexicon.mjs";
 
 export const LEXICON = "assets/content/Lore/Khazryn_Lexicon.md";
@@ -89,6 +96,17 @@ export const CONTENT = "assets/content";
 /** Tags that are not tongues and carry their own meaning. */
 export const GLOSS = "gloss";
 export const WARNED = ["pending", "faith"];
+
+/**
+ * The source languages of each tongue, by tag: Tellumi of the Canaanite and
+ * Persianate oasis cities, Sowides of the Turkic and Mongolic steppe, and
+ * Ātárzādi of the Persianate fire-cult.
+ */
+export const SOURCES = {
+    tellumi: ["hebrew", "persian"],
+    sowides: ["turkish", "mongolian"],
+    atarzadi: ["persian", "old-persian"],
+};
 
 /** The tag of a name that keeps no rule because it is older than the rules. */
 export const OLDER = "older";
@@ -545,96 +563,7 @@ export function dunhariForms(text) {
     return out;
 }
 
-/**
- * The checkout whose `nogit/` holds the lists: this one, or the main checkout
- * when this is a worktree under `.claude/worktrees/`.
- */
-function checkoutRoot(cwd = process.cwd()) {
-    if (fs.existsSync(path.join(cwd, "nogit"))) return cwd;
-    const at = cwd.indexOf(`${path.sep}.claude${path.sep}worktrees${path.sep}`);
-    return at === -1 ? cwd : cwd.slice(0, at);
-}
-
-/** The word-list directories, from the arguments, the environment or the default. */
-export function listDirs(argv = [], env = process.env, cwd = process.cwd()) {
-    const given = [];
-    for (let i = 0; i < argv.length; i += 1) {
-        if (argv[i] === "--wordlists") given.push(argv[i + 1]);
-        else if (argv[i].startsWith("--wordlists=")) given.push(argv[i].slice(12));
-    }
-    if (given.length) return given;
-    if (env.KHAZRYN_WORDLISTS) return env.KHAZRYN_WORDLISTS.split(path.delimiter).filter(Boolean);
-    const root = checkoutRoot(cwd);
-    return [path.join(root, "nogit/wordlists"), path.join(root, "nogit/real-word-audit/lists")];
-}
-
-/**
- * The local Earth lists: whole-word lists by name, and morphemes with where
- * they match.
- *
- * @param {string[]} dirs - The word-list directories.
- * @returns {{lists: Map<string, Set<string>>, morphemes: {form: string, at: "any"|"start"|"end"}[]}}
- */
-export function loadEarth(dirs) {
-    const lists = new Map();
-    const morphemes = [];
-    const isDir = (d) => fs.existsSync(d) && fs.statSync(d).isDirectory();
-    for (const dir of dirs.filter(isDir)) {
-        for (const name of fs.readdirSync(dir).sort()) {
-            if (!name.endsWith(".txt")) continue;
-            const key = name.slice(0, -4);
-            const set = lists.get(key) ?? new Set();
-            for (const line of fs.readFileSync(path.join(dir, name), "utf8").split("\n")) {
-                const n = normalize(line);
-                if (n) set.add(n);
-            }
-            if (set.size) lists.set(key, set);
-        }
-        const mdir = path.join(dir, "morphemes");
-        if (!isDir(mdir)) continue;
-        for (const name of fs.readdirSync(mdir).sort()) {
-            if (!name.endsWith(".txt")) continue;
-            for (const raw of fs.readFileSync(path.join(mdir, name), "utf8").split("\n")) {
-                const line = raw.trim();
-                if (!line || line.startsWith("#")) continue;
-                const at =
-                    line.startsWith("-") ? "end"
-                    : line.endsWith("-") ? "start"
-                    : "any";
-                const form = normalize(line);
-                if (form) morphemes.push({ form, at });
-            }
-        }
-    }
-    return { lists, morphemes };
-}
-
-/**
- * Every Earth list and morpheme a form matches.
- *
- * @param {string} form - The form.
- * @param {ReturnType<typeof loadEarth>} earth - The lists.
- * @returns {string[]} One message per match.
- */
-export function earthHits(form, earth) {
-    const out = [];
-    const n = normalize(form);
-    if (!n) return out;
-    if (n.length >= 3) {
-        for (const [list, entries] of earth.lists) {
-            if (entries.has(n)) out.push(`is a word in the ${list} list`);
-        }
-    }
-    for (const m of earth.morphemes) {
-        const hit =
-            m.at === "end" ? n.endsWith(m.form)
-            : m.at === "start" ? n.startsWith(m.form)
-            : n.includes(m.form);
-        if (hit && n !== m.form) out.push(`contains the Earth morpheme \`${m.form}\``);
-        else if (hit) out.push("is an Earth morpheme or proper name");
-    }
-    return [...new Set(out)];
-}
+export { earthHits, listDirs, loadEarth };
 
 /** A note's name and aliases. */
 function namesOf(note) {
@@ -667,9 +596,18 @@ function inScope(note, scope, fixed) {
  * @param {object[]} input.notes - From `corpus`.
  * @param {ReturnType<typeof loadEarth>} input.earth - The local Earth lists.
  * @param {Set<string>} input.dunhari - From `dunhariForms`.
+ * @param {Record<string, string[]>} [input.sources] - Source languages by tongue tag.
  * @returns {{file: string, text: string, offset: number|null, severity: string, message: string}[]}
  */
-export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = LEXICON }) {
+export function check({
+    lexText,
+    tongueNotes,
+    notes,
+    earth,
+    dunhari,
+    lexFile = LEXICON,
+    sources = SOURCES,
+}) {
     const out = [];
     const add = (offset, severity, message, file = lexFile, text = lexText) =>
         out.push({ file, text, offset, severity, message });
@@ -716,11 +654,11 @@ export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = L
         }
     }
 
-    const earthCheck = (form, offset, what, file, text) => {
-        for (const hit of earthHits(form, earth))
-            add(offset, "error", `${what} \`${form}\` ${hit}`, file, text);
+    const earthCheck = (form, offset, what, { tag = null, gloss = "" } = {}) => {
+        for (const hit of earthHits(form, earth, { gloss, sources: sourcesFor(sources, tag) }))
+            add(offset, hit.severity, `${what} \`${form}\` ${hit.message}`);
         if (dunhari.has(fold(form).replace(/[^\p{L}]/gu, "")))
-            add(offset, "error", `${what} \`${form}\` is a Dunhari name or word`, file, text);
+            add(offset, "error", `${what} \`${form}\` is a Dunhari name or word`);
     };
 
     // Stems.
@@ -753,7 +691,7 @@ export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = L
             add(s.offset, "error", `stem \`${s.form}\` stands in both ${other} and ${s.tongue}`);
         owner.set(fold(s.form), s.tongue);
         mine.push(s);
-        earthCheck(s.form, s.offset, `${s.tongue} stem`);
+        earthCheck(s.form, s.offset, `${s.tongue} stem`, { tag, gloss: s.sense });
     }
 
     // Distinct tongues: no stem keeps another tongue's sound rules.
@@ -822,7 +760,7 @@ export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = L
                 `${r.name} does not recompute: its derivation makes \`${made}\``,
             );
         for (const p of shape(r.name, rules)) add(r.offset, "error", `${r.name}: ${p}`);
-        earthCheck(r.name, r.offset, "name");
+        earthCheck(r.name, r.offset, "name", { tag: r.language, gloss: r.gloss });
     };
 
     // Derived words.
@@ -919,9 +857,9 @@ export function checkWords(words, { lexText, tongueNotes, earth, dunhari }) {
     return words.map((word) => {
         const lines = [];
         let ok = true;
-        for (const hit of earthHits(word, earth)) {
-            lines.push(`${word} ${hit}`);
-            ok = false;
+        for (const hit of earthHits(word, earth, { sources: allSources(SOURCES) })) {
+            lines.push(`${word} ${hit.message}${hit.severity === "error" ? "" : " (advisory)"}`);
+            if (hit.severity === "error") ok = false;
         }
         if (dunhari.has(fold(word).replace(/[^\p{L}]/gu, ""))) {
             lines.push(`${word} is a Dunhari name or word`);
