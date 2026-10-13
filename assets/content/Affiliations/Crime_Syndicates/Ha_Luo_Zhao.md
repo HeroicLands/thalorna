@@ -83,7 +83,7 @@ The Ha Luò Zhao's power is not exercised through street-level thuggery. It is e
 
 **Primary:** [[affiliation-tantsouempr|Empire of Tāntsou]]—with particular concentration in the major mercantile cities of the [[lore-shuonong|Shuonong]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
 
-**Secondary:** Cells reach into [[place-jenchairgn|Jénchài]] to the north and occasionally surface in the eastern reaches of [[place-byzariargn|Byzaría Region]] where Tāntsou trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
+**Secondary:** Cells reach into [[place-jenchairgn|Jénchài]] to the east and occasionally surface in the eastern reaches of [[place-byzariargn|Byzaría Region]] where Tāntsou trade intersects with Ankarian. The Black Lotus does not compete with the Vylarian Sea syndicates on their own territory; it has no need to.
 
 ## Operations
 
