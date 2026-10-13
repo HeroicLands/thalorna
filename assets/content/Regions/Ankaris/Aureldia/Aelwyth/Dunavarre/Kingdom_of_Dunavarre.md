@@ -78,7 +78,7 @@ data:
     vylarinmpr: unaligned
     saelvri: nemesis
   packFolder: aelwyth
-sohl: {system: {commonSkills: [elvndrlng]}}
+sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 ---
 
 ## Overview
@@ -101,7 +101,7 @@ The kingdom is devoutly [[affiliation-arldnpnthn|Aurèldían]], with [[affiliati
 
 ## Relations
 
-Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]], with whom it shares cultural roots, language and active trade. Dúnavarre sits on Aelwyth's southeastern coast, whose harbors face Élavendre across some two hundred and fifty sea-miles, and the two are each other's nearest civilized neighbor across that water. The tie is personal as well as commercial: the **Synod** maintains close relations with the Élavendren royal house, and has done for generations. This is a notable diplomatic achievement given how carefully Élavendre holds the [[affiliation-ordoarcanis|Ordo Arcanis]] at arm's length. Élavendre **permits** the Ordo and **limits its access**: it may keep its houses and teach in the cities—the University of [[place-beravel|Béravel]] is its largest campus outside the Empire—and it may not reach past them into the tribal lands, the sacred sites or the deep forest, where the Áelendan Wardens enforce a boundary the crown declines to move. That an Ordo-governed kingdom is nonetheless welcome at Béravel says a good deal about both courts. That Dúnavarre—an Ordo-governed kingdom—maintains warm ties with Élavendre speaks to the pragmatism of both parties, and perhaps to the fact that the Dúnavarren Synod is more flexible and less doctrinaire than the Ordo's mainland hierarchy.
+Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]], with whom it shares cultural roots and active trade. Its travelled and educated people commonly speak Élavendri as well as Aelwythi, and Élavendri above all at court. Dúnavarre sits on Aelwyth's southeastern coast, whose harbors face Élavendre across some two hundred and fifty sea-miles, and the two are each other's nearest civilized neighbor across that water. The tie is personal as well as commercial: the **Synod** maintains close relations with the Élavendren royal house, and has done for generations. This is a notable diplomatic achievement given how carefully Élavendre holds the [[affiliation-ordoarcanis|Ordo Arcanis]] at arm's length. Élavendre **permits** the Ordo and **limits its access**: it may keep its houses and teach in the cities—the University of [[place-beravel|Béravel]] is its largest campus outside the Empire—and it may not reach past them into the tribal lands, the sacred sites or the deep forest, where the Áelendan Wardens enforce a boundary the crown declines to move. That an Ordo-governed kingdom is nonetheless welcome at Béravel says a good deal about both courts. That Dúnavarre—an Ordo-governed kingdom—maintains warm ties with Élavendre speaks to the pragmatism of both parties, and perhaps to the fact that the Dúnavarren Synod is more flexible and less doctrinaire than the Ordo's mainland hierarchy.
 
 Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive—the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblcndrth|Republic of Ondareth]] through coastal trade routes.
 

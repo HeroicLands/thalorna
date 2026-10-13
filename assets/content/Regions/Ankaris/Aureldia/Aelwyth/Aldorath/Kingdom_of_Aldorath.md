@@ -114,7 +114,7 @@ data:
     repblcndrth: unaligned
     jrldmstrmvld: nemesis
   packFolder: aelwyth
-sohl: {system: {commonSkills: [elvndrlng]}}
+sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 ---
 
 ## Overview

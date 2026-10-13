@@ -3,7 +3,7 @@ shortcode: vylarilng
 name: {full: Vylari Language, aliases: []}
 type: skill
 subType: language
-description: "The imperial tongue of the Vylarian court and the lingua franca of trade across Mídhalión."
+description: "The imperial tongue of the Vylarian court and the language of law, scholarship and treaty across western Ankaris."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
@@ -19,7 +19,7 @@ sohl:
 
 Vylari is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of Mídhalión, spoken in the great cities of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]].
+Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of Mídhalión, spoken in the great cities of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]. It is also the language of law, scholarship and treaty across western Ankaris: the educated of every western realm learn it, and a scholar of Dúnavarre writes to a magistrate of Provenzia in Vylari, whatever each speaks at home.
 
 ## Overview
 

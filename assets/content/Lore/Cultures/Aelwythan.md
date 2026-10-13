@@ -106,7 +106,7 @@ Inheritance and marriage tie households into the realm's order. A baron's claim 
 
 ## Glossary {#glossary}
 
-Every term of art these notes use. Aelwythans speak Élavendri, so its terms are in the [[lore-elavendriclt#glossary|Élavendri glossary]]; the Nordmen of Stormveld keep their own words.
+Every term of art these notes use. Aelwythans speak [[skill-aelwthlng|Aelwythi]], and many of the travelled and educated also speak Élavendri, and Vylari for anything written to last, so its terms are in the [[lore-elavendriclt#glossary|Élavendri glossary]]; the Nordmen of Stormveld keep their own words.
 
 | Term           | Meaning                                                                               |
 | -------------- | ------------------------------------------------------------------------------------- |

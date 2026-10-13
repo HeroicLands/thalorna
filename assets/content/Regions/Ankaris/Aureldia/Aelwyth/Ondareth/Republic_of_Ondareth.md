@@ -80,7 +80,7 @@ data:
     kingdmdnvr: unaligned
     kngdmldrth: unaligned
   packFolder: aelwyth
-sohl: {system: {commonSkills: [elvndrlng]}}
+sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 ---
 
 ## Overview

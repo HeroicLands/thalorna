@@ -19,7 +19,7 @@ sohl:
 
 Élavendri is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where Vylari is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words.
+Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where Vylari is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words. It is the language of courts and verse. Its grammar draws fine distinctions of rank, courtesy and feeling that the other western tongues leave unsaid, and nobles beyond Élavendre learn it as a mark of breeding. On Aelwyth the travelled and educated commonly speak it beside [[skill-aelwthlng|Aelwythi]], and the learned of Élavendre commonly speak Aelwythi in return; the two tongues have long borrowed words from each other.
 
 ## Overview
 
