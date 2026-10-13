@@ -510,6 +510,12 @@ Worked names and words, each built from the stems above.
 | Shēkhulsīghot | `atarzadi` | elder of the flame: the senior priest of a major fire-temple; `Mōbad` is retired             | `shēkhul` + `sīghot`        |
 | Shēkhulūkhem  | `atarzadi` | council of the flame: the body of the priesthood; `Mōbadate` is retired                      | `shēkhul` + `lūkhem`        |
 | Vurinkarvem   | `tellumi`  | holy stone: the cliff over the great spring of Shirvan; `Mōrávar` is retired                 | `vurin` + `karvem`          |
+| Velkunvartun  | `tellumi`  | the gate of the lost one: the night gate of the settlement among the ruins of old Vahúrdash  | `velkun` + `vartun`         |
+| Talbemsirvel  | `tellumi`  | the forbidden tower: the Tower of Silence north of Ashkarad that no priest approaches        | `talbem` + `sirvel`         |
+| Relvanvesul   | `tellumi`  | the princes' bones: the grave of the palace household of Zargandûr                           | `relvan` + `vesul`          |
+| Relvanninel   | `tellumi`  | the princes' house: the palace of the cadet house of Nimelun                                 | `relvan` + `ninel`          |
+| Nimelun       | `tellumi`  | the house of silver: a cadet line of the craft house of Ashkarad                             | `nimel` + `-un`             |
+| Peldenderal   | `tellumi`  | the dry well: the shaft below the lower basin of Shirvan                                     | `pelden` + `deral`          |
 
 ## Names older than the rules
 
@@ -669,6 +675,20 @@ Every name of every note in the region stands here with the note it names and it
 | Wemaqoqwed                                    | [[lore-wemaqcalling\|The Calling at Wemaq]]                        | `sowides` | `wemaq` + `oqwed`                                         |
 | The Buried Water                              | [[lore-waterunder\|The Buried Water]]                              | `gloss`   | a glossed name on `Ruwelquyed`                            |
 | Ruwelquyed                                    | [[lore-waterunder\|The Buried Water]]                              | `sowides` | `ruwel` + `quyed`                                         |
+| Velkunvartun                                  | [[place-velkunvartun\|Velkunvartun]]                               | `tellumi` | `velkun` + `vartun`                                       |
+| The Gate of Velkun                            | [[place-velkunvartun\|Velkunvartun]]                               | `gloss`   | a glossed name on `Velkunvartun`                          |
+| The Barred Gate                               | [[place-velkunvartun\|Velkunvartun]]                               | `gloss`   | a glossed name on `Velkunvartun`                          |
+| Talbemsirvel                                  | [[place-talbemsirvel\|Talbemsirvel]]                               | `tellumi` | `talbem` + `sirvel`                                       |
+| The Empty Tower                               | [[place-talbemsirvel\|Talbemsirvel]]                               | `gloss`   | a glossed name on `Talbemsirvel`                          |
+| Relvanvesul                                   | [[place-relvanvesul\|Relvanvesul]]                                 | `tellumi` | `relvan` + `vesul`                                        |
+| Zargandûr's Trench                            | [[place-relvanvesul\|Relvanvesul]]                                 | `gloss`   | a glossed name on `Relvanvesul`                           |
+| The Princes' Bones                            | [[place-relvanvesul\|Relvanvesul]]                                 | `gloss`   | a glossed name on `Relvanvesul`                           |
+| Relvanninel                                   | [[place-relvanninel\|Relvanninel]]                                 | `tellumi` | `relvan` + `ninel`                                        |
+| The Glass Princes' Palace                     | [[place-relvanninel\|Relvanninel]]                                 | `gloss`   | a glossed name on `Relvanninel`                           |
+| The Palace of Glass                           | [[place-relvanninel\|Relvanninel]]                                 | `gloss`   | a glossed name on `Relvanninel`                           |
+| Peldenderal                                   | [[place-peldenderal\|Peldenderal]]                                 | `tellumi` | `pelden` + `deral`                                        |
+| The Dry Well of Shirvan                       | [[place-peldenderal\|Peldenderal]]                                 | `gloss`   | a glossed name on `Peldenderal`                           |
+| The Dry Well                                  | [[place-peldenderal\|Peldenderal]]                                 | `gloss`   | a glossed name on `Peldenderal`                           |
 
 ### Language tags
 

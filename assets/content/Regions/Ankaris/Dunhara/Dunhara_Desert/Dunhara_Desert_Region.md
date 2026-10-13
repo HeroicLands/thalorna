@@ -37,6 +37,9 @@ No one rules the open desert. Perhaps a dozen great confederations and many smal
 - [[place-stoneofranaz|Stone of Ranâz]]—the hill-shrine where three tribal territories meet
 - [[place-oasistvrzkh|Oasis of Tevrazekh]]—a spring that has never failed
 - [[place-kherzulekh|Kherzûlekh]]—a hunters' camp near the Khazryn frontier
+- [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]—a storm-blasted spire on the Pale Floor
+- [[place-mezhvekh|Mezhvekh]]—a vault buried under the dunes
+- [[place-vzhmkh|Vazhmekh]]—the weighing-place of the poets
 
 ## See Also
 

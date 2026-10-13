@@ -824,6 +824,13 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Lieutenant**                               | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                                                   | `translation`   | —          |
 | **Captain**                                  | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                                                   | `translation`   | —          |
 | **Prince or Princess of the Blood**          | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                                                   | `translation`   | —          |
+| **The Ring of Turned Paths**                 | [[place-rngtrndpths\|The Ring of Turned Paths]]                                                                                                    | `translation`   | —          |
+| **Khálpilonpu**                              | [[place-rngtrndpths\|The Ring of Turned Paths]]                                                                                                    | `other:aelendi` | —          |
+| **The Kept Fire**                            | [[place-kptfr\|The Kept Fire]]                                                                                                                     | `translation`   | —          |
+| **Káralson**                                 | [[place-kptfr\|The Kept Fire]]                                                                                                                     | `elavendri`     | —          |
+| **The Hall Under the Hill**                  | [[place-kptfr\|The Kept Fire]]                                                                                                                     | `translation`   | —          |
+| **The Dusk Ford**                            | [[place-dskfrd\|The Dusk Ford]]                                                                                                                    | `translation`   | —          |
+| **Ólvarnë**                                  | [[place-dskfrd\|The Dusk Ford]]                                                                                                                    | `elavendri`     | —          |
 
 ### Retired names
 

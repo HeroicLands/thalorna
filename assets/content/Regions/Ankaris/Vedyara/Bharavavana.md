@@ -84,3 +84,4 @@ The query names the settlements of the forest country. A gathering group moves w
 - [[place-forestnoroad|The Forest of No Road]]—the unendowed forest at the head of the river, above the last estate
 - [[place-bhrvdvsthna|The Bhārava-Devasthāna]]—the free hostels the forest's yield pays for
 - [[place-estrnreach|The Eastern Reach]]—the range above the upper river
+- [[place-sorhupura|Sorhupura]]—a temple-city in the interior that the forest has closed over

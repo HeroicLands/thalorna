@@ -327,6 +327,15 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Water-Warden**                          | [[affiliation-dunhartrbs\|Water-Warden]]                             | `translation` | —                   |
 | **Yorvôr**                                | [[affiliation-kngdmmrdd\|Yorvôr]]                                    | `dunhari`     | `yorv-` + `-ôr`     |
 | **Zevrôr**                                | [[affiliation-strmcltsbhrms\|Zevrôr]]                                | `dunhari`     | `zevr-` + `-ôr`     |
+| **Tower of the Lightning-Marked**         | [[place-twrlghtnmrkd\|Tower of the Lightning-Marked]]                | `translation` | —                   |
+| **Qeshvekh**                              | [[place-twrlghtnmrkd\|Qeshvekh]]                                     | `dunhari`     | `qeshv-` + `-ekh`   |
+| **The Glass Tower**                       | [[place-twrlghtnmrkd\|The Glass Tower]]                              | `translation` | —                   |
+| **Mezhvekh**                              | [[place-mezhvekh\|Mezhvekh]]                                         | `dunhari`     | `mezhv-` + `-ekh`   |
+| **The Dry Stair**                         | [[place-mezhvekh\|The Dry Stair]]                                    | `translation` | —                   |
+| **The Keeper's Vault**                    | [[place-mezhvekh\|The Keeper's Vault]]                               | `translation` | —                   |
+| **Vazhmekh**                              | [[place-vzhmkh\|Vazhmekh]]                                           | `dunhari`     | `vazhm-` + `-ekh`   |
+| **The Weighing-Place**                    | [[place-vzhmkh\|The Weighing-Place]]                                 | `translation` | —                   |
+| **The Oasis of the Unrecited**            | [[place-vzhmkh\|The Oasis of the Unrecited]]                         | `translation` | —                   |
 | **Associate**                             | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
 | **Boss**                                  | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
 | **Báhrámiš**                              | [[lore-bahramisdty\|Báhrámiš]]                                       | `ashaian`     | —                   |

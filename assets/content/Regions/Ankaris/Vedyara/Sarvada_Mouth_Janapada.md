@@ -31,3 +31,5 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
 The **Sarvada Mouth Janapada** is the janapada in which [[place-naughatta|Naughatta]] sits. The landing is held by the temple of [[affiliation-mahajaya|Mahājaya]] at the town and by the sabhā of the janapada, and the anchorage dues are the sabhā's largest single revenue.
+
+The janapada burns its dead at [[place-dahanaghatta|Dahanaghatta]], the stair on the north bank a mile above the town.
