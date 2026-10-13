@@ -211,33 +211,33 @@ A Provenzian names his city before his family, and the city words are the oldest
 
 Every office in this field ends in _-ànde_, the old agent ending, and the same offices exist in imperial Vylari with the learned ending _-àndo_. The native word names the city's officer, and the learned one the empire's.
 
-| Form           | Source             | Class | Gloss                                                               | Built from | Attested |
-| -------------- | ------------------ | ----- | ------------------------------------------------------------------- | ---------- | -------- |
-| `veramìs`      | `*wêrâmis`         | n f   | a city; a walled place of citizens, and the one a person belongs to | —          | —        |
-| `kurthèma`     | `*kurthêmâ`        | n f   | the council of a city, whether of nobles, of citizens or of a guild | —          | —        |
-| `kurthànde`    | `*kurthândôs`      | n m   | a councillor; one who sits in the council of a city                 | —          | —        |
-| `dilmàra`      | `*dhilmârâ`        | n f   | a vote; a decision of a council                                     | —          | —        |
-| `rembalìs`     | `*rêmbâlis`        | n f   | the square; the open place where a city does its business in public | —          | —        |
-| `tiruthrìma`   | `*thîrûthrimâ`     | n f   | the bound of a city, inside which no blade is drawn                 | —          | —        |
-| `chembòthe`    | `*khêmbôthôs`      | n m   | a wall; a city's wall                                               | —          | —        |
-| `kalzòthe`     | `*kâlzôthôs`       | n m   | a herald; one who speaks for a city or a house                      | —          | —        |
-| `verosàl`      | `*wêrôsâlon`       | n m   | citizenship; a share in a city                                      | —          | —        |
-| `tavàndo`      | vylari:`tâvândôs`  | n m   | a consul of the empire                                              | —          | —        |
-| `charezànde`   | `*kharêzândôs`     | n m   | a steward; one who manages a house's affairs                        | —          | —        |
-| `charezàthe`   | `*kharêzâthen`     | v     | to manage; to see to a thing for its owner                          | —          | —        |
-| `taurànde`     | `*thaurândôs`      | n m   | a guard; one of a lord's sworn household                            | —          | —        |
-| `lusànde`      | `*lûsândôs`        | n m   | a protector; one who speaks for the commons in council              | —          | —        |
-| `tarchelànde`  | `*târkhêlândôs`    | n m   | a treasurer; the keeper of a city's chest                           | —          | —        |
-| `sochàda`      | `*sôkhatâ`         | n f   | a tax; what the city's chest demands                                | —          | —        |
-| `uthrisochàda` | `*ûthrisôkhatâ`    | n f   | a toll; the tax taken at a city gate                                | —          | —        |
-| `usàl`         | `*ûsâlon`          | n m   | a charge; the office a city gives a man for a year                  | —          | —        |
-| `felzànde`     | `*phêlzândôs`      | n m   | an envoy; a man sent from one city to another                       | —          | —        |
-| `felzàthe`     | `*phêlzâthen`      | v     | to send                                                             | —          | —        |
-| `orzàthe`      | `*ôrzâthen`        | v     | to govern                                                           | —          | —        |
-| `orzàlo`       | vylari:`ôrzâlon`   | n m   | the empire; the coastal power to the west, in the learned word      | —          | —        |
-| `kurthàlo`     | vylari:`kurthâlon` | n m   | a council of the empire, in the learned word                        | —          | —        |
-| `talkàlo`      | vylari:`tâlkâlon`  | n m   | an imperial magistracy, in the learned word                         | —          | —        |
-| `zoràla`       | vylari:`zôralâ`    | n f   | the watch; the men who keep a city's peace at night                 | —          | —        |
+| Form           | Source             | Class | Gloss                                                               | Built from | Attested                                             |
+| -------------- | ------------------ | ----- | ------------------------------------------------------------------- | ---------- | ---------------------------------------------------- |
+| `veramìs`      | `*wêrâmis`         | n f   | a city; a walled place of citizens, and the one a person belongs to | —          | —                                                    |
+| `kurthèma`     | `*kurthêmâ`        | n f   | the council of a city, whether of nobles, of citizens or of a guild | —          | —                                                    |
+| `kurthànde`    | `*kurthândôs`      | n m   | a councillor; one who sits in the council of a city                 | —          | —                                                    |
+| `dilmàra`      | `*dhilmârâ`        | n f   | a vote; a decision of a council                                     | —          | —                                                    |
+| `rembalìs`     | `*rêmbâlis`        | n f   | the square; the open place where a city does its business in public | —          | —                                                    |
+| `tiruthrìma`   | `*thîrûthrimâ`     | n f   | the bound of a city, inside which no blade is drawn                 | —          | —                                                    |
+| `chembòthe`    | `*khêmbôthôs`      | n m   | a wall; a city's wall                                               | —          | —                                                    |
+| `kalzòthe`     | `*kâlzôthôs`       | n m   | a herald; one who speaks for a city or a house                      | —          | —                                                    |
+| `verosàl`      | `*wêrôsâlon`       | n m   | citizenship; a share in a city                                      | —          | —                                                    |
+| `tavàndo`      | vylari:`tâvândôs`  | n m   | a consul of the empire                                              | —          | —                                                    |
+| `charezànde`   | `*kharêzândôs`     | n m   | a steward; one who manages a house's affairs                        | —          | —                                                    |
+| `charezàthe`   | `*kharêzâthen`     | v     | to manage; to see to a thing for its owner                          | —          | —                                                    |
+| `taurànde`     | `*thaurândôs`      | n m   | a guard; one of a lord's sworn household                            | —          | —                                                    |
+| `lusànde`      | `*lûsândôs`        | n m   | a protector; one who speaks for the commons in council              | —          | —                                                    |
+| `tarchelànde`  | `*târkhêlândôs`    | n m   | a treasurer; the keeper of a city's chest                           | —          | —                                                    |
+| `sochàda`      | `*sôkhatâ`         | n f   | a tax; what the city's chest demands                                | —          | —                                                    |
+| `uthrisochàda` | `*ûthrisôkhatâ`    | n f   | a toll; the tax taken at a city gate                                | —          | —                                                    |
+| `usàl`         | `*ûsâlon`          | n m   | a charge; the office a city gives a man for a year                  | —          | —                                                    |
+| `felzànde`     | `*phêlzândôs`      | n m   | an envoy; a man sent from one city to another                       | —          | [[lore-boughtlonging\|How the South Bought Longing]] |
+| `felzàthe`     | `*phêlzâthen`      | v     | to send                                                             | —          | —                                                    |
+| `orzàthe`      | `*ôrzâthen`        | v     | to govern                                                           | —          | —                                                    |
+| `orzàlo`       | vylari:`ôrzâlon`   | n m   | the empire; the coastal power to the west, in the learned word      | —          | —                                                    |
+| `kurthàlo`     | vylari:`kurthâlon` | n m   | a council of the empire, in the learned word                        | —          | —                                                    |
+| `talkàlo`      | vylari:`tâlkâlon`  | n m   | an imperial magistracy, in the learned word                         | —          | —                                                    |
+| `zoràla`       | vylari:`zôralâ`    | n f   | the watch; the men who keep a city's peace at night                 | —          | —                                                    |
 
 ### Patron and client
 
@@ -245,30 +245,30 @@ The relation that organizes a Provenzian life is patron and client, and its word
 
 A man with no patron is _anziròthe_, unplaced, which in Provènzia is not a description of freedom but of exposure. The debts a client runs up are _orfẽàthe_, to owe, and its learned cousin _nezòra_, a debt in money, is a different thing entirely: a Provenzian can repay the second.
 
-| Form         | Source                | Class | Gloss                                                                | Built from | Attested |
-| ------------ | --------------------- | ----- | -------------------------------------------------------------------- | ---------- | -------- |
-| `daimèla`    | `*daimêlâ`            | n m   | a patron; a great man who carries clients                            | —          | —        |
-| `daimelàl`   | `*daimêlâlon`         | n m   | patronage; the standing of a patron and all who follow him           | —          | —        |
-| `daimàthe`   | `*daimâthen`          | v     | to give as a patron gives                                            | —          | —        |
-| `pramòlza`   | `*prâmôlzâ`           | n f   | the morning call; the client's attendance at the patron's door       | —          | —        |
-| `anziròthe`  | `*anzîrôthôs`         | adj   | unplaced; without a patron, and so without protection                | —          | —        |
-| `zirothàl`   | `*zîrôthâlon`         | n m   | precedence; the order of a room, worked out before anyone sits       | —          | —        |
-| `zirothàthe` | `*zîrôthâthen`        | v     | to place; to settle a stranger's standing                            | —          | —        |
-| `orfẽàthe`   | `*ôrphênâthen`        | v     | to owe; to stand under a favor                                       | —          | —        |
-| `jervàl`     | `*yêrpâlon`           | n m   | duty; what is owed to house, patron, city and clients, in that order | —          | —        |
-| `olvèthe`    | `*hôlwêthôs`          | n m   | a companion; one who rides beside a patron                           | —          | —        |
-| `zùmbre`     | `*zûmbrôs`            | n m   | a helper; a client of the lowest standing                            | —          | —        |
-| `dumvàr`     | `*dûmwarôs`           | n m   | a guest                                                              | —          | —        |
-| `dumvaràl`   | `*dûmwarâlon`         | n m   | guest-right; what a host owes a guest                                | —          | —        |
-| `aldhèthe`   | `*haldêthôs`          | n m   | a host                                                               | —          | —        |
-| `liskàima`   | `*lîskaimâ`           | n f   | a release; the freeing of a client from his patron                   | —          | —        |
-| `palvèthe`   | `*pâlwêthôs`          | n m   | a resident; a free man of another city living in this one            | —          | —        |
-| `liskòthe`   | `*lîskôthôs`          | n m   | a freed client; one whose patron has released him                    | —          | —        |
-| `gulmàlẽ`    | `*ghûlmâlênôs`        | n m   | a knight; a man of a city's mounted order                            | —          | —        |
-| `nezòra`     | vylari:`nêzôrâ`       | n f   | a debt in money                                                      | —          | —        |
-| `ansève`     | elavendri:`ánsevë`    | n m   | a friend; one owed as a client is owed, without the patronage        | —          | —        |
-| `ansevìrsa`  | elavendri:`ánsevirsa` | n f   | friendship, as the songs speak of it                                 | —          | —        |
-| `ellevìrsa`  | elavendri:`éllevirsa` | n f   | welcome; the courtesy owed a stranger at the door                    | —          | —        |
+| Form         | Source                | Class | Gloss                                                                | Built from | Attested                                             |
+| ------------ | --------------------- | ----- | -------------------------------------------------------------------- | ---------- | ---------------------------------------------------- |
+| `daimèla`    | `*daimêlâ`            | n m   | a patron; a great man who carries clients                            | —          | —                                                    |
+| `daimelàl`   | `*daimêlâlon`         | n m   | patronage; the standing of a patron and all who follow him           | —          | —                                                    |
+| `daimàthe`   | `*daimâthen`          | v     | to give as a patron gives                                            | —          | —                                                    |
+| `pramòlza`   | `*prâmôlzâ`           | n f   | the morning call; the client's attendance at the patron's door       | —          | —                                                    |
+| `anziròthe`  | `*anzîrôthôs`         | adj   | unplaced; without a patron, and so without protection                | —          | [[lore-karalzelmnt\|The Lament for Karàlze]]         |
+| `zirothàl`   | `*zîrôthâlon`         | n m   | precedence; the order of a room, worked out before anyone sits       | —          | —                                                    |
+| `zirothàthe` | `*zîrôthâthen`        | v     | to place; to settle a stranger's standing                            | —          | —                                                    |
+| `orfẽàthe`   | `*ôrphênâthen`        | v     | to owe; to stand under a favor                                       | —          | [[lore-boughtlonging\|How the South Bought Longing]] |
+| `jervàl`     | `*yêrpâlon`           | n m   | duty; what is owed to house, patron, city and clients, in that order | —          | —                                                    |
+| `olvèthe`    | `*hôlwêthôs`          | n m   | a companion; one who rides beside a patron                           | —          | —                                                    |
+| `zùmbre`     | `*zûmbrôs`            | n m   | a helper; a client of the lowest standing                            | —          | —                                                    |
+| `dumvàr`     | `*dûmwarôs`           | n m   | a guest                                                              | —          | —                                                    |
+| `dumvaràl`   | `*dûmwarâlon`         | n m   | guest-right; what a host owes a guest                                | —          | —                                                    |
+| `aldhèthe`   | `*haldêthôs`          | n m   | a host                                                               | —          | —                                                    |
+| `liskàima`   | `*lîskaimâ`           | n f   | a release; the freeing of a client from his patron                   | —          | —                                                    |
+| `palvèthe`   | `*pâlwêthôs`          | n m   | a resident; a free man of another city living in this one            | —          | —                                                    |
+| `liskòthe`   | `*lîskôthôs`          | n m   | a freed client; one whose patron has released him                    | —          | —                                                    |
+| `gulmàlẽ`    | `*ghûlmâlênôs`        | n m   | a knight; a man of a city's mounted order                            | —          | —                                                    |
+| `nezòra`     | vylari:`nêzôrâ`       | n f   | a debt in money                                                      | —          | —                                                    |
+| `ansève`     | elavendri:`ánsevë`    | n m   | a friend; one owed as a client is owed, without the patronage        | —          | —                                                    |
+| `ansevìrsa`  | elavendri:`ánsevirsa` | n f   | friendship, as the songs speak of it                                 | —          | —                                                    |
+| `ellevìrsa`  | elavendri:`éllevirsa` | n f   | welcome; the courtesy owed a stranger at the door                    | —          | —                                                    |
 
 ### Love and its conduct
 
@@ -276,21 +276,21 @@ Courtly love is a code of conduct, and its vocabulary is borrowed from the north
 
 The ache of absence, the longing for a person or a place or a time that is not coming back, is _solmère_, which in Élavendri means the smell of rain on its way. Provenzal took the word for its weather and made it a feeling, and it is the word every lyric in the tongue is built around.
 
-| Form         | Source                 | Class | Gloss                                                          | Built from | Attested |
-| ------------ | ---------------------- | ----- | -------------------------------------------------------------- | ---------- | -------- |
-| `tholmèsa`   | elavendri:`thólmesa`   | n f   | a lover's vow; a promise made in the code of courtly love      | —          | —        |
-| `tolmèza`    | `*thôlmezâ`            | n f   | a vow made before a notary                                     | —          | —        |
-| `solmère`    | elavendri:`sólmerë`    | n m   | longing; the ache for a person, a place or a time that is gone | —          | —        |
-| `thennàirsa` | elavendri:`thénnairsa` | n f   | sincerity; the truth of a heart, as a lyric claims it          | —          | —        |
-| `nelthàva`   | elavendri:`nélthava`   | n f   | a lament; a song for a love lost                               | —          | —        |
-| `selvòre`    | elavendri:`sélvorë`    | n m   | death, in a lyric                                              | —          | —        |
-| `kambèza`    | `*kâmbezâ`             | n f   | a marriage; a contract between two houses                      | —          | —        |
-| `kambèthe`   | `*kâmbêthôs`           | n m   | a husband                                                      | —          | —        |
-| `solvìma`    | `*sôlkimâ`             | n f   | gravity; the bearing proper to a person of standing            | —          | —        |
-| `kelthàthe`  | `*kêlthâthen`          | v     | to keep a secret; to be discreet in love                       | —          | —        |
-| `tidharànde` | `*thîdhârândôs`        | n m   | a go-between; one who carries sealed letters between lovers    | —          | —        |
-| `lauvìne`    | elavendri:`láuvinë`    | n m   | a leaf; a love letter, folded small                            | —          | —        |
-| `palsàirsa`  | elavendri:`pálsairsa`  | n f   | greenness; the first season of a love                          | —          | —        |
+| Form         | Source                 | Class | Gloss                                                          | Built from | Attested                                                                                               |
+| ------------ | ---------------------- | ----- | -------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------ |
+| `tholmèsa`   | elavendri:`thólmesa`   | n f   | a lover's vow; a promise made in the code of courtly love      | —          | —                                                                                                      |
+| `tolmèza`    | `*thôlmezâ`            | n f   | a vow made before a notary                                     | —          | —                                                                                                      |
+| `solmère`    | elavendri:`sólmerë`    | n m   | longing; the ache for a person, a place or a time that is gone | —          | [[lore-lastshrine\|The Song of the Last Shrine]], [[lore-boughtlonging\|How the South Bought Longing]] |
+| `thennàirsa` | elavendri:`thénnairsa` | n f   | sincerity; the truth of a heart, as a lyric claims it          | —          | —                                                                                                      |
+| `nelthàva`   | elavendri:`nélthava`   | n f   | a lament; a song for a love lost                               | —          | —                                                                                                      |
+| `selvòre`    | elavendri:`sélvorë`    | n m   | death, in a lyric                                              | —          | —                                                                                                      |
+| `kambèza`    | `*kâmbezâ`             | n f   | a marriage; a contract between two houses                      | —          | —                                                                                                      |
+| `kambèthe`   | `*kâmbêthôs`           | n m   | a husband                                                      | —          | —                                                                                                      |
+| `solvìma`    | `*sôlkimâ`             | n f   | gravity; the bearing proper to a person of standing            | —          | —                                                                                                      |
+| `kelthàthe`  | `*kêlthâthen`          | v     | to keep a secret; to be discreet in love                       | —          | —                                                                                                      |
+| `tidharànde` | `*thîdhârândôs`        | n m   | a go-between; one who carries sealed letters between lovers    | —          | —                                                                                                      |
+| `lauvìne`    | elavendri:`láuvinë`    | n m   | a leaf; a love letter, folded small                            | —          | —                                                                                                      |
+| `palsàirsa`  | elavendri:`pálsairsa`  | n f   | greenness; the first season of a love                          | —          | —                                                                                                      |
 
 ### Song and the síladòrs
 
@@ -432,23 +432,23 @@ Every city has its own courts and none of them agree, so the law words are many 
 
 Provènzia is rich and clever and convinced that being both is a moral achievement, and the money words are the busiest in the tongue. The moneylender, _fezumànde_, is a respected man with a seat on most councils, and interest, _fezumàl_, is discussed at dinner as openly as the weather. The coins are imperial and so are their learned names. The scale is _tradìna_, a learned word, because the honest scale is something a city guarantees and not something a man keeps at home.
 
-| Form         | Source             | Class | Gloss                                                        | Built from | Attested |
-| ------------ | ------------------ | ----- | ------------------------------------------------------------ | ---------- | -------- |
-| `delàmo`     | vylari:`dêlâmôs`   | n m   | a merchant                                                   | —          | —        |
-| `verdhavìs`  | `*wêrdâkis`        | n f   | a price                                                      | —          | —        |
-| `fezumàl`    | `*phêzûmâlon`      | n m   | interest                                                     | —          | —        |
-| `fezumàthe`  | `*phêzûmâthen`     | v     | to lend at interest                                          | —          | —        |
-| `fezumànde`  | `*phêzûmândôs`     | n m   | a moneylender                                                | —          | —        |
-| `elthezànde` | `*elthêzâs`        | n m   | the gold coin                                                | —          | —        |
-| `solkìmo`    | vylari:`sôlkimon`  | n m   | a weight; a pound of a city's standard                       | —          | —        |
-| `anchràzo`   | vylari:`ankhrâzôs` | n m   | the silver coin                                              | —          | —        |
-| `tradìna`    | vylari:`thrâdinâ`  | n f   | a scale; one a city has sealed as honest                     | —          | —        |
-| `firsamìs`   | `*phirsâmis`       | n f   | a note of hand; a paper a moneylender honors in another city | —          | —        |
-| `selvàro`    | vylari:`sêlvâron`  | n m   | a warehouse                                                  | —          | —        |
-| `uzmèla`     | `*ûzmêlâ`          | n f   | the dole; grain given by a city to its poor                  | —          | —        |
-| `jenthìze`   | `*yênthizon`       | n m   | wine                                                         | —          | —        |
-| `tremuzìs`   | `*thrêmûzis`       | n m   | salt                                                         | —          | —        |
-| `chezìlo`    | vylari:`khezilon`  | n m   | a small coin; the eighth of a silver piece                   | —          | —        |
+| Form         | Source             | Class | Gloss                                                        | Built from | Attested                                             |
+| ------------ | ------------------ | ----- | ------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
+| `delàmo`     | vylari:`dêlâmôs`   | n m   | a merchant                                                   | —          | —                                                    |
+| `verdhavìs`  | `*wêrdâkis`        | n f   | a price                                                      | —          | —                                                    |
+| `fezumàl`    | `*phêzûmâlon`      | n m   | interest                                                     | —          | [[lore-boughtlonging\|How the South Bought Longing]] |
+| `fezumàthe`  | `*phêzûmâthen`     | v     | to lend at interest                                          | —          | —                                                    |
+| `fezumànde`  | `*phêzûmândôs`     | n m   | a moneylender                                                | —          | —                                                    |
+| `elthezànde` | `*elthêzâs`        | n m   | the gold coin                                                | —          | —                                                    |
+| `solkìmo`    | vylari:`sôlkimon`  | n m   | a weight; a pound of a city's standard                       | —          | —                                                    |
+| `anchràzo`   | vylari:`ankhrâzôs` | n m   | the silver coin                                              | —          | —                                                    |
+| `tradìna`    | vylari:`thrâdinâ`  | n f   | a scale; one a city has sealed as honest                     | —          | —                                                    |
+| `firsamìs`   | `*phirsâmis`       | n f   | a note of hand; a paper a moneylender honors in another city | —          | —                                                    |
+| `selvàro`    | vylari:`sêlvâron`  | n m   | a warehouse                                                  | —          | —                                                    |
+| `uzmèla`     | `*ûzmêlâ`          | n f   | the dole; grain given by a city to its poor                  | —          | —                                                    |
+| `jenthìze`   | `*yênthizon`       | n m   | wine                                                         | —          | —                                                    |
+| `tremuzìs`   | `*thrêmûzis`       | n m   | salt                                                         | —          | —                                                    |
+| `chezìlo`    | vylari:`khezilon`  | n m   | a small coin; the eighth of a silver piece                   | —          | —                                                    |
 
 ### Craft and the workshop
 
@@ -587,12 +587,12 @@ Where the southern tongue had little to say, it borrowed from the north, and nea
 
 The calendar is the empire's, counted from its founding, and the festivals are every city's own. _Lordhème_ is a festival, and every city keeps its own.
 
-| Form        | Source       | Class | Gloss                                                     | Built from | Attested |
-| ----------- | ------------ | ----- | --------------------------------------------------------- | ---------- | -------- |
-| `oltrèma`   | `*ôltrêmâ`   | n f   | a month                                                   | —          | —        |
-| `pramìza`   | `*prâmizâ`   | n f   | the morning                                               | —          | —        |
-| `lordhème`  | `*lôrdêmon`  | n m   | a festival                                                | —          | —        |
-| `zerthazìs` | `*zêrthâzis` | n f   | the founding; the day the empire's years are counted from | —          | —        |
+| Form        | Source       | Class | Gloss                                                     | Built from | Attested                                                |
+| ----------- | ------------ | ----- | --------------------------------------------------------- | ---------- | ------------------------------------------------------- |
+| `oltrèma`   | `*ôltrêmâ`   | n f   | a month                                                   | —          | —                                                       |
+| `pramìza`   | `*prâmizâ`   | n f   | the morning                                               | —          | [[lore-morningname\|The Dawn Song of the Morning Name]] |
+| `lordhème`  | `*lôrdêmon`  | n m   | a festival                                                | —          | —                                                       |
+| `zerthazìs` | `*zêrthâzis` | n f   | the founding; the day the empire's years are counted from | —          | —                                                       |
 
 ### Qualities
 
@@ -663,201 +663,226 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 
 ### Names
 
-| Name                                    | Notes                                                                                                                   | Tongue        | Built from |
-| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- |
-| **Brànwâal**                            | [[being-branwldrgr\|Brànwâal Dôrgaar]]                                                                                  | `provenzal`   | —          |
-| **Dôrgaar**                             | [[being-branwldrgr\|Brànwâal Dôrgaar]]                                                                                  | `provenzal`   | —          |
-| **Chéleb**                              | [[being-chlbrhydyn\|Chéleb Rhýddýn]]                                                                                    | `provenzal`   | —          |
-| **Rhýddýn**                             | [[being-chlbrhydyn\|Chéleb Rhýddýn]]                                                                                    | `provenzal`   | —          |
-| **Dôren**                               | [[being-dornsyndlr\|Dôren Sýndalr]]                                                                                     | `provenzal`   | —          |
-| **Sýndalr**                             | [[being-dornsyndlr\|Dôren Sýndalr]]                                                                                     | `provenzal`   | —          |
-| **Féthar**                              | [[being-fethardhrl\|Féthar Dhárel]]                                                                                     | `provenzal`   | —          |
-| **Dhárel**                              | [[being-fethardhrl\|Féthar Dhárel]]                                                                                     | `provenzal`   | —          |
-| **Féth**                                | [[being-fethardhrl\|Féthar Dhárel]]                                                                                     | `provenzal`   | —          |
-| **Kêlena**                              | [[being-kelnstylgn\|Kêlena Stýlgon]]                                                                                    | `provenzal`   | —          |
-| **Stýlgon**                             | [[being-kelnstylgn\|Kêlena Stýlgon]]                                                                                    | `provenzal`   | —          |
-| **Kjôrvan**                             | [[being-kjrvngjrln\|Kjôrvan Gjârlen]]                                                                                   | `provenzal`   | —          |
-| **Gjârlen**                             | [[being-kjrvngjrln\|Kjôrvan Gjârlen]]                                                                                   | `provenzal`   | —          |
-| **Árisla Kórisvar**                     | [[being-arislkrsvr\|Árisla Kórisvar]]                                                                                   | `provenzal`   | —          |
-| **Ârnela Kórisvar**                     | [[being-arnelkrsvr\|Ârnela Kórisvar]]                                                                                   | `provenzal`   | —          |
-| **Bâlden Stýlgon**                      | [[being-bldnstylgn\|Bâlden Stýlgon]]                                                                                    | `provenzal`   | —          |
-| **Bárnek Lánthrik**                     | [[being-brnklnthrk\|Bárnek Lánthrik]]                                                                                   | `provenzal`   | —          |
-| **Brýgar Lýskal**                       | [[being-brygrlyskl\|Brýgar Lýskal]]                                                                                     | `provenzal`   | —          |
-| **Cáreden Chárnis**                     | [[being-cardnchrns\|Cáreden Chárnis]]                                                                                   | `provenzal`   | —          |
-| **Chýnara Kórisvar**                    | [[being-chynrkrsvr\|Chýnara Kórisvar]]                                                                                  | `provenzal`   | —          |
-| **Fárila Válskyr**                      | [[being-farlvlskyr\|Fárila Válskyr]]                                                                                    | `provenzal`   | —          |
-| **Frýsala Válskyr**                     | [[being-fryslvlskyr\|Frýsala Válskyr]]                                                                                  | `provenzal`   | —          |
-| **Gália Rálwen**                        | [[being-galiaralwn\|Gália Rálwen]]                                                                                      | `provenzal`   | —          |
-| **Hârlak Válskyr**                      | [[being-hrlkvlskyr\|Hârlak Válskyr]]                                                                                    | `provenzal`   | —          |
-| **Járaen Lýskal**                       | [[being-jaranlyskl\|Járaen Lýskal]]                                                                                     | `provenzal`   | —          |
-| **Kírisa Zýrand**                       | [[being-kiriszyrnd\|Kírisa Zýrand]]                                                                                     | `provenzal`   | —          |
-| **Lýraen Válskyr**                      | [[being-lyrnvlskyr\|Lýraen Válskyr]]                                                                                    | `provenzal`   | —          |
-| **Lýrena Tólgen**                       | [[being-lyrenatlgn\|Lýrena Tólgen]]                                                                                     | `provenzal`   | —          |
-| **Nílara Tólgen**                       | [[being-nilaratlgn\|Nílara Tólgen]]                                                                                     | `provenzal`   | —          |
-| **Óskar Brýlond**                       | [[being-oskrbrylnd\|Óskar Brýlond]]                                                                                     | `provenzal`   | —          |
-| **Rýlden Brânwyld**                     | [[being-ryldnbrnwyld\|Rýlden Brânwyld]]                                                                                 | `provenzal`   | —          |
-| **Târlig Tólgen**                       | [[being-tarligtlgn\|Târlig Tólgen]]                                                                                     | `provenzal`   | —          |
-| **Thâven Fárwèn**                       | [[being-thavenfrwn\|Thâven Fárwèn]]                                                                                     | `provenzal`   | —          |
-| **Úrelè Rálwen**                        | [[being-ureleralwn\|Úrelè Rálwen]]                                                                                      | `provenzal`   | —          |
-| **Vérynna Brânwyld**                    | [[being-vrynbrnwyld\|Vérynna Brânwyld]]                                                                                 | `provenzal`   | —          |
-| **Vólyra Brýlond**                      | [[being-vlyrbrylnd\|Vólyra Brýlond]]                                                                                    | `provenzal`   | —          |
-| **Vôrnan Tólgen**                       | [[being-vornantlgn\|Vôrnan Tólgen]]                                                                                     | `provenzal`   | —          |
-| **Yléndor Mýrdal**                      | [[being-ylndrmyrdl\|Yléndor Mýrdal]]                                                                                    | `provenzal`   | —          |
-| **Zálren Lýskal**                       | [[being-zalrnlyskl\|Zálren Lýskal]]                                                                                     | `provenzal`   | —          |
-| **Provenzian**                          | [[lore-provenzianclt\|Provenzian]]                                                                                      | `provenzal`   | —          |
-| **Argenna**                             | [[place-argenna\|Argenna]]                                                                                              | `provenzal`   | —          |
-| **Oracular Sanctuary at Argenna**       | [[place-argenna\|Argenna]]                                                                                              | `translation` | —          |
-| **Áthavel**                             | [[place-athavel\|Áthavel]]                                                                                              | `provenzal`   | —          |
-| **Gwéfavel**                            | [[place-gwefavel\|Gwéfavel]]                                                                                            | `provenzal`   | —          |
-| **The Blood-fields of Provènzia**       | [[lore-bloodfields\|The Blood-fields of Provènzia]]                                                                     | `translation` | —          |
-| **Kingdom of Provènzia**                | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Outlaw**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Unfree**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Freeman**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Gentry**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Knight**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Lesser Nobility**                     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Greater Nobility**                    | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Sovereign**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **King**                                | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Queen**                               | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Queen Consort**                       | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Prince Consort**                      | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Prince**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Princess**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Chancellor**                          | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Treasurer**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]      | `translation` | —          |
-| **Steward**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]      | `translation` | —          |
-| **Constable**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Marshal**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Chamberlain**                         | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Justiciar**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Butler**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Admiral**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Sheriff**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Coroner**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Escheator**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Warden of the March**                 | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Castellan**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Governor**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Lieutenant**                          | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-slntlncmpny\|The Silent Talon Company]]                 | `translation` | —          |
-| **Forester**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Purveyor**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Regent**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Privy Councilor**                     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **King of Arms**                        | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Herald**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Master of the Horse**                 | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Master of the Hunt**                  | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Falconer**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Banneret**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Captain**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-slntlncmpny\|The Silent Talon Company]]                 | `translation` | —          |
-| **Serjeant**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Manorial Officer**                    | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
-| **Belpòrte**                            | [[place-belporte\|Belpòrte]]                                                                                            | `provenzal`   | —          |
-| **Blood-field of Calvènza**             | [[place-bldfldcalvenza\|Blood-field of Calvènza]]                                                                       | `translation` | —          |
-| **Dégavel**                             | [[place-degavel\|Dégavel]]                                                                                              | `provenzal`   | —          |
-| **Fiòrdaure**                           | [[place-fiordaure\|Fiòrdaure]]                                                                                          | `provenzal`   | —          |
-| **Lunacòrte**                           | [[place-lunacorte\|Lunacòrte]]                                                                                          | `provenzal`   | —          |
-| **Meridiàna**                           | [[place-meridiana\|Meridiàna]]                                                                                          | `provenzal`   | —          |
-| **Monvèrdre**                           | [[place-monverdre\|Monvèrdre]]                                                                                          | `provenzal`   | —          |
-| **Shrine of Thúravel Hills**            | [[place-shrinethuravelhills\|Shrine of Thúravel Hills]]                                                                 | `translation` | —          |
-| **Thornwood**                           | [[place-thornwood\|Thornwood]]                                                                                          | `translation` | —          |
-| **Thúravel Hills**                      | [[place-thuravelhills\|Thúravel Hills]]                                                                                 | `translation` | —          |
-| **Válaren City**                        | [[place-valarencity\|Válaren City]]                                                                                     | `translation` | —          |
-| **Provènzia Region**                    | [[place-provenzrgn\|Provènzia Region]]                                                                                  | `translation` | —          |
-| **Provenzia**                           | [[place-provenzrgn\|Provènzia Region]]                                                                                  | `provenzal`   | —          |
-| **Ravenshold**                          | [[place-ravenshold\|Ravenshold]]                                                                                        | `translation` | —          |
-| **Bélsaren**                            | [[place-belsaren\|Bélsaren]]                                                                                            | `provenzal`   | —          |
-| **Blood-field of Serravel**             | [[place-bldfldserravel\|Blood-field of Serravel]]                                                                       | `translation` | —          |
-| **Blood-field of Tiravlen**             | [[place-bldfldtiravlen\|Blood-field of Tiravlen]]                                                                       | `translation` | —          |
-| **Caêr Céravel**                        | [[place-caerceravel\|Caêr Céravel]]                                                                                     | `provenzal`   | —          |
-| **Céravel Castle**                      | [[place-caerceravel\|Caêr Céravel]]                                                                                     | `translation` | —          |
-| **Céravel Vale**                        | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `translation` | —          |
-| **Céravel**                             | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `provenzal`   | —          |
-| **Vale of Céravel**                     | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `translation` | —          |
-| **Chastèlclair**                        | [[place-chastelclr\|Chastèlclair]]                                                                                      | `provenzal`   | —          |
-| **Ilóvren**                             | [[place-ilovren\|Ilóvren]]                                                                                              | `provenzal`   | —          |
-| **Lake Tiravel**                        | [[place-tiravellake\|Lake Tiravel]]                                                                                     | `translation` | —          |
-| **Léravren**                            | [[place-leravren\|Léravren]]                                                                                            | `provenzal`   | —          |
-| **Sèrramarca**                          | [[place-serramarca\|Sèrramarca]]                                                                                        | `provenzal`   | —          |
-| **Valcèrise**                           | [[place-valcerise\|Valcèrise]]                                                                                          | `provenzal`   | —          |
-| **Batáren City**                        | [[place-batarencity\|Batáren City]]                                                                                     | `translation` | —          |
-| **Blood-field of Yhârvalen**            | [[place-bldfldyharvalen\|Blood-field of Yhârvalen]]                                                                     | `translation` | —          |
-| **Gulf of Batáren**                     | [[place-batarengulf\|Gulf of Batáren]]                                                                                  | `translation` | —          |
-| **Maze of Echoes**                      | [[place-mazeofechos\|Maze of Echoes]]                                                                                   | `translation` | —          |
-| **Ménavar Abbey**                       | [[place-menavarabbey\|Ménavar Abbey]]                                                                                   | `translation` | —          |
-| **Mount Hýdraven**                      | [[place-hydravenmnt\|Mount Hýdraven]]                                                                                   | `translation` | —          |
-| **Sirmennë**                            | [[place-sirmenne\|Sirmennë]]                                                                                            | `provenzal`   | —          |
-| **Temporal Compass**                    | [[miscgear-temprlcmpss\|Temporal Compass]]                                                                              | `translation` | —          |
-| **Tramontàna**                          | [[place-tramontana\|Tramontàna]]                                                                                        | `provenzal`   | —          |
-| **Yhârvalen Henge**                     | [[place-yharvalenhenge\|Yhârvalen Henge]]                                                                               | `translation` | —          |
-| **Blavéra**                             | [[place-blavera\|Blavéra]]                                                                                              | `provenzal`   | —          |
-| **Blood-field of Kývarel**              | [[place-bldfldkyvarel\|Blood-field of Kývarel]]                                                                         | `translation` | —          |
-| **Estivren**                            | [[place-estivren\|Estivren]]                                                                                            | `provenzal`   | —          |
-| **Hárivren City**                       | [[place-harivrencity\|Hárivren City]]                                                                                   | `translation` | —          |
-| **Kývarel**                             | [[place-kyvarel\|Kývarel]]                                                                                              | `provenzal`   | —          |
-| **Mercadaure**                          | [[place-mercadaure\|Mercadaure]]                                                                                        | `provenzal`   | —          |
-| **Portvent**                            | [[place-portvent\|Portvent]]                                                                                            | `provenzal`   | —          |
-| **Vergéval**                            | [[place-vergeval\|Vergéval]]                                                                                            | `provenzal`   | —          |
-| **Zûravlen Region**                     | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `translation` | —          |
-| **Zûravlen**                            | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `provenzal`   | —          |
-| **The Peach Country**                   | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `translation` | —          |
-| **Provenzal Language**                  | [[skill-provnzlng\|Provenzal Language]]                                                                                 | `translation` | —          |
-| **Provenzal**                           | [[skill-provnzlng\|Provenzal Language]]                                                                                 | `provenzal`   | —          |
-| **Almoner**                             | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Bosun**                               | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Chair**                               | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Discharged in Disgrace**              | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Elder Member**                        | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Expelled**                            | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Full Member**                         | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Guest**                               | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Hand**                                | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Master of Ceremonies**                | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Master of the Company**               | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Master-at-Arms**                      | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Member**                              | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Navigator**                           | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Officer**                             | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]], [[affiliation-slntlncmpny\|The Silent Talon Company]] | `translation` | —          |
-| **Provènzia Adventurer's Guide**        | [[doc-provenziaadvguide\|Provènzia Adventurer's Guide]]                                                                 | `translation` | —          |
-| **Purser**                              | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Quartermaster**                       | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Secretary**                           | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Servant**                             | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Standard-Bearer**                     | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Surgeon**                             | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Sworn Member**                        | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **The Players' Federation**             | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **The Provènzia Theater Collective**    | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **The Silent Talon Company**            | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **The Theater Collective**              | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —          |
-| **Veteran**                             | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —          |
-| **Giochi Grandi**                       | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `provenzal`   | —          |
-| **Provenzian Grand Games**              | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `translation` | —          |
-| **The Grand Games**                     | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `translation` | —          |
-| **Earldom of Hárivren**                 | [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                                                                         | `translation` | —          |
-| **Subject**                             | [[affiliation-brnyzrvln\|Barony of Zûravlen]], [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                          | `translation` | —          |
-| **Barony of Zûravlen**                  | [[affiliation-brnyzrvln\|Barony of Zûravlen]]                                                                           | `translation` | —          |
-| **King Vélarik III**                    | [[being-kingvelarikiii\|King Vélarik III]]                                                                              | `translation` | —          |
-| **Aurèliane**                           | [[place-aureliane\|Aurèliane]], [[lore-aurelianefound\|The Founding of Aurèliane]]                                      | `provenzal`   | —          |
-| **The Founding of Aurèliane**           | [[lore-aurelianefound\|The Founding of Aurèliane]]                                                                      | `translation` | —          |
-| **The Colony on the Great Road**        | [[lore-aurelianefound\|The Founding of Aurèliane]]                                                                      | `translation` | —          |
-| **Tiravlen**                            | [[lore-tiravlenbattle\|Tiravlen]]                                                                                       | `provenzal`   | —          |
-| **The Breaking of the Thânevar Kings**  | [[lore-tiravlenbattle\|Tiravlen]]                                                                                       | `translation` | —          |
-| **The Breaking of the Kings**           | [[lore-tiravlenbattle\|Tiravlen]]                                                                                       | `translation` | —          |
-| **The Battle of the Blood Hills**       | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                                                                   | `translation` | —          |
-| **The Battle of Céravel's Blood Hills** | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                                                                   | `translation` | —          |
-| **The Blood Hills**                     | [[place-bloodhills\|The Blood Hills]], [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                            | `translation` | —          |
-| **Céravel's Blood Hills**               | [[place-bloodhills\|The Blood Hills]]                                                                                   | `translation` | —          |
-| **Serravel**                            | [[lore-serravelbtl\|Serravel]]                                                                                          | `provenzal`   | —          |
-| **The First Great Raid**                | [[lore-serravelbtl\|Serravel]]                                                                                          | `translation` | —          |
-| **The First Raid**                      | [[lore-serravelbtl\|Serravel]]                                                                                          | `translation` | —          |
-| **The War of the Charter**              | [[lore-charterwar\|The War of the Charter]]                                                                             | `translation` | —          |
-| **The Nine Years' Refusal**             | [[lore-charterwar\|The War of the Charter]]                                                                             | `translation` | —          |
-| **The War of the Princes**              | [[lore-warprinces\|The War of the Princes]]                                                                             | `translation` | —          |
-| **The Céravian Rebellion**              | [[lore-warprinces\|The War of the Princes]]                                                                             | `translation` | —          |
-| **Prince or Princess of the Blood**     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —          |
+| Name                                    | Notes                                                                                                                   | Tongue        | Built from  |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
+| **Brànwâal**                            | [[being-branwldrgr\|Brànwâal Dôrgaar]]                                                                                  | `provenzal`   | —           |
+| **Dôrgaar**                             | [[being-branwldrgr\|Brànwâal Dôrgaar]]                                                                                  | `provenzal`   | —           |
+| **Chéleb**                              | [[being-chlbrhydyn\|Chéleb Rhýddýn]]                                                                                    | `provenzal`   | —           |
+| **Rhýddýn**                             | [[being-chlbrhydyn\|Chéleb Rhýddýn]]                                                                                    | `provenzal`   | —           |
+| **Dôren**                               | [[being-dornsyndlr\|Dôren Sýndalr]]                                                                                     | `provenzal`   | —           |
+| **Sýndalr**                             | [[being-dornsyndlr\|Dôren Sýndalr]]                                                                                     | `provenzal`   | —           |
+| **Féthar**                              | [[being-fethardhrl\|Féthar Dhárel]]                                                                                     | `provenzal`   | —           |
+| **Dhárel**                              | [[being-fethardhrl\|Féthar Dhárel]]                                                                                     | `provenzal`   | —           |
+| **Féth**                                | [[being-fethardhrl\|Féthar Dhárel]]                                                                                     | `provenzal`   | —           |
+| **Kêlena**                              | [[being-kelnstylgn\|Kêlena Stýlgon]]                                                                                    | `provenzal`   | —           |
+| **Stýlgon**                             | [[being-kelnstylgn\|Kêlena Stýlgon]]                                                                                    | `provenzal`   | —           |
+| **Kjôrvan**                             | [[being-kjrvngjrln\|Kjôrvan Gjârlen]]                                                                                   | `provenzal`   | —           |
+| **Gjârlen**                             | [[being-kjrvngjrln\|Kjôrvan Gjârlen]]                                                                                   | `provenzal`   | —           |
+| **Árisla Kórisvar**                     | [[being-arislkrsvr\|Árisla Kórisvar]]                                                                                   | `provenzal`   | —           |
+| **Ârnela Kórisvar**                     | [[being-arnelkrsvr\|Ârnela Kórisvar]]                                                                                   | `provenzal`   | —           |
+| **Bâlden Stýlgon**                      | [[being-bldnstylgn\|Bâlden Stýlgon]]                                                                                    | `provenzal`   | —           |
+| **Bárnek Lánthrik**                     | [[being-brnklnthrk\|Bárnek Lánthrik]]                                                                                   | `provenzal`   | —           |
+| **Brýgar Lýskal**                       | [[being-brygrlyskl\|Brýgar Lýskal]]                                                                                     | `provenzal`   | —           |
+| **Cáreden Chárnis**                     | [[being-cardnchrns\|Cáreden Chárnis]]                                                                                   | `provenzal`   | —           |
+| **Chýnara Kórisvar**                    | [[being-chynrkrsvr\|Chýnara Kórisvar]]                                                                                  | `provenzal`   | —           |
+| **Fárila Válskyr**                      | [[being-farlvlskyr\|Fárila Válskyr]]                                                                                    | `provenzal`   | —           |
+| **Frýsala Válskyr**                     | [[being-fryslvlskyr\|Frýsala Válskyr]]                                                                                  | `provenzal`   | —           |
+| **Gália Rálwen**                        | [[being-galiaralwn\|Gália Rálwen]]                                                                                      | `provenzal`   | —           |
+| **Hârlak Válskyr**                      | [[being-hrlkvlskyr\|Hârlak Válskyr]]                                                                                    | `provenzal`   | —           |
+| **Járaen Lýskal**                       | [[being-jaranlyskl\|Járaen Lýskal]]                                                                                     | `provenzal`   | —           |
+| **Kírisa Zýrand**                       | [[being-kiriszyrnd\|Kírisa Zýrand]]                                                                                     | `provenzal`   | —           |
+| **Lýraen Válskyr**                      | [[being-lyrnvlskyr\|Lýraen Válskyr]]                                                                                    | `provenzal`   | —           |
+| **Lýrena Tólgen**                       | [[being-lyrenatlgn\|Lýrena Tólgen]]                                                                                     | `provenzal`   | —           |
+| **Nílara Tólgen**                       | [[being-nilaratlgn\|Nílara Tólgen]]                                                                                     | `provenzal`   | —           |
+| **Óskar Brýlond**                       | [[being-oskrbrylnd\|Óskar Brýlond]]                                                                                     | `provenzal`   | —           |
+| **Rýlden Brânwyld**                     | [[being-ryldnbrnwyld\|Rýlden Brânwyld]]                                                                                 | `provenzal`   | —           |
+| **Târlig Tólgen**                       | [[being-tarligtlgn\|Târlig Tólgen]]                                                                                     | `provenzal`   | —           |
+| **Thâven Fárwèn**                       | [[being-thavenfrwn\|Thâven Fárwèn]]                                                                                     | `provenzal`   | —           |
+| **Úrelè Rálwen**                        | [[being-ureleralwn\|Úrelè Rálwen]]                                                                                      | `provenzal`   | —           |
+| **Vérynna Brânwyld**                    | [[being-vrynbrnwyld\|Vérynna Brânwyld]]                                                                                 | `provenzal`   | —           |
+| **Vólyra Brýlond**                      | [[being-vlyrbrylnd\|Vólyra Brýlond]]                                                                                    | `provenzal`   | —           |
+| **Vôrnan Tólgen**                       | [[being-vornantlgn\|Vôrnan Tólgen]]                                                                                     | `provenzal`   | —           |
+| **Yléndor Mýrdal**                      | [[being-ylndrmyrdl\|Yléndor Mýrdal]]                                                                                    | `provenzal`   | —           |
+| **Zálren Lýskal**                       | [[being-zalrnlyskl\|Zálren Lýskal]]                                                                                     | `provenzal`   | —           |
+| **Provenzian**                          | [[lore-provenzianclt\|Provenzian]]                                                                                      | `provenzal`   | —           |
+| **Argenna**                             | [[place-argenna\|Argenna]]                                                                                              | `provenzal`   | —           |
+| **Oracular Sanctuary at Argenna**       | [[place-argenna\|Argenna]]                                                                                              | `translation` | —           |
+| **Áthavel**                             | [[place-athavel\|Áthavel]]                                                                                              | `provenzal`   | —           |
+| **Gwéfavel**                            | [[place-gwefavel\|Gwéfavel]]                                                                                            | `provenzal`   | —           |
+| **The Blood-fields of Provènzia**       | [[lore-bloodfields\|The Blood-fields of Provènzia]]                                                                     | `translation` | —           |
+| **Kingdom of Provènzia**                | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Outlaw**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Unfree**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Freeman**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Gentry**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Knight**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Lesser Nobility**                     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Greater Nobility**                    | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Sovereign**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **King**                                | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Queen**                               | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Queen Consort**                       | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Prince Consort**                      | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Prince**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Princess**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Chancellor**                          | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Treasurer**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]      | `translation` | —           |
+| **Steward**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]      | `translation` | —           |
+| **Constable**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Marshal**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Chamberlain**                         | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Justiciar**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Butler**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Admiral**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Sheriff**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Coroner**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Escheator**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Warden of the March**                 | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Castellan**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Governor**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Lieutenant**                          | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-slntlncmpny\|The Silent Talon Company]]                 | `translation` | —           |
+| **Forester**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Purveyor**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Regent**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Privy Councilor**                     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **King of Arms**                        | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Herald**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Master of the Horse**                 | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Master of the Hunt**                  | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Falconer**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Banneret**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Captain**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]], [[affiliation-slntlncmpny\|The Silent Talon Company]]                 | `translation` | —           |
+| **Serjeant**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Manorial Officer**                    | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **Belpòrte**                            | [[place-belporte\|Belpòrte]]                                                                                            | `provenzal`   | —           |
+| **Blood-field of Calvènza**             | [[place-bldfldcalvenza\|Blood-field of Calvènza]]                                                                       | `translation` | —           |
+| **Dégavel**                             | [[place-degavel\|Dégavel]]                                                                                              | `provenzal`   | —           |
+| **Fiòrdaure**                           | [[place-fiordaure\|Fiòrdaure]]                                                                                          | `provenzal`   | —           |
+| **Lunacòrte**                           | [[place-lunacorte\|Lunacòrte]]                                                                                          | `provenzal`   | —           |
+| **Meridiàna**                           | [[place-meridiana\|Meridiàna]]                                                                                          | `provenzal`   | —           |
+| **Monvèrdre**                           | [[place-monverdre\|Monvèrdre]]                                                                                          | `provenzal`   | —           |
+| **Shrine of Thúravel Hills**            | [[place-shrinethuravelhills\|Shrine of Thúravel Hills]]                                                                 | `translation` | —           |
+| **Thornwood**                           | [[place-thornwood\|Thornwood]]                                                                                          | `translation` | —           |
+| **Thúravel Hills**                      | [[place-thuravelhills\|Thúravel Hills]]                                                                                 | `translation` | —           |
+| **Válaren City**                        | [[place-valarencity\|Válaren City]]                                                                                     | `translation` | —           |
+| **Provènzia Region**                    | [[place-provenzrgn\|Provènzia Region]]                                                                                  | `translation` | —           |
+| **Provenzia**                           | [[place-provenzrgn\|Provènzia Region]]                                                                                  | `provenzal`   | —           |
+| **Ravenshold**                          | [[place-ravenshold\|Ravenshold]]                                                                                        | `translation` | —           |
+| **Bélsaren**                            | [[place-belsaren\|Bélsaren]]                                                                                            | `provenzal`   | —           |
+| **Blood-field of Serravel**             | [[place-bldfldserravel\|Blood-field of Serravel]]                                                                       | `translation` | —           |
+| **Blood-field of Tiravlen**             | [[place-bldfldtiravlen\|Blood-field of Tiravlen]]                                                                       | `translation` | —           |
+| **Caêr Céravel**                        | [[place-caerceravel\|Caêr Céravel]]                                                                                     | `provenzal`   | —           |
+| **Céravel Castle**                      | [[place-caerceravel\|Caêr Céravel]]                                                                                     | `translation` | —           |
+| **Céravel Vale**                        | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `translation` | —           |
+| **Céravel**                             | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `provenzal`   | —           |
+| **Vale of Céravel**                     | [[place-ceravelvale\|Céravel Vale]]                                                                                     | `translation` | —           |
+| **Chastèlclair**                        | [[place-chastelclr\|Chastèlclair]]                                                                                      | `provenzal`   | —           |
+| **Ilóvren**                             | [[place-ilovren\|Ilóvren]]                                                                                              | `provenzal`   | —           |
+| **Lake Tiravel**                        | [[place-tiravellake\|Lake Tiravel]]                                                                                     | `translation` | —           |
+| **Léravren**                            | [[place-leravren\|Léravren]]                                                                                            | `provenzal`   | —           |
+| **Sèrramarca**                          | [[place-serramarca\|Sèrramarca]]                                                                                        | `provenzal`   | —           |
+| **Valcèrise**                           | [[place-valcerise\|Valcèrise]]                                                                                          | `provenzal`   | —           |
+| **Batáren City**                        | [[place-batarencity\|Batáren City]]                                                                                     | `translation` | —           |
+| **Blood-field of Yhârvalen**            | [[place-bldfldyharvalen\|Blood-field of Yhârvalen]]                                                                     | `translation` | —           |
+| **Gulf of Batáren**                     | [[place-batarengulf\|Gulf of Batáren]]                                                                                  | `translation` | —           |
+| **Maze of Echoes**                      | [[place-mazeofechos\|Maze of Echoes]]                                                                                   | `translation` | —           |
+| **Ménavar Abbey**                       | [[place-menavarabbey\|Ménavar Abbey]]                                                                                   | `translation` | —           |
+| **Mount Hýdraven**                      | [[place-hydravenmnt\|Mount Hýdraven]]                                                                                   | `translation` | —           |
+| **Sirmennë**                            | [[place-sirmenne\|Sirmennë]]                                                                                            | `provenzal`   | —           |
+| **Temporal Compass**                    | [[miscgear-temprlcmpss\|Temporal Compass]]                                                                              | `translation` | —           |
+| **Tramontàna**                          | [[place-tramontana\|Tramontàna]]                                                                                        | `provenzal`   | —           |
+| **Yhârvalen Henge**                     | [[place-yharvalenhenge\|Yhârvalen Henge]]                                                                               | `translation` | —           |
+| **Blavéra**                             | [[place-blavera\|Blavéra]]                                                                                              | `provenzal`   | —           |
+| **Blood-field of Kývarel**              | [[place-bldfldkyvarel\|Blood-field of Kývarel]]                                                                         | `translation` | —           |
+| **Estivren**                            | [[place-estivren\|Estivren]]                                                                                            | `provenzal`   | —           |
+| **Hárivren City**                       | [[place-harivrencity\|Hárivren City]]                                                                                   | `translation` | —           |
+| **Kývarel**                             | [[place-kyvarel\|Kývarel]]                                                                                              | `provenzal`   | —           |
+| **Mercadaure**                          | [[place-mercadaure\|Mercadaure]]                                                                                        | `provenzal`   | —           |
+| **Portvent**                            | [[place-portvent\|Portvent]]                                                                                            | `provenzal`   | —           |
+| **Vergéval**                            | [[place-vergeval\|Vergéval]]                                                                                            | `provenzal`   | —           |
+| **Zûravlen Region**                     | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `translation` | —           |
+| **Zûravlen**                            | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `provenzal`   | —           |
+| **The Peach Country**                   | [[place-zuravlenrgn\|Zûravlen Region]]                                                                                  | `translation` | —           |
+| **Provenzal Language**                  | [[skill-provnzlng\|Provenzal Language]]                                                                                 | `translation` | —           |
+| **Provenzal**                           | [[skill-provnzlng\|Provenzal Language]]                                                                                 | `provenzal`   | —           |
+| **Almoner**                             | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Bosun**                               | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Chair**                               | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Discharged in Disgrace**              | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Elder Member**                        | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Expelled**                            | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Full Member**                         | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Guest**                               | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Hand**                                | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Master of Ceremonies**                | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Master of the Company**               | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Master-at-Arms**                      | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Member**                              | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Navigator**                           | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Officer**                             | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]], [[affiliation-slntlncmpny\|The Silent Talon Company]] | `translation` | —           |
+| **Provènzia Adventurer's Guide**        | [[doc-provenziaadvguide\|Provènzia Adventurer's Guide]]                                                                 | `translation` | —           |
+| **Purser**                              | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Quartermaster**                       | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Secretary**                           | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Servant**                             | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Standard-Bearer**                     | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Surgeon**                             | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Sworn Member**                        | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **The Players' Federation**             | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **The Provènzia Theater Collective**    | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **The Silent Talon Company**            | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **The Theater Collective**              | [[affiliation-prvnzthtrclctv\|The Provènzia Theater Collective]]                                                        | `translation` | —           |
+| **Veteran**                             | [[affiliation-slntlncmpny\|The Silent Talon Company]]                                                                   | `translation` | —           |
+| **Giochi Grandi**                       | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `provenzal`   | —           |
+| **Provenzian Grand Games**              | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `translation` | —           |
+| **The Grand Games**                     | [[lore-giochigrandi\|Giochi Grandi]]                                                                                    | `translation` | —           |
+| **Earldom of Hárivren**                 | [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                                                                         | `translation` | —           |
+| **Subject**                             | [[affiliation-brnyzrvln\|Barony of Zûravlen]], [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                          | `translation` | —           |
+| **Barony of Zûravlen**                  | [[affiliation-brnyzrvln\|Barony of Zûravlen]]                                                                           | `translation` | —           |
+| **King Vélarik III**                    | [[being-kingvelarikiii\|King Vélarik III]]                                                                              | `translation` | —           |
+| **Aurèliane**                           | [[place-aureliane\|Aurèliane]], [[lore-aurelianefound\|The Founding of Aurèliane]]                                      | `provenzal`   | —           |
+| **The Founding of Aurèliane**           | [[lore-aurelianefound\|The Founding of Aurèliane]]                                                                      | `translation` | —           |
+| **The Colony on the Great Road**        | [[lore-aurelianefound\|The Founding of Aurèliane]]                                                                      | `translation` | —           |
+| **Tiravlen**                            | [[lore-tiravlenbattle\|Tiravlen]]                                                                                       | `provenzal`   | —           |
+| **The Breaking of the Thânevar Kings**  | [[lore-tiravlenbattle\|Tiravlen]]                                                                                       | `translation` | —           |
+| **The Breaking of the Kings**           | [[lore-tiravlenbattle\|Tiravlen]]                                                                                       | `translation` | —           |
+| **The Battle of the Blood Hills**       | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                                                                   | `translation` | —           |
+| **The Battle of Céravel's Blood Hills** | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                                                                   | `translation` | —           |
+| **The Blood Hills**                     | [[place-bloodhills\|The Blood Hills]], [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]                            | `translation` | —           |
+| **Céravel's Blood Hills**               | [[place-bloodhills\|The Blood Hills]]                                                                                   | `translation` | —           |
+| **Serravel**                            | [[lore-serravelbtl\|Serravel]]                                                                                          | `provenzal`   | —           |
+| **The First Great Raid**                | [[lore-serravelbtl\|Serravel]]                                                                                          | `translation` | —           |
+| **The First Raid**                      | [[lore-serravelbtl\|Serravel]]                                                                                          | `translation` | —           |
+| **The War of the Charter**              | [[lore-charterwar\|The War of the Charter]]                                                                             | `translation` | —           |
+| **The Nine Years' Refusal**             | [[lore-charterwar\|The War of the Charter]]                                                                             | `translation` | —           |
+| **The War of the Princes**              | [[lore-warprinces\|The War of the Princes]]                                                                             | `translation` | —           |
+| **The Céravian Rebellion**              | [[lore-warprinces\|The War of the Princes]]                                                                             | `translation` | —           |
+| **Prince or Princess of the Blood**     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                                                        | `translation` | —           |
+| **The Song of the Last Shrine**         | [[lore-lastshrine\|The Song of the Last Shrine]]                                                                        | `translation` | —           |
+| **The Fourth Song of Lenthìze**         | [[lore-lastshrine\|The Song of the Last Shrine]]                                                                        | `translation` | —           |
+| **The Songs of the Salt Pans**          | [[lore-saltpansongs\|The Songs of the Salt Pans]]                                                                       | `translation` | —           |
+| **The Cut Songs**                       | [[lore-saltpansongs\|The Songs of the Salt Pans]]                                                                       | `translation` | —           |
+| **The Lament for Karàlze**              | [[lore-karalzelmnt\|The Lament for Karàlze]]                                                                            | `translation` | —           |
+| **The Lament at the Door**              | [[lore-karalzelmnt\|The Lament for Karàlze]]                                                                            | `translation` | —           |
+| **The Dawn Song of the Morning Name**   | [[lore-morningname\|The Dawn Song of the Morning Name]]                                                                 | `translation` | —           |
+| **The Watch Cries Morning**             | [[lore-morningname\|The Dawn Song of the Morning Name]]                                                                 | `translation` | —           |
+| **The Divided Question of the Order**   | [[lore-orderqstn\|The Divided Question of the Order]]                                                                   | `translation` | —           |
+| **The Question of the Order**           | [[lore-orderqstn\|The Divided Question of the Order]]                                                                   | `translation` | —           |
+| **The Song of the Nameless Jar**        | [[lore-namelessjar\|The Song of the Nameless Jar]]                                                                      | `translation` | —           |
+| **Pass the Jar**                        | [[lore-namelessjar\|The Song of the Nameless Jar]]                                                                      | `translation` | —           |
+| **How the South Bought Longing**        | [[lore-boughtlonging\|How the South Bought Longing]]                                                                    | `translation` | —           |
+| **The Envoy's Word**                    | [[lore-boughtlonging\|How the South Bought Longing]]                                                                    | `translation` | —           |
+| **The Last Shrine**                     | [[lore-lastshrine\|The Song of the Last Shrine]]                                                                        | `translation` | —           |
+| **Lenthìze**                            | [[lore-lastshrine\|The Song of the Last Shrine]]                                                                        | `provenzal`   | `lenthìze`  |
+| **Aulìra**                              | [[lore-lastshrine\|The Song of the Last Shrine]], [[lore-saltpansongs\|The Songs of the Salt Pans]]                     | `provenzal`   | `aulìra`    |
+| **Solmère**                             | [[lore-lastshrine\|The Song of the Last Shrine]]                                                                        | `provenzal`   | `solmère`   |
+| **Sirrelùre**                           | [[lore-karalzelmnt\|The Lament for Karàlze]], [[lore-morningname\|The Dawn Song of the Morning Name]]                   | `provenzal`   | `sirrelùre` |
+| **Karàlze**                             | [[lore-karalzelmnt\|The Lament for Karàlze]]                                                                            | `provenzal`   | `karàlze`   |
+| **Ellevìrsa**                           | [[lore-karalzelmnt\|The Lament for Karàlze]]                                                                            | `provenzal`   | `ellevìrsa` |
+| **Serdàle**                             | [[lore-orderqstn\|The Divided Question of the Order]]                                                                   | `provenzal`   | `serdàle`   |
+| **Ilthòre**                             | [[lore-orderqstn\|The Divided Question of the Order]]                                                                   | `provenzal`   | `ilthòre`   |
+| **Solvìma**                             | [[lore-orderqstn\|The Divided Question of the Order]]                                                                   | `provenzal`   | `solvìma`   |
+| **Felzànde**                            | [[lore-boughtlonging\|How the South Bought Longing]]                                                                    | `provenzal`   | `felzànde`  |
 
 ### Retired names
 
