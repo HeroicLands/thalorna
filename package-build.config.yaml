@@ -42,6 +42,17 @@ publish:
         prefix: ""
 
 pdf:
+    indexHeads:
+        - "Ritual:"
+        - "Faith of "
+        - "Kingdom of "
+        - "Lekhau:"
+        - "Council of "
+        - "Province of "
+        - "Enclave of "
+        - "Saga of "
+        - "Oasis of "
+        - "Empire of "
     books:
         - id: aelwyth
           title: Aelwyth
