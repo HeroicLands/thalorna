@@ -4,7 +4,7 @@ name: {full: The Founding of the Silver Veil, aliases: [The First Rule of Kalydr
 type: lore
 subType: history
 description: "About 260 BF, half a century after the conquest, the patron families of Kalydria found an academy to train companions in music, philosophy, rhetoric and the social arts for the households of Vylarian governors and senators, on the principle that a city that could not keep its freedom by arms would keep it by conversation."
-tags: [history, hellad]
+tags: [history, hellad, provinceage]
 data:
   packFolder: helionis
   events:

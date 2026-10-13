@@ -4,7 +4,7 @@ name: {full: The Vezhnûr Settlement, aliases: [The Cohort in the Passes]}
 type: lore
 subType: history
 description: "About 226 AF, six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion Vezhnûrikos by an Augustar who will not proscribe the faith, marries into the pass villages and is never recalled."
-tags: [history, hellad]
+tags: [history, hellad, peaceage]
 data:
   packFolder: byzaria
   events:

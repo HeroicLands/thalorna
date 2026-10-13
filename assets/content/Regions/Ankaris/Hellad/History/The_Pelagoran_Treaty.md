@@ -4,7 +4,7 @@ name: {full: The Pelagoran Treaty, aliases: [The Separate Peace]}
 type: lore
 subType: history
 description: "In 314 BF, with Therádon and Korinthea fallen, Pelagora's assembly votes to treat alone, and its strategos makes the terms: the city becomes the Republic's naval ally, keeps its fleet, its walls and its overseas daughter-cities, and lends its ships to the blockade of the cities still fighting."
-tags: [history, hellad]
+tags: [history, hellad, federationage]
 data:
   packFolder: helionis
   events:

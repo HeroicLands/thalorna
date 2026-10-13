@@ -4,7 +4,7 @@ name: {full: The Battle of the Wells, aliases: [The Eleven Days]}
 type: lore
 subType: history
 description: "In 158 BF a great host from the steppe comes over the eastern passes in late summer, when the springs are lowest, and the five eastern cities wall the springs of the foothills instead of meeting it in the open, so that the host breaks itself on the spring-forts over eleven days and dies of arrows and thirst in the dry country below the passes."
-tags: [history, hellad]
+tags: [history, hellad, provinceage]
 data:
   packFolder: byzaria
   events:

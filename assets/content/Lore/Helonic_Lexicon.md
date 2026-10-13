@@ -332,34 +332,55 @@ Honor in Heliónis is paid in blood and glory, and the words show it: _dôkharin
 
 Heliónis reaches the sea along one short coast and never stops talking about it; Byzaría lives on its rivers and the roads beside them; Bethûa is an island and has a word for every state of the water around it. The sky words are the schools': the hours are measured, and a Helonic day is named by its light.
 
-| Form       | Class  | Gloss                               | Built from | Attested                     |
-| ---------- | ------ | ----------------------------------- | ---------- | ---------------------------- |
-| `phótamir` | `n`    | river                               | —          | [[skill-helonclng\|Helonic]] |
-| `ghéranîs` | `n`    | earth, land                         | —          | [[skill-helonclng\|Helonic]] |
-| `ghéran-`  | `stem` | of the land                         | —          | —                            |
-| `thálimir` | `n`    | the sea                             | —          | —                            |
-| `thálim-`  | `stem` | of the sea                          | —          | —                            |
-| `phrélin`  | `n`    | the shore, the sea's edge           | —          | —                            |
-| `phrél-`   | `stem` | of the shore                        | —          | —                            |
-| `nêsthir`  | `n`    | an island                           | —          | —                            |
-| `limênir`  | `n`    | a harbor                            | —          | —                            |
-| `lôphir`   | `n`    | a hill, a ridge                     | —          | —                            |
-| `lôph-`    | `stem` | of the hill                         | —          | —                            |
-| `órashin`  | `n`    | a mountain                          | —          | —                            |
-| `órash-`   | `stem` | of the mountain                     | —          | —                            |
-| `pédhin`   | `n`    | a plain, flat country               | —          | —                            |
-| `pédh-`    | `stem` | of the plain                        | —          | —                            |
-| `elaíshir` | `n`    | the olive, and its tree             | —          | —                            |
-| `ámpelir`  | `n`    | the vine                            | —          | —                            |
-| `phaênir`  | `n`    | the sun                             | —          | —                            |
-| `selênir`  | `n`    | the moon                            | —          | —                            |
-| `ánevir`   | `n`    | the wind                            | —          | —                            |
-| `ánev-`    | `stem` | of the wind                         | —          | —                            |
-| `hôrin`    | `n`    | an hour, a measured part of the day | —          | —                            |
-| `nýkhtir`  | `n`    | night                               | —          | —                            |
-| `nýkht-`   | `stem` | of the night                        | —          | —                            |
-| `khêmôn`   | `n`    | winter, the storm season            | —          | —                            |
-| `thérimos` | `n`    | summer, the sailing season          | —          | —                            |
+| Form       | Class  | Gloss                                         | Built from        | Attested                                |
+| ---------- | ------ | --------------------------------------------- | ----------------- | --------------------------------------- |
+| `phótamir` | `n`    | river                                         | —                 | [[skill-helonclng\|Helonic]]            |
+| `ghéranîs` | `n`    | earth, land                                   | —                 | [[skill-helonclng\|Helonic]]            |
+| `ghéran-`  | `stem` | of the land                                   | —                 | —                                       |
+| `thálimir` | `n`    | the sea                                       | —                 | —                                       |
+| `thálim-`  | `stem` | of the sea                                    | —                 | —                                       |
+| `phrélin`  | `n`    | the shore, the sea's edge                     | —                 | —                                       |
+| `nêsthir`  | `n`    | an island                                     | —                 | —                                       |
+| `limênir`  | `n`    | a harbor                                      | —                 | —                                       |
+| `lôphir`   | `n`    | a hill, a ridge                               | —                 | —                                       |
+| `lôph-`    | `stem` | of the hill                                   | —                 | —                                       |
+| `órashin`  | `n`    | a mountain                                    | —                 | —                                       |
+| `órash-`   | `stem` | of the mountain                               | —                 | —                                       |
+| `pédhin`   | `n`    | a plain, flat country                         | —                 | —                                       |
+| `pédh-`    | `stem` | of the plain                                  | —                 | —                                       |
+| `elaíshir` | `n`    | the olive, and its tree                       | —                 | —                                       |
+| `ámpelir`  | `n`    | the vine                                      | —                 | —                                       |
+| `phaênir`  | `n`    | the sun                                       | —                 | —                                       |
+| `selênir`  | `n`    | the moon                                      | —                 | —                                       |
+| `ánevir`   | `n`    | the wind                                      | —                 | —                                       |
+| `ánev-`    | `stem` | of the wind                                   | —                 | —                                       |
+| `hôrin`    | `n`    | an hour, a measured part of the day           | —                 | —                                       |
+| `nýkhtir`  | `n`    | night                                         | —                 | —                                       |
+| `nýkht-`   | `stem` | of the night                                  | —                 | —                                       |
+| `khêmôn`   | `n`    | winter, the storm season                      | —                 | —                                       |
+| `thérimos` | `n`    | summer, the sailing season                    | —                 | —                                       |
+| `ánth-`    | `stem` | to bloom                                      | —                 | —                                       |
+| `spór-`    | `stem` | to sow                                        | —                 | —                                       |
+| `théris-`  | `stem` | to reap                                       | —                 | —                                       |
+| `áloh-`    | `stem` | to thresh                                     | —                 | —                                       |
+| `trúgh-`   | `stem` | to gather the vintage                         | —                 | —                                       |
+| `elaísh-`  | `stem` | of the olive                                  | —                 | —                                       |
+| `ánthir`   | `n`    | the first month: the blooming                 | `ánth-` + `-ir`   | [[lore-helladcal\|The Hellád Calendar]] |
+| `spórin`   | `n`    | the second month: the sowing                  | `spór-` + `-in`   | [[lore-helladcal\|The Hellád Calendar]] |
+| `thálimin` | `n`    | the third month: the sea lanes open           | `thálim-` + `-in` | [[lore-helladcal\|The Hellád Calendar]] |
+| `thérisin` | `n`    | the fourth month: the grain reaping           | `théris-` + `-in` | [[lore-helladcal\|The Hellád Calendar]] |
+| `álohin`   | `n`    | the fifth month: the threshing                | `áloh-` + `-in`   | [[lore-helladcal\|The Hellád Calendar]] |
+| `théldin`  | `n`    | the sixth month: the festival and the Games   | `théld-` + `-in`  | [[lore-helladcal\|The Hellád Calendar]] |
+| `trúghir`  | `n`    | the seventh month: the vintage                | `trúgh-` + `-ir`  | [[lore-helladcal\|The Hellád Calendar]] |
+| `elaíshin` | `n`    | the eighth month: the olive pressing          | `elaísh-` + `-in` | [[lore-helladcal\|The Hellád Calendar]] |
+| `nýkhtin`  | `n`    | the ninth month: the lengthening nights       | `nýkht-` + `-in`  | [[lore-helladcal\|The Hellád Calendar]] |
+| `khêmion`  | `n`    | the tenth month: the storm season             | `khêm-` + `-ion`  | [[lore-helladcal\|The Hellád Calendar]] |
+| `ánevin`   | `n`    | the eleventh month: the winds                 | `ánev-` + `-in`   | [[lore-helladcal\|The Hellád Calendar]] |
+| `phýlin`   | `n`    | the twelfth month: the guarding of the stores | `phýl-` + `-in`   | [[lore-helladcal\|The Hellád Calendar]] |
+| `ánthira`  | `n`    | the season of blooming, spring                | `ánth-` + `-ira`  | [[lore-helladcal\|The Hellád Calendar]] |
+| `trúghira` | `n`    | the season of gathering, autumn               | `trúgh-` + `-ira` | [[lore-helladcal\|The Hellád Calendar]] |
+| `khêm-`    | `stem` | of the storm season                           | —                 | —                                       |
+| `phrél-`   | `stem` | of the shore                                  | —                 | —                                       |
 
 ### The city, law and office
 
@@ -834,6 +855,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **The Founding of the Truce**                       | [[lore-firstgames\|The Founding of the Truce]]                                                             | `translation` | —                                           |
 | **The Garrison Oath**                               | [[lore-heladreswear\|The Garrison Oath]]                                                                   | `translation` | —                                           |
 | **The Guild of Maps**                               | [[affiliation-crtgrphrsgldbyzrnlg\|The Cartographers' Guild of the Byzarian League]]                       | `translation` | —                                           |
+| **The Hellád Calendar**                             | [[lore-helladcal\|The Hellád Calendar]]                                                                    | `translation` | —                                           |
 | **The Herald's Terms**                              | [[lore-heladtruce\|The Herald's Terms]]                                                                    | `translation` | —                                           |
 | **The Hidden Hand of Maps**                         | [[affiliation-blackledgr\|The Black Ledger]]                                                               | `translation` | —                                           |
 | **The Hound of the Veil**                           | [[being-lmbhrpdhnn\|Lámbhira Pédhinion]]                                                                   | `translation` | —                                           |
@@ -868,6 +890,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **The Seats of the Mage-Warlords**                  | [[place-warlordseats\|The Seats of the Mage-Warlords]]                                                     | `translation` | —                                           |
 | **The Sending Out**                                 | [[lore-daughtercts\|The Sending Out]]                                                                      | `translation` | —                                           |
 | **The Separate Peace**                              | [[lore-heladpelagtrty\|The Separate Peace]]                                                                | `translation` | —                                           |
+| **The Seven Ages**                                  | [[lore-helladcal\|The Seven Ages]]                                                                         | `translation` | —                                           |
 | **The Siege of the Silver Citadel**                 | [[lore-heladcitadel\|The Siege of the Silver Citadel]]                                                     | `translation` | —                                           |
 | **The Siege of Thyrenae**                           | [[lore-heladthyrsiege\|The Siege of Thyrenae]]                                                             | `translation` | —                                           |
 | **The Song of the Two-Sealed**                      | [[lore-twosealed\|The Song of the Two-Sealed]]                                                             | `translation` | —                                           |

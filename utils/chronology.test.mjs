@@ -612,6 +612,88 @@ test("midhalion-era: a note naming no age, or two, is red", () => {
     );
 });
 
+const HELLAD = {
+    file: "Hellad_Calendar.md",
+    fm: {
+        shortcode: "helladcal",
+        type: "lore",
+        subType: "calendar",
+        data: {
+            epoch: "-800.1",
+            months: [{ name: "Long", days: 365 }],
+            eras: [
+                { shortcode: "landingsage", name: "The Landings", abbreviation: "HL", start: null },
+                {
+                    shortcode: "daughterage",
+                    name: "The Daughter-Cities",
+                    abbreviation: "HD",
+                    start: 1,
+                },
+                { shortcode: "provinceage", name: "The Province", abbreviation: "HP", start: 489 },
+            ],
+            formats: { std: "D MMMM [yearInEra] GGG" },
+        },
+    },
+};
+
+/** A history note under the Hellád folder. */
+function hellad(shortcode, tags, events) {
+    return {
+        file: `assets/content/Regions/Ankaris/Hellad/History/${shortcode}.md`,
+        address: `lore-${shortcode}`,
+        fm: { shortcode, type: "lore", subType: "history", tags, data: { events } },
+    };
+}
+
+/** The findings for Hellád history notes beside both ages calendars. */
+function runHellad(...history) {
+    return check({ history, calendars: [AGES, HELLAD], world: [WORLD] });
+}
+
+test("midhalion-era: the Hellád eras are spans of calendar years", () => {
+    assert.deepEqual(
+        ageSpans(HELLAD).map((span) => [span.shortcode, span.from, span.to]),
+        [
+            ["landingsage", -Infinity, -801],
+            ["daughterage", -800, -313],
+            ["provinceage", -312, Infinity],
+        ],
+    );
+});
+
+test("midhalion-era: Hellád notes dated inside their tagged age are clean", () => {
+    assert.deepEqual(
+        runHellad(
+            hellad("landed", ["history", "landingsage"], [{ when: "~-1300" }]),
+            hellad("later", ["history", "provinceage"], [{ when: 209 }]),
+        ),
+        [],
+    );
+});
+
+test("midhalion-era: a misdated Hellád note is red", () => {
+    const found = runHellad(hellad("misdated", ["history", "daughterage"], [{ when: -158 }]));
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /^assets\/content\/Regions\/Ankaris\/Hellad\/History\/misdated\.md:\d*:?\s*error: midhalion-era: `when: -158` lies outside daughterage, which runs -800 to -313/u,
+    );
+});
+
+test("midhalion-era: a Hellád note naming no Hellád age is red, and a Vylarian age does not serve", () => {
+    assert.equal(runHellad(hellad("untagged", ["history"], [{ when: -158 }])).length, 1);
+    assert.equal(runHellad(hellad("wrong", ["history", "firstaugs"], [{ when: 12 }])).length, 1);
+});
+
+test("midhalion-era: a Hellád folder with no Hellád eras calendar is red", () => {
+    const found = check({
+        history: [hellad("alone", ["history"], [{ when: -158 }])],
+        calendars: [AGES],
+        world: [WORLD],
+    });
+    assert.match(found[0], /midhalion-era: no calendar has the shortcode helladcal/u);
+});
+
 test("follows-resolves: a target that names no note, or no event of the note, is red", () => {
     const first = midhalion("firstnote", ["firstaugs"], [{ id: "a", when: 12 }]);
     const missing = midhalion(

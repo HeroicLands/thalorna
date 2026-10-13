@@ -63,11 +63,13 @@
  *     table row is reported, so an age cannot be added to the rows and left out
  *     of the body. The toolchain itself refuses a `stated` date whose age mark
  *     does not cover its year, so that case needs no rule here.
- * 11. **`midhalion-era`** — a history note under the Mídhalión folder carries
- *     exactly one tag naming an age of the Vylarian Ages calendar, and every
- *     `when` on the note falls inside that age's span. An age runs from its
- *     `start` to the year before the next age's `start`; the age with no start
- *     covers every year Before the Founding.
+ * 11. **`midhalion-era`** — a history note under a folder that {@link AGE_FOLDERS}
+ *     names (the Mídhalión folder with the Vylarian Ages, the Hellád folder with
+ *     the Hellád Calendar) carries exactly one tag naming an age of that folder's
+ *     ages calendar, and every `when` on the note falls inside that age's span.
+ *     An age runs from its `start` to the year before the next age's `start`
+ *     (a `start` is a calendar year, counted from the year the calendar's `epoch`
+ *     names); the age with no start covers every earlier year.
  * 12. **`follows-resolves`** — every `follows` target of such a note names a
  *     note in the tree and, where it is anchored with `#`, an event id that
  *     note holds.
@@ -134,8 +136,17 @@ export function roman(text) {
 /** The calendar whose eras are the ages of the Vylarian Empire. */
 export const VYLARIAN_AGES = "vylariages";
 
-/** The path segment that puts a history note under the Mídhalión folder. */
-const MIDHALION = `${path.sep}Midhalion${path.sep}`;
+/** The calendar whose eras are the ages of Hellád. */
+export const HELLAD_CALENDAR = "helladcal";
+
+/**
+ * Each folder whose history notes are held to an ages calendar: the folder's
+ * name as a path segment, and the shortcode of the calendar that divides its years.
+ */
+export const AGE_FOLDERS = Object.freeze([
+    { folder: "Midhalion", ages: VYLARIAN_AGES },
+    { folder: "Hellad", ages: HELLAD_CALENDAR },
+]);
 
 /** The content package the tree belongs to. */
 const PACKAGE = "thalorna";
@@ -688,33 +699,50 @@ export function checkAgo(history, prose, relative) {
 }
 
 /**
- * The ages of a calendar as spans of calendar years.
+ * The canonical year of a calendar year: the year the calendar's epoch names is
+ * its year 1, and the canonical count has no year zero.
+ *
+ * @param {number} year - A calendar year, 1 or later.
+ * @param {number} epochYear - The canonical year the epoch names.
+ * @returns {number} The canonical year.
+ */
+function canonicalYear(year, epochYear) {
+    const canonical = epochYear + year - 1;
+    return epochYear < 0 && canonical >= 0 ? canonical + 1 : canonical;
+}
+
+/**
+ * The ages of a calendar as spans of canonical years. An era's `start` is a
+ * calendar year, counted from the year the calendar's `epoch` names.
  *
  * @param {object} calendar - A calendar note from {@link readTree}.
  * @returns {{shortcode: string, from: number, to: number}[]} Each age's first and last year.
  */
 export function ageSpans(calendar) {
     const rows = calendar.fm.data?.eras ?? [];
+    const epochYear = Number(String(calendar.fm.data?.epoch ?? "1").split(".")[0]);
     const numeric = rows
         .filter((row) => Number.isInteger(row.start))
-        .sort((a, b) => a.start - b.start);
+        .sort((a, b) => a.start - b.start)
+        .map((row) => ({ shortcode: row.shortcode, from: canonicalYear(row.start, epochYear) }));
+    const opens = numeric[0] ? numeric[0].from - 1 : 0;
     const spans = rows
         .filter((row) => row.start === null)
-        .map((row) => ({ shortcode: row.shortcode, from: -Infinity, to: 0 }));
+        .map((row) => ({ shortcode: row.shortcode, from: -Infinity, to: opens }));
     numeric.forEach((row, index) => {
         const next = numeric[index + 1];
         spans.push({
             shortcode: row.shortcode,
-            from: row.start,
-            to: next ? next.start - 1 : Infinity,
+            from: row.from,
+            to: next ? next.from - 1 : Infinity,
         });
     });
     return spans;
 }
 
 /**
- * The Mídhalión history findings: each note's tagged age holds its dates, and
- * each `follows` target exists.
+ * The ages findings for the history notes under each {@link AGE_FOLDERS} folder:
+ * each note's tagged age holds its dates, and each `follows` target exists.
  *
  * @param {object[]} history - Notes with events, from {@link readTree}.
  * @param {object[]} calendars - Every calendar note.
@@ -724,54 +752,60 @@ export function ageSpans(calendar) {
  */
 export function checkMidhalion(history, calendars, prose, relative) {
     const findings = [];
-    const scoped = history.filter(
-        (note) => note.fm.subType === "history" && path.normalize(note.file).includes(MIDHALION),
-    );
-    if (!scoped.length) return findings;
+    const known = new Map(prose.concat(history).map((note) => [note.address, note]));
     const report = (note, keyPath, message) =>
         findings.push(
             finding(relative(note.file), note.lineOf?.(keyPath) ?? null, null, "error", message),
         );
-    const ages = calendars.find((calendar) => calendar.fm.shortcode === VYLARIAN_AGES);
-    const spans = ages ? ageSpans(ages) : [];
-    const known = new Map(prose.concat(history).map((note) => [note.address, note]));
 
-    for (const note of scoped) {
-        const tags = Array.isArray(note.fm.tags) ? note.fm.tags : [];
-        const named = spans.filter((span) => tags.includes(span.shortcode));
-        const age = named.length === 1 ? named[0] : null;
-        if (!ages) {
-            report(note, ["tags"], `midhalion-era: no calendar has the shortcode ${VYLARIAN_AGES}`);
-        } else if (named.length !== 1) {
-            report(
-                note,
-                ["tags"],
-                `midhalion-era: the note carries ${named.length} tags naming an age of ${VYLARIAN_AGES}, and needs exactly one`,
-            );
-        }
-        (note.fm.data?.events ?? []).forEach((row, index) => {
-            const at = (...rest) => ["data", "events", index, ...rest];
-            const when = yearOf(row?.when);
-            if (age && when !== null && (when < age.from || when > age.to)) {
+    for (const { folder, ages: shortcode } of AGE_FOLDERS) {
+        const segment = `${path.sep}${folder}${path.sep}`;
+        const scoped = history.filter(
+            (note) => note.fm.subType === "history" && path.normalize(note.file).includes(segment),
+        );
+        if (!scoped.length) continue;
+        const ages = calendars.find((calendar) => calendar.fm.shortcode === shortcode);
+        const spans = ages ? ageSpans(ages) : [];
+
+        for (const note of scoped) {
+            const tags = Array.isArray(note.fm.tags) ? note.fm.tags : [];
+            const named = spans.filter((span) => tags.includes(span.shortcode));
+            const age = named.length === 1 ? named[0] : null;
+            if (!ages) {
+                report(note, ["tags"], `midhalion-era: no calendar has the shortcode ${shortcode}`);
+            } else if (named.length !== 1) {
                 report(
                     note,
-                    at("when"),
-                    `midhalion-era: \`when: ${row.when}\` lies outside ${age.shortcode}, which runs ${age.from === -Infinity ? "before 1" : age.from} to ${age.to === Infinity ? "the present" : age.to}`,
+                    ["tags"],
+                    `midhalion-era: the note carries ${named.length} tags naming an age of ${shortcode}, and needs exactly one`,
                 );
             }
-            for (const link of row?.follows ?? []) {
-                const [address, anchor] = String(link?.event ?? "").split("#");
-                const target = known.get(address);
-                const held = (target?.fm.data?.events ?? []).some((event) => event?.id === anchor);
-                if (!target || (anchor && !held)) {
+            (note.fm.data?.events ?? []).forEach((row, index) => {
+                const at = (...rest) => ["data", "events", index, ...rest];
+                const when = yearOf(row?.when);
+                if (age && when !== null && (when < age.from || when > age.to)) {
                     report(
                         note,
-                        at("follows"),
-                        `follows-resolves: \`${link?.event}\` names no ${target ? "event of that note" : "note"} in the tree`,
+                        at("when"),
+                        `midhalion-era: \`when: ${row.when}\` lies outside ${age.shortcode}, which runs ${age.from === -Infinity ? "before 1" : age.from} to ${age.to === Infinity ? "the present" : age.to}`,
                     );
                 }
-            }
-        });
+                for (const link of row?.follows ?? []) {
+                    const [address, anchor] = String(link?.event ?? "").split("#");
+                    const target = known.get(address);
+                    const held = (target?.fm.data?.events ?? []).some(
+                        (event) => event?.id === anchor,
+                    );
+                    if (!target || (anchor && !held)) {
+                        report(
+                            note,
+                            at("follows"),
+                            `follows-resolves: \`${link?.event}\` names no ${target ? "event of that note" : "note"} in the tree`,
+                        );
+                    }
+                }
+            });
+        }
     }
     return findings;
 }

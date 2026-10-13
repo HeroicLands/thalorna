@@ -4,7 +4,7 @@ name: {full: The Daughter-Cities, aliases: [The Sending Out]}
 type: lore
 subType: history
 description: "From about 700 BF to about 450 BF Helionite cities short of land send colonists over the sea: Pelagora plants Bethûa on the southern shore about 650 BF, and settlers from several cities found the harbors of the eastern straits and climb to the plateau, so that the east becomes Helonic at root."
-tags: [history, hellad]
+tags: [history, hellad, daughterage]
 data:
   packFolder: helionis
   events:

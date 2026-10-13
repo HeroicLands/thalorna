@@ -4,7 +4,7 @@ name: {full: The Landings, aliases: [The Coming of the Ships]}
 type: lore
 subType: history
 description: "From about 1300 BF to about 1150 BF the seafaring people who speak Proto-Helonic come down the western coast at the southern edge of the Pelwar displacement and take the peninsulas and islands of Heliónis, where they bury their dead beside tombs that were already old."
-tags: [history, hellad]
+tags: [history, hellad, landingsage]
 data:
   packFolder: helionis
   events:

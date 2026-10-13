@@ -4,7 +4,7 @@ name: {full: The Siege of the Silver Citadel, aliases: [The Two Winters]}
 type: lore
 subType: history
 description: "From about 212 to about 214 AF the pass-city of Argýrteíkhos holds for two years against the legions under Mathirkâr Gheraníkot, fed by its mines' tunnels after the road is cut, and surrenders on terms that leave it its walls, its own garrison and a seat beside an imperial prefect."
-tags: [history, hellad]
+tags: [history, hellad, peaceage]
 data:
   packFolder: byzaria
   events:

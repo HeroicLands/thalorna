@@ -4,7 +4,7 @@ name: {full: The First Games, aliases: [The Founding of the Truce]}
 type: lore
 subType: history
 description: "About 880 BF the cities of the peninsulas meet at one sanctuary for contests in running, wrestling and the chariot, under a truce their heralds proclaim, and from that meeting come the Games, the herald's inviolability and the custom of the herald who asks for the dead."
-tags: [history, hellad]
+tags: [history, hellad, landingsage]
 data:
   packFolder: helionis
   events:

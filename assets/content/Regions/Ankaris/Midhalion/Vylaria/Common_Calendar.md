@@ -102,5 +102,6 @@ Nothing divides the year evenly into weeks, so the seven run across the turn of 
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the polity whose founding the calendar counts from
 - [[lore-vylariages|The Vylarian Ages]]—the eight ages Vylaria's historians divide the years into
+- [[lore-helladcal|The Hellád Calendar]]—the older count of the Hellád cities, divided into seven ages
 - [[place-worldthlrn|The World of Thalorna]]—the year and the quarter days the calendar divides
 - [[place-vaelith|Vaelith]]—the moon, on a cycle the calendar's months do not track

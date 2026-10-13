@@ -4,7 +4,7 @@ name: {full: The Compact of the Five, aliases: [The Oath at the Plateau's Edge]}
 type: lore
 subType: history
 description: "In 157 BF, the year after the Wells, the five eastern cities meet at the plateau's edge and bind themselves to common tariffs, a joint muster, the passes held by a council and disputes between cities brought to that council, while the Republic, busy with its Riders and its factions, takes a yearly payment and leaves them free."
-tags: [history, hellad]
+tags: [history, hellad, provinceage]
 data:
   packFolder: byzaria
   events:

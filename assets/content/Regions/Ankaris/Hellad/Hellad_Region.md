@@ -74,6 +74,7 @@ Off the short coast to the south lie the islands of Tarûzel, the League's great
 - [[affiliation-ctysttshlns|City-States of Heliónis]]—the western city-states as a polity
 - [[affiliation-khryshteikhos|Khrýshteíkhos]], [[affiliation-nesthiros|Nêsthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argýrteíkhos]], [[affiliation-orashion|Órashion]]—the five Byzarian city-states
 - [[lore-helioniteclt|Helionite]], [[lore-byzarianclt|Byzarian]]—the two cultures
+- [[lore-helladcal|The Hellád Calendar]]—the older reckoning of the cities, counted in seven ages
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the region's gods
 - [[place-midhalnrgn|Mídhalión Region]]—the sea-basin Hellád belongs to
 - [[place-vylarianse|Vylarian Sea]]—the sea at the region's feet

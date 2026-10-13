@@ -4,7 +4,7 @@ name: {full: The Concordat of Theory, aliases: [The Line of Practice]}
 type: lore
 subType: history
 description: "In the years after the Settlement of the Crowns, about 625 AF, the councils of Thyrenae and Therádon agree with the Ordo Arcanis's Heliónis chapter the arrangement that holds today: a philosopher may study, teach and dispute arcane theory without belonging to the Ordo, so long as he does not practice."
-tags: [history, hellad]
+tags: [history, hellad, freecitiesage]
 data:
   packFolder: helionis
   events:

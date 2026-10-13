@@ -4,7 +4,7 @@ name: {full: The Siege of Thyrenae, aliases: [The Last City]}
 type: lore
 subType: history
 description: "In 313 and 312 BF the legions besiege Thyrenae by land while Pelagoran ships hold its coast, and the last free city of Heliónis falls on terms its archon negotiates: one gate is breached, the libraries and colleges are left standing, and the Senate's commissioners enter that gate the same month."
-tags: [history, hellad]
+tags: [history, hellad, federationage]
 data:
   packFolder: helionis
   events:
