@@ -165,9 +165,11 @@ Where the first word of a compound closes on a vowel and the second opens on the
 | `-ion`   | replaces a closing vowel | the place of it, or a man's name on a root                   | _lókh-_ > _lókhion_, a place of ambush                  |
 | `-ikos`  | replaces a closing vowel | belonging to it; a man's name on an eastern root in Byzarian | _Mérith-_ > _Mérithikos_                                |
 | `-os`    | replaces a closing vowel | a man's name of the old stock                                | _Lôthan-_ > _Lôthanos_                                  |
+| `-is`    | replaces a closing vowel | a man's name of the old stock, or a clan name                | _Krên-_ > _Krênis_                                      |
 | `-ês`    | replaces a closing vowel | a man's name of the old stock, or a clan name                | _Bákîn-_ > _Bákînês_                                    |
 | `-a`     | replaces a closing vowel | a woman's name, and the feminine of an adjective             | _kélir-_ > _kélira_, beautiful                          |
 | `-tha`   | replaces a closing vowel | a woman's name of the old stock                              | _Timarî-_ > _Timarîtha_                                 |
+| `-îa`    | replaces a closing vowel | a woman's name of the old stock                              | _Sphrâd-_ > _Sphrâdîa_                                  |
 | `-ína`   | replaces a closing vowel | a woman's name on a root in Byzarian                         | _Dôrim-_ > _Dôrimína_                                   |
 | `-ash`   | replaces a closing vowel | a Byzarian man's hybrid name                                 | _Méril-_ > _Mérilash_                                   |
 | `-áhr`   | replaces a closing vowel | a Byzarian man's hybrid name                                 | _Mérit-_ > _Méritáhr_                                   |
@@ -319,7 +321,7 @@ Honor in Heliónis is paid in blood and glory, and the words show it: _dôkharin
 | `thrêsos`  | `n`    | a vote, the stone cast into the urn                                                          | —                | —                                                | `helonic`  |
 | `agélon`   | `n`    | the assembly of the citizens                                                                 | —                | —                                                | `helonic`  |
 | `agél-`    | `stem` | of the assembly                                                                              | —                | —                                                | `helonic`  |
-| `kléandir` | `n`    | a hero; one the stories keep                                                                 | —                | —                                                | `helonic`  |
+| `kléandir` | `n`    | a hero; one the stories keep                                                                 | —                | [[lore-keelburning\|The Burning of the Keel]]    | `helonic`  |
 | `théldir`  | `n`    | a festival of the gods, with games                                                           | —                | —                                                | `helonic`  |
 | `théld-`   | `stem` | of the festival                                                                              | —                | —                                                | `helonic`  |
 | `ieréshin` | `n`    | a rite, a thing done for a god                                                               | —                | —                                                | `helonic`  |
@@ -338,6 +340,7 @@ Heliónis reaches the sea along one short coast and never stops talking about it
 | `thálimir` | `n`    | the sea                             | —          | —                            |
 | `thálim-`  | `stem` | of the sea                          | —          | —                            |
 | `phrélin`  | `n`    | the shore, the sea's edge           | —          | —                            |
+| `phrél-`   | `stem` | of the shore                        | —          | —                            |
 | `nêsthir`  | `n`    | an island                           | —          | —                            |
 | `limênir`  | `n`    | a harbor                            | —          | —                            |
 | `lôphir`   | `n`    | a hill, a ridge                     | —          | —                            |
@@ -491,24 +494,26 @@ The household is the one thing all three peoples name alike and rule differently
 
 Bethûa cannot run its tunnel-wells, keep its treasury or clear a cargo without the words it borrowed from [[skill-khelathlng|Khelâthi]], and the tell of a borrowed word is the article that came with it: _en-_ or _et-_ on the front of a noun that means nothing without it. The feminine register of the temple reaches past every one of these for an inherited word, and the practical register cannot do without them.
 
-| Form         | Class  | Gloss                                                      | Built from | Attested                     | Tongue    |
-| ------------ | ------ | ---------------------------------------------------------- | ---------- | ---------------------------- | --------- |
-| `hýdhir`     | `n`    | water                                                      | —          | —                            | `helonic` |
-| `krênir`     | `n`    | a spring                                                   | —          | —                            | `helonic` |
-| `krên-`      | `stem` | of a spring                                                | —          | —                            | `helonic` |
-| `katelûn`    | `n`    | a tunnel-well, the underground channel the Khelâthi taught | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `et-tareb`   | `n`    | an aqueduct                                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `en-mûna`    | `n`    | a cistern, a reservoir                                     | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `et-degân`   | `n`    | the customs-toll, the impost                               | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `kathûr`     | `n`    | a seal, and the sealed warrant                             | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `en-telekâs` | `n`    | the quay, the harbor-front                                 | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `en-meret`   | `n`    | the quay, in the speech of Bethûra                         | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `khabetûn`   | `n`    | a bonded warehouse, a store                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `selkûr`     | `n`    | a year in the era-reckoning                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `halzât`     | `n`    | the scales; the oracular weighing of a candidate's worth   | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `kinelât`    | `n`    | fragrant oil, unguent                                      | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `durâs`      | `n`    | natron, washing-salt                                       | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `pleôs`      | `adj`  | full                                                       | —          | [[skill-bethunlng\|Bethuan]] | `bethuan` |
+| Form         | Class  | Gloss                                                      | Built from      | Attested                                      | Tongue    |
+| ------------ | ------ | ---------------------------------------------------------- | --------------- | --------------------------------------------- | --------- |
+| `hýdhir`     | `n`    | water                                                      | —               | —                                             | `helonic` |
+| `ýthrin`     | `n`    | fire; the hearth-fire a household keeps alive              | `ýthr-` + `-in` | [[lore-keelburning\|The Burning of the Keel]] | `helonic` |
+| `ýthr-`      | `stem` | of the fire                                                | —               | —                                             | `helonic` |
+| `krênir`     | `n`    | a spring                                                   | —               | —                                             | `helonic` |
+| `krên-`      | `stem` | of a spring                                                | —               | —                                             | `helonic` |
+| `katelûn`    | `n`    | a tunnel-well, the underground channel the Khelâthi taught | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `et-tareb`   | `n`    | an aqueduct                                                | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `en-mûna`    | `n`    | a cistern, a reservoir                                     | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `et-degân`   | `n`    | the customs-toll, the impost                               | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `kathûr`     | `n`    | a seal, and the sealed warrant                             | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `en-telekâs` | `n`    | the quay, the harbor-front                                 | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `en-meret`   | `n`    | the quay, in the speech of Bethûra                         | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `khabetûn`   | `n`    | a bonded warehouse, a store                                | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `selkûr`     | `n`    | a year in the era-reckoning                                | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `halzât`     | `n`    | the scales; the oracular weighing of a candidate's worth   | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `kinelât`    | `n`    | fragrant oil, unguent                                      | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `durâs`      | `n`    | natron, washing-salt                                       | —               | [[lore-bethuanclt\|Bethûan]]                  | `bethuan` |
+| `pleôs`      | `adj`  | full                                                       | —               | [[skill-bethunlng\|Bethuan]]                  | `bethuan` |
 
 ### Doing, going and being
 
@@ -906,6 +911,18 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Zádìmêros Mâkîthôn**                              | [[being-zdmrsmkthn\|Zádìmêros Mâkîthôn]]                                                                   | `helonic`     | —                                           |
 | **Zapemês**                                         | [[being-drknsdlsns\|Mivios Zapemês]]                                                                       | `byzarian`    | —                                           |
 | **Zýghirôs**                                        | [[being-tlnrzyghrs\|Tálanira Zýghirôs]]                                                                    | `bethuan`     | `zýgh-` + `-ir` + `-ôs`                     |
+| **The Burning of the Keel**                         | [[lore-keelburning\|The Burning of the Keel]]                                                              | `translation` | —                                           |
+| **The Fire on the Headland**                        | [[lore-keelburning\|The Burning of the Keel]]                                                              | `translation` | —                                           |
+| **The Measures of the Terraces**                    | [[lore-terracemsrs\|The Measures of the Terraces]]                                                         | `translation` | —                                           |
+| **The Measures**                                    | [[lore-terracemsrs\|The Measures of the Terraces]]                                                         | `translation` | —                                           |
+| **The Dinner of the Silent Passage**                | [[lore-silentdinner\|The Dinner of the Silent Passage]]                                                    | `translation` | —                                           |
+| **The Return of Ghígnis**                           | [[lore-silentdinner\|The Dinner of the Silent Passage]]                                                    | `translation` | —                                           |
+| **The Unreceived**                                  | [[lore-unreceived\|The Unreceived]]                                                                        | `translation` | —                                           |
+| **The Levy on the Plain**                           | [[lore-unreceived\|The Unreceived]]                                                                        | `translation` | —                                           |
+| **The Lessons of the Silver Veil**                  | [[lore-veillessons\|The Lessons of the Silver Veil]]                                                       | `translation` | —                                           |
+| **The Eight Years**                                 | [[lore-veillessons\|The Lessons of the Silver Veil]]                                                       | `translation` | —                                           |
+| **The Herald Who Asked for the Dead**               | [[lore-firstasking\|The Herald Who Asked for the Dead]]                                                    | `translation` | —                                           |
+| **The First Asking**                                | [[lore-firstasking\|The Herald Who Asked for the Dead]]                                                    | `translation` | —                                           |
 
 ## Retired names
 
