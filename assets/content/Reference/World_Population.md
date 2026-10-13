@@ -64,14 +64,15 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 #### Xerathia
 
-| Region                                       | Population      |
-| -------------------------------------------- | --------------- |
-| [[place-aukhelathrgq\|Aû'Khelâthu Region]]   | ~19,000,000     |
-| [[place-okharisrgn\|Okháris]]                | ~4,000,000      |
-| [[place-bethuargn\|Bethûa]]                  | ~3,000,000      |
-| [[place-sthrnsvnhs\|the Southern Savannahs]] | ~2,000,000      |
-| The rainforests and the South Marches        | ~1,000,000      |
-| **Xerathia subtotal**                        | **~29,000,000** |
+| Region                                          | Population      |
+| ----------------------------------------------- | --------------- |
+| [[place-aukhelathrgq\|Aû'Khelâthu Region]]      | ~19,000,000     |
+| [[place-okharisrgn\|Okháris]]                   | ~4,000,000      |
+| [[place-bethuargn\|Bethûa]]                     | ~3,000,000      |
+| [[place-sthrnsvnhs\|the Southern Savannahs]]    | ~2,000,000      |
+| [[place-cntrlrnfrsts\|the Central Rainforests]] | ~250,000        |
+| [[place-sthmrchsrgn\|the South Marches]]        | not stated      |
+| **Xerathia subtotal**                           | **~29,000,000** |
 
 #### K'ich'chik
 

@@ -554,6 +554,7 @@ export function readPage(text) {
     const suffixes = read(() => {
         const t = tableOf(text, "### Suffixes", false);
         if (!t) return [];
+        const toneAt = column(t, "tone");
         return t.rows.map(({ cells, offset }) => {
             const stem = plain(cells[1] ?? "").toLowerCase();
             const replaces = stem.match(/replaces a closing (vowel|`[^`]+`)/);
@@ -564,6 +565,8 @@ export function readPage(text) {
                     : replaces[1] === "vowel" ? "vowel"
                     : lower(replaces[1].slice(1, -1)),
                 makes: plain(cells[2] ?? ""),
+                tones:
+                    toneAt === -1 ? null : (ticked(cells[toneAt])[0] ?? plain(cells[toneAt] ?? "")),
                 offset,
             };
         });
@@ -618,9 +621,14 @@ export function readPage(text) {
                 const built = column(table, "built");
                 const attested = column(table, "attested");
                 const tongue = column(table, "tongue");
+                const tones = column(table, "tone");
                 for (const { cells, offset } of table.rows) {
                     out.push({
                         field,
+                        tones:
+                            tones === -1 ? null : (
+                                (ticked(cells[tones])[0] ?? plain(cells[tones] ?? ""))
+                            ),
                         form: ticked(cells[form])[0] ?? "",
                         cls: cls === -1 ? "" : (ticked(cells[cls])[0] ?? plain(cells[cls] ?? "")),
                         gloss: gloss === -1 ? "" : plain(cells[gloss] ?? ""),

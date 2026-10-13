@@ -47,6 +47,7 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 | **Bethuan**                    | [[affiliation-mtrrchybth\|Matriarchy of Bethua]]    | [[skill-bethunlng\|Bethuan Language]]   | Related to Helonic through ancient migration. Distinct feminine and masculine registers in the grammar.                                                                                                                                |
 | **Okháric**                    | [[affiliation-okharis\|Kingdom of Okháris]]         | [[skill-okharclng\|Okharic Language]]   | The language of the three city-states. Religious texts are in a sacred archaic form.                                                                                                                                                   |
 | **Nyáluban**                   | [[affiliation-nylbtrblntn\|Nyáluba Tribal Nation]]  | [[skill-nyalbnlng\|Nyaluban Language]]  | The language of the southern tribal nation. Oral tradition with drum-and-tone communication over distances.                                                                                                                            |
+| **Ekpelu**                     | [[place-cntrlrnfrsts\|Central Rainforests]]         | [[skill-ekpelulng\|Ekpelu Language]]    | The common tongue of the forest peoples: small, open and unwritten, spoken with a different accent and different words for the sacred by each tradition.                                                                               |
 
 ## K'ich'chik
 
@@ -73,7 +74,7 @@ The languages of Thalorna fall into several broad families:
 - **Eastern Isolates:** Vedyari, Tānvüri, and Khelâthi are considered isolates or members of distinct families, with no close relationship to the western languages. Jürthāti descends from Tānvüri and is the one clear daughter-language among them.
 - **Elder Tongues:** Sinalë and Khazári share a common ancestor that predates all human language on Thalorna. The two branches diverged long before human settlement.
 - **Ki'ichek:** An independent language family with no known relatives on other continents.
-- **Isolates:** Kalihári, Okháric, Grukar, and Nyáluban each stand alone with no demonstrated relationship to other language families.
+- **Isolates:** Kalihári, Okháric, Grukar, Nyáluban, and Ekpelu each stand alone with no demonstrated relationship to other language families.
 
 ## Scripts
 

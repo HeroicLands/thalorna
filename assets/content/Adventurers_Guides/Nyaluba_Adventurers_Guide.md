@@ -28,7 +28,7 @@ Faith runs through totems and spirit guides. Each clan is kin to its totem—lio
 - The Old Hetos of the highlands—curving walls of fitted stone and raised platforms left by a people who built before the Nyáluba—belong to the Ngonzi, and their guardians admit no one else.
 - The Kolembozi wetlands are a maze of papyrus channels and crocodile pools whose river-spirits are numerous and unforgiving.
 - [[place-fenjaravlg|Fénjara Village]], under the gallery forest, is home to trail-readers who follow tracks across the spirit world.
-- The Sengala northern margin is the only door most outsiders ever use, through the rainforest peoples to the north.
+- The Sengala, on the Nyáluba's northern margin at the rainforest's southern edge, are the only door most outsiders ever use, through the rainforest peoples to the north.
 
 ## Ways In
 

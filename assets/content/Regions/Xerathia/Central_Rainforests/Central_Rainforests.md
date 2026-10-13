@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk, flksinale]
   parents: [xerathia]
-  population: null
+  population: 250000
   packFolder: centralrainforests
 
 # terran_analog: Equatorial African interior (Congo basin)
@@ -23,7 +23,7 @@ Within the forests live peoples, traditions, and life-forms that the settled emp
 
 The rainforests occupy an enormous equatorial belt—wider east-to-west than either [[place-aureldirgn|Aurèldía]] or [[place-midhalnrgn|Mídhalión]], and deeper north-to-south than most Ankarian cartographers are prepared to admit. The canopy is continuous for hundreds of miles at a time, closing over rivers, clearings, and the handful of ancient trails that thread through the interior.
 
-Several great rivers drain the region. Most flow north toward the [[place-vylarianse|Vylarian Sea]], cutting gorges through the highland spurs that descend from the northern crescent; others flow south into seasonally flooded wetlands that eventually give way to the savannah. These rivers are the region's highways—such highways as exist—and the settled tribes cluster along them. The interior between the rivers is effectively unmapped.
+Several great rivers drain the region. Most flow north toward the [[place-vylarianse|Vylarian Sea]], cutting gorges through the highland spurs that descend from the northern crescent; others flow south into seasonally flooded wetlands that eventually give way to the savannah. These rivers are the region's highways—such highways as exist—and the river tribes cluster along them. The interior between the rivers is effectively unmapped.
 
 The climate is wet and warm year-round, with a rhythm of alternating dry and rainy seasons rather than true summer and winter. Daily afternoon thunderstorms are the norm through most of the year. Fog and mist are constant in the interior, and the air is thick with the smell of decay and growth happening simultaneously.
 
@@ -31,25 +31,28 @@ The forest holds species of tree, vine, insect, and beast found nowhere else on 
 
 ## Peoples and Culture
 
-The forest tribes are many, small, and extraordinarily varied. What little the northern scholars have managed to set down about them suggests a patchwork of distinct languages, social structures, and ritual traditions rather than anything resembling a unified culture. A few broad patterns recur:
+The forest tribes are many, small and remote, perhaps a quarter of a million people in all. Nothing stands above the tribe: a tribe is a few bands that follow one leader, and alliances, feasts and marriages between tribes are occasions, not institutions. The northern scholars who have set down anything about them record a patchwork of tribes that look alike from outside and differ greatly from within. A broad pattern recurs in four loose traditions, none of them a polity and none with borders or leaders:
 
-**Settled river-tribes** maintain semi-permanent villages along navigable waterways, practice shifting horticulture in forest clearings, and trade cautiously with Khelâthi, Okhárian, and Bethuan merchants who venture upriver. Their political organization typically centers on a council of elders, a ritual specialist, and a war-leader, with authority distributed rather than concentrated.
+- **The [[lore-luwandoclt|Luwando]]** live along the great rivers. They fish, forage and hunt, keep small bank gardens, and deal cautiously with the Khelâthi, Okhárin and Bethuan traders who come upriver.
+- **The [[lore-yesomaclt|Yesoma]]** are the mobile foragers of the deep interior between the rivers, who keep no gardens and little contact with the north. What contact they have is mediated through the Luwando, through ritual exchanges and through trails known only to those who grew up on them.
+- **The [[lore-kubindoclt|Kubindo]]** forage in tribes each bound to one spirit-place, whose manners an elder keeps. A spirit-place has a keeper and no priesthood, and the Kubindo hold that a keeper who becomes a leader has begun to ruin the place.
+- **The [[lore-pewayeclt|Pewaye]]** live on the forest margins, north and south, keep small gardens, and hold the line between the forest and the outside, which makes them the forest's trading door.
 
-**Deep-forest tribes** live far from the rivers, move camp frequently, and have little or no contact with the north. What contact they do have is mediated—through the settled river-tribes, through ritual exchanges, and through the long-established forest trails whose existence is known only to those who have grown up on them.
+Nearly every forest person lives first by hunting, fishing and gathering.
 
-**Spirit-court communities** are the most organized and—to northern eyes—the most puzzling of the forest peoples. These settlements center on elaborate priestly hierarchies serving named spirit-patrons whose domains correspond to specific stretches of forest, specific rivers, specific species of tree or beast. Northern scholars have sometimes tried to classify these spirits as a "pantheon," but the framework does not fit: the spirit-courts are local, intensely place-specific, and do not add up to a coherent cross-regional system. One tribe's great serpent-patron is another tribe's footnote; neighboring villages may recognize dozens of spirits in common and still disagree entirely on which are important.
+The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[skill-ekpelulng|Ekpelu]], which each of their four traditions speaks with its own accent.
 
 A small number of [[lore-flksinale|Sinalë]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
 
 ## Religion
 
-There is no pantheon of the Central Rainforests. There are thousands of spirits, hundreds of local courts, dozens of lineage traditions, and a small number of wider mythological cycles that recur across linguistically unrelated peoples. Northern scholars who have tried to impose the pantheon framework—notably the Khelâthi temple-schools of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and, more recently, the Aurèldían missionary academies—have produced taxonomies of such baroque uselessness that the attempt has been quietly abandoned more than once.
+There is no pantheon of the Central Rainforests. There are thousands of spirits, hundreds of local spirit-places, dozens of lineage traditions, and a small number of wider mythological cycles that recur across linguistically unrelated peoples. Northern scholars who have tried to impose the pantheon framework—notably the Khelâthi temple-schools of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and, more recently, the Aurèldían missionary academies—have produced taxonomies of such baroque uselessness that the attempt has been quietly abandoned more than once.
 
 What does recur is a recognition that the forest itself is alive in a way that merely wooded places are not, and that the appropriate relationship to it is negotiation rather than mastery. Offerings, apologies, and ritualized restraints on hunting and gathering are universal across the rainforest peoples. The forest tolerates those who behave correctly and punishes—through accident, disease, or the simple failure to find one's way home—those who do not.
 
 ## Politics and Power
 
-No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, spirit-court diplomacy, and long feuds whose origins are often mythological rather than historical.
+No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, gifts given to feared neighbours, and long feuds whose origins are often mythological rather than historical.
 
 ## Trade
 
@@ -72,4 +75,5 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 - [[affiliation-okharis|Okháris]]—three-flamed kingdom of the northern crescent
 - [[affiliation-mtrrchybth|Matriarchy of Bethua]]—northern neighbor, between Okháris and Aû'Khelâthu
 - [[place-ekundavlg|Ékunda]]—southern savannah outpost
+- [[lore-bikoclt|Biko]]—the forest peoples and their four traditions
 - [[lore-flksinale|Sinalë]]—rumored deep-forest enclaves

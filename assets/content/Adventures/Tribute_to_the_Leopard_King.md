@@ -3,7 +3,7 @@ shortcode: trbtlpdkng
 name: {full: The Unseen King of the Spotted Court, aliases: []}
 type: scenario
 subType: adventure
-description: "The peoples of the forest pay tribute to a king who takes a leopard's shape, though the bearers have not seen him in two seasons."
+description: "The tribes around a forest tribe bring gifts to its sorcerer-leader, who is said to take a leopard's shape, though the bearers have not seen him in two seasons."
 tags: [draft, central-rainforests]
 data:
   parents: []
@@ -18,29 +18,29 @@ data:
 
 ## The Unseen King of the Spotted Court
 
-A king in the forest is said to take the leopard's shape, and the peoples around him pay him tribute. The party must enter the [[place-lpdkngcrt|Leopard King's Court]], survive its hospitality, and learn what the tribute buys. The King's secret is a cost, not a triumph, and the Court that keeps it is holding back something worse than itself.
+A sorcerer-leader in the forest is said to take the leopard's shape, and the tribes around him bring him gifts out of fear. The party must enter the [[place-lpdkngcrt|Leopard King's Court]], survive its hospitality, and learn what the gifts buy. The King's secret is a cost, not a triumph, and the Court that keeps it is holding back something worse than itself.
 
 ### Hook
 
 Offer the entry that suits the hero.
 
-- **The thief.** The Court's tribute-stores are said to hold ivory, dyes and Khelâthi iron. A river-factor, who lost a fortune to the Court's levy, offers a share for the key to the storehouses.
-- **The mercenary or soldier.** A tribe has refused tribute for a year, and its war-leader needs hired spears for the reckoning. The party's contract includes a letter of safe-conduct to the Court.
-- **The leader.** The party's chieftain faces a bad season, a feud, and an offer from a Court envoy: join the tribute, and the Spotted Guard will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
+- **The thief.** The Court's gift-stores are said to hold ivory, dyes and iron. A river-factor, whose boats the Spotted Guard took for the Court's use, offers a share for the key to the storehouses.
+- **The mercenary or soldier.** A tribe has sent no gift for a year, and its war-leader needs hired spears for the reckoning. The party's contract includes a letter of safe-conduct to the Court.
+- **The leader.** The party's chieftain faces a bad season, a feud, and an offer from a Court envoy: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
 - **The lone wanderer.** The wanderer carries a leopard's claw token from a Sengala trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
 
 The place note is [[place-lpdkngcrt|The Leopard King's Court]].
 
-## Scene One: The Tribute Road
+## Scene One: The Gift Road
 
 **Purpose.** Introduce the Court's reach and the cost of arriving without a gift or a guide.
 
-**Situation.** A trail of tribute-bearers runs through the forest toward the Court's valley. Each people's trail is marked by a sign cut into the bark: a knotted cord, a handprint in ochre, a notched antler. Bearers walk in file with bundles on their backs. Trees overhead hold watch-posts, and from them the Spotted Guard looks down.
+**Situation.** A trail of gift-bearers runs through the forest toward the Court's valley. Each tribe's trail is marked by a sign cut into the bark: a knotted cord, a handprint in ochre, a notched antler. Bearers walk in file with bundles on their backs. Trees overhead hold watch-posts, and from them the Spotted Guard looks down.
 
 **NPCs and threats.**
 
 - **The Spotted Guard.** Hunters in leopard-skin cloaks, armed with throwing spears and long knives, who fight from above and from cover. They do not shout challenges. They drop a spear in the path, and stepping over it marks a stranger as an enemy.
-- **A tribute caravan** of the river-folk, led by a worn headwoman who has made the walk fourteen times and wants the party's silence more than their company.
+- **A gift caravan** of river-folk, led by a worn headwoman who has made the walk fourteen times and wants the party's silence more than their company.
 
 **Player choices.**
 
@@ -49,7 +49,7 @@ The place note is [[place-lpdkngcrt|The Leopard King's Court]].
 - _Guile:_ join the caravan as porters, wearing its markings.
 - _Parley:_ meet the Guard openly with a gift. A Sengala token or an offered bargain in the leopard-guide's name is received.
 
-**Clues and rewards.** The caravan's headwoman mutters that the King has not been seen by the tribute-bearers in two seasons, only the Speaker. The bundles are tied with knotted cords.
+**Clues and rewards.** The caravan's headwoman mutters that the King has not been seen by the gift-bearers in two seasons, only the Speaker. The bundles are tied with knotted cords.
 
 **Consequences.** Arriving as a porter makes the party a ward of the caravan, and its people owe them hospitality. Arriving by force makes them enemies of the Guard.
 
@@ -59,13 +59,13 @@ The place note is [[place-lpdkngcrt|The Leopard King's Court]].
 
 **Purpose.** Roleplay: the Court's politics, the reach of its oaths, and the first sign that something is wrong.
 
-**Situation.** The audience hall is a long timber room with a roof of leopard pelts. Delegations of the tributary peoples sit along the walls in order of rank. A carved seat at the head holds a heap of spotted fur and nothing else. At its side stands the Speaker.
+**Situation.** The audience hall is a long timber room with a roof of leopard pelts. Delegations from the neighbouring tribes sit along the walls in the order they arrived, and the Speaker takes the gifts of each. A carved seat at the head holds a heap of spotted fur and nothing else. At its side stands the Speaker.
 
 **NPCs and threats.**
 
 - **The Speaker.** A calm, grey-haired woman in a plain cloak, who speaks with open hands and gives the King's judgments in his name. She is intelligent, careful and tired. She does not lie, but she chooses what to say. She tests the party's honesty with small questions.
 - **Red-Spear.** The Court's war-leader, a young man with a red-painted spear and a dangerous smile, who wants the King to rule openly and thinks the Speaker is hiding something. He seeks allies among visitors.
-- **The delegations.** The honey-gatherers want relief from a levy. The river-folk want iron. A mute envoy from a deep-forest people brings a carved pole and will not say why.
+- **The delegations.** The honey-gatherers want to send less than they did. The river-folk want iron. A mute envoy from a deep-forest people brings a carved pole and will not say why.
 
 **Player choices.**
 
@@ -95,7 +95,7 @@ The place note is [[place-lpdkngcrt|The Leopard King's Court]].
 
 - _Force:_ stand and fight the cat. It breaks off from a determined defence, and the Guard watches.
 - _Stealth:_ hide in the gardens and wait out the dawn.
-- _Guile:_ lead the cat to Red-Spear's quarters, or to a tribute-store, and turn the Hunt on someone else.
+- _Guile:_ lead the cat to Red-Spear's quarters, or to the gift-store, and turn the Hunt on someone else.
 - _Parley:_ speak to the cat. It listens. A party member who has the leopard-guide's token, or the Sengala tongue, may be heard.
 
 **Clues and rewards.** The King's tracks end in the Throne Cave. At dawn a cord with a fresh knot hangs on the garden wall, tied there by the Cord-Keeper.
@@ -129,11 +129,11 @@ The place note is [[place-lpdkngcrt|The Leopard King's Court]].
 
 **If bypassed.** If the party never reaches the cave, the Speaker shows them the cords and tells the story.
 
-## Scene Five: What the Tribute Buys
+## Scene Five: What the Gifts Buy
 
 **Purpose.** Reward, revelation and twist.
 
-**Situation.** Behind the throne is the tribute-store: a long chamber of hardwood bundles, ivory, bales of dyed hide, and a rack of Khelâthi iron. At its end is a door. Beyond the door is a trail leading deep into the forest.
+**Situation.** Behind the throne is the gift-store: a long chamber of hardwood bundles, ivory, bales of dyed hide, and a rack of iron that came north through the Sengala. At its end is a door. Beyond the door is a trail leading deep into the forest.
 
 **NPCs and threats.** The Speaker and any surviving Guard.
 
@@ -144,16 +144,16 @@ The place note is [[place-lpdkngcrt|The Leopard King's Court]].
 - _Guile:_ trade the King's secret to the highest bidder.
 - _Parley:_ ask the Speaker where the trail goes.
 
-**Clues and rewards.** The treasure is modest: ivory, dye, hardwood and the iron, but no coin, which the interior does not use. The Speaker's account is the true reward. The tribute pays the hunters who patrol the rim of [[place-slntclrng|the Silent Clearing]], where the forest's undead rise. The King's night hunts are patrols. His leopard-shape walks the rim in the dark, where torchlight would draw the dead.
+**Clues and rewards.** The treasure is modest: ivory, dye, hardwood and the iron, but no coin, which the interior does not use. The Speaker's account is the true reward. The gifts feed the hunters who patrol the rim of [[place-slntclrng|the Silent Clearing]], where the forest's undead rise. The King's night hunts are patrols. His leopard-shape walks the rim in the dark, where torchlight would draw the dead.
 
-**Consequences.** The twist: the Court is not a tyranny. It is a watch. The tribute buys a wall against the dead, and the King is its sentry. The rite will fail within a few years, and the Court knows it.
+**Consequences.** The twist: the Court is not a tyrant. It is a watch. The neighbours give out of fear of the King, and the gifts keep a wall against the dead, with the King as its sentry. The rite will fail within a few years, and the Court knows it.
 
 **If bypassed.** If the party leaves, the Speaker finds them on the trail and asks them to carry a message to the Sengala.
 
 ## Aftermath
 
-- **If the King lives and the rite ends,** the Court loses its sentry, and the tribes' tribute falters. Red-Spear takes power, and the rim goes unwatched.
+- **If the King lives and the rite ends,** the Court loses its sentry, and the neighbours' gifts falter. Red-Spear takes power, and the rim goes unwatched.
 - **If the King lives and the rite continues,** the Court holds, and the King's lucid hours grow shorter.
-- **If the King is killed,** the tributary peoples fall back on their feuds, and the Quiet Dead reach the river-tribes within a few seasons.
+- **If the King is killed,** the neighbouring tribes stop sending gifts and fall back on their feuds, and the Quiet Dead reach the river tribes within a few seasons.
 - **If the party plunders the store,** the iron leaves the interior, and the river-folk pay for it.
 - **If the Sengala learn the secret,** they ask whether the leopard-guide has been called by a false name, and they send a Spirit-Speaker to see.

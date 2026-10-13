@@ -254,7 +254,7 @@ Leopards live alone apart from mating and rearing. A male holds fifteen to thirt
 
 ## What the Sengala Do
 
-The Sengala, the leopard-clan of the Nyáluba, are the trade-tribe of the southern edge of the rain-forest, and the leopard guide is their clan's ancestral presence and not only an animal. Their parties are bound by the observances of the Leopard Totem. In the forest the hidden city of [[place-lpdkngcrt|the Leopard King's Court]] is said to be ruled by a king who takes the cat's shape at night. In Aû'Khelâthu a priestess wears a leopard-skin robe. Villages keep stock penned at night, and a hunter who kills a leopard must give its skin to the headman.
+The Sengala, the leopard-clan of the Nyáluba, are the trade-tribe on the northern margin of the Nyáluba lands, at the southern edge of the rain-forest, and the leopard guide is their clan's ancestral presence and not only an animal. Their parties are bound by the observances of the Leopard Totem. In the forest the hidden city of [[place-lpdkngcrt|the Leopard King's Court]] is said to be ruled by a king who takes the cat's shape at night. In Aû'Khelâthu a priestess wears a leopard-skin robe. Villages keep stock penned at night, and a hunter who kills a leopard must give its skin to the headman.
 
 ## Signs
 

@@ -31,7 +31,7 @@ At the centre, according to those few who have approached, there is a place wher
 
 - **The forest tribes** teach their children to turn back at the first silence. A hunter who loses his birdsong turns around, and he does not discuss the reason.
 - **The Leopard King's Court** knows it best, and its hunters patrol the rim. The hunters carry torches and oil as readily as spears.
-- **Spirit-court shamans** hold that the Clearing is not a spirit's domain. Their traditions are local and place-bound, and the Clearing has no patron to bargain with, which they take as the mark of the Shadow.
+- **The [[lore-kubindoclt|Kubindo]] elders** who have been near it say the Clearing belongs to no spirit and has no manners at all. A place with no manners has no patron to bargain with, which they take as the mark of the Shadow.
 - **Northern scholars** have heard of it from river-factors and file it with the other rumours of the interior.
 
 ## Reaching It

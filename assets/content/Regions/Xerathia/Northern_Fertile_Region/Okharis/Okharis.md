@@ -64,13 +64,13 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## Overview
 
-Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. West of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and bounded on the south by the impassable [[place-cntrlrnfrsts|Central Rainforests]], Okháris is a hot kingdom of rain-fed forest, river valleys and grassland in the west, drying eastward to savanna, held by three great temple-cities. Where its northern neighbors built civilization on aqueducts and irrigation, Okháris built it on rain-fed land and the herds.
+Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. West of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and bounded on the south by the [[place-cntrlrnfrsts|Central Rainforests]], trackless except by its rivers, Okháris is a hot kingdom of rain-fed forest, river valleys and grassland in the west, drying eastward to savanna, held by three great temple-cities. Where its northern neighbors built civilization on aqueducts and irrigation, Okháris built it on rain-fed land and the herds.
 
 ## Geography
 
 Okháris is hot throughout and wettest in the west. There regular rains keep the grasslands green and the rivers running year-round, forest follows the watercourses and thickens southward toward the rainforest, and the land is fertile without canals—barley, sorghum, flax, dates and figs grow on rain and river water. The rains lessen moving east: the forest thins to scattered acacia and baobab groves, the rivers become seasonal, and by the border with Bethua the country is semi-arid savanna, rolling grassland broken by seasonal streams and outcrops of red sandstone. The western edge of the kingdom touches the wet-coastal strip that runs the length of the northern shore, and from the southern margins of [[place-nrthrnfrtlrgn|the Fertile crescent]] the land runs south to the edge of the rainforest.
 
-The southern border of the kingdom is the northern edge of the [[place-cntrlrnfrsts|Central Rainforests]]—a wall of dense tropical jungle that neither Okháric nor foreign powers have seriously attempted to penetrate. Okháric knowledge labels the country beyond the jungle margin only as "the green wall" and leaves it uncharted.
+The southern border of the kingdom is the northern edge of the [[place-cntrlrnfrsts|Central Rainforests]]—dense tropical jungle, trackless except by its rivers, that neither Okháric nor foreign powers have seriously attempted to penetrate. Okháric knowledge labels the country beyond the jungle margin only as "the green wall" and leaves it uncharted.
 
 ## Character
 

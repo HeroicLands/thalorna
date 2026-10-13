@@ -26,7 +26,7 @@ Offer the entry that suits the hero.
 
 - **The thief.** A drunken river-factor in a northern port sells a map to a temple roofed in green stone. The roof is root and moss, but the bronze inside is real, and so is the jade at the heart of it.
 - **The mercenary or soldier.** A Khelâthi salt-factor, who lost two salvage crews to the Ziggurat, hires guards for a third. His pay is good and his reasons are thin.
-- **The leader.** The chieftain of a river-tribe has watched the drowned plain's fish die and its water turn black. The tribe's shaman says the serpent-patron is troubled. The chieftain needs someone to go upriver who is not of the tribe, because no one of the tribe can break the taboo.
+- **The leader.** The chieftain of a river-tribe has watched the drowned plain's fish die and its water turn black. The tribe's eldest says the serpent-patron is troubled. The chieftain needs someone to go upriver who is not of the tribe, because no one of the tribe can break the taboo.
 - **The lone wanderer.** The wanderer has a fever-dream of a bronze wheel turning, and has dreamed it for a month. A river-guide who knows the way owes the wanderer a life and offers to pay.
 
 The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
@@ -47,7 +47,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - _Force:_ kill the python from the causeway with spears. It takes a wound badly and thrashes the stair into rubble.
 - _Stealth:_ cross at the stair's edge on the roots, keeping out of the water.
 - _Guile:_ draw Old Coil off with bait cast on the far side.
-- _Parley:_ a shaman or spirit-court initiate can recognise the python as the patron's kin and offer the old river-offerings. It lets them pass and does not follow.
+- _Parley:_ a Kubindo keeper or any elder of the river can recognise the python as the patron's kin and offer the old river-offerings. It lets them pass and does not follow.
 
 **Clues and rewards.** Serpent-coils carved into the stair-risers show the way: the coils lead up. A drowned offering-bowl in the nest holds a handful of river-gold dust.
 
@@ -70,7 +70,7 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - _Force:_ cut the arms from the wheels. Each severed hand frees a Keeper.
 - _Stealth:_ walk the gallery in step with the hands, never breaking the rhythm. A stopped breath is the only danger.
 - _Guile:_ the door answers to the pattern of the wheels. Counting the turns, a party member notices that every ninth turn the hands pause for one beat, and that the door's serpent-ring ticks open on the pause.
-- _Parley:_ a shaman who speaks the old river-prayers can answer the wheels' bark-scrolls. The prayers on them ask the patron to stay.
+- _Parley:_ an elder who speaks the old river-prayers can answer the wheels' bark-scrolls. The prayers on them ask the patron to stay.
 
 **Clues and rewards.** The prayers on the scrolls are the cult's last plea, and they reveal that the wheels were meant to hold a spirit in the world. A careful reader learns that the Keepers' hands have not turned the same prayer for some time. The Shadow rewrote it.
 
@@ -138,13 +138,13 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - _Force:_ take everything and run.
 - _Stealth:_ copy the map and leave the treasure.
 - _Guile:_ leave a false map for any who come after.
-- _Parley:_ carry the bark-books to a river-tribe shaman who may be able to read the cult's last words.
+- _Parley:_ carry the bark-books to a river-tribe elder who may be able to read the cult's last words.
 
 **Clues and rewards.** The treasure is modest: river-gold dust, bronze tools, and the jade signet, which a river-tribe will buy or kill for. The map shows the circle of [[place-slntclrng|the Silent Clearing]]. The prayers on the last bark-book say the cult's wheels were also meant to hold the Clearing shut.
 
 **Consequences.** The twist: the Ziggurat's cult did not only seek to keep a patron alive. Its priests found the Clearing's wound and tried to bind it with prayer. They failed in the way the Shadow makes everything fail. Stopping the wheels frees the wound's pull.
 
-**If bypassed.** A party that leaves without reading the alcove learns of the Clearing from a river-tribe shaman a season later.
+**If bypassed.** A party that leaves without reading the alcove learns of the Clearing from a river-tribe elder a season later.
 
 ## Aftermath
 
