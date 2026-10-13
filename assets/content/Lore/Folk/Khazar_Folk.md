@@ -70,7 +70,7 @@ being nothing like enough tombs, cleaned the city to the condition they had kept
 for all generations**. Khazártúrn is not a ruin. It is intact, in good order, and full of its people:
 the greatest work of Khazári hands, and now the greatest grave in the world. The city outlived the
 whole of human prehistory by a margin nobody has ever remarked on: it fell about seventy years after
-[[affiliation-tanvurempr|Tānvür]] opened the dynastic record that is still the oldest human archive
+[[affiliation-tantsouempr|Tāntsou]] opened the dynastic record that is still the oldest human archive
 anyone can read, and not a line of that archive mentions it.
 
 The account of its fall is kept in the working archive of every hold and read at intervals. It is the
@@ -91,7 +91,7 @@ Depth carries weight. The deeper a space, the older, holier or more serious its 
 
 Like the Sinalëan enclaves, the holds are remote, and the remoteness is the mountains': the approaches are high, steep and trackless, and few humans look closely at a cliff. The Khazári watch the approaches and will turn away (or simply ignore) any human who comes too close. They do not need to be hostile; the mountains themselves are defense enough. A hold is not concealed. Seen from a distance it is cliff, and the moment a traveller understands that the cliff is inhabited is a quiet one.
 
-Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vrystwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tanvurempr|Tānvür]]'s western border, and ranges in [[place-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is [[lore-khazarturn|Khazártúrn]].
+Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vrystwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tantsouempr|Tāntsou]]'s western border, and ranges in [[place-xerathia|Xerathia Continent]] and beyond. The Khazári do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is [[lore-khazarturn|Khazártúrn]].
 
 The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], founded around **3100 BF** in the late centuries of [[lore-khazarturn|Khazártúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the Khazári carried a small company of humans across with them to farm beneath it, and their descendants are the [[lore-vardain|Vardain]].
 
@@ -101,7 +101,7 @@ The Khazári's relationship with humanity is even more limited than the Sinalë'
 
 Very rarely—perhaps a handful of times in a human generation—a Khazár will appear in a human settlement. A solitary figure, heavily cloaked, who buys specific materials (certain ores, certain chemicals, occasionally food supplies that the holds cannot produce), pays in gold of extraordinary purity, says nothing beyond what the transaction requires, and leaves. These encounters are so rare that they are remembered for decades in the communities where they occur.
 
-No human _realm_ except Tānvür has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazári think of humanity—if they think of humanity at all—they keep it behind walls of stone and silence.
+No human _realm_ except Tāntsou has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazári think of humanity—if they think of humanity at all—they keep it behind walls of stone and silence.
 
 There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardain]] of Aelwyth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazári engineers work openly in their valleys. It is a closer and older relationship than Élavendre's with the Sinalë, and almost nobody outside those valleys knows it exists.
 
@@ -141,6 +141,6 @@ The Khazári do not appear to care that humans possess these remnants. They are 
 
 - [[lore-khazariclt|Khazári]]—The culture: listening to stone, life in the cliff face, mining, teaching and outsiders
 - [[lore-flksinale|Sinalë]]—The first elder race; the Firstborn
-- [[affiliation-tanvurempr|Empire of Tānvür]]—Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
+- [[affiliation-tantsouempr|Empire of Tāntsou]]—Mountains believed to contain holds; see [[lore-elderraces|Elder Races]]
 - [[place-vrystwald|Vrystwald Region]]—Mountains above the forest likely contain holds
 - [[place-tarvenirgn|Tarvénia]]—Mountain ranges believed to contain holds

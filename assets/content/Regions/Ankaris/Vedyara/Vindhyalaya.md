@@ -65,7 +65,7 @@ data:
     tribestrzd: unaligned
     chandrapur: aligned
     vyalendra2: aligned
-    tanvurempr: unaligned
+    tantsouempr: unaligned
     osketguides: unaligned
     hvarnguides: unaligned
     janpdsvdyr: unaligned
@@ -78,7 +78,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 ## Overview
 
-**Shikharālaya** ("the abode of the peaks") holds the door in [[place-vedyarargn|Vedyara]]'s northern wall, and what it sells at that door is time. It is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]] and commands the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks: north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the **Celestial Road** beyond, and northeast by the longer branch to the western frontier of [[place-tanvuregin|Tānvür]]. Its wealth is the wealth of the toll-road and the customs-house, and its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Shikharālaya]], eight million people, and is seated at [[place-suryagarha|Sūryagarha]], the fortress-capital built across the throat of [[place-suryadvara|Sūryadvāra]].
+**Shikharālaya** ("the abode of the peaks") holds the door in [[place-vedyarargn|Vedyara]]'s northern wall, and what it sells at that door is time. It is the principal kingdom of the northern highlands of [[place-vedyarargn|Vedyara]] and commands the great passes that carry the subcontinent's trade over the [[place-graznmntns|Grazian]] wall. Beyond the throat of the greatest of them the road forks: north to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the **Celestial Road** beyond, and northeast by the longer branch to the western frontier of [[place-tantsouregin|Tāntsou]]. Its wealth is the wealth of the toll-road and the customs-house, and its politics are the politics of the march. The kingdom holds the land of [[place-vindhyalayaland|Shikharālaya]], eight million people, and is seated at [[place-suryagarha|Sūryagarha]], the fortress-capital built across the throat of [[place-suryadvara|Sūryadvāra]].
 
 A clerk at the Sūryagarha customs-house, writing out a pass-token for a caravan master new to the road, explains the trade in a sentence. "The token costs you almost nothing. The date I write on it is what you are paying for, and you will pay for it whether or not you put a coin on this counter."
 
@@ -127,9 +127,9 @@ To the south, Shikharālaya's dealings with the river-valley kingdoms are long-s
 
 To the north, beyond the wall, lie the southern edge-towns of the Tellumel, some still held by Tellumi houses and some by the Ātárzád. Neither the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Shikharālaya in force, and no horde has ever forced a Grazian pass; the one armed force to come over the wall came by the conch-door, which the kingdom does not hold. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
 
-To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly traveled. Tānvüri scholarly envoys appear at the Shikharālayan court every few decades, and a Tānvüri community has lived in Sūryagarha for centuries.
+To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tantsouempr|Tāntsou]]. The branch is longer, higher and lightly traveled. Tāntsou scholarly envoys appear at the Shikharālayan court every few decades, and a Tāntsou community has lived in Sūryagarha for centuries.
 
-To the east, along [[place-estrnreach|the Eastern Reach]], the kingdom holds that the whole northern frontier is its own to watch. The [[affiliation-janpdsvdyr|Janapadas of Vedyara]] keep a garrison on the col of the conch-door, [[place-sanghafort|the Sangha-fort]], raised four centuries ago when [[lore-conchdoor|an adventurer with Tānvüri backing]] came through into the eastern janapadas, and Shikharālaya reads it as ground held by a body with no business holding any. The kingdom raises this at every gathering and has never done more than raise it, which suits both sides: the temple-republics are not going to surrender a precedent, and the crown would be seriously embarrassed to be handed sixty men and a supply line through country it does not control.
+To the east, along [[place-estrnreach|the Eastern Reach]], the kingdom holds that the whole northern frontier is its own to watch. The [[affiliation-janpdsvdyr|Janapadas of Vedyara]] keep a garrison on the col of the conch-door, [[place-sanghafort|the Sangha-fort]], raised four centuries ago when [[lore-conchdoor|an adventurer with Tāntsou backing]] came through into the eastern janapadas, and Shikharālaya reads it as ground held by a body with no business holding any. The kingdom raises this at every gathering and has never done more than raise it, which suits both sides: the temple-republics are not going to surrender a precedent, and the crown would be seriously embarrassed to be handed sixty men and a supply line through country it does not control.
 
 The kingdom has no frontier with [[place-dunharargn|Dunhara]] at all. The desert lies west of where the wall runs out, and the road to it belongs to [[affiliation-bhumipala|Bhūmipāla]]. The two kingdoms hold the north between them without sharing a border; Shikharālayan steel goes down to the march companies and march horses come up to the pass-roads.
 

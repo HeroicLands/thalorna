@@ -74,7 +74,7 @@ data:
     kngdmlvndr: aligned
     kngdmldrth: rival
     repblcndrth: unaligned
-    tanvurempr: unaligned
+    tantsouempr: unaligned
     vylarinmpr: unaligned
     saelvri: nemesis
   packFolder: aelwyth
@@ -105,7 +105,7 @@ Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]]
 
 Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive—the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblcndrth|Republic of Ondareth]] through coastal trade routes.
 
-Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tanvurempr|Empire of Tānvür]], seeking to bypass the [[affiliation-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission, commissioned by the Synod and led by Sir Aran Célavren, represents a bold assertion of Dúnavarren independence on the international stage.
+Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tantsouempr|Empire of Tāntsou]], seeking to bypass the [[affiliation-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission, commissioned by the Synod and led by Sir Aran Célavren, represents a bold assertion of Dúnavarren independence on the international stage.
 
 ## Notable Institutions
 

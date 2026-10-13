@@ -61,7 +61,7 @@ data:
           says: >-
             Nothing of it. The Khelâthi count from the Qet Telgu and give the western year as a conversion when they give it at all.
           agrees: silent
-        - by: affiliation-tanvurempr
+        - by: affiliation-tantsouempr
           says: Nothing of it. The empire keeps its own reckoning and has since before this one existed.
           agrees: silent
       unresolved: ["the Senator's name, which no record gives"]

@@ -244,7 +244,7 @@ Years from the Qet Telgu are written ST, "Selqur Qet Telgu," the Year of the Fir
 
 _The year has three seasons of four months_: [[lore-azletssn|Azlet]] (Inundation), [[lore-geletssn|Gelet]] (Emergence) and [[lore-sheluessn|Shelu]] (Harvest). Each month has thirty days, and five intercalary days close the year. Khelâthi astronomers are proud of the system with good cause, and fond of pointing out that its seasons are named for what the river does while the western calendar begins from a senator's coup.
 
-[[affiliation-okharis|Okháris]] and the smaller polities of the upper river use the Qet Telgu as a matter of course, the way western Ankaris adopted the Vylarian count. [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep their own systems, as does [[affiliation-mtrrchybth|Bethûa]], though the [[lore-bethuanclt|Bethûan]] system shows strong Khelâthi influence.
+[[affiliation-okharis|Okháris]] and the smaller polities of the upper river use the Qet Telgu as a matter of course, the way western Ankaris adopted the Vylarian count. [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tāntsou]] keep their own systems, as does [[affiliation-mtrrchybth|Bethûa]], though the [[lore-bethuanclt|Bethûan]] system shows strong Khelâthi influence.
 
 ### Festival Life
 

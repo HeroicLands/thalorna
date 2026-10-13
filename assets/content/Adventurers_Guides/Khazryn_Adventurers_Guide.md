@@ -3,7 +3,7 @@ shortcode: khazrynadvguide
 name: {full: Khazryn Desert Adventurer's Guide, aliases: []}
 type: doc
 subType: settingguide
-description: A player and GM introduction to the Khazryn Desert—the camel road to Tānvür and the independent tribes who sell it a stretch at a time, the owned waters, the ruins and the four blood lands, and the ways a campaign begins there.
+description: A player and GM introduction to the Khazryn Desert—the camel road to Tāntsou and the independent tribes who sell it a stretch at a time, the owned waters, the ruins and the four blood lands, and the ways a campaign begins there.
 tags: []
 data: {packFolder: adventurersguides, culture: sowidesclt}
 ---
@@ -12,11 +12,11 @@ data: {packFolder: adventurersguides, culture: sowidesclt}
 >
 > The woman who comes down from the tents is past fifty, broad and weathered, in a red felt coat belted with silver plaques. She walks past the caravan-master, stops in front of you, the stranger, and holds out a pinch of gray salt on the flat of her knife until you take it on your tongue. "_Yolaq_, semök," she says: salt, guest. Then she touches her own chest. "Kesuqye, dovaq of the Ködüyür, of the wells from this spring to the white stones three days east." She turns to the master, and her voice goes flat. "Your list says ninety camels. My old man counted ninety-one at the ford. Whose is the last one, and what does it carry?"
 
-The [[place-khzryndsrtrgn|Khazryn]] is the largest and emptiest country in Ankaris: about 2,350 miles of desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the passes of [[place-tanvuregin|Tānvür]], and 1,400 miles from the northern taiga to the glaciers of the Grazian Mountains. About three million people live in it, most of them in a narrow strip at the foot of the mountains, and elsewhere you can ride for a week and meet nobody but the owners of the next well.
+The [[place-khzryndsrtrgn|Khazryn]] is the largest and emptiest country in Ankaris: about 2,350 miles of desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the passes of [[place-tantsouregin|Tāntsou]], and 1,400 miles from the northern taiga to the glaciers of the Grazian Mountains. About three million people live in it, most of them in a narrow strip at the foot of the mountains, and elsewhere you can ride for a week and meet nobody but the owners of the next well.
 
-One road crosses it. [[lore-celestialroad|The Celestial Road]] carries Tānvüri silk west and the silver of [[place-midhalnrgn|Mídhalión]] east, on camels, about 2,500 miles and more than four months each way. The [[lore-sowidesclt|Sovidur]], the independent herding tribes of the steppe and the sand, own its wells a few days at a time, and each tribe sells passage over its own stretch and nothing more.
+One road crosses it. [[lore-celestialroad|The Celestial Road]] carries Tāntsou silk west and the silver of [[place-midhalnrgn|Mídhalión]] east, on camels, about 2,500 miles and more than four months each way. The [[lore-sowidesclt|Sovidur]], the independent herding tribes of the steppe and the sand, own its wells a few days at a time, and each tribe sells passage over its own stretch and nothing more.
 
-**The one thing to understand first: in the Khazryn everything has an owner, and a stranger who has bought nothing is fair game.** The spring that looks empty belongs to a tribe camped two ridges away, and so does the grass your horses crop. Passage, water, guest-right and a guide are bought tribe by tribe, about thirty-five times between the March and Tānvür, and each purchase buys the protection of one tribe across one range.
+**The one thing to understand first: in the Khazryn everything has an owner, and a stranger who has bought nothing is fair game.** The spring that looks empty belongs to a tribe camped two ridges away, and so does the grass your horses crop. Passage, water, guest-right and a guide are bought tribe by tribe, about thirty-five times between the March and Tāntsou, and each purchase buys the protection of one tribe across one range.
 
 ## The Lay of the Land
 
@@ -25,18 +25,18 @@ The Sovidur name the country by ranges, the ground a tribe grazes, and each shad
 - [[place-wlqtrrgn|Völketör]], "the grass range," is the western margin below Byzaría's [[place-eastrnmrch|Eastern March]], green for six weeks in spring and dust by midsummer. Its tribes are the most practiced with strangers: one who comes without passage is stripped and sent back west, and killed only if he fights.
 - [[place-hskrrgn|Khoshiqor]], "the sand range," is the heart: sand seas round a dead lake basin, wells three to five days apart, and the market-camp of [[place-qisomrktcmp|Qiiso]] in the middle.
 - [[place-dkrqrrgn|Diqraqor]], "the stone range," is a black plateau of mesas and ravines whose poor tribes escort caravans when they are not raiding them.
-- [[place-idwkrrgn|Idvaqor]], "the east range," climbs through stone desert to cold high steppe before Tānvür's passes, with the longest stages and the hardest bargain on the road.
+- [[place-idwkrrgn|Idvaqor]], "the east range," climbs through stone desert to cold high steppe before Tāntsou's passes, with the longest stages and the hardest bargain on the road.
 - [[place-swoasisbelt|Tellumel]] is the irrigated strip at the foot of the mountains, and [[place-gwtkrrgn|Ghotaqor]], "the forest range," fills the north.
 
 Snowmelt feeds only the Tellumel; deep wells cut by a vanished people carry the road, and hundreds of small owned springs carry everyone else. Sandstorms bury a camp in an hour in late spring and cold winds close the north in autumn, so the road runs in spring and autumn only.
 
-## The Road to Tānvür
+## The Road to Tāntsou
 
 > At [[place-yemokwell|Yemök]], thirty days out, tamarisks stand over a stone trough long enough for forty camels. The riders who brought you squat on one side of it and the riders of the sands on the other, and between them the master lays out his string of tokens, tallies of cord and clay each cut with a tribe's sign. A rider of the sands turns each one over and asks a question about it. Then both sets of riders lay their hands on the well-head stone and swear that the caravan came through whole, and the master pays again.
 
 Caravans leave the March at the spring equinox or at the end of summer, two fleets a year each way. A loaded string makes 20 to 25 miles a day, marching before dawn and halting in the heat, and the crossing takes 125 to 135 days: 115 for a master who finds every rider waiting, 150 for one who must wait out a sandstorm or go round a blood land. A courier with remounts crosses in about 45 days, at a price only a court pays.
 
-No cart crosses. Oxen drink every day and the wells are days apart, sand swallows a wheel, salt crust breaks an axle, and there is no timber for a repair. So the cargo is light and dear: silk, porcelain, tea, jade, spices and medicines west, silver, gold, amber, coral, glass and horses east. Silk bought for a hundred weights of silver at the Tānvüri customs-house sells for four to six hundred at [[affiliation-karvashion|Karvashion]], and the difference pays the tribes, the riders and the losses, about one string in eight. The sea is worse, with pirates off Tānvür, the hard passage round Vedyara and the Gar-Aû's cut beyond it.
+No cart crosses. Oxen drink every day and the wells are days apart, sand swallows a wheel, salt crust breaks an axle, and there is no timber for a repair. So the cargo is light and dear: silk, porcelain, tea, jade, spices and medicines west, silver, gold, amber, coral, glass and horses east. Silk bought for a hundred weights of silver at the Tāntsou customs-house sells for four to six hundred at [[affiliation-karvashion|Karvashion]], and the difference pays the tribes, the riders and the losses, about one string in eight. The sea is worse, with pirates off Tāntsou, the hard passage round Vedyara and the Gar-Aû's cut beyond it.
 
 Each tribe sells three things: water at its named wells and nowhere else; a sovid (rider), who travels with the caravan and answers for it with his life; and the tribe's word, a promise of restitution if its own people rob you and of a feud on your behalf if outsiders do. Passage buys vengeance, not safety, so every caravan travels heavily armed. A master's real asset is his list of agreements: which dovaq he has paid, which rider is whose cousin, which ranges are at feud this year.
 

@@ -270,7 +270,7 @@ The forge-yard gate is open, and the heat that comes out of it is too much for a
 
 # Dossier {#dossier}
 
-The Emberhound is a fire elemental in the shape of a great hound: a spirit of the fire-aspect manifested in the material world as a body of living flame and coal, eight to ten feet long, which thinks, hunts and guards. Emberhounds are drawn to fire, to forges and to places where the boundary with the spirit realm is thin, and they are often bound to a place by someone who knows how. One lies at the gate of a swordsmith's forge on one of the islands of [[place-jurthatrgn|Jürthāt]], where the Jürthāti make blades that are among the finest in Thalorna, and it has guarded that forge for generations. Like every elemental, it can be destroyed in the material world and it comes back.
+The Emberhound is a fire elemental in the shape of a great hound: a spirit of the fire-aspect manifested in the material world as a body of living flame and coal, eight to ten feet long, which thinks, hunts and guards. Emberhounds are drawn to fire, to forges and to places where the boundary with the spirit realm is thin, and they are often bound to a place by someone who knows how. One lies at the gate of a swordsmith's forge on one of the islands of [[place-jenchairgn|Jénchài]], where the Jénchài make blades that are among the finest in Thalorna, and it has guarded that forge for generations. Like every elemental, it can be destroyed in the material world and it comes back.
 
 ## Presentation
 
@@ -278,7 +278,7 @@ An emberhound has the shape of a large, lean, deep-chested hound, but its body i
 
 ## In the Land
 
-The Jürthāti islands are volcanic, and fire is never far from anything there. The emberhound is bound to a single forge-yard on one of the Nine: a famous swordsmith's lineage keeps the forge, and the hound keeps the gate. It lies across the threshold by day and walks the yard and the lineage's charcoal-stores by night, and it does not leave the forge's ground. It needs fuel, and the forge feeds it: charcoal, offcuts of iron, and the slag of every heat. Wild emberhounds, unbound, are met near the islands' volcanoes and in burned-over forests, and a wild one wanders, hunting whatever it can burn.
+The Jénchài islands are volcanic, and fire is never far from anything there. The emberhound is bound to a single forge-yard on one of the Nine: a famous swordsmith's lineage keeps the forge, and the hound keeps the gate. It lies across the threshold by day and walks the yard and the lineage's charcoal-stores by night, and it does not leave the forge's ground. It needs fuel, and the forge feeds it: charcoal, offcuts of iron, and the slag of every heat. Wild emberhounds, unbound, are met near the islands' volcanoes and in burned-over forests, and a wild one wanders, hunting whatever it can burn.
 
 ## Key Behaviors
 
@@ -286,7 +286,7 @@ An emberhound is not mindless. It thinks, hunts, remembers, and understands tact
 
 ## What the Swordsmiths Do
 
-The lineage that keeps the forge says its founder bound the hound to the gate with the help of a [[lore-venduk|Vëndük]] in a great lord's service, one of the sorcerers who on the islands serve the lords as retainers; the binding is renewed by each master of the forge, with a rite and a payment the lineage does not discuss. Apprentices are introduced to the hound on their first day, by name, and are not burned. Customers wait outside the gate until a master walks out to them. The lineage's blades are quenched, they say, in water the hound has breathed on, and no one has ever stolen one. A lord's retainers who came to take the forge in a feud did not get past the gate, and the lord, a man who prized refinement, had a poem written about it instead of trying again.
+The lineage that keeps the forge says its founder bound the hound to the gate with the help of a [[lore-wanduo|Wánduo]] in a great lord's service, one of the sorcerers who on the islands serve the lords as retainers; the binding is renewed by each master of the forge, with a rite and a payment the lineage does not discuss. Apprentices are introduced to the hound on their first day, by name, and are not burned. Customers wait outside the gate until a master walks out to them. The lineage's blades are quenched, they say, in water the hound has breathed on, and no one has ever stolen one. A lord's retainers who came to take the forge in a feud did not get past the gate, and the lord, a man who prized refinement, had a poem written about it instead of trying again.
 
 ## Signs
 

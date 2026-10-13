@@ -306,16 +306,22 @@ export function judge({
  *
  * @param {string} form - The form.
  * @param {ReturnType<typeof loadEarth>} earth - The lists.
- * @param {{gloss?: string, sources?: string[], borrows?: boolean}} [coined] - The
- *   form's gloss, the source languages of its tongue, and whether its lexicon
- *   borrows from them.
+ * @param {{gloss?: string, sources?: string[], borrows?: boolean, minLength?: number}} [coined] - The
+ *   form's gloss, the source languages of its tongue, whether its lexicon
+ *   borrows from them, and the shortest normalized form compared with the
+ *   whole-word lists (three letters unless a lexicon of short syllables says
+ *   otherwise).
  * @returns {{severity: "error"|"warning", message: string}[]} One per match.
  */
-export function earthHits(form, earth, { gloss = "", sources = [], borrows = false } = {}) {
+export function earthHits(
+    form,
+    earth,
+    { gloss = "", sources = [], borrows = false, minLength = 3 } = {},
+) {
     const out = [];
     const n = normalize(form);
     if (!n) return out;
-    if (n.length >= 3) {
+    if (n.length >= minLength) {
         for (const [list, entries] of earth.lists) {
             if (!entries.has(n)) continue;
             const { severity, reason } = judge({

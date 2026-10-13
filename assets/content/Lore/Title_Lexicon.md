@@ -63,8 +63,8 @@ WITH peoples AS (
       WHEN n.file.folder LIKE 'Regions/Ankaris/Midhalion/Vylaria%'   THEN 'Vylarian'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Dunhara%'             THEN 'Dunhari'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Khazryn%'             THEN 'Khazryn'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Tanvur%'              THEN 'Tanvuri'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Jurthat%'             THEN 'Jurthat'
+      WHEN n.file.folder LIKE 'Regions/Ankaris/Tantsou%'             THEN 'Tāntsou'
+      WHEN n.file.folder LIKE 'Regions/Ankaris/Jenchai%'             THEN 'Jürthāti'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Elavendre%'  THEN 'Elavendri'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Aelwyth%'    THEN 'Aelwythan'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Tarvena%'    THEN 'Tarvenan'
@@ -151,8 +151,8 @@ WITH peoples AS (
       WHEN n.file.folder LIKE 'Regions/Ankaris/Midhalion/Vylaria%'   THEN 'Vylarian'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Dunhara%'             THEN 'Dunhari'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Khazryn%'             THEN 'Khazryn'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Tanvur%'              THEN 'Tanvuri'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Jurthat%'             THEN 'Jurthat'
+      WHEN n.file.folder LIKE 'Regions/Ankaris/Tantsou%'             THEN 'Tāntsou'
+      WHEN n.file.folder LIKE 'Regions/Ankaris/Jenchai%'             THEN 'Jürthāti'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Elavendre%'  THEN 'Elavendri'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Aelwyth%'    THEN 'Aelwythan'
       WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Tarvena%'    THEN 'Tarvenan'
@@ -187,7 +187,7 @@ A glossed word appears in a dozen rows—`Bondservant`, `Chieftain`, `Elder`,
 of those peoples uses at home. Read those rows as a statement about the account,
 not about the people.
 
-**A word standing alone is worth attention.** `Níding`, `Atimos`, `Nützōk` and
+**A word standing alone is worth attention.** `Níding`, `Atimos`, `Nòutsou` and
 `Severed` all name the man set outside the law, and each carries its people's
 particular idea of what that means—thrown out of the kindred, struck from the
 citizen roll, unnamed, or cut away. The word is the argument.

@@ -16,9 +16,9 @@ The walls are the first thing, because they are not broken. A wall of mud-brick 
 
 ## How It Was Made
 
-About 548 AF the third of the great unions was raised, and its orqun rode south down the spur in the week of the autumn market. Qiimod was full: Tellumi horse-dealers, Vedyari spice factors, a Byzarian wine-agent, Tānvüri silk-brokers, a hundred Sovidur herdsmen come to sell. The gate stood open for the fair. By nightfall everyone in the walls was dead, and the host rode on at dawn with the stock and left the people where they lay in the square, because a town's dead are not the riders' dead and the riders had a road to take.
+About 548 AF the third of the great unions was raised, and its orqun rode south down the spur in the week of the autumn market. Qiimod was full: Tellumi horse-dealers, Vedyari spice factors, a Byzarian wine-agent, Tāntsou silk-brokers, a hundred Sovidur herdsmen come to sell. The gate stood open for the fair. By nightfall everyone in the walls was dead, and the host rode on at dawn with the stock and left the people where they lay in the square, because a town's dead are not the riders' dead and the riders had a road to take.
 
-Each of the dead belonged to a people with a rite of its own, and none of those rites was performed. The Tellumi had no Dēlkoshekh, the Vedyari no conch, the Tānvüri no ancestor-shrine, and the Sovidur among them were not laid out and not named. A great many people died at once without any one of the ways home.
+Each of the dead belonged to a people with a rite of its own, and none of those rites was performed. The Tellumi had no Dēlkoshekh, the Vedyari no conch, the Tāntsou no ancestor-shrine, and the Sovidur among them were not laid out and not named. A great many people died at once without any one of the ways home.
 
 ## What It Is Like
 

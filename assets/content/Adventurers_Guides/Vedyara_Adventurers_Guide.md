@@ -18,7 +18,7 @@ This is one entrance to [[place-vedyarargn|Vedyara]]. Follow the rivers south an
 
 ## Choose a Road
 
-The [[place-graznmntns|Grazian Mountains]] wall off the north. In [[place-vindhyalayaland|Shikharālaya]], a caravan needs a pass guide and must answer to the fortress that collects the toll; beyond the crossings lie the [[place-khzryndsrtrgn|Khazryn]] and [[place-tanvuregin|Tānvür]]. Around the wall's western end, the [[place-marchroad|march road]] reaches [[place-bhumipalaland|Bhūmipāla]] and [[place-dunharargn|Dunhara]] without a mountain pass. Its wells and armed companies make the question of who may travel together as important as the price of a load.
+The [[place-graznmntns|Grazian Mountains]] wall off the north. In [[place-vindhyalayaland|Shikharālaya]], a caravan needs a pass guide and must answer to the fortress that collects the toll; beyond the crossings lie the [[place-khzryndsrtrgn|Khazryn]] and [[place-tantsouregin|Tāntsou]]. Around the wall's western end, the [[place-marchroad|march road]] reaches [[place-bhumipalaland|Bhūmipāla]] and [[place-dunharargn|Dunhara]] without a mountain pass. Its wells and armed companies make the question of who may travel together as important as the price of a load.
 
 Follow the rivers into [[place-rajapurjnpd|the central plains]] and a village's water channel can bring several households before a temple assembly. [[place-rajapur|Rājapur]] is a good place to hear how such an assembly can govern without a king. Downriver, [[place-chandrapurland|Chandrapur's country]] turns stone into gems and timber into ships; [[place-vyalendraland|Vyālendra's]] shrenī houses turn cotton into cloth. A commission, a disputed shipment, or a place in a workshop can carry a party between the two coasts.
 
@@ -69,7 +69,7 @@ WHERE type = 'place'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-You can cross Vedyara by riverboat with pilgrims, climb toward a pass shrine with a local guide, or join a caravan on the western [[place-marchroad|march road]]. At the coast, the monsoon decides when your ship can sail. Cotton, silk, gems, spices, medicines, worked metal, and manuscripts leave by these routes; salt, horses, and goods from beyond the mountains come back. The pass roads make the Khazryn and Tānvür trading partners; the march road connects to Dunhara; sea routes reach southern kingdoms. Vedyari scholars and Tānvüri academies exchange learning as well. A merchant letter can carry a household's payment across borders without a chest of coin; the [[lore-vdyrnbnkng|Vedyaran banking system]] explains who honors it, and why losing one matters.
+You can cross Vedyara by riverboat with pilgrims, climb toward a pass shrine with a local guide, or join a caravan on the western [[place-marchroad|march road]]. At the coast, the monsoon decides when your ship can sail. Cotton, silk, gems, spices, medicines, worked metal, and manuscripts leave by these routes; salt, horses, and goods from beyond the mountains come back. The pass roads make the Khazryn and Tāntsou trading partners; the march road connects to Dunhara; sea routes reach southern kingdoms. Vedyari scholars and Tāntsou academies exchange learning as well. A merchant letter can carry a household's payment across borders without a chest of coin; the [[lore-vdyrnbnkng|Vedyaran banking system]] explains who honors it, and why losing one matters.
 
 ## Household, Station, and Everyday Life
 

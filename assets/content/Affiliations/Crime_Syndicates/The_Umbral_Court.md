@@ -190,10 +190,10 @@ Court is what order looks like when the lawful form of it has been set aside.
 
 Every priest of Árdavon in Dúnavarre has denounced this. Not all of them have denounced it convincingly.
 
-## The Embassy to Tānvür
+## The Embassy to Tāntsou
 
 The Court holds [[being-laradhluavel|Laradh Lúavel]], Steward of the mission to the
-[[affiliation-tanvurempr|Empire of Tānvür]], through gambling debts and the embezzlement he committed
+[[affiliation-tantsouempr|Empire of Tāntsou]], through gambling debts and the embezzlement he committed
 to cover them—and through his daughter [[being-ilaraluavel|Ilara]], whose safety is his first
 concern and the Court's best instrument.
 

@@ -37,7 +37,7 @@ The same five-day remainder, carried across years instead of months, gives Thalo
 
 **Tz'uqal** is Itzani for moonlight, glossed beside _K'inix_ (Sunlight) and _Ix'ilan_ (Star) in the [[skill-kicheklng|Ki'ichek]] celestial lexicon. It also names a goddess, the [[affiliation-naliktzuqal|Dreamer in Moonlight]], whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by the [[skill-chlxplmscrpt|Chalix Tsib]] script.
 
-**Yütvëi** is a Tānvüri deity, [[affiliation-yutvei|Yütvëi Tëngyōk]], Moon Jade of the Heavenly Court, the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tānvüri woman, meaning Moon Jade.
+**Yòuwéi** is a Tāntsou deity, [[affiliation-youwei|Yòuwéi Téngyou]], Moon Jade of the Heavenly Court, the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tāntsou woman, meaning Moon Jade.
 
 The **Court of the Nine Moons**, met in the dossier of [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]], names no second moon. It is a council of the nine most powerful clans of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and "the Convergence of the Nine Moons" and "the Eclipse of the Nine Moons" describe that council's fortunes, not an event in the sky. Thalorna has one moon, without qualification, and nothing else in this corpus describes a second.
 

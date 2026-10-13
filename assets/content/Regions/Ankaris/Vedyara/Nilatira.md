@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [vyalendraland]
   population: 12000
-  routes: [{to: tanvuregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea]}]
+  routes: [{to: tantsouregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea]}]
   packFolder: vedyara
   government: vyalendra2
 ---
@@ -29,7 +29,7 @@ A bolt leaves a weaving hall in the city under the lead seal of the shrenī that
 
 ## The Galleys
 
-Most of the cloth goes west and south in [[affiliation-chandrapur|Chandrapur]]'s galleys. Vyālendra keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tānvüri junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
+Most of the cloth goes west and south in [[affiliation-chandrapur|Chandrapur]]'s galleys. Vyālendra keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tāntsou junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
 
 ## The Deck
 

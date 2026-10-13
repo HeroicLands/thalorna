@@ -18,7 +18,7 @@ The mountains around the city are riddled with mines, and the roads leading out 
 
 ## Who Governs
 
-A guild council and merchant-princes govern Órashion, and the guild masters sit on the city council with as much authority as the merchant-princes. The craft guilds control the quality and quantity of production, so a visitor who wants a blade, a cast or a commission negotiates with a guild. The guild system gives ordinary craftsmen a political voice that workers in the other League cities lack, which makes Órashion a working-class city whose politics run more egalitarian, or at least more contentious, than the merchant oligarchies of Khrýshteíkhos and Nêsthiros. A master's seal from Órashion or [[place-byzaris|Byzaris]] opens doors from [[affiliation-cnfdrtntrzlnstts|Tarûzel]] to [[affiliation-jurthatempr|Jürthāt]].
+A guild council and merchant-princes govern Órashion, and the guild masters sit on the city council with as much authority as the merchant-princes. The craft guilds control the quality and quantity of production, so a visitor who wants a blade, a cast or a commission negotiates with a guild. The guild system gives ordinary craftsmen a political voice that workers in the other League cities lack, which makes Órashion a working-class city whose politics run more egalitarian, or at least more contentious, than the merchant oligarchies of Khrýshteíkhos and Nêsthiros. A master's seal from Órashion or [[place-byzaris|Byzaris]] opens doors from [[affiliation-cnfdrtntrzlnstts|Tarûzel]] to [[affiliation-jenchaiempr|Jénchài]].
 
 ## See Also
 

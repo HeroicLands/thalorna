@@ -24,7 +24,7 @@ Who made them is not known, and no note records a claim. The Tellumi trace their
 
 ## What the People Believe
 
-The Tellumi hold the doorways as the road of their ancestors, and the old houses make pilgrimage to the one they claim. The Vedyari on the south face call the high valleys the dwellings of their gods and want no one in them. The guides say what they say to every lowlander who asks, which is that the mountains keep their own counsel and that a party in them is a party on sufferance. A Tānvüri military map of the Eastern Reach marks three places with a single character, which the garrison's own scholars translate as "do not enter."
+The Tellumi hold the doorways as the road of their ancestors, and the old houses make pilgrimage to the one they claim. The Vedyari on the south face call the high valleys the dwellings of their gods and want no one in them. The guides say what they say to every lowlander who asks, which is that the mountains keep their own counsel and that a party in them is a party on sufferance. A Tāntsou military map of the Eastern Reach marks three places with a single character, which the garrison's own scholars translate as "do not enter."
 
 ## Danger
 

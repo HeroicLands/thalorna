@@ -3,7 +3,7 @@ shortcode: ankrscntnnt
 name: {full: Ankaris Continent, aliases: []}
 type: place
 subType: region
-description: The largest continent of Thalorna—home to Vylaria, Tarûzel, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
+description: The largest continent of Thalorna—home to Vylaria, Tarûzel, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tāntsou and Jénchài.
 tags: [continent, ankaris]
 data:
   demonym: Ankarian
@@ -21,7 +21,7 @@ Ankaris is the largest continent on [[place-worldthlrn|Thalorna]] and the settin
 
 Ankaris spans every major climate zone. The far northern white areas of the map are unaligned frozen wastelands, with very few inhabitants and no government that holds the country as a whole. The [[place-nrdlndsrgn|Nordlands]] occupy the fjord-cut northwestern coast below and beside those wilds. South of the Nordlands lie the western heartlands of [[place-aureldirgn|Aurèldía]] and [[place-vrystwald|Vrystwald]]; east of them, [[place-velanthrgn|Velanthia]] runs toward the [[place-khzryndsrtrgn|Khazryn Desert]]. Along the southern side of this belt are the cities of the [[place-heladrgn|Hellád]] and the [[place-midhalnrgn|Mídhalión]] coast. The Khazryn spreads across the broad eastern interior, with [[place-dunharargn|Dunhara]] to its south. The southwestern shore faces the [[place-vylarianse|Vylarian Sea]], around whose waters the cosmopolitan Mídhalión region has formed.
 
-In the east the continent rises into a complex of mountain ranges, river basins, and coastal plains that host mainland [[place-tanvuregin|Tānvür]] and the southeastern [[place-vedyarargn|Vedyarian]] subcontinent. The unaligned [[place-graznmntns|Grazian Mountains]], the highest range in the world, separate Vedyara from Khazryn and the eastern realms. Across a strait from Tānvür lies the island empire of [[place-jurthatrgn|Jürthāt]]. The continent's western coast is broken by the great island of [[place-aelwyth|Aelwyth]], containing Aldorath and Dúnavarre, and the smaller port-island of [[affiliation-calypsa|Calypsa]], both within the Aurèldían cultural sphere.
+In the east the continent rises into a complex of mountain ranges, river basins, and coastal plains that host mainland [[place-tantsouregin|Tāntsou]] and the southeastern [[place-vedyarargn|Vedyarian]] subcontinent. The unaligned [[place-graznmntns|Grazian Mountains]], the highest range in the world, separate Vedyara from Khazryn and the eastern realms. Across a strait from Tāntsou lies the island empire of [[place-jenchairgn|Jénchài]]. The continent's western coast is broken by the great island of [[place-aelwyth|Aelwyth]], containing Aldorath and Dúnavarre, and the smaller port-island of [[affiliation-calypsa|Calypsa]], both within the Aurèldían cultural sphere.
 
 No single mountain range, river, or sea divides Ankaris in half; its geography is instead a layered mosaic, and the cultural regions it contains reflect that layering rather than any neat compass-rose partition.
 
@@ -44,9 +44,9 @@ Ankaris is overwhelmingly a human continent. The great mass of its population—
 
 Two non-human peoples hold substantial territory. The [[skill-grukarlng|Grukar]] tribes dominate the far northeast, with scattered nests in the Vrystwald forests and the highlands of neighboring regions. The goblin clans maintain their own territories in the deep Vrystwald and in the marginal lands between the settled kingdoms, though they are rarely organized at a scale that registers on Ankarian political maps.
 
-The Elder Races—the [[lore-flksinale|Sinalë]] who arrived roughly eight thousand years ago and the [[lore-flkkhazar|Khazári]] who followed two thousand years later—are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Sinalë or Khazári; most doubt they exist at all. Where they do persist, they do so in remote enclaves: Sinalëan communities in the oldest forests of Élavendre and in the imperial court of Tānvür, Khazári cities in the high faces of the eastern ranges.
+The Elder Races—the [[lore-flksinale|Sinalë]] who arrived roughly eight thousand years ago and the [[lore-flkkhazar|Khazári]] who followed two thousand years later—are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Sinalë or Khazári; most doubt they exist at all. Where they do persist, they do so in remote enclaves: Sinalëan communities in the oldest forests of Élavendre and in the imperial court of Tāntsou, Khazári cities in the high faces of the eastern ranges.
 
-Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the faith of the western heartlands and Mídhalión. The [[affiliation-asguardian|Asguardian Pantheon]] holds the north. The [[affiliation-ashanpnthn|Āsháian Pantheon]] dominates the central and southern deserts. The [[affiliation-varakpnthn|Varnaka Pantheon]] anchors Vedyara. The [[affiliation-tngvkrrklei|Celestial Order]] of Tānvür and Jürthāt stands entirely apart from the western religious world. Older still, the [[affiliation-firstgods|First Gods]] of the [[place-alndntrblnds|Áelendan]] tradition persist beneath the Aurèldían surface in certain corners of the west.
+Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the faith of the western heartlands and Mídhalión. The [[affiliation-asguardian|Asguardian Pantheon]] holds the north. The [[affiliation-ashanpnthn|Āsháian Pantheon]] dominates the central and southern deserts. The [[affiliation-varakpnthn|Varnaka Pantheon]] anchors Vedyara. The [[affiliation-tengwouronglei|Celestial Order]] of Tāntsou and Jénchài stands entirely apart from the western religious world. Older still, the [[affiliation-firstgods|First Gods]] of the [[place-alndntrblnds|Áelendan]] tradition persist beneath the Aurèldían surface in certain corners of the west.
 
 ## History
 
@@ -58,13 +58,13 @@ It is the settled opinion of human scholarship that both Elder Races observed a 
 
 Nothing about this was a gift, and nothing about it was intended as an uplift. They were building a larder. They would have done the same for any creature that could be taught to hold a plow, and the evidence suggests they took no further interest whatever in what those people subsequently became.
 
-What those people subsequently became was everything. The knowledge did not stay in the hills: it ran downhill and outward over centuries, into the great river valleys where soil and water made it explode, and the earliest human civilizations—[[affiliation-empireakhlth|Empire of Aû'Khelâthu]] on its river by about 2110 BF, [[affiliation-tanvurempr|Tānvür]] claiming a line three millennia long—were raised on a foundation nobody remembers being handed. No human record reaches within two thousand years of the event. The Khazári records presumably state it plainly, in the tone in which they state everything, and no human has ever read one.
+What those people subsequently became was everything. The knowledge did not stay in the hills: it ran downhill and outward over centuries, into the great river valleys where soil and water made it explode, and the earliest human civilizations—[[affiliation-empireakhlth|Empire of Aû'Khelâthu]] on its river by about 2110 BF, [[affiliation-tantsouempr|Tāntsou]] claiming a line three millennia long—were raised on a foundation nobody remembers being handed. No human record reaches within two thousand years of the event. The Khazári records presumably state it plainly, in the tone in which they state everything, and no human has ever read one.
 
 The surviving trace of the arrangement is the [[lore-vardain|Vardain]] of Aelwyth, who still farm for a hold and still cannot say why they were taught to.
 
 Recorded human history in the west begins with the Pelwar migrations, the founding of the early city-states of what would become Mídhalión, and eventually—around 650 BF—the establishment of the [[affiliation-vylarinmpr|Vylarian Republic]] on the Vylarian Sea. The Republic became an Empire in the year that the Vylarian reckoning still calls Year 1, and for several centuries Vylaria projected power across Mídhalión and the western continent. The current year is 720 AF, and the Empire has been in decline for generations; Tarûzel has won its independence, Provènzia and Tarvénia are long-independent successor states, and the Empire's remaining territories are beset by crises its institutions can no longer resolve.
 
-The eastern empires—Tānvür and Vedyara—kept their own reckonings and their own histories, largely unaffected by Vylarian ascendancy and equally untouched by its decline. The northern kingdoms trace their own lines of kings back into the mists of the Pelwar migrations and have their own accounts of the Founding and of the centuries since.
+The eastern empires—Tāntsou and Vedyara—kept their own reckonings and their own histories, largely unaffected by Vylarian ascendancy and equally untouched by its decline. The northern kingdoms trace their own lines of kings back into the mists of the Pelwar migrations and have their own accounts of the Founding and of the centuries since.
 
 ## Trade and External Relations
 
@@ -83,8 +83,8 @@ Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Xerathia]]: th
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—Central desert
 - [[place-dunharargn|Dunhara Region]]—Southern desert
 - [[place-vedyarargn|Vedyara Region]]—Southeastern subcontinent
-- [[place-tanvuregin|Empire of Tānvür Region]]—Eastern empire
-- [[place-jurthatrgn|Jürthāt Region]]—Eastern island empire
+- [[place-tantsouregin|Empire of Tāntsou Region]]—Eastern empire
+- [[place-jenchairgn|Jénchài Region]]—Eastern island empire
 - [[affiliation-vylarinmpr|Vylarian Empire]]—The declining western empire
 - [[place-vylarianse|Vylarian Sea]]—The southern inland sea
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—Dominant western arcane institution

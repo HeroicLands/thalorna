@@ -5,7 +5,7 @@ name:
   aliases: [Thalorna Demographics, World Population, Population of Thalorna]
 type: doc
 subType: reference
-description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 370 million, with the eastern giants Tānvür and Vedyara holding the majority of humankind."
+description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 370 million, with the eastern giants Tāntsou and Vedyara holding the majority of humankind."
 tags: [reference, demographics, worldbuilding]
 
 # terran_analog: the agrarian share matches Earth before the modern age; the eastern majority mirrors China and India holding about half of humanity in the pre-modern era; a 1M capital compares to Rome (~1M) atop Roman Italy (~12–14M).
@@ -55,12 +55,12 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 #### Ankaris—the East (the great powers)
 
-| Region                             | Population       |
-| ---------------------------------- | ---------------- |
-| [[affiliation-tanvurempr\|Tānvür]] | ~120,000,000     |
-| [[place-vedyarargn\|Vedyara]]      | ~110,000,000     |
-| [[place-jurthatrgn\|Jürthāt]]      | ~500,000         |
-| **Eastern Ankaris subtotal**       | **~230,000,000** |
+| Region                               | Population       |
+| ------------------------------------ | ---------------- |
+| [[affiliation-tantsouempr\|Tāntsou]] | ~120,000,000     |
+| [[place-vedyarargn\|Vedyara]]        | ~110,000,000     |
+| [[place-jenchairgn\|Jénchài]]        | ~500,000         |
+| **Eastern Ankaris subtotal**         | **~230,000,000** |
 
 #### Xerathia
 
@@ -105,9 +105,9 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 ### Notes and Sanity Checks
 
-**The east holds the majority of humankind.** Tānvür and Vedyara together (~230M) are roughly **62% of the world's people**. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
+**The east holds the majority of humankind.** Tāntsou and Vedyara together (~230M) are roughly **62% of the world's people**. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
 
-**Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aurèldían kingdom—but only ~6% of the world, and barely a fifth the size of Tānvür or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
+**Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aurèldían kingdom—but only ~6% of the world, and barely a fifth the size of Tāntsou or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
 
 **A 1-million capital is feedable.** [[place-orzara|Ôrzâra]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[affiliation-provnchyln|Hylen]]'s grain, [[affiliation-provincvld|Sâlkhâlon]]'s fisheries and seaborne imports, and the grain-dole run by the [[affiliation-verdanorzara|Curator of the Grain]].
 
@@ -121,5 +121,5 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the anchor polity, worked out province by province
 - [[place-orzara|Ôrzâra]]—the world's great western metropolis
-- [[affiliation-tanvurempr|Tānvür]] · [[place-vedyarargn|Vedyara]]—the eastern giants
+- [[affiliation-tantsouempr|Tāntsou]] · [[place-vedyarargn|Vedyara]]—the eastern giants
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the great Xerathian river-civilization

@@ -27,7 +27,7 @@ data:
             how: >-
               the royal family and aristocracy keep the longest sustained contact between humans and Sinalë anywhere, and the bardic colleges hold songs no human composed
             knowledge: named
-          - place: place-tanvuregin
+          - place: place-tantsouregin
             how: >-
               the enclaves inside the empire's borders hold formal standing at the imperial court and answer to the caste law that classified them
             knowledge: named

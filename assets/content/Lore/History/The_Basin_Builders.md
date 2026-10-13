@@ -63,7 +63,7 @@ The center of the [[place-khzryndsrtrgn|Khazryn]] is a basin, and for a span of 
 
 ## When
 
-Their canals and mounds are already old by 2600 BF. That is a century before the oldest document the Bureau of Records in [[affiliation-tanvurempr|Tānvür]] can date, which opens around 2500 BF and names no people and no country west of the mountains, so no archive holds a word about them. The lake fell over some five centuries, from about 2200 BF to about 1700 BF, and the people fell with it. By 1500 BF, the year the Tellumi count as their first, the basin was the sand it is today. The span runs from before 2600 BF to about 1700 BF, and every date in it is an estimate from brick, salt layers and the depth of the wells.
+Their canals and mounds are already old by 2600 BF. That is a century before the oldest document the Bureau of Records in [[affiliation-tantsouempr|Tāntsou]] can date, which opens around 2500 BF and names no people and no country west of the mountains, so no archive holds a word about them. The lake fell over some five centuries, from about 2200 BF to about 1700 BF, and the people fell with it. By 1500 BF, the year the Tellumi count as their first, the basin was the sand it is today. The span runs from before 2600 BF to about 1700 BF, and every date in it is an estimate from brick, salt layers and the depth of the wells.
 
 ## What Is Left
 

@@ -22,7 +22,7 @@ Byzaris is the foremost artisan quarter and craft hub of the [[affiliation-byzar
 
 The city is organized around guild halls and workshop complexes. The [[affiliation-hideworkerscltv|Hideworkers' Collective]] keeps one of its most prestigious chapters here, and the herds of the [[place-southrnmrch|Southern March]] send Byzaris the greater part of their leather. Ceramicists, metalworkers, jewelers and textile artisans crowd the narrow streets and compete for supremacy in their crafts, holding all the while to the fierce loyalty that marks Byzarian professional societies.
 
-The city lacks the political grandeur of [[affiliation-khryshteikhos|Khrýshteíkhos]] and the military reputation of [[affiliation-orashion|Órashion]], but its merchants command respect and considerable wealth. A master ceramicist or weaponsmith from Byzaris carries credentials that open doors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] to [[affiliation-jurthatempr|Jürthāt]].
+The city lacks the political grandeur of [[affiliation-khryshteikhos|Khrýshteíkhos]] and the military reputation of [[affiliation-orashion|Órashion]], but its merchants command respect and considerable wealth. A master ceramicist or weaponsmith from Byzaris carries credentials that open doors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] to [[affiliation-jenchaiempr|Jénchài]].
 
 ## The Council of Twelve
 

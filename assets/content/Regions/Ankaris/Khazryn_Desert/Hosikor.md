@@ -53,7 +53,7 @@ Beyond the cities there are giant camel spiders at every well, bone scorpions in
 - [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
 - [[place-yemokwell|Yemök]]—the western hand-off well
 - [[place-sowidwell|Sovid]]—the eastern hand-off well
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tānvür
+- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tāntsou
 - [[lore-bloodfield|Blood-fields]]—what the dead cities left behind
 - [[place-dkrqrrgn|Diqraqor]]—the stone uplands to the south
 - [[place-qelodwatri|Kelödvootri]]—an owned spring with a chained well

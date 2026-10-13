@@ -14,7 +14,7 @@ data:
   packFolder: vedyara
 ---
 
-**Kālashikhara**—"the black summit"—is the last great peak of [[place-estrnreach|the Eastern Reach]] before the range turns down toward [[place-tanvuregin|Tānvür]]. Its rock is dark and steep enough that snow does not hold on the upper faces, so that at the season when every other summit on the wall is white this one is not, and it can be picked out from three days' travel away in any direction.
+**Kālashikhara**—"the black summit"—is the last great peak of [[place-estrnreach|the Eastern Reach]] before the range turns down toward [[place-tantsouregin|Tāntsou]]. Its rock is dark and steep enough that snow does not hold on the upper faces, so that at the season when every other summit on the wall is white this one is not, and it can be picked out from three days' travel away in any direction.
 
 [[place-sankhadvra|Shankhadvāra]] crosses beneath it. The pass is treacherous, lightly traveled and, for four centuries now, garrisoned: [[place-sanghafort|the Sangha-fort]] sits on the col on the Vedyari side, the one standing garrison the temple-republics maintain anywhere.
 

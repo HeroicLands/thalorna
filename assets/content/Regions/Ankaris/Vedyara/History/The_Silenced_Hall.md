@@ -38,7 +38,7 @@ The roll at [[place-sangama|Sangama]] carries every janapada that has collapsed 
 
 ## The Example
 
-About 320 AF an adventurer with Tānvüri backing brought a few hundred picked men over the conch-door ([[lore-conchdoor|the Conch-Door Incursion]]) and went through the eastern janapadas one at a time. Most of them submitted. A janapada fields a few hundred militia at short notice, and none of them could field enough alone.
+About 320 AF an adventurer with Tāntsou backing brought a few hundred picked men over the conch-door ([[lore-conchdoor|the Conch-Door Incursion]]) and went through the eastern janapadas one at a time. Most of them submitted. A janapada fields a few hundred militia at short notice, and none of them could field enough alone.
 
 Thirnugrāma, the village of the bell, in the hill country below the conch-door road, would not. Its sabhā met in its temple hall to refuse his terms. He shut the doors on it while it sat and fired the roof.
 

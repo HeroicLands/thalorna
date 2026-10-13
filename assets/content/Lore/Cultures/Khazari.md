@@ -80,7 +80,7 @@ Before any cut, a worker listens. She taps the stone and hears how it rings, loo
 
 Mining is central to Khazári life. Ore and minerals are necessary and desirable, and freeing them from the stone is honorable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
 
-Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazári drive long tunnels without timber or masonry supports, and a narvavutám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazári engineers lay out for [[affiliation-tanvurempr|Tānvür]] follow the rock in the same way and need no timber.
+Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazári drive long tunnels without timber or masonry supports, and a narvavutám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazári engineers lay out for [[affiliation-tantsouempr|Tāntsou]] follow the rock in the same way and need no timber.
 
 ## Years of Listening
 
@@ -212,7 +212,7 @@ A hold hides nothing on its face, and its inner life runs through passages a vis
 
 The Vardain show the rule at the scale of a people. They have farmed for Vorgald for thousands of years and see its engineers at work in their valleys every day, and they are not invited in. When the plain fell, the Khazári admitted the refugees to the valleys beneath the hold; that admission, and the protection that goes with it, is the largest thing the Khazári have done for humans.
 
-Tānvür is the one human realm with a lasting relationship with the Khazári. There they hold imperial rank by function, as artisans, scholars, officers and a very few nobles, and they keep their own life inside their enclaves; see [[lore-elderraces|Elder Races]].
+Tāntsou is the one human realm with a lasting relationship with the Khazári. There they hold imperial rank by function, as artisans, scholars, officers and a very few nobles, and they keep their own life inside their enclaves; see [[lore-elderraces|Elder Races]].
 
 ## Held in Service
 
@@ -230,7 +230,7 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazá
 - [[doc-khazarilex|Khazári Lexicon]]—the words for stone, cave and craft
 - [[place-vorgald|Vorgald]]—the westernmost hold
 - [[place-vardainvalleys|The Vardain Valleys]]—the farmers beneath it
-- [[lore-elderraces|Elder Races]]—the Khazári in Tānvür
+- [[lore-elderraces|Elder Races]]—the Khazári in Tāntsou
 - [[lore-khazarturn|The Fall of Khazártúrn]]—the city of the seven towers
 - [[lore-goddreams|The God of Dreams]]—Luváth
 

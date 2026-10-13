@@ -87,7 +87,7 @@ Succession is hereditary in name and qualified by the ting in fact. A king whose
 
 ## Trade and the Wider World
 
-The Nordlands are woven into Ankaris's trade whatever their reputation. Nordmen longships reach as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies from [[place-aelwyth|Aelwyth]] to [[place-tanvuregin|Tānvür]]. The region exports amber, furs, whale ivory, iron, smoked fish and slaves, and imports wine, fine cloth, grain, silver and the luxuries only a warmer country grows. Commerce in coin runs on [[lore-vylrncrncy|Vylarian money]], since the north strikes none of its own; larger dealings run on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]].
+The Nordlands are woven into Ankaris's trade whatever their reputation. Nordmen longships reach as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies from [[place-aelwyth|Aelwyth]] to [[place-tantsouregin|Tāntsou]]. The region exports amber, furs, whale ivory, iron, smoked fish and slaves, and imports wine, fine cloth, grain, silver and the luxuries only a warmer country grows. Commerce in coin runs on [[lore-vylrncrncy|Vylarian money]], since the north strikes none of its own; larger dealings run on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]].
 
 Aelwyth is the closest trading partner. The two face each other across some three hundred miles of open sea, and they share a family of gods through the Aelwythan syncretism of the Twelve and the Asguardians, and centuries of intermarriage, feud and quiet alliance.
 

@@ -13,17 +13,17 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 
 ## Names Across Cultures
 
-| Culture                                         | Name                                       | Gender                  | Aspect Emphasized                                                                                |
-| ----------------------------------------------- | ------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------ |
-| [[lore-flksinale\|Sinalë]]                      | **Aulveira**                               | Neither / beyond gender | Light, dreams, the living world                                                                  |
-| [[lore-flkkhazar\|Khazári]]                     | **Luváth**                                 | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
-| [[affiliation-asguardian\|Asguardian Pantheon]] | [[affiliation-bjartr\|Bjartr]]             | Male                    | Elder races, dreams, light                                                                       |
-| [[affiliation-arldnpnthn\|Aurèldían]]           | [[affiliation-zunelas\|Zûnêlâs]]           | Female                  | Dreams, celestial visions                                                                        |
-| [[affiliation-itzanpnthn\|Itzáni]]              | [[affiliation-itzanpnthn\|Nal'ik Tz'uqal]] | Female                  | Dreams, visions, prophecy, the moon                                                              |
-| Khelâthi                                        | Nehle'ât                                   | Female                  | Dreams, sleep, protective visions                                                                |
-| [[affiliation-tngvkrrklei\|Tëngvōk Rūrk Lëi]]   | Mëi Sëi                                    | —                       | Dreams, visions, omens                                                                           |
-| [[affiliation-ashanpnthn\|Āsháian]]             | Zárványä                                   | Female                  | Dreams, celestial visions, omens                                                                 |
-| [[affiliation-varakpnthn\|Varnaka]]             | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadevas (the Dreaming Host), divine servants of this deity |
+| Culture                                          | Name                                       | Gender                  | Aspect Emphasized                                                                                |
+| ------------------------------------------------ | ------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------------------ |
+| [[lore-flksinale\|Sinalë]]                       | **Aulveira**                               | Neither / beyond gender | Light, dreams, the living world                                                                  |
+| [[lore-flkkhazar\|Khazári]]                      | **Luváth**                                 | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
+| [[affiliation-asguardian\|Asguardian Pantheon]]  | [[affiliation-bjartr\|Bjartr]]             | Male                    | Elder races, dreams, light                                                                       |
+| [[affiliation-arldnpnthn\|Aurèldían]]            | [[affiliation-zunelas\|Zûnêlâs]]           | Female                  | Dreams, celestial visions                                                                        |
+| [[affiliation-itzanpnthn\|Itzáni]]               | [[affiliation-itzanpnthn\|Nal'ik Tz'uqal]] | Female                  | Dreams, visions, prophecy, the moon                                                              |
+| Khelâthi                                         | Nehle'ât                                   | Female                  | Dreams, sleep, protective visions                                                                |
+| [[affiliation-tengwouronglei\|Téngwou Rong Léi]] | Méi Séi                                    | —                       | Dreams, visions, omens                                                                           |
+| [[affiliation-ashanpnthn\|Āsháian]]              | Zárványä                                   | Female                  | Dreams, celestial visions, omens                                                                 |
+| [[affiliation-varakpnthn\|Varnaka]]              | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadevas (the Dreaming Host), divine servants of this deity |
 
 The Sinalë and Khazári both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinalë name, **Aulveira**, evokes radiance and the living dream; the Khazári name, **Luváth**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
 
@@ -58,4 +58,4 @@ The notable exception is the [[affiliation-ordoarcanis|Ordo Arcanis]]. Practitio
 
 Regardless of origin, the human faiths are genuine expressions of a real divine connection—the deity does answer human prayers and send dreams to human worshippers. The relationship is simply younger, shallower, and filtered through cultural assumptions that the elder races find alternately amusing and baffling.
 
-For details on the human traditions, see [[affiliation-bjartr|Faith of Bjartr]] (Asguardian), [[affiliation-zunelas|Faith of Zûnêlâs]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Nehle'ât (Khelâthi), Mëi Sëi (Tānvüri), Zárványä (Āsháian), and the Svapnadevas (Varnaka—who revere the deity's servants rather than the deity itself).
+For details on the human traditions, see [[affiliation-bjartr|Faith of Bjartr]] (Asguardian), [[affiliation-zunelas|Faith of Zûnêlâs]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Nehle'ât (Khelâthi), Méi Séi (Tāntsou), Zárványä (Āsháian), and the Svapnadevas (Varnaka—who revere the deity's servants rather than the deity itself).

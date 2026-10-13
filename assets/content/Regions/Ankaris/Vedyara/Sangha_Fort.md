@@ -19,7 +19,7 @@ The **Sangha-fort** stands on the Vedyari col of [[place-sankhadvra|Shankhadvār
 
 ## Why It Is There
 
-Four centuries ago, in the generation [[lore-hndrdbnnrs|a steppe host]] overran the western march, an adventurer with Tānvüri backing brought a few hundred men through the conch-door into the eastern janapadas. That was [[lore-conchdoor|the Conch-Door Incursion]]. The temple-republics, which have no army and no mechanism for raising one, raised one, and put him back out through the door he had come in by.
+Four centuries ago, in the generation [[lore-hndrdbnnrs|a steppe host]] overran the western march, an adventurer with Tāntsou backing brought a few hundred men through the conch-door into the eastern janapadas. That was [[lore-conchdoor|the Conch-Door Incursion]]. The temple-republics, which have no army and no mechanism for raising one, raised one, and put him back out through the door he had come in by.
 
 They have never raised another. They keep the fort instead, garrisoned, provisioned and manned in rotation by the janapadas of the Bhārava circuit, so that the precedent survives in a building and nobody has to argue it. The [[affiliation-janpdsvdyr|Mahā-Sangha]] is jealous of the place out of all proportion to its military value, which is nearly nil. The fort is the standing answer to the question of whether the confederation can act as one, and it answers yes without anyone saying so at a Mela.
 

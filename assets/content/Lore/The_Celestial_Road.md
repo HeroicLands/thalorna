@@ -1,20 +1,20 @@
 ---
 shortcode: celestialroad
-name: {full: The Celestial Road, aliases: [Celestial Roads, The Caravan Road to Tānvür]}
+name: {full: The Celestial Road, aliases: [Celestial Roads, The Caravan Road to Tāntsou]}
 type: lore
 subType: economy
-description: "The camel road across the Khazryn from Byzaría to Tānvür—about 2,500 miles and more than four months, sold a stretch at a time by the independent tribes whose wells it runs between."
+description: "The camel road across the Khazryn from Byzaría to Tāntsou—about 2,500 miles and more than four months, sold a stretch at a time by the independent tribes whose wells it runs between."
 tags: [reference, trade, economy]
 data: {packFolder: settinglore}
 ---
 
-A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the Tānvüri customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
+A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the Tāntsou customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
 
 This note sets out the road: its route and length, the wells and the hand-offs, the beasts, the goods, what each stretch costs, who guarantees what, and why merchants pay all of it instead of going by sea.
 
 ## The Route
 
-The road runs about 2,500 miles from the last fortified caravanserai of Byzaría's [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on [[place-tanvuregin|Tānvür]]'s western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazryn]]'s zones.
+The road runs about 2,500 miles from the last fortified caravanserai of Byzaría's [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on [[place-tantsouregin|Tāntsou]]'s western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazryn]]'s zones.
 
 | Stretch                      | Miles          | Days      | The ground                                                              |
 | ---------------------------- | -------------- | --------- | ----------------------------------------------------------------------- |
@@ -39,8 +39,8 @@ East-bound; the road west reverses them.
 | 1,150          | 66       | [[place-qisomrktcmp\|Qiiso]]                        | the central market-camp; most goods change hands; the costliest water |
 | 1,150 to 1,700 | 66 to 96 | the Central Sands                                   | wells three to five days apart                                        |
 | 1,700          | 96       | [[place-sowidwell\|Sovid]]                          | the second hand-off well                                              |
-| 2,150          | 115      | the first Tānvüri patrols                           | an escort of the Empire's riders for the last stretch                 |
-| 2,500          | 130      | the western pass of Tānvür                          | the garrison and customs-house; the Empire's claim begins             |
+| 2,150          | 115      | the first Tāntsou patrols                           | an escort of the Empire's riders for the last stretch                 |
+| 2,500          | 130      | the western pass of Tāntsou                         | the garrison and customs-house; the Empire's claim begins             |
 
 **Branches.** A northern branch comes down from Velanthia's eastern reach and joins the road before Qiiso, carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to Amradad and south to the pass-towns of [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]].
 
@@ -48,7 +48,7 @@ East-bound; the road west reverses them.
 
 The two-humped camel carries the road. It takes cold and heat, goes five to seven days between wells with a full load, and eats what grows. The one-humped camel works the Tellumel and the Dunhari side. Horses carry the riders and escort, and are driven east as goods, since a horse walks itself to market. Mules and yaks work only the Grazian passes.
 
-**No wheeled vehicle crosses**, for four reasons that any caravan-master gives. Draught oxen drink every day, and the wells are days apart. The sand seas swallow a wheel, and the gravel and the salt crust break an axle. There is no timber for a repair between the March and Tānvür. And the wells are dug, roofed and priced for camels. The March's paved road stops at the pass, and so does every cart.
+**No wheeled vehicle crosses**, for four reasons that any caravan-master gives. Draught oxen drink every day, and the wells are days apart. The sand seas swallow a wheel, and the gravel and the salt crust break an axle. There is no timber for a repair between the March and Tāntsou. And the wells are dug, roofed and priced for camels. The March's paved road stops at the pass, and so does every cart.
 
 ## Goods
 
@@ -60,7 +60,7 @@ Silver is counted in weights, and these figures give a scale for one camel-load 
 
 | Item                                                         | Weights of silver |
 | ------------------------------------------------------------ | ----------------- |
-| bought at the Tānvüri customs-house                          | 100               |
+| bought at the Tāntsou customs-house                          | 100               |
 | passage through the tribes of Idvaqor                        | 10                |
 | passage through the tribes of Khoshiqor, the longest stretch | 17                |
 | passage through the tribes of Völketör                       | 10                |
@@ -74,7 +74,7 @@ That margin is what makes the goods dear and the tribes rich. It also explains w
 
 ## Passage, Tribe by Tribe
 
-No one sells the road whole. Each tribe sells its own stretch, a few days to a week or more of wells, and the master buys from every one: about thirty-five tribes between the March and Tānvür. A tribe's price covers three things.
+No one sells the road whole. Each tribe sells its own stretch, a few days to a week or more of wells, and the master buys from every one: about thirty-five tribes between the March and Tāntsou. A tribe's price covers three things.
 
 - **Water.** The right to draw at the tribe's named wells and nowhere else.
 - **A rider.** A sovid of the tribe who joins the caravan, speaks for it to every herdsman he meets, and answers for it with his own life.
@@ -103,12 +103,12 @@ The road runs in spring and autumn. Summer kills beasts in the central sands, an
 
 ## Why Overland
 
-A merchant in Tānvür can send his silk by sea, and few do. Every leg of the sea route is worse than the one before it.
+A merchant in Tāntsou can send his silk by sea, and few do. Every leg of the sea route is worse than the one before it.
 
-1. **Pirates.** Strongholds on the islands between Tānvür and Vedyara harass the shipping of southern Tānvür, and make the first leg perilous.
+1. **Pirates.** Strongholds on the islands between Tāntsou and Vedyara harass the shipping of southern Tāntsou, and make the first leg perilous.
 2. **Vedyara.** Rounding the subcontinent is hard, and its passes are no road west: each of the six carries three or four caravans a year, and the guides keep half the value.
 3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses Dunhara, desert and tribal land, or goes through Aû'Khelâthu, where the [[lore-garauu|Gar-Aû]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
-4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tānvür to [[place-midhalnrgn|Mídhalión]] must sail round the whole of [[place-xerathia|Xerathia]], the longest voyage in the world.
+4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tāntsou to [[place-midhalnrgn|Mídhalión]] must sail round the whole of [[place-xerathia|Xerathia]], the longest voyage in the world.
 
 The sea passage costs as many months as the camels and loses a larger share of what it carries. The Khazryn road is shorter, its losses are known, and every toll on it can be reckoned before the caravan leaves the March.
 
@@ -127,6 +127,6 @@ The sea passage costs as many months as the camels and loses a larger share of w
 - [[place-yemokwell|Yemök]]—the western hand-off well
 - [[place-sowidwell|Sovid]]—the eastern hand-off well
 - [[place-eastrnmrch|The Eastern March]]—the League's frontier at the road's western end
-- [[place-tanvuregin|Tānvür Region]]—the road's eastern terminus
+- [[place-tantsouregin|Tāntsou Region]]—the road's eastern terminus
 - [[lore-kinhalcrdt|Kin and Hall Credit]]—how a master pays on his house's name
 - [[lore-roadnights|The Nights of the Road]]—the tales a master tells a factor, halt by halt

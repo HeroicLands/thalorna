@@ -80,7 +80,7 @@ The League's foreign policy is neutrality. The [[affiliation-vylarinmpr|Vylarian
 
 ## Guild, Seal and Name
 
-A Byzarian is placed by his trade before his family and long before his city. He introduces himself by craft, names his master, and expects the same of you; a person who cannot name a guild is a person nobody knows how to deal with. Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from Byzaris or Órashion opens doors from Tarûzel to [[affiliation-jurthatempr|Jürthāt]], because the guild behind it will ruin a member who discredits it faster than any magistrate could.
+A Byzarian is placed by his trade before his family and long before his city. He introduces himself by craft, names his master, and expects the same of you; a person who cannot name a guild is a person nobody knows how to deal with. Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from Byzaris or Órashion opens doors from Tarûzel to [[affiliation-jenchaiempr|Jénchài]], because the guild behind it will ruin a member who discredits it faster than any magistrate could.
 
 Apprenticeship is long and is understood as a kind of adoption. The master owes the apprentice training, maintenance and a character; the apprentice owes obedience and, afterward, a lifetime's loyalty to the charter. Breaking that bond is the one social offense with no recovery.
 

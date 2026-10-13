@@ -219,7 +219,7 @@ The harbor water is flat and green, and a gray fin stands up out of it a hundred
 
 # Dossier {#dossier}
 
-The Common Shark is the shark of the warm and temperate seas, ten to fifteen feet long and three to five hundred pounds. It cruises the Vylarian Sea, the island channels of [[place-taruzelrgn|Tarûzel]], the waters off [[place-jurthatrgn|Jürthāt]] and the fjord coast of the [[place-nrdlndsrgn|Nordlands]], and comes into harbors and shallows for offal and blood. A shark finds blood in the water from miles away, and a swimmer is treated as food.
+The Common Shark is the shark of the warm and temperate seas, ten to fifteen feet long and three to five hundred pounds. It cruises the Vylarian Sea, the island channels of [[place-taruzelrgn|Tarûzel]], the waters off [[place-jenchairgn|Jénchài]] and the fjord coast of the [[place-nrdlndsrgn|Nordlands]], and comes into harbors and shallows for offal and blood. A shark finds blood in the water from miles away, and a swimmer is treated as food.
 
 ## Presentation
 
@@ -227,7 +227,7 @@ A torpedo-shaped fish, slate gray above and white below, with rough skin. The ta
 
 ## In the Land
 
-Sharks cruise the warm and temperate seas, from the Vylarian Sea and the island channels of [[place-taruzelrgn|Tarûzel]] to the waters off [[place-jurthatrgn|Jürthāt]] and the cold fjord coast of the [[place-nrdlndsrgn|Nordlands]], where they come in with the summer herring. They follow the fish runs, the whale carcasses and the offal from the quays, and they come into shallow water to feed at dusk. A shark is met more often in a harbor mouth than in open water.
+Sharks cruise the warm and temperate seas, from the Vylarian Sea and the island channels of [[place-taruzelrgn|Tarûzel]] to the waters off [[place-jenchairgn|Jénchài]] and the cold fjord coast of the [[place-nrdlndsrgn|Nordlands]], where they come in with the summer herring. They follow the fish runs, the whale carcasses and the offal from the quays, and they come into shallow water to feed at dusk. A shark is met more often in a harbor mouth than in open water.
 
 ## Key Behaviors
 

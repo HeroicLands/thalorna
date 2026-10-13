@@ -57,7 +57,7 @@ The era left the green oasis nobody camps at, the banner ground at the foot of t
 
 ### The Silent Market (SM), from about 548 AF
 
-The third orqun rode down the spur in the week of the autumn market. The caravan town of [[place-qimod|Qiimod]] was full, its gate open for the fair, and by nightfall everyone in its walls was dead. The union overran the eastern fringe of Velanthia and never threatened Tānvür seriously. It broke up on its orqun's death like the two before it.
+The third orqun rode down the spur in the week of the autumn market. The caravan town of [[place-qimod|Qiimod]] was full, its gate open for the fair, and by nightfall everyone in its walls was dead. The union overran the eastern fringe of Velanthia and never threatened Tāntsou seriously. It broke up on its orqun's death like the two before it.
 
 The era left a town with its walls whole and nobody in it, a silence that kills anyone who sleeps there and a silence that the Shirzâri sell water beside. It is the current era, and the tribes expect a fourth union and cannot say when it will come. Its history is told in [[lore-thrdorqwnq|The Third Orqunoq]].
 

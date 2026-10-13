@@ -66,7 +66,7 @@ The **Madhusthāna count** is [[place-vedyarargn|Vedyara]]'s own year-count, kep
 
 ## The Epoch
 
-The count begins with [[lore-stndrdmdhv|the standardization of Classical Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of Madhusthāna, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its first year from that reign, and from no Vylarian, Khelâthi or Tānvüri event. That year, 1 AK, falls in 480 BF. The count runs on unbroken from it, twelve hundred years to the present, and the scholars divide it into six ages, each of which numbers its own years from 1. A year before the count is numbered backwards from it and written BMC, Before the Madhusthāna Count: the year before 1 AK is 1 BMC, which is 481 BF.
+The count begins with [[lore-stndrdmdhv|the standardization of Classical Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of Madhusthāna, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its first year from that reign, and from no Vylarian, Khelâthi or Tāntsou event. That year, 1 AK, falls in 480 BF. The count runs on unbroken from it, twelve hundred years to the present, and the scholars divide it into six ages, each of which numbers its own years from 1. A year before the count is numbered backwards from it and written BMC, Before the Madhusthāna Count: the year before 1 AK is 1 BMC, which is 481 BF.
 
 To carry a date to the [[lore-commoncal|Vylarian Calendar]], add the age's own year to the year the age began, less one, and read the result on the table below; the year 1 AF falls in the Age of Copyists, at 242 AC.
 
@@ -156,7 +156,7 @@ The reckoners of the Ganaka-shala compute the same year instead of sighting it, 
 
 ## Elsewhere
 
-Vedyara's neighbors keep their own counts and not the Madhusthāna one. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates from the [[lore-qettelgu|Qet Telgu]] and the [[affiliation-tanvurempr|Empire of Tānvür]] from the **Celestial Calendar**'s [[lore-greatcnvrg|Great Convergence]]. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
+Vedyara's neighbors keep their own counts and not the Madhusthāna one. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] dates from the [[lore-qettelgu|Qet Telgu]] and the [[affiliation-tantsouempr|Empire of Tāntsou]] from the **Celestial Calendar**'s [[lore-greatcnvrg|Great Convergence]]. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
 
 ## See Also
 

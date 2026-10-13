@@ -3,7 +3,7 @@ shortcode: sowideslng
 name: {full: Sovidur Language, aliases: []}
 type: skill
 subType: language
-description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tānvür."
+description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tāntsou."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:

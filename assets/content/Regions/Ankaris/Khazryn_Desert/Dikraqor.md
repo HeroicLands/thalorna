@@ -40,7 +40,7 @@ In the ravines of the northern plateau, rock-cut tombs open into the cliffs, [[p
 
 - An Ātárzád elder's son has been robbing the tombs for two years, and his father has learned of it from a trader who bought a painted jar.
 - A tribe on the spur offers to guide a Tellumi house in exile to a hidden cistern, and the house cannot tell whether the price is the cistern or the house.
-- A Tānvüri scholar wants a rubbing from the painted tomb walls and will pay for a guide the Ātárzád cannot forbid.
+- A Tāntsou scholar wants a rubbing from the painted tomb walls and will pay for a guide the Ātárzád cannot forbid.
 
 ## See Also
 

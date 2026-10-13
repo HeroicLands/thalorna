@@ -45,9 +45,9 @@ For two months of the year it is the busiest place in the northern highlands. Ya
 
 The city's own population does not change as much as the yards do. Forty thousand people live here year-round, and most of them are here to be ready for those two months: carters, packers, farriers, ropemakers, clerks, scribes, weighers, and the provisioners who feed the whole apparatus while it waits.
 
-## The Tānvüri Quarter
+## The Tāntsou Quarter
 
-A [[place-tanvuregin|Tānvüri]] community has lived in Sūryagarha for centuries, come down by the north-eastern branch of the pass. It is a quarter of merchants and clerks with a way-station's establishment behind it, and it keeps its own script, its own account-books and its own year, which the customs-house has long since given up trying to make agree with anyone else's.
+A [[place-tantsouregin|Tāntsou]] community has lived in Sūryagarha for centuries, come down by the north-eastern branch of the pass. It is a quarter of merchants and clerks with a way-station's establishment behind it, and it keeps its own script, its own account-books and its own year, which the customs-house has long since given up trying to make agree with anyone else's.
 
 Every few decades an imperial envoy arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both are proud of it. What the quarter is actually worth to the kingdom is the standing correspondence: Sūryagarha hears what has happened on the far side of the wall months before anyone in the south does, and sells the knowing of it.
 

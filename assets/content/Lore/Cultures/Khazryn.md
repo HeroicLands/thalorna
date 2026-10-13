@@ -273,7 +273,7 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 - [[affiliation-azravan|Faith of Ázráván]]—the Festival of the Departed and the Prayer of Passage
 - [[affiliation-ahurdaen|Faith of Āhúrdáén]]—the weekly observance and the Dēlkoshekhs who keep the calendar
 - [[place-henhulpedin|Henhutpedin]]—the field outside Zargandûr where the names were never read
-- [[lore-roadnights|The Nights of the Road]]—a caravan-master's tales of the crossing to Tānvür
+- [[lore-roadnights|The Nights of the Road]]—a caravan-master's tales of the crossing to Tāntsou
 
 ## Glossary {#glossary}
 

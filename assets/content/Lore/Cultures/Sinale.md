@@ -84,7 +84,7 @@ Elsewhere the welcome is thinner, and each place is its own case.
 
 On Aelwyth the Sinalë of the [[place-hallowwood|Hallowwood]] tolerate embassies from Dúnavarre, welcome Élavendre and receive the Áelendan above all. After the break they held the whole island under a Sinalë king, together with the Khazári, until he was killed at the Three Sisters. The Khazári keep to the mountains. Enclaves are also known in Vrystwald.
 
-In the Empire of [[affiliation-tanvurempr|Tānvür]] the Sinalë keep a formal contact with the imperial court that exists nowhere else, and it appears to rest on coercion or obligation rather than affinity. The Sinalë of Tānvür are a case of their own. The empire files them in its caste order by function: scholars among them are Tānthëi advisers, and a very few are nobility. The Sinalë accept the arrangement pragmatically, keep their own self-understanding inside their enclaves, and go on with their work. Nobody outside knows how it began, and the Sinalë will not say.
+In the Empire of [[affiliation-tantsouempr|Tāntsou]] the Sinalë keep a formal contact with the imperial court that exists nowhere else, and it appears to rest on coercion or obligation rather than affinity. The Sinalë of Tāntsou are a case of their own. The empire files them in its caste order by function: scholars among them are Tānchéi advisers, and a very few are nobility. The Sinalë accept the arrangement pragmatically, keep their own self-understanding inside their enclaves, and go on with their work. Nobody outside knows how it began, and the Sinalë will not say.
 
 The Sinalë also maintain some form of connection with the peoples of K'ich'chik, which western scholarship knows too little of, on either side, to describe.
 

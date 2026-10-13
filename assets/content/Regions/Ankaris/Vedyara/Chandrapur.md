@@ -74,7 +74,7 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-**Chandrapur**, the "Moon City," cuts the gems of a whole subcontinent and keeps the only standing war-fleet in [[place-vedyarargn|Vedyara]]. Its jewelers' work commands prices across all the known realms; royal courts from Provènzia to Tānvür commission pieces from its master craftspeople, and its merchant families have gathered wealth over generations. The city-state holds [[place-chandrapurland|Chandrapur Land]], the lower [[place-chandrmahi|Chandramahī]] and its delta, and [[place-chandrapur2|Chandrapur]] at the head of the delta is its seat.
+**Chandrapur**, the "Moon City," cuts the gems of a whole subcontinent and keeps the only standing war-fleet in [[place-vedyarargn|Vedyara]]. Its jewelers' work commands prices across all the known realms; royal courts from Provènzia to Tāntsou commission pieces from its master craftspeople, and its merchant families have gathered wealth over generations. The city-state holds [[place-chandrapurland|Chandrapur Land]], the lower [[place-chandrmahi|Chandramahī]] and its delta, and [[place-chandrapur2|Chandrapur]] at the head of the delta is its seat.
 
 Its government is a bargain between two parties who cannot do without each other. The crown cannot cut a stone, and the nine great houses that cut them cannot clear a cargo.
 

@@ -99,7 +99,7 @@ The inner gate of the treasury court stands open, and in the middle of the gatew
 
 # Dossier {#dossier}
 
-The Aegiron Sentinel is a construct: an eight-foot figure of interlocking iron plates, as heavy as a laden cart, cut all over with binding characters, which a mage has worked into motion to stand guard over a door, a treasure or a person. It has no will. It does what it was ordered, in the words it was ordered, and it strikes with a crushing iron fist and with a beam of light from its eyes. The finest are the work of the [[lore-venduk|Vëndük]] artificers of [[affiliation-tanvurempr|Tānvür]], the sorcerer caste that forges the empire's enchanted arms, and they stand at the treasuries, tombs and inner gates of the great houses of the empire. A sentinel stops where its orders stop, and the first thing a party learns about one is where that line runs.
+The Aegiron Sentinel is a construct: an eight-foot figure of interlocking iron plates, as heavy as a laden cart, cut all over with binding characters, which a mage has worked into motion to stand guard over a door, a treasure or a person. It has no will. It does what it was ordered, in the words it was ordered, and it strikes with a crushing iron fist and with a beam of light from its eyes. The finest are the work of the [[lore-wanduo|Wánduo]] artificers of [[affiliation-tantsouempr|Tāntsou]], the sorcerer caste that forges the empire's enchanted arms, and they stand at the treasuries, tombs and inner gates of the great houses of the empire. A sentinel stops where its orders stop, and the first thing a party learns about one is where that line runs.
 
 ## Presentation
 
@@ -107,7 +107,7 @@ The sentinel is a tall, heavy, man-shaped figure of iron plates, overlapped and 
 
 ## In the Land
 
-In Tānvür every terrace has a lineage, every lineage has a page, and every page has a seal, and the empire's treasuries and records are guarded with the same care as its borders. The Vëndük, who belong in law to the houses they serve, make the sentinels for those houses: a pair at the inner gate of a Warlord's treasury, one at the door of a ministry's archive, four round the tomb of a [[lore-zhekzhos|Zhëkzhös]] lord. Each stands where it was set and does not leave. A sentinel's orders are written into it by its maker as exactly as a clerk writes a register, and they say whom it admits, by seal or word or face, and whom it stops.
+In Tāntsou every terrace has a lineage, every lineage has a page, and every page has a seal, and the empire's treasuries and records are guarded with the same care as its borders. The Wánduo, who belong in law to the houses they serve, make the sentinels for those houses: a pair at the inner gate of a Warlord's treasury, one at the door of a ministry's archive, four round the tomb of a [[lore-zhazho|Zhazhò]] lord. Each stands where it was set and does not leave. A sentinel's orders are written into it by its maker as exactly as a clerk writes a register, and they say whom it admits, by seal or word or face, and whom it stops.
 
 ## Key Behaviors
 
@@ -115,7 +115,7 @@ A sentinel carries out its orders absolutely, without tiring and without deviati
 
 ## What the Great Houses Do
 
-A great house that owns a sentinel owns a Vëndük to keep it, and the keeping is a duty: the artificer renews the binding characters, oils the joints against rust, and once a generation rewrites its orders when the house's seals change. A house that has lost its Vëndük, through disgrace or debt, finds its sentinel obeying orders nobody living remembers, and some old gates in the empire are guarded by sentinels whose house has been extinct for a century, admitting no one, while the [[lore-tanthei|Tānthëi]] dispute in their registers who owns what lies behind them. Thieves in Tānvür do not try the treasuries. Those who try the tombs choose a stormy night, because lightning disrupts the working.
+A great house that owns a sentinel owns a Wánduo to keep it, and the keeping is a duty: the artificer renews the binding characters, oils the joints against rust, and once a generation rewrites its orders when the house's seals change. A house that has lost its Wánduo, through disgrace or debt, finds its sentinel obeying orders nobody living remembers, and some old gates in the empire are guarded by sentinels whose house has been extinct for a century, admitting no one, while the [[lore-tanchei|Tānchéi]] dispute in their registers who owns what lies behind them. Thieves in Tāntsou do not try the treasuries. Those who try the tombs choose a stormy night, because lightning disrupts the working.
 
 ## Signs
 

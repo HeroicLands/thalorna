@@ -30,15 +30,15 @@ A factor of the [[affiliation-mrchntclctvvdyr|Merchant Collective]] who has work
 
 ## The Wall and the Six Crossings
 
-The [[place-graznmntns|Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Sūryashikhara]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tanvuregin|Tānvür]].
+The [[place-graznmntns|Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Sūryashikhara]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tantsouregin|Tāntsou]].
 
 Only six crossings are recognized along the entire range, and the routes and safe seasons of each are known only to the mountain guides:
 
 - [[place-meghadvara|Meghadvāra]], the storm-door, the westernmost crossing, shut from below by the monsoon.
 - [[place-gudesroad|The Guides' Road]], between the two western doors, with no fortress, toll, shrine or blessing.
-- [[place-suryadvara|Sūryadvāra]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Sūryagarha]], forking beyond the throat for the Khazryn and for Tānvür.
+- [[place-suryadvara|Sūryadvāra]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Sūryagarha]], forking beyond the throat for the Khazryn and for Tāntsou.
 - [[place-tamradvara|Tāmradvāra]], the copper-door, up [[place-slvrgorges|the Silver Gorges]] to the Khazryn's eastern marches.
-- [[place-jnanadvara|Jñānadvāra]], the scholars' door, the long crossing of the Eastern Reach to Tānvür's western frontier.
+- [[place-jnanadvara|Jñānadvāra]], the scholars' door, the long crossing of the Eastern Reach to Tāntsou's western frontier.
 - [[place-sankhadvra|Shankhadvāra]], the conch-door, the easternmost and worst, watched from [[place-sanghafort|the Sangha-fort]].
 
 Above the last [[place-pssshrines|Pass-Shrine]] the roads belong to the guide-peoples: the [[affiliation-osketguides|Ösket]] on the western and central crossings and the [[affiliation-hvarnguides|Hvarn]] on the eastern two. No Vedyari court governs there, and a guide-mother's refusal ends a caravan's day whatever its papers say.

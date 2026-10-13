@@ -11,17 +11,17 @@ data:
   lore: []
   parents: [graznmntns, estrnreach]
   population: null
-  routes: [{to: tanvuregin, bearing: E, mode: land, days: 60, terrain: [mountains, ice, forest]}]
+  routes: [{to: tantsouregin, bearing: E, mode: land, days: 60, terrain: [mountains, ice, forest]}]
   packFolder: vedyara
 ---
 
-**Shankhadvāra**, the conch-door, is the last crossing of the wall and the worst. It runs beneath [[place-kalashkhra|Kālashikhara]] at the eastern end of [[place-estrnreach|the Eastern Reach]] and takes two months to reach anywhere in [[place-tanvuregin|Tānvür]] worth reaching. The name is for the sound the wind makes in the upper gorge, which is audible from the col on a still night and which nobody who has heard it describes twice.
+**Shankhadvāra**, the conch-door, is the last crossing of the wall and the worst. It runs beneath [[place-kalashkhra|Kālashikhara]] at the eastern end of [[place-estrnreach|the Eastern Reach]] and takes two months to reach anywhere in [[place-tantsouregin|Tāntsou]] worth reaching. The name is for the sound the wind makes in the upper gorge, which is audible from the col on a still night and which nobody who has heard it describes twice.
 
 Commerce does not use it. Two or three parties a year go over, and in a bad year none.
 
 ## Why It Is Garrisoned
 
-Four centuries ago a Tānvüri-backed adventurer came through this door with a few hundred men behind him, in [[lore-conchdoor|the Conch-Door Incursion]], and the [[affiliation-janpdsvdyr|Mahā-Sangha]] raised the last army the temple-republics have ever raised to put him back out of it. What the janapadas took from the affair was not a victory but a precedent, and they have been jealous of it ever since: [[place-sanghafort|the Sangha-fort]] on the col is the only standing garrison the confederation maintains, it has never been withdrawn, and the question of who may raise armed men in the name of the whole is settled by the fact that this one exists.
+Four centuries ago a Tāntsou-backed adventurer came through this door with a few hundred men behind him, in [[lore-conchdoor|the Conch-Door Incursion]], and the [[affiliation-janpdsvdyr|Mahā-Sangha]] raised the last army the temple-republics have ever raised to put him back out of it. What the janapadas took from the affair was not a victory but a precedent, and they have been jealous of it ever since: [[place-sanghafort|the Sangha-fort]] on the col is the only standing garrison the confederation maintains, it has never been withdrawn, and the question of who may raise armed men in the name of the whole is settled by the fact that this one exists.
 
 [[affiliation-vindhyalay|Shikharālaya]] reads the fort as a rival's outpost inside a frontier the kingdom considers its own to watch, and says so at every Mela.
 

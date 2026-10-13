@@ -3,7 +3,7 @@ shortcode: idwkrrgn
 name: {full: Idvaqor, aliases: [The Eastern Stone Desert]}
 type: place
 subType: region
-description: "The stone desert and cold high steppe before Tānvür's western passes—the last eight hundred miles of the Celestial Road, where the tribes sell the hardest passage and Tānvüri patrols watch the end of it."
+description: "The stone desert and cold high steppe before Tāntsou's western passes—the last eight hundred miles of the Celestial Road, where the tribes sell the hardest passage and Tāntsou patrols watch the end of it."
 tags: [region]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 East of the second hand-off well the sand stops as if cut. The ground is black rock and pale gravel, the wind has a bite in it even at noon, and the nights freeze the water in the skins. A caravan that crossed the Long Dry in a sweat finds itself wrapped in felt and burning dung, and the camels, which can stand heat for a week, begin to lose condition in the cold.
 
-**Idvaqor**, "the east range" in [[skill-sowideslng|Sovidur]], is the last stage of the [[place-khzryndsrtrgn|Khazryn]]: stone desert that climbs by long steps to a cold high steppe, and then to the western passes of [[place-tanvuregin|Tānvür]]. [[lore-celestialroad|The Celestial Road]] crosses it in about eight hundred miles and thirty-five days, from the well at [[place-sowidwell|Sovid]] to the Tānvüri customs-house on the pass. The southern edge touches the Eastern Reach of the [[place-graznmntns|Grazian Mountains]], where [[place-tamradvara|Tāmradvāra]] climbs south toward Vedyara.
+**Idvaqor**, "the east range" in [[skill-sowideslng|Sovidur]], is the last stage of the [[place-khzryndsrtrgn|Khazryn]]: stone desert that climbs by long steps to a cold high steppe, and then to the western passes of [[place-tantsouregin|Tāntsou]]. [[lore-celestialroad|The Celestial Road]] crosses it in about eight hundred miles and thirty-five days, from the well at [[place-sowidwell|Sovid]] to the Tāntsou customs-house on the pass. The southern edge touches the Eastern Reach of the [[place-graznmntns|Grazian Mountains]], where [[place-tamradvara|Tāmradvāra]] climbs south toward Vedyara.
 
 ## Land and Water
 
@@ -26,9 +26,9 @@ Snow falls in winter, and the road closes from first frost to the thaw. Even in 
 
 ## The People
 
-The tribes of Idvaqor sell the hardest bargain on the road. They are few, perhaps 330,000 across the whole range, and each tribe's wells are life itself to it. A stranger with no passage and no Tānvüri pass-token is killed on sight; one with both is a customer, to be escorted, charged and watched. They herd horses, camels and yaks in the high steppe in summer and drive them down to the stone desert's wells in winter.
+The tribes of Idvaqor sell the hardest bargain on the road. They are few, perhaps 330,000 across the whole range, and each tribe's wells are life itself to it. A stranger with no passage and no Tāntsou pass-token is killed on sight; one with both is a customer, to be escorted, charged and watched. They herd horses, camels and yaks in the high steppe in summer and drive them down to the stone desert's wells in winter.
 
-They live in the shadow of the Empire. Tānvür has treated its western frontier with these tribes as a standing problem for centuries, giving gifts and titles to some chiefs, paying others to keep the pass clear, and sending patrols out from the garrison. Tānvüri riders are on the road from about a week out of the pass, and a caravan that is not under a tribal rider's escort by then meets the Empire's wrath as well as the tribes'.
+They live in the shadow of the Empire. Tāntsou has treated its western frontier with these tribes as a standing problem for centuries, giving gifts and titles to some chiefs, paying others to keep the pass clear, and sending patrols out from the garrison. Tāntsou riders are on the road from about a week out of the pass, and a caravan that is not under a tribal rider's escort by then meets the Empire's wrath as well as the tribes'.
 
 ## Dangers
 
@@ -38,14 +38,14 @@ The tribes hold the caverns as the country's own lungs and bar them to strangers
 
 ## Hooks
 
-- A Tānvüri scholar wants a copy of the painted script from the caverns, and the tribe that holds them wants a price no scholar can pay.
-- A Tānvüri patrol officer is selling pass-tokens to caravans that have not paid a single tribe, and a tribe has noticed.
-- A caravan reached the customs-house with a dead rider's token in the master's pack, and the Tānvüri clerk will release the cargo only to the rider's kin.
+- A Tāntsou scholar wants a copy of the painted script from the caverns, and the tribe that holds them wants a price no scholar can pay.
+- A Tāntsou patrol officer is selling pass-tokens to caravans that have not paid a single tribe, and a tribe has noticed.
+- A caravan reached the customs-house with a dead rider's token in the master's pack, and the Tāntsou clerk will release the cargo only to the rider's kin.
 
 ## See Also
 
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the enclosing region
 - [[place-sowidwell|Sovid]]—the hand-off well at Idvaqor's western edge
-- [[place-tanvuregin|Tānvür Region]]—the empire at the road's end
+- [[place-tantsouregin|Tāntsou Region]]—the empire at the road's end
 - [[place-graznmntns|The Grazian Mountains]]—the range along the southern edge
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tānvür
+- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tāntsou

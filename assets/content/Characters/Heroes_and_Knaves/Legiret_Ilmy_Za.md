@@ -451,7 +451,7 @@ Legiret, driven by both curiosity and a hunger for knowledge, decided to accompa
 - **Astrological Scholar**: Legiret is an expert in interpreting ancient prophecies and celestial phenomena. She can read and decipher star charts, ancient runes, and astrological texts, providing essential insights into [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s visions.
 - **Master of Forgotten Languages**: Legiret’s ability to translate obscure languages and decode forgotten scripts allows the group to unlock hidden knowledge from ancient scrolls, artifacts, and ruins.
 - **Arcane Knowledge**: Though not a practitioner of magic, Legiret’s deep understanding of mystical texts gives her the ability to recognize magical symbols, traps, and rituals that they encounter on their journey.
-- **Folklore Knowledge**: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of Eastern and Western Ankaris and Khazryn Desert, with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and Tānvür. The exception is Vylaria, with which she has considerable knowledge.
+- **Folklore Knowledge**: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of Eastern and Western Ankaris and Khazryn Desert, with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and Tāntsou. The exception is Vylaria, with which she has considerable knowledge.
 
 ## Psyche
 

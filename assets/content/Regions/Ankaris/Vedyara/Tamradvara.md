@@ -20,7 +20,7 @@ data:
   packFolder: vedyara
 ---
 
-**Tāmradvāra**, the copper-door, goes up through the [[place-slvrgorges|Silver Gorges]] and over the shoulder of [[place-estrnreach|the Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazryn]] runs out against [[place-tanvuregin|Tānvür]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.
+**Tāmradvāra**, the copper-door, goes up through the [[place-slvrgorges|Silver Gorges]] and over the shoulder of [[place-estrnreach|the Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazryn]] runs out against [[place-tantsouregin|Tāntsou]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.
 
 Its season opens with [[place-suryadvara|Sūryadvāra]]'s and shuts a week earlier, which is enough to make the last caravan of the year a gamble and the last caravan of the year the most profitable.
 

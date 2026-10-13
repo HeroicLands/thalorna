@@ -57,7 +57,7 @@ Byzaría holds some eight million people, nearly all of them citizens or subject
 
 The Byzarians are human and of Helonic stock at root, but the coast and the caravan cities are a deep mixture—Helonic, Tarûzeli, Khazryn and Vylarian families intermarried for generations, with Dunhari and Khazryni merchant quarters in Karvashion and Nêsthiros that keep their own tongues, faiths and law. The plateau is more homogeneous and more conservative: herding clans and farming villages who speak [[skill-byzarnlng|Byzarian]] with an upland accent and regard the coastal cities as a foreign country that happens to buy their wool.
 
-Byzarian culture is the culture of the bargain. Its language has more words for kinds of agreement than most languages have for colors; its courts are staffed by professional arbitrators; its highest civic honor is to be named Warden of the Weights, the officer whose inspections make the city's word good. Guilds are the skeleton of society—every trade is chartered, every charter carries privileges and obligations, and a master's seal from Byzaris or Órashion opens doors from Tarûzel to [[affiliation-jurthatempr|Jürthāt]].
+Byzarian culture is the culture of the bargain. Its language has more words for kinds of agreement than most languages have for colors; its courts are staffed by professional arbitrators; its highest civic honor is to be named Warden of the Weights, the officer whose inspections make the city's word good. Guilds are the skeleton of society—every trade is chartered, every charter carries privileges and obligations, and a master's seal from Byzaris or Órashion opens doors from Tarûzel to [[affiliation-jenchaiempr|Jénchài]].
 
 ## Religion
 

@@ -65,7 +65,7 @@ Years are reckoned **After the Founding (AF)**, from the year [[affiliation-vyla
 
 The Vylarian Calendar is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aurèldía]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Heliónis]], [[place-byzariargn|Byzaría]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
 
-Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] reckon from the [[lore-qettelgu|Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent dating systems of their own.
+Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] reckon from the [[lore-qettelgu|Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tāntsou]] keep independent dating systems of their own.
 
 ## The Months
 

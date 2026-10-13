@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [nkaruthar]}}
 - **Nature:** Monotheistic with tripartite aspects and animistic sub-traditions
 - **Symbol:** Three interlocking flames (one white, one gold, one red)
 
-The people of [[affiliation-okharis|Okháris]] worship **Nkaru'thar**—the Eternal Flame—as the singular divine force from which all creation, destruction, and renewal flows. Unlike the polytheistic pantheons of [[place-ankrscntnnt|Ankaris Continent]] or the celestial bureaucracy of [[affiliation-tngvkrrklei|Tānvür]], the Okháric faith centers on a single godhead whose power manifests in three aspects, each embodied by one of the kingdom's three great city-states and their pyramidal temple complexes.
+The people of [[affiliation-okharis|Okháris]] worship **Nkaru'thar**—the Eternal Flame—as the singular divine force from which all creation, destruction, and renewal flows. Unlike the polytheistic pantheons of [[place-ankrscntnnt|Ankaris Continent]] or the celestial bureaucracy of [[affiliation-tengwouronglei|Tāntsou]], the Okháric faith centers on a single godhead whose power manifests in three aspects, each embodied by one of the kingdom's three great city-states and their pyramidal temple complexes.
 
 Nkaru'thar is not depicted in human or animal form. The Eternal Flame is understood as a living force—the fire that burned before the world existed, that kindled the first life, and that will one day consume all things so they may be reborn. Every hearth fire, every forge flame, every bolt of lightning is a fragment of Nkaru'thar's presence in the mortal world.
 

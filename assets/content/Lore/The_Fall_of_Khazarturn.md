@@ -19,9 +19,9 @@ entire people's craft-records.
 It stood close to twenty-seven centuries.
 
 It also fell about **seventy years after the first human empire began keeping a record anyone can still
-read**. The [[affiliation-tanvurempr|Empire of Tānvür]] dates its oldest documented dynasty to around
+read**. The [[affiliation-tantsouempr|Empire of Tāntsou]] dates its oldest documented dynasty to around
 2500 BF; Khazártúrn was destroyed in 2427 BF. The greatest work of the elder races and the oldest human
-archive overlap by a single lifetime—and neither one notices the other. No Tānvüri document of that
+archive overlap by a single lifetime—and neither one notices the other. No Tāntsou document of that
 century names Khazártúrn or the Khazári, and the Khazári account of the fall names no human polity at
 all. There is nothing in either record to suggest that anybody involved knew the other existed.
 

@@ -28,10 +28,10 @@ Water is the treasure. The cisterns are the best in the Idvaqor, and a tribe tha
 
 ## A Hook
 
-A Tānvüri scholar at the western passes has seen a copy of a single painted line, passed from hand to hand across five years and half the desert, and wants the rest. He will pay a fortune, and the tribes of the Idvaqor have named their own price, which is not silver. They want a thing brought out of Tānvür, and they will not say what.
+A Tāntsou scholar at the western passes has seen a copy of a single painted line, passed from hand to hand across five years and half the desert, and wants the rest. He will pay a fortune, and the tribes of the Idvaqor have named their own price, which is not silver. They want a thing brought out of Tāntsou, and they will not say what.
 
 ## See Also
 
 - [[being-sandwurm|Sand Wurm]]—the tunneler of the lower caverns
 - [[being-erthrvr|Earthreaver]]—the dreadspawn that cuts its own passages
-- [[affiliation-tanvurempr|Empire of Tānvür]]—the empire at the east end of the road
+- [[affiliation-tantsouempr|Empire of Tāntsou]]—the empire at the east end of the road

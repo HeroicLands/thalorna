@@ -8,5 +8,5 @@
 - Bethûra, capital of the Matriarchy of Bethûa, is a harbor city on a bay of the Vylarian Sea.
 - The Tarûzelian Confederation's seat is Besîkar, where its Grand Council meets.
 - The Ordo Arcanis is described as still, on paper, the College of Arcane Philosophy within the Epistemium, nearly eight centuries after its charter.
-- The Dreadspawn have one account, which now includes how the Empire of Tānvür classifies and fights them.
+- The Dreadspawn have one account, which now includes how the Empire of Tāntsou classifies and fights them.
 - Enemies that are a character's own failings are labeled as inner enemies rather than people.

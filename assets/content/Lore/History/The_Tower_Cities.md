@@ -67,7 +67,7 @@ A caravan that leaves a well at dusk and marches through the cool of the night n
 
 ## When
 
-The league rises about 1000 BF, four centuries after the Varkhad send their kin south into the deserts, and with [[affiliation-tanvurempr|Tānvür]] old enough to have silk worth carrying west. Its cities are traders' towns, strung along the first road across the waste, each a march of several days from the next. They hold together for some eight centuries by one interest, the safe passage of goods, and by one rule, that a city's light is never allowed to go out. The league ends about 190 BF, when the steppe tribes are forced into the first of their great unions and the cities that refused to pay it are taken one after another. The span, in the Vylarian Calendar, is about 1000 BF to 190 BF; the Vylarian Republic is founded 350 years into it.
+The league rises about 1000 BF, four centuries after the Varkhad send their kin south into the deserts, and with [[affiliation-tantsouempr|Tāntsou]] old enough to have silk worth carrying west. Its cities are traders' towns, strung along the first road across the waste, each a march of several days from the next. They hold together for some eight centuries by one interest, the safe passage of goods, and by one rule, that a city's light is never allowed to go out. The league ends about 190 BF, when the steppe tribes are forced into the first of their great unions and the cities that refused to pay it are taken one after another. The span, in the Vylarian Calendar, is about 1000 BF to 190 BF; the Vylarian Republic is founded 350 years into it.
 
 ## What They Built
 

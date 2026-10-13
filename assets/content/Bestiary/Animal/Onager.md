@@ -254,7 +254,7 @@ A medium-sized equine, lean and narrow, built for speed. The coat is pale sandy-
 
 ## In the Land
 
-Onagers graze the gravel plains, salt flats and dry steppe of the [[place-khzryndsrtrgn|Khazryn]] and the stone desert of [[place-idwkrrgn|Idvaqor]], on the cold high steppe before the western passes of Tānvür. A band of mares and foals ranges between a few water-holes under a stallion who holds the ground around one. They graze at dusk and dawn and rest in the heat. A band bunches at a distance from the observer, stares, and bolts.
+Onagers graze the gravel plains, salt flats and dry steppe of the [[place-khzryndsrtrgn|Khazryn]] and the stone desert of [[place-idwkrrgn|Idvaqor]], on the cold high steppe before the western passes of Tāntsou. A band of mares and foals ranges between a few water-holes under a stallion who holds the ground around one. They graze at dusk and dawn and rest in the heat. A band bunches at a distance from the observer, stares, and bolts.
 
 ## Key Behaviors
 

@@ -29,7 +29,7 @@ That does not make the hall a pleasant place at night. The hill people keep away
 
 - **The petition.** A descendant of Thirnugrāma's lineages is preparing a petition to the next Mela, at Sangama, asking that Thirnugrāma be recognized as newly formed. Recognition would undo a four-century division of its land, and the janapadas that hold the land want the petitioner discredited before the assembly meets.
 - **The bell.** A priest of the Sangha-fort, coming down late, heard the bell ring once in the night. Nobody else heard it, the bar has not moved, and the bell's clapper was taken out by the Mela's order five centuries ago.
-- **The survey.** The petition fails without proof of the janapada's old boundaries, and every copy burned in the hall. A rumor puts a second copy in a temple on the Tānvüri side of the conch-door, where the adventurer came from.
+- **The survey.** The petition fails without proof of the janapada's old boundaries, and every copy burned in the hall. A rumor puts a second copy in a temple on the Tāntsou side of the conch-door, where the adventurer came from.
 
 ## See Also
 

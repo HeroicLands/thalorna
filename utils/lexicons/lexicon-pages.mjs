@@ -28,14 +28,18 @@
  * - `## How to read the tables` with `### Classes` (Class | Meaning) and
  *   `### Fields` (Field | What it holds).
  * - `## Sounds and spelling` with `### Letters` (Letter | Kind | Sounds like,
- *   and an optional Tongue column naming which tongues write it), `### Word
+ *   and an optional Tongue column naming which tongues write it; a Kind of
+ *   `closing consonant` marks a letter that closes a syllable and never opens
+ *   one), `### Word
  *   edges` (Edge | Sounds, with the rows "Pairs that may open a word" and
  *   "Consonants that close a word", and optionally "Pairs that may close a word",
  *   "Vowels that may stand together", "Consonants that may carry a
  *   syllable", "Pairs that may stand inside a word" and "Glides that may
  *   follow a consonant"), `### Clusters` (Rule | Count, with
- *   the row "Most consonants together inside a word") and optionally
- *   `### Spellings the pages do not use` (Written | Read as | What it is).
+ *   the row "Most consonants together inside a word"), optionally `### Finals`
+ *   (Final | Sounds like; read as `page.finals`, the list a tonal guard parses
+ *   syllables by) and optionally `### Spellings the pages do not use` (Written
+ *   | Read as | What it is).
  * - `## Building words` with optional `### Joining` (First closes on | Second
  *   opens on | Written | Example) and `### Suffixes` (Suffix | Stem | Makes |
  *   Example; the Stem cell is `added` or `replaces a closing vowel` or
@@ -489,6 +493,7 @@ export function readPage(text) {
             return ticked(cells[letter]).map((form) => ({
                 form: lower(form),
                 vowel: /vowel|diphthong/.test(kindText),
+                kind: kindText,
                 tags,
                 offset,
             }));
@@ -531,6 +536,11 @@ export function readPage(text) {
             glides: [],
         },
     );
+
+    const finals = read(() => {
+        const t = tableOf(text, "### Finals", false);
+        return t ? t.rows.map(({ cells }) => lower(ticked(cells[0])[0] ?? plain(cells[0]))) : null;
+    }, null);
 
     const clusters = read(() => {
         const t = tableOf(text, "### Clusters");
@@ -706,6 +716,7 @@ export function readPage(text) {
         fields,
         letters,
         edges,
+        finals,
         clusters,
         spellings,
         joining,
@@ -1066,6 +1077,7 @@ const FREE_TAGS = new Set(["translation", "kept"]);
  *   the whole page or by tongue tag.
  * @param {boolean} [input.borrows] - Whether the page borrows from its source
  *   languages by design, so a copy is a warning.
+ * @param {number} [input.minLength] - The shortest normalized form compared with the whole-word lists.
  * @param {object} [input.extra] - Extra checks: `wordChecks(word, page) => string[]` run on every word.
  * @returns {{findings: {file: string, text: string, offset: number|null, severity: string, message: string}[], page: object, missing: {name: string, address: string, kind: string}[]}}
  */
@@ -1076,6 +1088,7 @@ export function analyse({
     earth = null,
     sources = [],
     borrows = false,
+    minLength = 3,
     extra = {},
 }) {
     const page = readPage(lexText);
@@ -1182,7 +1195,12 @@ export function analyse({
         // owner's to judge; every other hit is a warning.
         if (earth && (earth.lists.size || earth.morphemes.length) && w.cls !== "stem") {
             const attested = linked(w.attested).length > 0;
-            const coined = { gloss: plain(w.gloss), sources: sourcesFor(sources, tag), borrows };
+            const coined = {
+                gloss: plain(w.gloss),
+                sources: sourcesFor(sources, tag),
+                borrows,
+                minLength,
+            };
             for (const hit of earthHits(w.form, earth, coined))
                 add(w.offset, attested ? "warning" : hit.severity, `\`${w.form}\` ${hit.message}`);
         }
@@ -1211,6 +1229,7 @@ export function analyse({
                     gloss: plain(row.gloss ?? ""),
                     sources: sourcesFor(sources, parentTag),
                     borrows,
+                    minLength,
                 };
                 for (const hit of earthHits(row.parent, earth, coined))
                     add(row.offset, "warning", `\`${row.parent}\` ${hit.message}`);
@@ -1342,7 +1361,7 @@ export function format(f) {
  * error. `--missing` prints register rows for every name in scope the register
  * lacks; `--check <word>...` holds loose words to the rules.
  *
- * @param {{lexicon: string, label: string, sources?: string[]|Record<string, string[]>, tagFor?: (note: object, page: object) => string, extra?: object}} spec
+ * @param {{lexicon: string, label: string, minLength?: number, sources?: string[]|Record<string, string[]>, tagFor?: (note: object, page: object) => string, extra?: object}} spec
  * @param {string[]} [argv]
  */
 export function runGuard(spec, argv = process.argv.slice(2)) {
@@ -1384,6 +1403,7 @@ export function runGuard(spec, argv = process.argv.slice(2)) {
         earth,
         sources: spec.sources ?? [],
         borrows: Boolean(spec.borrows),
+        minLength: spec.minLength ?? 3,
         extra: spec.extra ?? {},
     });
     if (argv.includes("--missing")) {

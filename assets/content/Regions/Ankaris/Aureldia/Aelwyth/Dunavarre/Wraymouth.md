@@ -30,7 +30,7 @@ extremely regular: Dúnavarre is an orderly realm and its port reflects it, with
 office that keeps records the Synod actually reads.
 
 The city is also where Dúnavarre's diplomacy physically happens. Embassies to and from Élavendre,
-Provènzia and the Vylarian ports land here, and the mission to Tānvür sailed from these quays.
+Provènzia and the Vylarian ports land here, and the mission to Tāntsou sailed from these quays.
 
 ## Character
 

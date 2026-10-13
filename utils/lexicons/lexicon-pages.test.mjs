@@ -499,14 +499,14 @@ test("a retired form written in a note is an error where it stands, and the tabl
 test("a GM-only note is in a page's scope only by its own address", () => {
     const page = {
         scope: [
-            { kind: "culture", values: ["tanvuriclt"] },
+            { kind: "culture", values: ["tantsouclt"] },
             { kind: "address", values: ["thalorna-note-doc-named"] },
         ],
     };
     const note = (address, tags) => ({
         address,
         rel: "x.md",
-        front: { type: "doc", tags, data: { culture: "tanvuriclt" } },
+        front: { type: "doc", tags, data: { culture: "tantsouclt" } },
     });
     const none = new Set();
     assert.equal(inScope(note("thalorna-note-doc-open", []), page, none), true);

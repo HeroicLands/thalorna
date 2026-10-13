@@ -30,7 +30,7 @@ What a street holds depends on the season: shop-stock of a dozen peoples, weight
 
 ## A Hook
 
-The Uruvolur, the hidden-water bands who guide the Khoshiqor, are the first to learn when a street opens. They sell the news to two buyers at once, usually a Byzarian factor and a Tānvüri collector, and then guide whichever of them arrives first. A party that finds a fresh street unguided is a competitor, and the Uruvolur, who know where everyone in the Khoshiqor is, sell its position to both buyers.
+The Uruvolur, the hidden-water bands who guide the Khoshiqor, are the first to learn when a street opens. They sell the news to two buyers at once, usually a Byzarian factor and a Tāntsou collector, and then guide whichever of them arrives first. A party that finds a fresh street unguided is a competitor, and the Uruvolur, who know where everyone in the Khoshiqor is, sell its position to both buyers.
 
 ## See Also
 

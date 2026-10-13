@@ -300,7 +300,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 ### Proto-Vedyari
 
-Vedyari's roots lie in an isolate family with no clear external relations, on the evidence of the archaic ritual texts and the etymologies. Some scholars propose remote connections to the tongues of the far east (_Tānvüri_) and the southwest (_Khelâthi_). Nobody has shown one.
+Vedyari's roots lie in an isolate family with no clear external relations, on the evidence of the archaic ritual texts and the etymologies. Some scholars propose remote connections to the tongues of the far east (_Tāntsou_) and the southwest (_Khelâthi_). Nobody has shown one.
 
 ### Classical Period (Age of Kingdoms)
 

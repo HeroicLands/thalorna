@@ -22,7 +22,7 @@ Byzarian culture is the culture of the bargain. The tongue has more words for ki
 
 ## The Guild Is the Skeleton
 
-Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from one of the great cities opens doors from [[affiliation-cnfdrtntrzlnstts|Tarûzel]] to [[affiliation-jurthatempr|Jürthāt]], and it does so because the guild behind it will ruin a member who discredits it faster than any magistrate could.
+Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from one of the great cities opens doors from [[affiliation-cnfdrtntrzlnstts|Tarûzel]] to [[affiliation-jenchaiempr|Jénchài]], and it does so because the guild behind it will ruin a member who discredits it faster than any magistrate could.
 
 A Byzarian is therefore placed by his trade before his family and long before his city. He introduces himself by craft, names his master, and expects the same in return; a man who cannot name a guild is a man nobody knows how to deal with.
 

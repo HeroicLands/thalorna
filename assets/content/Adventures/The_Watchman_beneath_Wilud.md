@@ -37,7 +37,7 @@ Vülüd was abandoned, not massacred, and nothing in [[place-bolidqiso|Bolidqiis
 
 ## Hooks
 
-- **The thief.** A Tānvüri collector paid Uruvolun for the news of the street and is a day behind; he has paid the party to go ahead of him and bring out the seals before anyone else does.
+- **The thief.** A Tāntsou collector paid Uruvolun for the news of the street and is a day behind; he has paid the party to go ahead of him and bring out the seals before anyone else does.
 - **The mercenary or common soldier.** A Byzarian factor bought the same news, and his own crew went in ahead. He hires the party to follow, find out why his crew has not come back, and bring out what they found.
 - **The leader.** The party's company needs money, and Uruvolun sells it the news cheap because she has already sold it twice. She guides whoever arrives first, and the party is first of the paying buyers, but not the first into the street.
 - **The lone wanderer.** One of the rival crew is the wanderer's kin, or owes the wanderer money, and went in two days ago without saying goodbye.

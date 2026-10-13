@@ -24,7 +24,7 @@ A glacier-fed stream, cold and gray with rock flour, drops out of the Eastern Re
 
 ## Trade and Life
 
-The city lives by what the valley grows and by the trade of the east. The highland guides of the Eastern Reach, the [[affiliation-hvarnguides|Hvarn]], come down in autumn to buy grain and barley for the winter in their villages, and they sell wool, butter and worked horn. Caravans bound for the pass customs of the Tānvüri frontier, a long way east across the stone desert, pause here to rest the animals and take on a guide who knows which of the nomad tribes of the stone desert hold which wells. The caravans are few. Those that come stay a week, and pay in silver.
+The city lives by what the valley grows and by the trade of the east. The highland guides of the Eastern Reach, the [[affiliation-hvarnguides|Hvarn]], come down in autumn to buy grain and barley for the winter in their villages, and they sell wool, butter and worked horn. Caravans bound for the pass customs of the Tāntsou frontier, a long way east across the stone desert, pause here to rest the animals and take on a guide who knows which of the nomad tribes of the stone desert hold which wells. The caravans are few. Those that come stay a week, and pay in silver.
 
 Ushtra-bēr is austere. The houses are of dressed stone, not adobe, with shuttered windows against the wind, and the streets are swept every dawn. The shrine to Zúráthrä at the head of the valley is the plainest in the belt, a spring in a stone ring with a single lamp. People rise early and eat sparingly, and a feast is a plain meal at an unusual hour.
 

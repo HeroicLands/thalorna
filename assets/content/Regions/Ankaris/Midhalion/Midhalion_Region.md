@@ -70,7 +70,7 @@ All of it is taxed, transshipped and marked up on the way, and the port cities a
 
 ## Relations with Neighboring Regions
 
-Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aurèldían]] heartlands to the northwest, [[place-velanthrgn|Velanthia]] to the north beyond Hellád's uplands, the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and [[place-dunharargn|Dunhara]], whose Kingdom of Amradad holds the eastern shore, and [[place-vedyarargn|Vedyara]] to the east. Through the Byzarian League and the Khazryn it reaches the far-eastern empire of [[place-tanvuregin|Tānvür]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
+Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aurèldían]] heartlands to the northwest, [[place-velanthrgn|Velanthia]] to the north beyond Hellád's uplands, the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and [[place-dunharargn|Dunhara]], whose Kingdom of Amradad holds the eastern shore, and [[place-vedyarargn|Vedyara]] to the east. Through the Byzarian League and the Khazryn it reaches the far-eastern empire of [[place-tantsouregin|Tāntsou]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
 
 ## Reckoning
 

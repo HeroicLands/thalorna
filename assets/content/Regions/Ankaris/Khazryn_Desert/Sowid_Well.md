@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [idwkrrgn], population: 0, packFolder: 
 
 The last dune ends in a wall of black rock, split by a cleft wide enough for three camels abreast, and the cleft ends at a cistern the size of a threshing floor. A stone hall with a roof of turf stands beside it, built for the riders who winter here when the road closes. In the evening the caravan comes in out of the sand, and the wind carries the smell of snow for the first time in weeks.
 
-**Sovid**, "the rider" in [[skill-sowideslng|Sovidur]], is the second hand-off well on the [[lore-celestialroad|Celestial Road]]. It lies about 1,700 miles from the March and about ninety-five days out, on the border between [[place-hskrrgn|Khoshiqor]] and [[place-idwkrrgn|Idvaqor]]. East of it the sand is gone and the road climbs through stone toward the passes of [[place-tanvuregin|Tānvür]].
+**Sovid**, "the rider" in [[skill-sowideslng|Sovidur]], is the second hand-off well on the [[lore-celestialroad|Celestial Road]]. It lies about 1,700 miles from the March and about ninety-five days out, on the border between [[place-hskrrgn|Khoshiqor]] and [[place-idwkrrgn|Idvaqor]]. East of it the sand is gone and the road climbs through stone toward the passes of [[place-tantsouregin|Tāntsou]].
 
 ## The Hand-off
 
-The riders of the sands bring a caravan to Sovid, and the riders of Idvaqor wait for it in the hall. The master lays his string of tokens on the stone floor, one for each range he has crossed, and the Idvaqor riders pick them up one at a time. They ask more questions than the riders at [[place-yemokwell|Yemök]] did, because the tribes of Idvaqor deal with Tānvür and the Empire's customs-house examines the cargo. They check the tokens against a count of the camels. A caravan that arrives with fewer beasts than it left with is asked where they died.
+The riders of the sands bring a caravan to Sovid, and the riders of Idvaqor wait for it in the hall. The master lays his string of tokens on the stone floor, one for each range he has crossed, and the Idvaqor riders pick them up one at a time. They ask more questions than the riders at [[place-yemokwell|Yemök]] did, because the tribes of Idvaqor deal with Tāntsou and the Empire's customs-house examines the cargo. They check the tokens against a count of the camels. A caravan that arrives with fewer beasts than it left with is asked where they died.
 
 The master pays the Idvaqor riders' price, which is the highest of the road, and the Idvaqor tribes whose ranges lie ahead send a rider each. A caravan may leave Sovid with six, eight, or ten of them, each good for his tribe's stretch and no further.
 
@@ -31,7 +31,7 @@ Sand wurms are seen in the last dunes, and a caravan arriving after dark does we
 ## Hooks
 
 - A caravan master arrives one token short of the count the riders of Idvaqor expect, and they have told him the missing one cannot be bought.
-- A Tānvüri patrol is waiting at the well to turn back any caravan carrying a particular cargo, and has not said what.
+- A Tāntsou patrol is waiting at the well to turn back any caravan carrying a particular cargo, and has not said what.
 - One of the outcast riders in the loft knows where a cistern lies in the hills that no tribe has found, and wants a party to take him there.
 
 ## See Also
@@ -40,4 +40,4 @@ Sand wurms are seen in the last dunes, and a caravan arriving after dark does we
 - [[place-hskrrgn|Khoshiqor]]—the central sands
 - [[place-yemokwell|Yemök]]—the western hand-off well
 - [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
-- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tānvür
+- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tāntsou

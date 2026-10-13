@@ -204,7 +204,7 @@ The granary door is oak, banded with iron, and it is barred from inside. Somethi
 
 # Dossier {#dossier}
 
-The Earthcharger is a dreadspawn in the shape of a giant beetle: ten to twelve feet long and fifteen hundred pounds, armored in layered black chitin, with shearing jaws and a charge that breaks down timber doors, palisades and weak stone. It lives in caverns and the passages under hills and comes out to take what it wants. It is one of the dreadspawn that have appeared inside the borders of the [[affiliation-tanvurempr|Empire of Tānvür]] in recent years, more of them than anyone can account for, and the army that has to deal with them has found the earthcharger one of the hardest. Like every dreadspawn it was made, it is alive, and it does not breed. The [[lore-tanthei|Tānthëi]] have catalogued it with the rest.
+The Earthcharger is a dreadspawn in the shape of a giant beetle: ten to twelve feet long and fifteen hundred pounds, armored in layered black chitin, with shearing jaws and a charge that breaks down timber doors, palisades and weak stone. It lives in caverns and the passages under hills and comes out to take what it wants. It is one of the dreadspawn that have appeared inside the borders of the [[affiliation-tantsouempr|Empire of Tāntsou]] in recent years, more of them than anyone can account for, and the army that has to deal with them has found the earthcharger one of the hardest. Like every dreadspawn it was made, it is alive, and it does not breed. The [[lore-tanchei|Tānchéi]] have catalogued it with the rest.
 
 ## Presentation
 
@@ -212,7 +212,7 @@ The earthcharger is a beetle on a vast scale, broad and low, built like a wagon 
 
 ## In the Land
 
-The earthcharger came up out of the ground in one of the northwestern basins of the [[place-tanvuregin|Tānvür Region]], in the hill country where the river valleys give way to the mountains, and it lives in the caves and old mine-galleries under those hills. From them it comes out into the terraced valleys below to feed, breaking into granaries, storehouses and walled farmsteads for the grain and the stock inside them, and going back underground. It holds a stretch of hill and valley a day's walk across, and it breaks down anything that is built across its paths. Intact dressed stone holds it out; nothing less does.
+The earthcharger came up out of the ground in one of the northwestern basins of the [[place-tantsouregin|Tāntsou Region]], in the hill country where the river valleys give way to the mountains, and it lives in the caves and old mine-galleries under those hills. From them it comes out into the terraced valleys below to feed, breaking into granaries, storehouses and walled farmsteads for the grain and the stock inside them, and going back underground. It holds a stretch of hill and valley a day's walk across, and it breaks down anything that is built across its paths. Intact dressed stone holds it out; nothing less does.
 
 ## Key Behaviors
 
@@ -220,7 +220,7 @@ The earthcharger is solitary and fiercely territorial. It claims its passages an
 
 ## What the Empire Does
 
-The Tānthëi entered the earthcharger in the register as _Zāt Vōr Zhëk_ ("Sacred-Creation Life"), with its affinities, its observed capabilities, its range and its threat, and the district's [[lore-vushok|Vüshōk]] commander was given the task of removing it. He has not yet done so. The first company sent against it in open country was broken by its charge. The [[lore-venduk|Vëndük]] assigned to him has had to assess its classification before a petition would bite, and it would not wait for the assessment. The district now rebuilds its granaries in dressed stone, which the creature cannot break, at the cost of a year's revenue, and the [[lore-nokvur|Nōkvür]] who farm the valley keep their stock behind stone walls at night and leave their wooden storehouses empty. The commander has asked for fire-oil, which softens its plates, and for a second company. The provincial court has sent neither, because the soldiers are stretched thin by more dreadspawn than this one.
+The Tānchéi entered the earthcharger in the register as _Tsài Wō Zha_ ("Sacred-Creation Life"), with its affinities, its observed capabilities, its range and its threat, and the district's [[lore-wohou|Wòhou]] commander was given the task of removing it. He has not yet done so. The first company sent against it in open country was broken by its charge. The [[lore-wanduo|Wánduo]] assigned to him has had to assess its classification before a petition would bite, and it would not wait for the assessment. The district now rebuilds its granaries in dressed stone, which the creature cannot break, at the cost of a year's revenue, and the [[lore-nouwen|Nouwén]] who farm the valley keep their stock behind stone walls at night and leave their wooden storehouses empty. The commander has asked for fire-oil, which softens its plates, and for a second company. The provincial court has sent neither, because the soldiers are stretched thin by more dreadspawn than this one.
 
 ## Signs
 

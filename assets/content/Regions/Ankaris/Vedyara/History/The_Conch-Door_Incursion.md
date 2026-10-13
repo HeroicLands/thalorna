@@ -3,7 +3,7 @@ shortcode: conchdoor
 name: {full: The Conch-Door Incursion, aliases: []}
 type: lore
 subType: history
-description: "About 320 AF an adventurer with Tānvüri backing brought a few hundred men over the conch-door and took a string of eastern janapadas, and the Mahā-Sangha raised the third and last army of its history to put him out."
+description: "About 320 AF an adventurer with Tāntsou backing brought a few hundred men over the conch-door and took a string of eastern janapadas, and the Mahā-Sangha raised the third and last army of its history to put him out."
 tags: [history, vedyara]
 data:
   culture: vedyariclt
@@ -21,7 +21,7 @@ data:
         - place-jnanadvara
         - place-estrnreach
       summary: >-
-        An adventurer backed by a Tānvüri frontier faction brings a small force, a few hundred picked men, over Shankhadvāra, the easternmost and worst of the crossings, and subjugates a series of eastern janapadas one by one. The senior priests of the region call on every janapada within reach to send its militia, and the Mahā-Sangha's third confederation army puts him back out through the door he came in by and dissolves. The janapadas raise the Sangha-fort on the col and keep it garrisoned, supplied by Hvarn pack-trains, and Tānvür's frontier officers begin the register of Vedyari crossings they have kept without a gap since.
+        An adventurer backed by a Tāntsou frontier faction brings a small force, a few hundred picked men, over Shankhadvāra, the easternmost and worst of the crossings, and subjugates a series of eastern janapadas one by one. The senior priests of the region call on every janapada within reach to send its militia, and the Mahā-Sangha's third confederation army puts him back out through the door he came in by and dissolves. The janapadas raise the Sangha-fort on the col and keep it garrisoned, supplied by Hvarn pack-trains, and Tāntsou's frontier officers begin the register of Vedyari crossings they have kept without a gap since.
       standing: attested
       where:
         locus: [place-sankhadvra]
@@ -36,11 +36,11 @@ data:
             knowledge: named
           - place: place-jnanadvara
             how: >-
-              the Tānvüri way-station beyond the throat begins a register of everyone who comes through, and has kept it without a gap since
+              the Tāntsou way-station beyond the throat begins a register of everyone who comes through, and has kept it without a gap since
             knowledge: named
           - place: place-estrnreach
             how: >-
-              Tānvür's frontier officers register every Vedyari caravan and meet a Vedyari party at the col and not before
+              Tāntsou's frontier officers register every Vedyari caravan and meet a Vedyari party at the col and not before
             knowledge: named
           - place: place-vindhyalayaland
             how: >-
@@ -48,7 +48,7 @@ data:
             knowledge: named
       who:
         - {ref: affiliation-janpdsvdyr, role: actor}
-        - {ref: affiliation-tanvurempr, role: instrument}
+        - {ref: affiliation-tantsouempr, role: instrument}
         - {ref: affiliation-hvarnguides, role: instrument}
       follows:
         - event: lore-hndrdbnnrs
@@ -60,7 +60,7 @@ data:
             A precedent, not a victory. The temple-republics have no army and no mechanism for raising one, and raised one. The fort is the standing answer to whether the confederation can act as one, and nobody has to argue it at a Mela.
           agrees: full
           withholds: the adventurer's name, which the priests do not repeat
-        - by: affiliation-tanvurempr
+        - by: affiliation-tantsouempr
           says: >-
             A private adventurer. No act of the throne, and the frontier is watched precisely so that such men are known.
           agrees: disputes
@@ -69,7 +69,7 @@ data:
             The whole northern frontier is the kingdom's to watch, and the fort is an intrusion into it.
           agrees: partly
       unresolved:
-        - the adventurer's name, and which Tānvüri frontier faction backed him
+        - the adventurer's name, and which Tāntsou frontier faction backed him
         - the two earlier confederation armies of Vedyari history, which no record dates or describes
 ---
 
@@ -77,7 +77,7 @@ A priest of the Bhārava circuit who has served his turn at [[place-sanghafort|t
 
 ## The Door
 
-[[place-sankhadvra|Shankhadvāra]], the conch-door, is the last crossing of the wall and the worst: a shelf cut above a gorge under the black face of [[place-kalashkhra|Kālashikhara]], two months from anywhere in [[place-tanvuregin|Tānvür]] worth reaching, and crossed by two or three parties in a good year. About 320 AF, in the generation [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came down the western end of the range, an adventurer brought a force over it from the Tānvüri side.
+[[place-sankhadvra|Shankhadvāra]], the conch-door, is the last crossing of the wall and the worst: a shelf cut above a gorge under the black face of [[place-kalashkhra|Kālashikhara]], two months from anywhere in [[place-tantsouregin|Tāntsou]] worth reaching, and crossed by two or three parties in a good year. About 320 AF, in the generation [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came down the western end of the range, an adventurer brought a force over it from the Tāntsou side.
 
 It was not a host. The conch-door carries no army, and the **Conch-Door Incursion** came over it as a few hundred picked men, which was enough. A janapada fields a few hundred militia on short notice and a few thousand on a long call-up, and it fields them alone. The adventurer went through the eastern janapadas one at a time, subjugated a series of them and threatened more, and no single sabhā could raise enough to stop him. The one that refused him, **Thirnugrāma**, he burned in its own temple hall with its sabhā inside ([[lore-silenthall|the Silenced Hall]]), and that is why the priests do not speak his name.
 
@@ -89,9 +89,9 @@ What the janapadas took from the affair was a precedent. They built the Sangha-f
 
 ## Two Accounts of the Backing
 
-Every Vedyari account says the adventurer came with Tānvüri backing, and the account the eastern janapadas give names a frontier faction and not the throne. [[affiliation-tanvurempr|The Empire of Tānvür]] says he was a private adventurer and nothing it did, and that neither side has ever seriously tried to rule the other. Both accounts are current.
+Every Vedyari account says the adventurer came with Tāntsou backing, and the account the eastern janapadas give names a frontier faction and not the throne. [[affiliation-tantsouempr|The Empire of Tāntsou]] says he was a private adventurer and nothing it did, and that neither side has ever seriously tried to rule the other. Both accounts are current.
 
-What Tānvür did afterward is a matter of record. Its frontier officers have registered every Vedyari caravan through [[place-estrnreach|the Eastern Reach]] for four hundred years, and the way-station beyond the throat of [[place-jnanadvara|Jñānadvāra]] has kept its register of travelers without a gap for as long. Vedyari visitors are treated with courtesy there and are never shown the register.
+What Tāntsou did afterward is a matter of record. Its frontier officers have registered every Vedyari caravan through [[place-estrnreach|the Eastern Reach]] for four hundred years, and the way-station beyond the throat of [[place-jnanadvara|Jñānadvāra]] has kept its register of travelers without a gap for as long. Vedyari visitors are treated with courtesy there and are never shown the register.
 
 ## The Quarrel It Left
 

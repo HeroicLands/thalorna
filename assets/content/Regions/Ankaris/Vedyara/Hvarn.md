@@ -64,7 +64,7 @@ data:
     janpdsvdyr: aligned
     osketguides: aligned
     vindhyalay: unaligned
-    tanvurempr: unaligned
+    tantsouempr: unaligned
   packFolder: vedyara
 sohl: {system: {commonSkills: [hvarnlng]}}
 ---

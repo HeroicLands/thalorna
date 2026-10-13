@@ -34,7 +34,7 @@ data:
       accounts:
         - by: lore-mdhvndrcnt
           says: >-
-            The count begins with the standardization, roughly 1,200 years before the present, and takes its zero from no Vylarian, Khelâthi or Tānvüri event.
+            The count begins with the standardization, roughly 1,200 years before the present, and takes its zero from no Vylarian, Khelâthi or Tāntsou event.
           agrees: full
         - by: place-worldthlrn
           says: Nothing. No people outside Vedyara reckons from it.

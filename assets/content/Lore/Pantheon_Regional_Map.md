@@ -66,17 +66,17 @@ The ancient faith of the great southern empire, centered on solar worship and th
 
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—state religion of the empire
 
-## [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]]
+## [[affiliation-tengwouronglei|Téngwou Rong Léi]]
 
-The **Celestial Order** (Tëngvōk Rūrk Lëi, "The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
+The **Celestial Order** (Téngwou Rong Léi, "The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
 
 **Primary region:**
 
-- [[affiliation-tanvurempr|Tānvür]]—state religion, deeply integrated with caste system
+- [[affiliation-tantsouempr|Tāntsou]]—state religion, deeply integrated with caste system
 
 **Secondary influence:**
 
-- [[place-jurthatrgn|Jürthāt]]—regional variants of the Celestial Order, divergently interpreted after a thousand years of separation from Tānvür
+- [[place-jenchairgn|Jénchài]]—regional variants of the Celestial Order, divergently interpreted after a thousand years of separation from Tāntsou
 
 ## [[affiliation-itzanpnthn|Itzáni]]
 

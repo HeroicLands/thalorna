@@ -163,7 +163,7 @@ To the **southwest**, the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the do
 
 To the **northwest**, the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] is a major trading partner. The Tēghumōd merchant-houses maintain offices in Sanctara and Alyssar, and Tarûzelian bankers handle Ātárzád commerce in the Vylarian Sea. Religious differences do not impede trade.
 
-To the **east**, beyond the waste, lie [[place-vedyarargn|Vedyara]] and (much further) [[place-tanvuregin|Tānvür]]. Contact is thin and through merchants; the Ātárzád know of these distant civilizations but have little practical engagement with them.
+To the **east**, beyond the waste, lie [[place-vedyarargn|Vedyara]] and (much further) [[place-tantsouregin|Tāntsou]]. Contact is thin and through merchants; the Ātárzád know of these distant civilizations but have little practical engagement with them.
 
 To the **far west**, [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] is a special case. By Ātárzád doctrine, no Flame-born may set foot in Aû'Khelâthu willingly—to do so is to return to the place of bondage. The Tēghumōd merchants who must reach the Northern Fertile Region for trade do so by sea via Tarûzelian shipping rather than overland through Khelâthi territory; the marginal cost of the longer route is considered a religious obligation. The current Gar-Aû of Aû'Khelâthu has, in recent years, made overtures suggesting that any returning Flame-born would be welcomed and that the old bondage is many generations gone; the Council of the Twelve has not deigned to reply.
 

@@ -3,7 +3,7 @@ shortcode: suryasamdra
 name: {full: Sūrya-samudra, aliases: [The Eastern Sea]}
 type: place
 subType: region
-description: "The eastern ocean off Vedyara—the sea the sun rises from, worked by Tānvüri junks and Jürthāti hulls, and closed to shipping for four months of the year."
+description: "The eastern ocean off Vedyara—the sea the sun rises from, worked by Tāntsou junks and Jénchài hulls, and closed to shipping for four months of the year."
 tags: [region, coastal]
 data:
   demonym: null
@@ -29,7 +29,7 @@ The coast plants when the rain starts and sails when it stops, and the interior 
 
 ## Who Sails It
 
-Tānvüri junks work down from the southern ports of [[place-tanvuregin|Tānvür]] and have reached this coast for as long as either side has kept a record. Jürthāti hulls come from further east and come less often, and their captains are reckoned the finest seamen anybody here has dealt with. Vedyari shipping is the bulk of the traffic and the shortest-legged of it. A Vedyaran coasting ship works from mouth to mouth in sight of land, and the long eastern passage is left to the men who live at the other end of it.
+Tāntsou junks work down from the southern ports of [[place-tantsouregin|Tāntsou]] and have reached this coast for as long as either side has kept a record. Jénchài hulls come from further east and come less often, and their captains are reckoned the finest seamen anybody here has dealt with. Vedyari shipping is the bulk of the traffic and the shortest-legged of it. A Vedyaran coasting ship works from mouth to mouth in sight of land, and the long eastern passage is left to the men who live at the other end of it.
 
 Three kinds of hull are built on this coast. The river-boat is flat-bottomed, works the four rivers and the mouths, and never goes outside the bar. The coasting ship carries the trade, runs the shore in the open season, and is the hull a Vedyari means when he says ship. The war-galley is oared, is built at one city only, and does not carry cargo.
 
@@ -46,5 +46,5 @@ What the deck gives, it gives only afloat. A sailor who takes his pay and stays 
 - [[place-vedyarargn|Vedyara Region]]—the coast this sea takes
 - [[place-suryaislnds|The Sūrya-samudra Islands]]—the island chain to the southeast
 - [[place-meghsamdra|The Megha-samudra]]—the southern sea
-- [[place-tanvuregin|Tānvür Region]]—the junks' home ports
-- [[place-jurthatrgn|Jürthāt Region]]—the eastern archipelago
+- [[place-tantsouregin|Tāntsou Region]]—the junks' home ports
+- [[place-jenchairgn|Jénchài Region]]—the eastern archipelago

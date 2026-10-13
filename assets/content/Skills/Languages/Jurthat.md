@@ -3,7 +3,7 @@ shortcode: jurthatlng
 name: {full: Jürthāti Language, aliases: []}
 type: skill
 subType: language
-description: "The island speech of the Nine Mountains—a daughter of Tānvüri hardened by a thousand years of separation, and layered with the most elaborate honorifics in the east."
+description: "The island speech of the Nine Mountains—a daughter of Tāntsou hardened by a thousand years of separation, and layered with the most elaborate honorifics in the east."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
@@ -14,24 +14,24 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Tānvüri}}
+  flags: {"thalorna": {lang_family: Tāntsou}}
 ---
 
-Jürthāti is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Jürthāti, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Jürthāti is a tongue of the Tāntsou family. Fluency measures the sophistication of expression in Jürthāti, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Jürthāti is the speech of the [[affiliation-jurthatempr|Jürthāt Empire]]—the nine volcanic islands east of the mainland, which their inhabitants call **Thātvōng**, the Nine Mountains. It descends from the Tānvüri brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tanvurempr|Tānvür]] does not concede this, and Tānvüri grammarians still describe Jürthāti as a provincial corruption; Jürthāti scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
+Jürthāti is the speech of the [[affiliation-jenchaiempr|Jénchài Empire]]—the nine volcanic islands east of the mainland, which their inhabitants call **Chàiwōng**, the Nine Mountains. It descends from the Tāntsou brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tantsouempr|Tāntsou]] does not concede this, and Tāntsou grammarians still describe Jürthāti as a provincial corruption; Jürthāti scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
 
 ## Overview
 
-Where [[skill-tanvurlng|Tānvüri]] is a language of ministries—precise, compounding, built to specify—Jürthāti is a language of obligation. Its distinctive machinery is social: an elaborate apparatus of honorific, humble and neutral verb forms that encodes the relative standing of speaker, listener and subject in nearly every sentence uttered. There is no neutral way to say that a man arrived. The verb must place him, and place the speaker relative to him, and a wrong choice is not a grammatical error but an insult with consequences in a society where a retainer's honor is a live instrument.
+Where [[skill-tantsoulng|Tāntsou]] is a language of ministries—precise, compounding, built to specify—Jürthāti is a language of obligation. Its distinctive machinery is social: an elaborate apparatus of honorific, humble and neutral verb forms that encodes the relative standing of speaker, listener and subject in nearly every sentence uttered. There is no neutral way to say that a man arrived. The verb must place him, and place the speaker relative to him, and a wrong choice is not a grammatical error but an insult with consequences in a society where a retainer's honor is a live instrument.
 
 The language is correspondingly indirect. A refusal is very rarely a negation; it is an expression of the difficulty of the thing, or of the speaker's own inadequacy to it, and a listener who takes it literally has misunderstood. This has ruined more than one mainland embassy.
 
 ## Phonology
 
-Jürthāti keeps the Tānvüri vowel inventory—the front rounded **ü** and **ö**, the central **ë**, and the long **ā ī ō ū**—but has simplified it in the mouth: the mainland's tonal contours have collapsed into a **pitch-accent** that distinguishes word pairs rather than carrying grammatical weight, and the tone-poor result is one of the first things a Tānvüri ear notices.
+Jürthāti keeps the Tāntsou vowel inventory—the front rounded **ü** and **ö**, the central **ë**, and the long **ā ī ō ū**—but has simplified it in the mouth: the mainland's tonal contours have collapsed into a **pitch-accent** that distinguishes word pairs rather than carrying grammatical weight, and the tone-poor result is one of the first things a Tāntsou ear notices.
 
-**Consonants:** The islands lenited the mainland's aspirates in medial position (_Thōk_ remains initially, but appears as _-dōk_ in compounds) and lost the mainland's final stops entirely, so Jürthāti words end in a vowel or a nasal with very few exceptions. Consonant clusters that Tānvüri permits at a morpheme boundary are broken by an epenthetic vowel. The overall effect is a language of open, evenly weighted syllables—flatter than Tānvüri, and markedly easier for a foreigner to pronounce badly enough to be understood.
+**Consonants:** The islands lenited the mainland's aspirates in medial position (_Thōk_ remains initially, but appears as _-dōk_ in compounds) and lost the mainland's final stops entirely, so Jürthāti words end in a vowel or a nasal with very few exceptions. Consonant clusters that Tāntsou permits at a morpheme boundary are broken by an epenthetic vowel. The overall effect is a language of open, evenly weighted syllables—flatter than Tāntsou, and markedly easier for a foreigner to pronounce badly enough to be understood.
 
 **Prosody:** Even mora-timing. Jürthāti verse is counted rather than stressed or rhymed, which is why the short forms—the twelve-mora and seventeen-mora shapes composed at every level of society—travel so poorly into western tongues.
 
@@ -39,7 +39,7 @@ Jürthāti keeps the Tānvüri vowel inventory—the front rounded **ü** and **
 
 **Word order:** Subject-Object-Verb, rigidly. The verb is final and carries the honorific load, so the socially decisive information in a Jürthāti sentence arrives last, and interrupting a speaker before the verb is both rude and uninformative.
 
-**Particles, not cases:** Grammatical relations are marked by postposed particles rather than by suffixed case endings—a divergence from mainland practice that Tānvüri grammarians treat as the clearest evidence of decay.
+**Particles, not cases:** Grammatical relations are marked by postposed particles rather than by suffixed case endings—a divergence from mainland practice that Tāntsou grammarians treat as the clearest evidence of decay.
 
 **Honorific register:** Three tiers of verb (humble, neutral, honorific) interact with a further distinction between plain and polite forms, giving a practical grid of some dozen ways to say the same act. Retainer speech to a lord, lord to retainer, lord to lord of equal rank, and any of these in the presence of a third party are all formally distinct.
 
@@ -47,15 +47,15 @@ Jürthāti keeps the Tānvüri vowel inventory—the front rounded **ü** and **
 
 ## Script & Literacy
 
-Jürthāti is written in [[skill-tngthkscrpt|Tëng Thōk]], the same logographic Celestial Record the mainland uses—the script is not tied to either language, and a Jürthāti retainer and a Tānvüri minister who cannot exchange three spoken sentences can negotiate in writing without difficulty. Neither court will concede a separate script to the other, so the islands write the mainland's characters and read them aloud in their own tongue.
+Jürthāti is written in [[skill-tengchouscript|Téng Chou]], the same logographic Celestial Record the mainland uses—the script is not tied to either language, and a Jürthāti retainer and a Tāntsou minister who cannot exchange three spoken sentences can negotiate in writing without difficulty. Neither court will concede a separate script to the other, so the islands write the mainland's characters and read them aloud in their own tongue.
 
-Two island habits diverge. First, the reading of a character in Jürthāti is frequently not its Tānvüri reading, and educated Jürthāti hold **two** readings for many characters—the native word and the borrowed mainland pronunciation—with the choice between them carrying its own register. Second, calligraphy in the formal hand is a spiritual discipline in Jürthāt rather than a bureaucratic qualification, studied by warrior-retainers alongside blade-work and the tea ceremony, so literacy runs higher among the island aristocracy than among the mainland rank they correspond to.
+Two island habits diverge. First, the reading of a character in Jürthāti is frequently not its Tāntsou reading, and educated Jürthāti hold **two** readings for many characters—the native word and the borrowed mainland pronunciation—with the choice between them carrying its own register. Second, calligraphy in the formal hand is a spiritual discipline in Jénchài rather than a bureaucratic qualification, studied by warrior-retainers alongside blade-work and the tea ceremony, so literacy runs higher among the island aristocracy than among the mainland rank they correspond to.
 
 ## Regional Dialects
 
 **Court Jürthāti (Thāt Kōvēn):** The prestige speech of the ceremonial Emperor's household and the great lords' courts. Slowest, most honorific-dense, and the standard for poetry.
 
-**Coastal dialects:** The speech of the harbor provinces, with a considerable Valtári and Tānvüri trade vocabulary and much of the honorific grid worn smooth by use.
+**Coastal dialects:** The speech of the harbor provinces, with a considerable Valtári and Tāntsou trade vocabulary and much of the honorific grid worn smooth by use.
 
 **Mountain dialects:** Conservative, retaining final consonants the standard has lost, and often unintelligible to a coastal speaker at speed.
 
@@ -71,7 +71,7 @@ Two island habits diverge. First, the reading of a character in Jürthāti is fr
 
 ## Related Languages
 
-Jürthāti's nearest relative by far is [[skill-tanvurlng|Tānvüri]], from which it descends; the relationship is close enough that a great deal of vocabulary is transparently shared, and distant enough that spoken mutual intelligibility is poor to nil, particularly in the honorific machinery, which Tānvüri simply does not have. Written communication is unaffected. Sustained trade contact has left Jürthāti with a stratum of [[skill-valtarlng|Valtári]] harbor vocabulary and a smaller one of [[skill-tanvurlng|Tānvüri]] administrative terms readopted in their mainland pronunciation.
+Jürthāti's nearest relative by far is [[skill-tantsoulng|Tāntsou]], from which it descends; the relationship is close enough that a great deal of vocabulary is transparently shared, and distant enough that spoken mutual intelligibility is poor to nil, particularly in the honorific machinery, which Tāntsou simply does not have. Written communication is unaffected. Sustained trade contact has left Jürthāti with a stratum of [[skill-valtarlng|Valtári]] harbor vocabulary and a smaller one of [[skill-tantsoulng|Tāntsou]] administrative terms readopted in their mainland pronunciation.
 
 ## Naming Traditions
 
