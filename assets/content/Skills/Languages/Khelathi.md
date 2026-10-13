@@ -255,27 +255,27 @@ rather than being chosen name by name.
 A god carries a sacred-register stem, and the register is audible: the Twelve
 pause and the local gods do not.
 
-| God          | Domain                      |
-| ------------ | --------------------------- |
-| `Uqa'â`      | fire                        |
-| `Qe'âret`    | order                       |
-| `Reth'Sa'âr` | knowledge                   |
-| `Psaq'âru`   | creation                    |
-| `Uznêra`     | fertility and healing       |
-| `Wethûr`     | death                       |
-| `Thubâ'i`    | prosperity                  |
-| `Tjaq'ûr`    | storms                      |
-| `Nehle'ât`   | dreams                      |
-| `Hezmuîri`   | decay                       |
-| `Gewaâtis`   | voyages                     |
-| `Azu'âthis`  | chaos                       |
-| `Qeztu`      | war                         |
-| `Tjelsur`    | river-beasts                |
-| `Shebazet`   | the marsh                   |
-| `Pelgun`     | desert roads                |
-| `Linhur`     | the hunt, the hunter        |
-| `Linqur`     | the hunt, the killing       |
-| `Igel'Nâru`  | the river, built on `igelu` |
+| God          | Domain                      | Standing |
+| ------------ | --------------------------- | -------- |
+| `Uqa'â`      | fire                        | Twelve   |
+| `Qe'âret`    | order                       | Twelve   |
+| `Reth'Sa'âr` | knowledge                   | Twelve   |
+| `Psaq'âru`   | creation                    | Twelve   |
+| `Uzn'êra`    | fertility and healing       | Twelve   |
+| `Weth'ûr`    | death                       | Twelve   |
+| `Thubâ'i`    | prosperity                  | Twelve   |
+| `Tjaq'ûr`    | storms                      | Twelve   |
+| `Nehle'ât`   | dreams                      | Twelve   |
+| `Hezmu'îri`  | decay                       | Twelve   |
+| `Gewa'âtis`  | voyages                     | Twelve   |
+| `Azu'âthis`  | chaos                       | Twelve   |
+| `Qeztu`      | war                         | local    |
+| `Tjelsur`    | river-beasts                | local    |
+| `Shebazet`   | the marsh                   | local    |
+| `Pelgun`     | desert roads                | local    |
+| `Linhur`     | the hunt, the hunter        | local    |
+| `Linqur`     | the hunt, the killing       | local    |
+| `Igelnâru`   | the river, built on `igelu` | local    |
 
 #### The clipped house-form
 
@@ -289,7 +289,7 @@ names a house for chaos.
 | `Qe'âret`    | `Qar`      |
 | `Reth'Sa'âr` | `Retha`    |
 | `Psaq'âru`   | `Psaqa`    |
-| `Uznêra`     | `Uzner`    |
+| `Uzn'êra`    | `Uzner`    |
 
 ### Place-building elements
 
@@ -424,6 +424,11 @@ keeps its own, so a retired form may stand in either.
 | `Âthen'Rêlu`                 | `Thelqen'Rêlu`             | the name of a god from outside the setting              |
 | `lagar`                      | `mazgar`                   | a real word                                             |
 | `lagaru`                     | `mazgaru`                  | a real word                                             |
+| `Uznêra`                     | `Uzn'êra`                  | one of the Twelve, written without its pause            |
+| `Wethûr`                     | `Weth'ûr`                  | one of the Twelve, written without its pause            |
+| `Hezmuîri`                   | `Hezmu'îri`                | one of the Twelve, written without its pause            |
+| `Gewaâtis`                   | `Gewa'âtis`                | one of the Twelve, written without its pause            |
+| `Igel'Nâru`                  | `Igelnâru`                 | a local god, written with the pause of the Twelve       |
 | `Aqun-Uqa, wethûr ezu qelet` | `Uqa'â, qamzet ezu gazlet` | sounds the death god's name in an invocation of the sun |
 
 ## Naming Traditions
@@ -573,9 +578,9 @@ whether the body is a trade, a household, a priesthood or a court.
 | --------- | --------------------------------------- | ------------------------------- |
 | _Gar-_    | a house: a family, a lineage, an office | _Gar-Sa'Aqutu_, _Gar-Meglay_    |
 | _Lin'_    | a sworn body of a trade                 | _Lin'Githar_, the weavers       |
-| _Lut-_    | a mansion: a god's temple, or an estate | _Lut-Uznêra_, _Lut-Mulu_        |
+| _Lut-_    | a mansion: a god's temple, or an estate | _Lut-Uzn'êra_, _Lut-Mulu_       |
 | _Lem'_    | an order, the servants of a god         | _Lem'Thubâ'i_                   |
-| _Genzet'_ | a court or council                      | _Genzet'Uznêra_                 |
+| _Genzet'_ | a court or council                      | _Genzet'Uzn'êra_                |
 | _Zab'_    | the lords of a thing                    | _Zab elu Aû'Khelâthu_           |
 | _Zeghet'_ | a company that goes out                 | _Zeghet'Nelgu_, the sacred hunt |
 
@@ -594,8 +599,8 @@ both, to one, or to neither, and which he names when asked says a great deal
 about him.
 
 **A god's establishments share his name and differ by head-word.** The temple of
-Uznêra is _Lut-Uznêra_; the priesthood serving in it is _Lem'Uznêra_; the
-council that governs its holdings is _Genzet'Uznêra_. A speaker who says the
+Uzn'êra is _Lut-Uzn'êra_; the priesthood serving in it is _Lem'Uzn'êra_; the
+council that governs its holdings is _Genzet'Uzn'êra_. A speaker who says the
 wrong one has said something else entirely, and the distinction matters in any
 dispute over property, since the three hold different things.
 

@@ -427,7 +427,7 @@ Ziprahu was born into the Ipmaâqu family, a minor merchant household of the [[a
 
 Apprenticed at thirteen to Master [[being-zokhothu2|Zokhothu]], then the Empire's foremost locksmith, Ziprahu spent twelve years in intensive study of his craft. Zokhothu was an exacting teacher whose patience was famous but whose standards were impossibly high. Under his tutelage, Ziprahu learned that locks were expressions of philosophy as much as mechanical devices—they were about trust, about creating a visible and tactile representation of the boundary between the protected and the vulnerable. When Zokhothu retired at Ziprahu's twenty-fifth year, he personally recommended Ziprahu as his successor to the guild, an honor rarely granted.
 
-Now, for fifteen years, Ziprahu has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-gewaatisdty|Gewaâtis]] the voyager, and the small circle of guild members who recognize his genius.
+Now, for fifteen years, Ziprahu has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-gewaatisdty|Gewa'âtis]] the voyager, and the small circle of guild members who recognize his genius.
 
 ## Psyche
 
@@ -467,7 +467,7 @@ Treasurer [[being-imhoqar2|Imhoqar]]
 Lady [[being-balenermshg2|Balenerî Mesheget]]
 : A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Ziprahu with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
 
-[[affiliation-lutgewaatis|The Lut-Gewaâtis]]
+[[affiliation-lutgewaatis|The Lut-Gewa'âtis]]
 : The priesthood maintains contracts with Ziprahu for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
 
 Master [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]

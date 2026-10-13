@@ -78,11 +78,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "Water first, then everything else," the Canal-Warden of [[place-garlut|Gar-Lût]] tells a surveyor sent to look at his works. "The gardens, the shrines and the grain all stand or fall on the ditches, and a ditch that is not cleared in its season does not forgive you."
 
-The **Selat of Gar-Lût** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a small, devout selat of healing-shrines and herb-gardens with about 240,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-garlutselat|Gar-Lût Selat]].
+The **Selat of Gar-Lût** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a small, devout selat of healing-shrines and herb-gardens with about 240,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uzn'êra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-garlutselat|Gar-Lût Selat]].
 
 ## Character
 
-The seat is [[place-garlut|Gar-Lût]], where the Halzi'a keeps his court and the chief temple of [[lore-uzneradty|Uznêra]] stands. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend. Uznêra's teaching, that creation needs the partnership of a masculine and a feminine principle, is the foundation of the standing [[lore-khelathiclt|Khelâthi]] women hold in law, and her priestesses take high office in the temples.
+The seat is [[place-garlut|Gar-Lût]], where the Halzi'a keeps his court and the chief temple of [[lore-uzneradty|Uzn'êra]] stands. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend. Uzn'êra's teaching, that creation needs the partnership of a masculine and a feminine principle, is the foundation of the standing [[lore-khelathiclt|Khelâthi]] women hold in law, and her priestesses take high office in the temples.
 
 ## Commerce and Currency
 
@@ -93,6 +93,6 @@ Gar-Lût uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapte
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
 - [[place-garlut|Gar-Lût]]—selat capital
-- [[affiliation-uznera|Faith of Uznêra]]—patron cult
+- [[affiliation-uznera|Faith of Uzn'êra]]—patron cult
 - [[affiliation-garhalzi|Gár-Hálzi]]—temple-treasuries
 - [[place-garlutselat|Gar-Lût Selat]]—the land the selat holds

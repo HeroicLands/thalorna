@@ -15,7 +15,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A smaller and more specialized organization than the great cults of Wethûr or Qe'âret. Its knowledge cannot be taught to everyone: it demands natural aptitude as well as years of disciplined study, which keeps the priesthood deliberately small.
+      A smaller and more specialized organization than the great cults of Weth'ûr or Qe'âret. Its knowledge cannot be taught to everyone: it demands natural aptitude as well as years of disciplined study, which keeps the priesthood deliberately small.
     ranks:
       - level: 0
         title: Rite-Denied
@@ -80,7 +80,7 @@ Every home keeps a small shrine to Nehle'ât, often a carved crescent moon or an
 
 ## Organization
 
-His priesthood is small and specialized beside the clergy of [[lore-wethurdty|Wethûr]] or [[lore-qearetdty|Qe'âret]]. All priests answer ultimately to the Gar-Aû as high priest of all the gods, and the Thâz'Lekhau (High Priest) of Nehle'ât oversees a smaller body than theirs. The smallness follows from the god's nature: he is met alone, in the privacy of sleep, so his priests work less as administrators of grand temple complexes and more as guides and interpreters, in shrines and nightlong vigils.
+His priesthood is small and specialized beside the clergy of [[lore-wethurdty|Weth'ûr]] or [[lore-qearetdty|Qe'âret]]. All priests answer ultimately to the Gar-Aû as high priest of all the gods, and the Thâz'Lekhau (High Priest) of Nehle'ât oversees a smaller body than theirs. The smallness follows from the god's nature: he is met alone, in the privacy of sleep, so his priests work less as administrators of grand temple complexes and more as guides and interpreters, in shrines and nightlong vigils.
 
 The Lem'Nelgir (ordained priests) train at length in dream interpretation, studying the symbolic language in which the gods speak to mortals. They learn to tell true vision from anxiety, prophecy from fantasy and divine warning from the mind's random wandering. That knowledge cannot be taught to everyone: it demands natural aptitude as well as years of disciplined study. The Wazu (acolytes) serve them by keeping the shrines, preparing incense and offerings and assisting at the nightlong festival vigils.
 
@@ -90,6 +90,6 @@ Many seers, oracles and dream-interpreters who were never ordained by a temple s
 
 Nehle'ât works with the [[affiliation-rethsaar|Faith of Reth'Sa'âr]], god of wisdom and divine knowledge. [[lore-rethsaardty|Reth'Sa'âr]] records and preserves truth in the waking hours; Nehle'ât delivers truth in visions during sleep. Reth'Sa'âr's ibis-quill writes on golden scrolls, and Nehle'ât's eye reads the symbols the gods write in the night sky and in mortal consciousness alike. Many theologians hold the two to be aspects of one cosmic principle, the preservation and communication of divine truth.
 
-His bond with Wethûr, [[affiliation-wethur|Lord of Silent Passage]], is subtler and matters just as much. Both preside over transitions: Wethûr over the passage from life to death, Nehle'ât over the nightly passage from waking to sleep. Khelâthi theology calls sleep "the lesser death," and dreams are understood as rehearsals for the greater journey after death, so those who learn to move through their dreams with awareness and acceptance under Nehle'ât's protection are better prepared for the final passage under Wethûr. Some advanced priests teach that the two may guide the same soul at different thresholds.
+His bond with Weth'ûr, [[affiliation-wethur|Lord of Silent Passage]], is subtler and matters just as much. Both preside over transitions: Weth'ûr over the passage from life to death, Nehle'ât over the nightly passage from waking to sleep. Khelâthi theology calls sleep "the lesser death," and dreams are understood as rehearsals for the greater journey after death, so those who learn to move through their dreams with awareness and acceptance under Nehle'ât's protection are better prepared for the final passage under Weth'ûr. Some advanced priests teach that the two may guide the same soul at different thresholds.
 
-He also stands in protective relation to [[lore-uzneradty|Uznêra]], goddess of healing and renewal. Uznêra restores the body by direct intervention and healing touch; Nehle'ât lets the body restore itself through undisturbed, protected sleep. Pilgrims who come to a temple of Uznêra for healing often spend their nights in sanctuaries of Nehle'ât, believing that physical healing and protected sleep together restore wholeness.
+He also stands in protective relation to [[lore-uzneradty|Uzn'êra]], goddess of healing and renewal. Uzn'êra restores the body by direct intervention and healing touch; Nehle'ât lets the body restore itself through undisturbed, protected sleep. Pilgrims who come to a temple of Uzn'êra for healing often spend their nights in sanctuaries of Nehle'ât, believing that physical healing and protected sleep together restore wholeness.

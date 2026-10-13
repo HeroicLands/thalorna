@@ -82,7 +82,7 @@ People facing particular danger from storms visit his temples to make personal o
 
 ## Organization
 
-The priesthood is smaller and more specialized than those of order-minded gods like [[lore-wethurdty|Wethûr]] or Qe'âret. The Thâz'Lekhau (High Priest) typically holds both religious and advisory roles at the [[lore-garauu|Gar-Aû]]'s court, as a specialist consultant on war, frontier campaigns and crisis management, because his domain reaches past storms into strategic conflict and the chaos of warfare, both understood as the god's disruptive, change-bringing power.
+The priesthood is smaller and more specialized than those of order-minded gods like [[lore-wethurdty|Weth'ûr]] or Qe'âret. The Thâz'Lekhau (High Priest) typically holds both religious and advisory roles at the [[lore-garauu|Gar-Aû]]'s court, as a specialist consultant on war, frontier campaigns and crisis management, because his domain reaches past storms into strategic conflict and the chaos of warfare, both understood as the god's disruptive, change-bringing power.
 
 The Lem'Nelgir (ordained priests) train in theology and in practical knowledge. They study meteorology and can forecast the weather, which makes their predictions valuable to traders and the military. They learn to read lightning scars and storm patterns, developing an almost mystical skill at finding meaning in natural events. Some also serve as military strategists, advising commanders on the best timing for a campaign by astrological and storm-pattern alignments that suggest the god's favor.
 

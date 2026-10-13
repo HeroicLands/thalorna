@@ -479,7 +479,7 @@ Quztar's primary motivation is the preservation of craft excellence in an age in
 
 ### Patrons
 
-The Lut-Uznêra, High Priestess **Amqelitâna**
+The Lut-Uzn'êra, High Priestess **Amqelitâna**
 : The great temple dedicated to the deity of fertility and renewal has commissioned Quztar for all major thatching work for the past three decades. Amqelitâna views Quztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
 [[affiliation-linzegarmglt|Lin'Zegaru elu Miglet]]
@@ -500,7 +500,7 @@ Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]
 
 ## Plot Hooks
 
-1. **The Temple's Silent Roof**: Quztar is commissioned for what should be a routine maintenance project on the great Lut-Uznêra, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
+1. **The Temple's Silent Roof**: Quztar is commissioned for what should be a routine maintenance project on the great Lut-Uzn'êra, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
 
 2. **The Apprentice's Betrayal and Redemption**: One of Quztar's most talented students, a young man named [[being-aqasi|Aqasi]], secretly takes a lucrative contract with a wealthy merchant known for cutting corners on quality. When one of Aqasi's roofs fails catastrophically in a storm, injuring multiple people, Quztar can distance himself from the scandal or risk his own reputation by publicly supporting his student through the consequences.
 

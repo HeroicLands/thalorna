@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "Learn the two sets of keys first," the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]'s steward at [[place-khelzuret|Khelzuret]] tells a clerk newly posted from the capital. "The Halzi'a holds the keys to the granaries and the Thâz'Lekhau hold the keys to the tombs, and nothing in this selat that matters opens with only one set."
 
-Khelzuret is the great mortuary selat of the [[affiliation-upperrivrslt|Upper River Selatu]], the place where the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] tends its dead, and the empire's largest pilgrimage flows here. Pilgrims believe that burial in the sacred ground, or the journey and an offering alone, counts for them when the **Weighing** comes. "They are free to believe it," the steward says. "The temple takes the offering and enters it, and promises nothing, because at the Weighing a man's accounts are opened and read and wealth buys no verdict." The selat is not large or rich in the worldly sense, but in the economy of the afterlife it is the capital of the world. Its patrons are [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]], and the land it holds is [[place-khelzuretslt|Khelzuret Selat]].
+Khelzuret is the great mortuary selat of the [[affiliation-upperrivrslt|Upper River Selatu]], the place where the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] tends its dead, and the empire's largest pilgrimage flows here. Pilgrims believe that burial in the sacred ground, or the journey and an offering alone, counts for them when the **Weighing** comes. "They are free to believe it," the steward says. "The temple takes the offering and enters it, and promises nothing, because at the Weighing a man's accounts are opened and read and wealth buys no verdict." The selat is not large or rich in the worldly sense, but in the economy of the afterlife it is the capital of the world. Its patrons are [[lore-wethurdty|Weth'ûr]] and [[lore-hezmuiridty|Hezmu'îri]], and the land it holds is [[place-khelzuretslt|Khelzuret Selat]].
 
 ## Character
 
@@ -100,6 +100,6 @@ Khelzuret uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. Much of its wea
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
 - [[place-khelzuret|Khelzuret]]—Selat capital and temple-city
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon (Wethûr, Hezmuîri, [[lore-qearetdty|Qe'âret]])
+- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon (Weth'ûr, Hezmu'îri, [[lore-qearetdty|Qe'âret]])
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
 - [[place-khelzuretslt|Khelzuret Selat]]—The land the selat holds

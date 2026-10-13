@@ -20,7 +20,7 @@
  * specification are one document, and a rule the note stops stating is a rule the
  * guard stops enforcing.
  *
- * Seven predicates:
+ * Eight predicates:
  *
  * 1. **A word ends in a vowel or in `n`, `t`, `s`, `r`.** A prefix ending in `-`
  *    and a suffix opening with one are bound morphemes and close no word, so
@@ -43,6 +43,9 @@
  *    written. Marks are ignored and case is kept, so an address, which is lower
  *    case, never matches. A literature note, a poetry fence, a `terran_analog`
  *    comment and the retired table itself are not read.
+ * 8. **A god of the Twelve carries a seam and a local god carries none.** The
+ *    note's god table gives each god its standing, and the pause is the register
+ *    that standing makes audible.
  */
 
 import fs from "node:fs";
@@ -149,6 +152,9 @@ export function lexiconFrom(text) {
     // inside its parent. The gods are the rows above the house-form table.
     const godsSection = section(text, "### The nineteen gods").split(/^#### /m)[0];
     const gods = rows(godsSection).flatMap((cells) => ticked(cells[0]));
+    const standing = rows(godsSection).flatMap((cells) =>
+        ticked(cells[0]).map((god) => ({ god, standing: (cells[2] ?? "").trim() })),
+    );
     const houseForms = rows(section(text, "#### The clipped house-form")).map((cells) => ({
         god: ticked(cells[0])[0],
         form: ticked(cells[1])[0],
@@ -189,7 +195,18 @@ export function lexiconFrom(text) {
     const retiredAt =
         retiredBody ? { from: retiredFrom, to: retiredFrom + retiredBody.length } : null;
 
-    return { elements, gods, houseForms, places, bound, words, lists, retired, retiredAt };
+    return {
+        elements,
+        gods,
+        standing,
+        houseForms,
+        places,
+        bound,
+        words,
+        lists,
+        retired,
+        retiredAt,
+    };
 }
 
 /** A vowel run: one syllable, however many letters spell it. */
@@ -394,6 +411,18 @@ export function analyse(text, beings, texts = []) {
             if (isHouse && !/[uû]$/.test(name)) {
                 report(name, "error", `\`${name}\` is a house name and does not end in \`-u\``);
             }
+        }
+    }
+
+    // 8. The Twelve pause and the local gods do not.
+    for (const { god, standing } of lex.standing) {
+        const seamed = /['’]/.test(god);
+        if (standing === "Twelve" && !seamed) {
+            report(god, "error", `\`${god}\` is one of the Twelve and carries no seam`);
+        } else if (standing === "local" && seamed) {
+            report(god, "error", `\`${god}\` is a local god and carries a seam`);
+        } else if (standing !== "Twelve" && standing !== "local") {
+            report(god, "error", `\`${god}\` has the standing "${standing}", not Twelve or local`);
         }
     }
 

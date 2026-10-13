@@ -3,7 +3,7 @@ shortcode: firsttablets
 name: {full: The Ground of the First Tablets, aliases: [The Burial-Ground of Zu-Ger]}
 type: place
 subType: site
-description: "The desert-edge burial-ground above Zu-Ger where the eleven Gar-Aûu of the First House and Azlet'Qûtu lie among marker stones that the farmers below still plow round: low weathered tombs, guarded by the temple of Hezmuîri at Tjegu and by their own age."
+description: "The desert-edge burial-ground above Zu-Ger where the eleven Gar-Aûu of the First House and Azlet'Qûtu lie among marker stones that the farmers below still plow round: low weathered tombs, guarded by the temple of Hezmu'îri at Tjegu and by their own age."
 tags: [necropolis, inland, sacred]
 data:
   demonym: null
@@ -22,16 +22,16 @@ It is the burial-ground of the first eleven Gar-Aûu, the First House and **Azle
 
 ## What Is There
 
-Low flat-topped tombs of mudbrick and rough stone, weathered nearly to the level of the shelf they stand on, in rows that follow the desert edge. The oldest are shapeless mounds. The more recent have a recognizable face, a door sealed with a block, and a lintel cut in the sacred hand. It is not a place for splendor. The oldest tombs hold little gold, because the age they belong to had little to bury, and the temple of [[affiliation-hezmuiri|Hezmuîri]] at [[place-tjegu|Tjegu]] keeps watch over the whole of it. The guard is thinner than the one at Zu-Gezer, and the age of the ground does most of the work.
+Low flat-topped tombs of mudbrick and rough stone, weathered nearly to the level of the shelf they stand on, in rows that follow the desert edge. The oldest are shapeless mounds. The more recent have a recognizable face, a door sealed with a block, and a lintel cut in the sacred hand. It is not a place for splendor. The oldest tombs hold little gold, because the age they belong to had little to bury, and the temple of [[affiliation-hezmuiri|Hezmu'îri]] at [[place-tjegu|Tjegu]] keeps watch over the whole of it. The guard is thinner than the one at Zu-Gezer, and the age of the ground does most of the work.
 
 Below the shelf run the marker stones, a long row of upright slabs worn smooth, and no one in Zu-Ger can say who set them or what they mark. The farmers plow round them as their fathers did and keep a handful of rules about them: no fire beside them, no digging within a plow's length, and no gleaning of the crop that grows at their feet.
 
 ## Who Goes
 
 - **Pilgrims**, who come to be near the oldest kings.
-- **Foreign scholars**, who come to count the First Tablets on their fingers and are shown as much of the ground as the temple of Hezmuîri decides.
+- **Foreign scholars**, who come to count the First Tablets on their fingers and are shown as much of the ground as the temple of Hezmu'îri decides.
 - **Robbers**, who are after the tablets and not the metal. The inscribed tablets of the age are the oldest writing in the valley, and a dealer in Galezkara pays more for one than for a gold collar.
-- **The temple of Hezmuîri**, which says the ground is the god's to keep and the Gar-Aû's to visit.
+- **The temple of Hezmu'îri**, which says the ground is the god's to keep and the Gar-Aû's to visit.
 
 ## Hooks
 
@@ -48,4 +48,4 @@ For the GM, one answer the chambers can have: the round reigns of 150, 120 and 1
 - [[lore-akhfirsttab|The First Tablets]]—the age whose kings lie here
 - [[lore-crossmound|The Crossing to the Mound]]—when the court left them
 - [[lore-garauu|Gar-Aûu]]—the king-list and the Keepers' caution about its oldest depth
-- [[place-zugernome|Zu-Ger]] · [[place-tjegu|Tjegu]] · [[affiliation-hezmuiri|Faith of Hezmuîri]]
+- [[place-zugernome|Zu-Ger]] · [[place-tjegu|Tjegu]] · [[affiliation-hezmuiri|Faith of Hezmu'îri]]

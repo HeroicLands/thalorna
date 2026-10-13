@@ -27,12 +27,12 @@ The land is "the **Great Land**," an ancient royal selat and the old burial-grou
 
 ## Economy
 
-Grain goes to the granaries, labor to the canals and a share of everything to the temples and the crown, as in every Khelâthi selat. What the selat adds is its age and its dead: the old burial-ground of the first dynasties lies in its desert edge, and its patron is [[lore-hezmuiridty|Hezmuîri]], the [[affiliation-hezmuiri|Keeper of Transitions]].
+Grain goes to the granaries, labor to the canals and a share of everything to the temples and the crown, as in every Khelâthi selat. What the selat adds is its age and its dead: the old burial-ground of the first dynasties lies in its desert edge, and its patron is [[lore-hezmuiridty|Hezmu'îri]], the [[affiliation-hezmuiri|Keeper of Transitions]].
 
 ## Notable Features
 
 - [[place-tjegu|Tjegu]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-hezmuiri|Faith of Hezmuîri]] and its estates
+- The chief temple of [[affiliation-hezmuiri|Faith of Hezmu'îri]] and its estates
 - The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
 
 ## Settlements

@@ -157,3 +157,25 @@ test("a retired form written back into the note's own lists is refused", () => {
     assert.equal(found.length, 1);
     assert.match(found[0], /`Wal'Enrauqo` is a retired form; the setting writes `Wal'Enraqu`/);
 });
+
+test("a god of the Twelve without a seam is refused", () => {
+    const found = analyse(edited("`Qe'âret`    | order", "`Qeâret`     | order"), beings).filter(
+        (line) => /one of the Twelve and carries no seam/.test(line),
+    );
+    assert.equal(found.length, 1);
+});
+
+test("a local god with a seam is refused", () => {
+    const found = analyse(edited("`Qeztu`      | war", "`Qe'ztu`     | war"), beings).filter(
+        (line) => /local god and carries a seam/.test(line),
+    );
+    assert.equal(found.length, 1);
+});
+
+test("every god of the Twelve pauses and no local god does", () => {
+    const { standing } = lexiconFrom(note);
+    assert(standing.filter((one) => one.standing === "Twelve").length > 0);
+    for (const { god, standing: rank } of standing) {
+        assert.equal(/['’]/.test(god), rank === "Twelve", god);
+    }
+});

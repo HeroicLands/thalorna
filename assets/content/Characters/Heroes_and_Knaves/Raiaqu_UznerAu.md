@@ -425,7 +425,7 @@ Raiaqu was born into the Zekmetâ family, a lineage whose name had been whispere
 
 **The Guild and Renown**
 
-Four decades of painstaking work transformed Raiaqu from a talented artisan into the preeminent weaponcrafter of Aû'Khelâthu. He joined the City Blacksmiths' Guild and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to Uznêra, goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
+Four decades of painstaking work transformed Raiaqu from a talented artisan into the preeminent weaponcrafter of Aû'Khelâthu. He joined the City Blacksmiths' Guild and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to Uzn'êra, goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
 
 **The Present Master**
 
@@ -441,14 +441,14 @@ His gruff manner covers a deep melancholy: he has spent fifty-five years in serv
 
 ### Motivation
 
-Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uznêra's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
+Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uzn'êra's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
 
 ### Strengths
 
 - **Master Metalworking:** Raiaqu's technical mastery has no equal across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is complete.
 - **Uncompromising Standards:** He refuses to compromise on quality, which has made his name synonymous with excellence in weaponcraft. He will reject commissions that cannot meet his rigorous specifications.
 - **Profound Knowledge:** Beyond metalcraft, Raiaqu possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
-- **Ritual Expertise:** His devotion to Uznêra has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
+- **Ritual Expertise:** His devotion to Uzn'êra has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
 - **Leadership and Command:** Despite his age, Raiaqu commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
 
 ### Weaknesses

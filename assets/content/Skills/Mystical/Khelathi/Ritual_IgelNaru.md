@@ -1,6 +1,6 @@
 ---
 shortcode: ritualigelnr
-name: {full: "Ritual: Igel'Nâru", aliases: []}
+name: {full: "Ritual: Igelnâru", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-igelnaru|Faith of Igel'Nâru]]
+See [[affiliation-igelnaru|Faith of Igelnâru]]

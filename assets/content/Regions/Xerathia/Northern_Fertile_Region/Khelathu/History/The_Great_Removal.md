@@ -51,7 +51,7 @@ By old custom each new house raised its Way farther out toward the sunset than t
 
 ## The Work
 
-The restoration guilds of Zu-Gezer did the lifting. The mortuary priesthood of [[affiliation-wethur|Wethûr]], which answers for every dead person receiving proper preparation, supervised it, and the Gar-Aû's decree named the rites that must be said at each tomb-mouth and again at the new gallery. Each king was lifted with his grave-goods, carried out beyond the last of the Ways, and set down in a gallery built for the purpose, with his name cut over the door in the order the old Way had kept. Zu'Amqeletu, the house that had opened the first Way at the Crossing, was carried out with the rest ([[lore-crossmound|the Crossing to the Mound]]).
+The restoration guilds of Zu-Gezer did the lifting. The mortuary priesthood of [[affiliation-wethur|Weth'ûr]], which answers for every dead person receiving proper preparation, supervised it, and the Gar-Aû's decree named the rites that must be said at each tomb-mouth and again at the new gallery. Each king was lifted with his grave-goods, carried out beyond the last of the Ways, and set down in a gallery built for the purpose, with his name cut over the door in the order the old Way had kept. Zu'Amqeletu, the house that had opened the first Way at the Crossing, was carried out with the rest ([[lore-crossmound|the Crossing to the Mound]]).
 
 The cursed Way of the struck house stood four crossing-roads back from the river and was not touched. The curse upon it forbids the touch of any tool, and no decree of the Gar-Aû removes it.
 

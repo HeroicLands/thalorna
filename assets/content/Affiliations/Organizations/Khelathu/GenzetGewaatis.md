@@ -1,9 +1,9 @@
 ---
 shortcode: genzetgewats
-name: {full: Genzet'Gewaâtis, aliases: []}
+name: {full: Genzet'Gewa'âtis, aliases: []}
 type: affiliation
 subType: governmental
-description: The council of the temple of Gewaâtis, which governs the god's holdings and the voyages made under his protection
+description: The council of the temple of Gewa'âtis, which governs the god's holdings and the voyages made under his protection
 tags: [generated, draft]
 data:
   culture: khelathiclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      The governing council of the temple of Gewaâtis, drawn from its senior priests and the captains whose voyages the god protects. It administers the temple's holdings and sanctions the voyages that claim his protection.
+      The governing council of the temple of Gewa'âtis, drawn from its senior priests and the captains whose voyages the god protects. It administers the temple's holdings and sanctions the voyages that claim his protection.
     ranks:
       - level: 1
         title: Councilor
@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Insurers and investors look for the council's blessing before they back a voyage. **Genzet'Gewaâtis** is the governing council of [[affiliation-lutgewaatis|the temple of Gewaâtis]], drawn from the temple's senior priests and the captains whose voyages the god protects, and it administers the temple's holdings and authorizes the voyages that claim his protection. A voyage undertaken without its sanction sails without that protection, whatever its captain privately believes about the god's favor.
+Insurers and investors look for the council's blessing before they back a voyage. **Genzet'Gewa'âtis** is the governing council of [[affiliation-lutgewaatis|the temple of Gewa'âtis]], drawn from the temple's senior priests and the captains whose voyages the god protects, and it administers the temple's holdings and authorizes the voyages that claim his protection. A voyage undertaken without its sanction sails without that protection, whatever its captain privately believes about the god's favor.
 
 ## Character
 
@@ -42,7 +42,7 @@ The council is practical and commercial in its piety. Its senior priests and cap
 
 ## Relations
 
-The council governs [[affiliation-lutgewaatis|the temple of Gewaâtis]] and answers for the voyages made under the god's protection. Its seats are drawn from the senior priests and from the captains the god protects, so the people who bless a voyage have usually made one. A captain who comes to the council with a plan for a hard crossing is talking to people who know what a hard crossing is.
+The council governs [[affiliation-lutgewaatis|the temple of Gewa'âtis]] and answers for the voyages made under the god's protection. Its seats are drawn from the senior priests and from the captains the god protects, so the people who bless a voyage have usually made one. A captain who comes to the council with a plan for a hard crossing is talking to people who know what a hard crossing is.
 
 ## Commerce and Currency
 
@@ -52,4 +52,4 @@ Say you want to carry silk to a port across the sea. Before a merchant house len
 
 ## See Also
 
-- [[affiliation-lutgewaatis|Lut-Gewaâtis]]—The temple it governs
+- [[affiliation-lutgewaatis|Lut-Gewa'âtis]]—The temple it governs

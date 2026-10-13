@@ -28,6 +28,6 @@ The lord who endowed a temple late is read as his tenant is read.
 
 That judgment is the foundation of [[lore-khelathiclt|Khelâthi]] ethics, and its force comes from one feature above all: _wealth cannot buy a favorable verdict_. A written entry can be closed late or bought out; the unwritten account can only be met, and nobody holds a copy to consult. Even the powerful fear it, which makes it a real if imperfect check on the worst abuses of power in a civilization otherwise steeply unequal.
 
-She judges; [[lore-wethurdty|Wethûr]] does not. By the time a soul reaches his realm it has already been weighed.
+She judges; [[lore-wethurdty|Weth'ûr]] does not. By the time a soul reaches his realm it has already been weighed.
 
 The written account speaks for itself, so the deceased may speak only of what was never written: a kindness, a hidden wrong. **Álgit** is the devouring beast that takes a soul the scale condemns.

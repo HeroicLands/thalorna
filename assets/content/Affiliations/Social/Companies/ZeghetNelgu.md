@@ -69,7 +69,7 @@ sohl:
 
 "Don't call it sport," a Bearer at the **Summer Lodge** tells a newly hired hand who has asked what the company is for. "Sport is for people who can go home afterward. We feed the temples, we settle the river god's account, and we keep the hippopotami out of the barley. Survival in sacred robes, that is the hunt."
 
-The **Zeghet'Nelgu** ([[lore-khelathiclt|Khelâthi]]: "the **Mighty Ones of the Field**"), also called the **Sacred Hunt of the Khetai**, works the great southern reaches of the [[place-zumeleshrvr|Zumélesh]], where crocodiles bask on the mud banks and hippopotami bellow in the marshes. Its members are nobles, warriors and ritualists bound by sacred obligation to hold the balance between civilization and the wild, and none of them is a commoner with a spear. The **Khetai** are a minor noble clan of the **Meglay** caste, the hereditary hunter-wardens who have patrolled the upper river since before the current dynasty, and the Zeghet'Nelgu is their most sacred duty: the ritual hunt that feeds the temples, appeases the river god [[lore-igelnarudty|Igel'Nâru]], and keeps the great beasts from destroying the farming villages along the banks.
+The **Zeghet'Nelgu** ([[lore-khelathiclt|Khelâthi]]: "the **Mighty Ones of the Field**"), also called the **Sacred Hunt of the Khetai**, works the great southern reaches of the [[place-zumeleshrvr|Zumélesh]], where crocodiles bask on the mud banks and hippopotami bellow in the marshes. Its members are nobles, warriors and ritualists bound by sacred obligation to hold the balance between civilization and the wild, and none of them is a commoner with a spear. The **Khetai** are a minor noble clan of the **Meglay** caste, the hereditary hunter-wardens who have patrolled the upper river since before the current dynasty, and the Zeghet'Nelgu is their most sacred duty: the ritual hunt that feeds the temples, appeases the river god [[lore-igelnarudty|Igelnâru]], and keeps the great beasts from destroying the farming villages along the banks.
 
 The hunt is ceremonial, political and dangerous. Success brings honor to the Khetai and meat for the temples. Failure brings shame and famine, because the upper river selatu depend on the hunt to thin the hippopotami that wreck crops and capsize fishing boats. A member who dies in the hunt's service earns the gods' favor for good.
 
@@ -100,7 +100,7 @@ The roster stands at eight:
 
 ## Territory
 
-The company works about eighty miles of the Zumélesh, from the **Shattered Delta** in the north to the **Twin Rock** narrows in the south. The river is sacred ground, belonging to the Halzi'a in law and to Igel'Nâru in spirit, and sacred stones and boundary shrines mark it. Unauthorized hunting or fishing inside them is punishable by death, a law the Zeghet'Nelgu enforces with the seriousness it brings to the hunt. Two camps serve as bases, the Summer Lodge at the Shattered Delta and the **Winter Fort** at Twin Rock, and the party moves between them following the hippopotami, the crocodiles and the great river cats.
+The company works about eighty miles of the Zumélesh, from the **Shattered Delta** in the north to the **Twin Rock** narrows in the south. The river is sacred ground, belonging to the Halzi'a in law and to Igelnâru in spirit, and sacred stones and boundary shrines mark it. Unauthorized hunting or fishing inside them is punishable by death, a law the Zeghet'Nelgu enforces with the seriousness it brings to the hunt. Two camps serve as bases, the Summer Lodge at the Shattered Delta and the **Winter Fort** at Twin Rock, and the party moves between them following the hippopotami, the crocodiles and the great river cats.
 
 The southern marshes, where the current crisis centers, are a labyrinth of reed beds, mud islands and channels that shift with every flood. Even the Khetai do not know them perfectly. The marsh-dwelling fishermen tell of more than hippopotami and crocodiles out there: half-submerged ruins in the muck, stone markers in scripts older than the current dynasty, and lights that move beneath the water at night. The ruins are [[place-drownstones|the Drowned Stones]], and the Khelâthi do not date what the stones record.
 
@@ -110,7 +110,7 @@ Every expedition begins with three days of religious preparation. Imhûgepu make
 
 The equipment is made for the work: sacred harpoons tipped with barbed bone, ceremonial nets woven from papyrus fiber, reed boats that are works of art in themselves, and bows strung with sacred twine. Kills are made from the boats, with Khelîtyu in the bow for the harpoon strike while Gajegulu's crew holds position on the unpredictable currents. Hippopotami are hunted only in the specific moons when their territorial aggression peaks, and crocodiles are tracked by night, when their eyes glow like embers in torchlight.
 
-After a major kill the whole party joins the ritual butchering, which takes nearly a full day. Custom divides the meat: prime cuts go to the temple and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. The party sings, and the animal's spirit is honored and commended to Igel'Nâru for judgment.
+After a major kill the whole party joins the ritual butchering, which takes nearly a full day. Custom divides the meat: prime cuts go to the temple and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. The party sings, and the animal's spirit is honored and commended to Igelnâru for judgment.
 
 The scale of the present cull breaks with tradition, because it requires killing more animals than ritual normally permits. Azûnmat had to seek a special dispensation from the temple, which **Zebenra** granted grudgingly and with conditions that amount to political surveillance of the hunt.
 
@@ -148,7 +148,7 @@ The company serves a game master in several ways:
 
 - [[place-zumeleshrvr|The Zumélesh]]—the river whose southern reach the company holds
 - [[place-drownstones|The Drowned Stones]]—the carved walls beneath the southern marsh
-- [[affiliation-igelnaru|Faith of Igel'Nâru]]—the river god the hunt appeases
+- [[affiliation-igelnaru|Faith of Igelnâru]]—the river god the hunt appeases
 - [[affiliation-tjelsuk|Faith of Tjelsur]]—the crocodile cult, aligned with the hunt
 - [[affiliation-garnuw|Gar'Nuw]]—the guild that licenses the river's professional cullers
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the gods

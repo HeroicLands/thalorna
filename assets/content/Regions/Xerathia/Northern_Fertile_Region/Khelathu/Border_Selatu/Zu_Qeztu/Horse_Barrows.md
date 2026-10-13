@@ -28,7 +28,7 @@ No ward is cut on any of them. A Khelâthi tomb carries its protection in its gl
 
 ## How the Khelâthi Treat Them
 
-As unclean. A body with no embalmer, no tomb and no name read aloud has no continuation by Khelâthi doctrine, and the barrows hold a good many. The villages do not cross them, and the priests of [[lore-hezmuiridty|Hezmuîri]] do not bless them. They are not a blood-field, because the dead in them were buried by their own people and not left on the ground. The Khelâthi keep away from them because the dead are foreign and unwrapped.
+As unclean. A body with no embalmer, no tomb and no name read aloud has no continuation by Khelâthi doctrine, and the barrows hold a good many. The villages do not cross them, and the priests of [[lore-hezmuiridty|Hezmu'îri]] do not bless them. They are not a blood-field, because the dead in them were buried by their own people and not left on the ground. The Khelâthi keep away from them because the dead are foreign and unwrapped.
 
 The house of **Tha'Ulgau** does not leave them alone. Its Halzi'a rides out once a year with a few retainers and no priest, and the herders find the grass at the foot of the nearest mound pressed down in the morning.
 

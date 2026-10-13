@@ -22,9 +22,9 @@ A high flood takes villages. A low one is worse. The [[affiliation-empireakhlth|
 
 ## Whose River It Is
 
-Four gods have a claim, and the temples have never fully settled it. [[lore-igelnarudty|Igel'Nâru]] holds the Zumélesh itself and is a river god rather than a province's god, which makes his cult unusual: it travels with the water instead of sitting on a patch of ground. [[lore-thubaidty|Thubâ'i]] is worshipped as the golden waters running in flood. [[lore-uzneradty|Uznêra]]'s fertility is the river's and the womb's together. [[lore-qeztudty|Qeztu]] commands the first cataract, where the water stops being a road.
+Four gods have a claim, and the temples have never fully settled it. [[lore-igelnarudty|Igelnâru]] holds the Zumélesh itself and is a river god rather than a province's god, which makes his cult unusual: it travels with the water instead of sitting on a patch of ground. [[lore-thubaidty|Thubâ'i]] is worshipped as the golden waters running in flood. [[lore-uzneradty|Uzn'êra]]'s fertility is the river's and the womb's together. [[lore-qeztudty|Qeztu]] commands the first cataract, where the water stops being a road.
 
-The sacred southern reach belongs to the Halzi'a in law and to Igel'Nâru in spirit, and the difference is enforced: boundary shrines and sacred stones mark the god's water, and unauthorized hunting or fishing inside them is punishable by death.
+The sacred southern reach belongs to the Halzi'a in law and to Igelnâru in spirit, and the difference is enforced: boundary shrines and sacred stones mark the god's water, and unauthorized hunting or fishing inside them is punishable by death.
 
 ## The River-Beasts
 
@@ -35,5 +35,5 @@ The doctrine both hold is that wantonness in the killing offends the gods as muc
 ## See Also
 
 - [[place-aukhelathrgq|Aû'Khelâthu Region]] · [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] · [[lore-khelathiclt|Khelâthi culture]]
-- [[lore-igelnarudty|Igel'Nâru]] · [[affiliation-zeghetnelgu|Zeghet'Nelgu]] · [[affiliation-garnuw|Gar'Nuw]]
+- [[lore-igelnarudty|Igelnâru]] · [[affiliation-zeghetnelgu|Zeghet'Nelgu]] · [[affiliation-garnuw|Gar'Nuw]]
 - [[affiliation-deltaselatu|The Delta Selatu]] · [[affiliation-upperrivrslt|The Upper River Selatu]]

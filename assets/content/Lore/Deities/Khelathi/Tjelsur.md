@@ -17,10 +17,10 @@ The working out of the tension is visible in [[affiliation-zeghetnelgu|Zeghet'Ne
 
 The crocodile is the god's creature and not the god. A cull is therefore a service commended to him under a rite, and the dispensation under which [[affiliation-zeghetnelgu|Zeghet'Nelgu]] hunts governs the manner of killing, not the killing itself.
 
-On one stretch of the Zumélesh the same god is held under a noble family's charter and goes by the name [[lore-igelnarudty|Igel'Nâru]].
+On one stretch of the Zumélesh the same god is held under a noble family's charter and goes by the name [[lore-igelnarudty|Igelnâru]].
 
 ## See Also
 
 - [[affiliation-tjelsuk|Faith of Tjelsur]]—the cult and its offices
-- [[lore-igelnarudty|Igel'Nâru]]—his local name on the southern reach of the Zumélesh, held under a noble family's charter
+- [[lore-igelnarudty|Igelnâru]]—his local name on the southern reach of the Zumélesh, held under a noble family's charter
 - [[affiliation-garnuw|Gar'Nuw]]—the cullers who answer when the beasts take people

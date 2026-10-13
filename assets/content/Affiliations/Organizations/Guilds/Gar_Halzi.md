@@ -142,7 +142,7 @@ Foreign hack-metal, meaning pieces of unattested origin, is taken at a larger di
 
 ## Marks and Vestments
 
-The Gár-Hálzi seal shows a stylized falcon, the bird of [[lore-gewaatisdty|Gewaâtis]], standing on a balance-scale with the sun-disc above. It is struck into every attested weight-piece, every issued chit and every item of official correspondence. Officers wear the white-and-gold formal vestments of the senior priesthood, and the falcon-and-balance pendant at the throat distinguishes them from other priestly ranks. The Ilmy'Zâ Halzi wears the great pectoral of the Account, which stays at the central temple between holders.
+The Gár-Hálzi seal shows a stylized falcon, the bird of [[lore-gewaatisdty|Gewa'âtis]], standing on a balance-scale with the sun-disc above. It is struck into every attested weight-piece, every issued chit and every item of official correspondence. Officers wear the white-and-gold formal vestments of the senior priesthood, and the falcon-and-balance pendant at the throat distinguishes them from other priestly ranks. The Ilmy'Zâ Halzi wears the great pectoral of the Account, which stays at the central temple between holders.
 
 A chit is written on distinctive papyrus stock whose watermark, held to the light, shows the Gár-Hálzi falcon. It carries the issuing chapter's seal in red wax, the recipient's name (or "to bearer") in formal hieratic, the value spelled out in both silver and gold gezan equivalents, and a registered serial mark.
 

@@ -19,7 +19,7 @@ data:
 
 "Keep to the path and touch nothing," the watch-priest of an endowed tomb tells a party of pilgrims at the western landing. "The ground above a tomb is mine to keep, and most of what I keep it from is hunger."
 
-**Khelzuret Selat** is the land of the [[affiliation-selatkhelzrt|Selat of Khelzuret]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, and it holds the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]], lords of the passage into death.
+**Khelzuret Selat** is the land of the [[affiliation-selatkhelzrt|Selat of Khelzuret]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is built around the temple-city of [[place-khelzuret|Khelzuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, and it holds the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[lore-wethurdty|Weth'ûr]] and [[lore-hezmuiridty|Hezmu'îri]], lords of the passage into death.
 
 ## Character
 
@@ -33,7 +33,7 @@ The mortuary industry is the economy. Embalming, tomb construction and decoratio
 
 ## Notable Features
 
-- The temple-city of [[place-khelzuret|Khelzuret]] and its great temples of Wethûr and Hezmuîri
+- The temple-city of [[place-khelzuret|Khelzuret]] and its great temples of Weth'ûr and Hezmu'îri
 - The western-bank necropolis—the empire's most sacred burial ground
 - The embalmers' workshops and the tomb-builders' settlements of the west bank
 - The natron flats and resin-stores that supply the mummification trade

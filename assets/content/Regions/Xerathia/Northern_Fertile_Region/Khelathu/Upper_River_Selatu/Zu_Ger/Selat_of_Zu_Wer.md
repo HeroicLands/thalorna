@@ -76,13 +76,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"The first dynasties buried their kings in that ground," a Lem'Nelgir of [[lore-hezmuiridty|Hezmuîri]] tells a pilgrim at [[place-tjegu|Tjegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the **Great Land**. Hezmuîri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
+"The first dynasties buried their kings in that ground," a Lem'Nelgir of [[lore-hezmuiridty|Hezmu'îri]] tells a pilgrim at [[place-tjegu|Tjegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the **Great Land**. Hezmu'îri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
 
-The **Selat of Zu-Ger** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 520,000 people live on its land, [[place-zugernome|Zu-Ger]]. It is "the Great Land," an ancient royal selat and the old burial-ground of the first dynasties. The patron is [[affiliation-hezmuiri|Faith of Hezmuîri]], the [[affiliation-hezmuiri|Keeper of Transitions]], and the cult's chief temple and estates anchor the selat's religious life.
+The **Selat of Zu-Ger** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 520,000 people live on its land, [[place-zugernome|Zu-Ger]]. It is "the Great Land," an ancient royal selat and the old burial-ground of the first dynasties. The patron is [[affiliation-hezmuiri|Faith of Hezmu'îri]], the [[affiliation-hezmuiri|Keeper of Transitions]], and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zu-Ger governs an ancient royal selat that holds the oldest dead of the empire in its ground. His seat is [[place-tjegu|Tjegu]], where he keeps his court and the chief temple of Hezmuîri stands.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zu-Ger governs an ancient royal selat that holds the oldest dead of the empire in its ground. His seat is [[place-tjegu|Tjegu]], where he keeps his court and the chief temple of Hezmu'îri stands.
 
 ## Commerce and Currency
 
@@ -93,7 +93,7 @@ Zu-Ger uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliat
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
 - [[place-tjegu|Tjegu]]—Selat capital
-- [[affiliation-hezmuiri|Faith of Hezmuîri]]—Patron cult
+- [[affiliation-hezmuiri|Faith of Hezmu'îri]]—Patron cult
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
 - [[place-zugernome|Zu-Ger]]—The land the selat holds
 - [[place-firsttablets|The Ground of the First Tablets]]—The burial-ground of the first two houses

@@ -16,5 +16,5 @@ sohl:
 
 The great healing form, and one of the few workings in the tradition with a cost carried by the
 practitioner rather than the material: the mender is emptied by it and cannot work another that
-day. Gar-Anlagh'Khelâthu shares reduced versions with the temples of Uznêra, whose priestesses do most of the
+day. Gar-Anlagh'Khelâthu shares reduced versions with the temples of Uzn'êra, whose priestesses do most of the
 empire's actual healing and are, by the House's own admission, better at it.

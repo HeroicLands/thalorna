@@ -3,7 +3,7 @@ shortcode: garmelnu
 name: {full: Gar'Melnu, aliases: [The House of the Melnu]}
 type: affiliation
 subType: guild
-description: "Gar-Aû's chartered guild of Khelâthi smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Gewaâtis, and the empire's arms-makers in fact."
+description: "Gar-Aû's chartered guild of Khelâthi smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Gewa'âtis, and the empire's arms-makers in fact."
 tags: [organization, khelathu, xerathia, guild, metalwork, smiths]
 data:
   culture: khelathiclt
@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Khelâthi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who forged the weapons of Gewaâtis_
+_Khelâthi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who forged the weapons of Gewa'âtis_
 
 - Type: Imperial chartered guild
 - Region: [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with chapter forges in every selat of consequence
@@ -66,7 +66,7 @@ Every blade an imperial soldier carries, every scale on a temple guard's armor a
 
 Civilian metalwork is the larger business by volume: plowshares, cooking vessels, hinges, tools, and the bronze and copper goods of daily life. The guild's prestige and political weight come from its near-monopoly on weapons and armor.
 
-The name is the oldest claim the guild makes. The **Mesnu** were the legendary smith-warriors who, in the founding mythology of Aû'Khelâthu, forged the harpoons with which [[lore-gewaatisdty|Gewaâtis]] slew the followers of [[lore-tjaqurdty|Tjaq'ûr]]. They were both metalsmiths and ritual warriors, and Gar'Melnu inherits both halves of that legacy. A master smith is an initiate of Gewaâtis and [[lore-psaqarudty|Psaq'âru]], sworn at his elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is punished by the guild and is also treated by the temples as having committed sacrilege.
+The name is the oldest claim the guild makes. The **Mesnu** were the legendary smith-warriors who, in the founding mythology of Aû'Khelâthu, forged the harpoons with which [[lore-gewaatisdty|Gewa'âtis]] slew the followers of [[lore-tjaqurdty|Tjaq'ûr]]. They were both metalsmiths and ritual warriors, and Gar'Melnu inherits both halves of that legacy. A master smith is an initiate of Gewa'âtis and [[lore-psaqarudty|Psaq'âru]], sworn at his elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is punished by the guild and is also treated by the temples as having committed sacrilege.
 
 ## Joining and Rising
 
@@ -112,7 +112,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 
 - [[affiliation-genzetgarau|Genzet'Gar-Aû]] is patron and final authority. The two depend on each other heavily and bargain quietly over privileges.
 - The Imperial Military Quartermaster's Office is the primary client. The quartermasters hold leverage through procurement but cannot easily replace the guild.
-- The temples of [[affiliation-psaqaru|Faith of Psaq'âru]] and [[affiliation-gewaatis|Faith of Gewaâtis]] are the guild's religious foundation, and senior elevations are conducted in temple rite.
+- The temples of [[affiliation-psaqaru|Faith of Psaq'âru]] and [[affiliation-gewaatis|Faith of Gewa'âtis]] are the guild's religious foundation, and senior elevations are conducted in temple rite.
 - [[affiliation-garnuw|Gar'Nuw]], the hunters' guild, and the other Khelâthi trade guilds are peers. Relations are cordial and governed by the inter-guild conventions agreed at the imperial guildhall.
 - Foreign traditions. The guild regards the Vylarian armory tradition with professional respect, the [[lore-khazrynclt|Khazryn]] smithing schools with cautious interest and the [[place-nrdlndsrgn|Nordlands]] traditions with curiosity. A foreign smith working in Aû'Khelâthu must obtain the guild's permission to seal work, and permission is rarely granted.
 
@@ -120,7 +120,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 
 - **The Failed Weapons.** A batch of imperial spears has failed in a frontier engagement, and soldiers died. The failed weapons bear one Master's seal, but he swears the seals are forged and that his real work was handed to a junior who lacked the qualifications. The investigation will decide whether the cause is corruption, sabotage or forgery, and whose head goes to the temples in expiation.
 - **The Reform Petition.** Great Smith Userhat Pamenes petitions the Council of Smiths for sweeping changes to the apprenticeship requirements. The petition would broaden recruitment; the conservatives say it would dilute the standards. The vote is close enough that senior masters are being courted by both factions.
-- **The Mine Dispute.** A temple of Gewaâtis claims, on documentary grounds and under an older grant, a copper mine the guild has worked under imperial charter for two centuries. The documents on both sides are plausible and the imperial court declines to rule. The mine supplies a third of the guild's working copper.
+- **The Mine Dispute.** A temple of Gewa'âtis claims, on documentary grounds and under an older grant, a copper mine the guild has worked under imperial charter for two centuries. The documents on both sides are plausible and the imperial court declines to rule. The mine supplies a third of the guild's working copper.
 - **The Foreign Commission.** A Vylarian merchant prince has privately offered Shezur Zin'Gatau any price for a complete suite of personal armor, provided the work is done outside guild oversight and the seals are omitted. The fee is enormous and the breach of the guild's rules is total. Shezur is considering it.
 
 ## See Also

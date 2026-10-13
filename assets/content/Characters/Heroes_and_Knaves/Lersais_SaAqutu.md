@@ -466,7 +466,7 @@ At a deeper level, Lersaîs fears chaos and loss of control, and he has organize
 
 - **Strategic Foresight**: His reasoning and perception allow him to anticipate problems before they become obvious and to design preventive solutions that address threats long before they manifest.
 
-- **Ritual Mastery**: As a devoted follower of Uznêra and as a man of rank, Lersaîs has learned the rituals, observances, and ceremonial forms necessary to move through both military and religious settings with perfect precision.
+- **Ritual Mastery**: As a devoted follower of Uzn'êra and as a man of rank, Lersaîs has learned the rituals, observances, and ceremonial forms necessary to move through both military and religious settings with perfect precision.
 
 ### Weaknesses
 
@@ -493,7 +493,7 @@ At a deeper level, Lersaîs fears chaos and loss of control, and he has organize
 Zabet [[being-mesheget2|Mesheget]]
 : His wife, a politically astute woman, has aligned herself with Lersaîs and works to advance their family's interests through her own network of merchant relationships.
 
-[[affiliation-lutuznera|The Lut-Uznêra]]
+[[affiliation-lutuznera|The Lut-Uzn'êra]]
 : As a devoted follower, Lersaîs maintains strong relationships with the priesthood and is a major financial supporter of the temple, earning their support in his endeavors.
 
 ### Enemies
@@ -518,7 +518,7 @@ The Imperial Military
 [[affiliation-genzetzabu|Genzet'Zabu]]
 : He is a member and often the voice of traditionalist, militarily-oriented thinking.
 
-[[affiliation-lutuznera|The Lut-Uznêra]]
+[[affiliation-lutuznera|The Lut-Uzn'êra]]
 : He is a major supporter and participant in religious ceremonies and maintains a formal relationship with the priesthood.
 
 [[affiliation-garsaaqutu|The Gar-Sa'Aqutu]]

@@ -93,7 +93,7 @@ sohl:
     - name: Silk cosmetics pouch
       type: miscgear
       system: {shortcode: silkcosmeticspouch, weight: 1, value: 100, durability: 3}
-    - name: Golden hand mirror (Uznêra cult devotional)
+    - name: Golden hand mirror (Uzn'êra cult devotional)
       type: miscgear
       system: {shortcode: goldenhandmirr, weight: 0.3, value: 100, durability: 3}
     - name: Ink and quills
@@ -481,7 +481,7 @@ Lady [[being-qeketqeltag2|Qeket Qelt'Agetu]]
 Master Architect Lâraket
 : A celebrated designer and builder who has benefited tremendously from Raiyaqu's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
 
-[[affiliation-genzetuznera|Genzet'Uznêra]]
+[[affiliation-genzetuznera|Genzet'Uzn'êra]]
 : The priesthood of the fertility goddess that shares Raiyaqu's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
 
 ### Enemies

@@ -172,7 +172,7 @@ A wraithbloom is a hovering assemblage of spectral plants: translucent petals, p
 
 ## In the Land
 
-The healing-shrines of Gar-Lût belong to [[lore-uzneradty|Uznêra]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants the healers use; a herb-gardener tells a novice that everything in the beds is somebody's cure. The wraithbloom haunts the oldest bed of the oldest shrine's garden, walled off from the rest, where the plants have been tended in the same ground for longer than the temple's records go back. It does not leave the bed, and if it is taken far from it, it fades. Inside its bed the plants grow larger, stronger and more potent than anywhere else, and the bed spreads, slowly, year by year, into the beds round it.
+The healing-shrines of Gar-Lût belong to [[lore-uzneradty|Uzn'êra]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants the healers use; a herb-gardener tells a novice that everything in the beds is somebody's cure. The wraithbloom haunts the oldest bed of the oldest shrine's garden, walled off from the rest, where the plants have been tended in the same ground for longer than the temple's records go back. It does not leave the bed, and if it is taken far from it, it fades. Inside its bed the plants grow larger, stronger and more potent than anywhere else, and the bed spreads, slowly, year by year, into the beds round it.
 
 ## Key Behaviors
 

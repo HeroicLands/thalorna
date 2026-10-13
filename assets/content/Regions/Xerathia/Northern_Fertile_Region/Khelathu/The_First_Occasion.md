@@ -35,7 +35,7 @@ Qe'âret laid order on the dark. Law was set over the water before there was gro
 
 Then the mound lifted from the waters. It is the mound in the middle of the river at Galezkara, Yath-Telgu, the First Mound, and it is the first ground; the world begins on it. The fire of Uqa'â rose over it, and the first light fell on the first ground.
 
-The gods established the order of civilization upon that ground. Qe'âret gave it law. Psaq'âru shaped it. Uznêra gave it the river that goes and comes again. Reth'Sa'âr set it down, so that it would be kept. This house keeps what he set down, and copies from it.
+The gods established the order of civilization upon that ground. Qe'âret gave it law. Psaq'âru shaped it. Uzn'êra gave it the river that goes and comes again. Reth'Sa'âr set it down, so that it would be kept. This house keeps what he set down, and copies from it.
 
 In that year the first Gar-Aû stood upon the mound. The valley was many, and he made it one. There was one crown and it was his. Aû'Khelâthu was founded on its river. The fire of Uqa'â was in him, and the god and the god-king stood together on the first ground, as they stand there now.
 

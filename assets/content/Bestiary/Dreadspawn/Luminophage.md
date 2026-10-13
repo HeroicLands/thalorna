@@ -185,7 +185,7 @@ A luminophage waits on a ceiling, glowing, for days. Light draws it: a lamp comi
 
 ## What the Tomb-Cutters Do
 
-The cutters who carve new tombs into the cliffs and the priests of [[affiliation-wethur|Wethûr]] who serve the dead there have rules for the old passages. Nobody goes into the deep tombs with only one light: a party carries a lamp for each man and a pitch torch besides, and if the lamps start to fade together, everyone turns back at once. A tomb chamber with a cold glow in it is not entered. The cutters have learned that fire hurts the creature, and they keep a pot of burning pitch at the mouth of any passage they work. The embalmers buy its venom when one of the creature's needles can be found broken off in a cutter's arm, and they use it, they say, to keep the dead still. Tomb-robbers who come for the old burials think the creature guards them. The cutters say it guards nothing; it only eats what comes.
+The cutters who carve new tombs into the cliffs and the priests of [[affiliation-wethur|Weth'ûr]] who serve the dead there have rules for the old passages. Nobody goes into the deep tombs with only one light: a party carries a lamp for each man and a pitch torch besides, and if the lamps start to fade together, everyone turns back at once. A tomb chamber with a cold glow in it is not entered. The cutters have learned that fire hurts the creature, and they keep a pot of burning pitch at the mouth of any passage they work. The embalmers buy its venom when one of the creature's needles can be found broken off in a cutter's arm, and they use it, they say, to keep the dead still. Tomb-robbers who come for the old burials think the creature guards them. The cutters say it guards nothing; it only eats what comes.
 
 ## Signs
 

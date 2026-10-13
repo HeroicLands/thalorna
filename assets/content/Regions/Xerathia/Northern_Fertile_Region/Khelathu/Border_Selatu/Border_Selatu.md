@@ -121,7 +121,7 @@ Ten selatu make up the border class, each under its hereditary [[affiliation-emp
 | [[affiliation-selatzuqeztu\|The Selat of Zu-Qeztu]]       | [[place-zileti\|Zileti]]        | [[lore-uqaadty\|Uqa'â]]                                   | ~220,000   | The western grazing margin; horse-pasture and the watch against raiders                         |
 | [[affiliation-seltkhqtmntq\|The Selat of Khuqet-Imntiqa]] | [[place-khuqet\|Khuqet]]        | [[lore-uqaadty\|Uqa'â]]                                   | ~220,000   | The far western desert march; oasis-forts and the watch over the trade-tracks                   |
 | [[affiliation-selatiaqetlq\|The Selat of Iaqet-Leqa]]     | [[place-iaqetleqa\|Iaqet-Leqa]] | [[affiliation-tjelsuk\|Faith of Tjelsur]] (crocodile-god) | ~210,000   | Eastern desert wells and quarry-roads; a dry, sun-burned garrison selat                         |
-| [[affiliation-selatlinmut\|The Selat of Linmut]]          | [[place-linmut\|Linmut]]        | [[lore-wethurdty\|Wethûr]]                                | ~200,000   | A river-island fortress-selat at the second cataract; gateway and toll-gate                     |
+| [[affiliation-selatlinmut\|The Selat of Linmut]]          | [[place-linmut\|Linmut]]        | [[lore-wethurdty\|Weth'ûr]]                               | ~200,000   | A river-island fortress-selat at the second cataract; gateway and toll-gate                     |
 | [[affiliation-selatbelgnzl\|The Selat of Belgen-Zalu]]    | [[place-belgen\|Belgen]]        | [[affiliation-qeztu\|Faith of Qeztu]]                     | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
 
 Border total: about 2,500,000.

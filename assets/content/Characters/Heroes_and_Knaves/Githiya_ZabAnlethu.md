@@ -436,11 +436,11 @@ Githiya stands 6'0" tall with a medium build. She has ebony skin, black hair, an
 
 # Dossier {#dossier}
 
-Githiya Zab'Anlethu was born into the free classes of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Uznêra. From childhood, Githiya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Githiya found herself without patronage and with many rivals for the next place.
+Githiya Zab'Anlethu was born into the free classes of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], neither enslaved nor nobility, but precisely placed in that careful middle where service becomes the foundation of survival. Her mother was a cook, her father a minor functionary in the temple of Uzn'êra. From childhood, Githiya showed an almost obsessive need for order, and by her late teens, she had already begun managing the household of a moderately wealthy merchant. That position lasted seventeen years until the merchant's death, when Githiya found herself without patronage and with many rivals for the next place.
 
 For the past four years, she has served in the household of Master Lenti, a wealthy intellectual and collector of antiquities. Lenti values her genius for order and the way she has transformed his somewhat chaotic holdings into a model of good management. Yet Lenti, like many employers, takes her service for granted, referring to her competence as simply "what Githiya does" rather than acknowledging it as anything out of the ordinary. She manages the physical household, deals with merchants, oversees the preparation of elaborate entertainments, and acts as Lenti's informal advisor on matters of domestic stability.
 
-Her spiritual devotion to Uznêra, goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Githiya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
+Her spiritual devotion to Uzn'êra, goddess of fertility and the domestic sphere, runs deep—though some might argue it borders on obsession. Githiya sees her work not as mere service but as sacred duty, maintaining the fertile, ordered space from which all civilization springs.
 
 ## Psyche
 
@@ -458,7 +458,7 @@ Githiya's deepest drive pulls two ways: she seeks both complete control over her
 
 - **Organizational Mastery**: Can manage complex households of any size with near-perfect economy, tracking stores, staff, schedules, and deliveries with minimal effort.
 - **Problem Solver**: Possesses practical wisdom for solving the hundred small crises that arise in domestic life—from preventing conflicts between staff to stretching the household purse without visible compromise.
-- **Ritual Knowledge**: Deeply versed in the practices and observances necessary for proper worship of Uznêra, allowing her to structure household activities in spiritually appropriate ways.
+- **Ritual Knowledge**: Deeply versed in the practices and observances necessary for proper worship of Uzn'êra, allowing her to structure household activities in spiritually appropriate ways.
 - **Command Authority**: Can direct servants and staff without raising her voice—people obey her not from fear but from respect for her evident competence and fairness.
 - **Adaptability**: Though she values order, Githiya can adjust routines and arrangements when circumstances demand, maintaining her vision of perfection while accommodating necessity.
 
@@ -477,7 +477,7 @@ Githiya's deepest drive pulls two ways: she seeks both complete control over her
 Master Lenti of Gar-Zekhemulu
 : Her current employer, a wealthy antiquarian who, despite his obliviousness to her resentment, depends on her and would be lost without her.
 
-[[affiliation-lutuznera|The Lut-Uznêra]]
+[[affiliation-lutuznera|The Lut-Uzn'êra]]
 : Githiya performs volunteer ritual work at the main temple and is recognized there as a keeper of proper domestic observances.
 
 [[affiliation-linlmzbglzk2|Lin'Lemzabu elu Galezkara]]
@@ -496,7 +496,7 @@ Master Lenti, Her Employer
 
 ### Affiliations
 
-[[affiliation-lutuznera|Lut-Uznêra]]
+[[affiliation-lutuznera|Lut-Uzn'êra]]
 : Devoted worshipper and volunteer, though she attends with the same methodical approach she applies to everything.
 
 [[affiliation-linlmzbglzk2|Lin'Lemzabu elu Galezkara]]
@@ -508,7 +508,7 @@ Master Lenti, Her Employer
 
 2. **The Seduction of the Smuggler**: A charming merchant captain arrives in Aû'Khelâthu seeking to establish a shipping venture, and he becomes a frequent guest in Master Lenti's household. He pays Githiya extraordinary attention—complimenting her work, remembering details about her preferences, treating her with the respect and recognition she has been denied for decades. Only gradually does Githiya realize he is using her access and knowledge of the household to steal valuable antiquities for sale to foreign collectors. She has to choose between the intoxicating recognition he offers and her fundamental integrity, and then whether exposure will destroy the reputation she has built.
 
-3. **The Ritual Demands**: The Lut-Uznêra approaches Githiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Lenti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Githiya must weigh her hunger for recognition against her need to maintain control of her domain.
+3. **The Ritual Demands**: The Lut-Uzn'êra approaches Githiya with an unusual request: to oversee a month-long ceremonial preparation of a noble household for a sacred fertility festival, essentially removing her from Master Lenti's service. The temple promises her recognition and a position of minor authority that would finally see her name known and respected. However, completing this task would mean temporarily abandoning the household she has controlled, allowing a temporary steward to make decisions in her absence. Githiya must weigh her hunger for recognition against her need to maintain control of her domain.
 
 4. **The Scandal and the Scapegoat**: A theft or moral scandal occurs in Master Lenti's household—perhaps a young servant is found with child, or valuable items go missing—and though Githiya is certainly not responsible, her position makes her a convenient target for blame. Lenti, rather than defending her, chooses to dismiss her to avoid further embarrassment. Githiya can accept the humiliation or take action to expose the truth, potentially destroying the household she has devoted herself to protecting.
 

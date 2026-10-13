@@ -23,7 +23,7 @@ data:
 
 ## Character
 
-The selat is islands and channels, and the temples own much of the dry ground. The few villages and estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uznera|Uznêra]] and its estates anchor the pilgrim trade.
+The selat is islands and channels, and the temples own much of the dry ground. The few villages and estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uznera|Uzn'êra]] and its estates anchor the pilgrim trade.
 
 ## Settlements
 

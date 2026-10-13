@@ -119,7 +119,7 @@ The question a Khelâthi asks about a literate stranger is never whether he can 
 
 The scribal school is the one reliable ladder out of the class you were born in, and every family in the valley knows it. A boy admitted at seven studies sacred texts, ritual, history, mathematics and medicine for years, and comes out belonging to the institution that actually runs the country. Military service raises a family over two or three generations; commerce takes longer. Most farmers' sons are farmers.
 
-Khelâthi women own property in their own names, initiate divorce, plead in court and practise medicine—a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to [[affiliation-uznera|Uznêra]], whose faith holds that creation requires a balanced partnership of masculine and feminine principles—a theology with direct legal consequences.
+Khelâthi women own property in their own names, initiate divorce, plead in court and practise medicine—a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to [[affiliation-uznera|Uzn'êra]], whose faith holds that creation requires a balanced partnership of masculine and feminine principles—a theology with direct legal consequences.
 
 A character might be a temple-trained scribe whose skill opens an archive, a boat pilot who knows which channels remain passable in the flood, a physician called to a deathbed, or a trader carrying a sealed letter between cities. Each has a reason to travel and people who expect them home.
 

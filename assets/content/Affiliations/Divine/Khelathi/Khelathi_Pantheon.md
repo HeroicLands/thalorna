@@ -89,17 +89,17 @@ So the gods are present at the moments that bind people. They witness promises, 
 | Domain              | Deity                            | Epithet                                                 | Symbol                                       | Faith                                         |
 | ------------------- | -------------------------------- | ------------------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
 | Dreams              | [[lore-nehleatdty\|Nehle'ât]]    | [[affiliation-nehleat\|Guardian of Night Visions]]      | {{< glyph slug="nehleat" frame="tablet" >}}  | [[affiliation-nehleat\|Faith of Nehle'ât]]    |
-| Death               | [[lore-wethurdty\|Wethûr]]       | [[affiliation-wethur\|Lord of Silent Passage]]          | {{< glyph slug="wethur" frame="tablet" >}}   | [[affiliation-wethur\|Faith of Wethûr]]       |
+| Death               | [[lore-wethurdty\|Weth'ûr]]      | [[affiliation-wethur\|Lord of Silent Passage]]          | {{< glyph slug="wethur" frame="tablet" >}}   | [[affiliation-wethur\|Faith of Weth'ûr]]      |
 | Storms              | [[lore-tjaqurdty\|Tjaq'ûr]]      | [[affiliation-tjaqur\|Bringer of Tempests]]             | {{< glyph slug="tjaqur" frame="tablet" >}}   | [[affiliation-tjaqur\|Faith of Tjaq'ûr]]      |
 | Order               | [[lore-qearetdty\|Qe'âret]]      | **Keeper of Truth and Harmony**                         | {{< glyph slug="qearet" frame="tablet" >}}   | [[affiliation-qearet\|Faith of Qe'âret]]      |
 | Knowledge           | [[lore-rethsaardty\|Reth'Sa'âr]] | [[affiliation-rethsaar\|Scribe of the Eternal Library]] | {{< glyph slug="rethsaar" frame="tablet" >}} | [[affiliation-rethsaar\|Faith of Reth'Sa'âr]] |
 | Prosperity          | [[lore-thubaidty\|Thubâ'i]]      | The [[affiliation-thubai\|Golden Reveler]]              | {{< glyph slug="thubai" frame="tablet" >}}   | [[affiliation-thubai\|Faith of Thubâ'i]]      |
-| Fertility & Healing | [[lore-uzneradty\|Uznêra]]       | [[affiliation-uznera\|Mother of New Beginnings]]        | {{< glyph slug="uznera" frame="tablet" >}}   | [[affiliation-uznera\|Faith of Uznêra]]       |
+| Fertility & Healing | [[lore-uzneradty\|Uzn'êra]]      | [[affiliation-uznera\|Mother of New Beginnings]]        | {{< glyph slug="uznera" frame="tablet" >}}   | [[affiliation-uznera\|Faith of Uzn'êra]]      |
 | Fire                | [[lore-uqaadty\|Uqa'â]]          | The [[affiliation-uqaa\|Solar Flame]]                   | {{< glyph slug="uqaa" frame="tablet" >}}     | [[affiliation-uqaa\|Faith of Uqa'â]]          |
 | Creation            | [[lore-psaqarudty\|Psaq'âru]]    | **Shaper of the Eternal World**                         | {{< glyph slug="psaqaru" frame="tablet" >}}  | [[affiliation-psaqaru\|Faith of Psaq'âru]]    |
 | Chaos               | [[lore-azuathisdty\|Azu'âthis]]  | The **Devouring Shadow**                                | {{< glyph slug="azuathis" frame="tablet" >}} | [[affiliation-azuathis\|Faith of Azu'âthis]]  |
-| Voyages             | [[lore-gewaatisdty\|Gewaâtis]]   | The [[affiliation-gewaatis\|Guiding Falcon]]            | {{< glyph slug="gewaatis" frame="tablet" >}} | [[affiliation-gewaatis\|Faith of Gewaâtis]]   |
-| Decay               | [[lore-hezmuiridty\|Hezmuîri]]   | The [[affiliation-hezmuiri\|Keeper of Transitions]]     | {{< glyph slug="hezmuiri" frame="tablet" >}} | [[affiliation-hezmuiri\|Faith of Hezmuîri]]   |
+| Voyages             | [[lore-gewaatisdty\|Gewa'âtis]]  | The [[affiliation-gewaatis\|Guiding Falcon]]            | {{< glyph slug="gewaatis" frame="tablet" >}} | [[affiliation-gewaatis\|Faith of Gewa'âtis]]  |
+| Decay               | [[lore-hezmuiridty\|Hezmu'îri]]  | The [[affiliation-hezmuiri\|Keeper of Transitions]]     | {{< glyph slug="hezmuiri" frame="tablet" >}} | [[affiliation-hezmuiri\|Faith of Hezmu'îri]]  |
 
 ## Temple Hierarchy
 
@@ -117,25 +117,25 @@ The Twelve are the theology, and they are not the whole of the religion. Every s
 
 An ordinary person keeps every layer at once: the Twelve at the great festivals, the selat's patron at the local temple, the ancestors at the household shrine, and the god of a trade wherever that god is served.
 
-| God                                          | Domain                         | Where                                                                                                 |
-| -------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| [[affiliation-igelnaru\|Faith of Igel'Nâru]] | The river                      | The [[place-zumeleshrvr\|Zumélesh]] itself; the cult travels with the water                           |
-| [[affiliation-qeztu\|Faith of Qeztu]]        | War                            | Patron of four border selatu; the war-temple at [[place-balehen\|Balehen]]                            |
-| [[affiliation-tjelsuk\|Faith of Tjelsur]]    | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river                          |
-| [[affiliation-shebazet\|Faith of Shebazet]]  | The marsh                      | The delta papyrus selat, whose reed-beds are the empire's paper                                       |
-| [[affiliation-pelgun\|Faith of Pelgun]]      | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults                          |
-| [[affiliation-linhur\|Faith of Linhur]]      | The hunt                       | Paired with [[lore-linqurdty\|Linqur]] as the religious foundation of [[affiliation-garnuw\|Gar'Nuw]] |
-| [[affiliation-linqur\|Faith of Linqur]]      | The hunt                       | Paired with [[lore-linhurdty\|Linhur]]; neither temple's rite counts without the other                |
+| God                                         | Domain                         | Where                                                                                                 |
+| ------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| [[affiliation-igelnaru\|Faith of Igelnâru]] | The river                      | The [[place-zumeleshrvr\|Zumélesh]] itself; the cult travels with the water                           |
+| [[affiliation-qeztu\|Faith of Qeztu]]       | War                            | Patron of four border selatu; the war-temple at [[place-balehen\|Balehen]]                            |
+| [[affiliation-tjelsuk\|Faith of Tjelsur]]   | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river                          |
+| [[affiliation-shebazet\|Faith of Shebazet]] | The marsh                      | The delta papyrus selat, whose reed-beds are the empire's paper                                       |
+| [[affiliation-pelgun\|Faith of Pelgun]]     | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults                          |
+| [[affiliation-linhur\|Faith of Linhur]]     | The hunt                       | Paired with [[lore-linqurdty\|Linqur]] as the religious foundation of [[affiliation-garnuw\|Gar'Nuw]] |
+| [[affiliation-linqur\|Faith of Linqur]]     | The hunt                       | Paired with [[lore-linhurdty\|Linhur]]; neither temple's rite counts without the other                |
 
-Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsur]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igel'Nâru]] holds the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
+Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsur]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igelnâru]] holds the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
 
 ## The Cosmic Order
 
 The pantheon turns on one opposition, _order against chaos_. [[affiliation-qearet|Qe'âret]] is cosmic order, the principle that holds reality together. [[affiliation-azuathis|Azu'âthis]] is primordial chaos, the dissolution that came before creation and constantly threatens to reclaim it. Every other god has a place in that frame:
 
 - [[affiliation-uqaa|Uqa'â]] battles Azu'âthis every night so that the sun rises;
-- [[affiliation-wethur|Wethûr]] and [[affiliation-hezmuiri|Hezmuîri]] keep the passage from life to death orderly;
-- [[affiliation-uznera|Uznêra]] sustains the renewal of life that chaos would put out;
+- [[affiliation-wethur|Weth'ûr]] and [[affiliation-hezmuiri|Hezmu'îri]] keep the passage from life to death orderly;
+- [[affiliation-uznera|Uzn'êra]] sustains the renewal of life that chaos would put out;
 - [[affiliation-psaqaru|Psaq'âru]] makes the material structures that give form to the formless.
 
 The coherence of the scheme impressed the [[place-helionis|Helionite]] philosophers who studied it. The gods are parts of a cosmic system, each with a defined role in keeping existence going. The annual flood of the river—the land drowned and reborn each year—is the living image of that cycle of destruction and renewal, and the whole Khelâthi calendar of festivals, rites and observances is arranged around it.

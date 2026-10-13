@@ -41,7 +41,7 @@ data:
       Canal-Reader: >-
         Works the formulae that hold a bank, clear a channel or read the water, and is the House's most ordinary and most frequently summoned practitioner.
       Mender: >-
-        Holds the healing forms, which the House shares—carefully, and in reduced versions—with the temples of Uznêra.
+        Holds the healing forms, which the House shares—carefully, and in reduced versions—with the temples of Uzn'êra.
   seat: null
   population: null
   economy: []
@@ -58,7 +58,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Two Offices
 
-The Canal-Reader works the formulae that hold a bank, clear a channel or read the water, and is the House's most ordinary and most frequently summoned practitioner. The Mender holds the healing forms, which the House shares, carefully and in reduced versions, with the temples of [[lore-uzneradty|Uznêra]].
+The Canal-Reader works the formulae that hold a bank, clear a channel or read the water, and is the House's most ordinary and most frequently summoned practitioner. The Mender holds the healing forms, which the House shares, carefully and in reduced versions, with the temples of [[lore-uzneradty|Uzn'êra]].
 
 The **Black Land** has a partner in the tradition: [[affiliation-gargezrulutu|Gar-Gezru'lutu]] holds the Red, and the flood that makes the one is measured against the other every year.
 

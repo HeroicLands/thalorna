@@ -194,7 +194,7 @@ Khelâthi nobility does not use the western **Ankarian** "Lord" and "Lady." The 
 
 The title always comes before the personal name: Halzi'a **Lersaîs**, Zabet'lutu **Thaminra**, Zemelu **Quztar**. The Khelâthi find the western habit of putting the title after the family name charmingly backward.
 
-Khelâthi women hold far more legal rights than women in most of western [[place-ankrscntnnt|Ankaris]]. They own property, initiate divorce, serve as priestesses up to the highest offices, practice medicine and magic, and conduct business on their own account. The doctrine underneath belongs to [[lore-uzneradty|Uznêra]], whose faith holds that creation requires the balanced partnership of a masculine and a feminine divine principle. Several of the ablest rulers in Khelâthi history have been queens who governed as Gar-Aû in their own right.
+Khelâthi women hold far more legal rights than women in most of western [[place-ankrscntnnt|Ankaris]]. They own property, initiate divorce, serve as priestesses up to the highest offices, practice medicine and magic, and conduct business on their own account. The doctrine underneath belongs to [[lore-uzneradty|Uzn'êra]], whose faith holds that creation requires the balanced partnership of a masculine and a feminine divine principle. Several of the ablest rulers in Khelâthi history have been queens who governed as Gar-Aû in their own right.
 
 ### Notable Institutions
 
@@ -254,7 +254,7 @@ The market towns along the river are crowded, colorful and noisy. Goods from acr
 
 ## Religion
 
-The [[affiliation-khelathpnthn|Khelâthi Pantheon]] reaches into every part of Khelâthi life, and its great gods are arranged in theological systems argued over and refined for millennia. [[lore-uqaadty|Uqa'â]] (the sun, life and purification) stands at the apex; [[lore-qearetdty|Qe'âret]] (order, truth and justice) supplies the moral frame; [[lore-psaqarudty|Psaq'âru]] (creation and craft) governs the material world; [[lore-rethsaardty|Reth'Sa'âr]] (knowledge and writing) keeps wisdom; [[lore-uzneradty|Uznêra]] (fertility and healing) sustains life; [[lore-wethurdty|Wethûr]] and [[lore-hezmuiridty|Hezmuîri]] govern the passage into death; and [[lore-azuathisdty|Azu'âthis]] (chaos) threatens the whole order.
+The [[affiliation-khelathpnthn|Khelâthi Pantheon]] reaches into every part of Khelâthi life, and its great gods are arranged in theological systems argued over and refined for millennia. [[lore-uqaadty|Uqa'â]] (the sun, life and purification) stands at the apex; [[lore-qearetdty|Qe'âret]] (order, truth and justice) supplies the moral frame; [[lore-psaqarudty|Psaq'âru]] (creation and craft) governs the material world; [[lore-rethsaardty|Reth'Sa'âr]] (knowledge and writing) keeps wisdom; [[lore-uzneradty|Uzn'êra]] (fertility and healing) sustains life; [[lore-wethurdty|Weth'ûr]] and [[lore-hezmuiridty|Hezmu'îri]] govern the passage into death; and [[lore-azuathisdty|Azu'âthis]] (chaos) threatens the whole order.
 
 Each selat also has its own patron, and the local cults give the empire's religion great regional variety under the orthodox surface. The temple of Uqa'â in the capital may define official doctrine, but the fishermen of the delta worship Thubâ'i more fervently, and the miners of the eastern hills pray to Psaq'âru. The priesthoods tolerate this and often encourage it: the Khelâthi hold their gods too vast for any single cult, and their religious history is one long synthesis, absorption and reinterpretation.
 

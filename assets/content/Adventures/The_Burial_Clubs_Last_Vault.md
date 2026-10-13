@@ -146,9 +146,9 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 **Player choices.**
 
 - _Read the roll aloud._ The first column holds the members and the sum each paid. Every entry has a closing stroke. The last entry is not a member's. It records the sum paid for the education of a boy of the village _to be the club's lector_, with a closing stroke already made, and under it Wazlegir's note: _Paid in full. Open entry: the boy's coming home._ The working's condition is _until the entry is closed_, and a character who closes Qeltzin's entry by saying _he is home_ ends it. The Unwrapped lie down.
-- _Take the roll._ A temple of Wethûr or a House that wants to prove a lector was schooled at a club's expense pays for it.
+- _Take the roll._ A temple of Weth'ûr or a House that wants to prove a lector was schooled at a club's expense pays for it.
 - _Take the chest._ A few silver qelu and a mass of copper tokens, a lector's contract, and the club's amulet-mold.
-- _Speak the rite._ A priest of [[lore-wethurdty|Wethûr]] or a Lekhau of Gar-Ithnetáu who reads the Names and says the Westward words puts the dead to their rest. Without one, the Unwrapped lie still and the vault remains unspoken.
+- _Speak the rite._ A priest of [[lore-wethurdty|Weth'ûr]] or a Lekhau of Gar-Ithnetáu who reads the Names and says the Westward words puts the dead to their rest. Without one, the Unwrapped lie still and the vault remains unspoken.
 
 **Clues and rewards.** The roll itself. The chest. If Qeltzin lives, a confession: he was struck for speaking a pauper's rite for nothing, as the club had hoped he would for them. A character who can show a House that evidence may reopen his entry. Treasure is modest: a few silver qelu, a handful of copper, the House cutters and a lector's contract worth more to a scribe than to a thief.
 
@@ -169,4 +169,4 @@ Read [[place-clublstvlt|The Burial Club's Last Vault]] first. The adventure assu
 - [[place-clublstvlt|The Burial Club's Last Vault]]—the place
 - [[lore-khelunulekha|Khelunu Lekhau]]—the Houses and their marks
 - [[lore-theshadow|The Shadow]]—what fills a Name's absence
-- [[lore-wethurdty|Wethûr]]—the lord of the passage the club's dead never made
+- [[lore-wethurdty|Weth'ûr]]—the lord of the passage the club's dead never made

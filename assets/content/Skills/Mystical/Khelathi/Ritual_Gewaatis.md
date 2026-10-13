@@ -1,6 +1,6 @@
 ---
 shortcode: ritualgewats
-name: {full: "Ritual: Gewaâtis", aliases: [The Guiding Falcon]}
+name: {full: "Ritual: Gewa'âtis", aliases: [The Guiding Falcon]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-gewaatis|Faith of Gewaâtis]]
+See [[affiliation-gewaatis|Faith of Gewa'âtis]]

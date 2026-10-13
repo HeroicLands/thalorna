@@ -25,7 +25,7 @@ The fortress stands on an island in the river at the second cataract, and the se
 
 ## Settlements
 
-- [[place-linmut|Linmut]] (~11,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-wethurdty|Wethûr]].
+- [[place-linmut|Linmut]] (~11,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-wethurdty|Weth'ûr]].
 - The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also

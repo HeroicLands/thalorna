@@ -32,7 +32,7 @@ The selat runs on the flood, the harvest and the render like every Khelâthi sel
 ## Notable Features
 
 - [[place-zebtrelepet|Zebt-Relepet]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-wethur|Faith of Wethûr]] and its estates
+- The chief temple of [[affiliation-wethur|Faith of Weth'ûr]] and its estates
 - The cavern-tombs and the natron workings of the mortuary trade
 
 ## Settlements

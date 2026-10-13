@@ -1,6 +1,6 @@
 ---
 shortcode: ritualuznera
-name: {full: "Ritual: Uznêra", aliases: [Mother of New Beginnings]}
+name: {full: "Ritual: Uzn'êra", aliases: [Mother of New Beginnings]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-uznera|Faith of Uznêra]]
+See [[affiliation-uznera|Faith of Uzn'êra]]

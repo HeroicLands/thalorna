@@ -434,7 +434,7 @@ Born in the teak-rich highlands of the Empire of [[affiliation-empireakhlth|Aû'
 
 Over the past decade, Githara has established herself as the most discerning timber selector in the Aû'Khelâthu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her invaluable to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
 
-Her devotion to Gewaâtis the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
+Her devotion to Gewa'âtis the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Her devotion to Gewaâtis the Voyager flows naturally from her work—she sees i
 
 Githara possesses a contemplative nature, often found standing silently before a towering oak or pine, running her fingertips across its bark as though reading prophecy in its ridges. This meditative quality masks a passionate conviction about quality and craftsmanship. She speaks deliberately, choosing her words with the same precision she applies to her work, and harbors little patience for idle gossip or sloppy thinking. Yet beneath her austere exterior lies a dry wit that catches friends by surprise—her humor emerges like hidden grain revealed by a master carpenter's chisel.
 
-She is fiercely loyal to those she respects and unforgiving of incompetence or dishonesty. Her moral compass, guided by the voyager aspect of Gewaâtis, points toward integrity and forward motion—she believes people, like wood, must constantly grow or risk becoming brittle and useless.
+She is fiercely loyal to those she respects and unforgiving of incompetence or dishonesty. Her moral compass, guided by the voyager aspect of Gewa'âtis, points toward integrity and forward motion—she believes people, like wood, must constantly grow or risk becoming brittle and useless.
 
 ### Motivation
 
@@ -493,7 +493,7 @@ Guild Politics
 Timberwrights' Guild of Aû'Khelâthu
 : A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
 
-[[affiliation-genzetgewats|Genzet'Gewaâtis]]
+[[affiliation-genzetgewats|Genzet'Gewa'âtis]]
 : A devotional society of the Voyager's followers, where Githara serves as one of the lay teachers on journeys, transitions, and transformation.
 
 The Craft Collective

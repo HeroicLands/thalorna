@@ -198,7 +198,7 @@ The spindlefiend's body is narrow and light, plated in deep gray or mottled brow
 
 ## In the Land
 
-The Ground of the First Tablets is low tombs of mudbrick and rough stone, some no more than mounds, some with a door sealed by a block and a lintel cut in the sacred hand, in rows along the desert edge, and the temple of [[affiliation-hezmuiri|Hezmuîri]] at [[place-tjegu|Tjegu]] keeps watch over it with a thin guard. The spindlefiend lives in the tombs whose seals were broken long ago, and has strung their chambers, passages and the hollows under them with its webs. It hunts the jackals, foxes, owls and snakes that come into the tombs, and the tomb-robbers who come for the gold the oldest tombs do not have. It never goes down into the fields and never into daylight.
+The Ground of the First Tablets is low tombs of mudbrick and rough stone, some no more than mounds, some with a door sealed by a block and a lintel cut in the sacred hand, in rows along the desert edge, and the temple of [[affiliation-hezmuiri|Hezmu'îri]] at [[place-tjegu|Tjegu]] keeps watch over it with a thin guard. The spindlefiend lives in the tombs whose seals were broken long ago, and has strung their chambers, passages and the hollows under them with its webs. It hunts the jackals, foxes, owls and snakes that come into the tombs, and the tomb-robbers who come for the gold the oldest tombs do not have. It never goes down into the fields and never into daylight.
 
 ## Key Behaviors
 
@@ -206,7 +206,7 @@ The spindlefiend builds. It lays its webs in layers through a chamber, slowly, o
 
 ## What the Temple and the Farmers Do
 
-The farmers of Zu-Ger plow round the marker stones below the burial-ground and keep their rules about them, and they do not go up onto the shelf at all. The temple of Hezmuîri's guards walk the rows by day and do not go into the opened tombs. When a guard must enter one, he goes with a smoking torch, sweeping it ahead of him through the air, because smoke and powder show the threads, and fire burns them. Tomb-robbers from the river towns come up every few years, because a rumor of gold in the oldest tombs never dies, and the guards find what is left of them in a chamber that looks empty, bound in silk and dry. The temple has not removed the creature, and a priest of Hezmuîri, asked why, says that the dead of the First House have guardians enough, and leaves the visitor to count them.
+The farmers of Zu-Ger plow round the marker stones below the burial-ground and keep their rules about them, and they do not go up onto the shelf at all. The temple of Hezmu'îri's guards walk the rows by day and do not go into the opened tombs. When a guard must enter one, he goes with a smoking torch, sweeping it ahead of him through the air, because smoke and powder show the threads, and fire burns them. Tomb-robbers from the river towns come up every few years, because a rumor of gold in the oldest tombs never dies, and the guards find what is left of them in a chamber that looks empty, bound in silk and dry. The temple has not removed the creature, and a priest of Hezmu'îri, asked why, says that the dead of the First House have guardians enough, and leaves the visitor to count them.
 
 ## Signs
 

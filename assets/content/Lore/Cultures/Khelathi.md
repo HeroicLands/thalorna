@@ -46,7 +46,7 @@ In address the title precedes the personal name in every case: Halzi'a **Lersaî
 
 Khelâthi women hold a legal standing considerably wider than western **Ankaris** allows: they own property in their own names, initiate divorce, plead in the Genzet (court), practice medicine and magic, conduct business without a husband's leave, and hold priestly office up to and including the highest. Several of the most capable rulers in the empire's history have been queens governing as Gar-Aû in their own right.
 
-The doctrine underneath it belongs to [[lore-uzneradty|Uznêra]], whose faith holds that creation requires the balanced partnership of a masculine and a feminine divine principle. A civilization committed to that teaching cannot coherently treat a wife as property, and the Khelâthi have not tried. Their women find western marriage barbaric, and are markedly less diplomatic about saying so than their husbands.
+The doctrine underneath it belongs to [[lore-uzneradty|Uzn'êra]], whose faith holds that creation requires the balanced partnership of a masculine and a feminine divine principle. A civilization committed to that teaching cannot coherently treat a wife as property, and the Khelâthi have not tried. Their women find western marriage barbaric, and are markedly less diplomatic about saying so than their husbands.
 
 ## The House and the Name
 

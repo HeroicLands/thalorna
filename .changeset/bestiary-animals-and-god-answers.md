@@ -9,4 +9,4 @@
 **Gods, spirits and the Áelendan**
 
 - The Khelâthi gods, the Nyáluba deity and guides, and Tanwen now answer the questions their pages left open, and the gods and guides link the animals they claim.
-- Igel'Nâru is the local name of Tjelsur on one stretch of the Zumélesh, and the Leopard guide has a rainforest name of its own.
+- Igelnâru is the local name of Tjelsur on one stretch of the Zumélesh, and the Leopard guide has a rainforest name of its own.

@@ -41,7 +41,7 @@ data:
       Master of the Set Form: >-
         Certifies that a wrought form is exact enough to carry a working, and refuses the ones that are not.
       Preserver: >-
-        Holds the forms that arrest decay, and works alongside the embalmers of Hezmuîri without being one of them.
+        Holds the forms that arrest decay, and works alongside the embalmers of Hezmu'îri without being one of them.
       Raiser: >-
         Sets the workings that animate a made body—the standing servant, and the zaglu Gar-Ithnetáu binds.
   seat: null
@@ -60,7 +60,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Three Offices
 
-The Master of the Set Form certifies that a wrought form is exact enough to carry a working, and refuses the ones that are not. The Preserver holds the forms that arrest decay, and works alongside the embalmers of [[lore-hezmuiridty|Hezmuîri]] without being one of them. The Raiser sets the workings that animate a made body: the standing servant, and the zaglu that [[affiliation-garithnetau|Gar-Ithnetáu]] binds.
+The Master of the Set Form certifies that a wrought form is exact enough to carry a working, and refuses the ones that are not. The Preserver holds the forms that arrest decay, and works alongside the embalmers of [[lore-hezmuiridty|Hezmu'îri]] without being one of them. The Raiser sets the workings that animate a made body: the standing servant, and the zaglu that [[affiliation-garithnetau|Gar-Ithnetáu]] binds.
 
 [[lore-qeltnu|Qelt'nu]] is named for the soul-component the embalmers preserve, the one wrapped in linen. [[affiliation-garrethzethu|Gar-Reth'zethu]] holds its pair, the component the scribes inscribe.
 
