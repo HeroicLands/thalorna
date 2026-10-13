@@ -139,7 +139,7 @@ jobs:
 
     build:
         name: Content pack compile
-        runs-on: ubuntu-latest
+        runs-on: build
 
         steps:
             - name: Checkout code
