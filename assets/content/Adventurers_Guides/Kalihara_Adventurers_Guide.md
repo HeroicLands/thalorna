@@ -14,7 +14,7 @@ data: {packFolder: adventurersguides, culture: kaliharanclt}
 
 [[place-kaliharargn|Kalihara]] is a great tropical island in the western ocean, about a week's sail beyond the western strait in fair weather: jungle, a ring of tall mountains and a great central bowl under a single civilization that has faced inward for ten thousand years. Its people hold that they were raised into that civilization by the [[lore-theithari|Ithári]], who taught them and then left, and that they have tended what the Ithári left behind ever since. They have no gods and do not pray; they observe the world and tend their part of it. The interior is closed to every foreigner without exception. The world meets Kalihara at a handful of ports on the coast, of which Ilovanu is the greatest, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
 
-**The one thing to understand first: the port is as far as you go.** A port Kaliharan is cosmopolitan, speaks three trade tongues and has more in common with a factor in [[place-helionis|Heliónis]] than with a custodian in the interior, and he will not be admitted inland either. Nobody resents the arrangement, and nobody will explain the interior to you. An inland Kaliharan answers a direct question accurately and volunteers nothing else, and the ridgelines, the jungle and the seas around the island turn back anyone the Kaliharans have not chosen to admit.
+**The one thing to understand first: the port is almost always as far as you go.** A port Kaliharan is cosmopolitan, speaks three trade tongues and has more in common with a factor in [[place-helionis|Heliónis]] than with a custodian in the interior, and he is almost never admitted inland either. Nobody resents the arrangement, and nobody will explain the interior to you. An inland Kaliharan answers a direct question accurately and volunteers nothing else, and the ridgelines, the jungle and the seas around the island turn back anyone the Kaliharans have not chosen to admit.
 
 ## The Living Whole and Its Keepers
 
@@ -28,7 +28,7 @@ The Ithári'kaan are the custodians, trained from childhood in interior sanctuar
 - [[place-vashuran|Vashurán]], [[place-nalurithan|Nalurithan]] and [[place-telvari|Telvári]] are smaller ports, more tightly controlled.
 - The approaches need a Kaliharan pilot; the currents around the island behave in ways foreign sailors call uncanny.
 - The crossing runs out of sight of land, and the weather on it is never certain. The trade winds carry a ship to Kalihara in about a week when they hold, masters wait in port for settled weather before sailing, and a ship a little off her line misses the island altogether.
-- The voyage home is the dangerous half. The same winds block the direct return, and the long northern detour crosses the **Doldrum Sea**, where even good captains lose one voyage in eight.
+- The voyage home is the dangerous half. The same winds block the direct return, and the long northern detour crosses the [[place-dldrmsea|Doldrum Sea]], where even good captains lose one voyage in eight.
 - A household name belongs to the household. A foreigner who uses one is given the full name back and the conversation turns cold.
 
 ## Ways In

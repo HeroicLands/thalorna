@@ -18,11 +18,14 @@ data:
 
 The Bowl is the island's heart: a great bowl at its center, enclosed on every side by [[place-klhrring|the Ring]]. [[place-klhrlake|The Bowl Lake]] lies in it, and [[place-klhrmassif|the Massif]] stands in the lake as a mount.
 
-The oldest of the custodians' sanctuaries, **Veshvaan**, stands here. No foreigner has seen the Bowl.
+The oldest of the custodians' sanctuaries, [[place-veshvaan|Veshvaan]], stands on the Massif. Almost no foreigner has seen the Bowl.
 
 ## See Also
 
 - [[place-klhrring|The Ring]]—the mountains that enclose the Bowl
 - [[place-klhrlake|The Bowl Lake]]—the lake in the Bowl
 - [[place-klhrmassif|The Massif]]—the mount in the lake
+- [[place-klhrestrrc|The Eastern Terraces]]—the cleared land along the eastern and southern shores
+- [[place-klhrdpfrst|The Deep Forest]]—the forest of the western and northern Bowl
+- [[place-veshvaan|Veshvaan]]—the oldest sanctuary, on the Massif
 - [[affiliation-tharivaan|Thári'vaan]]—the custodians and their sanctuaries

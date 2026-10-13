@@ -93,7 +93,7 @@ You will hear a Kaliharan woman called _Koaluethei_ in the market and _Luethei_ 
 
 [[place-ilovanu|Ilovanu]] and the smaller settlements at [[place-vashuran|Vashurán]], [[place-nalurithan|Nalurithan]] and [[place-telvari|Telvári]] are where the two worlds touch. Centuries of contact with Ankarian, Tarûzelian and Vedyaran merchants have left them genuinely cosmopolitan: mixed populations, mixed marriages, and well-kept Aurèldían temples serving foreign traders, long-settled immigrant families, and Kaliharans who have chosen the cosmopolitan zone over the interior.
 
-A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is understood to be doing necessary work at the boundary, and the interior's distance from him is philosophical and not contemptuous. He is also not going to be admitted inland, and both he and the custodians know it, and it is not discussed.
+A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is understood to be doing necessary work at the boundary, and the interior's distance from him is philosophical and not contemptuous. He is also almost never admitted inland, and both he and the custodians know it, and it is not discussed.
 
 ## What the Whole Asks of a Tuesday
 

@@ -210,6 +210,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 
 | Name                            | Notes                                                              | Tongue        | Built from                |
 | ------------------------------- | ------------------------------------------------------------------ | ------------- | ------------------------- |
+| **Avothani**                    | [[place-klhrsthstr\|Avothani]]                                     | `kalihari`    | —                         |
 | **Bearer of the Crisis**        | [[affiliation-tharivaan\|Bearer of the Crisis]]                    | `translation` | —                         |
 | **Bondservant**                 | [[affiliation-kalihara\|Bondservant]]                              | `translation` | —                         |
 | **Canopy Glider**               | [[being-cnpyglr\|Canopy Glider]]                                   | `translation` | —                         |
@@ -248,6 +249,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Kalovael**                    | [[lore-klhrflora\|Kalovael]]                                       | `kalihari`    | `kalo-` + `vael-`         |
 | **Keeper of the Failing Works** | [[affiliation-kalihara\|Keeper of the Failing Works]]              | `translation` | —                         |
 | **Koavanu**                     | [[being-dpwtrfsh\|Koavanu]]                                        | `kalihari`    | `koa-` + `vanu-`          |
+| **Kuathivoel**                  | [[place-klhrdpfrst\|Kuathivoel]]                                   | `kalihari`    | —                         |
 | **Lay Kaliharan**               | [[affiliation-tharivaan\|Lay Kaliharan]]                           | `translation` | —                         |
 | **Lirunei**                     | [[being-rdhrn\|Lirunei]]                                           | `kalihari`    | `liru-` + `-nei`          |
 | **Luaithári**                   | [[skill-luthrscrpt\|Luaithári]]                                    | `kalihari`    | —                         |
@@ -258,6 +260,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Manulua**                     | [[being-trrcml\|Manulua]]                                          | `kalihari`    | `manu-` + `lua-`          |
 | **Manuluori**                   | [[lore-klhrflora\|Manuluori]]                                      | `kalihari`    | `manu-` + `luori-`        |
 | **Master of the Terraces**      | [[affiliation-kalihara\|Master of the Terraces]]                   | `translation` | —                         |
+| **Mirthaan**                    | [[place-mirthaan\|Mirthaan]]                                       | `kalihari`    | —                         |
 | **Nalurithan**                  | [[place-nalurithan\|Nalurithan]]                                   | `kalihari`    | `nalu-` + `rith-` + `-an` |
 | **Naokalo**                     | [[being-mbrydct\|Naokalo]]                                         | `kalihari`    | `nao-` + `kalo-`          |
 | **Naoliru**                     | [[being-ilmnnlr\|Naoliru]]                                         | `kalihari`    | `nao-` + `liru-`          |
@@ -276,11 +279,17 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Teacher of the kaan'sili**    | [[affiliation-tharivaan\|Teacher of the kaan'sili]]                | `translation` | —                         |
 | **Telvári**                     | [[place-telvari\|Telvári]]                                         | `kalihari`    | —                         |
 | **Terrace Mole**                | [[being-trrcml\|Terrace Mole]]                                     | `translation` | —                         |
+| **Thal'ari**                    | [[place-thalari\|Thal'ari]]                                        | `kalihari`    | —                         |
 | **Thári'vaan**                  | [[affiliation-tharivaan\|Thári'vaan]]                              | `kalihari`    | `thári-` + `vaan-`        |
 | **The Bowl**                    | [[place-klhrbowl\|The Bowl]]                                       | `translation` | —                         |
 | **The Bowl Lake**               | [[place-klhrlake\|The Bowl Lake]]                                  | `translation` | —                         |
+| **The Cloud Pass**              | [[place-klhrcldpss\|The Cloud Pass]]                               | `translation` | —                         |
+| **The Deep Forest**             | [[place-klhrdpfrst\|The Deep Forest]]                              | `translation` | —                         |
+| **The Doldrum Sea**             | [[place-dldrmsea\|The Doldrum Sea]]                                | `translation` | —                         |
+| **The Eastern Terraces**        | [[place-klhrestrrc\|The Eastern Terraces]]                         | `translation` | —                         |
 | **The Great Bowl**              | [[place-klhrbowl\|The Great Bowl]]                                 | `translation` | —                         |
 | **The Ithári**                  | [[lore-theithari\|The Ithári]]                                     | `translation` | —                         |
+| **The Kuethori Gap**            | [[place-klhrkthrgap\|The Kuethori Gap]]                            | `translation` | —                         |
 | **The Lake**                    | [[place-klhrlake\|The Lake]]                                       | `translation` | —                         |
 | **The Living Whole**            | [[affiliation-tharivaan\|The Living Whole]]                        | `translation` | —                         |
 | **The Massif**                  | [[place-klhrmassif\|The Massif]]                                   | `translation` | —                         |
@@ -288,11 +297,18 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **The Ring**                    | [[place-klhrring\|The Ring]]                                       | `translation` | —                         |
 | **The Ring Mountains**          | [[place-klhrring\|The Ring Mountains]]                             | `translation` | —                         |
 | **The Ring of Kalihara**        | [[place-klhrring\|The Ring of Kalihara]]                           | `translation` | —                         |
+| **The Sanctuary of Mirthaan**   | [[place-mirthaan\|The Sanctuary of Mirthaan]]                      | `translation` | —                         |
+| **The Sanctuary of Thal'ari**   | [[place-thalari\|The Sanctuary of Thal'ari]]                       | `translation` | —                         |
+| **The Sanctuary of Veshvaan**   | [[place-veshvaan\|The Sanctuary of Veshvaan]]                      | `translation` | —                         |
+| **The Southern Stair**          | [[place-klhrsthstr\|The Southern Stair]]                           | `translation` | —                         |
+| **The Western Saddle**          | [[place-klhrwstsddl\|The Western Saddle]]                          | `translation` | —                         |
+| **Theinuvael**                  | [[place-klhrwstsddl\|Theinuvael]]                                  | `kalihari`    | —                         |
 | **Those Who Came Before**       | [[lore-theithari\|Those Who Came Before]]                          | `translation` | —                         |
 | **Unkept**                      | [[affiliation-tharivaan\|Unkept]]                                  | `translation` | —                         |
 | **Vaarvanu**                    | [[being-mngbhmth\|Vaarvanu]]                                       | `kalihari`    | `vaar-` + `vanu-`         |
 | **Vaelvanu**                    | [[being-rflntrn\|Vaelvanu]]                                        | `kalihari`    | `vael-` + `vanu-`         |
 | **Vashurán**                    | [[place-vashuran\|Vashurán]]                                       | `kalihari`    | —                         |
+| **Veshvaan**                    | [[place-veshvaan\|Veshvaan]]                                       | `kalihari`    | —                         |
 | **Warden of a Sanctuary**       | [[affiliation-tharivaan\|Warden of a Sanctuary]]                   | `translation` | —                         |
 | **Warden of the Approaches**    | [[affiliation-kalihara\|Warden of the Approaches]]                 | `translation` | —                         |
 
