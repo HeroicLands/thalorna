@@ -713,6 +713,7 @@ Every name in the scope of the Áelendi tongue—the Áelendan, their spirits an
 | **Áelendan Wardens**                      | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
 | **The Wardens**                           | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
 | **Guardians of the Pact**                 | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
+| **Cast Out**                              | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
 | **Warden**                                | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
 | **Elder Warden**                          | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
 | **Runner**                                | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |

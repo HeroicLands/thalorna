@@ -289,6 +289,7 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Keeper of the Wells**                   | [[affiliation-kngdmmrdd\|Keeper of the Wells]]                       | `translation` | —                     |
 | **Kherzûlakhêm**                          | [[place-kherzulakhem\|Kherzûlakhêm]]                                 | `dunhari`     | `kherzûl-` + `-akhêm` |
 | **Kherzûlakhêm Camp**                     | [[affiliation-kherzlkhmcmp\|Kherzûlakhêm Camp]]                      | `translation` | —                     |
+| **Barred from the Well**                  | [[affiliation-kherzlkhmcmp\|Kherzûlakhêm Camp]]                      | `translation` | —                     |
 | **Camper**                                | [[affiliation-kherzlkhmcmp\|Kherzûlakhêm Camp]]                      | `translation` | —                     |
 | **Kingdom of Amradad**                    | [[affiliation-kngdmmrdd\|Kingdom of Amradad]]                        | `translation` | —                     |
 | **Kinless**                               | [[affiliation-dunhartrbs\|Kinless]]                                  | `translation` | —                     |
@@ -301,6 +302,7 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Nûzgadêr**                              | [[affiliation-kngdmmrdd\|Nûzgadêr]]                                  | `dunhari`     | `nûzg-` + `-adêr`     |
 | **Oasis of Tevrazâvad**                   | [[place-oasistvrzvd\|Oasis of Tevrazâvad]]                           | `translation` | —                     |
 | **Tribe of Tevrazâvad**                   | [[affiliation-trbtvrzvd\|Tribe of Tevrazâvad]]                       | `translation` | —                     |
+| **Kinless**                               | [[affiliation-trbtvrzvd\|Tribe of Tevrazâvad]]                       | `translation` | —                     |
 | **Tribesman**                             | [[affiliation-trbtvrzvd\|Tribe of Tevrazâvad]]                       | `translation` | —                     |
 | **Officer of the Court**                  | [[affiliation-kngdmmrdd\|Officer of the Court]]                      | `translation` | —                     |
 | **Outcast**                               | [[affiliation-kngdmmrdd\|Outcast]]                                   | `translation` | —                     |
