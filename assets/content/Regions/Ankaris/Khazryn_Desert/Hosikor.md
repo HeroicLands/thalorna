@@ -36,7 +36,7 @@ The dead cities are the region's reputation. A league of caravan towns once stoo
 
 The dry lake [[place-ewod|Evöd]] is crusted with salt over brine mud, and stepped mounds at its old shore hold glazed tiles and sealed jars. A cut stair-well, [[place-qelod|Kelöd]], drops three hundred feet to a water table that has fallen below its bottom. A green oasis of sweet water and heavy palms, [[place-wemaq|Vömek]], "the dead", lies near the road and nobody camps there, for it is a blood-field of the moderate kind where everything grows too well and the dreams that come with it are of a battle. A caravan town on the southern spur, [[place-qimod|Qiimod]], "the silent", is sacked and whole and empty; no bird sings in it and no flame stays lit, and it is a thin blood-field too.
 
-Beyond the cities there are giant camel spiders at every well, bone scorpions in the shade of the standing towers, and the dune collapses that take a camel and its load in a breath. Not every lidded well holds what its owners say it holds: under the twelve palms of [[place-qelodwatri|Kelödvootri]], an owned spring at the foot of a black mesa, the thing in the cistern is no [[being-qelodud|kelödüd]].
+Beyond the cities there are giant camel spiders at every well, bone scorpions in the shade of the standing towers, and the dune collapses that take a camel and its load in a breath. Every lidded well has its telling. Of [[place-qelodwatri|Kelödvootri]], an owned spring under twelve palms at the foot of a black mesa, the guides of the grass say the thing in its cistern is no [[being-qelodud|kelödüd]], and they drink there only from their own skins.
 
 ## Hooks
 

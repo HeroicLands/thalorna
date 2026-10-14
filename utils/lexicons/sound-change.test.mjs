@@ -74,12 +74,12 @@ test("every stress rule places the stress where it says", () => {
 });
 
 test("a Change cell is a substitution or an operation, and anything else is a problem", () => {
-    const sub = parseChange("`t' d' k' g'` → `t d k g`");
+    const sub = parseChange("`t' d' k' g'` > `t d k g`");
     assert.equal(sub.rules.length, 4);
     assert.deepEqual(sub.problems, []);
-    const several = parseChange("`dh` → `z`; `gh` → `g`");
+    const several = parseChange("`dh` > `z`; `gh` > `g`");
     assert.equal(several.rules.length, 2);
-    const del = parseChange("`p ph b w h` → `—`");
+    const del = parseChange("`p ph b w h` > `—`");
     assert.equal(del.rules.length, 5);
     assert.deepEqual(del.rules[0].to, []);
     assert.ok(parseChange("like vowels merge, long").operation);
@@ -89,7 +89,7 @@ test("a Change cell is a substitution or an operation, and anything else is a pr
     );
     assert.equal(parseChange("vowels do something").operation, null);
     assert.equal(parseChange("vowels do something").problems.length, 1);
-    assert.equal(parseChange("`a b` → `x y z`").problems.length, 1, "unequal lists are a problem");
+    assert.equal(parseChange("`a b` > `x y z`").problems.length, 1, "unequal lists are a problem");
     assert.ok(OPERATIONS.length >= 8);
 });
 
@@ -107,7 +107,7 @@ test("a Where cell uses the closed vocabulary and nothing else", () => {
 });
 
 test("a table with a word outside the vocabulary reports the row", () => {
-    const text = `## From ancient Vylari\n\n${table([["`p` → `v`", "in a stressed foot"]])}`;
+    const text = `## From ancient Vylari\n\n${table([["`p` > `v`", "in a stressed foot"]])}`;
     const { steps, problems } = readChanges(text, "## From ancient Vylari");
     assert.equal(steps.length, 1);
     assert.equal(problems.length, 1);
@@ -116,49 +116,49 @@ test("a table with a word outside the vocabulary reports the row", () => {
 });
 
 test("each condition holds where it says and nowhere else", () => {
-    assert.equal(through([["`p` → `v`", "between vowels"]], "apa"), "ava");
-    assert.equal(through([["`p` → `v`", "between vowels"]], "pa"), "pa");
-    assert.equal(through([["`th` → `t`", "word start"]], "thath"), "tath");
-    assert.equal(through([["`s` → `—`", "word end"]], "sas"), "sa");
-    assert.equal(through([["`k` → `g`", "after a vowel"]], "arka"), "arka");
-    assert.equal(through([["`k` → `v`", "after a vowel or a liquid"]], "arka"), "arva");
-    assert.equal(through([["`n` → `—`", "before a vowel"]], "ana"), "aa");
-    assert.equal(through([["`p` → `v`", "after a nasal or a liquid"]], "ampa"), "amva");
-    assert.equal(through([["`e` → `—`", "word end and after a single consonant"]], "kane"), "kan");
+    assert.equal(through([["`p` > `v`", "between vowels"]], "apa"), "ava");
+    assert.equal(through([["`p` > `v`", "between vowels"]], "pa"), "pa");
+    assert.equal(through([["`th` > `t`", "word start"]], "thath"), "tath");
+    assert.equal(through([["`s` > `—`", "word end"]], "sas"), "sa");
+    assert.equal(through([["`k` > `g`", "after a vowel"]], "arka"), "arka");
+    assert.equal(through([["`k` > `v`", "after a vowel or a liquid"]], "arka"), "arva");
+    assert.equal(through([["`n` > `—`", "before a vowel"]], "ana"), "aa");
+    assert.equal(through([["`p` > `v`", "after a nasal or a liquid"]], "ampa"), "amva");
+    assert.equal(through([["`e` > `—`", "word end and after a single consonant"]], "kane"), "kan");
     assert.equal(
-        through([["`e` → `—`", "word end and after a single consonant"]], "kante"),
+        through([["`e` > `—`", "word end and after a single consonant"]], "kante"),
         "kante",
     );
-    assert.equal(through([["`e` → `—`", "word end and after `n`, `r`"]], "kare"), "kar");
-    assert.equal(through([["`e` → `—`", "word end and after `n`, `r`"]], "kade"), "kade");
-    assert.equal(through([["`k` → `ch`", "before `ie`, `ei`"]], "kiela"), "chiela");
-    assert.equal(through([["`e` → `ie`", "open syllable"]], "nela"), "niela");
-    assert.equal(through([["`e` → `ie`", "open syllable"]], "nelta"), "nelta");
-    assert.equal(through([["`e` → `ie`", "closed syllable"]], "nelta"), "nielta");
+    assert.equal(through([["`e` > `—`", "word end and after `n`, `r`"]], "kare"), "kar");
+    assert.equal(through([["`e` > `—`", "word end and after `n`, `r`"]], "kade"), "kade");
+    assert.equal(through([["`k` > `ch`", "before `ie`, `ei`"]], "kiela"), "chiela");
+    assert.equal(through([["`e` > `ie`", "open syllable"]], "nela"), "niela");
+    assert.equal(through([["`e` > `ie`", "open syllable"]], "nelta"), "nelta");
+    assert.equal(through([["`e` > `ie`", "closed syllable"]], "nelta"), "nielta");
     assert.equal(
-        through([["`e` → `ie`", "open syllable"]], "petra"),
+        through([["`e` > `ie`", "open syllable"]], "petra"),
         "pietra",
         "stop and liquid open",
     );
-    assert.equal(through([["`â` → `a`", "unstressed syllable"]], "sôrimâ"), "sôrima");
-    assert.equal(through([["`â` → `a`", "stressed syllable"]], "sôrimâ"), "sôrimâ");
-    assert.equal(through([["`ô` → `o`", "stressed syllable"]], "sôrimâ"), "sorimâ");
+    assert.equal(through([["`â` > `a`", "unstressed syllable"]], "sôrimâ"), "sôrima");
+    assert.equal(through([["`â` > `a`", "stressed syllable"]], "sôrimâ"), "sôrimâ");
+    assert.equal(through([["`ô` > `o`", "stressed syllable"]], "sôrimâ"), "sorimâ");
 });
 
 test("class letters match and copy, and a copied V without a source copies the vowel to the left", () => {
-    assert.equal(through([["`CC` → `CCe`", "word end"]], "jhorn"), "jhorne");
-    assert.equal(through([["`CC` → `CCe`", "word end"]], "jhora"), "jhora");
-    assert.equal(through([["`ândis` → `Vndi`", "word end"]], "Ghôrândis"), "Ghôrondi");
-    assert.equal(through([["`ândis` → `Vndi`", "word end"]], "Dhârgândis"), "Dhârgandi");
-    assert.equal(through([["`VN` → `NV`", "anywhere"]], "an"), "na");
+    assert.equal(through([["`CC` > `CCe`", "word end"]], "jhorn"), "jhorne");
+    assert.equal(through([["`CC` > `CCe`", "word end"]], "jhora"), "jhora");
+    assert.equal(through([["`ândis` > `Vndi`", "word end"]], "Ghôrândis"), "Ghôrondi");
+    assert.equal(through([["`ândis` > `Vndi`", "word end"]], "Dhârgândis"), "Dhârgandi");
+    assert.equal(through([["`VN` > `NV`", "anywhere"]], "an"), "na");
 });
 
 test("the operations merge vowels, move stress and choose the written mark", () => {
-    assert.equal(through([["`p` → `—`"], ["like vowels merge, long"]], "apa"), "â");
-    assert.equal(through([["`p` → `—`"], ["like vowels merge, short"]], "apa"), "a");
-    assert.equal(through([["`h` → `—`"], ["unlike vowels merge to the first, long"]], "aho"), "â");
+    assert.equal(through([["`p` > `—`"], ["like vowels merge, long"]], "apa"), "â");
+    assert.equal(through([["`p` > `—`"], ["like vowels merge, short"]], "apa"), "a");
+    assert.equal(through([["`h` > `—`"], ["unlike vowels merge to the first, long"]], "aho"), "â");
     assert.equal(
-        through([["`h` → `—`"], ["unlike vowels merge to the first, long"]], "kaina"),
+        through([["`h` > `—`"], ["unlike vowels merge to the first, long"]], "kaina"),
         "kaina",
         "a kept diphthong does not merge",
     );
@@ -194,7 +194,7 @@ test("the operations merge vowels, move stress and choose the written mark", () 
         "sórima",
     );
     assert.equal(
-        through([["`an` → `ã`", "before a vowel"], ["grave on the stressed vowel"]], "gana"),
+        through([["`an` > `ã`", "before a vowel"], ["grave on the stressed vowel"]], "gana"),
         "gãa",
         "a nasal takes its tilde and no other mark",
     );
@@ -208,7 +208,7 @@ test("stress survives substitution, a target acute places it, and a deleted stre
     assert.equal(
         through(
             [
-                ["`e` → `ié`", "stressed syllable and open syllable"],
+                ["`e` > `ié`", "stressed syllable and open syllable"],
                 ["acute on the stressed vowel"],
             ],
             "nela",
@@ -216,13 +216,13 @@ test("stress survives substitution, a target acute places it, and a deleted stre
         "niéla",
     );
     assert.equal(
-        through([["`â` → `ae`", "stressed syllable"], ["acute on the stressed vowel"]], "Dâran", {
+        through([["`â` > `ae`", "stressed syllable"], ["acute on the stressed vowel"]], "Dâran", {
             stress: "as marked",
         }),
         "Dáeran",
     );
     assert.equal(
-        through([["`o` → `—`", "word start"], ["acute on the stressed vowel"]], "orima", {
+        through([["`o` > `—`", "word start"], ["acute on the stressed vowel"]], "orima", {
             stress: "first syllable",
         }),
         "ríma",
@@ -230,7 +230,7 @@ test("stress survives substitution, a target acute places it, and a deleted stre
 });
 
 test("a capital on the source form is kept and the trace shows each step", () => {
-    const { steps } = readChanges(table([["`dh` → `z`"], ["`gh` → `g`"]]));
+    const { steps } = readChanges(table([["`dh` > `z`"], ["`gh` > `g`"]]));
     const out = derive("Ghôrândis", steps, { stress: "by weight" });
     assert.equal(out.form, "Gôrândis");
     assert.deepEqual(
@@ -242,23 +242,23 @@ test("a capital on the source form is kept and the trace shows each step", () =>
 // The five tables of the Aurèldían design, each proved on the forms the notes attest.
 
 const VYLARI = [
-    ["`t' d' k' g'` → `t d k g`", "anywhere"],
-    ["`dh` → `z`; `gh` → `g`", "anywhere"],
-    ["`w` → `v`", "anywhere"],
-    ["`b` → `v`", "between vowels"],
+    ["`t' d' k' g'` > `t d k g`", "anywhere"],
+    ["`dh` > `z`; `gh` > `g`", "anywhere"],
+    ["`w` > `v`", "anywhere"],
+    ["`b` > `v`", "between vowels"],
 ];
 
 const AELENDI = [
-    ["`p ph b w h` → `—`", "anywhere"],
-    ["`y` → `—`; `z` → `s`", "anywhere"],
+    ["`p ph b w h` > `—`", "anywhere"],
+    ["`y` > `—`; `z` > `s`", "anywhere"],
     ["like vowels merge, long", "—"],
     ["unlike vowels merge to the first, long", "—"],
-    ["`ândis` → `di`", "word end and after `n`"],
-    ["`ândis` → `ndi`", "word end and after a vowel"],
-    ["`ândis` → `Vndi`", "word end"],
-    ["`ôs` → `—`; `â` → `a`", "word end"],
+    ["`ândis` > `di`", "word end and after `n`"],
+    ["`ândis` > `ndi`", "word end and after a vowel"],
+    ["`ândis` > `Vndi`", "word end"],
+    ["`ôs` > `—`; `â` > `a`", "word end"],
     ["stress moves to the first syllable", "—"],
-    ["`â ê î ô û` → `a e i o u`", "unstressed syllable"],
+    ["`â ê î ô û` > `a e i o u`", "unstressed syllable"],
     [
         "acute on a stressed short vowel, circumflex on a long one of a word of two syllables or more",
         "—",
@@ -266,46 +266,46 @@ const AELENDI = [
 ];
 
 const ELAVENDRI = [
-    ["`t' d' k' g'` → `t d k g`", "anywhere"],
-    ["`kh` → `h`", "anywhere"],
-    ["`gh` → `g`", "word start"],
-    ["`gh` → `—`", "anywhere"],
+    ["`t' d' k' g'` > `t d k g`", "anywhere"],
+    ["`kh` > `h`", "anywhere"],
+    ["`gh` > `g`", "word start"],
+    ["`gh` > `—`", "anywhere"],
     ["like vowels merge, short", "—"],
-    ["`â ê î ô û` → `ae ei ie ou ýe`", "stressed syllable and open syllable"],
-    ["`â ê î ô û` → `a e i o u`", "anywhere"],
-    ["`p` → `v`", "between vowels"],
-    ["`p` → `v`", "after a nasal or a liquid"],
-    ["`t d k g` → `d dh g y`", "between vowels"],
-    ["`k g s` → `ch j sh`", "before `ie`, `ei`, `ýe`"],
-    ["`e i o u y` → `ë`", "word end"],
+    ["`â ê î ô û` > `ae ei ie ou ýe`", "stressed syllable and open syllable"],
+    ["`â ê î ô û` > `a e i o u`", "anywhere"],
+    ["`p` > `v`", "between vowels"],
+    ["`p` > `v`", "after a nasal or a liquid"],
+    ["`t d k g` > `d dh g y`", "between vowels"],
+    ["`k g s` > `ch j sh`", "before `ie`, `ei`, `ýe`"],
+    ["`e i o u y` > `ë`", "word end"],
     ["acute on the stressed vowel", "—"],
 ];
 
 const PROVENZAL = [
-    ["`t' d' k' g'` → `t d k g`", "anywhere"],
-    ["`ph` → `f`; `kh` → `ch`; `gh` → `g`; `h` → `—`", "anywhere"],
-    ["`th dh` → `t d`", "word start"],
-    ["`w` → `v`", "anywhere"],
-    ["`y` → `j`", "word start"],
-    ["`y` → `i`", "anywhere"],
-    ["`p b` → `v`; `t` → `d`; `d` → `dh`; `k g` → `v`", "after a vowel or a liquid"],
-    ["`an ân` → `ã`; `en ên in în` → `ẽ`; `on ôn un ûn` → `õ`", "before a vowel"],
-    ["`ôs ôn on` → `—`; `ân` → `a`", "word end"],
-    ["`CC` → `CCe`", "word end"],
-    ["`â ê î ô û` → `a e i o u`", "anywhere"],
+    ["`t' d' k' g'` > `t d k g`", "anywhere"],
+    ["`ph` > `f`; `kh` > `ch`; `gh` > `g`; `h` > `—`", "anywhere"],
+    ["`th dh` > `t d`", "word start"],
+    ["`w` > `v`", "anywhere"],
+    ["`y` > `j`", "word start"],
+    ["`y` > `i`", "anywhere"],
+    ["`p b` > `v`; `t` > `d`; `d` > `dh`; `k g` > `v`", "after a vowel or a liquid"],
+    ["`an ân` > `ã`; `en ên in în` > `ẽ`; `on ôn un ûn` > `õ`", "before a vowel"],
+    ["`ôs ôn on` > `—`; `ân` > `a`", "word end"],
+    ["`CC` > `CCe`", "word end"],
+    ["`â ê î ô û` > `a e i o u`", "anywhere"],
     ["stress moves to the penultimate or final", "—"],
     ["grave on the stressed vowel", "—"],
 ];
 
 const TARVENI = [
-    ["`p t k` → `b d g`", "between vowels"],
-    ["`t' d'` → `t`; `k' g'` → `k`", "anywhere"],
-    ["`ph` → `h`; `dh` → `d`; `gh` → `g`", "anywhere"],
-    ["`w` → `v`; `y` → `i`", "anywhere"],
-    ["`e o` → `ié ué`", "stressed syllable and open syllable"],
-    ["`ôs` → `o`; `â` → `a`; `on` → `o`", "word end"],
-    ["`e` → `—`", "word end and after a single consonant and after `n`, `r`, `l`, `s`, `d`"],
-    ["`â ê î ô û` → `a e i o u`", "anywhere"],
+    ["`p t k` > `b d g`", "between vowels"],
+    ["`t' d'` > `t`; `k' g'` > `k`", "anywhere"],
+    ["`ph` > `h`; `dh` > `d`; `gh` > `g`", "anywhere"],
+    ["`w` > `v`; `y` > `i`", "anywhere"],
+    ["`e o` > `ié ué`", "stressed syllable and open syllable"],
+    ["`ôs` > `o`; `â` > `a`; `on` > `o`", "word end"],
+    ["`e` > `—`", "word end and after a single consonant and after `n`, `r`, `l`, `s`, `d`"],
+    ["`â ê î ô û` > `a e i o u`", "anywhere"],
     ["acute on the stressed vowel of a word of two syllables or more", "—"],
 ];
 
@@ -394,4 +394,24 @@ test("ancient Vylari becomes Tarveni, the ejective kept as a voiceless stop", ()
         ["kálmâkên", "kalmágen"],
     ])
         assert.equal(through(TARVENI, from), to, from);
+});
+
+test("a change is written with > and any other arrow is refused", () => {
+    const written = "`t' d' k' g'` > `t d k g`; `p ph` > `—`";
+    const read = parseChange(written);
+    assert.deepEqual(read.problems, []);
+    assert.equal(read.rules.length, 6);
+    assert.deepEqual(read.rules[4].to, []);
+    assert.equal(through([["`ândis` > `Vndi`", "word end"]], "Ghôrândis"), "Ghôrondi");
+    assert.equal(through([["`e` > `ié`", "stressed syllable and open syllable"]], "nela"), "niela");
+    assert.equal(through([["`â` > `a`", "unstressed syllable"]], "sôrimâ"), "sôrima");
+    for (const arrow of ["\u2192", "->"]) {
+        const refused = parseChange(`\`p\` ${arrow} \`v\``);
+        assert.equal(refused.rules.length, 0, `${arrow} reads no rule`);
+        assert.equal(refused.problems.length, 1, `${arrow} is a problem`);
+        assert.match(refused.problems[0], /write > between/);
+    }
+    const mixed = parseChange("`dh` > `z`; `gh` \u2192 `g`");
+    assert.equal(mixed.rules.length, 1);
+    assert.equal(mixed.problems.length, 1);
 });

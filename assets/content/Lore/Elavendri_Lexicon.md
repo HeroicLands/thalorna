@@ -116,18 +116,18 @@ So the highland name _Khálden_ is _Hálden_, _kûthresa_ (a forfeit) is _chýet
 
 | Step | Change                         | Where                               |
 | ---- | ------------------------------ | ----------------------------------- |
-| E1   | `t' d' k' g'` → `t d k g`      | anywhere                            |
-| E2   | `kh` → `h`                     | anywhere                            |
-| E3   | `gh` → `g`                     | word start                          |
-| E4   | `gh` → `—`                     | anywhere                            |
+| E1   | `t' d' k' g'` > `t d k g`      | anywhere                            |
+| E2   | `kh` > `h`                     | anywhere                            |
+| E3   | `gh` > `g`                     | word start                          |
+| E4   | `gh` > `—`                     | anywhere                            |
 | E5   | like vowels merge, short       | —                                   |
-| E6   | `â ê î ô û` → `ae ei ie ou ýe` | stressed syllable and open syllable |
-| E7   | `â ê î ô û` → `a e i o u`      | anywhere                            |
-| E8   | `p` → `v`                      | between vowels                      |
-| E9   | `p` → `v`                      | after a nasal or a liquid           |
-| E10  | `t d k` → `d dh g`             | between vowels                      |
-| E11  | `k g s` → `ch j sh`            | before `ie`, `ei`, `ýe`             |
-| E12  | `e i o u y` → `ë`              | word end and after a consonant      |
+| E6   | `â ê î ô û` > `ae ei ie ou ýe` | stressed syllable and open syllable |
+| E7   | `â ê î ô û` > `a e i o u`      | anywhere                            |
+| E8   | `p` > `v`                      | between vowels                      |
+| E9   | `p` > `v`                      | after a nasal or a liquid           |
+| E10  | `t d k` > `d dh g`             | between vowels                      |
+| E11  | `k g s` > `ch j sh`            | before `ie`, `ei`, `ýe`             |
+| E12  | `e i o u y` > `ë`              | word end and after a consonant      |
 | E13  | acute on the stressed vowel    | —                                   |
 
 The Sinalë words ride the same table, and many of them come back toward their Sinalë shape on the way down, because the lowland softening undoes what the highland mouth did to them: the Sinalë `v` the Áelendan said as `p` is `v` again between vowels. This is where the "fey" sound of Élavendri comes from. The words that open on _th-_ are disproportionately the Sinalë words, and the tongue's whole Brittonic colour, the colour of the lays, is the Sinalë layer heard through two mouths.
@@ -140,10 +140,10 @@ The imperial words came with the clerks in the centuries of vassalage and with t
 
 | Step | Change                             | Where                          |
 | ---- | ---------------------------------- | ------------------------------ |
-| L1   | `ph` → `f`; `kh` → `h`; `x` → `s`  | anywhere                       |
-| L2   | `ôs` → `—`                         | word end                       |
-| L3   | `â ê î ô û` → `a e i o u`          | anywhere                       |
-| L4   | `e i o u` → `ë`                    | word end and after a consonant |
+| L1   | `ph` > `f`; `kh` > `h`; `x` > `s`  | anywhere                       |
+| L2   | `ôs` > `—`                         | word end                       |
+| L3   | `â ê î ô û` > `a e i o u`          | anywhere                       |
+| L4   | `e i o u` > `ë`                    | word end and after a consonant |
 | L5   | stress moves to the first syllable | —                              |
 | L6   | acute on the stressed vowel        | —                              |
 

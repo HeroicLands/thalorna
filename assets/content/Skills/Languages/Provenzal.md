@@ -224,30 +224,16 @@ The tradition of "love names" is widespread: a person might grant an intimate fr
 
 Élavendri influence is visible in Provenzal naming—the morphemes _-ael_ (light/radiance), _th-_ (shadow/mystery), and _-aen_ (flowing/becoming) appear frequently in given names, particularly in the northern Nòrdavène tradition where Élavendri contact is strongest. A name like _Lánaèl_ or _Brénael_ marks a family that values the fey-touched poetic tradition; a name like _Thályra_ or _Tháryn_ carries connotations of mystery and depth.
 
-### Nòrdavène Names (Northern Provenzal)
+### Name Lists
 
 #### Male Names
 
-Áldrik, Âvenar, Árvald, Bjársen, Brýgar, Dâlenar, Éltan, Fálgrik, Fjálrik, Gjârlen, Háren, Hârlak, Hávral, Ílnar, Ísselrik, Jârvel, Kâlrik, Kjôrvan, Krâlen, Lârsten, Mârlen, Nýlrik, Órdan, Pâdran, Rýgar, Sálven, Skârik, Stâvrik, Thâven, Thôrlin, Tôrvald, Týren, Úrkar, Várlan, Vélarik, Vôrnan, Ylârven, Ýdrik, Zálren, Zyrík, Hârthon, Mârikel, Brálnis, Kýrvek, Hvôrlen, Târlig, Ârvelis, Lôden, Stálrik, Póverik
+Solmère, Revòthe, Zedìme, Orthème, Malvòthe, Talòthe, Kiràme, Melvàre, Tulème, Solkìme, Elvàne, Ilthòre, Aithève, Diràve, Sathère, Lordhème, Aurènthe, Chadzìme, Bruthève, Kolmèthe, Tolvèze, Karàlze, Olzàthe, Kalzòthe, Gredàle, Gaimèle, Tambànde, Velzòre, Jenthìze, Lenthìze, Palvèze, Chezìle, Lorràme, Taròze, Selvàre
 
 #### Female Names
 
-Áeryn, Ârnela, Bjána, Brýlene, Chélyra, Dárysa, Élmera, Éshara, Êlynna, Fárila, Fléna, Frýsala, Ilvéna, Glýna, Hálisè, Hélva, Ídrisè, Ílyra, Jâvelyn, Jórisa, Kályra, Kêlena, Kyéra, Lánaèl, Líresè, Lýraen, Márenys, Mâlsa, Mirýra, Nílara, Órnela, Péralyn, Rávina, Ríssela, Sélvara, Sýlana, Tálisè, Tênara, Thályra, Úresla, Válina, Vérynna, Vólyra, Ydráen, Zárwyn, Zélyna, Zýraen, Árisla, Glývè, Pálara
+Lizèla, Ilthèra, Aulìra, Ulmèra, Solvìma, Kiràma, Revòtha, Zedìma, Orthèma, Kaldrèma, Tolmàra, Torvìla, Ithròla, Komrèla, Ornètha, Volchèma, Brazèma, Nelamèza, Pramìza, Oltrèma, Kalvèza, Cholsàma, Gainèssa, Daimèla, Palsàirsa, Lauvìna, Serdàla, Olnàra, Sirrelùra, Tarlèma, Dilmàra, Tordhìma, Thennàirsa, Nelthàva, Uzmèla, Jalthèza
 
 #### Clan Names
 
-Brânwyld, Kórisvar, Thjârdon, Lýskal, Hârvenar, Stýlgon, Gjârlen, Válskyr, Hârkèn, Nýlsvar
-
-### Mèridiane Names (Southern Provenzal)
-
-#### Male Names
-
-Ádrel, Áryl, Bâlden, Bályr, Bárnek, Brýlon, Cáreden, Chárvik, Dárenis, Dêlrik, Érdan, Êlaren, Fólmir, Gárden, Gwýrlen, Hális, Hêndrel, Írdan, Ílwár, Jênrik, Kárven, Kýlanor, Lárden, Lûmir, Sóren, Mâldon, Nýlden, Óranth, Rálthen, Rhárvik, Rýlden, Sálrik, Sírdon, Tárvel, Tháryn, Tólwen, Úlwèn, Vârdris, Vélnar, Zárken, Pórgen, Gárlen, Brývek, Nárwin, Thálvek, Kýrath, Stólan, Írdrel, Válten, Yléndor
-
-#### Female Names
-
-Álira, Almyra, Ârisè, Býlen, Cárena, Chýnara, Delyra, Élynne, Êresa, Fálwyn, Fárlene, Gwýra, Hálynn, Ílvara, Járaen, Júlenè, Kárena, Kírisa, Lánael, Líwen, Lýrena, Mályra, Márael, Mýrena, Nálira, Nélyse, Óvrena, Pályra, Rálisa, Réthia, Rýlisa, Sálwen, Síranè, Sorýla, Tálwyn, Thályra, Úrelè, Válisa, Vélaren, Vyrena, Zálwyn, Zárene, Zýlisa, Ísrana, Lýthra, Mîrwyn, Brénael, Hália, Kárlinè, Rýthra
-
-#### Clan Names
-
-Brýlond, Chárnis, Fárwèn, Hálrith, Ísraven, Lánthrik, Mýrdal, Rálwen, Tólgen, Zýrand
+Revothandìs, Zedimandìs, Orthemandìs, Malvothandìs, Talothandìs, Kiramandìs, Melvarandìs, Tulemandìs, Solkimandìs, Tolmarandìs, Kaldremandìs, Torvilandìs, Ornethandìs, Volchemandìs, Brazemandìs, Komrelandìs, Lizelandìs, Ilthorandìs, Aithevandìs, Diravandìs, Kalvezandìs, Cholsamandìs, Gainessandìs, Satherandìs, Elvanandìs, Aurenthandìs, Gredalandìs, Gaimelandìs, Serdalandìs, Olnarandìs

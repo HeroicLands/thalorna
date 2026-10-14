@@ -207,12 +207,12 @@ Tarvénan women frequently retain their birth names after marriage, and in some 
 
 ## Male Given Names
 
-Alváren, Ránzio, Férrik, Tárel, Gurzánik, Álbrath, Dílaren, Kaldrén, Garváneth, Hornáro, Zelmíro, Thárrez, Orvék, Dómrik, Tavíro, Gérdan, Álverrik, Félmar, Estáril, Ívarno, Hónrik, Dílor, Mórezan, Ríkaris, Élsaro, Lizéth, Gálver, Nátaren, Ródthal, Tórsaro, Bánrik, Gónthar, Ukáren, Vánrik, Thélio, Járven, Hesmár, Dómeth, Alvárik, Ténar, Hálrikos, Gérthan, Valáren, Kólrith, Vélmar, Jólren, Rúnaric, Lórsaro, Fárnio, Gésrik
+Kanárrek, Ulárrek, Ugárrek, Bedárrek, Kotsúde, Zurgáde, Thélvaro, Revótho, Zédimo, Zenótho, Orthémo, Ilthéro, Thalúro, Nizélo, Korvátho, Ronétho, Ganótho, Oztúka, Garrátsa, Zekúdi, Tharózo, Gulmaléno, Dorándaro, Gaimélo, Kaldrémo, Brazémo, Volkhémo, Tholmáro, Nebrálo, Alzémo, Oltrémo, Hilthéro
 
 ## Female Given Names
 
-Élara, Vilmára, Alária, Aléthra, Auvéla, Félina, Álvara, Bélenia, Uthéris, Lisméra, Tárilla, Éstara, Nevíra, Ilséna, Dálina, Eléris, Társia, Haldéna, Rémila, Thária, Álmera, Lívana, Cárisa, Dórisa, Floríenna, Zulíra, Sélara, Bevétha, Gálinda, Vióra, Dornésa, Hirálda, Ánira, Estára, Pálina, Ríthara, Eldíra, Írella, Fálora, Grénia, Valéna, Miríanda, Lídara, Ilmára, Thésia, Cárenna, Evária, Távora, Sírella, Zórila
+Ilthéra, Lizéla, Ulméra, Kholsáma, Tholmára, Kaldréma, Hilthéra, Prámiza, Oltréma, Volkhéma, Brazéma, Neláma, Huráda, Alzéma, Thélvara, Revótha, Zédima, Zenótha, Orthéma, Thalúra, Nizéla, Dorándara, Galtsúra, Tsukúrra, Zoldúra, Ozkúra, Tsolúra, Dúrreka, Ikéntsa, Mozkárra, Itzúrre, Betsúra, Tsaláza, Átseka, Garrúnda
 
 ## Clan Names
 
-Desolárdran—"Children of the Sun", Álvianar—"Noble Aspiration", Torvaleth—"From the Vale of Towers", Bránthira—"Flame of the Ravens", Róseneth—"Field of Roses", Valárion—"The Chosen Ones", Estánthar—"Guardians of the Eastern Star", Gráveth—"From the Gray Highlands", Durgána—"Keepers of the Castle", Thalídran—"The Deep River People", Floréscar—"The Blooming Fields", Lóriseth—"From the Golden Forest", Delvánor—"The Bright Plains", Ornéthran—"Lords of the Sea-Bright", Árenthal—"Eagles of the Mountain", Sánriceth—"Sacred Riches", Tárvallor—"Defenders of the Tower", Cáriselda—"Carved in Stone", Jútharen—"The Loyal Sons", Dómivar—"The Eternal Judges"
+Revothándis, Zedimándis, Zenothándis, Orthemándis, Iltherándis, Thalurándis, Korvathándis, Ronetándis, Ganotándis, Thelvarándis, Kaldremándis, Tholmarándis, Brazemándis, Volkhemándis, Lizelándis, Ulmerándis, Hiltherándis, Oltremándis, Garrundándis, Galtsurándis, Tsukurrándis, Zoldurándis, Ozkurándis, Tsolurándis, Ikentsándis, Mozkarrándis, Betsurándis, Kanarrándis, Ularrándis, Ugarrándis

@@ -85,10 +85,10 @@ subType: reference
 
 | Step | Change | Where |
 | --- | --- | --- |
-| 1 | \`t' d' k' g'\` → \`t d k g\` | anywhere |
-| 2 | \`dh\` → \`z\`; \`gh\` → \`g\` | anywhere |
-| 3 | \`w\` → \`v\` | anywhere |
-| 4 | \`b\` → \`v\` | between vowels |
+| 1 | \`t' d' k' g'\` > \`t d k g\` | anywhere |
+| 2 | \`dh\` > \`z\`; \`gh\` > \`g\` | anywhere |
+| 3 | \`w\` > \`v\` | anywhere |
+| 4 | \`b\` > \`v\` | between vowels |
 
 ## Building words
 
@@ -243,8 +243,8 @@ type: doc
 
 | Step | Change | Where |
 | --- | --- | --- |
-| 1 | \`p ph b w h\` → \`—\` | anywhere |
-| 2 | \`ôs\` → \`—\`; \`â\` → \`a\` | word end |
+| 1 | \`p ph b w h\` > \`—\` | anywhere |
+| 2 | \`ôs\` > \`—\`; \`â\` > \`a\` | word end |
 | 3 | stress moves to the first syllable | — |
 | 4 | acute on a stressed short vowel, circumflex on a long one of a word of two syllables or more | — |
 

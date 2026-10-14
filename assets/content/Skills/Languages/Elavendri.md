@@ -242,12 +242,12 @@ The [[lore-aelendnppl|Áelendan]] of the interior name from a stock of their own
 
 ## Male Given Names
 
-Áleren, Arévyn, Bárcel, Bélrik, Bréthar, Cârvin, Dálren, Dârion, Dénrik, Dháran, Élkaris, Êrmyn, Fârlen, Féthar, Gálric, Gârlen, Hâlden, Héltan, Írnald, Jéldor, Kârath, Kénrel, Khôrn, Llénar, Lótren, Málrik, Móren, Náldor, Nérvik, Órlen, Párthun, Pélrik, Ránthor, Rhálend, Sálten, Sédrik, Shâlor, Táldor, Ténral, Thálrik, Thóren, Trálkar, Úrnath, Várgen, Véldor, Wárlan, Xálrik, Yénral, Zálmen, Zérlin
+Gúlmand, Hérsel, Óssel, Sórvanda, Súldinnë, Ílsevand, Sálvurnand, Sóurimand, Máerendand, Kúrthand, Háresand, Tháurand, Thráemesand, Úrthaven, Órhaima, Hálmesar, Dórkima, Ríethesand, Sémroth, Sórhand, Lóuresand, Théironand, Gúlmalon, Áuldë, Kálvirnë, Tírvalë, Hálvilon, Íelaras, Áleren, Dálren, Dháran, Héltan, Jéldor, Kénrel, Lótren, Móren, Náldor, Órlen, Párthun, Ránthor, Sálten, Táldor, Ténral, Thóren, Trálkar, Úrnath, Várgen, Véldor, Élkaris
 
 ## Female Given Names
 
-Ályra, Adríla, Aléna, Bélia, Brýnael, Cáléa, Chénira, Dárya, Déraen, Délitha, Élenor, Émyna, Êslia, Fálena, Félyra, Gália, Glýenna, Hâlira, Hélya, Híraen, Ívelyn, Jálea, Jéthra, Kárael, Kália, Kélyra, Láliaen, Lénira, Llýra, Lóriena, Mália, Márryn, Méthra, Mýrana, Nália, Néthara, Órina, Óvelyn, Pália, Pórena, Rhália, Sárena, Sélith, Sýlena, Tália, Tárellia, Trénia, Úrthra, Vélaria, Yálith
+Áulira, Ílthera, Úlmera, Írvalë, Lámainë, Sálvurnë, Kélvasë, Gáinessa, Pálsairsa, Thénnairsa, Sérdalë, Ólnarë, Sáunarinë, Áurenthë, Lírvë, Líserë, Lánthevilë, Láuvinë, Áimelinë, Sírrelurë, Thólmara, Nélamis, Sólmerë, Élvanë, Nýevasa, Mélvesa, Éllivë, Ánsevirsa, Shéimara, Íthrola, Ílsevilë, Áuliranë, Nýevarnë, Ólthë, Áulirarnë, Sérdalornë, Adríla, Aléna, Chénira, Délitha, Élenor, Jéthra, Lénira, Méthra, Néthara, Órina, Pórena, Sárena, Sélith, Úrthra
 
 ## Clan Names
 
-Alveryn, Bélthal, Brýndal, Cárdeth, Dhárel, Elárven, Fálwyn, Gáranth, Hálren, Kálmereth, Llýdar, Mórlineth, Náredh, Óthral, Párdalen, Réncaris, Sálthar, Tárvenel, Véldarin, Zálreth
+Áulirndë, Íltherndë, Úlmerndë, Hérselndë, Ósselndë, Ílsevndë, Kélvasndë, Thólmarndë, Élvanndë, Sérdalndë, Ólnarndë, Láuvinndë, Líserndë, Tírvalndë, Dórkimndë, Hálmesndë, Órhaimndë, Úrthavndë, Háresndë, Tháurndë, Sémrothndë, Dhárel, Elárven, Hálren, Kálmereth, Mórlineth, Óthral, Párdalen, Sálthar, Tárvenel, Véldarin

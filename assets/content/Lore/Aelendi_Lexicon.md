@@ -128,16 +128,16 @@ Eleven changes, in this order, make an Áelendi word of an ancient one. The lip 
 
 | Step | Change                                                                                       | Where                      |
 | ---- | -------------------------------------------------------------------------------------------- | -------------------------- |
-| A1   | `p ph b w h` → `—`                                                                           | anywhere                   |
-| A2   | `y` → `—`; `z` → `s`; `x` → `ks`                                                             | anywhere                   |
+| A1   | `p ph b w h` > `—`                                                                           | anywhere                   |
+| A2   | `y` > `—`; `z` > `s`; `x` > `ks`                                                             | anywhere                   |
 | A3   | like vowels merge, long                                                                      | —                          |
 | A4   | unlike vowels merge to the first, long                                                       | —                          |
-| A5   | `ândis` → `di`                                                                               | word end and after `n`     |
-| A6   | `ândis` → `ndi`                                                                              | word end and after a vowel |
-| A7   | `ândis` → `Vndi`                                                                             | word end                   |
-| A8   | `ôs` → `—`; `â` → `a`                                                                        | word end                   |
+| A5   | `ândis` > `di`                                                                               | word end and after `n`     |
+| A6   | `ândis` > `ndi`                                                                              | word end and after a vowel |
+| A7   | `ândis` > `Vndi`                                                                             | word end                   |
+| A8   | `ôs` > `—`; `â` > `a`                                                                        | word end                   |
 | A9   | stress moves to the first syllable                                                           | —                          |
-| A10  | `â ê î ô û` → `a e i o u`                                                                    | unstressed syllable        |
+| A10  | `â ê î ô û` > `a e i o u`                                                                    | unstressed syllable        |
 | A11  | acute on a stressed short vowel, circumflex on a long one of a word of two syllables or more | —                          |
 
 The clicked stops, the breathed `dh` and `gh` and the long vowels of the first syllable all pass through unchanged. That is what makes Áelendi the conservative daughter: hearing it, a scholar of the empire is hearing the ancient tongue with its lips closed.
@@ -152,12 +152,12 @@ A Sinalë word is said in Áelendi by the changes below. Doubled vowels become l
 
 | Step | Change                                                                                       | Where              |
 | ---- | -------------------------------------------------------------------------------------------- | ------------------ |
-| S1   | `aa ee ii oo uu yy ëë` → `â ê î ô û î ê`                                                     | anywhere           |
-| S2   | `y` → `i`; `ë` → `e`                                                                         | anywhere           |
-| S3   | `rh` → `r`                                                                                   | anywhere           |
-| S4   | `ah eh ih oh uh` → `â ê î ô û`                                                               | before a consonant |
-| S5   | `h` → `kh`                                                                                   | anywhere           |
-| S6   | `v` → `p`; `w` → `g`                                                                         | anywhere           |
+| S1   | `aa ee ii oo uu yy ëë` > `â ê î ô û î ê`                                                     | anywhere           |
+| S2   | `y` > `i`; `ë` > `e`                                                                         | anywhere           |
+| S3   | `rh` > `r`                                                                                   | anywhere           |
+| S4   | `ah eh ih oh uh` > `â ê î ô û`                                                               | before a consonant |
+| S5   | `h` > `kh`                                                                                   | anywhere           |
+| S6   | `v` > `p`; `w` > `g`                                                                         | anywhere           |
 | S7   | stress moves to the first syllable                                                           | —                  |
 | S8   | acute on a stressed short vowel, circumflex on a long one of a word of two syllables or more | —                  |
 

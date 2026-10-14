@@ -495,7 +495,7 @@ Worked names and words, each built from the stems above.
 | Görenghakhiq   | `sowides`  | a man's name: storm-bow; a caravan guide of the grass                                        | `gören` + `ghakhiq`         |
 | Numaqlun       | `sowides`  | a woman's name: night; the wife of the warden of the cold well                               | `numaq` + `-lun`            |
 | Budaqtoliz     | `sowides`  | a man's name: vulture-spear; a rider of the Küüyöyür                                         | `budaq` + `toliz`           |
-| Voghalyemök    | `sowides`  | a man's name: wolf-oath; the water-warden of the cold well                                   | `voghal` + `yemök`          |
+| Voghalkenöd    | `sowides`  | a man's name: wolf-sword; the water-warden of the cold well                                  | `voghal` + `kenöd`          |
 | Bolidqiiso     | `sowides`  | the price-tower: a counting-house tower of Vülüd                                             | `bolid` + `qiiso`           |
 | Sovidiqraq     | `sowides`  | the stone escort: the watchman of the price-tower                                            | `sovid` + `diqraq`          |
 | Kesükenöd      | `sowides`  | a man's name: eagle-sword; a hired hand at the price-tower                                   | `kesük` + `kenöd`           |

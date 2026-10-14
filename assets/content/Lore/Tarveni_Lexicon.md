@@ -118,15 +118,15 @@ Tarvéni takes each word from its ancient nominative, and ten changes, in this o
 
 | Step | Change                                                         | Where                               |
 | ---- | -------------------------------------------------------------- | ----------------------------------- |
-| T1   | `p t k` → `b d g`                                              | between vowels                      |
-| T2   | `t' d'` → `t`; `k' g'` → `k`                                   | anywhere                            |
-| T3   | `ph` → `h`; `dh` → `d`; `gh` → `g`; `x` → `ks`                 | anywhere                            |
-| T4   | `w` → `v`                                                      | anywhere                            |
-| T5   | `y` → `—`                                                      | word start                          |
-| T6   | `y` → `i`                                                      | anywhere                            |
-| T7   | `e o` → `ié ué`                                                | stressed syllable and open syllable |
-| T8   | `ôs` → `o`; `âs` → `a`; `â` → `a`; `on` → `o`                  | word end                            |
-| T9   | `â ê î ô û` → `a e i o u`                                      | anywhere                            |
+| T1   | `p t k` > `b d g`                                              | between vowels                      |
+| T2   | `t' d'` > `t`; `k' g'` > `k`                                   | anywhere                            |
+| T3   | `ph` > `h`; `dh` > `d`; `gh` > `g`; `x` > `ks`                 | anywhere                            |
+| T4   | `w` > `v`                                                      | anywhere                            |
+| T5   | `y` > `—`                                                      | word start                          |
+| T6   | `y` > `i`                                                      | anywhere                            |
+| T7   | `e o` > `ié ué`                                                | stressed syllable and open syllable |
+| T8   | `ôs` > `o`; `âs` > `a`; `â` > `a`; `on` > `o`                  | word end                            |
+| T9   | `â ê î ô û` > `a e i o u`                                      | anywhere                            |
 | T10  | acute on the stressed vowel of a word of two syllables or more | —                                   |
 
 ## The old mountain speech
@@ -141,17 +141,17 @@ A few words came back into the tongue from the empire's schools and temples, in 
 
 | Step | Change                                                         | Where    |
 | ---- | -------------------------------------------------------------- | -------- |
-| L1   | `ph` → `h`; `x` → `ks`                                         | anywhere |
-| L2   | `ôs on` → `o`; `âs` → `a`                                      | word end |
-| L3   | `â ê î ô û` → `a e i o u`                                      | anywhere |
+| L1   | `ph` > `h`; `x` > `ks`                                         | anywhere |
+| L2   | `ôs on` > `o`; `âs` > `a`                                      | word end |
+| L3   | `â ê î ô û` > `a e i o u`                                      | anywhere |
 | L4   | acute on the stressed vowel of a word of two syllables or more | —        |
 
 ### Provenzal loans
 
 | Step | Change                                                         | Where    |
 | ---- | -------------------------------------------------------------- | -------- |
-| R1   | `ã` → `an`; `ẽ` → `en`; `õ` → `on`                             | anywhere |
-| R2   | `ch` → `kh`; `j` → `i`; `f` → `h`                              | anywhere |
+| R1   | `ã` > `an`; `ẽ` > `en`; `õ` > `on`                             | anywhere |
+| R2   | `ch` > `kh`; `j` > `i`; `f` > `h`                              | anywhere |
 | R3   | acute on the stressed vowel of a word of two syllables or more | —        |
 
 ## Words

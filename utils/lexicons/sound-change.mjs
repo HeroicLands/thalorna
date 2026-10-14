@@ -14,10 +14,10 @@
  * ```
  * | Step | Change                         | Where          |
  * | ---- | ------------------------------ | -------------- |
- * | 1    | `t' d' k' g'` → `t d k g`      | anywhere       |
- * | 2    | `dh` → `z`; `gh` → `g`         | anywhere       |
- * | 3    | `p` → `v`                      | between vowels |
- * | 4    | `ândis` → `Vndi`               | word end       |
+ * | 1    | `t' d' k' g'` > `t d k g`      | anywhere       |
+ * | 2    | `dh` > `z`; `gh` > `g`         | anywhere       |
+ * | 3    | `p` > `v`                      | between vowels |
+ * | 4    | `ândis` > `Vndi`               | word end       |
  * | 5    | like vowels merge, long        | —              |
  * | 6    | stress moves to the first syllable | —          |
  * | 7    | acute on the stressed vowel    | —              |
@@ -29,16 +29,16 @@
  * restates nothing.
  *
  * **The Change cell** holds one or more rules separated by `;`. A rule is
- * `` `sources` → `targets` ``: each side a code span of sounds separated by
+ * `` `sources` > `targets` ``: each side a code span of sounds separated by
  * spaces, the sources paired with the targets in order, or one target standing
  * for every source. A target of `—` deletes. A source or a target may be more
  * than one sound (`ândis`). An acute on a target vowel says that vowel takes
- * the stress when the matched vowel carried it (`e` → `ié`); otherwise the
+ * the stress when the matched vowel carried it (`e` > `ié`); otherwise the
  * first vowel of the target does. The capitals `C`, `V`, `L` and `N` stand for any
  * consonant, vowel, liquid or nasal in a source; in a target they copy, in
  * order, what those classes matched, and a `V` the source did not match copies
- * the nearest vowel to the left of the match, made short. The arrow may be
- * written `→`, `>` or `->`.
+ * the nearest vowel to the left of the match, made short. The arrow is
+ * `>`; `→` and `->` are refused.
  *
  * A Change cell with no arrow names one of the **operations**: `like vowels
  * merge, long`, `like vowels merge, short` and `unlike vowels merge to the
@@ -422,9 +422,11 @@ export function parseChange(cell, options = {}) {
     }
     const rules = [];
     for (const part of text.split(";")) {
-        const match = part.trim().match(/^`([^`]*)`\s*(?:→|->|>)\s*`([^`]*)`$/u);
+        const match = part.trim().match(/^`([^`]*)`\s*>\s*`([^`]*)`$/u);
         if (!match) {
-            problems.push(`"${part.trim()}" is not written \`sources\` → \`targets\``);
+            problems.push(
+                `"${part.trim()}" is not written \`sources\` > \`targets\`; write > between the sources and the targets`,
+            );
             continue;
         }
         const sources = match[1].trim().split(/\s+/).filter(Boolean);

@@ -10,9 +10,20 @@
 #
 # `npm run lint` chains with `run-s`, which stops at the first failure, so a
 # single step reports whichever check failed first and says nothing about the
-# rest — the checks past the break have no known state. Each step here runs
+# rest — the checks past the break have no known state. Each check here runs
 # under `if: \${{ !cancelled() }}`, so one failure does not hide the others,
 # and a red run is a worklist rather than a wall.
+#
+# ## Thalorna's checks run as parallel jobs
+#
+# The other content repositories run these checks as steps of one job.
+# Thalorna's tree is large enough that the single job ran close to the runner's
+# 30-minute limit and was killed there, so its checks are four jobs that run
+# side by side on separate workers, and the lint takes as long as the slowest
+# of them. A final job, `Content, prose, and registry checks`, waits for all
+# four and fails when any of them failed; it is the name branch protection
+# requires, so the checks report as one. Each job pays its own checkout and
+# `npm ci`, about a minute.
 #
 # The lexicons are deliberately absent, and so is the drift sweep. A lexicon
 # judges one culture's names against the phonology its own language note
@@ -28,14 +39,12 @@
 # `lint:nordmal-concordance` judges the table it and the Nordmal lexicon read.
 # Both are red on the same backlog and both are run the same way.
 #
-# ## The compile is a second job
+# ## The compile runs after the checks
 #
-# It is the only check here that reaches the network — a satellite fetches the
-# pinned system release its actors resolve against — so it has a failure surface
-# none of the lint steps have, and mixing the two would make a third party's
-# outage read as a content failure. And a compile failure and a lint failure are
-# both worth seeing in one run, rather than whichever comes first hiding the
-# other.
+# It is the only job here that reaches the network — a satellite fetches the
+# pinned system release its actors resolve against — and it is the longest, so
+# it runs only once every check has passed: a tree that fails its checks is not
+# worth compiling, and the compile's runner stays free for a tree that passes.
 #
 # Every run is cold: `build/` is gitignored and holds the dependency catalogue
 # too, so a runner starts with nothing.
@@ -53,18 +62,13 @@ permissions:
     contents: read
 
 jobs:
-    lint:
-        name: Content, prose, and registry checks
+    format:
+        name: Formatting, markdown and localization
         runs-on: lint
 
         steps:
             - name: Checkout code
               uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-              with:
-                  # The utility tests read pinned revisions with `git show`
-                  # (the concordance test cites a file at a fixed commit), so
-                  # the job needs the history a shallow checkout leaves out.
-                  fetch-depth: 0
 
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
@@ -72,25 +76,8 @@ jobs:
                   node-version: 24
                   cache: npm
 
-            # Most of what follows reads the tracked tree and needs only the
-            # toolchain. Two checks do not: `lint:addresses` and
-            # `lint:content-links` resolve addresses into `sohl`, whose content
-            # index is fetched rather than vendored, so this job reaches the
-            # network exactly once — in the step after this one. It still
-            # compiles no pack.
             - name: Install dependencies
               run: npm ci
-
-            # Both address checks need it and refuse to run rather than guess:
-            #
-            #     sohl is a declared dependency but its content index has not
-            #     been fetched. Run `content-build deps fetch` first.
-            #
-            # Without this step they fail for a reason with nothing to do with
-            # the tree being checked, which is a red check a reader learns to
-            # ignore. The compile job fetches by way of `build:db`.
-            - name: Fetch the dependency content index
-              run: npm run build:deps
 
             # Prettier over the whole tree.
             - name: Check formatting
@@ -101,39 +88,115 @@ jobs:
               if: ${{ !cancelled() }}
               run: npm run lint:markdown
 
-            # No dotted-prefix collision in `lang/*.json`. A key that is both a
-            # leaf and a branch makes `foundry.utils.expandObject` throw, and
-            # Foundry then drops the whole translation file.
+            # No dotted-prefix collision in `lang/*.json`: Foundry drops a
+            # translation file whose key is both a leaf and a branch.
             - name: Check localization files
               if: ${{ !cancelled() }}
               run: npm run lint:lang
 
+    addresses:
+        name: Addresses and frontmatter
+        runs-on: lint
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+            - name: Setup Node
+              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            - name: Install dependencies
+              run: npm ci
+
+            # `sohl`'s content index is fetched, not vendored, and both address
+            # checks refuse to run without it rather than guess.
+            - name: Fetch the dependency content index
+              run: npm run build:deps
+
             # Frontmatter against the schema each note's type declares.
             - name: Check addresses and frontmatter
-              if: ${{ !cancelled() }}
               run: npm run lint:addresses
+
+    links:
+        name: Content links
+        runs-on: lint
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+            - name: Setup Node
+              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            - name: Install dependencies
+              run: npm ci
+
+            # `sohl`'s content index is fetched, not vendored, and both address
+            # checks refuse to run without it rather than guess.
+            - name: Fetch the dependency content index
+              run: npm run build:deps
 
             # Every anchor link lands and every qualified address resolves.
             - name: Check content links
-              if: ${{ !cancelled() }}
               run: npm run lint:content-links
+
+    guards:
+        name: Reference people and utility tests
+        runs-on: lint
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+              with:
+                  # The utility tests read pinned revisions with `git show`, so
+                  # the job needs the history a shallow checkout leaves out.
+                  fetch-depth: 0
+
+            - name: Setup Node
+              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            - name: Install dependencies
+              run: npm ci
 
             # A named person the prose leans on resolves to a note.
             - name: Check reference people
-              if: ${{ !cancelled() }}
               run: npm run lint:reference-people
 
             # The tree's own guards: the lexicons and their name registers, the
-            # concordance, the deployment headers. They read the content, so
-            # two pull requests that pass alone can fail together; running them
-            # here catches that before merge rather than in the deploy.
+            # concordance, the deployment headers. Two pull requests that pass
+            # alone can fail together, and this catches that before merge.
             - name: Run the utility tests
               if: ${{ !cancelled() }}
               run: node --test 'utils/**/*.test.mjs'
 
+    lint:
+        name: Content, prose, and registry checks
+        runs-on: lint
+        needs: [format, addresses, links, guards]
+        if: ${{ !cancelled() }}
+
+        steps:
+            - name: Every check passed
+              run: |
+                  results='${{ join(needs.*.result, ' ') }}'
+                  echo "check results: $results"
+                  for r in $results; do
+                      [ "$r" = success ] || { echo "a check did not pass"; exit 1; }
+                  done
+
     build:
         name: Content pack compile
         runs-on: build
+        needs: [lint]
 
         steps:
             - name: Checkout code

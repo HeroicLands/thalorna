@@ -129,18 +129,18 @@ So the ancient _wêrâmis_ (a city), accusative _wêrâmisen_, is _veramìs_, an
 
 | Step | Change                                                                       | Where                                        |
 | ---- | ---------------------------------------------------------------------------- | -------------------------------------------- |
-| P1   | `t' d' k' g'` → `t d k g`                                                    | anywhere                                     |
-| P2   | `ph` → `f`; `kh` → `ch`; `gh` → `g`; `h` → `—`; `x` → `s`                    | anywhere                                     |
-| P3   | `th dh` → `t d`                                                              | word start                                   |
-| P4   | `w` → `v`                                                                    | anywhere                                     |
-| P5   | `y` → `j`                                                                    | word start                                   |
-| P6   | `y` → `i`                                                                    | anywhere                                     |
-| P7   | `p b` → `v`; `t` → `d`; `d` → `dh`; `k g` → `v`                              | after a vowel or a liquid and before a vowel |
-| P8   | `an ân` → `ã`; `en ên in în` → `ẽ`; `on ôn un ûn` → `õ`                      | before a vowel                               |
-| P9   | `ân` → `a`; `ên` → `e`; `ôs ôn on en ûn` → `—`                               | word end                                     |
-| P10  | `CC` → `CCe`                                                                 | word end                                     |
-| P11  | `th dh z m ch v d t k g b p f` → `the dhe ze me che ve de te ke ge be pe fe` | word end                                     |
-| P12  | `â ê î ô û` → `a e i o u`                                                    | anywhere                                     |
+| P1   | `t' d' k' g'` > `t d k g`                                                    | anywhere                                     |
+| P2   | `ph` > `f`; `kh` > `ch`; `gh` > `g`; `h` > `—`; `x` > `s`                    | anywhere                                     |
+| P3   | `th dh` > `t d`                                                              | word start                                   |
+| P4   | `w` > `v`                                                                    | anywhere                                     |
+| P5   | `y` > `j`                                                                    | word start                                   |
+| P6   | `y` > `i`                                                                    | anywhere                                     |
+| P7   | `p b` > `v`; `t` > `d`; `d` > `dh`; `k g` > `v`                              | after a vowel or a liquid and before a vowel |
+| P8   | `an ân` > `ã`; `en ên in în` > `ẽ`; `on ôn un ûn` > `õ`                      | before a vowel                               |
+| P9   | `ân` > `a`; `ên` > `e`; `ôs ôn on en ûn` > `—`                               | word end                                     |
+| P10  | `CC` > `CCe`                                                                 | word end                                     |
+| P11  | `th dh z m ch v d t k g b p f` > `the dhe ze me che ve de te ke ge be pe fe` | word end                                     |
+| P12  | `â ê î ô û` > `a e i o u`                                                    | anywhere                                     |
 | P13  | stress moves to the penultimate or final                                     | —                                            |
 | P14  | grave on the stressed vowel                                                  | —                                            |
 
@@ -152,10 +152,10 @@ The empire's law books, its coins and its University gave Provenzal a second lay
 
 | Step | Change                                                   | Where      |
 | ---- | -------------------------------------------------------- | ---------- |
-| L1   | `ph` → `f`; `kh` → `ch`; `h` → `—`; `x` → `s`; `y` → `j` | anywhere   |
-| L2   | `th` → `t`                                               | word start |
-| L3   | `ôs on` → `o`                                            | word end   |
-| L4   | `â ê î ô û` → `a e i o u`                                | anywhere   |
+| L1   | `ph` > `f`; `kh` > `ch`; `h` > `—`; `x` > `s`; `y` > `j` | anywhere   |
+| L2   | `th` > `t`                                               | word start |
+| L3   | `ôs on` > `o`                                            | word end   |
+| L4   | `â ê î ô û` > `a e i o u`                                | anywhere   |
 | L5   | stress moves to the penultimate or final                 | —          |
 | L6   | grave on the stressed vowel                              | —          |
 
@@ -167,11 +167,11 @@ Provenzal had little to say about light, dream, longing or the uncanny, and it b
 
 | Step | Change                                   | Where    |
 | ---- | ---------------------------------------- | -------- |
-| R1   | `ë` → `e`                                | anywhere |
-| R2   | `ýe` → `iu`; `ae` → `ai`; `ie` → `i`     | anywhere |
-| R3   | `y` → `i`                                | anywhere |
-| R4   | `sh` → `ch`; `h` → `—`                   | anywhere |
-| R5   | `CC` → `CCe`                             | word end |
+| R1   | `ë` > `e`                                | anywhere |
+| R2   | `ýe` > `iu`; `ae` > `ai`; `ie` > `i`     | anywhere |
+| R3   | `y` > `i`                                | anywhere |
+| R4   | `sh` > `ch`; `h` > `—`                   | anywhere |
+| R5   | `CC` > `CCe`                             | word end |
 | R6   | stress moves to the penultimate or final | —        |
 | R7   | grave on the stressed vowel              | —        |
 

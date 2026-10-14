@@ -141,10 +141,10 @@ Four changes, in this order, turn every ancient word into its imperial form, and
 
 | Step | Change                    | Where          |
 | ---- | ------------------------- | -------------- |
-| V1   | `t' d' k' g'` → `t d k g` | anywhere       |
-| V2   | `dh` → `z`; `gh` → `g`    | anywhere       |
-| V3   | `w` → `v`                 | anywhere       |
-| V4   | `b` → `v`                 | between vowels |
+| V1   | `t' d' k' g'` > `t d k g` | anywhere       |
+| V2   | `dh` > `z`; `gh` > `g`    | anywhere       |
+| V3   | `w` > `v`                 | anywhere       |
+| V4   | `b` > `v`                 | between vowels |
 
 Two more changes belong to speech and are never written. In ordinary talk a long vowel in an unstressed syllable is said short, so the street hears _zarandos_ where the page writes _zarândôs_; a speaker of High Vylari holds every length, and the difference marks his education as clearly as his clothes. In the [[place-hylen|Hylen]] lowlands `th` is said `s`, and a Hylen man's _sôrimândôs_ (a poet) and his _thîlândôs_ (a scribe) begin alike, with a hiss.
 
