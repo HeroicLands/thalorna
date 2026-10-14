@@ -18,7 +18,7 @@ data:
       - level: 0
         title: Vihru
         description: >-
-          An outcaste put out of the order of the droveways, barred from the well-circuit and owed no protection.
+          A Vihru—an outcaste, one outside the order—is put out of the order of the droveways, barred from the well-circuit and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

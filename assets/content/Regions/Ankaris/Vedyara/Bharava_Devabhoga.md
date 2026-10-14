@@ -18,7 +18,7 @@ data:
       - level: 0
         title: Vihru
         description: >-
-          An outcaste cast out of the temple-estates, denied the endowment's protection, its work and its keeper's justice.
+          A Vihru—an outcaste, one outside the order—is cast out of the temple-estates, denied the endowment's protection, its work and its keeper's justice.
       - level: 1
         title: Bonded Servant
         description: >-

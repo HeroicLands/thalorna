@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blótlok
         description: >-
-          Refused the offering and the shared meal by a hof's godi, and barred from the blóts of every faith of the Ten.
+          A Blótlok—the sacrifice closed to him—is refused the offering and the shared meal by a hof's godi, and barred from the blóts of every faith of the Ten.
       - level: 1
         title: Adherent
         description: >-

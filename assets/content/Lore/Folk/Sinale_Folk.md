@@ -185,5 +185,6 @@ Every Sinalë word and term of art these notes use. The [[doc-sinalelexcn|Sinal�
 | tuve       | Hold                                                         |
 | unturo     | Winter                                                       |
 | vauli      | Tall                                                         |
+| vierka     | An outlaw, one driven out and given no standing or shelter   |
 
 Tradition Keeper is a term from [[lore-elavendriclt#glossary|Élavendre]].

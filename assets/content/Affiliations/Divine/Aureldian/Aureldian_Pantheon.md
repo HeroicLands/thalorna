@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Banar
         description: >-
-          A layman put out of the keeping of the Twelve, refused the feasts, the temples and the rites of passage.
+          A Banar—the Vylari word for one cast out of a faith—is a layman put out of the keeping of the Twelve, refused the feasts, the temples and the rites of passage.
       - level: 1
         title: Adherent
         description: >-

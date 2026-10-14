@@ -166,6 +166,7 @@ The manners are formal, precise, and conscious of rank at every moment. A Vylari
 | aipsênâ                          | Adoption, the taking of an heir from another house                                                                      |
 | Gelmal                           | A cavalry wing: about 120 horse in a legion, up to 500 in an auxiliary formation                                        |
 | anvêldâ                          | Dishonor, a name the city has stopped repeating                                                                         |
+| Banar                            | One cast out of a faith, denied its feasts, temples and rites of passage                                                |
 | anzîrôthôs                       | Unplaced, of a person whose rank nobody knows                                                                           |
 | Makner                           | A legion's field engineer, for siege works, roads and camps                                                             |
 | Archmagister                     | The head of the Ordo Arcanis, elected by the Praelati for life                                                          |

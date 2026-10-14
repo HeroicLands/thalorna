@@ -18,7 +18,7 @@ data:
       - level: 0
         title: Vihru
         description: >-
-          An outcaste put out of every order of the Mahārāja's kingdom, barred from the temples and owed no protection.
+          A Vihru—an outcaste, one outside the order—is put out of every order of the Mahārāja's kingdom, barred from the temples and owed no protection.
       - level: 1
         title: Bonded Servant
         description: Bound by debt or birth to a household, owing labor and lacking the standing to hold land.

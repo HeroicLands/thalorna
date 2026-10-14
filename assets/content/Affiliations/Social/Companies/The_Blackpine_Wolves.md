@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Wulfrith
         description: >-
-          A wolf Dágulf has driven out, without a share of the gang's take and open to its fear.
+          A Wulfrith—one who rides the wolf's ground, the Varokhi name for an outcast left to the wild—is a wolf Dágulf has driven out, without a share of the gang's take and open to its fear.
       - level: 1
         title: Grimmund
         lore: grimmundrnk

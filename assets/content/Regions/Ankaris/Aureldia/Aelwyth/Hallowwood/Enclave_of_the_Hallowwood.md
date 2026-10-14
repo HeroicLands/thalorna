@@ -18,7 +18,7 @@ data:
       - level: 0
         title: Vierka
         description: >-
-          An outlaw: one driven out of the enclave by its lord and given no standing or shelter by it.
+          A Vierka, the Sinalë word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-

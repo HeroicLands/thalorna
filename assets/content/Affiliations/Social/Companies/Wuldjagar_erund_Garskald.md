@@ -22,7 +22,7 @@ data:
       - level: 0
         title: Wulfrith
         description: >-
-          A hunter dismissed by the Wulfár from the clan's company, denied its hunts and its share of the kill.
+          A Wulfrith—one who rides the wolf's ground, the Varokhi name for an outcast left to the wild—is a hunter dismissed by the Wulfár from the clan's company, denied its hunts and its share of the kill.
       - level: 1
         title: Vandár
         lore: vandarrnk

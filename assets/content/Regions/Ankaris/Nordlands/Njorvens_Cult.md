@@ -19,7 +19,7 @@ data:
       - level: 0
         title: Níding
         description: >-
-          One put out of the cult that venerates Njörven, refused its rites and its protection.
+          A Níding—the Nordmal word for an outlaw—is one put out of the cult that venerates Njörven, refused its rites and its protection.
       - level: 1
         title: Devotee
         description: >-

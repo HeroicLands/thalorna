@@ -17,7 +17,7 @@ data:
       - level: 0
         title: Vihru
         description: >-
-          An outcaste put out of every order of the Moon House's realm, barred from the temples and owed no protection.
+          A Vihru—an outcaste, one outside the order—is put out of every order of the Moon House's realm, barred from the temples and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

@@ -18,7 +18,7 @@ data:
       - level: 0
         title: Vihru
         description: >-
-          An outcaste put out of the janapada by its sabhā, barred from the temples, the anchorage and the village and owed no protection.
+          A Vihru—an outcaste, one outside the order—is put out of the janapada by its sabhā, barred from the temples, the anchorage and the village and owed no protection.
       - level: 1
         title: Villager
         description: >-

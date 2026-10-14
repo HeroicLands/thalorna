@@ -17,7 +17,7 @@ data:
       - level: 0
         title: Vihru
         description: >-
-          An outcaste struck from the shrenīs' rolls, denied a seat by craft-line and the Loom-Council's protection.
+          A Vihru—an outcaste, one outside the order—is struck from the shrenīs' rolls, denied a seat by craft-line and the Loom-Council's protection.
       - level: 1
         title: Bonded Servant
         description: >-

@@ -17,7 +17,7 @@ data:
       - level: 0
         title: Vrystrith
         description: >-
-          Cast out of the village, claimed by none and owed neither hospitality nor vengeance.
+          A Vrystrith—one who rides the ground nobody holds—is cast out of the village, claimed by none and owed neither hospitality nor vengeance.
       - level: 1
         title: Fródrád
         lore: frodradrnk
