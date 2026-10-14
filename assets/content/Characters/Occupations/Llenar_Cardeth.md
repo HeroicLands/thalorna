@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: silver
     skin_color: medium
-    complexion: smooth
+    complexion: [smooth]
     extra_features: [a scar on the right elbow]
   packFolder: aureldiaelavendre
 sohl:

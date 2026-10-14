@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: olive
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a scar on the neck]
   packFolder: midhaliontaruzel
 sohl:

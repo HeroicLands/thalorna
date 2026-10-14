@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: light
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: ankarisvedyara
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: light
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a serpent on the back]
   packFolder: midhalionvylaria
 sohl:

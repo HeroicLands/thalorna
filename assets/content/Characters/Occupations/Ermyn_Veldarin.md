@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: grey
     skin_color: medium
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

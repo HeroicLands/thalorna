@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: olive
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a tattoo of a leaf on the wrist]
   packFolder: midhaliontaruzel
 sohl:

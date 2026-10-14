@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: grey
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a lion's mane on the chest]
   packFolder: ankarisnordlands
 sohl:

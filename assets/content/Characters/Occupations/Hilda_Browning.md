@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: fair
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a scar running down the back]
   packFolder: aureldiaaelwyth
 sohl:

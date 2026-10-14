@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: pale
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of an eagle on the back]
   packFolder: ankarisvrystwald
 sohl:

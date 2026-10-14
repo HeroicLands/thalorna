@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: greying_brown
     skin_color: tanned
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a lion on the thigh]
   packFolder: helladbyzaria
 sohl:

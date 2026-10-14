@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: fair
-    complexion: clear
+    complexion: [clear]
     extra_features: [a scar on the lower abdomen]
   packFolder: aureldiaprovenzia
 sohl:

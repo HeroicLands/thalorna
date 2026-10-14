@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: red
     skin_color: fair
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar near the right ear]
   packFolder: aureldiaelavendre
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: auburn
     skin_color: medium
-    complexion: smooth
+    complexion: [smooth]
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

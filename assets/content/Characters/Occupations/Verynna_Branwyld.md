@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: dark_brown
     skin_color: medium
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left thigh]
   packFolder: aureldiaprovenzia
 sohl:

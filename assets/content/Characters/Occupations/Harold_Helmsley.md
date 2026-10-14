@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: pale
-    complexion: clear
+    complexion: [clear]
     extra_features: [a tattoo of a woman on the shoulder]
   packFolder: aureldiaaelwyth
 sohl:

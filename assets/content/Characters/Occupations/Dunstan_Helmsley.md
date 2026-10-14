@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: fair
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

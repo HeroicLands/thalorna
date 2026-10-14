@@ -27,11 +27,8 @@ data:
     eye_color: green
     hair_color: dark_blonde
     skin_color: pale
-    complexion: rough
-    extra_features:
-      - a thin scar from ear to jawline on the right side
-      - sharp pointed features
-      - moves with coiled restless energy
+    complexion: [rough]
+    extra_features: [a thin scar from ear to jawline on the right side, sharp pointed features]
   packFolder: ankarisvrystwald
 sohl:
   items:

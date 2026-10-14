@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: grey
     skin_color: tanned
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: ankarisnordlands
 sohl:

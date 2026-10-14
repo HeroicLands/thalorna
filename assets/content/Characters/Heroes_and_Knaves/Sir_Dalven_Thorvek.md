@@ -27,7 +27,7 @@ data:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: olive
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: auburn
     skin_color: light
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: dark_blonde
     skin_color: medium
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a tattoo of a star on the left shoulder]
   packFolder: aureldiaprovenzia
 sohl:

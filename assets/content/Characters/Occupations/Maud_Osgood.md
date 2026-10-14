@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: dark_blonde
     skin_color: light
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a scar on the back of the left arm]
   packFolder: aureldiaaelwyth
 sohl:

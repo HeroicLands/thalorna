@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: dark_brown
     skin_color: pale
-    complexion: null
+    complexion: [scarred]
     extra_features: [scar across forehead]
   packFolder: midhalionvylaria
 sohl:

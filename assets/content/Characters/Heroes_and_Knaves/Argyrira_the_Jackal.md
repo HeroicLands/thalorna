@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark_brown
-    complexion: scarred
+    complexion: [scarred]
     extra_features: [A long scar from brow to jaw on the left side]
   packFolder: northernfertileregionbethua
 sohl:

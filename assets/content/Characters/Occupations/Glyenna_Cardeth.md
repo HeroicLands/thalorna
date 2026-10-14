@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: light
-    complexion: smooth
+    complexion: [smooth]
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

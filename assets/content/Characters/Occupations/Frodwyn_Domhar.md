@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: dark_blonde
     skin_color: fair
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a scar running across the stomach]
   packFolder: ankarisvrystwald
 sohl:

@@ -26,9 +26,7 @@ data:
     hair_color: white
     skin_color: tawny
     complexion: [weathered, wrinkled]
-    extra_features:
-      - "a staff worn smooth at the grip"
-      - "hands that shake except when he is pouring the libation"
+    extra_features: []
   packFolder: ankariskhazryndesert
 ---
 

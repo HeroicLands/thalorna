@@ -25,6 +25,7 @@ data:
     eye_color: hazel
     hair_color: greying_black
     skin_color: dark_brown
+    complexion: [clear]
     extra_features: []
   packFolder: regkhfolk
 ---

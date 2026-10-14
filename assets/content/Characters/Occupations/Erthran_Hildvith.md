@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: dark_blonde
     skin_color: light
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: greying_brown
     skin_color: tanned
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: []
   packFolder: helladbyzaria
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: fair
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: pale
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar across the right hand]
   packFolder: aureldiaaelwyth
 sohl:

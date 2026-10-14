@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: red
     skin_color: fair
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a scar on the left ear]
   packFolder: ankarisvrystwald
 sohl:

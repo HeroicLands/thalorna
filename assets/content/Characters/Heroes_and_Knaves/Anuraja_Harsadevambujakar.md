@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: golden
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: ankarisvedyara
 sohl:

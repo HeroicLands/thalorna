@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: medium
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

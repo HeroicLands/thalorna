@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: fair
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a tattoo of a bird on the forearm]
   packFolder: helladbyzaria
 sohl:

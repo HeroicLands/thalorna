@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: greying_black
     skin_color: tawny
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a leaf on the wrist]
   packFolder: regkhhk
 sohl:

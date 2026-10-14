@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: dark_brown
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a tattoo of a woman on the shoulder]
   packFolder: ankariskhazryndesert
 sohl:

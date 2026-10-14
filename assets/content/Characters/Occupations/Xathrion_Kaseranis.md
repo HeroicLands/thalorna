@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: chestnut
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

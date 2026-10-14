@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: black
     skin_color: light
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a fire on the leg]
   packFolder: ankarisvrystwald
 sohl:

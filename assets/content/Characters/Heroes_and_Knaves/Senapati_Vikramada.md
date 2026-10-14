@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: greying_brown
     skin_color: medium
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: ankarisvedyara
 sohl:

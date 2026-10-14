@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: grey
     skin_color: light
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a scar on the abdomen]
   packFolder: ankarisnordlands
 sohl:

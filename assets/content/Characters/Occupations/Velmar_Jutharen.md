@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: grey
     skin_color: medium
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar on the chin]
   packFolder: aureldiatarvenia
 sohl:

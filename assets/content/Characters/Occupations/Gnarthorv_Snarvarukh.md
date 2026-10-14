@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: dark_blonde
     skin_color: light
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

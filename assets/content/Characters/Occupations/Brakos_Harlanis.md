@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: red
     skin_color: fair
-    complexion: null
+    complexion: []
     extra_features: [tattoo on arm]
   packFolder: midhalionvylaria
 sohl:

@@ -25,8 +25,8 @@ data:
     eye_color: dark_brown
     hair_color: greying_black
     skin_color: brown
-    complexion: smooth
-    extra_features: ["ink-stained fingers", "a voice pitched to carry to the back of a hall"]
+    complexion: [smooth]
+    extra_features: ["ink-stained fingers"]
   packFolder: regkhfolk
 ---
 

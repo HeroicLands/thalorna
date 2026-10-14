@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: red
     skin_color: medium
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a serpent on the back]
   packFolder: ankarisvrystwald
 sohl:

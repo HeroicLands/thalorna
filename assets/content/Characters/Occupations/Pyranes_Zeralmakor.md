@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: olive
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar on the left thigh]
   packFolder: midhalionvylaria
 sohl:

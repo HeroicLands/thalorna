@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: greying_brown
     skin_color: olive
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

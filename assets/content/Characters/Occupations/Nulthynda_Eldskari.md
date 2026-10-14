@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: dark_brown
     skin_color: pale
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar on the right forearm]
   packFolder: ankarisnordlands
 sohl:

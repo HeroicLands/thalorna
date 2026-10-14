@@ -22,12 +22,10 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: black
+    hair_color: grey
     skin_color: ebony
-    complexion: weathered
-    extra_features:
-      - close-cropped gray-streaked hair
-      - an air of quiet authority that belies his humble dress
+    complexion: [weathered]
+    extra_features: []
   packFolder: helladhelionis
 sohl:
   items:

@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: medium
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: helladhelionis
 sohl:

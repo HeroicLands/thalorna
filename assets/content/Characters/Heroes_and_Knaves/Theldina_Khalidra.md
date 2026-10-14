@@ -24,10 +24,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: clear
-    extra_features:
-      - carries herself with effortless poise
-      - possesses a voice of extraordinary beauty
+    complexion: [clear]
+    extra_features: []
   packFolder: helladhelionis
 sohl:
   items:

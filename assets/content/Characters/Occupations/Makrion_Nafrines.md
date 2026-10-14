@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: greying_brown
     skin_color: tawny
-    complexion: smooth
+    complexion: [smooth]
     extra_features: [a scar on the right hand]
   packFolder: helladhelionis
 sohl:

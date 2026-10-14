@@ -21,7 +21,12 @@ data:
   height: 5' 5"
   weight: 119 lbs
   frame: light
-  appearance: {eye_color: dark_brown, hair_color: grey, skin_color: brown, extra_features: []}
+  appearance:
+    eye_color: dark_brown
+    hair_color: grey
+    skin_color: brown
+    complexion: [clear]
+    extra_features: []
   packFolder: regkhfolk
 ---
 

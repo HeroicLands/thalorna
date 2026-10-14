@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: olive
-    complexion: null
+    complexion: []
     extra_features: [a burn mark on the left hand]
   packFolder: kingdomofamradad
 sohl:

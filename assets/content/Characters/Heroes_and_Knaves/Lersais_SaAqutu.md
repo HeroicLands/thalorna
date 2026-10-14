@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: olive
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: regkhhk
 sohl:

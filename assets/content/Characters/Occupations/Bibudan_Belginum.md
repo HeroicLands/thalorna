@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: greying_black
     skin_color: tawny
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a fish on the lower back]
   packFolder: midhaliontaruzel
 sohl:

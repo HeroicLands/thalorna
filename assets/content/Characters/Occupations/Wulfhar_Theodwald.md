@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

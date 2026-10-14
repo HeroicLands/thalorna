@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: auburn
     skin_color: olive
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

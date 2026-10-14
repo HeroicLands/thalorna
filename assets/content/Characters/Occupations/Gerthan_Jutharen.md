@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: white
     skin_color: olive
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a falcon on the right arm]
   packFolder: aureldiatarvenia
 sohl:

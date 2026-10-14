@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: grey
     skin_color: olive
-    complexion: scarred
+    complexion: [scarred]
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

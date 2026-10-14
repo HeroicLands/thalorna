@@ -24,7 +24,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: dark_brown
-    complexion: null
+    complexion: [scarred]
     extra_features: [a faint scar on the left side of the neck]
   packFolder: regkhhk
 sohl:

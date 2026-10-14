@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: red
     skin_color: medium
-    complexion: rough
+    complexion: [rough]
     extra_features: [a scar on the right hand]
   packFolder: ankarisvrystwald
 sohl:

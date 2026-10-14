@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: blonde
     skin_color: fair
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a scar on the abdomen]
   packFolder: aureldiaaelwyth
 sohl:

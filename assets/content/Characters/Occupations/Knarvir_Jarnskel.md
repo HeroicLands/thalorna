@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: light
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a dolphin on the left wrist]
   packFolder: ankarisnordlands
 sohl:

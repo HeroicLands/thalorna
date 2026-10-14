@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: white
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a snake on the chest]
   packFolder: ankarisnordlands
 sohl:

@@ -24,8 +24,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: medium
-    complexion: sun_kissed
-    extra_features: [perpetually stained hands, an open and expressive face, almost always smiling]
+    complexion: [sun_kissed]
+    extra_features: [perpetually stained hands]
   packFolder: midhaliontaruzel
 sohl:
   items:

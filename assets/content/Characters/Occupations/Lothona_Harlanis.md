@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: chestnut
     skin_color: tanned
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [calloused knuckles]
   packFolder: midhalionvylaria
 sohl:

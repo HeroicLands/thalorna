@@ -24,11 +24,10 @@ data:
     eye_color: dark_brown
     hair_color: null
     skin_color: dark_brown
-    complexion: weathered
+    complexion: [weathered]
     extra_features:
       - a bald head
-      - >-
-        Feather-of-Qe'âret tattoos on both forearms, ritually scored through with the temple's mark of expulsion
+      - Feather-of-Qe'âret tattoos on both forearms scored through with deliberate cuts
       - Deep horizontal scar across the left palm from the exile branding
   packFolder: regkhhk
 sohl:

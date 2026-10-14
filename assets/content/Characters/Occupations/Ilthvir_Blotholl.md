@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: dark_blonde
     skin_color: fair
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a serpent on the back]
   packFolder: ankarisnordlands
 sohl:

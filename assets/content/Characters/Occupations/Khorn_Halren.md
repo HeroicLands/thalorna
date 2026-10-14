@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: blonde
     skin_color: light
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a tattoo of a rose vine on the leg]
   packFolder: aureldiaelavendre
 sohl:

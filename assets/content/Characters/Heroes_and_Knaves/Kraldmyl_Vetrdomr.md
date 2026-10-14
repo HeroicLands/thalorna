@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar along the jawline]
   packFolder: ankarisnordlands
 sohl:

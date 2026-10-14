@@ -27,10 +27,8 @@ data:
     eye_color: grey
     hair_color: dark_brown
     skin_color: light
-    complexion: sallow
-    extra_features:
-      - a disarming smile that does not reach his eyes
-      - tattoo of a serpent on his forearm
+    complexion: [sallow]
+    extra_features: [tattoo of a serpent on his forearm]
   packFolder: ankarisvrystwald
 sohl:
   items:

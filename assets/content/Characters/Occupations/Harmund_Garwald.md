@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: greying_brown
     skin_color: light
-    complexion: wrinkled
+    complexion: [wrinkled]
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

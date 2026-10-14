@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: dark_brown
     skin_color: fair
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a phoenix on the chest]
   packFolder: aureldiaaelwyth
 sohl:

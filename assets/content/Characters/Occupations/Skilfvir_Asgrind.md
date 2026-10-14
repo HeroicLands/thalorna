@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: auburn
     skin_color: pale
-    complexion: rough
+    complexion: [rough]
     extra_features: [a scar on the back of the left arm]
   packFolder: ankarisnordlands
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: light
-    complexion: sallow
+    complexion: [sallow]
     extra_features: [a scar on the right elbow]
   packFolder: midhalionvylaria
 sohl:

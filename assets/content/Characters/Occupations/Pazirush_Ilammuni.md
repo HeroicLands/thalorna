@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: tawny
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a waterfall on the shoulder]
   packFolder: midhaliontaruzel
 sohl:

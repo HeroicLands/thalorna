@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: chestnut
     skin_color: medium
-    complexion: freckled
+    complexion: [freckled]
     extra_features: []
   packFolder: dunharatribes
 sohl:

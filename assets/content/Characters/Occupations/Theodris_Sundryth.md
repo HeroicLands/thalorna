@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: dark_blonde
     skin_color: light
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: ankarisvrystwald
 sohl:

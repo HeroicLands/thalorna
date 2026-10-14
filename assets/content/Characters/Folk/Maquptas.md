@@ -25,6 +25,7 @@ data:
     eye_color: brown
     hair_color: null
     skin_color: dark_brown
+    complexion: [clear]
     extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---

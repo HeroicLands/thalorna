@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: greying_brown
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [missing two fingers on left hand, thick neck, nose broken multiple times]
   packFolder: ankarisvrystwald
 sohl:

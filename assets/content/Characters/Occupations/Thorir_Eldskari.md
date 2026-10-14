@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: greying_black
     skin_color: golden
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [scar across forehead]
   packFolder: aureldiaaelwyth
 sohl:

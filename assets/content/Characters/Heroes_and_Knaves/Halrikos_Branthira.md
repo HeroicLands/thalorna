@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: greying_black
     skin_color: pale
-    complexion: sallow
+    complexion: [sallow]
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

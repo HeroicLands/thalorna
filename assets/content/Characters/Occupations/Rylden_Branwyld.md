@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: grey
     skin_color: medium
-    complexion: wrinkled
+    complexion: [wrinkled]
     extra_features: [a scar on the left eye]
   packFolder: aureldiaprovenzia
 sohl:

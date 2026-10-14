@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: tanned
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a scar along the jawline]
   packFolder: midhalionvylaria
 sohl:

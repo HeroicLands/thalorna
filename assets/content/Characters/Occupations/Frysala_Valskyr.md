@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: chestnut
     skin_color: fair
-    complexion: clear
+    complexion: [clear]
     extra_features: [a tattoo of an eagle on the back]
   packFolder: aureldiaprovenzia
 sohl:

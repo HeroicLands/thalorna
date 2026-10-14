@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the right wrist]
   packFolder: kingdomofamradad
 sohl:

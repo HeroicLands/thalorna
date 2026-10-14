@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: greying_brown
     skin_color: fair
-    complexion: clear
+    complexion: [clear]
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

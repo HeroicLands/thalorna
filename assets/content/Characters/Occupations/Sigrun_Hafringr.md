@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: dark_brown
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [burn mark on wrist]
   packFolder: aureldiaaelwyth
 sohl:

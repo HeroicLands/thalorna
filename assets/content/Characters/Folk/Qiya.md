@@ -21,7 +21,12 @@ data:
   height: 5' 3"
   weight: 126 lbs
   frame: light
-  appearance: {eye_color: hazel, hair_color: white, skin_color: ebony, extra_features: []}
+  appearance:
+    eye_color: hazel
+    hair_color: white
+    skin_color: ebony
+    complexion: [clear]
+    extra_features: []
   packFolder: regkhfolk
 ---
 

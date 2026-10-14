@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: dark_blonde
     skin_color: olive
-    complexion: null
+    complexion: [clear]
     extra_features: [deep-set eyes]
   packFolder: helladbyzaria
 sohl:

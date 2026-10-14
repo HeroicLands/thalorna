@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: tanned
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a tree on the back]
   packFolder: helladbyzaria
 sohl:

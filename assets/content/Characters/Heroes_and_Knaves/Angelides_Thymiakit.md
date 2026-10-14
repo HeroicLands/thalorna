@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar on the neck]
   packFolder: helladbyzaria
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: pale
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

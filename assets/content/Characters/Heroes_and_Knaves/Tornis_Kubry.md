@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: dark_blonde
     skin_color: fair
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

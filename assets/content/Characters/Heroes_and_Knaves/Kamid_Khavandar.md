@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: tanned
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a phoenix on the chest]
   packFolder: ankariskhazryndesert
 sohl:

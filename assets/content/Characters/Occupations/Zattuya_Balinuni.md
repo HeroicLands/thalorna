@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: tawny
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

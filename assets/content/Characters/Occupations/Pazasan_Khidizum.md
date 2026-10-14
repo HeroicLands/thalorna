@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: dark_brown
     skin_color: medium
-    complexion: clear
+    complexion: [clear]
     extra_features: [scar through left eyebrow]
   packFolder: midhaliontaruzel
 sohl:

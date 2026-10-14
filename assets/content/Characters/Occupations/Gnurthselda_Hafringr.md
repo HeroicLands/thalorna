@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: grey
     skin_color: golden
-    complexion: clear
+    complexion: [clear]
     extra_features: [crooked nose]
   packFolder: ankarisnordlands
 sohl:

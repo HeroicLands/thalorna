@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: white
     skin_color: light
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a scar on the left eye]
   packFolder: aureldiaelavendre
 sohl:

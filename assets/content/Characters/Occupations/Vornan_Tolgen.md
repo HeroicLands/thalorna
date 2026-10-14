@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: grey
     skin_color: light
-    complexion: smooth
+    complexion: [smooth]
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: aureldiaprovenzia
 sohl:

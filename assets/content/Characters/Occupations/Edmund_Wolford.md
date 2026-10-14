@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: greying_brown
     skin_color: light
-    complexion: clear
+    complexion: [clear]
     extra_features: [a scar above the left eyebrow]
   packFolder: aureldiaaelwyth
 sohl:

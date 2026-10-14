@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: dark_brown
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

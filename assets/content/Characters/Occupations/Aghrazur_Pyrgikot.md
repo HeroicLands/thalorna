@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: fair
-    complexion: smooth
+    complexion: [smooth]
     extra_features: [tattoo on arm]
   packFolder: helladbyzaria
 sohl:

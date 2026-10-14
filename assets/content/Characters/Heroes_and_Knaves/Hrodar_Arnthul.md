@@ -23,8 +23,8 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: light
-    complexion: null
-    extra_features: [gaunt angular face, long arms that give him a gangly look, perpetual scowl]
+    complexion: [clear]
+    extra_features: [gaunt angular face, long arms that give him a gangly look]
   packFolder: ankarisvrystwald
 sohl:
   items:

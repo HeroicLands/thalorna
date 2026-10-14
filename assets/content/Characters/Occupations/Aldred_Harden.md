@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: medium
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a tattoo of a fire on the leg]
   packFolder: aureldiaaelwyth
 sohl:

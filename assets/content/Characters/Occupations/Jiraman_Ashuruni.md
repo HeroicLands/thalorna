@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: medium
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a falcon on the right arm]
   packFolder: midhaliontaruzel
 sohl:

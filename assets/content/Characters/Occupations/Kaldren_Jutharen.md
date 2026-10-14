@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: chestnut
     skin_color: olive
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: aureldiatarvenia
 sohl:

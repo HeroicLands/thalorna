@@ -24,11 +24,8 @@ data:
     eye_color: blue
     hair_color: blonde
     skin_color: fair
-    complexion: null
-    extra_features:
-      - lean and wiry
-      - scar on her right hand
-      - intensity in her gaze that unnerves strangers
+    complexion: [scarred]
+    extra_features: [lean and wiry, scar on her right hand]
   packFolder: ankarisnordlands
 sohl:
   items:

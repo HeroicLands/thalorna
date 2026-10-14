@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: light
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a burn mark on the left hand]
   packFolder: ankarisvrystwald
 sohl:

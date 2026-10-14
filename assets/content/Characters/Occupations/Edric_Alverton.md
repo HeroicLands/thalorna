@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: white
     skin_color: pale
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a scar on the left side of the ribcage]
   packFolder: aureldiaaelwyth
 sohl:

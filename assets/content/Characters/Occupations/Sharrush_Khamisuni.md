@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: grey
     skin_color: tanned
-    complexion: rough
+    complexion: [rough]
     extra_features: [a scar running across the stomach]
   packFolder: midhaliontaruzel
 sohl:

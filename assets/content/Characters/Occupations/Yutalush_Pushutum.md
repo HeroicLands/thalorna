@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: grey
     skin_color: olive
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

@@ -27,7 +27,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: fair
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

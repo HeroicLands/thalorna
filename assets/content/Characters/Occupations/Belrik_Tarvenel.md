@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: auburn
     skin_color: fair
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [prominent scar on neck]
   packFolder: aureldiaelavendre
 sohl:

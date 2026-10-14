@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: white
     skin_color: fair
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a scar on the left foot]
   packFolder: helladhelionis
 sohl:

@@ -25,7 +25,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: tawny
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: regkhfolk
 ---

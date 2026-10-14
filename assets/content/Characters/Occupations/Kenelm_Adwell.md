@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: red
     skin_color: light
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a scar across the bridge of the nose]
   packFolder: aureldiaaelwyth
 sohl:

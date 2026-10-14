@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: fair
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

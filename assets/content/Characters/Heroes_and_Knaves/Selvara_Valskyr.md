@@ -24,8 +24,8 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: dark_brown
-    complexion: weathered
-    extra_features: [a commanding presence, moves with quiet precision]
+    complexion: [weathered]
+    extra_features: []
   packFolder: aureldiatarvenia
 sohl:
   items:

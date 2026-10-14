@@ -23,10 +23,8 @@ data:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: pale
-    complexion: weathered
-    extra_features:
-      - Hair tied back with leather thong
-      - Often cloaked in green and brown for camouflage
+    complexion: [weathered]
+    extra_features: []
   packFolder: aureldiaprovenzia
 sohl:
   items:

@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: red
     skin_color: light
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left shoulder]
   packFolder: ankarisnordlands
 sohl:

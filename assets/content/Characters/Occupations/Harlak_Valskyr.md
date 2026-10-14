@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: brown
     skin_color: medium
-    complexion: clear
+    complexion: [clear]
     extra_features: [a scar on the back of the left arm]
   packFolder: aureldiaprovenzia
 sohl:

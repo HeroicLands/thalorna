@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: light
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: ankariskhazryndesert
 sohl:

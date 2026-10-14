@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a tree on the forearm]
   packFolder: midhalionvylaria
 sohl:

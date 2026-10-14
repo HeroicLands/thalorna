@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: greying_brown
     skin_color: medium
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left foot]
   packFolder: ankarisvedyara
 sohl:

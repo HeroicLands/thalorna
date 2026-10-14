@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: fair
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a lion on the thigh]
   packFolder: midhalionvylaria
 sohl:

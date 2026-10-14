@@ -24,8 +24,8 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: medium
-    complexion: rough
-    extra_features: [a broken nose, massive hands, carries a heavy battleaxe he calls 'Vára']
+    complexion: [rough]
+    extra_features: [a broken nose, massive hands]
   packFolder: ankarisvrystwald
 sohl:
   items:

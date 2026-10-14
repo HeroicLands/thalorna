@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: grey
     skin_color: pale
-    complexion: wrinkled
+    complexion: [wrinkled]
     extra_features: [a limp]
   packFolder: helladbyzaria
 sohl:

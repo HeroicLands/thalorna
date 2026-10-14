@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: dark_blonde
     skin_color: pale
-    complexion: scarred
+    complexion: [scarred]
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

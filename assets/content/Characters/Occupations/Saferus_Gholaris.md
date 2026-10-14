@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: greying_brown
     skin_color: medium
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar on the abdomen]
   packFolder: helladhelionis
 sohl:

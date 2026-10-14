@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: grey
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar from forehead to cheek across the left eye]
   packFolder: dunharatribes
 sohl:

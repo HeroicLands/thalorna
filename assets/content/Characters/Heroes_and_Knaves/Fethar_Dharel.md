@@ -24,8 +24,8 @@ data:
     eye_color: blue
     hair_color: red
     skin_color: fair
-    complexion: freckled
-    extra_features: [an infectious grin, often wears outrageously patterned clothing]
+    complexion: [freckled]
+    extra_features: []
   packFolder: aureldiaprovenzia
 sohl:
   items:
@@ -403,7 +403,7 @@ sohl:
 
 ![[fethardhrl|Féthar Dhárel]]{float=top-left}
 
-Féthar Dhárel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
+Féthar Dhárel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke, and an infectious grin. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
 
 # Dossier {#dossier}
 

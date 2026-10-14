@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: dark_brown
     skin_color: golden
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: helladbyzaria
 sohl:

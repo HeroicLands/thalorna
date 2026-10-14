@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: greying_brown
     skin_color: light
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: helladbyzaria
 sohl:

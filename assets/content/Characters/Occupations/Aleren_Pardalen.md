@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: light
-    complexion: clear
+    complexion: [clear]
     extra_features: [a tattoo of a crown on the chest]
   packFolder: aureldiaelavendre
 sohl:

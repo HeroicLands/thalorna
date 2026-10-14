@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: greying_brown
     skin_color: fair
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a mystical symbol on the forearm]
   packFolder: aureldiaelavendre
 sohl:

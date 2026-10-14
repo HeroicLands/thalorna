@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: chestnut
     skin_color: olive
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar running down the right leg]
   packFolder: aureldiaprovenzia
 sohl:

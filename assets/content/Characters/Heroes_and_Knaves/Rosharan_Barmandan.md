@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: light
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a bear on the left arm]
   packFolder: kingdomofamradad
 sohl:

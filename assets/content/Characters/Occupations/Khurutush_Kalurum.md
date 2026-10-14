@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: tanned
-    complexion: smooth
+    complexion: [smooth]
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

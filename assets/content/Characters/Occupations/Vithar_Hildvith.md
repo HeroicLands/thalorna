@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: fair
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a tattoo of a serpent on the back]
   packFolder: ankarisvrystwald
 sohl:

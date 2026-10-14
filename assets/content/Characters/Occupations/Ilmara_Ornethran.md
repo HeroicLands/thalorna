@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: brown
     skin_color: dark_brown
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: light
-    complexion: clear
+    complexion: [clear]
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

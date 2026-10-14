@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: null
     skin_color: light
-    complexion: null
+    complexion: [clear]
     extra_features: [a bald head]
   packFolder: ankariskhazryndesert
 sohl:

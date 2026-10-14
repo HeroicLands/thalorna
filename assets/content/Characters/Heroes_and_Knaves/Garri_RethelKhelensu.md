@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: white
     skin_color: golden
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: regkhhk
 sohl:

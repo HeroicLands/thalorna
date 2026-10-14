@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a crown on the chest]
   packFolder: aureldiaelavendre
 sohl:

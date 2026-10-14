@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: brown
     skin_color: light
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

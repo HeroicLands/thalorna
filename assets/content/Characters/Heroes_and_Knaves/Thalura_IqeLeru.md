@@ -24,10 +24,8 @@ data:
     eye_color: hazel
     hair_color: black
     skin_color: golden
-    complexion: null
-    extra_features:
-      - Feather-of-Qe'âret scarification across the collarbones, concealed by vestments
-      - Fine gold chain bearing a miniature golden scale, worn beneath her robes
+    complexion: [scarred]
+    extra_features: [Feather-of-Qe'âret scarification across the collarbones]
   packFolder: regkhhk
 sohl:
   items:

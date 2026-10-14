@@ -25,7 +25,7 @@ data:
     eye_color: dark_brown
     hair_color: greying_black
     skin_color: dark_brown
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: regkhfolk
 ---

@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: golden
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar running down the right leg]
   packFolder: midhaliontaruzel
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: fair
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

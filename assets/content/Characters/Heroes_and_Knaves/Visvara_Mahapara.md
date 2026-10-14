@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: golden
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the right calf]
   packFolder: ankarisvedyara
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: greying_black
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a snake on the chest]
   packFolder: aureldiatarvenia
 sohl:

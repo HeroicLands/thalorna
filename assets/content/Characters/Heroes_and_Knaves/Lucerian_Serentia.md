@@ -24,10 +24,8 @@ data:
     eye_color: green
     hair_color: brown
     skin_color: fair
-    complexion: null
-    extra_features:
-      - immaculate grooming even in rough conditions
-      - carries a fine leather medical bag
+    complexion: [clear]
+    extra_features: []
   packFolder: midhalionvylaria
 sohl:
   items:

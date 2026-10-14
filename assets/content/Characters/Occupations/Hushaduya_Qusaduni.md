@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: medium
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a scar on the left ankle]
   packFolder: midhaliontaruzel
 sohl:

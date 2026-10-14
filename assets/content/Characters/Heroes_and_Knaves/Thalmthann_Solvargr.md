@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: grey
     skin_color: light
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar on the chin]
   packFolder: ankarisnordlands
 sohl:

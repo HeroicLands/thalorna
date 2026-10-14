@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: red
     skin_color: fair
-    complexion: freckled
+    complexion: [freckled]
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: aureldiaaelwyth
 sohl:

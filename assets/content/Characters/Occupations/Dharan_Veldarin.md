@@ -23,10 +23,8 @@ data:
     eye_color: grey
     hair_color: auburn
     skin_color: pale
-    complexion: smooth
-    extra_features:
-      - >-
-        a brand of the Black Flame scarred into the skin above the heart, always concealed beneath clothing
+    complexion: [smooth]
+    extra_features: [a Black Flame brand scarred into the skin above the heart]
   packFolder: aureldiaelavendre
 sohl:
   items:

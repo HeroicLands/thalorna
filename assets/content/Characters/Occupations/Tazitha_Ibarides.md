@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: brown
     skin_color: olive
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the right wrist]
   packFolder: helladhelionis
 sohl:

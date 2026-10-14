@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: grey
     skin_color: light
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a falcon on the right arm]
   packFolder: ankarisnordlands
 sohl:

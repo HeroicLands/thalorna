@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: northernfertileregionbethua
 sohl:

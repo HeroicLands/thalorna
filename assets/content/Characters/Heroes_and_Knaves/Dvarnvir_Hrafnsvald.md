@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: light
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a fire on the leg]
   packFolder: ankarisnordlands
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: grey
     skin_color: golden
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

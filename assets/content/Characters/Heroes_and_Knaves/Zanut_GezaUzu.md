@@ -24,7 +24,7 @@ data:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: golden
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left ear]
   packFolder: regkhhk
 sohl:

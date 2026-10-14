@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: olive
-    complexion: scarred
+    complexion: [scarred]
     extra_features: [Deep ragged scar diagonally across left cheek]
   packFolder: aureldiaprovenzia
 sohl:

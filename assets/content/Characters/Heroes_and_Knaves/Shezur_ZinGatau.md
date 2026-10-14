@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: dark_brown
     skin_color: brown
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a serpent on the back]
   packFolder: regkhhk
 sohl:

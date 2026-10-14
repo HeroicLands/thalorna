@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: greying_brown
     skin_color: fair
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a snake wrapping around the leg]
   packFolder: aureldiaaelwyth
 sohl:

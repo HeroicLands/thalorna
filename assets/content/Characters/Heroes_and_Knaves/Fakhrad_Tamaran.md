@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: tanned
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a scar on the right hand]
   packFolder: kingdomofamradad
 sohl:

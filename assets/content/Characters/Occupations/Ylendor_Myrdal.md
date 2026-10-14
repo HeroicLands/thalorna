@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: chestnut
     skin_color: olive
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

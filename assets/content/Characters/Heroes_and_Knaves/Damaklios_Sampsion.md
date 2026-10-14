@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: greying_brown
     skin_color: light
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: helladbyzaria
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: golden
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left ankle]
   packFolder: ankariskhazryndesert
 sohl:

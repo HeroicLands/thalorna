@@ -27,7 +27,7 @@ data:
     eye_color: brown
     hair_color: greying_brown
     skin_color: tawny
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: ankarisvedyara
 sohl:

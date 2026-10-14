@@ -27,14 +27,12 @@ data:
     eye_color: hazel
     hair_color: dark_brown
     skin_color: tanned
-    complexion: null
+    complexion: [scarred]
     extra_features:
-      - >-
-        Flame-shaped tattoo on the right forearm, the Black Flame's mark of ordination—black ink over ritual scarification, deliberately conspicuous
+      - a flame-shaped tattoo over ritual scarification on the right forearm
       - >-
         Faint burn scars across the fingertips of both hands from years of fire divination practice
-      - >-
-        A thin cord of braided copper wire worn around the left wrist, signifying her status as a mendicant—a wandering priestess authorized to preach and perform rites outside a fixed temple
+
   packFolder: midhalionvylaria
 sohl:
   items:

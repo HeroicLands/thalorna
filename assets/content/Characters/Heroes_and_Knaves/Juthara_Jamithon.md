@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: golden
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar running across the stomach]
   packFolder: northernfertileregionbethua
 sohl:

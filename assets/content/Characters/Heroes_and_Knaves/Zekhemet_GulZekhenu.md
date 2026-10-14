@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: dark_brown
     skin_color: dark_brown
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar running down the right leg]
   packFolder: regkhhk
 sohl:

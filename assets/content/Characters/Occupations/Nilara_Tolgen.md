@@ -23,7 +23,7 @@ data:
     eye_color: hazel
     hair_color: chestnut
     skin_color: olive
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a spider on the shoulder]
   packFolder: aureldiaprovenzia
 sohl:

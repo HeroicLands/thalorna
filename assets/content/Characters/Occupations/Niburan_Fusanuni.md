@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: grey
     skin_color: tawny
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a tattoo of a horse on the thigh]
   packFolder: midhaliontaruzel
 sohl:

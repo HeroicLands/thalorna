@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: pale
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

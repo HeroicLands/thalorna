@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: grey
     skin_color: light
-    complexion: freckled
+    complexion: [freckled]
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

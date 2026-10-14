@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: blonde
     skin_color: fair
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left side of the neck]
   packFolder: aureldiaelavendre
 sohl:

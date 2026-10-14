@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: auburn
     skin_color: medium
-    complexion: ruddy
+    complexion: [ruddy]
     extra_features: [a tattoo of a wolf on the shoulder]
   packFolder: midhalionvylaria
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: blue
     hair_color: dark_brown
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a tattoo of a dragon wrapping around the arm]
   packFolder: midhalionvylaria
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: black
     skin_color: tanned
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the right calf and a Seaman's Guild tatoo on his right arm]
   packFolder: midhalionvylaria
 sohl:

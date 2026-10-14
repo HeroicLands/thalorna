@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: black
     skin_color: tawny
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left thigh]
   packFolder: ankariskhazryndesert
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: dark_brown
     skin_color: tawny
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: kingdomofamradad
 sohl:

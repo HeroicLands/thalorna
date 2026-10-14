@@ -23,7 +23,7 @@ data:
     eye_color: green
     hair_color: blonde
     skin_color: tanned
-    complexion: smooth
+    complexion: [smooth]
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: aureldiaelavendre
 sohl:

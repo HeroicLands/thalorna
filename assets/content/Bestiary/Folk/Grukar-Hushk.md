@@ -23,7 +23,7 @@ data:
     eye_color: null
     hair_color: null
     skin_color: null
-    complexion: null
+    complexion: []
     extra_features: []
 sohl:
   kbcat: grukar

@@ -24,7 +24,7 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: tawny
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: regkhhk
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: white
     skin_color: brown
-    complexion: null
+    complexion: [clear]
     extra_features: []
   packFolder: heroesandknaveskalihara
 sohl:

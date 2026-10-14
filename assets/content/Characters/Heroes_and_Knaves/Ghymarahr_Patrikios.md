@@ -24,7 +24,7 @@ data:
     eye_color: brown
     hair_color: grey
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [a scar running down the back]
   packFolder: helladbyzaria
 sohl:

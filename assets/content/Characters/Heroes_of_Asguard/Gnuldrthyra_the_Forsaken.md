@@ -22,7 +22,7 @@ data:
     eye_color: amber
     hair_color: dark_brown
     skin_color: fair
-    complexion: smooth
+    complexion: [smooth]
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

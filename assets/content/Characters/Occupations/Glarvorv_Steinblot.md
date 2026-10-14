@@ -23,7 +23,7 @@ data:
     eye_color: grey
     hair_color: brown
     skin_color: pale
-    complexion: null
+    complexion: [scarred]
     extra_features: [a scar on the left side of the neck]
   packFolder: ankarisnordlands
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: light
-    complexion: null
+    complexion: []
     extra_features: [a tattoo of a dragonfly on the neck]
   packFolder: midhalionvylaria
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: black
     skin_color: medium
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: [a tattoo of a compass on the chest]
   packFolder: midhaliontaruzel
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: amber
     hair_color: auburn
     skin_color: medium
-    complexion: weathered
+    complexion: [weathered]
     extra_features: [crooked nose]
   packFolder: aureldiatarvenia
 sohl:

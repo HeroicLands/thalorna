@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: dark_brown
     skin_color: olive
-    complexion: null
+    complexion: [scarred]
     extra_features:
       - >-
         Faint burn scarring across both palms and the backs of the hands from years of Pyréthos practice

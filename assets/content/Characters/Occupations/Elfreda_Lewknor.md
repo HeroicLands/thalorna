@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: auburn
     skin_color: light
-    complexion: freckled
+    complexion: [freckled]
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: black
     skin_color: medium
-    complexion: sun_kissed
+    complexion: [sun_kissed]
     extra_features: []
   packFolder: helladhelionis
 sohl:

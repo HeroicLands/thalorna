@@ -23,7 +23,7 @@ data:
     eye_color: violet
     hair_color: black
     skin_color: fair
-    complexion: null
+    complexion: []
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

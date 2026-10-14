@@ -23,7 +23,7 @@ data:
     eye_color: dark_brown
     hair_color: white
     skin_color: tanned
-    complexion: weathered
+    complexion: [weathered]
     extra_features: []
   packFolder: dunharatribes
 sohl:

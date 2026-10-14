@@ -23,7 +23,7 @@ data:
     eye_color: brown
     hair_color: black
     skin_color: olive
-    complexion: clear
+    complexion: [clear]
     extra_features: [a scar on the left calf]
   packFolder: helladhelionis
 sohl:
