@@ -116,9 +116,9 @@ The Hvarn have one authority above the hearth, and it holds no power. The winter
 
 The Winter-speaker presides over the council and holds the order of speaking and no authority when it rises. The Turn-keeper keeps the rotation and the debts it leaves. The Bone-bringer keeps the roll. Cases are heard on the floor by the council in front of the parties and their kin, and records are held by recitation. The Fort-carrier negotiates the single account the Hvarn keep with the janapadas, and the fee of a season comes to the hearth that earned it. The council cannot compel, and it has never needed to, because nobody who ignored it would be given a road. The Storm-reader's refusal ends a day's travel and is not argued with, and where the council and the weather disagree, the weather is the Storm-reader's.
 
-## What the Roll Asks of a Tuesday
+## What the Roll Asks of an Ordinary Day
 
-The Hvarn do not say where the dead go. They say where the dead were found. The belief that settles a Tuesday is that a person is a place: the ground that took him is named, kept and recited, and the person is not finished with until it is.
+The Hvarn do not say where the dead go. They say where the dead were found. The belief that settles an ordinary day is that a person is a place: the ground that took him is named, kept and recited, and the person is not finished with until it is.
 
 So the dead are fetched. A body in the eastern gorges is brought up wherever recovery is possible at all, and the place it lay is recorded before anything else is done. A hearth that can bring its dead up is a hearth that can draw a road again. A child is named for someone in the roll and carries the duty to know where that person was found. A guide choosing a stage goes by the roll. The winter store pays for recovery parties before it pays for anything that can wait, and a rope kept greased in the closed months is the ordinary shape of the belief. Debts are said aloud before the house, because an unspoken debt is an unplaced body of another kind.
 
@@ -130,7 +130,7 @@ The cost is the recovery itself. The gorges that took the dead can take the ones
 
 ## What a Person Owes
 
-Ask a Hvarn what he owes, and he answers in order: the party first, because the rope is only as good as its worst knot; then the hearth that feeds him; then the long house that shelters the whole people through the closed months; then the roll. He owes the council his presence in winter and his account of any party he lost. He owes other hearths what the rotation says he owes.
+A Hvarn owes in order: the party first, because the rope is only as good as its worst knot; then the hearth that feeds him; then the long house that shelters the whole people through the closed months; then the roll. He owes the council his presence in winter and his account of any party he lost. He owes other hearths what the rotation says he owes.
 
 In return a person is owed a place at a fire, a share of the winter store if he is of the hearth's blood, a road drawn fairly in the rotation, a hearing in front of everyone, and a place in the roll if the gorge takes him. The hearth-head is owed the account of every person at his fire, and answers for them in turn.
 

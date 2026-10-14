@@ -102,11 +102,11 @@ The dead reach the living through memory more than visitation. In a civic temple
 
 ## What Is Owed
 
-Ask a Helionite what a person owes, and he answers: the city first, plainly and without embarrassment and ahead of family, because the city is what makes a man capable of anything worth doing. Then the household. Then the friends bound to him, which in Heliónis is a formal and serious category.
+A Helionite owes the city first, plainly and without embarrassment and ahead of family, because the city is what makes a man capable of anything worth doing. Then the household. Then the friends bound to him, which in Heliónis is a formal and serious category.
 
 And he owes the truth an argument. A Helionite holds that a person who lets a false thing stand unchallenged in public has failed at the basic civic duty. Dinner with three of them takes six hours.
 
-In return the city owes the citizen a voice in the assembly, a place in the lot for office, the protection of the walls and the militia he serves in, and, abroad, the herald and the return of his body if he falls. A freedman works and trades and is barred from the assembly for life. A metic pays tax and stands the levy, and is owed a market in which to work; he has no vote and cannot own land. A slave owes labor and has no standing before the law except through an owner. The student from abroad who stays on is a metic, and a person can earn the most prestigious education in the west and never vote in the city that gave it.
+In return the city owes the citizen a voice in the assembly, a place in the lot for office, the protection of the walls and the militia he serves in, and, abroad, the herald and the return of his body if he falls. A freedman works and trades and is barred from the assembly for life. A metic pays tax and stands the levy, and is owed a market in which to work; he has no vote and cannot own land. A slave owes labor and has no standing before the law except through an owner. The student from abroad who stays on is a metic: the most prestigious education in the west carries no vote in the city that gave it.
 
 ## The Weak
 

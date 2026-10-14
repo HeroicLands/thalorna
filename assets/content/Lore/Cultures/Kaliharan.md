@@ -104,7 +104,7 @@ You will hear a Kaliharan woman called _Koaluethei_ in the market and _Luethei_ 
 
 A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is understood to be doing necessary work at the boundary, and the interior's distance from him is philosophical and not contemptuous. He is also almost never admitted inland, and both he and the custodians know it, and it is not discussed.
 
-## What the Whole Asks of a Tuesday
+## What the Whole Asks of an Ordinary Day
 
 There is no gate, no judge and no hereafter. The Whole does not forget a part, and nothing is owed to a god. What follows is a way of spending a day: the looking at dawn, the tending of the part that is one's own, the exactness of a practice repeated as it was taught, and a manual filled in at dusk. The test of a life is the condition in which the part is handed on, and it is observable by anyone, continuously, which the Kaliharans hold to be a stricter arrangement than judgment after death.
 

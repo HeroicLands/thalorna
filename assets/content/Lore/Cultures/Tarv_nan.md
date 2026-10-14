@@ -100,7 +100,7 @@ Who tries a case depends on the case. A matter between neighbors goes to the vil
 
 The Aurèldían faith teaches that the soul, _díravo_, passes first through the spirit realm and that the rites of the god receive it there, and the village priest says them. Under that the mountain villages keep an older account. On certain nights the dead of a valley walk the roads in a line with a light carried before them, the _gatséra_, and a house sets a lantern for the dead, the _ezkóbe_, on its threshold, the _belártsa_, so that they pass by. The dead of a house are _zekúdi_, the old ones, and in song the river runs like the blood of the ancestors, the _gárevárren_.
 
-That belief changes an ordinary Tuesday. A Tarvénan keeps the contract he swore, because the man who breaks it is accursed and the guilt falls on everyone who marched with him. He does not sell the household's good name for a better price. A mercenary under contract in a distant war thinks about the homecoming, and a company that has lost men far from home sees to their rites, since a field where the dead were left unreceived is a danger to everyone who passes it. A householder lights the lantern on the right night and does not argue the point. He pays the village priest and leaves an offering at the cave mouth where the Mother is kept. He lays his dead among the old ones of his house. And he swears on the stone, not on a document, when the matter is the one that matters.
+That belief changes an ordinary day. A Tarvénan keeps the contract he swore, because the man who breaks it is accursed and the guilt falls on everyone who marched with him. He does not sell the household's good name for a better price. A mercenary under contract in a distant war thinks about the homecoming, and a company that has lost men far from home sees to their rites, since a field where the dead were left unreceived is a danger to everyone who passes it. A householder lights the lantern on the right night and does not argue the point. He pays the village priest and leaves an offering at the cave mouth where the Mother is kept. He lays his dead among the old ones of his house. And he swears on the stone, not on a document, when the matter is the one that matters.
 
 ## Reaching the Dead
 
@@ -110,7 +110,7 @@ The dead reach the living by walking. On their night they go by the lantern and 
 
 ## What a Person Owes
 
-Ask a Tarvénan what a person owes, and he answers: the word he gave, first and before everything, because it is the only thing about him another man can rely on. Then the household, then the band, then the village.
+A Tarvénan owes the word he gave, first and before everything, because it is the only thing about him another man can rely on. Then the household, then the band, then the village.
 
 A lord is owed what was agreed and not a penny more. A Tarvénan will fight for a king he dislikes if the terms were met, and walk away from one he admires if they were not, and he does not regard the two as inconsistent.
 

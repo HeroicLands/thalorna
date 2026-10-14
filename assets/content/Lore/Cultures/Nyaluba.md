@@ -128,13 +128,13 @@ The Nyáluba carry messages by drum-language, a tonal encoding of the tongue rel
 
 Defense, disaster, deaths in senior lineages, ceremonial timing, market prices and herd movements all travel by drum. Northern peoples who depend on relay riders would find the speed startling if they knew of it, and the Sengala have been carefully unforthcoming with their rainforest neighbors about how the drums actually work.
 
-## What the Brightness Asks of a Tuesday
+## What the Brightness Asks of an Ordinary Day
 
 The Nyáluba recognize no supreme god and would not accept that the Great Brightness, Shorínya Ndáfo, is one. All spirits came from it and all return to it, and it receives nothing: no offering, no song, no shrine. Nothing the dead are owed goes to it. The dead who matter on an ordinary day are the ancestors, and they are guides: an ancestor attends the descendants of the clan that remembers his name. The afterlife is therefore a matter of being remembered right, and the person who forgets a name or lets a griot lose a line has lost a guide for the clan.
 
 The Lobwezi and Ngonzi griots tell how the Brightness came differently, and neither telling is ruled true. In the first it was a root, patient and under everything, and each guide is a piece of it that took the shape of the ground it fell on. In the second it was a flight across the sky from the east, the guides are the sparks it shed over the highlands, and it returns at the end of all things by the road it left. Neither clan has ever brought the difference to the Great Lubemo.
 
-That is why a Tuesday looks as it does. A person speaks carefully, because what is said before a griot is entered. A host asks a stranger's name, his father's and where he slept, and repeats all three back, because a name once entered cannot be taken back. A man does not marry a person of his own totem, and a hunter does not return full-handed without the offering. The great fund of a lineage is its memory, and a death in a senior lineage travels by drum before the lineage has finished mourning.
+That is why an ordinary day looks as it does. A person speaks carefully, because what is said before a griot is entered. A host asks a stranger's name, his father's and where he slept, and repeats all three back, because a name once entered cannot be taken back. A man does not marry a person of his own totem, and a hunter does not return full-handed without the offering. The great fund of a lineage is its memory, and a death in a senior lineage travels by drum before the lineage has finished mourning.
 
 ## Reaching the Dead
 
@@ -144,7 +144,7 @@ The stone-builder dead are another matter. They are not party to the Pact and no
 
 ## What a Person Owes
 
-Ask a Nyáluban what a person owes, and he answers in order: the lineage first, then the clan, then the Pact—and the Pact is always named aloud, because it is the thing owed across the boundary of one's own people and therefore the only one that costs anything.
+A Nyáluban owes in order: the lineage first, then the clan, then the Pact—and the Pact is always named aloud, because it is the thing owed across the boundary of one's own people and therefore the only one that costs anything.
 
 Below all three he owes the spirits their proper posture, and what that asks is correctness: venerate what should be venerated, appease what must be appeased, ward against the rest, and do not confuse them.
 

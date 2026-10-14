@@ -246,7 +246,7 @@ The priesthoods tolerate the variation and frequently encourage it, holding thei
 
 ## What a Person Owes
 
-Ask a Khelâthi what a man owes, and he answers in order: the house comes first, then the dead of the house, then the temple whose rites his own burial depends on, then the selat that takes his grain. The Gar-Aû comes last, and the grain reaches him in any case.
+A Khelâthi owes in order: the house comes first, then the dead of the house, then the temple whose rites his own burial depends on, then the selat that takes his grain. The Gar-Aû comes last, and the grain reaches him in any case.
 
 Above all of it he owes a true heart at the weighing—and he owes it whether or not anyone is watching, because the one witness who counts takes no bribe and sees through every lie.
 

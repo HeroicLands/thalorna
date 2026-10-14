@@ -110,7 +110,7 @@ The dead do not reach the living. They reach the account: a debt unpaid, a feud 
 
 ## What a Person Owes
 
-Ask a Dunhari what a person owes, and he answers in the order the desert taught: the guest first, because the guest is owed before anyone has established who he is; then the household; then the lineage; then the tribe and the sheikh who speaks for it.
+A Dunhari owes in the order the desert taught: the guest first, because the guest is owed before anyone has established who he is; then the household; then the lineage; then the tribe and the sheikh who speaks for it.
 
 Last and underneath he owes the account of himself that the poets will carry. In return the guest is owed salt, protection and the count of days that follows it. The household is owed his share of the work and its feud. The lineage owes him protection and a place in its feud, and he owes it his seat among the elders when his years have earned one. The sheikh is owed the tribe's consent and owes it the wells, the circuit, the settlement of quarrels and the hospitality of his tent. The poet is owed the tribe's hearing and owes it a true recitation. The storm cult is owed a place at the fire and owes the camp a faithful reading of the weather.
 

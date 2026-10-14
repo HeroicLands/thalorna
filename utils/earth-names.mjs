@@ -580,6 +580,14 @@ export const CURATED = [
     "Mongol Empire",
     "Ottoman Empire",
     "Terran",
+    // weekday names
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
 ];
 
 /**

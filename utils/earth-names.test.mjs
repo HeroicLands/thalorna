@@ -28,6 +28,16 @@ test("the founder of an Earth faith is found under each of his names", () => {
     assert.equal(findEarthNames("a.md", "Zoroaster and Zarathushtra").length, 2);
 });
 
+test("the Earth weekday names are found", () => {
+    assert.deepEqual(findEarthNames("a.md", "on an ordinary Tuesday"), [
+        'a.md:1:16: error: "Tuesday" is an Earth proper name',
+    ]);
+    for (const day of ["Monday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]) {
+        assert.equal(findEarthNames("a.md", `the ${day} market`).length, 1, day);
+    }
+    assert.equal(findEarthNames("a.md", "tuesdays and sundayish").length, 0);
+});
+
 test("whole words and in-world vocabulary pass", () => {
     assert.equal(findEarthNames("a.md", "englishman").length, 0);
     assert.equal(findEarthNames("a.md", "the common tongue of an empire").length, 0);

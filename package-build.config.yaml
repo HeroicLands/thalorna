@@ -397,6 +397,19 @@ pdf:
               - sectionName: Lore
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tantsouclt'
+        - id: jenchai
+          title: Jénchài
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-jenchaiclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-jenchaiclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-jenchaiclt'
         - id: tarvenia
           title: Tarvénia
           subtitle: A Gazetteer of Thalorna

@@ -72,7 +72,7 @@ A people who cannot unite without a tyrant has no answer to a threat that is big
 
 ## What a Person Owes
 
-Ask a Sovidur what a person owes and he answers in the order of his tent: the household first, then the kin who share its herds, then the tribe and its dovaq, then the guest at the fire. The guest is owed protection to the edge of the tribe's country and nothing beyond it. The dead are owed their laying-out and a name spoken over them.
+A Sovidur owes in the order of his tent: the household first, then the kin who share its herds, then the tribe and its dovaq, then the guest at the fire. The guest is owed protection to the edge of the tribe's country and nothing beyond it. The dead are owed their laying-out and a name spoken over them.
 
 Nothing is owed to a tribe that is not your own, to a stranger without a sponsor, or to a claimant who says he speaks for every tribe at once.
 

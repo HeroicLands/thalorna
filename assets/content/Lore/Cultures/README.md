@@ -39,7 +39,7 @@ Answer all of them. A note that skips a section is a culture nobody can play.
     institutions, one wearing two hats, or rivals? Who tries a case, who keeps
     the records, who collects, and who decides when those answers conflict?
 11. What happens after death, and—the question that actually matters—**what
-    does that belief make people do on an ordinary Tuesday?** An afterlife that
+    does that belief make people do on an ordinary day?** An afterlife that
     changes no behaviour is decoration. Say how it reaches ethics, law,
     inheritance, burial, and what a person spends money on.
 12. Can the living affect the dead, or the dead the living? If so, through whom,
@@ -84,7 +84,7 @@ past reads as propaganda.
 thoughtful members argue about. Naming it is what makes the rest credible.
 
 **Keep the afterlife load-bearing.** The test for question 11 is whether a
-reader can predict a Tuesday from it. In `Khelathi.md` the belief that the dead
+reader can predict an ordinary day from it. In `Khelathi.md` the belief that the dead
 must work and eat is why tombs hold tools, why offerings are payments rather
 than remembrance, why grave robbery is hunted across generations, and why a
 dying man decides aloud what debts he calls in and what he takes with him. That

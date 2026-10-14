@@ -11,7 +11,7 @@ The [[affiliation-tantsouempr|Empire of Tāntsou]] has always feared its own pro
 
 ## Chàiwōng
 
-**Chàiwōng** ("Kingdom of Mountains and Seas") is the empire's name for [[affiliation-jenchaiempr|Jénchài]], the ring of nine volcanic islands across the strait to the east. The archipelago broke from the empire more than a thousand years ago, and the court has never recognized the break: in every register it is still a province in rebellion. The islanders keep the empire's script, calendar and castes, bent around a warrior aristocracy, and they call themselves the true holders of the Mandate and the mainland's ruling house usurpers.
+**Chàiwōng** ("Kingdom of Mountains and Seas") is the empire's name for [[affiliation-jenchaiempr|Jénchài]], the island realm across the strait to the east. The archipelago broke from the empire more than a thousand years ago, and the court has never recognized the break: in every register it is still a province in rebellion. The islanders keep the empire's script, calendar and castes, bent around a warrior aristocracy, and they call themselves the true holders of the Mandate and the mainland's ruling house usurpers.
 
 The war between them is a thousand-year stalemate of raid and counter-raid. The strait has wrecked every invasion fleet the empire has sent, and Jénchài has never had the numbers to hold ground on the mainland. What it can do is take the sea. Its navy is better than the empire's, and it hires mercenary captains and pirates to raid the eastern and southern coasts, seize the empire's offshore islands and fishing grounds, and choke the coastal trade on which the southern ports live. A Jénchài flotilla off a harbor mouth in the rice-shipping season costs the empire more than a lost battle.
 

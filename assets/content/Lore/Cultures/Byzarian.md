@@ -108,7 +108,7 @@ The effect is that Byzaría has very little feud for a region bordering three pe
 
 The dead of a Byzarian house are kept, and the word is meant in its commercial sense. The faith teaches that a soul passes first to the spirit realm and that the rites of the god and the ancestors receive it. The tomb-keepers of Nýkhtion say the same in their own terms: "We do not sell graves. We keep them, and the keeping is what you pay for." A family that wants its dead received and tended does not leave it to piety. It buys the keeping, as a perpetual endowment its heirs establish, which pays the temples of [[affiliation-selmoros|Sélmoros]] and the ancestral spirits to maintain the chambers and say the rites for as long as the endowment runs.
 
-This changes an ordinary Tuesday. A Byzarian of any means has a tomb in the necropolis and a contract for its keeping, and he checks that the endowment is current the way he checks the lease on a warehouse. He names the endowment, the tomb and its keepers in his will, because an heir who inherits an open obligation to the dead has inherited a quarrel. A dying man settles his accounts aloud before witnesses, calling in what is owed to him and acknowledging what he owes, so that his heirs inherit closed terms. A prosperous house treats its tomb as a standing charge, and the necropolis has districts that run from the columned mausolea of merchant families to the plain stone markers of common ones. A poor family pays for what it can. The priests of Sélmoros bury paupers and the unclaimed without fee.
+This changes an ordinary day. A Byzarian of any means has a tomb in the necropolis and a contract for its keeping, and he checks that the endowment is current the way he checks the lease on a warehouse. He names the endowment, the tomb and its keepers in his will, because an heir who inherits an open obligation to the dead has inherited a quarrel. A dying man settles his accounts aloud before witnesses, calling in what is owed to him and acknowledging what he owes, so that his heirs inherit closed terms. A prosperous house treats its tomb as a standing charge, and the necropolis has districts that run from the columned mausolea of merchant families to the plain stone markers of common ones. A poor family pays for what it can. The priests of Sélmoros bury paupers and the unclaimed without fee.
 
 The dread that corresponds to all this is the account that nobody keeps. A tomb without its keeping, a house that has run out of heirs, a soldier left on a field with no one to pay for his rites: these are the Byzarian nightmares, and they explain why a necropolis city holds so much of the League's wealth and why a merchant-prince does not insult its council.
 
@@ -118,7 +118,7 @@ The living reach the dead through the temples of [[affiliation-selmoros|Sélmoro
 
 ## What Is Owed
 
-Ask a Byzarian what a person owes, and he answers: the terms first—what was agreed, exactly as agreed, whether or not it has turned out well. Then the guild that stands behind his seal, then his master or his apprentices, then the city whose weights he trades under.
+A Byzarian owes the terms first: what was agreed, exactly as agreed, whether or not it has turned out well. Then the guild that stands behind his seal, then his master or his apprentices, then the city whose weights he trades under.
 
 He will add, if pressed, that a man owes the truth about a defect in his own goods, and that a people who did not hold that would have nothing left to sell.
 

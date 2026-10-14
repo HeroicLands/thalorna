@@ -42,13 +42,14 @@ Each word table has these columns:
 | Field                    | What it holds                                                                     |
 | ------------------------ | --------------------------------------------------------------------------------- |
 | Land, sea and sky        | The elements, the weather, the islands and the sea, and the features houses name. |
-| Number and colour        | The numbers and the colours and qualities that open compounds.                    |
+| Number and color         | The numbers and the colors and qualities that open compounds.                     |
 | Rank, house and office   | The ranks, kin and offices, and the native readings of the titles.                |
-| Rites, honour and court  | The rites, the court, the law and the spirits.                                    |
+| Rites, honor and court   | The rites, the court, the law and the spirits.                                    |
 | Beasts                   | The beasts of the calendar and the Celestial Order.                               |
 | Speaking                 | The particles, the words for persons and the verbs.                               |
 | The honorific grid       | One verb in every tier and form of the grid.                                      |
 | Houses and granted names | House names, retainer family names and granted personal names.                    |
+| Places                   | The mountains, castle towns, villages and estates of the realm.                   |
 
 ## Sounds and spelling
 
@@ -142,7 +143,7 @@ Jürthāti is the daughter of [[skill-tantsoulng|Tāntsou]], and every inherited
 | `kén`   | `ken`    | hearth, household           |
 | `shuo`  | `sho`    | trade                       |
 | `ja`    | `ja`     | blade                       |
-| `wén`   | `wen`    | centre, middle              |
+| `wén`   | `wen`    | center, middle              |
 | `wou`   | `wū`     | court, palace, hall         |
 | `wō`    | `wō`     | divine, sacred              |
 | `léi`   | `rei`    | spirit, soul, vital energy  |
@@ -234,7 +235,7 @@ The rows of one step are one change, written out sound by sound.
 | `tsū`  | high, low | _tōu_ earth; _tsou_ tribe          |
 | `zen`  | low, high | _zhèn_ snow; _zhén_ boar           |
 | `chen` | low, high | _chèn_ frost; _chén_ emperor       |
-| `wen`  | low, high | _wèn_ five; _wén_ centre           |
+| `wen`  | low, high | _wèn_ five; _wén_ center           |
 | `hen`  | high, low | _hén_ chaos; _hèn_ tiger           |
 | `mū`   | low       | _mòu_ wood; _mou_ green            |
 | `nū`   | low       | _nou_ field; _nòu_ bound           |
@@ -323,12 +324,12 @@ Counters are set on a number, and the number on what it counts: _wennō wo_, fiv
 | `jenjai` | `n`   | the Nine Mountains; the islanders' everyday short name for their land | `jen` + `-jai` | coined    | [[skill-jurthatlng\|Jürthāti]] |
 | `tēyan`  | `n`   | the clouds of heaven, the high cloud the Nine stand above             | `tē` + `yan`   | coined    | [[skill-jurthatlng\|Jürthāti]] |
 
-### Number and colour
+### Number and color
 
 | Form   | Class | Gloss                                     | Built from | Source    | Attested                       |
 | ------ | ----- | ----------------------------------------- | ---------- | --------- | ------------------------------ |
 | `kei`  | `num` | one                                       | —          | island    | [[skill-jurthatlng\|Jürthāti]] |
-| `wen`  | `num` | five; and, by the other pitch, the centre | —          | inherited | —                              |
+| `wen`  | `num` | five; and, by the other pitch, the center | —          | inherited | —                              |
 | `jen`  | `num` | nine                                      | —          | inherited | [[skill-jurthatlng\|Jürthāti]] |
 | `wai`  | `num` | ten                                       | —          | inherited | —                              |
 | `tān`  | `adj` | celestial, of heaven                      | —          | inherited | [[skill-jurthatlng\|Jürthāti]] |
@@ -371,7 +372,7 @@ Counters are set on a number, and the number on what it counts: _wennō wo_, fiv
 | `nūzū`   | `n`    | the bound folk; the native reading of _Nòutsou_      | `nū` + `-zū`   | coined    | —                              |
 | `tānzo`  | `pron` | heavenly lord: you, said to one above the speaker    | `tān` + `zo`   | coined    | [[skill-jurthatlng\|Jürthāti]] |
 
-### Rites, honour and court
+### Rites, honor and court
 
 | Form    | Class | Gloss                                                        | Built from    | Source    | Attested                       |
 | ------- | ----- | ------------------------------------------------------------ | ------------- | --------- | ------------------------------ |
@@ -442,76 +443,114 @@ Counters are set on a number, and the number on what it counts: _wennō wo_, fiv
 | `wanūrēwū`  | `v`   | to answer: humble, polite, witnessed    | `wa` + `-nū` + `-rē` + `-wū`  | coined | —                              |
 | `wadānrēwū` | `v`   | to answer: honorific, polite, witnessed | `wa` + `-dān` + `-rē` + `-wū` | coined | [[skill-jurthatlng\|Jürthāti]] |
 
+### Places
+
+| Form      | Class  | Gloss                                | Built from     | Source | Attested |
+| --------- | ------ | ------------------------------------ | -------------- | ------ | -------- |
+| `hawū`    | `name` | Dark Hall, a castle town             | `ha` + `wū`    | coined | —        |
+| `yanwū`   | `name` | Cloud Hall, a castle town            | `yan` + `wū`   | coined | —        |
+| `yūwū`    | `name` | Moon Hall, a castle town             | `yū` + `wū`    | coined | —        |
+| `buiwū`   | `name` | White Hall, a castle town            | `bui` + `wū`   | coined | —        |
+| `kowū`    | `name` | Old Hall, a castle town              | `ko` + `wū`    | coined | —        |
+| `zūwū`    | `name` | Blue Hall, a castle town             | `zū` + `wū`    | coined | —        |
+| `rīnwū`   | `name` | Red Hall, a castle town              | `rīn` + `wū`   | coined | —        |
+| `tsuiwū`  | `name` | Iron Hall, a castle town             | `tsui` + `wū`  | coined | —        |
+| `rēwū`    | `name` | Dawn Hall, the capital's native name | `rē` + `wū`    | coined | —        |
+| `beshenū` | `name` | Salt Terraces, a village             | `beshe` + `nū` | coined | —        |
+| `kowō`    | `name` | Old Sea, a village                   | `ko` + `wō`    | coined | —        |
+| `rōnū`    | `name` | Thunder Terraces, a village          | `rō` + `nū`    | coined | —        |
+| `fanū`    | `name` | Fortune Terraces, a village          | `fa` + `nū`    | coined | —        |
+| `yanjū`   | `name` | Cloud Spring, a village              | `yan` + `-jū`  | coined | —        |
+| `weinū`   | `name` | Jade Terraces, a village             | `wei` + `nū`   | coined | —        |
+| `showō`   | `name` | Trade Sea, a village                 | `sho` + `wō`   | coined | —        |
+| `ronū`    | `name` | Flower Terraces, a village           | `ro` + `nū`    | coined | —        |
+| `shodū`   | `name` | Trade Road, a village                | `sho` + `dū`   | coined | —        |
+| `chōnū`   | `name` | Winter Terraces, a village           | `chō` + `nū`   | coined | —        |
+| `buimū`   | `name` | White Wood, a village                | `bui` + `mū`   | coined | —        |
+| `maidū`   | `name` | Horse Road, a village                | `mai` + `dū`   | coined | —        |
+| `zainū`   | `name` | Crane Terraces, a village            | `zai` + `nū`   | coined | —        |
+| `zūjū`    | `name` | Blue River, a village                | `zū` + `-jū`   | coined | —        |
+| `tsaimū`  | `name` | Craft Wood, a village                | `tsai` + `mū`  | coined | —        |
+| `rēwō`    | `name` | Dawn Sea, a village                  | `rē` + `wō`    | coined | —        |
+| `wēwō`    | `name` | Wind Sea, a village                  | `wē` + `wō`    | coined | —        |
+| `hanū`    | `name` | Dark Terraces, a village             | `ha` + `nū`    | coined | —        |
+| `jawō`    | `name` | Blade Sea, a village                 | `ja` + `wō`    | coined | —        |
+| `hennū`   | `name` | Tiger Terraces, a village            | `hen` + `nū`   | coined | —        |
+| `sūdū`    | `name` | Serpent Road, a village              | `sū` + `dū`    | coined | —        |
+| `jīdū`    | `name` | Metal Road, a village                | `jī` + `dū`    | coined | —        |
+| `kodū`    | `name` | Old Road, a village                  | `ko` + `dū`    | coined | —        |
+| `tsaigen` | `name` | Craft Master, a village              | `tsai` + `gen` | coined | —        |
+
 ### Houses and granted names
 
-| Form        | Class  | Gloss                                                          | Built from        | Source | Attested                       |
-| ----------- | ------ | -------------------------------------------------------------- | ----------------- | ------ | ------------------------------ |
-| `yanjai`    | `name` | Cloud Peak, a great lord's house named for its mountain        | `yan` + `-jai`    | coined | [[skill-jurthatlng\|Jürthāti]] |
-| `hojūjai`   | `name` | Hot Spring Place, a great lord's house                         | `hojū` + `-jai`   | coined | [[skill-jurthatlng\|Jürthāti]] |
-| `mūwōjai`   | `name` | Cedar Place, a great lord's house                              | `mūwō` + `-jai`   | coined | —                              |
-| `hojai`     | `name` | Fire Peak, a great lord's house under a burning mountain       | `ho` + `-jai`     | coined | —                              |
-| `zījai`     | `name` | Star Peak, a great lord's house                                | `zī` + `-jai`     | coined | —                              |
-| `wējai`     | `name` | Wind Peak, a great lord's house                                | `wē` + `-jai`     | coined | —                              |
-| `zenjai`    | `name` | Snow Peak, a great lord's house                                | `zen` + `-jai`    | coined | —                              |
-| `buijai`    | `name` | White Peak, a great lord's house                               | `bui` + `-jai`    | coined | —                              |
-| `wōjai`     | `name` | Sea Place, a great lord's house that holds a harbour           | `wō` + `-jai`     | coined | —                              |
-| `yūjai`     | `name` | Moon Peak, a great lord's house                                | `yū` + `-jai`     | coined | —                              |
-| `rōjai`     | `name` | Thunder Peak, a great lord's house                             | `rō` + `-jai`     | coined | —                              |
-| `zojai`     | `name` | Dragon Peak, a great lord's house                              | `zo` + `-jai`     | coined | —                              |
-| `rīnjai`    | `name` | Red Peak, a great lord's house                                 | `rīn` + `-jai`    | coined | —                              |
-| `tsuijai`   | `name` | Iron Peak, a great lord's house                                | `tsui` + `-jai`   | coined | —                              |
-| `shuiwōjai` | `name` | Strait Place, a great lord's house that holds a narrow sea     | `shuiwō` + `-jai` | coined | —                              |
-| `beshejū`   | `name` | Records of the Salt, a retainer family named for its office    | `beshe` + `-jū`   | coined | [[skill-jurthatlng\|Jürthāti]] |
-| `jajū`      | `name` | Records of the Blade, a retainer family that keeps an armoury  | `ja` + `-jū`      | coined | —                              |
-| `maijū`     | `name` | Records of the Horse, a retainer family that keeps the stables | `mai` + `-jū`     | coined | —                              |
-| `weijū`     | `name` | Records of the Jade, a retainer family that keeps a treasury   | `wei` + `-jū`     | coined | —                              |
-| `wōjū`      | `name` | Records of the Sea, a retainer family that keeps the harbours  | `wō` + `-jū`      | coined | —                              |
-| `rēwei`     | `name` | Dawn Jade, a granted name                                      | `rē` + `wei`      | coined | [[skill-jurthatlng\|Jürthāti]] |
-| `yanzī`     | `name` | Cloud Star, a granted name                                     | `yan` + `zī`      | coined | —                              |
-| `weiro`     | `name` | Jade Flower, a granted name                                    | `wei` + `ro`      | coined | —                              |
-| `zenro`     | `name` | Snow Flower, a granted name                                    | `zen` + `ro`      | coined | —                              |
-| `yūro`      | `name` | Moon Flower, a granted name                                    | `yū` + `ro`       | coined | —                              |
-| `rēyū`      | `name` | Bright Moon, a granted name                                    | `rē` + `yū`       | coined | —                              |
-| `zīro`      | `name` | Star Flower, a granted name                                    | `zī` + `ro`       | coined | —                              |
-| `buiro`     | `name` | White Flower, a granted name                                   | `bui` + `ro`      | coined | —                              |
-| `buiyū`     | `name` | White Moon, a granted name                                     | `bui` + `yū`      | coined | —                              |
-| `weiyū`     | `name` | Jade Moon, a granted name                                      | `wei` + `yū`      | coined | —                              |
-| `rēro`      | `name` | Dawn Flower, a granted name                                    | `rē` + `ro`       | coined | —                              |
-| `zūwei`     | `name` | Blue Jade, a granted name                                      | `zū` + `wei`      | coined | —                              |
-| `rīnro`     | `name` | Red Flower, a granted name                                     | `rīn` + `ro`      | coined | —                              |
-| `wōro`      | `name` | Sea Flower, a granted name                                     | `wō` + `ro`       | coined | —                              |
-| `yanro`     | `name` | Cloud Flower, a granted name                                   | `yan` + `ro`      | coined | —                              |
-| `zīyū`      | `name` | Star Moon, a granted name                                      | `zī` + `yū`       | coined | —                              |
-| `rēzī`      | `name` | Dawn Star, a granted name                                      | `rē` + `zī`       | coined | —                              |
-| `mūwei`     | `name` | Green Jade, a granted name                                     | `mū` + `wei`      | coined | —                              |
-| `wēro`      | `name` | Wind Flower, a granted name                                    | `wē` + `ro`       | coined | —                              |
-| `yūwei`     | `name` | Moon Jade, a granted name                                      | `yū` + `wei`      | coined | —                              |
-| `tsuija`    | `name` | Iron Blade, a granted name                                     | `tsui` + `ja`     | coined | [[skill-jurthatlng\|Jürthāti]] |
-| `rōja`      | `name` | Thunder Blade, a granted name                                  | `rō` + `ja`       | coined | —                              |
-| `hoja`      | `name` | Fire Blade, a granted name                                     | `ho` + `ja`       | coined | —                              |
-| `zoja`      | `name` | Dragon Blade, a granted name                                   | `zo` + `ja`       | coined | —                              |
-| `henja`     | `name` | Tiger Blade, a granted name                                    | `hen` + `ja`      | coined | —                              |
-| `zowo`      | `name` | Dragon Warrior, a granted name                                 | `zo` + `wo`       | coined | —                              |
-| `henwo`     | `name` | Tiger Warrior, a granted name                                  | `hen` + `wo`      | coined | —                              |
-| `rōwo`      | `name` | Thunder Warrior, a granted name                                | `rō` + `wo`       | coined | —                              |
-| `tsuiwo`    | `name` | Iron Warrior, a granted name                                   | `tsui` + `wo`     | coined | —                              |
-| `buija`     | `name` | White Blade, a granted name                                    | `bui` + `ja`      | coined | —                              |
-| `zenwo`     | `name` | Snow Warrior, a granted name                                   | `zen` + `wo`      | coined | —                              |
-| `wēja`      | `name` | Wind Blade, a granted name                                     | `wē` + `ja`       | coined | —                              |
-| `wēwo`      | `name` | Wind Warrior, a granted name                                   | `wē` + `wo`       | coined | —                              |
-| `chaiwo`    | `name` | Mountain Warrior, a granted name                               | `chai` + `wo`     | coined | —                              |
-| `hozo`      | `name` | Fire Dragon, a granted name                                    | `ho` + `zo`       | coined | —                              |
-| `rēzo`      | `name` | Bright Dragon, a granted name                                  | `rē` + `zo`       | coined | —                              |
-| `zīja`      | `name` | Star Blade, a granted name                                     | `zī` + `ja`       | coined | —                              |
-| `dōja`      | `name` | Great Blade, a granted name                                    | `dō` + `ja`       | coined | —                              |
-| `henzo`     | `name` | Tiger Lord, a granted name                                     | `hen` + `zo`      | coined | —                              |
-| `tsuizo`    | `name` | Iron Lord, a granted name                                      | `tsui` + `zo`     | coined | —                              |
+| Form        | Class  | Gloss                                                                      | Built from        | Source | Attested                       |
+| ----------- | ------ | -------------------------------------------------------------------------- | ----------------- | ------ | ------------------------------ |
+| `yanjai`    | `name` | Cloud Peak, a great lord's house named for its mountain                    | `yan` + `-jai`    | coined | [[skill-jurthatlng\|Jürthāti]] |
+| `hojūjai`   | `name` | Hot Spring Place, a great lord's house                                     | `hojū` + `-jai`   | coined | [[skill-jurthatlng\|Jürthāti]] |
+| `mūwōjai`   | `name` | Cedar Place, a great lord's house                                          | `mūwō` + `-jai`   | coined | —                              |
+| `hojai`     | `name` | Fire Peak, a burning mountain of the Nine, held by the house Hojūjai       | `ho` + `-jai`     | coined | —                              |
+| `zījai`     | `name` | Star Peak, a mountain of the Nine, held by the house Mūwōjai               | `zī` + `-jai`     | coined | —                              |
+| `wējai`     | `name` | Wind Peak, a mountain of the Nine, and the great lord's house named for it | `wē` + `-jai`     | coined | —                              |
+| `zenjai`    | `name` | Snow Peak, a mountain of the Nine, and the great lord's house named for it | `zen` + `-jai`    | coined | —                              |
+| `buijai`    | `name` | White Peak, a great lord's house                                           | `bui` + `-jai`    | coined | —                              |
+| `wōjai`     | `name` | Sea Place, a great lord's house that holds a harbor                        | `wō` + `-jai`     | coined | —                              |
+| `yūjai`     | `name` | Moon Peak, a mountain of the Nine, held by the house Wōjai                 | `yū` + `-jai`     | coined | —                              |
+| `rōjai`     | `name` | Thunder Peak, a mountain of the Nine, held by the house Shuiwōjai          | `rō` + `-jai`     | coined | —                              |
+| `zojai`     | `name` | Lord's Peak, the Dragon's Mountain, the Emperor's own, one of the Nine     | `zo` + `-jai`     | coined | —                              |
+| `rīnjai`    | `name` | Red Peak, a mountain of the Nine, and the great lord's house named for it  | `rīn` + `-jai`    | coined | —                              |
+| `tsuijai`   | `name` | Iron Peak, a mountain of the Nine, and the great lord's house named for it | `tsui` + `-jai`   | coined | —                              |
+| `shuiwōjai` | `name` | Strait Place, a great lord's house that holds a narrow sea                 | `shuiwō` + `-jai` | coined | —                              |
+| `beshejū`   | `name` | Records of the Salt, a retainer family named for its office                | `beshe` + `-jū`   | coined | [[skill-jurthatlng\|Jürthāti]] |
+| `jajū`      | `name` | Records of the Blade, a retainer family that keeps an armory               | `ja` + `-jū`      | coined | —                              |
+| `maijū`     | `name` | Records of the Horse, a retainer family that keeps the stables             | `mai` + `-jū`     | coined | —                              |
+| `weijū`     | `name` | Records of the Jade, a retainer family that keeps a treasury               | `wei` + `-jū`     | coined | —                              |
+| `wōjū`      | `name` | Records of the Sea, a retainer family that keeps the harbors               | `wō` + `-jū`      | coined | —                              |
+| `rēwei`     | `name` | Dawn Jade, a granted name                                                  | `rē` + `wei`      | coined | [[skill-jurthatlng\|Jürthāti]] |
+| `yanzī`     | `name` | Cloud Star, a granted name                                                 | `yan` + `zī`      | coined | —                              |
+| `weiro`     | `name` | Jade Flower, a granted name                                                | `wei` + `ro`      | coined | —                              |
+| `zenro`     | `name` | Snow Flower, a granted name                                                | `zen` + `ro`      | coined | —                              |
+| `yūro`      | `name` | Moon Flower, a granted name                                                | `yū` + `ro`       | coined | —                              |
+| `rēyū`      | `name` | Bright Moon, a granted name                                                | `rē` + `yū`       | coined | —                              |
+| `zīro`      | `name` | Star Flower, a granted name                                                | `zī` + `ro`       | coined | —                              |
+| `buiro`     | `name` | White Flower, a granted name                                               | `bui` + `ro`      | coined | —                              |
+| `buiyū`     | `name` | White Moon, a granted name                                                 | `bui` + `yū`      | coined | —                              |
+| `weiyū`     | `name` | Jade Moon, a granted name                                                  | `wei` + `yū`      | coined | —                              |
+| `rēro`      | `name` | Dawn Flower, a granted name                                                | `rē` + `ro`       | coined | —                              |
+| `zūwei`     | `name` | Blue Jade, a granted name                                                  | `zū` + `wei`      | coined | —                              |
+| `rīnro`     | `name` | Red Flower, a granted name                                                 | `rīn` + `ro`      | coined | —                              |
+| `wōro`      | `name` | Sea Flower, a granted name                                                 | `wō` + `ro`       | coined | —                              |
+| `yanro`     | `name` | Cloud Flower, a granted name                                               | `yan` + `ro`      | coined | —                              |
+| `zīyū`      | `name` | Star Moon, a granted name                                                  | `zī` + `yū`       | coined | —                              |
+| `rēzī`      | `name` | Dawn Star, a granted name                                                  | `rē` + `zī`       | coined | —                              |
+| `mūwei`     | `name` | Green Jade, a granted name                                                 | `mū` + `wei`      | coined | —                              |
+| `wēro`      | `name` | Wind Flower, a granted name                                                | `wē` + `ro`       | coined | —                              |
+| `yūwei`     | `name` | Moon Jade, a granted name                                                  | `yū` + `wei`      | coined | —                              |
+| `tsuija`    | `name` | Iron Blade, a granted name                                                 | `tsui` + `ja`     | coined | [[skill-jurthatlng\|Jürthāti]] |
+| `rōja`      | `name` | Thunder Blade, a granted name                                              | `rō` + `ja`       | coined | —                              |
+| `hoja`      | `name` | Fire Blade, a granted name                                                 | `ho` + `ja`       | coined | —                              |
+| `zoja`      | `name` | Dragon Blade, a granted name                                               | `zo` + `ja`       | coined | —                              |
+| `henja`     | `name` | Tiger Blade, a granted name                                                | `hen` + `ja`      | coined | —                              |
+| `zowo`      | `name` | Dragon Warrior, a granted name                                             | `zo` + `wo`       | coined | —                              |
+| `henwo`     | `name` | Tiger Warrior, a granted name                                              | `hen` + `wo`      | coined | —                              |
+| `rōwo`      | `name` | Thunder Warrior, a granted name                                            | `rō` + `wo`       | coined | —                              |
+| `tsuiwo`    | `name` | Iron Warrior, a granted name                                               | `tsui` + `wo`     | coined | —                              |
+| `buija`     | `name` | White Blade, a granted name                                                | `bui` + `ja`      | coined | —                              |
+| `zenwo`     | `name` | Snow Warrior, a granted name                                               | `zen` + `wo`      | coined | —                              |
+| `wēja`      | `name` | Wind Blade, a granted name                                                 | `wē` + `ja`       | coined | —                              |
+| `wēwo`      | `name` | Wind Warrior, a granted name                                               | `wē` + `wo`       | coined | —                              |
+| `chaiwo`    | `name` | Mountain Warrior, a granted name                                           | `chai` + `wo`     | coined | —                              |
+| `hozo`      | `name` | Fire Dragon, a granted name                                                | `ho` + `zo`       | coined | —                              |
+| `rēzo`      | `name` | Bright Dragon, a granted name                                              | `rē` + `zo`       | coined | —                              |
+| `zīja`      | `name` | Star Blade, a granted name                                                 | `zī` + `ja`       | coined | —                              |
+| `dōja`      | `name` | Great Blade, a granted name                                                | `dō` + `ja`       | coined | —                              |
+| `henzo`     | `name` | Tiger Lord, a granted name                                                 | `hen` + `zo`      | coined | —                              |
+| `tsuizo`    | `name` | Iron Lord, a granted name                                                  | `tsui` + `zo`     | coined | —                              |
 
 ## Making names
 
 **A person** of Jénchài carries the house name first and the personal name after it. Among the retainer classes the personal name is granted, most often at coming of age or for a service worth marking, and it is granted again when a man changes lords, takes vows or survives a defeat that ought to have killed him; the old name is not used afterward. A granted name is a compound of two words, as _Rēwei_, dawn-jade, or _Tsuija_, iron-blade, and its second part is voiced as any compound's is. The lower castes hold no personal name.
 
-**A great lord's house** takes its name from a feature of its island, so that the name is also a place on the island: a peak, a strait, a hot spring, a stand of cedar. The feature closes on _-jai_, place, as _Yanjai_, Cloud Peak, and _Hojūjai_, Hot Spring Place.
+**A great lord's house** takes its name from a feature of its mountain, so that the name is also a place on the mountain: a peak, a strait, a hot spring, a stand of cedar. The feature closes on _-jai_, place, as _Yanjai_, Cloud Peak, and _Hojūjai_, Hot Spring Place.
 
 **A retainer family** takes its name from the office it has held longest, and an office that keeps records closes on _-jū_, as _Beshejū_, Records of the Salt.
 
@@ -521,23 +560,28 @@ Counters are set on a number, and the number on what it counts: _wennō wo_, fiv
 
 The notes write these names in the learned reading, so they keep the mainland's tones, its _-ng_, its _zh_ and its _l_. Each stands with its native reading where this page's words give one.
 
-| Name                | Where it is met                                                                   | Native reading | Why it stands outside                                                            |
-| ------------------- | --------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------- |
-| _Jénchài_           | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _Jenjai_       | the realm's name in the learned reading, as the court and the script give it     |
-| _Rongléng Téngzhéi_ | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _Rōrē Tēzei_   | the Emperor's style, a title of the court in the learned reading                 |
-| _Daozhuo_           | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _dōzo_         | a rank in the learned reading                                                    |
-| _Shuìzhuo_          | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _shuizo_       | a rank in the learned reading                                                    |
-| _Ruìsing_           | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _ruizī_        | a rite in the learned reading                                                    |
-| _Nòutsou_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _nūzū_         | a caste in the learned reading                                                   |
-| _Shuonong_          | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _shonō_        | a caste in the learned reading                                                   |
-| _Nouwén_            | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _nūwen_        | a caste in the learned reading                                                   |
-| _Tānchéi_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _tānjei_       | a caste in the learned reading                                                   |
-| _Wòhou_             | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _wobū_         | a caste in the learned reading                                                   |
-| _Zhazhò_            | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _zazo_         | a caste in the learned reading                                                   |
-| _Tsàihuo_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | none           | a caste in the learned reading, whose second part is no root of the Tāntsou page |
-| _Wánduo_            | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | none           | a caste in the learned reading, whose first part is no root of the Tāntsou page  |
-| _Chài Kōwēn_        | [[skill-jurthatlng\|Jürthāti]]                                                    | _Chai Kōwēn_   | the name of court speech, whose first word keeps the learned _chài_ of the court |
-| _Chàiwōng_          | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _chaiwō_       | the mainland's name for the islands, the mountains and the seas, in Tāntsou      |
+| Name                | Where it is met                                                                   | Native reading | Why it stands outside                                                                                                         |
+| ------------------- | --------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| _Jénchài_           | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _Jenjai_       | the realm's name in the learned reading, as the court and the script give it                                                  |
+| _Rongléng Téngzhéi_ | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _Rōrē Tēzei_   | the Emperor's style, a title of the court in the learned reading                                                              |
+| _Daozhuo_           | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _dōzo_         | a rank in the learned reading                                                                                                 |
+| _Shuìzhuo_          | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _shuizo_       | a rank in the learned reading                                                                                                 |
+| _Ruìsing_           | [[affiliation-jenchaiempr\|Jénchài Empire]], [[place-jenchairgn\|Jénchài Region]] | _ruizī_        | a rite in the learned reading                                                                                                 |
+| _Nòutsou_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _nūzū_         | a caste in the learned reading                                                                                                |
+| _Shuonong_          | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _shonō_        | a caste in the learned reading                                                                                                |
+| _Nouwén_            | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _nūwen_        | a caste in the learned reading                                                                                                |
+| _Tānchéi_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _tānjei_       | a caste in the learned reading                                                                                                |
+| _Wòhou_             | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _wobū_         | a caste in the learned reading                                                                                                |
+| _Zhazhò_            | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _zazo_         | a caste in the learned reading                                                                                                |
+| _Tsàihuo_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | none           | a caste in the learned reading, whose second part is no root of the Tāntsou page                                              |
+| _Wánduo_            | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | none           | the mainland's sorcerer caste, whose first part is no root of the Tāntsou page; on the islands sorcerers rank among the Wòhou |
+| _Chài Kōwēn_        | [[skill-jurthatlng\|Jürthāti]]                                                    | _Chai Kōwēn_   | the name of court speech, whose first word keeps the learned _chài_ of the court                                              |
+| _Léngwou_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _Rēwū_         | the capital's name in the learned reading                                                                                     |
+| _Wéiléng_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _Weirē_        | the reigning Emperor's name in the learned reading                                                                            |
+| _Téng Ja_           | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _tē ja_        | the office of the realm's war leader, a title of the court in the learned reading                                             |
+| _Chàiwōng_          | [[affiliation-jenchaiempr\|Jénchài Empire]]                                       | _chaiwō_       | the mainland's name for the islands, the mountains and the seas, in Tāntsou                                                   |
+| _Léng Ruì_          | [[lore-jenchaiclt\|Jénchài]]                                                      | _rē rui_       | the Dawn Rite, a rite in the learned reading                                                                                  |
+| _Chài Juì_          | [[lore-jenchaiclt\|Jénchài]]                                                      | _chai jui_     | the Festival of the Mountain, a rite in the learned reading                                                                   |
 
 The proverbs and formulae the [[skill-jurthatlng|language note]] quotes are in the native reading. The mountain dialects keep a closing _-ng_ the standard speech has lengthened away, and the shrine register keeps mainland forms whole, tones and all.
 
@@ -545,15 +589,17 @@ The proverbs and formulae the [[skill-jurthatlng|language note]] quotes are in t
 
 The register below holds every name of every note of Jénchài and its tongue. A note is in the register when one of these values names it:
 
-| Kind    | Value                                                                             | What it catches                                     |
-| ------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
-| folder  | `jenchai` `ankarisjenchai`                                                        | the realm, the region and the characters of Jénchài |
-| parent  | `jenchairgn`                                                                      | every place set inside Jénchài                      |
-| address | `skill-jurthatlng` `affiliation-jenchaiempr` `place-jenchairgn` `lore-jenchaiscs` | the tongue, the realm, the region and the secession |
+| Kind    | Value                                                                                               | What it catches                                                  |
+| ------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| folder  | `jenchai` `ankarisjenchai`                                                                          | the realm, the region and the characters of Jénchài              |
+| parent  | `jenchairgn`                                                                                        | every place set inside Jénchài                                   |
+| culture | `jenchaiclt`                                                                                        | the people of Jénchài                                            |
+| lore    | `jenchaiclt`                                                                                        | the notes of Jénchài's culture                                   |
+| address | `skill-jurthatlng` `affiliation-jenchaiempr` `place-jenchairgn` `lore-jenchaiscs` `lore-jenchaiclt` | the tongue, the realm, the region, the secession and the culture |
 
 ## Attested names
 
-Every name the setting gives a person, place, polity, rank, office or thing of Jénchài, with the note where it is met. No name the notes give is in the native reading: the realm's name, ranks and castes are kept in the learned reading, which the [[doc-tantsoulexcn|Tāntsou Lexicon]] builds, and the rest are names in the language of these pages. A kept name's Built from cell names the mainland words it is made of, as the Tāntsou Lexicon gives them.
+Every name the setting gives a person, place, polity, rank, office or thing of Jénchài, with the note where it is met. The realm's name, ranks, castes, titles and rites are kept in the learned reading, which the [[doc-tantsoulexcn|Tāntsou Lexicon]] builds; houses, places and persons are names in the native reading, the language of these pages. A kept name's Built from cell names the mainland words it is made of, as the Tāntsou Lexicon gives them.
 
 ### Tongues
 
@@ -566,33 +612,93 @@ Every name the setting gives a person, place, polity, rank, office or thing of J
 
 ### Names
 
-| Name                              | Notes                                                      | Tongue           | Built from      |
-| --------------------------------- | ---------------------------------------------------------- | ---------------- | --------------- |
-| **Caste-Registrar**               | [[affiliation-jenchaiempr\|Caste-Registrar]]               | `translation`    | —               |
-| **Celestial Minister**            | [[affiliation-jenchaiempr\|Celestial Minister]]            | `translation`    | —               |
-| **Censor of Purity**              | [[affiliation-jenchaiempr\|Censor of Purity]]              | `translation`    | —               |
-| **Chàiwōng**                      | [[affiliation-jenchaiempr\|Chàiwōng]]                      | `exonym:tantsou` | `chài` + `wōng` |
-| **Commandant**                    | [[affiliation-jenchaiempr\|Commandant]]                    | `translation`    | —               |
-| **Emperor**                       | [[affiliation-jenchaiempr\|Emperor]]                       | `translation`    | —               |
-| **Jénchài Archipelago**           | [[place-jenchairgn\|Jénchài Archipelago]]                  | `translation`    | —               |
-| **Jénchài Empire**                | [[affiliation-jenchaiempr\|Jénchài Empire]]                | `translation`    | —               |
-| **Jénchài Region**                | [[place-jenchairgn\|Jénchài Region]]                       | `translation`    | —               |
-| **Jürthāti Language**             | [[skill-jurthatlng\|Jürthāti Language]]                    | `translation`    | —               |
-| **Jürthāti Lexicon**              | [[doc-jurthatilexcn\|Jürthāti Lexicon]]                    | `translation`    | —               |
-| **Jürthāti Word List**            | [[doc-jurthatilexcn\|Jürthāti Word List]]                  | `translation`    | —               |
-| **Keeper of the Sacred Texts**    | [[affiliation-jenchaiempr\|Keeper of the Sacred Texts]]    | `translation`    | —               |
-| **Kingdom of Mountains and Seas** | [[affiliation-jenchaiempr\|Kingdom of Mountains and Seas]] | `translation`    | —               |
-| **Nine Mountains**                | [[affiliation-jenchaiempr\|Nine Mountains]]                | `translation`    | —               |
-| **Nouwén**                        | [[affiliation-jenchaiempr\|Nouwén]]                        | `kept`           | `nou` + `wén`   |
-| **Omen-Reader**                   | [[affiliation-jenchaiempr\|Omen-Reader]]                   | `translation`    | —               |
-| **Provincial Administrator**      | [[affiliation-jenchaiempr\|Provincial Administrator]]      | `translation`    | —               |
-| **Shuonong**                      | [[affiliation-jenchaiempr\|Shuonong]]                      | `kept`           | `shuo` + `nong` |
-| **Tānchéi**                       | [[affiliation-jenchaiempr\|Tānchéi]]                       | `kept`           | `tān` + `chéi`  |
-| **The Breaking Away**             | [[lore-jenchaiscs\|The Breaking Away]]                     | `translation`    | —               |
-| **The Secession of Jénchài**      | [[lore-jenchaiscs\|The Secession of Jénchài]]              | `translation`    | —               |
-| **Tsàihuo**                       | [[affiliation-jenchaiempr\|Tsàihuo]]                       | `kept`           | —               |
-| **Wánduo**                        | [[affiliation-jenchaiempr\|Wánduo]]                        | `kept`           | —               |
-| **Warden of the Bound**           | [[affiliation-jenchaiempr\|Warden of the Bound]]           | `translation`    | —               |
-| **Warlord**                       | [[affiliation-jenchaiempr\|Warlord]]                       | `translation`    | —               |
-| **Wòhou**                         | [[affiliation-jenchaiempr\|Wòhou]]                         | `kept`           | `wò` + `hou`    |
-| **Zhazhò**                        | [[affiliation-jenchaiempr\|Zhazhò]]                        | `kept`           | `zha` + `zhò`   |
+| Name                              | Notes                                                                                                                                                                                                                                                                                                                                             | Tongue           | Built from      |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
+| **Blue Hall**                     | [[place-zuwu\|Blue Hall]]                                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **Buiwū**                         | [[place-buiwu\|Buiwū]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `bui` + `wū`    |
+| **Caste-Registrar**               | [[affiliation-jenchaiempr\|Caste-Registrar]]                                                                                                                                                                                                                                                                                                      | `translation`    | —               |
+| **Celestial Minister**            | [[affiliation-jenchaiempr\|Celestial Minister]]                                                                                                                                                                                                                                                                                                   | `translation`    | —               |
+| **Censor of Purity**              | [[affiliation-jenchaiempr\|Censor of Purity]]                                                                                                                                                                                                                                                                                                     | `translation`    | —               |
+| **Chàiwōng**                      | [[affiliation-jenchaiempr\|Chàiwōng]]                                                                                                                                                                                                                                                                                                             | `exonym:tantsou` | `chài` + `wōng` |
+| **Cloud Hall**                    | [[place-yanwu\|Cloud Hall]]                                                                                                                                                                                                                                                                                                                       | `translation`    | —               |
+| **Daozhuo**                       | [[affiliation-hojujaidmn\|Daozhuo]], [[affiliation-jenchaiempr\|Daozhuo]], [[affiliation-muwojaidmn\|Daozhuo]], [[affiliation-rinjaidmn\|Daozhuo]], [[affiliation-shuiwojaidmn\|Daozhuo]], [[affiliation-tsuijaidmn\|Daozhuo]], [[affiliation-wejaidmn\|Daozhuo]], [[affiliation-wojaidmn\|Daozhuo]], [[affiliation-zenjaidmn\|Daozhuo]]          | `kept`           | `dao` + `zhuo`  |
+| **Dark Hall**                     | [[place-hawu\|Dark Hall]]                                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **Dragon's Mountain**             | [[place-zojai\|Dragon's Mountain]]                                                                                                                                                                                                                                                                                                                | `translation`    | —               |
+| **Emperor**                       | [[affiliation-jenchaiempr\|Emperor]]                                                                                                                                                                                                                                                                                                              | `translation`    | —               |
+| **Fire Peak**                     | [[place-hojai\|Fire Peak]]                                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Hawū**                          | [[place-hawu\|Hawū]]                                                                                                                                                                                                                                                                                                                              | `jurthati`       | `ha` + `wū`     |
+| **Heir**                          | [[affiliation-hojujaidmn\|Heir]], [[affiliation-muwojaidmn\|Heir]], [[affiliation-rinjaidmn\|Heir]], [[affiliation-shuiwojaidmn\|Heir]], [[affiliation-tsuijaidmn\|Heir]], [[affiliation-wejaidmn\|Heir]], [[affiliation-wojaidmn\|Heir]], [[affiliation-zenjaidmn\|Heir]]                                                                        | `translation`    | —               |
+| **Hojai**                         | [[place-hojai\|Hojai]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `ho` + `-jai`   |
+| **Hojūjai Domain**                | [[affiliation-hojujaidmn\|Hojūjai Domain]]                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **House Hojūjai**                 | [[affiliation-hojujaidmn\|House Hojūjai]]                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **House Mūwōjai**                 | [[affiliation-muwojaidmn\|House Mūwōjai]]                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **House Rīnjai**                  | [[affiliation-rinjaidmn\|House Rīnjai]]                                                                                                                                                                                                                                                                                                           | `translation`    | —               |
+| **House Shuiwōjai**               | [[affiliation-shuiwojaidmn\|House Shuiwōjai]]                                                                                                                                                                                                                                                                                                     | `translation`    | —               |
+| **House Tsuijai**                 | [[affiliation-tsuijaidmn\|House Tsuijai]]                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **House Wējai**                   | [[affiliation-wejaidmn\|House Wējai]]                                                                                                                                                                                                                                                                                                             | `translation`    | —               |
+| **House Wōjai**                   | [[affiliation-wojaidmn\|House Wōjai]]                                                                                                                                                                                                                                                                                                             | `translation`    | —               |
+| **House Zenjai**                  | [[affiliation-zenjaidmn\|House Zenjai]]                                                                                                                                                                                                                                                                                                           | `translation`    | —               |
+| **Iron Hall**                     | [[place-tsuiwu\|Iron Hall]]                                                                                                                                                                                                                                                                                                                       | `translation`    | —               |
+| **Iron Peak**                     | [[place-tsuijai\|Iron Peak]]                                                                                                                                                                                                                                                                                                                      | `translation`    | —               |
+| **Jénchài**                       | [[lore-jenchaiclt\|Jénchài]]                                                                                                                                                                                                                                                                                                                      | `kept`           | `jén` + `chài`  |
+| **Jénchài Archipelago**           | [[place-jenchairgn\|Jénchài Archipelago]]                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **Jénchài Empire**                | [[affiliation-jenchaiempr\|Jénchài Empire]]                                                                                                                                                                                                                                                                                                       | `translation`    | —               |
+| **Jénchài Region**                | [[place-jenchairgn\|Jénchài Region]]                                                                                                                                                                                                                                                                                                              | `translation`    | —               |
+| **Jürthāti Language**             | [[skill-jurthatlng\|Jürthāti Language]]                                                                                                                                                                                                                                                                                                           | `translation`    | —               |
+| **Jürthāti Lexicon**              | [[doc-jurthatilexcn\|Jürthāti Lexicon]]                                                                                                                                                                                                                                                                                                           | `translation`    | —               |
+| **Jürthāti Word List**            | [[doc-jurthatilexcn\|Jürthāti Word List]]                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **Keeper of the Armory**          | [[affiliation-tsuijaidmn\|Keeper of the Armory]]                                                                                                                                                                                                                                                                                                  | `translation`    | —               |
+| **Keeper of the Court Treasury**  | [[affiliation-muwojaidmn\|Keeper of the Court Treasury]]                                                                                                                                                                                                                                                                                          | `translation`    | —               |
+| **Keeper of the Harbors**         | [[affiliation-wojaidmn\|Keeper of the Harbors]]                                                                                                                                                                                                                                                                                                   | `translation`    | —               |
+| **Keeper of the Sacred Texts**    | [[affiliation-jenchaiempr\|Keeper of the Sacred Texts]]                                                                                                                                                                                                                                                                                           | `translation`    | —               |
+| **Keeper of the Salt Records**    | [[affiliation-shuiwojaidmn\|Keeper of the Salt Records]]                                                                                                                                                                                                                                                                                          | `translation`    | —               |
+| **Keeper of the Stables**         | [[affiliation-zenjaidmn\|Keeper of the Stables]]                                                                                                                                                                                                                                                                                                  | `translation`    | —               |
+| **Kingdom of Mountains and Seas** | [[affiliation-jenchaiempr\|Kingdom of Mountains and Seas]]                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Kowū**                          | [[place-kowu\|Kowū]]                                                                                                                                                                                                                                                                                                                              | `jurthati`       | `ko` + `wū`     |
+| **Léngwou**                       | [[place-lengwou\|Léngwou]]                                                                                                                                                                                                                                                                                                                        | `kept`           | `léng` + `wou`  |
+| **Lord's Peak**                   | [[place-zojai\|Lord's Peak]]                                                                                                                                                                                                                                                                                                                      | `translation`    | —               |
+| **Moon Hall**                     | [[place-yuwu\|Moon Hall]]                                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **Moon Peak**                     | [[place-yujai\|Moon Peak]]                                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Mūwōjai Domain**                | [[affiliation-muwojaidmn\|Mūwōjai Domain]]                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Nine Mountains**                | [[affiliation-jenchaiempr\|Nine Mountains]]                                                                                                                                                                                                                                                                                                       | `translation`    | —               |
+| **Nouwén**                        | [[affiliation-jenchaiempr\|Nouwén]]                                                                                                                                                                                                                                                                                                               | `kept`           | `nou` + `wén`   |
+| **Old Hall**                      | [[place-kowu\|Old Hall]]                                                                                                                                                                                                                                                                                                                          | `translation`    | —               |
+| **Omen-Reader**                   | [[affiliation-jenchaiempr\|Omen-Reader]]                                                                                                                                                                                                                                                                                                          | `translation`    | —               |
+| **Red Hall**                      | [[place-rinwu\|Red Hall]]                                                                                                                                                                                                                                                                                                                         | `translation`    | —               |
+| **Red Peak**                      | [[place-rinjai\|Red Peak]]                                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Retainer**                      | [[affiliation-hojujaidmn\|Retainer]], [[affiliation-muwojaidmn\|Retainer]], [[affiliation-rinjaidmn\|Retainer]], [[affiliation-shuiwojaidmn\|Retainer]], [[affiliation-tsuijaidmn\|Retainer]], [[affiliation-wejaidmn\|Retainer]], [[affiliation-wojaidmn\|Retainer]], [[affiliation-zenjaidmn\|Retainer]]                                        | `translation`    | —               |
+| **Rīnjai**                        | [[place-rinjai\|Rīnjai]]                                                                                                                                                                                                                                                                                                                          | `jurthati`       | `rīn` + `-jai`  |
+| **Rīnjai Domain**                 | [[affiliation-rinjaidmn\|Rīnjai Domain]]                                                                                                                                                                                                                                                                                                          | `translation`    | —               |
+| **Rīnwū**                         | [[place-rinwu\|Rīnwū]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `rīn` + `wū`    |
+| **Rōjai**                         | [[place-rojai\|Rōjai]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `rō` + `-jai`   |
+| **Shuiwōjai Domain**              | [[affiliation-shuiwojaidmn\|Shuiwōjai Domain]]                                                                                                                                                                                                                                                                                                    | `translation`    | —               |
+| **Shuìzhuo**                      | [[affiliation-hojujaidmn\|Shuìzhuo]], [[affiliation-jenchaiempr\|Shuìzhuo]], [[affiliation-muwojaidmn\|Shuìzhuo]], [[affiliation-rinjaidmn\|Shuìzhuo]], [[affiliation-shuiwojaidmn\|Shuìzhuo]], [[affiliation-tsuijaidmn\|Shuìzhuo]], [[affiliation-wejaidmn\|Shuìzhuo]], [[affiliation-wojaidmn\|Shuìzhuo]], [[affiliation-zenjaidmn\|Shuìzhuo]] | `kept`           | `shuì` + `zhuo` |
+| **Shuonong**                      | [[affiliation-jenchaiempr\|Shuonong]]                                                                                                                                                                                                                                                                                                             | `kept`           | `shuo` + `nong` |
+| **Snow Peak**                     | [[place-zenjai\|Snow Peak]]                                                                                                                                                                                                                                                                                                                       | `translation`    | —               |
+| **Star Peak**                     | [[place-zijai\|Star Peak]]                                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Subject**                       | [[affiliation-hojujaidmn\|Subject]], [[affiliation-muwojaidmn\|Subject]], [[affiliation-rinjaidmn\|Subject]], [[affiliation-shuiwojaidmn\|Subject]], [[affiliation-tsuijaidmn\|Subject]], [[affiliation-wejaidmn\|Subject]], [[affiliation-wojaidmn\|Subject]], [[affiliation-zenjaidmn\|Subject]]                                                | `translation`    | —               |
+| **Tānchéi**                       | [[affiliation-jenchaiempr\|Tānchéi]]                                                                                                                                                                                                                                                                                                              | `kept`           | `tān` + `chéi`  |
+| **Téng Ja**                       | [[affiliation-jenchaiempr\|Téng Ja]]                                                                                                                                                                                                                                                                                                              | `kept`           | `téng` + `ja`   |
+| **The Breaking Away**             | [[lore-jenchaiscs\|The Breaking Away]]                                                                                                                                                                                                                                                                                                            | `translation`    | —               |
+| **The Dawn Court**                | [[place-lengwou\|The Dawn Court]]                                                                                                                                                                                                                                                                                                                 | `translation`    | —               |
+| **The Secession of Jénchài**      | [[lore-jenchaiscs\|The Secession of Jénchài]]                                                                                                                                                                                                                                                                                                     | `translation`    | —               |
+| **Thunder Peak**                  | [[place-rojai\|Thunder Peak]]                                                                                                                                                                                                                                                                                                                     | `translation`    | —               |
+| **Tsàihuo**                       | [[affiliation-jenchaiempr\|Tsàihuo]]                                                                                                                                                                                                                                                                                                              | `kept`           | —               |
+| **Tsuijai**                       | [[place-tsuijai\|Tsuijai]]                                                                                                                                                                                                                                                                                                                        | `jurthati`       | `tsui` + `-jai` |
+| **Tsuijai Domain**                | [[affiliation-tsuijaidmn\|Tsuijai Domain]]                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Tsuiwū**                        | [[place-tsuiwu\|Tsuiwū]]                                                                                                                                                                                                                                                                                                                          | `jurthati`       | `tsui` + `wū`   |
+| **Wējai**                         | [[place-wejai\|Wējai]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `wē` + `-jai`   |
+| **Wējai Domain**                  | [[affiliation-wejaidmn\|Wējai Domain]]                                                                                                                                                                                                                                                                                                            | `translation`    | —               |
+| **White Hall**                    | [[place-buiwu\|White Hall]]                                                                                                                                                                                                                                                                                                                       | `translation`    | —               |
+| **Wind Peak**                     | [[place-wejai\|Wind Peak]]                                                                                                                                                                                                                                                                                                                        | `translation`    | —               |
+| **Wòhou**                         | [[affiliation-jenchaiempr\|Wòhou]]                                                                                                                                                                                                                                                                                                                | `kept`           | `wò` + `hou`    |
+| **Wōjai Domain**                  | [[affiliation-wojaidmn\|Wōjai Domain]]                                                                                                                                                                                                                                                                                                            | `translation`    | —               |
+| **Yanwū**                         | [[place-yanwu\|Yanwū]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `yan` + `wū`    |
+| **Yūjai**                         | [[place-yujai\|Yūjai]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `yū` + `-jai`   |
+| **Yūwū**                          | [[place-yuwu\|Yūwū]]                                                                                                                                                                                                                                                                                                                              | `jurthati`       | `yū` + `wū`     |
+| **Zenjai**                        | [[place-zenjai\|Zenjai]]                                                                                                                                                                                                                                                                                                                          | `jurthati`       | `zen` + `-jai`  |
+| **Zenjai Domain**                 | [[affiliation-zenjaidmn\|Zenjai Domain]]                                                                                                                                                                                                                                                                                                          | `translation`    | —               |
+| **Zhazhò**                        | [[affiliation-jenchaiempr\|Zhazhò]]                                                                                                                                                                                                                                                                                                               | `kept`           | `zha` + `zhò`   |
+| **Zījai**                         | [[place-zijai\|Zījai]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `zī` + `-jai`   |
+| **Zojai**                         | [[place-zojai\|Zojai]]                                                                                                                                                                                                                                                                                                                            | `jurthati`       | `zo` + `-jai`   |
+| **Zūwū**                          | [[place-zuwu\|Zūwū]]                                                                                                                                                                                                                                                                                                                              | `jurthati`       | `zū` + `wū`     |

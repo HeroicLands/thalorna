@@ -119,7 +119,7 @@ A case is tried by the royal courts in the cities and shires and by the grove-el
 
 The Aurèldían faith teaches that the soul passes through the spirit realm and that the Silent Judge Sélmoros keeps the gate. The Élavendri add what the land adds. The dead are part of the house, and the house is the whole descending line, living and not. The veil between the worlds is thin in Élavendre, and the dead lie in a country where it can be crossed. The Áelendan send a Death-Speaker to the owl-spirit of the Owl Hollow to ask whether the recently dead have gone.
 
-That belief makes an ordinary Tuesday. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvorosalvë_, and sings the lament at the cairn, _nélthava_. A debt of honor, _óurenon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
+That belief makes an ordinary day. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvorosalvë_, and sings the lament at the cairn, _nélthava_. A debt of honor, _óurenon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
 
 ## Reaching the Dead
 
@@ -153,7 +153,7 @@ Shelter is the house, then the manor, then the temple and the grove. Teaching is
 
 The house is the unit, and its line is wider than the household. A child is born into a house and given its names, uses a sun name in public and acquires a shadow name among intimates. A young person learns the house's art and may be sent to a College or fostered into another house. An adult serves the land and the art, marries for the house's sake and sits in the order of the seats. An elder holds the memory and the claim. The dying are attended by the temple, the grove and the bard, and the dead are planted, sung and counted into the line.
 
-Membership is by blood proved before the Colleges, by marriage, by fosterage and by the guest's seat. A house is the line and not the roof, and an Élavendri can be of a house he has never lived in. The nuclear family is a small thing inside a large one.
+Membership is by blood proved before the Colleges, by marriage, by fosterage and by the guest's seat. A house is the line and not the roof, so an Élavendri can belong to a house he has never lived in. The nuclear family is a small thing inside a large one.
 
 ## What the House Does Not Say
 

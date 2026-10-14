@@ -122,7 +122,7 @@ The living reach the dead through the temple the house patronizes and the rite i
 
 ## What a Person Owes
 
-Ask a Tarûzelian what a person owes, and he answers: the house first—his family and his firm in one breath, because they are one thing—then his partners, then his crew, then the city whose harbor he uses.
+A Tarûzelian owes the house first—his family and his firm in one breath, because they are one thing—then his partners, then his crew, then the city whose harbor he uses.
 
 He owes his creditors payment and his debtors patience, and by the coast's reckoning the second is the harder discipline and the more profitable one. He does not put the Confederation high on the list: it is twelve years old, it is run by people he can name, and a Tarûzelian reserves loyalty for institutions that have outlasted him.
 

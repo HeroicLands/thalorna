@@ -22,7 +22,7 @@ Sit one evening at a northern fire and three things come up before the ale is go
 
 The **Nordheimn**, or Nordmen, are the people of the [[place-nrdlndsrgn|Nordlands]], a homeland of thin fields and long winters. They live along the coast and the inland rivers. The vast mountain interior holds few residents or travelers, and the stories of [[lore-flkkhazar|Khazári]] holds hidden there are rumors, not neighbors a household can call on.
 
-Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Mídhalión]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. Ask a Nordman why, and he gives the arithmetic of a land that cannot feed its people; that is how the north justifies taking another people's food and freedom.
+Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Mídhalión]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. A Nordman's reason is the arithmetic of a land that cannot feed its people; that is how the north justifies taking another people's food and freedom.
 
 ## The Oath and the Shame
 
@@ -104,7 +104,7 @@ The five kingdoms hold their own assemblies. Every seventh year their kings and 
 
 At [[lore-sumarmal|Sumarmál]] a frontier bóndi walks the boundary stones with the neighboring householder and a witness for the _landvördr_. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a stone-mover whose kin refuse that duty comes back after death carrying the stone, still asking where to set it. A child who hears the tale does not forget where a boundary runs, though the ting still settles title on the word of living witnesses.
 
-The howe-wake seeks a different kind of answer. At [[lore-vetrnaetr|Vetrnaetr]] or on the ninth night of [[lore-jol|Jól]], a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A völva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. What the dead tell one seeker in the dark is no skald's witnessed record, and anyone who acts on it must find living evidence first. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace from the seeker; the dead give no one the right to pronounce that sentence.
+The howe-wake seeks a different kind of answer. At [[lore-vetrnaetr|Vetrnaetr]] or on the ninth night of [[lore-jol|Jól]], a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A völva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. What the dead tell one seeker in the dark is no skald's witnessed record; whoever acts on it must find living evidence first. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace from the seeker; the dead give no one the right to pronounce that sentence.
 
 ## Bonds and Claims at the Hall
 

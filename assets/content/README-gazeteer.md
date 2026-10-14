@@ -820,6 +820,8 @@ TBD.
 - **Settlement:** Show arrival, street or village life, livelihoods, authority, services, local tensions, and connections to its hinterland. Interpret yields, market size, and population through what people produce and need.
 - **Site, structure, and feature:** Give a clear location and physical description, purpose or origin, present use, access, and relevant dangers or beliefs. A local custodian or traveler may supply a revealing account.
 
+**A place note is about appearance; its secrets carry the truth.** Players read the setting's places, so a place's open text is what anyone there can see—the tangible facts apparent to a visitor or a passer-by—and what the locals say of it: their tellings, rumors, local names and explanations, whether true or false. A telling is reported as said ("the pass guides say…") and the note never suggests whether it holds. The place exists before and after any particular person is there, so the open text does not depend on one adventure's cast. The truth goes in secret sections: what is really there, which tellings are false leads or half-truths and why, the dangers, the hidden passages and mechanisms, and the hidden meaning of what the open text describes. Put the main body of it in a top-level `.secret` section, which in Foundry is a page the GM alone sees, and a single truth in a titled `:::secret` block beside the appearance it explains. An alert inside a secret can tell the GM how to present the hidden fact. On the website a secret is a spoiler, not a lock; anything that must never be published belongs in a YAML comment.
+
 `data.government` names the governing affiliation by shortcode. A place with a
 positive population must specify it; an explicit `null` means complete anarchy.
 When population is missing or zero, government is optional. Omit the field when
@@ -926,6 +928,8 @@ TBD.
 ### scenario
 
 **Voice:** Actionable GM guidance. Present the situation, stakes, participating people and groups, locations, clues, likely developments, and choices open to players. Begin with a playable moment or problem, then separate the public premise from GM knowledge. Keep the scenario connected to the setting's existing conflicts; atmosphere should help a GM run the scene rather than hide its structure.
+
+**A scenario is wholly GM material.** Players never read an adventure, so it carries no secret sections or blocks; its truth is stated plainly. Its markup speaks to the GM and to the table. Sprinkle alerts liberally: `[!TIP]` for presenting a scene or a person, pacing, landing a reveal and rewarding a party that guesses early; `[!WARNING]` where the GM could give something away too soon or a choice closes a route; `[!IMPORTANT]` for the one thing a scene must establish; `[!NOTE]` for cross-references. A plain blockquote, with no alert marker, is text to read or paraphrase to the players.
 
 ### doc
 

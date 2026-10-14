@@ -114,9 +114,9 @@ An Ösket lineage is a hearth, its herds, its high pasture and one road, and not
 
 Inside the lineage the guide-mother holds the knowledge of the road and says whether it is open, the road-holder answers for every party, and the cord-keeper, the snow-watcher, the hearth-warden and the fee-reckoner hold the rest. Cases are heard by the lineages concerned at the col, records are the cord-keeper's and are read by nobody outside the blood, and the fee is the fee-reckoner's to set and collect. On Sūryadvāra, where the kingdom of [[affiliation-vindhyalay|Shikharālaya]] holds the throat and its clan-wardens hold the warden-right by inheritance, the answer divides: the warden names the fee, the lineage names the season, and the party pays one and waits for the other. A warden who overrules a lineage on a question of weather does it exactly once. Above the last Pass-Shrine the Vedyari order does not reach. The Ösket are not Outcastes, which is a place within the order. The order does not address them at all.
 
-## What the Cord Asks of a Tuesday
+## What the Cord Asks of an Ordinary Day
 
-The Ösket do not say where the dead go. They say where the dead stopped. The cord carries the road, the stage, the load, the day and the dead, and the guide-mother holds the count of the dead and where each of them stopped. The belief that settles a Tuesday is that a road is made of those who stopped on it.
+The Ösket do not say where the dead go. They say where the dead stopped. The cord carries the road, the stage, the load, the day and the dead, and the guide-mother holds the count of the dead and where each of them stopped. The belief that settles an ordinary day is that a road is made of those who stopped on it.
 
 So a stage is not a campsite. A guide-mother who sends a party to a shelf where the cord counts the dead knows what she is sending them past, and a daughter learns the count with the weather-signs and the years a shelf has moved. The names of the dead are kept on the cistern wall of a Pass-Shrine as well, where the ushtakas count them by name. A cord-keeper is taught the dead as part of the road, and a cord whose keeper dies untimely is lost with its dead. A lineage that loses the reading of a cord walks the road again before it takes a party over it, and does not hurry the walking.
 

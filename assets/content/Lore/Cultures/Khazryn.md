@@ -233,7 +233,7 @@ The penalties climb the other way. A reciter who departs from the words of the R
 
 ## What a Person Owes
 
-Ask a Tellumi what a person owes, and the answer comes in order: the household first, then the house his household stood to, then the Dēlkoshekh who keeps the community's law, then the shrine at the water. The magistrate is owed his tax and nothing else—not loyalty, not truth beyond what the ledger shows, and certainly not the location of anything that matters.
+A Tellumi owes in order: the household first, then the house his household stood to, then the Dēlkoshekh who keeps the community's law, then the shrine at the water. The magistrate is owed his tax and nothing else—not loyalty, not truth beyond what the ledger shows, and certainly not the location of anything that matters.
 
 Above all of it he owes the record. A Tellumi who lets a genealogy lapse, or lets a child grow up unable to name the city his family came out of, has done the one thing the Breaking could not do by force.
 

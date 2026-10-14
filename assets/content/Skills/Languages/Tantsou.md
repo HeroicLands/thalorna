@@ -274,17 +274,17 @@ Every word below is built from the roots in [[doc-tantsoulexcn|the lexicon]].
 
 ### Political Titles
 
-| Tāntsou           | Literal Meaning            | Usage                     |
-| ----------------- | -------------------------- | ------------------------- |
-| Téngzhéi          | Heaven-Child               | Emperor                   |
-| Rongléng Téngzhéi | Myriad-Bright Heaven-Child | Emperor of Jénchài        |
-| Wòzhuo            | Warrior-Lord               | Warlord                   |
-| Daozhuo           | Great-Lord                 | Greater Warlord (Jénchài) |
-| Shuìzhuo          | Lesser-Lord                | Lesser Warlord (Jénchài)  |
-| Téng Gui          | Heaven-Official            | Celestial Minister        |
-| Guichài           | Office-Mountain            | Provincial Governor       |
-| Zhaokuò           | Clan-Ancient               | Clan Elder                |
-| Zhaolòu           | Clan-Law                   | Caste Laws                |
+| Tāntsou           | Literal Meaning            | Usage                 |
+| ----------------- | -------------------------- | --------------------- |
+| Téngzhéi          | Heaven-Child               | Emperor               |
+| Rongléng Téngzhéi | Myriad-Bright Heaven-Child | Emperor of Jénchài    |
+| Wòzhuo            | Warrior-Lord               | Warlord               |
+| Daozhuo           | Great-Lord                 | Great Lord (Jénchài)  |
+| Shuìzhuo          | Lesser-Lord                | Lesser Lord (Jénchài) |
+| Téng Gui          | Heaven-Official            | Celestial Minister    |
+| Guichài           | Office-Mountain            | Provincial Governor   |
+| Zhaokuò           | Clan-Ancient               | Clan Elder            |
+| Zhaolòu           | Clan-Law                   | Caste Laws            |
 
 ### The Eight Castes
 

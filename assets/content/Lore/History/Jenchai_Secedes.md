@@ -7,6 +7,7 @@ description: "Over a thousand years ago the island province of Jénchài broke a
 tags: [history, spine]
 data:
   packFolder: settinglore
+  culture: jenchaiclt
   events:
     - when: ~-280
       kind: secession
@@ -40,8 +41,8 @@ data:
       unresolved: []
 ---
 
-[[affiliation-jenchaiempr|Jénchài]] is a mountainous island kingdom to the south-east of
-[[affiliation-tantsouempr|Tāntsou]], separated from the mainland by a treacherous strait. It was once a
+[[affiliation-jenchaiempr|Jénchài]] is a mountainous island kingdom east of
+[[affiliation-tantsouempr|Tāntsou]], off its south-eastern coast, separated from the mainland by a treacherous strait. It was once a
 province. It broke away in a bloody war of secession and has since developed a fiercely independent
 culture.
 

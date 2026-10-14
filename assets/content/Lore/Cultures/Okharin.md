@@ -105,7 +105,7 @@ The question where civil authority ends and religious authority begins has three
 
 A third authority stands outside both: the shamans of the Yénor Zohiring hold no temple rank. A High Pyremant outranks every priest in Okháris and does not outrank a shaman, because they are not on the same ladder, and there is no procedure for what happens when the two disagree in a frontier village, and there never has been. Records belong to the temple scribes, who keep the registers of tribute owed, labor due and land held; the Tribute-Warden collects the tribes' dues with an escort and a scribe; the Granary-Keeper holds the stores the cities live on between harvests. Cases are heard by the elders and the clan's own custom, with the courts of the temple-cities for those entitled to them. When the questions conflict the parties go to the moot, and the temple and the tribe both treat what the moot decides as a matter of precedence and resources and never of whether the other is true.
 
-## What the Flame and the Bones Ask of a Tuesday
+## What the Flame and the Bones Ask of an Ordinary Day
 
 The Okhárins hold two accounts of the dead and see no contradiction. The Spirit Flame of Zarhánis governs the passage of the soul, and the temple has a full doctrine of where a soul goes and what carries it. The Oracle of Bones, the zohira of death, writes in the body what it discloses, and Bone-Readers attend the dead and read it. A widow may have both rites performed over the same husband a week apart, by people who would give incompatible accounts of where he now is, and she does not think she has a problem: he is where the Flame takes him and also what the bones say.
 
@@ -119,7 +119,7 @@ The cost is the offering and the rite. The temple and the shaman make incompatib
 
 ## What a Person Owes
 
-Ask an Okhárin what a man owes, and he answers in order: the herd first, because without it nobody owes anybody anything; then the lineage, then the clan, then the festival that must be attended, then the city that keeps the flame.
+An Okhárin owes in order: the herd first, because without it nobody owes anybody anything; then the lineage, then the clan, then the festival that must be attended, then the city that keeps the flame.
 
 He does not put the king high on that list and will not pretend otherwise. What he will say is that the flame is owed a great deal, and that the king's business is keeping it lit.
 
