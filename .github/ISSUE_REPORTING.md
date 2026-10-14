@@ -11,7 +11,7 @@ The core discipline is simple — four axes, each answering a different question
 
 - **Type** — _"what shape of work is this?"_ One per issue, from a closed set of five.
 - **Priority** — _"how soon and how badly does this need doing?"_ A GitHub issue field, one value, defaults to Medium.
-- **Labels** — _"what is this about?"_ Categorization only, chosen **only** from the registry below. Never invent a label.
+- **Labels** — _"what is this about?"_ Categorization only, chosen **only** from the organisation's label set (§3). Never invent a label.
 - **Milestone** — _"which capability gate does this advance?"_ A native GitHub milestone (no due date), at most one, selected from a curated set (see §4).
 
 Type, priority, and milestone are structured single values (one each). Labels
@@ -42,7 +42,7 @@ project. They are not redefined here.
 - A **bug** is _broken_; a **feature** is _missing_. That distinction resolves most ambiguity — decide which word fits before anything else.
 - An **epic** MUST link its sub-issues (native GitHub sub-issues; see §6) and SHOULD carry little implementation detail of its own. Its acceptance is "all sub-issues closed and the whole verified together."
 - A **spike** MUST state (a) the question it answers and (b) its timebox. It closes when the question is answered, and it typically _spawns_ follow-up feature/task/bug issues rather than doing the work itself.
-- A **refactor** that changes no external behavior is a **task**, tagged `tech-debt` — it is not a feature and not a bug.
+- A **refactor** that changes no external behavior is a **task**, tagged `flag/tech-debt` — it is not a feature and not a bug.
 
 **What "broken" means for content.** This repository ships prose and data, not
 running code, so a bug is usually a wrong or unrenderable _fact_: a dead wikilink,
@@ -72,53 +72,41 @@ priority answers "when I next sit down, what deserves my time?" not "what is due
 
 - **MUST** set a priority on every issue.
 - **Default to Medium.** Anything higher MUST be justified in the body (one line: why the impact warrants it). Do not inflate — not everything is High.
-- Priority is independent of type, labels, **and** milestone. A `security`-labelled issue is **not** automatically Urgent: hardening with no known exploit can be Low; an exploit in the wild is Urgent. Judge impact, not the topic.
+- Priority is independent of type, labels, **and** milestone. A `flag/security`-labelled issue is **not** automatically Urgent: hardening with no known exploit can be Low; an exploit in the wild is Urgent. Judge impact, not the topic.
 - An **epic**'s priority reflects the initiative's importance, not the max of its children.
 
-## 3. Labels — the closed registry
+## 3. Labels
 
-Labels are for **categorization only**. The table below is the **complete,
-authoritative set for this repository**. Its machine-readable twin is
-`.github/labels.yml`, which the `labels-sync` workflow reconciles onto GitHub (the
-set is _closed_ — a label not in the registry is deleted on sync). A pull request
-touching the registry reports what a sync would change without writing it, so a
-deletion is seen in review rather than after the fact.
+Labels are defined once for the whole organisation, in `labels.yml` of the
+`HeroicLands/.github` repository. This repository keeps no registry of its own,
+and does not create labels; a label that does not exist there is not applied.
+If none fits, note the gap in the issue body for a maintainer to decide.
 
-> **MUST NOT invent, rename, or improvise labels.** If no existing label fits, add
-> none and (if it matters) note the gap in the issue body for a maintainer to decide.
-> Extending this registry is a deliberate decision made by editing **both** this
-> table and `.github/labels.yml`, not something done at filing time.
+| Group         | Labels                                                                                                                       |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `type/`       | `type/bug`, `type/feature`, `type/epic`, `type/task`, `type/spike` — exactly one per issue                                   |
+| `area/`       | `area/documentation`, `area/devops`, `area/tests`, `area/content`, `area/system`, `area/site`, `area/layout`, `area/styling` |
+| `flag/`       | `flag/breaking-change`, `flag/security`, `flag/regression`, `flag/tech-debt`                                                 |
+| `status/`     | `status/blocked`, `status/question`                                                                                          |
+| `resolution/` | `resolution/duplicate`, `resolution/wontfix`                                                                                 |
+| `ci/`         | `ci/e2e`                                                                                                                     |
 
-**This registry is narrower than the system repository's, on purpose.** Each
-repository's registry describes only what that repository can hold. `system`,
-`tests`, and `thalorna` are absent here: this repository ships no system code and
-no test suite, and every issue in it is Thalorna by definition, so a `thalorna`
-label would carry no information.
+**When to use them here**
 
-| Label             | Scope                                                                                                                         |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| `content`         | Setting material — notes, compendium packs, actors, items, journals, scenes, artwork.                                         |
-| `documentation`   | Documentation about this repository — README, CLAUDE.md, process, authoring guides.                                           |
-| `site`            | The `/thalorna` site — Hugo build, layouts, content rendering, deployment.                                                    |
-| `devops`          | Build, tooling, pack pipeline, release, repo config.                                                                          |
-| `security`        | Touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7). |
-| `tech-debt`       | Restructuring or cleanup of working content or tooling; refactors.                                                            |
-| `regression`      | Something that previously worked and stopped. Pairs with type `bug`.                                                          |
-| `breaking-change` | Alters a published address, shortcode, link manifest entry, or pack compatibility.                                            |
-| `blocked`         | Cannot proceed until an external dependency or another issue clears.                                                          |
-| `duplicate`       | This issue or pull request already exists.                                                                                    |
-| `question`        | Further information is requested.                                                                                             |
-| `wontfix`         | This will not be worked on.                                                                                                   |
-
-> **No capability-gate labels.** Progress toward a capability is tracked by
-> **milestones** (§4), not labels. Do not add `bestiary`-style or `v1.0`-style labels
-> to mark what a milestone already carries.
+- `area/content` — setting material: notes, compendium packs, actors, items, journals, scenes, artwork.
+- `area/site` — the `/thalorna` site: Hugo build, layouts, content rendering, deployment.
+- `area/devops` — build, tooling, pack pipeline, release, repository configuration.
+- `area/documentation` — README, process and authoring guides.
+- `flag/breaking-change` — alters a published address, shortcode, link manifest entry, or pack compatibility.
+- `flag/security` — touches an attack surface: data integrity, macro/script execution, injection, or anything warranting private disclosure (§7).
+- `flag/regression` — something that previously worked and stopped; pairs with `type/bug`.
+- `area/system` and `area/tests` do not apply: this repository ships no system code and no test suite.
 
 **Label rules**
 
-- Choose labels **only** from this file. No exceptions.
-- Labels are additive and orthogonal — `content` + `site` + `regression` on one bug is fine.
+- Labels are additive and orthogonal — `area/content` + `area/site` + `flag/regression` on one bug is fine.
 - Do not use a label to express something a type, the priority field, or a milestone already expresses.
+- Progress toward a capability is tracked by **milestones** (§4), not labels.
 
 ## 4. Milestones — capability gates
 
@@ -148,7 +136,7 @@ the earlier one or is scoped too large.
 | Done when | all its sub-issues are closed              | all issues tagged to it are closed           |
 | Shape     | vertical: one initiative, decomposed       | horizontal: a slice across the whole package |
 
-**The milestone set is curated, like the label registry** — select from existing
+**The milestone set is curated, like the label set** — select from existing
 gates and never invent one.
 
 - You MAY assign an issue to a milestone when its work **unambiguously advances exactly one existing gate**.
@@ -172,7 +160,7 @@ capability**, so the milestone progress bar is the only schedule the project kee
 
 Walk this in order; take the first match.
 
-1. Is something **broken** relative to intended behavior? → **bug** (add `regression` if it used to work).
+1. Is something **broken** relative to intended behavior? → **bug** (add `flag/regression` if it used to work).
 2. Is the outcome **genuinely uncertain** and the deliverable a **decision/answer**? → **spike** (state question + timebox).
 3. Is this too large to ship as one issue, needing **multiple sub-issues** to coordinate? → **epic**.
 4. Is it a **new capability or enhancement** that doesn't exist yet? → **feature**.
@@ -283,7 +271,7 @@ Note that follow-up feature/task/bug issues will be filed from the outcome.
 
 ## 7. Security issues — special handling
 
-If an issue would be labelled `security` **and** describes an exploitable weakness
+If an issue would be labelled `flag/security` **and** describes an exploitable weakness
 (not merely hardening), **do not open a public issue**. Use GitHub's private
 security advisories / vulnerability reporting instead — the "Report a
 vulnerability" button on this repository's Security tab, also linked from the issue
@@ -296,31 +284,31 @@ doubt, disclose privately and let a maintainer decide whether to make it public.
 **Bug, High, regression**
 
 > **Title:** Fix Thalorna region pages 404ing after the site prefix move
-> **Type:** bug · **Priority:** High · **Labels:** `site`, `regression` · **Milestone:** _(unset)_
+> **Type:** bug · **Priority:** High · **Labels:** `area/site`, `flag/regression` · **Milestone:** _(unset)_
 > Body: published URLs that resolved before now 404; no workaround for a reader → High.
 
 **Feature, Medium**
 
 > **Title:** Add the Hegóvyn Vale bestiary entries
-> **Type:** feature · **Priority:** Medium · **Labels:** `content` · **Milestone:** _(unset)_
+> **Type:** feature · **Priority:** Medium · **Labels:** `area/content` · **Milestone:** _(unset)_
 > Body: material that does not exist yet, shippable as one unit → Medium.
 
 **Epic, Medium**
 
 > **Title:** Publish the regional gazetteer
-> **Type:** epic · **Priority:** Medium · **Labels:** `content`, `site`
+> **Type:** epic · **Priority:** Medium · **Labels:** `area/content`, `area/site`
 > Body: coordinates a tree of sub-issues (per-region notes, map packaging, index page), each filed separately and linked.
 
 **Task, Low**
 
 > **Title:** Bump @heroiclands/package-build to the current release
-> **Type:** task · **Priority:** Low · **Labels:** `devops` · **Milestone:** _(unset)_
+> **Type:** task · **Priority:** Low · **Labels:** `area/devops` · **Milestone:** _(unset)_
 > Body: routine maintenance, deferrable → Low.
 
 **Spike, Medium**
 
 > **Title:** Decide whether Thalorna scenes should ship pre-lit
-> **Type:** spike · **Priority:** Medium · **Labels:** `content`
+> **Type:** spike · **Priority:** Medium · **Labels:** `area/content`
 > Body: **Question** — is pre-lit worth the pack size? **Timebox** — 4 hours. **Deliverable** — written recommendation. Follow-up issues filed from the finding.
 
 ## 9. Which repository does an issue belong in?
@@ -359,10 +347,6 @@ references work fine (`HeroicLands/<repo>#123`); what does **not** work is closi
 > A cross-repository issue is **closed by hand**, with a comment linking the delivering
 > commit or pull request. Never assume the keyword did it; check.
 
-**Historical note.** Until 2026-08-20 this repository's work was tracked in
-`Song-of-Heroic-Lands-FoundryVTT` under a `thalorna` label. That label is retired
-there; open issues carrying it were transferred here.
-
 ## Self-check before filing
 
 You should confirm all of these before submitting an issue:
@@ -370,9 +354,9 @@ You should confirm all of these before submitting an issue:
 - [ ] This is the right repository (§9) — the work will be delivered here.
 - [ ] Exactly **one type** assigned, chosen via the §5 procedure.
 - [ ] A **priority** is set. If above Medium, the body justifies it in one line.
-- [ ] Every label comes from the §3 registry. **Zero** invented labels.
+- [ ] Every label comes from the organisation set in §3. **Zero** invented labels.
 - [ ] No label duplicates what the type, priority field, or milestone already says.
 - [ ] **Milestone** set only when the issue clearly advances one existing capability gate (§4); otherwise unset. **Never** invented.
 - [ ] Title is imperative and specific; body follows the §6 shape for its type. Title should not encode labels or other field information.
-- [ ] If `security` + exploitable → routed to **private advisory**, not a public issue (§7).
+- [ ] If `flag/security` + exploitable → routed to **private advisory**, not a public issue (§7).
 - [ ] If **epic** → sub-issues are linked. If **spike** → question and timebox are present.
