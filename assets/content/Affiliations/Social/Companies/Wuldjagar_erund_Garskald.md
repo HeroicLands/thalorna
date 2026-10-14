@@ -20,7 +20,7 @@ data:
       A clan's sworn hunting company under a Wulfár who answers to the chief, bound by tradition rather than by contract.
     ranks:
       - level: 0
-        title: Cast Out
+        title: Wulfrith
         description: >-
           A hunter dismissed by the Wulfár from the clan's company, denied its hunts and its share of the kill.
       - level: 1

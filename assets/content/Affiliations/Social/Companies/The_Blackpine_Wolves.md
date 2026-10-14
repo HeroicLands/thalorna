@@ -18,7 +18,7 @@ data:
       A gang bound by nothing but fear of Dágulf, who holds command only as long as no one dares to challenge him.
     ranks:
       - level: 0
-        title: Cast from the Pack
+        title: Wulfrith
         description: >-
           A wolf Dágulf has driven out, without a share of the gang's take and open to its fear.
       - level: 1
