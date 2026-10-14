@@ -210,132 +210,190 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 
 ### Names
 
-| Name                            | Notes                                                              | Tongue        | Built from                |
-| ------------------------------- | ------------------------------------------------------------------ | ------------- | ------------------------- |
-| **Avoluthei**                   | [[place-avoluthei\|Avoluthei]]                                     | `kalihari`    | —                         |
-| **Avothani**                    | [[place-klhrsthstr\|Avothani]]                                     | `kalihari`    | —                         |
-| **Bearer of the Crisis**        | [[affiliation-tharivaan\|Bearer of the Crisis]]                    | `translation` | —                         |
-| **Bondservant**                 | [[affiliation-kalihara\|Bondservant]]                              | `translation` | —                         |
-| **Canopy Glider**               | [[being-cnpyglr\|Canopy Glider]]                                   | `translation` | —                         |
-| **Cloud Goat**                  | [[being-cldgt\|Cloud Goat]]                                        | `translation` | —                         |
-| **Convener of the Councils**    | [[affiliation-tharivaan\|Convener of the Councils]]                | `translation` | —                         |
-| **Councilor**                   | [[affiliation-kalihara\|Councilor]]                                | `translation` | —                         |
-| **Craftsman**                   | [[affiliation-kalihara\|Craftsman]]                                | `translation` | —                         |
-| **Deepwater Fish**              | [[being-dpwtrfsh\|Deepwater Fish]]                                 | `translation` | —                         |
-| **Dusk Swift**                  | [[being-dsksft\|Dusk Swift]]                                       | `translation` | —                         |
-| **Elder of a Lineage**          | [[affiliation-kalihara\|Elder of a Lineage]]                       | `translation` | —                         |
-| **Ember Bloom**                 | [[lore-klhrflora\|Ember Bloom]]                                    | `translation` | —                         |
-| **Ember-eyed Cat**              | [[being-mbrydct\|Ember-eyed Cat]]                                  | `translation` | —                         |
-| **Envoy**                       | [[affiliation-kalihara\|Envoy]]                                    | `translation` | —                         |
-| **Flora of Kalihara**           | [[lore-klhrflora\|Flora of Kalihara]]                              | `translation` | —                         |
-| **Harbor-Warden**               | [[affiliation-kalihara\|Harbor-Warden]]                            | `translation` | —                         |
-| **Ilovanu**                     | [[place-ilovanu\|Ilovanu]]                                         | `kalihari`    | `ilo-` + `vanu-`          |
-| **Ilumanei**                    | [[being-ilmnnlr\|Ilumanei]]                                        | `kalihari`    | `ilu-` + `manei`          |
-| **Interior Speech**             | [[skill-kalihrlng\|Interior Speech]]                               | `translation` | —                         |
-| **Island Turtle**               | [[being-slndtrtl\|Island Turtle]]                                  | `translation` | —                         |
-| **Islander**                    | [[affiliation-kalihara\|Islander]]                                 | `translation` | —                         |
-| **Ithaluori**                   | [[being-olvlthlr\|Ithaluori]]                                      | `kalihari`    | `itha-` + `luori-`        |
-| **Ithári'kaan**                 | [[affiliation-kalihara\|Ithári'kaan]]                              | `kalihari`    | `ithári` + `kaan-`        |
-| **Ithári'sul**                  | [[lore-itharisul\|Ithári'sul]]                                     | `kalihari`    | `ithári` + `sul-`         |
-| **Ithavanu'sul**                | [[place-stillwatersill\|Ithavanu'sul]]                             | `kalihari`    | `ithavanu` + `sul-`       |
-| **Ithorianu**                   | [[place-ithorianu\|Ithorianu]]                                     | `kalihari`    | —                         |
-| **kaan'sili**                   | [[affiliation-tharivaan\|kaan'sili]]                               | `kalihari`    | `kaan-` + `sili-`         |
-| **kaan'sul**                    | [[lore-itharisul\|kaan'sul]]                                       | `kalihari`    | `kaan-` + `sul-`          |
-| **kaan'thári**                  | [[affiliation-tharivaan\|kaan'thári]]                              | `kalihari`    | `kaan-` + `thári-`        |
-| **kaan'vaar**                   | [[affiliation-tharivaan\|kaan'vaar]]                               | `kalihari`    | `kaan-` + `vaar-`         |
-| **Kalihara**                    | [[affiliation-kalihara\|Kalihara]], [[place-klhrcntnnt\|Kalihara]] | `kalihari`    | —                         |
-| **Kalihara Adventurer's Guide** | [[doc-kaliharaadvguide\|Kalihara Adventurer's Guide]]              | `translation` | —                         |
-| **Kalihara Continent**          | [[place-klhrcntnnt\|Kalihara Continent]]                           | `translation` | —                         |
-| **Kalihara Region**             | [[place-kaliharargn\|Kalihara Region]]                             | `translation` | —                         |
-| **Kaliharan**                   | [[lore-kaliharanclt\|Kaliharan]], [[skill-kalihrlng\|Kaliharan]]   | `translation` | —                         |
-| **Kalihári**                    | [[skill-kalihrlng\|Kalihári]]                                      | `kalihari`    | —                         |
-| **Kalihári Language**           | [[skill-kalihrlng\|Kalihári Language]]                             | `translation` | —                         |
-| **Kalihári Lexicon**            | [[doc-kaliharilexcn\|Kalihári Lexicon]]                            | `translation` | —                         |
-| **Kalihári Word List**          | [[doc-kaliharilexcn\|Kalihári Word List]]                          | `translation` | —                         |
-| **Kalonei**                     | [[being-klnlvn\|Kalonei]]                                          | `kalihari`    | `kalo-` + `-nei`          |
-| **Kalovael**                    | [[lore-klhrflora\|Kalovael]]                                       | `kalihari`    | `kalo-` + `vael-`         |
-| **Keeper of the Failing Works** | [[affiliation-kalihara\|Keeper of the Failing Works]]              | `translation` | —                         |
-| **Koathevoi**                   | [[place-koathevoi\|Koathevoi]]                                     | `kalihari`    | —                         |
-| **Koavanu**                     | [[being-dpwtrfsh\|Koavanu]]                                        | `kalihari`    | `koa-` + `vanu-`          |
-| **Kuathivoel**                  | [[place-klhrdpfrst\|Kuathivoel]]                                   | `kalihari`    | —                         |
-| **Kuethori**                    | [[place-kuethori\|Kuethori]]                                       | `kalihari`    | —                         |
-| **Kuomethei**                   | [[place-kuomethei\|Kuomethei]]                                     | `kalihari`    | —                         |
-| **Lay Kaliharan**               | [[affiliation-tharivaan\|Lay Kaliharan]]                           | `translation` | —                         |
-| **Lirunei**                     | [[being-rdhrn\|Lirunei]]                                           | `kalihari`    | `liru-` + `-nei`          |
-| **Luaithári**                   | [[skill-luthrscrpt\|Luaithári]]                                    | `kalihari`    | —                         |
-| **Luaithári Script**            | [[skill-luthrscrpt\|Luaithári Script]]                             | `translation` | —                         |
-| **Luavanu**                     | [[being-klnlvn\|Luavanu]]                                          | `kalihari`    | `lua-` + `vanu-`          |
-| **Luorithuri**                  | [[being-cnpyglr\|Luorithuri]]                                      | `kalihari`    | `luori-` + `thuri-`       |
-| **Mangrove Behemoth**           | [[being-mngbhmth\|Mangrove Behemoth]]                              | `translation` | —                         |
-| **Manulua**                     | [[being-trrcml\|Manulua]]                                          | `kalihari`    | `manu-` + `lua-`          |
-| **Manuluori**                   | [[lore-klhrflora\|Manuluori]]                                      | `kalihari`    | `manu-` + `luori-`        |
-| **Master of the Terraces**      | [[affiliation-kalihara\|Master of the Terraces]]                   | `translation` | —                         |
-| **Mirthaan**                    | [[place-mirthaan\|Mirthaan]]                                       | `kalihari`    | —                         |
-| **Nalurithan**                  | [[place-nalurithan\|Nalurithan]]                                   | `kalihari`    | `nalu-` + `rith-` + `-an` |
-| **Naokalo**                     | [[being-mbrydct\|Naokalo]]                                         | `kalihari`    | `nao-` + `kalo-`          |
-| **Naoliru**                     | [[being-ilmnnlr\|Naoliru]]                                         | `kalihari`    | `nao-` + `liru-`          |
-| **Naothuri'sul**                | [[place-windstones\|Naothuri'sul]]                                 | `kalihari`    | `naothuri` + `sul-`       |
-| **Narivothei**                  | [[place-narivothei\|Narivothei]]                                   | `kalihari`    | —                         |
-| **Olithuri**                    | [[being-dsksft\|Olithuri]]                                         | `kalihari`    | `oli-` + `thuri-`         |
-| **Olivael**                     | [[being-olvlthlr\|Olivael]]                                        | `kalihari`    | `oli-` + `vael-`          |
-| **Precursor Stone**             | [[lore-itharisul\|Precursor Stone]]                                | `translation` | —                         |
-| **Reed Heron**                  | [[being-rdhrn\|Reed Heron]]                                        | `translation` | —                         |
-| **Reef Lantern**                | [[being-rflntrn\|Reef Lantern]]                                    | `translation` | —                         |
-| **Reikula**                     | [[being-slndtrtl\|Reikula]]                                        | `kalihari`    | `rei-` + `kula-`          |
-| **Reithovani**                  | [[place-reithovani\|Reithovani]]                                   | `kalihari`    | —                         |
-| **Reithuri**                    | [[being-tvnrthr\|Reithuri]]                                        | `kalihari`    | `rei-` + `thuri-`         |
-| **sari'sul**                    | [[lore-sarisul\|sari'sul]]                                         | `kalihari`    | `sari-` + `sul-`          |
-| **Severed**                     | [[affiliation-kalihara\|Severed]]                                  | `translation` | —                         |
-| **sílhari'kaan**                | [[affiliation-tharivaan\|sílhari'kaan]]                            | `kalihari`    | `sílhari` + `kaan-`       |
-| **Speaker for the Island**      | [[affiliation-kalihara\|Speaker for the Island]]                   | `translation` | —                         |
-| **Stilt Tree**                  | [[lore-klhrflora\|Stilt Tree]]                                     | `translation` | —                         |
-| **Sul'vaan**                    | [[place-sulvaan\|Sul'vaan]]                                        | `kalihari`    | `sul-` + `vaan-`          |
-| **Sulkula**                     | [[being-cldgt\|Sulkula]]                                           | `kalihari`    | `sul-` + `kula-`          |
-| **Tavonei**                     | [[being-tvnrthr\|Tavonei]]                                         | `kalihari`    | `tavo-` + `-nei`          |
-| **Teacher of the kaan'sili**    | [[affiliation-tharivaan\|Teacher of the kaan'sili]]                | `translation` | —                         |
-| **Telvári**                     | [[place-telvari\|Telvári]]                                         | `kalihari`    | —                         |
-| **Terrace Mole**                | [[being-trrcml\|Terrace Mole]]                                     | `translation` | —                         |
-| **Thal'ari**                    | [[place-thalari\|Thal'ari]]                                        | `kalihari`    | —                         |
-| **Thári'vaan**                  | [[affiliation-tharivaan\|Thári'vaan]]                              | `kalihari`    | `thári-` + `vaan-`        |
-| **The Bowl**                    | [[place-klhrbowl\|The Bowl]]                                       | `translation` | —                         |
-| **The Bowl Lake**               | [[place-klhrlake\|The Bowl Lake]]                                  | `translation` | —                         |
-| **The Cloud Pass**              | [[place-klhrcldpss\|The Cloud Pass]]                               | `translation` | —                         |
-| **The Deep Forest**             | [[place-klhrdpfrst\|The Deep Forest]]                              | `translation` | —                         |
-| **The Doldrum Sea**             | [[place-dldrmsea\|The Doldrum Sea]]                                | `translation` | —                         |
-| **The Eastern Terraces**        | [[place-klhrestrrc\|The Eastern Terraces]]                         | `translation` | —                         |
-| **The Great Bowl**              | [[place-klhrbowl\|The Great Bowl]]                                 | `translation` | —                         |
-| **The Held Stones**             | [[lore-itharisul\|The Held Stones]]                                | `translation` | —                         |
-| **The Ithári**                  | [[lore-theithari\|The Ithári]]                                     | `translation` | —                         |
-| **The Kuethori Gap**            | [[place-klhrkthrgap\|The Kuethori Gap]]                            | `translation` | —                         |
-| **The Lake**                    | [[place-klhrlake\|The Lake]]                                       | `translation` | —                         |
-| **The Living Whole**            | [[affiliation-tharivaan\|The Living Whole]]                        | `translation` | —                         |
-| **The Massif**                  | [[place-klhrmassif\|The Massif]]                                   | `translation` | —                         |
-| **The Precursors**              | [[lore-theithari\|The Precursors]]                                 | `translation` | —                         |
-| **The Ring**                    | [[place-klhrring\|The Ring]]                                       | `translation` | —                         |
-| **The Ring Mountains**          | [[place-klhrring\|The Ring Mountains]]                             | `translation` | —                         |
-| **The Ring of Kalihara**        | [[place-klhrring\|The Ring of Kalihara]]                           | `translation` | —                         |
-| **The Sanctuaries of Kalihara** | [[lore-klhrsnctrs\|The Sanctuaries of Kalihara]]                   | `translation` | —                         |
-| **The Sanctuary of Mirthaan**   | [[place-mirthaan\|The Sanctuary of Mirthaan]]                      | `translation` | —                         |
-| **The Sanctuary of Thal'ari**   | [[place-thalari\|The Sanctuary of Thal'ari]]                       | `translation` | —                         |
-| **The Sanctuary of Veshvaan**   | [[place-veshvaan\|The Sanctuary of Veshvaan]]                      | `translation` | —                         |
-| **The Southern Stair**          | [[place-klhrsthstr\|The Southern Stair]]                           | `translation` | —                         |
-| **The Still-Water Sill**        | [[place-stillwatersill\|The Still-Water Sill]]                     | `translation` | —                         |
-| **The Telvári Stone**           | [[place-telvaristone\|The Telvári Stone]]                          | `translation` | —                         |
-| **The Tending-Stones**          | [[lore-sarisul\|The Tending-Stones]]                               | `translation` | —                         |
-| **The Warm**                    | [[place-sulvaan\|The Warm]]                                        | `translation` | —                         |
-| **The Western Saddle**          | [[place-klhrwstsddl\|The Western Saddle]]                          | `translation` | —                         |
-| **The Wind-Stones**             | [[place-windstones\|The Wind-Stones]]                              | `translation` | —                         |
-| **Theinuvael**                  | [[place-klhrwstsddl\|Theinuvael]]                                  | `kalihari`    | —                         |
-| **Those Who Came Before**       | [[lore-theithari\|Those Who Came Before]]                          | `translation` | —                         |
-| **Unkept**                      | [[affiliation-tharivaan\|Unkept]]                                  | `translation` | —                         |
-| **Vaarvanu**                    | [[being-mngbhmth\|Vaarvanu]]                                       | `kalihari`    | `vaar-` + `vanu-`         |
-| **Vaelukoa**                    | [[place-vaelukoa\|Vaelukoa]]                                       | `kalihari`    | —                         |
-| **Vaelvanu**                    | [[being-rflntrn\|Vaelvanu]]                                        | `kalihari`    | `vael-` + `vanu-`         |
-| **Vashurán**                    | [[place-vashuran\|Vashurán]]                                       | `kalihari`    | —                         |
-| **Veshvaan**                    | [[place-veshvaan\|Veshvaan]]                                       | `kalihari`    | —                         |
-| **Warden of a Sanctuary**       | [[affiliation-tharivaan\|Warden of a Sanctuary]]                   | `translation` | —                         |
-| **Warden of the Approaches**    | [[affiliation-kalihara\|Warden of the Approaches]]                 | `translation` | —                         |
-| **What the Sinalë Recognized**  | [[lore-sinalercgnzd\|What the Sinalë Recognized]]                  | `translation` | —                         |
+| Name                                 | Notes                                                                                                                     | Tongue        | Built from                |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------- |
+| **Agent of a House**                 | [[affiliation-housefactors\|Agent of a House]]                                                                            | `translation` | —                         |
+| **Avoluthei**                        | [[place-avoluthei\|Avoluthei]]                                                                                            | `kalihari`    | —                         |
+| **Avothani**                         | [[place-klhrsthstr\|Avothani]]                                                                                            | `kalihari`    | —                         |
+| **Barred from the Quay**             | [[affiliation-housefactors\|Barred from the Quay]]                                                                        | `translation` | —                         |
+| **Bearer of the Crisis**             | [[affiliation-tharivaan\|Bearer of the Crisis]]                                                                           | `translation` | —                         |
+| **Bondservant**                      | [[affiliation-kalihara\|Bondservant]]                                                                                     | `translation` | —                         |
+| **Bondservant of the Lineage**       | [[affiliation-lineageavoluthei\|Bondservant of the Lineage]], [[affiliation-lineagekuethori\|Bondservant of the Lineage]] | `translation` | —                         |
+| **Canopy Glider**                    | [[being-cnpyglr\|Canopy Glider]]                                                                                          | `translation` | —                         |
+| **Cloud Goat**                       | [[being-cldgt\|Cloud Goat]]                                                                                               | `translation` | —                         |
+| **Companion**                        | [[affiliation-silharicircle\|Companion]]                                                                                  | `translation` | —                         |
+| **Convener of the Councils**         | [[affiliation-tharivaan\|Convener of the Councils]]                                                                       | `translation` | —                         |
+| **Councilor**                        | [[affiliation-kalihara\|Councilor]], [[affiliation-councilisland\|Councilor]]                                             | `translation` | —                         |
+| **Councilor for a Charge**           | [[affiliation-councilisland\|Councilor for a Charge]]                                                                     | `translation` | —                         |
+| **Councilor for a Lineage**          | [[affiliation-councilisland\|Councilor for a Lineage]]                                                                    | `translation` | —                         |
+| **Councilor of the Ports**           | [[affiliation-councilisland\|Councilor of the Ports]]                                                                     | `translation` | —                         |
+| **Counter of the White**             | [[affiliation-keepershouse\|Counter of the White]]                                                                        | `translation` | —                         |
+| **Custodian of a Dark Work**         | [[affiliation-keepershouse\|Custodian of a Dark Work]]                                                                    | `translation` | —                         |
+| **Deepwater Fish**                   | [[being-dpwtrfsh\|Deepwater Fish]]                                                                                        | `translation` | —                         |
+| **Deputy Keeper**                    | [[affiliation-keepershouse\|Deputy Keeper]]                                                                               | `translation` | —                         |
+| **Dusk Swift**                       | [[being-dsksft\|Dusk Swift]]                                                                                              | `translation` | —                         |
+| **Elder of a Lineage**               | [[affiliation-kalihara\|Elder of a Lineage]]                                                                              | `translation` | —                         |
+| **Elder of Avoluthei**               | [[affiliation-lineageavoluthei\|Elder of Avoluthei]]                                                                      | `translation` | —                         |
+| **Elder of Kuethori**                | [[affiliation-lineagekuethori\|Elder of Kuethori]]                                                                        | `translation` | —                         |
+| **Elder of the Circle**              | [[affiliation-silharicircle\|Elder of the Circle]]                                                                        | `translation` | —                         |
+| **Eldest Factor**                    | [[affiliation-housefactors\|Eldest Factor]]                                                                               | `translation` | —                         |
+| **Ember Bloom**                      | [[lore-klhrflora\|Ember Bloom]]                                                                                           | `translation` | —                         |
+| **Ember-eyed Cat**                   | [[being-mbrydct\|Ember-eyed Cat]]                                                                                         | `translation` | —                         |
+| **Envoy**                            | [[affiliation-kalihara\|Envoy]], [[affiliation-councilisland\|Envoy]]                                                     | `translation` | —                         |
+| **Factor**                           | [[affiliation-housefactors\|Factor]]                                                                                      | `translation` | —                         |
+| **Flora of Kalihara**                | [[lore-klhrflora\|Flora of Kalihara]]                                                                                     | `translation` | —                         |
+| **Gatekeeper**                       | [[affiliation-lineageavoluthei\|Gatekeeper]]                                                                              | `translation` | —                         |
+| **Harbor-Warden**                    | [[affiliation-kalihara\|Harbor-Warden]], [[affiliation-wardensapproaches\|Harbor-Warden]]                                 | `translation` | —                         |
+| **Head of a House**                  | [[affiliation-housefactors\|Head of a House]]                                                                             | `translation` | —                         |
+| **Holder of the Count**              | [[affiliation-keepershouse\|Holder of the Count]]                                                                         | `translation` | —                         |
+| **Ilovanu**                          | [[place-ilovanu\|Ilovanu]]                                                                                                | `kalihari`    | `ilo-` + `vanu-`          |
+| **Ilumanei**                         | [[being-ilmnnlr\|Ilumanei]]                                                                                               | `kalihari`    | `ilu-` + `manei`          |
+| **Interior Speech**                  | [[skill-kalihrlng\|Interior Speech]]                                                                                      | `translation` | —                         |
+| **Island Turtle**                    | [[being-slndtrtl\|Island Turtle]]                                                                                         | `translation` | —                         |
+| **Islander**                         | [[affiliation-kalihara\|Islander]]                                                                                        | `translation` | —                         |
+| **Ithaluori**                        | [[being-olvlthlr\|Ithaluori]]                                                                                             | `kalihari`    | `itha-` + `luori-`        |
+| **Ithavanu'sul**                     | [[place-stillwatersill\|Ithavanu'sul]]                                                                                    | `kalihari`    | `ithavanu` + `sul-`       |
+| **Ithorianu**                        | [[place-ithorianu\|Ithorianu]]                                                                                            | `kalihari`    | —                         |
+| **Ithári'kaan**                      | [[affiliation-kalihara\|Ithári'kaan]]                                                                                     | `kalihari`    | `ithári` + `kaan-`        |
+| **Ithári'sul**                       | [[lore-itharisul\|Ithári'sul]]                                                                                            | `kalihari`    | `ithári` + `sul-`         |
+| **kaan'sili**                        | [[affiliation-tharivaan\|kaan'sili]]                                                                                      | `kalihari`    | `kaan-` + `sili-`         |
+| **kaan'sul**                         | [[lore-itharisul\|kaan'sul]]                                                                                              | `kalihari`    | `kaan-` + `sul-`          |
+| **kaan'thári**                       | [[affiliation-tharivaan\|kaan'thári]]                                                                                     | `kalihari`    | `kaan-` + `thári-`        |
+| **kaan'vaar**                        | [[affiliation-tharivaan\|kaan'vaar]]                                                                                      | `kalihari`    | `kaan-` + `vaar-`         |
+| **Kalihara**                         | [[affiliation-kalihara\|Kalihara]], [[place-klhrcntnnt\|Kalihara]]                                                        | `kalihari`    | —                         |
+| **Kalihara Adventurer's Guide**      | [[doc-kaliharaadvguide\|Kalihara Adventurer's Guide]]                                                                     | `translation` | —                         |
+| **Kalihara Continent**               | [[place-klhrcntnnt\|Kalihara Continent]]                                                                                  | `translation` | —                         |
+| **Kalihara Region**                  | [[place-kaliharargn\|Kalihara Region]]                                                                                    | `translation` | —                         |
+| **Kaliharan**                        | [[lore-kaliharanclt\|Kaliharan]], [[skill-kalihrlng\|Kaliharan]]                                                          | `translation` | —                         |
+| **Kalihári**                         | [[skill-kalihrlng\|Kalihári]]                                                                                             | `kalihari`    | —                         |
+| **Kalihári Language**                | [[skill-kalihrlng\|Kalihári Language]]                                                                                    | `translation` | —                         |
+| **Kalihári Lexicon**                 | [[doc-kaliharilexcn\|Kalihári Lexicon]]                                                                                   | `translation` | —                         |
+| **Kalihári Word List**               | [[doc-kaliharilexcn\|Kalihári Word List]]                                                                                 | `translation` | —                         |
+| **Kalonei**                          | [[being-klnlvn\|Kalonei]]                                                                                                 | `kalihari`    | `kalo-` + `-nei`          |
+| **Kalovael**                         | [[lore-klhrflora\|Kalovael]]                                                                                              | `kalihari`    | `kalo-` + `vael-`         |
+| **Keeper of the Failing Works**      | [[affiliation-kalihara\|Keeper of the Failing Works]], [[affiliation-keepershouse\|Keeper of the Failing Works]]          | `translation` | —                         |
+| **Keeper of the Gate**               | [[affiliation-lineageavoluthei\|Keeper of the Gate]]                                                                      | `translation` | —                         |
+| **Keeper of the High Registry**      | [[affiliation-wardensapproaches\|Keeper of the High Registry]]                                                            | `translation` | —                         |
+| **Keeper of the Ledge**              | [[affiliation-lineagekuethori\|Keeper of the Ledge]]                                                                      | `translation` | —                         |
+| **Keeper of the Marks**              | [[affiliation-lineagekuethori\|Keeper of the Marks]]                                                                      | `translation` | —                         |
+| **Keeper of the Record**             | [[affiliation-councilisland\|Keeper of the Record]]                                                                       | `translation` | —                         |
+| **Kin of the Lineage**               | [[affiliation-lineageavoluthei\|Kin of the Lineage]], [[affiliation-lineagekuethori\|Kin of the Lineage]]                 | `translation` | —                         |
+| **Koathevoi**                        | [[place-koathevoi\|Koathevoi]]                                                                                            | `kalihari`    | —                         |
+| **Koavanu**                          | [[being-dpwtrfsh\|Koavanu]]                                                                                               | `kalihari`    | `koa-` + `vanu-`          |
+| **Kuathivoel**                       | [[place-klhrdpfrst\|Kuathivoel]]                                                                                          | `kalihari`    | —                         |
+| **Kuethori**                         | [[place-kuethori\|Kuethori]]                                                                                              | `kalihari`    | —                         |
+| **Kuomethei**                        | [[place-kuomethei\|Kuomethei]]                                                                                            | `kalihari`    | —                         |
+| **Lay Kaliharan**                    | [[affiliation-tharivaan\|Lay Kaliharan]]                                                                                  | `translation` | —                         |
+| **Leader of the Walk**               | [[affiliation-lineageavoluthei\|Leader of the Walk]]                                                                      | `translation` | —                         |
+| **Ledge-Walker**                     | [[affiliation-lineagekuethori\|Ledge-Walker]]                                                                             | `translation` | —                         |
+| **Licensed Trader**                  | [[affiliation-housefactors\|Licensed Trader]]                                                                             | `translation` | —                         |
+| **Lirunei**                          | [[being-rdhrn\|Lirunei]]                                                                                                  | `kalihari`    | `liru-` + `-nei`          |
+| **Listener**                         | [[affiliation-silharicircle\|Listener]]                                                                                   | `translation` | —                         |
+| **Luaithári**                        | [[skill-luthrscrpt\|Luaithári]]                                                                                           | `kalihari`    | —                         |
+| **Luaithári Script**                 | [[skill-luthrscrpt\|Luaithári Script]]                                                                                    | `translation` | —                         |
+| **Luavanu**                          | [[being-klnlvn\|Luavanu]]                                                                                                 | `kalihari`    | `lua-` + `vanu-`          |
+| **Luorithuri**                       | [[being-cnpyglr\|Luorithuri]]                                                                                             | `kalihari`    | `luori-` + `thuri-`       |
+| **Mangrove Behemoth**                | [[being-mngbhmth\|Mangrove Behemoth]]                                                                                     | `translation` | —                         |
+| **Manulua**                          | [[being-trrcml\|Manulua]]                                                                                                 | `kalihari`    | `manu-` + `lua-`          |
+| **Manuluori**                        | [[lore-klhrflora\|Manuluori]]                                                                                             | `kalihari`    | `manu-` + `luori-`        |
+| **Master of the Terraces**           | [[affiliation-kalihara\|Master of the Terraces]]                                                                          | `translation` | —                         |
+| **Master Pilot**                     | [[affiliation-wardensapproaches\|Master Pilot]]                                                                           | `translation` | —                         |
+| **Mirthaan**                         | [[place-mirthaan\|Mirthaan]]                                                                                              | `kalihari`    | —                         |
+| **Nalurithan**                       | [[place-nalurithan\|Nalurithan]]                                                                                          | `kalihari`    | `nalu-` + `rith-` + `-an` |
+| **Naokalo**                          | [[being-mbrydct\|Naokalo]]                                                                                                | `kalihari`    | `nao-` + `kalo-`          |
+| **Naoliru**                          | [[being-ilmnnlr\|Naoliru]]                                                                                                | `kalihari`    | `nao-` + `liru-`          |
+| **Naothuri'sul**                     | [[place-windstones\|Naothuri'sul]]                                                                                        | `kalihari`    | `naothuri` + `sul-`       |
+| **Narivothei**                       | [[place-narivothei\|Narivothei]]                                                                                          | `kalihari`    | —                         |
+| **Olithuri**                         | [[being-dsksft\|Olithuri]]                                                                                                | `kalihari`    | `oli-` + `thuri-`         |
+| **Olivael**                          | [[being-olvlthlr\|Olivael]]                                                                                               | `kalihari`    | `oli-` + `vael-`          |
+| **Pass-Walker**                      | [[affiliation-lineageavoluthei\|Pass-Walker]]                                                                             | `translation` | —                         |
+| **Petitioner**                       | [[affiliation-councilisland\|Petitioner]]                                                                                 | `translation` | —                         |
+| **Pilot**                            | [[affiliation-wardensapproaches\|Pilot]]                                                                                  | `translation` | —                         |
+| **Pilot's Apprentice**               | [[affiliation-wardensapproaches\|Pilot's Apprentice]]                                                                     | `translation` | —                         |
+| **Precursor Stone**                  | [[lore-itharisul\|Precursor Stone]]                                                                                       | `translation` | —                         |
+| **Put Out of the Circle**            | [[affiliation-silharicircle\|Put Out of the Circle]]                                                                      | `translation` | —                         |
+| **Put Out of the Lineage**           | [[affiliation-lineageavoluthei\|Put Out of the Lineage]], [[affiliation-lineagekuethori\|Put Out of the Lineage]]         | `translation` | —                         |
+| **Reader**                           | [[affiliation-silharicircle\|Reader]]                                                                                     | `translation` | —                         |
+| **Recorder**                         | [[affiliation-councilisland\|Recorder]]                                                                                   | `translation` | —                         |
+| **Reed Heron**                       | [[being-rdhrn\|Reed Heron]]                                                                                               | `translation` | —                         |
+| **Reef Lantern**                     | [[being-rflntrn\|Reef Lantern]]                                                                                           | `translation` | —                         |
+| **Reikula**                          | [[being-slndtrtl\|Reikula]]                                                                                               | `kalihari`    | `rei-` + `kula-`          |
+| **Reithovani**                       | [[place-reithovani\|Reithovani]]                                                                                          | `kalihari`    | —                         |
+| **Reithuri**                         | [[being-tvnrthr\|Reithuri]]                                                                                               | `kalihari`    | `rei-` + `thuri-`         |
+| **sari'sul**                         | [[lore-sarisul\|sari'sul]]                                                                                                | `kalihari`    | `sari-` + `sul-`          |
+| **Scribe of the House**              | [[affiliation-housefactors\|Scribe of the House]]                                                                         | `translation` | —                         |
+| **Seeker Abroad**                    | [[affiliation-silharicircle\|Seeker Abroad]]                                                                              | `translation` | —                         |
+| **Severed**                          | [[affiliation-kalihara\|Severed]]                                                                                         | `translation` | —                         |
+| **Speaker for the Island**           | [[affiliation-kalihara\|Speaker for the Island]], [[affiliation-councilisland\|Speaker for the Island]]                   | `translation` | —                         |
+| **Stilt Tree**                       | [[lore-klhrflora\|Stilt Tree]]                                                                                            | `translation` | —                         |
+| **Struck Off**                       | [[affiliation-wardensapproaches\|Struck Off]]                                                                             | `translation` | —                         |
+| **Sul'vaan**                         | [[place-sulvaan\|Sul'vaan]]                                                                                               | `kalihari`    | `sul-` + `vaan-`          |
+| **Sulkula**                          | [[being-cldgt\|Sulkula]]                                                                                                  | `kalihari`    | `sul-` + `kula-`          |
+| **sílhari'kaan**                     | [[affiliation-tharivaan\|sílhari'kaan]]                                                                                   | `kalihari`    | `sílhari` + `kaan-`       |
+| **Tavonei**                          | [[being-tvnrthr\|Tavonei]]                                                                                                | `kalihari`    | `tavo-` + `-nei`          |
+| **Teacher of the kaan'sili**         | [[affiliation-tharivaan\|Teacher of the kaan'sili]]                                                                       | `translation` | —                         |
+| **Telvári**                          | [[place-telvari\|Telvári]]                                                                                                | `kalihari`    | —                         |
+| **Tender of the Sill**               | [[affiliation-lineagekuethori\|Tender of the Sill]]                                                                       | `translation` | —                         |
+| **Terrace Mole**                     | [[being-trrcml\|Terrace Mole]]                                                                                            | `translation` | —                         |
+| **Thal'ari**                         | [[place-thalari\|Thal'ari]]                                                                                               | `kalihari`    | —                         |
+| **The Avoluthei**                    | [[affiliation-lineageavoluthei\|The Avoluthei]]                                                                           | `translation` | —                         |
+| **The Bowl**                         | [[place-klhrbowl\|The Bowl]]                                                                                              | `translation` | —                         |
+| **The Bowl Lake**                    | [[place-klhrlake\|The Bowl Lake]]                                                                                         | `translation` | —                         |
+| **The Circle of Clear Looking**      | [[affiliation-silharicircle\|The Circle of Clear Looking]]                                                                | `translation` | —                         |
+| **The Cloud Pass**                   | [[place-klhrcldpss\|The Cloud Pass]]                                                                                      | `translation` | —                         |
+| **The Council**                      | [[affiliation-councilisland\|The Council]]                                                                                | `translation` | —                         |
+| **The Council of the Island**        | [[affiliation-councilisland\|The Council of the Island]]                                                                  | `translation` | —                         |
+| **The Deep Forest**                  | [[place-klhrdpfrst\|The Deep Forest]]                                                                                     | `translation` | —                         |
+| **The Doldrum Sea**                  | [[place-dldrmsea\|The Doldrum Sea]]                                                                                       | `translation` | —                         |
+| **The Eastern Terraces**             | [[place-klhrestrrc\|The Eastern Terraces]]                                                                                | `translation` | —                         |
+| **The Great Bowl**                   | [[place-klhrbowl\|The Great Bowl]]                                                                                        | `translation` | —                         |
+| **The Held Stones**                  | [[lore-itharisul\|The Held Stones]]                                                                                       | `translation` | —                         |
+| **The House of Factors**             | [[affiliation-housefactors\|The House of Factors]]                                                                        | `translation` | —                         |
+| **The House of the Failing Works**   | [[affiliation-keepershouse\|The House of the Failing Works]]                                                              | `translation` | —                         |
+| **The Ithári**                       | [[lore-theithari\|The Ithári]]                                                                                            | `translation` | —                         |
+| **The Keeper's House**               | [[affiliation-keepershouse\|The Keeper's House]]                                                                          | `translation` | —                         |
+| **The Kuethori**                     | [[affiliation-lineagekuethori\|The Kuethori]]                                                                             | `translation` | —                         |
+| **The Kuethori Gap**                 | [[place-klhrkthrgap\|The Kuethori Gap]]                                                                                   | `translation` | —                         |
+| **The Lake**                         | [[place-klhrlake\|The Lake]]                                                                                              | `translation` | —                         |
+| **The Lineage Avoluthei**            | [[affiliation-lineageavoluthei\|The Lineage Avoluthei]]                                                                   | `translation` | —                         |
+| **The Lineage Kuethori**             | [[affiliation-lineagekuethori\|The Lineage Kuethori]]                                                                     | `translation` | —                         |
+| **The Living Whole**                 | [[affiliation-tharivaan\|The Living Whole]]                                                                               | `translation` | —                         |
+| **The Massif**                       | [[place-klhrmassif\|The Massif]]                                                                                          | `translation` | —                         |
+| **The Merchant Councils of Ilovanu** | [[affiliation-housefactors\|The Merchant Councils of Ilovanu]]                                                            | `translation` | —                         |
+| **The Precursors**                   | [[lore-theithari\|The Precursors]]                                                                                        | `translation` | —                         |
+| **The Ring**                         | [[place-klhrring\|The Ring]]                                                                                              | `translation` | —                         |
+| **The Ring Mountains**               | [[place-klhrring\|The Ring Mountains]]                                                                                    | `translation` | —                         |
+| **The Ring of Kalihara**             | [[place-klhrring\|The Ring of Kalihara]]                                                                                  | `translation` | —                         |
+| **The Sanctuaries of Kalihara**      | [[lore-klhrsnctrs\|The Sanctuaries of Kalihara]]                                                                          | `translation` | —                         |
+| **The Sanctuary of Mirthaan**        | [[place-mirthaan\|The Sanctuary of Mirthaan]]                                                                             | `translation` | —                         |
+| **The Sanctuary of Thal'ari**        | [[place-thalari\|The Sanctuary of Thal'ari]]                                                                              | `translation` | —                         |
+| **The Sanctuary of Veshvaan**        | [[place-veshvaan\|The Sanctuary of Veshvaan]]                                                                             | `translation` | —                         |
+| **The Southern Stair**               | [[place-klhrsthstr\|The Southern Stair]]                                                                                  | `translation` | —                         |
+| **The Still-Water Sill**             | [[place-stillwatersill\|The Still-Water Sill]]                                                                            | `translation` | —                         |
+| **The Sílhari Circle**               | [[affiliation-silharicircle\|The Sílhari Circle]]                                                                         | `translation` | —                         |
+| **The Telvári Stone**                | [[place-telvaristone\|The Telvári Stone]]                                                                                 | `translation` | —                         |
+| **The Tending-Stones**               | [[lore-sarisul\|The Tending-Stones]]                                                                                      | `translation` | —                         |
+| **The Wardens**                      | [[affiliation-wardensapproaches\|The Wardens]]                                                                            | `translation` | —                         |
+| **The Wardens of the Approaches**    | [[affiliation-wardensapproaches\|The Wardens of the Approaches]]                                                          | `translation` | —                         |
+| **The Warm**                         | [[place-sulvaan\|The Warm]]                                                                                               | `translation` | —                         |
+| **The Western Saddle**               | [[place-klhrwstsddl\|The Western Saddle]]                                                                                 | `translation` | —                         |
+| **The Wind-Stones**                  | [[place-windstones\|The Wind-Stones]]                                                                                     | `translation` | —                         |
+| **Theinuvael**                       | [[place-klhrwstsddl\|Theinuvael]]                                                                                         | `kalihari`    | —                         |
+| **Those Who Came Before**            | [[lore-theithari\|Those Who Came Before]]                                                                                 | `translation` | —                         |
+| **Thári'vaan**                       | [[affiliation-tharivaan\|Thári'vaan]]                                                                                     | `kalihari`    | `thári-` + `vaan-`        |
+| **Turned Out**                       | [[affiliation-keepershouse\|Turned Out]]                                                                                  | `translation` | —                         |
+| **Unheard**                          | [[affiliation-councilisland\|Unheard]]                                                                                    | `translation` | —                         |
+| **Unkept**                           | [[affiliation-tharivaan\|Unkept]]                                                                                         | `translation` | —                         |
+| **Vaarvanu**                         | [[being-mngbhmth\|Vaarvanu]]                                                                                              | `kalihari`    | `vaar-` + `vanu-`         |
+| **Vaelukoa**                         | [[place-vaelukoa\|Vaelukoa]]                                                                                              | `kalihari`    | —                         |
+| **Vaelvanu**                         | [[being-rflntrn\|Vaelvanu]]                                                                                               | `kalihari`    | `vael-` + `vanu-`         |
+| **Vashurán**                         | [[place-vashuran\|Vashurán]]                                                                                              | `kalihari`    | —                         |
+| **Veshvaan**                         | [[place-veshvaan\|Veshvaan]]                                                                                              | `kalihari`    | —                         |
+| **Warden of a Sanctuary**            | [[affiliation-tharivaan\|Warden of a Sanctuary]]                                                                          | `translation` | —                         |
+| **Warden of the Approaches**         | [[affiliation-kalihara\|Warden of the Approaches]], [[affiliation-wardensapproaches\|Warden of the Approaches]]           | `translation` | —                         |
+| **Watcher**                          | [[affiliation-wardensapproaches\|Watcher]]                                                                                | `translation` | —                         |
+| **Weaver of the Band**               | [[affiliation-lineageavoluthei\|Weaver of the Band]]                                                                      | `translation` | —                         |
+| **What the Sinalë Recognized**       | [[lore-sinalercgnzd\|What the Sinalë Recognized]]                                                                         | `translation` | —                         |
 
 ## Retired names
 

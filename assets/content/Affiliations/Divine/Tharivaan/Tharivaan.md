@@ -55,7 +55,12 @@ data:
   economy: []
   lore: []
   parents: [tharivaan]
-  relations: {}
+  relations:
+    kalihara: aligned
+    councilisland: aligned
+    wardensapproaches: aligned
+    keepershouse: aligned
+    silharicircle: rival
   packFolder: pantheonstharivaan
 sohl: {system: {commonSkills: []}}
 ---
@@ -84,7 +89,7 @@ Over eighty centuries, the original understanding of what they are maintaining h
 
 #### Ranks and Formation
 
-The Ithári'kaan are organized into four ranks, each defined less by hierarchy than by the kind of responsibility held, and a custodian of any of the four stands at the fifth level of the island's order, that of Ithári'kaan.
+The Ithári'kaan are organized into four ranks, each defined less by hierarchy than by the kind of responsibility held, and a custodian of any of the four stands at the third level of the island's order, that of Ithári'kaan.
 
 A **kaan'sili**—"one who watches"—is the entry rank, taken by young Kaliharans selected for custodial formation between the ages of eight and twelve because a work answers them, and taken whatever their lineage. Kaan'sili spend fifteen to twenty years in apprenticeship, living at one of the interior sanctuaries and absorbing the accumulated knowledge of ecology, agriculture, liturgical procedure, ithári'sul maintenance, and the specific patterns of their assigned region. They do not perform the great liturgies themselves; they assist, observe, and commit to memory the sequences they will one day execute.
 
@@ -100,7 +105,11 @@ Ithári'kaan formation and practice is anchored at a small number of interior sa
 
 #### The Sílhari Circle
 
-The Sílhari circle is a fellowship of custodians, with a few Elders of lineages among them, named for the first observance, clear looking. Its members hold that kaan'vaar has failed: the procedures alone will not keep the works, and the principles behind them must be sought, abroad if the island cannot supply them. What the circle wants follows from that: the slabs whose procedures have been lost read, someone found who can read them, and, if it comes to that, one outsider let in. The rest of the Ithári'kaan hold to the tending and to the procedures as they were handed down.
+The [[affiliation-silharicircle|Sílhari circle]] is a fellowship of custodians, with a few Elders of lineages among them, named for the first observance, clear looking. Its members hold that kaan'vaar has failed: the procedures alone will not keep the works, and the principles behind them must be sought, abroad if the island cannot supply them. What the circle wants follows from that: the slabs whose procedures have been lost read, someone found who can read them, and, if it comes to that, one outsider let in. The rest of the Ithári'kaan hold to the tending and to the procedures as they were handed down.
+
+#### The Custodians and the Island's Bodies
+
+A custodian of any rank belongs to the Ithári'kaan before any lineage, and stands at the third level of the island's order. Custodians sit in the [[affiliation-councilisland|Council of the Island]] for the works in their charge; the Council decides what the procedures may become, and the sílhari'kaan convene the council that settles the question. Custodians formed at Thal'ari tend the current-stones on which the [[affiliation-wardensapproaches|Wardens of the Approaches]] and their pilots depend, and those formed at Mirthaan tend the wind-stones and the works of the terraces. The custodians of dark works, whose works have gone white, serve at Kuomethei in the [[affiliation-keepershouse|Keeper's House]].
 
 ### The Answering {#the-answering}
 
@@ -108,7 +117,7 @@ The works answer people, and not by rank. A Kaliharan whom a work answers feels 
 
 Tending stands apart from it. Every tending-act is a trained procedure; any trained custodian performs it whether a work answers that custodian or not, and a work accepts a procedure correctly performed from anyone. Being answered makes nobody a better custodian. The custodians take their kaan'sili from the children a work answers, whatever their lineage, so the Ithári'kaan is the one body on the island a bondservant's child can rise in. The Warden of the Approaches chooses pilots the same way, from those the current-stones answer.
 
-The archive holds that in the first generations after the Ithári the offices went to the answered. The offices have since become hereditary in the lineages and the answering has not followed the blood, so the island's order of standing and the map of who is answered no longer agree. Every Kaliharan knows it and none says it, because kaan'vaar forbids the thought that the order might be adjusted. An answered bondservant is held in service to a lineage whose Elder must still send for him when the lineage's stone drifts.
+The archive holds that in the first generations after the Ithári the offices went to the answered. The offices have since become hereditary in the lineages and the answering has not followed the blood, so the island's order of standing and the map of who is answered do not agree. Every Kaliharan knows it and none says it, because kaan'vaar forbids the thought that the order might be adjusted. An answered bondservant is held in service to a lineage whose Elder must still send for him when the lineage's stone drifts.
 
 The failing scrambles who is answered. A dead work answers nobody, and those it answered feel it go: they are not Severed, the island's lowest standing, and they are treated as though they were, so a village whose stone has gone white can be a whole village of the unspoken. A work working badly answers new people, by no rule anyone has found. A fisher's child at [[place-reithovani|Reithovani]] is answered by [[place-telvaristone|the Telvári Stone]], and a dock-hand at [[place-ilovanu|Ilovanu]] by a current-stone he has never seen. The order of standing does not move; the people do.
 
@@ -126,7 +135,7 @@ Thári'vaan has no idols, no devotional images, no reliquaries in the Ankarian s
 
 ### Ceremonies and Maintenance Liturgies
 
-Kaliharans do not celebrate ceremonies in the festive, communal sense that characterizes Ankarian religious life. What the Ithári'kaan call **sari'kaan**—"the tending-acts"—are closer to what an Ankarian engineer might recognize as scheduled maintenance, performed with the solemnity that the passage of eighty centuries has invested in procedures whose original technical purpose is no longer understood.
+Kaliharans do not celebrate ceremonies in the festive, communal sense that characterizes Ankarian religious life. What the Ithári'kaan call **sari'kaan**—"the tending-acts"—are closer to what an Ankarian engineer might recognize as scheduled maintenance, performed with the solemnity that the passage of eighty centuries has invested in procedures whose original technical purpose is not understood.
 
 **The Dawn Tending** is the most commonly observed. At every sanctuary, and at many ithári'sul sites throughout the interior, a kaan'vaar or kaan'sili walks the perimeter of their assigned structures in the hour before sunrise, speaking a sequence of words in an archaic form of Kalihári whose exact meaning is partially lost, and laying a hand briefly on specific surfaces in a specific order. The whole sequence takes between a quarter-hour and two hours depending on the installation. It is performed without exception, in every weather, every day.
 
@@ -134,7 +143,7 @@ Kaliharans do not celebrate ceremonies in the festive, communal sense that chara
 
 **The Tenth-Year Walk** is performed at each sanctuary once every decade. Senior custodians walk the full circuit of the region's ithári'sul structures, in a sequence established in the oldest records, performing an extended tending at each. The walk takes between three weeks and three months depending on the region, and serves both as an inspection—occasions for the sílhari'kaan to survey the actual state of the installations—and as a reaffirmation of the custodial lineage: the kaan'sili who carry the elders' tools along the route are thereby introduced to every structure they may, in time, come to tend.
 
-**The Rite of Last Tending** is the most quietly weighted ceremony the Ithári'kaan perform. It is the last office for a work that is already dead, and it cannot be performed on any other. When a structure is judged to have failed beyond recovery—when the procedures no longer produce any observable effect, when the gray has gone bone-white and hard, when cracks have opened in it—the senior custodians of the region assemble to perform one final tending, take a single held stone from the installation to carry back to the sanctuary, and record the failure in the master archive. The taking is possible only because the work has died: no custodian has ever removed so much as a chip from a living structure, and none has ever tried. No mourning is permitted; the Ithári'kaan hold that grief for a structure is grief misdirected, and that the proper response to loss is renewed attention to what remains. In the last three generations, the Rite of Last Tending has been performed more often than in the previous three centuries combined, and the sílhari'kaan who carry the count of failures speak of this to no one outside their rank.
+**The Rite of Last Tending** is the most quietly weighted ceremony the Ithári'kaan perform. It is the last office for a work that is already dead, and it cannot be performed on any other. When a structure is judged to have failed beyond recovery—when the procedures produce no observable effect, when the gray has gone bone-white and hard, when cracks have opened in it—the senior custodians of the region assemble to perform one final tending, take a single held stone from the installation to carry back to the sanctuary, and record the failure in the master archive. The taking is possible only because the work has died: no custodian has ever removed so much as a chip from a living structure, and none has ever tried. No mourning is permitted; the Ithári'kaan hold that grief for a structure is grief misdirected, and that the proper response to loss is renewed attention to what remains. In the last three generations, the Rite of Last Tending has been performed more often than in the previous three centuries combined, and the sílhari'kaan who carry the count of failures speak of this to no one outside their rank.
 
 ### The Reckoning by Walks
 

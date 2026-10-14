@@ -12,7 +12,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [ilovanu]
-  affiliations: {kalihara: {rank: 3}, sacredforge: {rank: 1}}
+  affiliations: {kalihara: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.137
@@ -484,7 +484,7 @@ He also wants to show that a humble trade can hold as much mastery as any learne
 
 ### Affiliations
 
-- [[affiliation-kalihara|Kalihara]]: a craftsman's standing among the port Kaliharans, and the standard-bearer of quality in the Charcoalers' Guild of the port, increasingly at odds with its push to burn more and burn faster.
+- [[affiliation-kalihara|Kalihara]]: an islander's standing among the port Kaliharans, and the standard-bearer of quality in the Charcoalers' Guild of the port, increasingly at odds with its push to burn more and burn faster.
 - [[affiliation-sacredforge|The Sacred Forge]]: a quiet member of the Order of Ústaron's Flame, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in the foreign quarter.
 
 ## Plot Hooks

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [vashuran]
-  affiliations: {kalihara: {rank: 3}, lusinia: {rank: 1}}
+  affiliations: {kalihara: {rank: 2}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
   born: "680.100"
@@ -450,7 +450,7 @@ Tavonei wants to be perfect at his work. A safe arrival is a sacred trust to him
 
 ### Weaknesses
 
-- **Resistance to change**: he distrusts every new method on principle, and a day will come when that costs lives.
+- **Resistance to change**: he distrusts every new method on principle, and that distrust will cost lives.
 - **Overcaution**: his routes are slow, safe and expensive, which loses him merchants with goods that cannot wait.
 - **Control**: he cannot delegate, and his constant oversight wears out his guards and breeds resentment among the younger ones.
 - **Distance**: he keeps everyone at arm's length, and the only relationships he has are contracts.
@@ -471,7 +471,7 @@ Tavonei wants to be perfect at his work. A safe arrival is a sacred trust to him
 
 ### Affiliations
 
-- [[affiliation-kalihara|Kalihara]]: Tavonei holds a craftsman's standing among the port Kaliharans, as a master of a trade the port depends on.
+- [[affiliation-kalihara|Kalihara]]: Tavonei holds an islander's standing among the port Kaliharans, as a master of a trade the port depends on.
 - [[affiliation-lusinia|Faith of Lusinia]]: like many port Kaliharans, Tavonei keeps the foreigners' faith he grew up beside, and he lights a lamp to the World-Weaver in the Ilovanu temple before every long road.
 
 ## Plot Hooks

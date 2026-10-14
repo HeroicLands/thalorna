@@ -27,44 +27,26 @@ data:
         description: >-
           Of the common lineages, working the terraces and the fisheries under the island's ancient order.
       - level: 3
-        title: Craftsman
-        description: >-
-          Of the skilled trades the island's isolation makes precious—shipwrights, dyers, smiths, apothecaries.
-      - level: 4
-        title: Warden of the Approaches
-        description: >-
-          Charged with the sea-lanes, the pilots and the strangers who must never be allowed to land uninvited. The pilots are chosen from those the current-stones answer.
-      - level: 5
         title: Ithári'kaan
         description: >-
           Keeper of the ancient structures, trained from childhood in maintenance rites whose purpose is no longer wholly understood. Every custodian stands here, of whichever of the faith's four ranks—kaan'sili, kaan'vaar, kaan'thári or sílhari'kaan—and the order among them is the faith's own.
-      - level: 6
-        title: Elder of a Lineage
-        description: >-
-          Head of one of the old kindreds, holding its lands and the feature the kindred is named for, its memory and its share of the island's secrets.
-      - level: 7
-        title: Councilor
-        description: >-
-          Of the body that governs the island and decides, chiefly, what outsiders may be told, seated by lineage or by charge over the works.
-      - level: 8
-        title: Speaker for the Island
-        description: Presiding over the Council and the one voice permitted to answer a foreign power.
     offices:
       Speaker for the Island: >-
-        Presiding officer of the Council, and the only Kaliharan authorized to treat with a foreign power.
-      Councilor: Member of the governing body, seated by lineage and by charge over the structures.
-      Elder of a Lineage: Head of an old kindred, holding its lands and its portion of what the island knows.
-      Ithári'kaan: >-
-        Keeper of the ancient structures, performing maintenance rites learned by rote across eighty centuries; a custodian of any of the faith's four ranks.
-      Warden of the Approaches: Keeper of the sea-lanes, the pilots and the reception of anyone who arrives.
+        Held by an Islander or an Ithári'kaan. Presiding officer of the Council, and the only Kaliharan authorized to treat with a foreign power.
+      Councilor: >-
+        Held by an Islander or an Ithári'kaan. Member of the body that governs the island and decides, chiefly, what outsiders may be told, seated by lineage or by charge over the structures.
+      Elder of a Lineage: >-
+        Held by an Islander. Head of one of the old kindreds, holding its lands and the feature the kindred is named for, its memory and its share of what the island knows.
+      Warden of the Approaches: >-
+        Held by an Islander. Keeper of the sea-lanes, the pilots and the reception of anyone who arrives, charged with the strangers who must never be allowed to land uninvited. The pilots are chosen from those the current-stones answer.
       Keeper of the Failing Works: >-
-        Charged with the structures that falter and the ones that have ended—an office of recent and unadmitted creation, held at Kuomethei on the southern crest, where the custodians of dark works serve under it and keep the count of the white ones.
+        Held by an Ithári'kaan. Charged with the structures that falter and the ones that have ended—an office of recent and unadmitted creation, held at Kuomethei on the southern crest, where the custodians of dark works serve under it and keep the count of the white ones.
       Master of the Terraces: >-
-        Warden of the island's agriculture, and of the weather-works it has always depended on, keeping house at Koathevoi among the granaries; the custodians of Mirthaan serve the office.
+        Held by an Islander. Warden of the island's agriculture, and of the weather-works it has always depended on, keeping house at Koathevoi among the granaries; the custodians of Mirthaan serve the office.
       Harbor-Warden: >-
-        Keeper of a port's anchorage—at Ilovanu the principal one open to foreign hulls—and of everything a foreigner is permitted to see from it.
+        Held by an Islander. Keeper of a port's anchorage—at Ilovanu the principal one open to foreign hulls—and of everything a foreigner is permitted to see from it.
       Envoy: >-
-        Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
+        Held by an Islander or an Ithári'kaan. Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
   seat: ilovanu
   population: 3000000
   economy: [lore-bartercnmy]
@@ -141,9 +123,9 @@ The division runs deeper than geography. A Kaliharan born in Ilovanu who has nev
 
 ## Governance
 
-Kaliharan governance is one of the oldest continuous political traditions on Thalorna, and one of the hardest for an outsider to describe, largely because the Kaliharans have no interest in describing it. What can be pieced together from port accounts and the rare observations of traders permitted slightly deeper access is a system of extraordinary sophistication: layered councils, rotating responsibilities, and decisions balanced among regional, familial and custodial authority. It produces stable government without concentrating power in any one person or institution. The standings a Kaliharan can hold, from the Severed, who is spoken to by no one, to the Speaker for the Island, who alone may answer a foreign power, are listed above.
+Kaliharan governance is one of the oldest continuous political traditions on Thalorna, and one of the hardest for an outsider to describe, largely because the Kaliharans have no interest in describing it. What can be pieced together from port accounts and the rare observations of traders permitted slightly deeper access is a system of extraordinary sophistication: layered councils, rotating responsibilities, and decisions balanced among regional, familial and custodial authority. It produces stable government without concentrating power in any one person or institution. The standings a Kaliharan can hold, from the Severed, who is spoken to by no one, to the Ithári'kaan, are listed above, and the Speaker for the Island, an office held by an Islander or an Ithári'kaan, alone may answer a foreign power.
 
-The Council sits at Ilovanu. Its members are seated by lineage and by charge over the works: Elders sit for their lineages, and custodians for the works in their charge. The Speaker presides. Every custodian, of whichever of the four ranks the faith keeps, stands at the fifth level of the island's order, below the Elders and above the Wardens of the Approaches; within the custodianship the faith's own ranks govern.
+The [[affiliation-councilisland|Council]] sits at Ilovanu. Its members are seated by lineage and by charge over the works: Elders sit for their lineages, and custodians for the works in their charge. The Speaker presides. Every custodian, of whichever of the four ranks the faith keeps, stands at the third and highest level of the island's order; the Elders, the Councilors and the Wardens of the Approaches hold offices, and within the custodianship the faith's own ranks govern.
 
 Beside the order of standing runs another, and it does not match. The works answer people unevenly and not by rank: a person a work answers feels whether that work is working, working badly, stopped or dead, and gains nothing else by it. Neither blood nor office decides who is answered. A bondservant may be answered by [[place-sulvaan|the Warm]] and an Elder by nothing, and the failing of the works scrambles who is answered without moving anybody's standing. The faith note sets out [[affiliation-tharivaan#the-answering|the answering]] in full.
 
@@ -163,6 +145,12 @@ Kalihara stands outside the continental monetary systems. Internal commerce runs
 - [[lore-kaliharanclt|Kaliharan]]—the people, what they believe and what a person owes
 - [[lore-theithari|The Ithári]]—the precursors, their works across the world and their departure
 - [[place-ilovanu|Ilovanu]]—the principal port and the Council's seat
+- [[affiliation-councilisland|The Council of the Island]]—the body that governs and decides what outsiders are told
+- [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the pilots, watchers and harbor-wardens
+- [[affiliation-housefactors|The House of Factors]]—the port council of Ilovanu
+- [[affiliation-keepershouse|The Keeper's House]]—the custodians of dark works at Kuomethei
+- [[affiliation-silharicircle|The Sílhari Circle]]—the custodians who hold that kaan'vaar has failed
+- [[affiliation-lineagekuethori|The Lineage Kuethori]] and [[affiliation-lineageavoluthei|The Lineage Avoluthei]]—the holders of the Gap and the Cloud Pass
 - [[place-vylarianse|Vylarian Sea]]—the inner sea whose western strait is the door to the island
 - [[skill-kalihrlng|Kalihári]]—the language of the island and its names
 - [[skill-valtarlng|Valtári]]—the harbor pidgin of the ports

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [ilovanu]
-  affiliations: {kalihara: {rank: 3}, brazemas: {rank: 1}}
+  affiliations: {kalihara: {rank: 2}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: 662.303
@@ -495,7 +495,7 @@ Lately a darker motive has grown beside that one: the fear that something has go
 
 ### Affiliations
 
-- [[affiliation-kalihara|Kalihara]]: she holds a craftsman's standing among the port Kaliharans, as a master of the reckoning the pilots depend on.
+- [[affiliation-kalihara|Kalihara]]: she holds an islander's standing among the port Kaliharans, as a master of the reckoning the pilots depend on.
 - [[affiliation-brazemas|Faith of Brâzêmâs]]: not ordained, she serves the storm god's priests as an advisor on the heavens, and keeps the faith herself.
 - [[affiliation-panepistmm|Panepistemium]]: a senior member by correspondence, at odds with some of its factions.
 
