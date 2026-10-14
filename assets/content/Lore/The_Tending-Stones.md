@@ -14,7 +14,7 @@ Every lineage village of [[place-klhrcntnnt|Kalihara]] has a work of the [[lore-
 
 A tending-stone is the charge of the lineage that holds the village, tended under the eye of the village's kaan'vaar. The Dawn Tending is spoken over it every morning in every weather: the sequence in the archaic tongue and the hand laid on named places in a named order, learned by rote and performed the same way each time. The terrace villages of [[place-klhrestrrc|the Eastern Terraces]] also see the custodians of [[place-mirthaan|Mirthaan]], who come down with the Master of the Terraces' word.
 
-A village and its stone are one holding. The lineage's water, catch or harvest is the stone's charge, and the lineage's standing among its neighbors rests on both. A few lineages also keep a living held stone belonging to their village's work, handed down with the charge. It warms in the hand while the work is tended, and it goes cold when the work goes dark.
+A village and its stone are one holding. The lineage's water, catch or harvest is the stone's charge, and the lineage's standing among its neighbors rests on both. A few lineages also keep a living held stone belonging to their village's work, handed down with the charge. It warms in the hand while the work is tended, and it goes cold when the work goes dark. When the work dies the stone is dead with it, and the lineage gives it up to a sanctuary.
 
 ## When a Stone Goes White
 

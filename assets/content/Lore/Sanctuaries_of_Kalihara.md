@@ -20,7 +20,7 @@ The custodians of [[place-klhrcntnnt|Kalihara]], the [[affiliation-tharivaan|Ith
 
 Veshvaan is the oldest and the largest. Its deepest rooms hold the carved slabs and inscribed plaques the earliest Kaliharans cut to set down what they had been given, and only the sílhari'kaan and the most senior kaan'thári see them. The island counts its years in Tenth-Year Walks at each sanctuary, and the count since the departure of the Ithári is kept at Veshvaan.
 
-The lesser sanctuaries stand in their own country of the interior, each beside the works it tends. No foreigner has visited any of them. Every sanctuary keeps at least one dead held stone; a living held stone stays with the lineage that holds its work.
+The lesser sanctuaries stand in their own country of the interior, each beside the works it tends. No foreigner has visited any of them. Every sanctuary keeps at least one dead held stone. A living held stone stays with the lineage that holds its work until the work dies, and then the lineage gives the stone, dead from that day, up to a sanctuary; the other dead held stones in the sanctuaries were taken at the Rite of Last Tending from cracked white works.
 
 ## The Great Works and Their Custodians
 

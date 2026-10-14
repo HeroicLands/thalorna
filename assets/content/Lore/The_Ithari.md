@@ -80,7 +80,7 @@ anything that ever grew on Thalorna either, so the resemblance to something livi
 all.
 
 Everything the Ithári left is made of the same thing. The Kaliharans call it **ithári'sul**, "precursor
-stone," and it resembles stone in the way that a word resembles the thing it names. It is seamless—no joints, no mortar, no tool-marks, no grain—and in a work of any size it is all one continuous
+stone," and it resembles stone in the way that a word resembles the thing it names. It has no seam—no joints, no mortar, no tool-marks, no grain—and in a work of any size it is all one continuous
 piece, with no seam on it anywhere and no crack. Some of it is warm to the touch, and some of it is
 faintly luminous in the dark, and the pieces that do one do not reliably do the other.
 
@@ -108,7 +108,7 @@ to a child's sílhari manual, is Kaliharan work in a Kaliharan hand.
 The accounts go one step beyond even that, and it is the single strangest thing in them. **They do not
 describe the Ithári as speaking.** What they describe is understanding arriving—a thing known that
 was not known a moment before, without a word having been said. The Kaliharans have transmitted this
-for eighty centuries as plain fact and have never treated it as remarkable; nothing survives that
+for eighty centuries as plain fact and have never treated it as strange; nothing survives that
 could confirm it, and nothing suggests they invented it either. It is what the stories say.
 
 That accounts for the shape of everything since. The teaching was **received, not read**: agriculture,
@@ -217,7 +217,8 @@ A dead held stone is bone-white and hard, never gray and never giving, which is 
 by feel the instant it is in the hand and why the sanctuaries' reference pieces are all of that kind.
 No living work has ever yielded one. Even a cracked work yields only what it yields, and not what
 anybody takes. The lineages also keep living held stones, each belonging to a working work, gray and giving
-while it lives; they are described in [[lore-itharisul|Ithári'sul]].
+while it lives; when its work dies such a stone is dead too, and its lineage gives it up to a
+sanctuary. They are described in [[lore-itharisul|Ithári'sul]].
 
 The [[affiliation-tharivaan|Ithári'kaan]], who tend them, have no repair to attempt.
 They know the procedures and not the principles, and a procedure that has kept a structure working
@@ -248,7 +249,7 @@ that no outside scholarship knows there is anything to weigh.
 ## The sites elsewhere
 
 They did not confine themselves to the island. Ithári'sul is found across Thalorna, at scattered sites
-in places with no connection to Kalihara and no memory of anything having been there—a seamless
+in places with no connection to Kalihara and no memory of anything having been there—a jointless
 structure in country nobody settled, a device in a cave, an installation doing something local and
 unexplained to the weather or the water or the ground.
 

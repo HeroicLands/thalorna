@@ -20,7 +20,8 @@ data:
           Cut off from the lineages and from the structures' service; permitted to live, and spoken to by no one.
       - level: 1
         title: Bondservant
-        description: Held in service to a lineage, and answerable through its head.
+        description: >-
+          Held in service to a lineage, and answerable through its head. The works answer bondservants by no rule of rank, and an Elder whose lineage's work answers a bondservant sends for that bondservant when the work drifts.
       - level: 2
         title: Islander
         description: >-
@@ -32,18 +33,19 @@ data:
       - level: 4
         title: Warden of the Approaches
         description: >-
-          Charged with the sea-lanes, the pilots and the strangers who must never be allowed to land uninvited.
+          Charged with the sea-lanes, the pilots and the strangers who must never be allowed to land uninvited. The pilots are chosen from those the current-stones answer.
       - level: 5
         title: Ithári'kaan
         description: >-
-          Keeper of the ancient structures, trained from childhood in maintenance rites whose purpose is no longer wholly understood.
+          Keeper of the ancient structures, trained from childhood in maintenance rites whose purpose is no longer wholly understood. Every custodian stands here, of whichever of the faith's four ranks—kaan'sili, kaan'vaar, kaan'thári or sílhari'kaan—and the order among them is the faith's own.
       - level: 6
         title: Elder of a Lineage
         description: >-
-          Head of one of the old kindreds, holding its lands, its memory and its share of the island's secrets.
+          Head of one of the old kindreds, holding its lands and the feature the kindred is named for, its memory and its share of the island's secrets.
       - level: 7
         title: Councilor
-        description: Of the body that governs the island and decides, chiefly, what outsiders may be told.
+        description: >-
+          Of the body that governs the island and decides, chiefly, what outsiders may be told, seated by lineage or by charge over the works.
       - level: 8
         title: Speaker for the Island
         description: Presiding over the Council and the one voice permitted to answer a foreign power.
@@ -53,11 +55,12 @@ data:
       Councilor: Member of the governing body, seated by lineage and by charge over the structures.
       Elder of a Lineage: Head of an old kindred, holding its lands and its portion of what the island knows.
       Ithári'kaan: >-
-        Keeper of the ancient structures, performing maintenance rites learned by rote across eighty centuries.
+        Keeper of the ancient structures, performing maintenance rites learned by rote across eighty centuries; a custodian of any of the faith's four ranks.
       Warden of the Approaches: Keeper of the sea-lanes, the pilots and the reception of anyone who arrives.
       Keeper of the Failing Works: >-
-        Charged with the structures that falter and the ones that have ended—an office of recent and unadmitted creation.
-      Master of the Terraces: Warden of the island's agriculture, and of the weather-works it has always depended on.
+        Charged with the structures that falter and the ones that have ended—an office of recent and unadmitted creation, held at Kuomethei on the southern crest, where the custodians of dark works serve under it and keep the count of the white ones.
+      Master of the Terraces: >-
+        Warden of the island's agriculture, and of the weather-works it has always depended on, keeping house at Koathevoi among the granaries; the custodians of Mirthaan serve the office.
       Harbor-Warden: >-
         Keeper of a port's anchorage—at Ilovanu the principal one open to foreign hulls—and of everything a foreigner is permitted to see from it.
       Envoy: >-
@@ -74,7 +77,7 @@ sohl: {system: {commonSkills: [kalihrlng, valtarlng]}}
 
 ## Overview
 
-Kalihara is the only country in the world that has never had a war, and the only one whose people say their civilization was given to them. A Heliónite factor who has traded at [[place-ilovanu|Ilovanu]] for twenty years tells a newcomer both things on the first evening, and then admits that they are the whole of what he knows for certain. The island lies in the western ocean, four hundred and fifty to seven hundred miles west of [[place-okharisrgn|Okháris]] and [[place-provenzrgn|Provènzia]], about a week's sail in fair weather and out of sight of land the whole way, and it holds one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]], older by millennia than the arrival of the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]]. Three million Kaliharans live on it. Outsiders are not admitted to the interior. Trade with the world runs through four ports on the eastern coast, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
+Kalihara is the only country in the world that has never had a war, and the only one whose people say their civilization was given to them. A Heliónite factor who has traded at [[place-ilovanu|Ilovanu]] for twenty years tells a newcomer both things on the first evening, and then admits that they are the whole of what he knows for certain. The island lies in the western ocean, four hundred and fifty to seven hundred miles west of [[place-okharisrgn|Okháris]] and [[place-provenzrgn|Provènzia]], about a week's sail in fair weather and out of sight of land the whole way, and it holds one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]], older by millennia than the arrival of the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]]. Three million Kaliharans live on it. Outsiders are almost never admitted to the interior, and the rare one who is goes in through [[place-klhrcldpss|the Cloud Pass]] blindfolded. Trade with the world runs through four ports on the eastern coast, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
 
 What the world knows of Kalihara is a land of jungle, a ring of cloud-wrapped mountains and creatures found nowhere else, from the [[being-cnpyglr|Canopy Glider]] of the high forest to the [[being-mbrydct|Ember-eyed Cat]] beneath it, beautiful, dangerous and closed to the curious. The Kaliharans say very little about their home to outsiders, and what they say is chosen with care. Scholars in [[place-helionis|Heliónis]] and [[place-byzariargn|Byzaría]] have spent centuries assembling the fragments into competing theories of Kaliharan society, and most of those theories describe Ankarian assumptions better than they describe Kalihara. The factor's advice is the island's own: watch, and do not ask twice.
 
@@ -98,13 +101,13 @@ Ask the factor what the Kaliharans worship and he answers, correctly, that they 
 
 The Kaliharans hold the connectedness of things to be observed fact and not doctrine, confirmed by several thousand years of attention to one island: the canopy and the reef, the volcanic soil and the monsoon, the household and the birds in its gardens, the [[being-dsksft|Dusk Swift]] flocks among them, each part's health answering to every other's. The posture that follows is a reverence without worship, a respect for the world as it is with an obligation attached. Kaliharans do not pray; they observe. They do not make offerings; they tend.
 
-The nearest thing to a priesthood is a custodianship. The **Ithári'kaan** ("Keepers of What Was Left") are men and women trained from childhood in the relationships of the island's ecology, its seasonal cycles, its agricultural practice, and the maintenance of the ancient structures the Ithári left behind, and they form the spiritual and institutional heart of Kaliharan society. Maintenance here means tending and procedure and nothing else: the fabric of a structure cannot be worked on, so there has never been anything for a custodian to mend, replace or shore up. Over eighty centuries the understanding of what the procedures are for has drifted. Sequences of action the Ithári may have meant as plain upkeep have taken on layers of ritual meaning, and the Ithári'kaan now perform them as liturgy, with meticulous precision, in the settled conviction that the island's health depends on it, and with the original purpose forgotten or transformed into ceremony.
+The nearest thing to a priesthood is a custodianship. The **Ithári'kaan** ("Keepers of What Was Left") are men and women trained from childhood in the relationships of the island's ecology, its seasonal cycles, its agricultural practice, and the maintenance of the ancient structures the Ithári left behind, and they form the spiritual and institutional heart of Kaliharan society. Maintenance here means tending and procedure and nothing else: the substance of a structure cannot be worked on, so there has never been anything for a custodian to mend, replace or shore up. Over eighty centuries the understanding of what the procedures are for has drifted. Sequences of action the Ithári may have meant as plain upkeep have taken on layers of ritual meaning, and the Ithári'kaan now perform them as liturgy, to the letter, in the settled conviction that the island's health depends on it, and with the original purpose forgotten or transformed into ceremony.
 
 ## The Ancient Structures {#the-ancient-structures}
 
 Scattered across the interior of Kalihara stand the structures the Ithári built, and after ten millennia they are standing and in many cases working. Works of the same substance stand at scattered sites elsewhere on Thalorna, but only Kalihara knows that they share a maker, or that there was a maker. They are intact installations, not ruins, made of a material that resembles stone and is plainly something else.
 
-To the eye the material is marble: smooth, softly lustrous, a uniform gray with no vein, grain or figure anywhere in it, the same across a whole chamber. To the hand it gives very slightly, like supple leather, and returns when the pressure lifts; Kaliharans grow up with this, and visitors find it hard to be easy about. It is seamless, without joints or mortar, untouched by weather or by age, and in some places warm to the touch or faintly luminous in darkness. Nothing harms it. No tool, no fire and no working of any tradition has ever marked one. Each work is of one continuous piece, with no seam and no crack anywhere on it and no straight edge in any of it: ribbed and vaulted forms whose walls curve into floor and ceiling, entered through smooth oval openings with no lintel, jamb or threshold. Those openings have no door in them. The substance itself dilates, widening from the center and closing again smoothly and without sound, and the custodians' liturgies include the procedures that work them. That is the plainest case of what the whole custodianship is: an Ithári'kaan can open a given structure reliably and cannot say what it is that opens, and beyond Kalihara, where nobody has the procedures, whether a work admits a person at all appears to be nobody's to decide.
+To the eye the material is marble: smooth, softly lustrous, a uniform gray with no vein, grain or figure anywhere in it, the same across a whole chamber. To the hand it gives very slightly, like supple leather, and returns when the pressure lifts; Kaliharans grow up with this, and visitors find it hard to be easy about. It has no seam, joint or mortar, untouched by weather or by age, and in some places warm to the touch or faintly luminous in darkness. Nothing harms it. No tool, no fire and no working of any tradition has ever marked one. Each work is of one continuous piece, with no seam and no crack anywhere on it and no straight edge in any of it: ribbed and vaulted forms whose walls curve into floor and ceiling, entered through smooth oval openings with no lintel, jamb or threshold. Those openings have no door in them. The substance itself dilates, widening from the center and closing again smoothly and without sound, and the custodians' liturgies include the procedures that work them. That is the plainest case of what the whole custodianship is: an Ithári'kaan can open a given structure reliably and cannot say what it is that opens, and beyond Kalihara, where nobody has the procedures, whether a work admits a person at all appears to be nobody's to decide.
 
 Nothing can be cut from a structure, added to one or joined to one, and no structure has ever been shifted from where it stands by any means anyone has tried. What the Kaliharans can do with them is use them where they are and build around them, which is the whole of what anyone can do, and it is why they are still here when every other ancient work on Thalorna was long ago robbed for its stone. The Kaliharans call the material **ithári'sul** ("precursor stone"), and they treat it with the same reverence they give the rest of the natural world, because in their understanding it is part of the natural world, placed there by the Ithári as part of the whole.
 
@@ -130,7 +133,7 @@ The island note [[place-klhrcntnnt|Kalihara]] carries the land, the climate, the
 
 ## The Port Cities
 
-The interior of Kalihara is closed, and the Kaliharans have never been disconnected from the world; they decided where it may touch them. Four port settlements on the eastern coast and its islets are the interface between Kaliharan civilization and the rest of Thalorna. The greatest is [[place-ilovanu|Ilovanu]], a cosmopolitan trading port of eighteen thousand where the Council sits. [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held, each serving particular goods or particular partners: Nalurithan the island's own coasting trade and the gem rivers behind it, Vashurán the Tarûzelian captains, Telvári the pilots who bring every foreign hull in. A port's Harbor-Warden keeps its anchorage and decides what a foreigner may see from it; Ilovanu's is the principal anchorage open to foreign hulls, and the only one most foreign masters ever use.
+The interior of Kalihara is closed, and the Kaliharans have never been disconnected from the world; they decided where it may touch them. Four port settlements on the eastern coast and its islets are the interface between Kaliharan civilization and the rest of Thalorna. The greatest is [[place-ilovanu|Ilovanu]], a trading port of eighteen thousand open to every flag, where the Council sits. [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held, each serving particular goods or particular partners: Nalurithan the island's own coasting trade and the gem rivers behind it, Vashurán the Tarûzelian captains, Telvári the pilots who bring every foreign hull in. A port's Harbor-Warden keeps its anchorage and decides what a foreigner may see from it; Ilovanu's is the principal anchorage open to foreign hulls, and the only one most foreign masters ever use.
 
 The ports are in many ways a world apart from the interior. Centuries of contact with Ankarian, Tarûzelian and Vedyaran merchants have left them with mixed populations, mixed marriages and, in Ilovanu, well-kept temples of the [[affiliation-arldnpnthn|Aurèldían]] pantheon serving the foreign merchants, the long-settled immigrant families, and the Kaliharans who have chosen the port over the interior and in some cases taken up the foreigners' faith. The Ithári'kaan regard the ports with pragmatic acceptance and philosophical distance. The ports are necessary, they bring goods and information that even Kalihara sometimes requires, and they are not part of the Kaliharan world in the way the interior is.
 
@@ -139,6 +142,10 @@ The division runs deeper than geography. A Kaliharan born in Ilovanu who has nev
 ## Governance
 
 Kaliharan governance is one of the oldest continuous political traditions on Thalorna, and one of the hardest for an outsider to describe, largely because the Kaliharans have no interest in describing it. What can be pieced together from port accounts and the rare observations of traders permitted slightly deeper access is a system of extraordinary sophistication: layered councils, rotating responsibilities, and decisions balanced among regional, familial and custodial authority. It produces stable government without concentrating power in any one person or institution. The standings a Kaliharan can hold, from the Severed, who is spoken to by no one, to the Speaker for the Island, who alone may answer a foreign power, are listed above.
+
+The Council sits at Ilovanu. Its members are seated by lineage and by charge over the works: Elders sit for their lineages, and custodians for the works in their charge. The Speaker presides. Every custodian, of whichever of the four ranks the faith keeps, stands at the fifth level of the island's order, below the Elders and above the Wardens of the Approaches; within the custodianship the faith's own ranks govern.
+
+Beside the order of standing runs another, and it does not match. The works answer people unevenly and not by rank: a person a work answers feels whether that work is working, working badly, stopped or dead, and gains nothing else by it. Neither blood nor office decides who is answered. A bondservant may be answered by [[place-sulvaan|the Warm]] and an Elder by nothing, and the failing of the works scrambles who is answered without moving anybody's standing. The faith note sets out [[affiliation-tharivaan#the-answering|the answering]] in full.
 
 The Ithári'kaan carry great influence and are not rulers in any conventional sense. Their authority is custodial: they keep the ancient knowledge and the ancient structures, and temporal decisions rest with secular councils whose composition and selection are, to outsiders, essentially unknown. The ports run under a separate structure with the flexibility foreign trade requires, while the interior follows older forms refined over millennia.
 
