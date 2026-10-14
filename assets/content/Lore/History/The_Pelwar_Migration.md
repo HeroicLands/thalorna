@@ -14,7 +14,7 @@ data:
       depth: world
       sources: [lore-pelwarpepl, place-aelwyth, place-threesisters]
       summary: >-
-        Generations of pressure push whole Pelwar peoples west and south across half of Ankaris. It is not one exodus but a displacement running roughly three centuries, and it stops at the sea: the western coastline is where the movement runs out of land, which is why the Pelwar-descended peoples are packed along it as densely as they are. A few communities do the one thing left and go across the water. Some of the Varkhad follow them.
+        Generations of pressure push whole Pelwar peoples west, south and east across half of Ankaris. It is not one exodus but a displacement running roughly three centuries, and it stops at the sea: the western coastline is where the movement runs out of land, which is why the Pelwar-descended peoples are packed along it as densely as they are. A few communities do the one thing left and go across the water. Some of the Varkhad follow them.
       standing: attested
       where:
         locus: [place-ankrscntnnt]
@@ -66,7 +66,7 @@ as they are, and why a few communities did the only thing left and went across t
 
 **[[place-aelwyth|Aelwyth]] lies something like two hundred and thirty sea-miles off the coast.** That is
 not a distance barbarian peoples cross—not in the craft they had, not with families and stock
-aboard, not without pilots or charts. Earlier Pelwar had come to the island as passengers, carried in
+aboard, not without pilots or charts. The ancestors of the Vardain had come to the island as passengers, carried in
 Khazári bottoms by people who knew the water. The ones who came around 1200 BF came in whatever would
 float, and most of them died.
 

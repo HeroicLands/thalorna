@@ -51,8 +51,8 @@ attempted: they tried to repair it. In time they united Aelwyth under a **single
 and governed the island together—and they kept that up for **six hundred years**. The [[lore-jointcrown|Joint Crown]] began about 1585 BF.
 
 Then, around **1200 BF**, the **Pelwar** arrived: refugees, driven off the mainland by the
-[[place-vrystwald|Varokh]] in the great displacement of that people, with nowhere else to go. Two
-centuries of pressure and reprisal became the **Great War**, and in **984 BF** the king was killed at
+[[lore-varkhadcnq|Varkhad]] in the great displacement, with nowhere else to go. Two
+centuries of pressure and reprisal became the **Great War**, and in **984 BF** the king was killed by the Varkhad among them at
 the [[place-threesisters|Three Sisters]].
 
 The surviving Sinalë came into this forest and stayed, leaving the Khazári to finish the war without

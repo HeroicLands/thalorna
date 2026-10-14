@@ -37,6 +37,8 @@ always needed farmers at its gate. When the Deep Folk arrived around 5300 BF the
 holds, the Khazári taught the nearest peoples to farm. Water-works, drainage, terracing, the granary.
 They were not making a civilization; they were making a larder.
 
+The Vardain's own line runs back more than a hundred generations, to the country around what is now eastern [[place-aukhelathrgq|Aû'Khelâthu]] and western [[place-dunharargn|Dunhara]]. Their ancestors were a people of that country before they took service with the Khazári, and that service carried them to Aelwyth. They are neither [[lore-pelwarpepl|Pelwar]] nor Varkhad, and no kin to either.
+
 Every other such arrangement has lapsed in the six thousand years since—the peoples changed, the
 holds closed, the ground was conquered by somebody. The valleys beneath [[place-vorgald|Vorgald]] are
 the one that did not.

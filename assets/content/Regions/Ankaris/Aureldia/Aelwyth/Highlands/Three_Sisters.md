@@ -13,8 +13,8 @@ the middle of Aelwyth. They are unremarkable mountains and the most important pl
 
 ## The Battle
 
-In **984 BF** the armies of the elder kingdom met the Pelwar beneath them, and the **Sinalë king of
-Aelwyth was killed**.
+In **984 BF** the armies of the elder kingdom met the Pelwar and their Varkhad masters beneath them, and the **Sinalë king of
+Aelwyth was killed** by the Varkhad.
 
 It was the decisive engagement of the **Great War**, and its consequences went far past who held the
 field. With the king dead the surviving [[lore-flksinale|Sinalë]] **withdrew**—out of the war, out of
@@ -69,7 +69,7 @@ It should be understood what that means.
 
 Aelwyth lies something like two hundred and thirty sea-miles off the coast. That is not a distance
 barbarian peoples cross—not in the craft they had, not with families and stock aboard, not without
-pilots or charts or any notion of what the weather does out there. The early Pelwar had come as
+pilots or charts or any notion of what the weather does out there. The ancestors of the Vardain had come as
 **passengers**, carried in Khazári bottoms by people who knew the water. The ones who came in 1200 BF
 came in whatever would float.
 
@@ -95,7 +95,7 @@ them. They had nowhere to go. Both of those were true at once for two hundred ye
 
 ## What Killed the King
 
-Not a Pelwar spear, and this is the part of the account that is vague in every telling and has never been
+The Varkhad among the settlers killed him, and how they did it is the part of the account that is vague in every telling and has never been
 filled in.
 
 A Sinalë king of that age was not a thing that mortals killed. Whatever met him beneath the Three
@@ -114,7 +114,7 @@ years of joint rule, and every claim of any kind outside the deep forest of the 
 into [[place-hallowwood|the wood]], and they have not come out.
 
 Everything they left, they left **to the other races**: to the Khazári who had been fighting beside them,
-and to the Pelwar they had been fighting. The Khazári finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinalë handed over
+and to the humans they had been fighting. The Khazári finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinalë handed over
 by walking away is, in a straightforward sense, the reason Aelwyth has human kingdoms on it at all.
 
 ## Now

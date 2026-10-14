@@ -5,7 +5,82 @@ type: skill
 subType: language
 description: "The measured, liquid tongue of the Tellumi, the old oasis people at the foot of the Grazian Mountains."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: language}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: language
+  names:
+    pattern: ["{given} {house}", "{given}"]
+    given:
+      female:
+        - "Lisena"
+        - "Minesha"
+        - "Hulena"
+        - "Yashgema"
+        - "Talvuta"
+        - "Birvata"
+        - "Reluma"
+        - "Gilsuma"
+        - "Sunhema"
+        - "Nimesha"
+        - "Yermima"
+        - "Viluna"
+        - "Perima"
+        - "Daneta"
+        - "Muresha"
+        - "Hiresha"
+        - "Liruna"
+        - "Vemuna"
+        - "Valsuma"
+        - "Mavesha"
+        - "Yeluna"
+        - "Berhina"
+        - "Talhisha"
+        - "Hevuna"
+        - "Karvema"
+      male:
+        - "Vurinay"
+        - "Teyutay"
+        - "Garmeshay"
+        - "Kenbeshay"
+        - "Lirunay"
+        - "Hevunay"
+        - "Talhishay"
+        - "Gureshay"
+        - "Pedunay"
+        - "Kireshay"
+        - "Karvemay"
+        - "Kervishay"
+        - "Tenhuray"
+        - "Vemunay"
+        - "Garvanay"
+        - "Tarlimay"
+        - "Revunay"
+        - "Budishay"
+        - "Hageshay"
+        - "Bamdenay"
+    house:
+      - "Tashbemun"
+      - "Nineshun"
+      - "Gudeshun"
+      - "Himbarun"
+      - "Hireshun"
+      - "Helrimun"
+      - "Gerhenun"
+      - "Kishneshun"
+      - "Karvemun"
+      - "Sunhemun"
+      - "Nimeshun"
+      - "Tamkerun"
+      - "Talvutun"
+      - "Birvatun"
+      - "Berhinun"
+      - "Yashgemun"
+      - "Perimun"
+      - "Bulamun"
+      - "Valsumun"
+      - "Kervishun"
+      - "Budemun"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

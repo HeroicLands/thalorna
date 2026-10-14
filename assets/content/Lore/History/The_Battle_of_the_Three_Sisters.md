@@ -3,7 +3,7 @@ shortcode: threesistrs
 name: {full: The Battle of the Three Sisters, aliases: [The End of the Elder Kingdom]}
 type: lore
 subType: history
-description: "In 984 BF the Sinalë king of the joint Aelwythan kingdom is killed at the Three Sisters by something not merely an army—and the Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood."
+description: "In 984 BF the Sinalë king of the joint Aelwythan kingdom is killed at the Three Sisters by the Varkhad—and the Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [place-threesisters, place-aelwyth, place-hallowwood]
       summary: >-
-        The Sinalë king of the joint Sinalë–Khazári kingdom of Aelwyth is killed at the Three Sisters amid the Great War, by a force the tradition is consistent only in calling spiritual rather than merely an army. The surviving Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood and withdraw permanently. The Khazári finish the war alone. It ends the only attempt either Elder Race has made to repair the breach that began at Khazártúrn.
+        The Sinalë king of the joint Sinalë–Khazári kingdom of Aelwyth is killed at the Three Sisters amid the Great War by the Varkhad among the settlers, in a manner the tradition is consistent only in calling more than an army's work. The surviving Sinalë abandon the crown, the kingdom and every claim outside the Hallowwood and withdraw permanently. The Khazári finish the war alone. It ends the only attempt either Elder Race has made to repair the breach that began at Khazártúrn.
       standing: attested
       where:
         locus: [place-threesisters]
@@ -36,6 +36,7 @@ data:
         - {ref: lore-flksinale, role: victim}
         - {ref: lore-flkkhazar, role: actor}
         - {ref: lore-pelwarpepl, role: actor}
+        - {ref: lore-varkhadcnq, role: actor}
       follows:
         - event: lore-jointcrown
           how: ended
@@ -61,7 +62,7 @@ data:
           says: Nothing. The Hallowwood will not receive anyone who asks.
           agrees: silent
       unresolved:
-        - what killed the Sinalë king, which the tradition is consistent only in calling spiritual in nature
+        - how the Varkhad killed the Sinalë king, which the tradition is consistent only in calling more than an army's work
         - whether this is the great sundering between the Elder Races or only its Aelwythan chapter
 ---
 
@@ -75,7 +76,7 @@ ever made.
 It was ended by refugees, and then by a battle. The [[lore-pelwarmigr|Pelwar]] reached the island with
 nowhere else to go, and an island has a fixed amount of good land; two centuries of arrival and
 pressure and reprisal became the Great War. At the [[place-threesisters|Three Sisters]] in what is
-now the Central Highlands the king was killed.
+now the Central Highlands the king was killed by the Varkhad among them.
 
 What was lost there is more than a king and more than a war. It ended in the way most calculated to
 make it irrecoverable: not in a quarrel, but with the Sinalë walking away from the Khazári in a

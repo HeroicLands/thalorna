@@ -65,7 +65,7 @@ data:
         locus: [place-edrwald]
         reach:
           - place: place-aelwyth
-            how: the leavers who survive the crossing come ashore about 1200 BF, driven off the mainland by the Varokh
+            how: the leavers who survive the crossing come ashore about 1200 BF, driven off the mainland by the Varkhad
             knowledge: named
       who: [{ref: lore-pelwarpepl, role: victim}]
       follows:
@@ -91,7 +91,7 @@ About 1250 BF that host reached the eastern edge of the forest that is now [[pla
 
 ## The Driving-Out along the Bay
 
-The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edrwald|Edrwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of Skaldwald still claim to know. They gathered at a stone landing on the bay, [[place-theodhaven|Theódhaven]], the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Aelwyth]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varokh. Most of them did not arrive at all.
+The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edrwald|Edrwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of Skaldwald still claim to know. They gathered at a stone landing on the bay, [[place-theodhaven|Theódhaven]], the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Aelwyth]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varkhad. Most of them did not arrive at all.
 
 They left holy ground behind them that the host did not understand: rock-cut shrines at the landing, springs, and burial places with no Varokh name. The [[affiliation-alndnwrdns|Áelendan Wardens]] keep Varokh parties off several of those places on the Edrwald shore to this day, and they have never said for whom.
 

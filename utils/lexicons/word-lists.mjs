@@ -194,7 +194,8 @@ function singular(word) {
 }
 
 /**
- * The content words of a gloss.
+ * The content words of a gloss. A possessive `'s` is dropped, not read as a
+ * word.
  *
  * @param {string} gloss
  * @returns {Set<string>}
@@ -204,6 +205,7 @@ export function glossWords(gloss = "") {
         .normalize("NFD")
         .replace(/\p{M}/gu, "")
         .toLowerCase()
+        .replace(/['\u2019]s\b/g, "")
         .match(/[a-z]+/g);
     return new Set((words ?? []).filter((w) => !GLOSS_STOPWORDS.has(w)).map(singular));
 }

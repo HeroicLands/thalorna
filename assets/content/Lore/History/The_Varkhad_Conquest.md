@@ -45,5 +45,5 @@ stocks could no longer be told apart. What came out of that mixture are the [[lo
 [[place-vrystwald|Vrystwald]] and the [[lore-nordheimnclt|Nordmen]] of the [[place-nrdlndsrgn|Nordlands]], who share the
 double ancestry and, notably, the temperament that came with the eastern half of it.
 
-The [[lore-pelwarpepl|Pelwar]] who did not stay to be conquered went west and south, and that is
+The [[lore-pelwarpepl|Pelwar]] who did not stay to be conquered went west, south and east, and that is
 [[lore-pelwarmigr|the Migration]]. The displacement begins here.

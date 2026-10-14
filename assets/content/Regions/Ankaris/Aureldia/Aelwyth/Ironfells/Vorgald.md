@@ -69,8 +69,8 @@ no later road runs]], cut stone the [[lore-vardain|Vardain]] cannot match, found
 towns that nobody has satisfactorily dated.
 
 It ended with people who had nowhere else to go. The **Pelwar** reached Aelwyth around **1200 BF**,
-driven off the mainland by the [[place-vrystwald|Varokh]]; two centuries of pressure became the **Great
-War**; and in **984 BF** the king was killed at the [[place-threesisters|Three Sisters]]. The surviving
+driven off the mainland by the [[lore-varkhadcnq|Varkhad]]; two centuries of pressure became the **Great
+War**; and in **984 BF** the king was killed by the Varkhad among them at the [[place-threesisters|Three Sisters]]. The surviving
 [[lore-flksinale|Sinalë]] withdrew into the forest that is now the [[place-hallowwood|Hallowwood]] and
 left the Khazári to finish the war alone.
 

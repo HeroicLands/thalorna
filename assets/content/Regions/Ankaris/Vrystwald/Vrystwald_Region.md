@@ -65,11 +65,10 @@ not the ones who broke armies in the forest. The Varokh are, and they got the te
 who conquered their other ancestors—which is the sort of observation an outsider makes once, in a
 Varokh hall, and does not make twice.
 
-It also explains a thing that puzzles Aurèldían scholars: how the Varokh can be simultaneously the people
+It also explains a thing that puzzles Aurèldían scholars: how the Varokh can be simultaneously descended from the people
 who **drove the [[lore-pelwarmigr|Pelwar Migration]]**—the great displacement that scattered Pelwar peoples across half a
-continent and eventually onto [[place-aelwyth|Aelwyth]]—and themselves _be_ Pelwar. Both are correct.
-The Varokh drove out their own cousins, and did not think of them as cousins at the time, and by the time
-anyone could have said so the question had stopped meaning anything.
+continent and eventually onto [[place-aelwyth|Aelwyth]]—and themselves descend from the Pelwar. Both are correct.
+The Varkhad drove out the Pelwar who would not stay, and the Varokh are the children of the Varkhad and the Pelwar who did.
 
 ## History
 
@@ -225,7 +224,7 @@ seldom aware of where the goods entered the system.
 The Aurèldían kingdoms deplore this and buy the furs, which travel the same rivers in the same boats.
 
 There is an irony in it that nobody in Vrystwald has ever been in a position to appreciate. The Varokh
-exist because the [[lore-varkhadcnq|Varkhad]] conquered the Pelwar and drove the survivors west and south in the
+exist because the [[lore-varkhadcnq|Varkhad]] conquered the Pelwar and drove the survivors west, south and east in the
 Migration. Two thousand years on, their descendants make a living moving displaced people down the same
 rivers.
 

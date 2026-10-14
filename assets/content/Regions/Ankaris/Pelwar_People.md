@@ -47,7 +47,7 @@ and north-east today: the **[[lore-varokhiclt|Varokh]] of [[place-vrystwald|Vrys
 **Nordmen of the [[place-nrdlndsrgn|Nordlands]]**, who share that double ancestry and share, notably,
 the temperament that came with the eastern half of it.
 
-The Pelwar who did not stay to be conquered went **west and south**, and that movement is the Migration:
+The Pelwar who did not stay to be conquered went **west, south and east**, and that movement is the Migration:
 not one exodus but generations of pressure, pushing whole peoples ahead of it across half a continent.
 The displacement begins with the conquest, **approximately 1400 BF**, and the great westward movement
 runs from there to **approximately 1100 BF**.

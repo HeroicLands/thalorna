@@ -114,10 +114,10 @@ island, where instead they attempted to repair it. In time they united Aelwyth u
 Sinalë king and governed it together for **six centuries**: the only reconciliation either race has ever
 tried. The [[lore-jointcrown|Joint Crown]] was founded about 1585 BF.
 
-It was ended by refugees. The **Pelwar**, driven off the mainland by the [[place-vrystwald|Varokh]],
+It was ended by refugees. The **Pelwar**, driven off the mainland by the [[lore-varkhadcnq|Varkhad]],
 reached Aelwyth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
 land. Two centuries of arrival and pressure and reprisal became the **Great War**, and in **984 BF** the
-king was killed at the [[place-threesisters|Three Sisters]] in what is now the
+king was killed by the Varkhad among them at the [[place-threesisters|Three Sisters]] in what is now the
 [[place-cntrlhghlnds|Central Highlands]]. The Sinalë withdrew into the [[place-hallowwood|Hallowwood]];
 the Khazári finished the war alone and have not spoken to them since. How the war ended, and what it left
 to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great War]].
