@@ -16,6 +16,10 @@ data:
     summary: >-
       The ordained priesthood of Thubâ'i, drawn from those trained to read the river and the calendar together. It keeps the flood-records that set the planting season and performs the rites by which the year's prosperity is asked for.
     ranks:
+      - level: 0
+        title: Name Struck
+        description: >-
+          A priest struck from the flood-records and the rites of Thubâ'i, no longer called to read the river.
       - level: 1
         title: Lem'Nelgir
         description: >-

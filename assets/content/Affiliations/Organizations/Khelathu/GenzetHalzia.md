@@ -16,6 +16,10 @@ data:
     summary: >-
       The Halzi'a of the selats in session, where each province bargains with the imperial center over taxation and levies and with its neighbors over water, roads and boundaries.
     ranks:
+      - level: 0
+        title: Unseated
+        description: >-
+          A governor removed from the session, whose province loses its voice in the bargaining over taxation and levies.
       - level: 1
         title: Halzi'a
         description: >-

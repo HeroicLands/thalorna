@@ -16,6 +16,10 @@ data:
     summary: >-
       The traders of the waterfront at Wal-Igelu, who handle what comes off the river barges first and set much of what it costs by the time it reaches the markets.
     ranks:
+      - level: 0
+        title: Barred from the Docks
+        description: >-
+          A trader shut out of the landing at Wal-Igelu, unable to handle the barge goods or set their price.
       - level: 1
         title: Dock Trader
         description: >-

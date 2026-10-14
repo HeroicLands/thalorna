@@ -15,6 +15,10 @@ data:
     summary: >-
       A janapada at the mouth of the Sarvada, governed through its sabhā, whose largest single revenue is the anchorage dues of Naughatta.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of the janapada by its sabhā, barred from the temples, the anchorage and the village and owed no protection.
       - level: 1
         title: Villager
         description: >-

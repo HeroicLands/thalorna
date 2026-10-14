@@ -16,6 +16,10 @@ data:
     summary: >-
       A noble house whose women carry influence in their own right, and whose patronage reaches into the healing trades. Its master answers for the house and grants or withdraws that patronage.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          A kinswoman or kinsman the house withdraws patronage from, who loses its influence and its reach into the healing trades.
       - level: 1
         title: Of the House
         description: >-

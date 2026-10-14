@@ -14,6 +14,10 @@ data:
     summary: >-
       Held for the Crown of Provènzia by the Earl of Hárivren, who governs the western march from Hárivren City and counts the Baron of Zûravlen among his vassals.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One cast out by the Earl's courts and set beyond the protection of the march, whom any may harm without penalty.
       - level: 1
         title: Subject
         description: >-

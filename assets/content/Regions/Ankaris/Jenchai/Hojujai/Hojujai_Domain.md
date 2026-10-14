@@ -16,6 +16,10 @@ data:
     summary: >-
       Held of the Emperor by patent in the name of the Daozhuo Hojūjai Zīja, who is fourteen, and governed from Yanwū by his mother Hojūjai Rēwei as regent.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One stripped of the Daozhuo's patent protection, who may be taken or killed with no appeal.
       - level: 1
         title: Subject
         description: >-

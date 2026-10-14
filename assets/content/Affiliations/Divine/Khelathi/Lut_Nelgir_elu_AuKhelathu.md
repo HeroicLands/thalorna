@@ -16,6 +16,10 @@ data:
     summary: >-
       The temple-estates of Aû'Khelâthu taken together: granaries, workshops and tenant-villages held by the temples in common, each temple's council answering for its own share. It confers no priestly grade; those belong to each temple.
     ranks:
+      - level: 0
+        title: Put Off the Estate
+        description: >-
+          A tenant or dependent turned off the temple-estates, with no land, granary share or workshop place to return to.
       - level: 1
         title: Temple Tenant
         description: >-

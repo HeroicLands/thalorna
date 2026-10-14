@@ -14,6 +14,10 @@ data:
     summary: >-
       Guild officials govern the caravan town and keep its reputations.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A resident struck from the caravan town's register by its guild officials, with no charter, protection or reputation.
       - level: 1
         title: Resident
         description: >-

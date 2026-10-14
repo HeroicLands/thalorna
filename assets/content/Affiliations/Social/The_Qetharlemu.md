@@ -16,6 +16,10 @@ data:
     summary: >-
       Priests of the stricter observances who hold that the old forms of worship are the only valid forms, and object together before any reinterpretation of a rite reaches the worshippers.
     ranks:
+      - level: 0
+        title: Name Struck
+        description: >-
+          A priest put out of the stricter observances, no longer counted among those who object to novelty in rite.
       - level: 1
         title: Lem'Nelgir
         description: >-

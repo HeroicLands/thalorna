@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose company of traveling performers and itinerants with no fixed seat, whose membership is a courtesy rather than an obligation and whose gatherings are attended when they suit.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A wanderer no longer extended the fellowship's courtesy on the road.
       - level: 1
         title: Wanderer
         description: >-

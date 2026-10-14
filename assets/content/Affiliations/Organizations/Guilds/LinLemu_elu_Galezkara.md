@@ -16,6 +16,10 @@ data:
     summary: >-
       A mutual aid society of the capital's serving class, open to any household servant who pays into its common fund against sickness, dismissal and burial.
     ranks:
+      - level: 0
+        title: Struck from the Fund
+        description: >-
+          A servant removed from the common fund, with no claim when sickness, dismissal or a burial comes.
       - level: 1
         title: Contributor
         description: >-

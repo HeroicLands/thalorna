@@ -14,6 +14,10 @@ data:
     summary: >-
       The trade guilds of the city, among them the potters' and the Seamen's Guild, hold the standing of its trades.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A guild member struck from the Tevran's roll, who loses the standing of their trade in the city.
       - level: 1
         title: Tevran Member
         description: >-

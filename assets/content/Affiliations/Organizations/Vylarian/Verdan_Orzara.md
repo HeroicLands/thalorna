@@ -16,6 +16,10 @@ data:
     summary: >-
       A council of five Curators appointed and dismissed by the Ôrzâs, sitting as equals with a rotating chair over a tiered civic court, so that no one man holds the courts, the granaries and the Watch together. The Ôrzâs appoints and dismisses alike: a Curator holds at the throne's pleasure and leaves at the throne's word.
     ranks:
+      - level: 0
+        title: Dismissed
+        description: >-
+          A sentor removed from the civil courts, denied the bench and the hearing of citizen against citizen.
       - level: 1
         title: Sentor
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       A hereditary line of craftsmen whose name carries weight in the guild halls whatever guild a member belongs to. Its master keeps the family's techniques and the standard the name stands for.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          A craftsman the house no longer acknowledges, who loses the weight its name carries in the guild halls.
       - level: 1
         title: Of the House
         description: >-

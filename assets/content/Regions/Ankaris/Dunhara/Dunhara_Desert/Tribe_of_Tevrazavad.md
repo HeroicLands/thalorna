@@ -15,6 +15,10 @@ data:
     summary: >-
       The tribe governs itself through a council, a form its chieftain persuaded it to adopt, and other sheikhs send their quarrels to its camp to be heard.
     ranks:
+      - level: 0
+        title: Kinless
+        description: >-
+          A tribesman cast out by the tribe, claimed by none and owed no hospitality, water or vengeance.
       - level: 1
         title: Tribesman
         description: >-

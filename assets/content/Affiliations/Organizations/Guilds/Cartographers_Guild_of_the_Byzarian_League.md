@@ -22,6 +22,10 @@ data:
     summary: >-
       A chartered guild of cartographers and surveyors, admitted through apprentice, journeyman and master grades, governed by the Council of Masters under its Grand Cartographer.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A cartographer removed from the guild's register, whose charts can no longer be sold as guild-work.
       - level: 1
         title: Apprentice
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       A noble household of the capital, large enough that a dedicated steward runs its affairs and old enough to expect one of quality. Its master answers for the house; the steward keeps it.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          One of the household put out by its master, who loses its protection and the stewardship that goes with it.
       - level: 1
         title: Of the House
         description: >-

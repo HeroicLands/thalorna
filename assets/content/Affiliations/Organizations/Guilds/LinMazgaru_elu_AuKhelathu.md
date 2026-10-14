@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose coalition of dealers who buy and sell on volume alone, prizing turnover over the quality of any lot.
     ranks:
+      - level: 0
+        title: Struck from the Coalition
+        description: >-
+          A dealer dropped from the coalition's trade on volume, buying and selling without its terms.
       - level: 1
         title: Quantity Merchant
         description: >-

@@ -13,6 +13,10 @@ data:
     summary: >-
       A smuggling ring of merchants and port officials moving goods past the weighing and the seal. Its principals keep the accounts of what it is owed, and keep them reading like an ordinary merchant's.
     ranks:
+      - level: 0
+        title: Cut from the Ring
+        description: >-
+          A hand dropped from the smuggling ring, owed no share of its goods and open to being named to the port officials.
       - level: 1
         title: Hand of the Ring
         description: >-

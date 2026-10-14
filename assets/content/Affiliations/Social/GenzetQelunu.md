@@ -16,6 +16,10 @@ data:
     summary: >-
       A discreet society of courtesans, companions and women of influence who trade in what people would rather not have known, keep standards for their profession and keep their own names out of the ledgers they compile.
     ranks:
+      - level: 0
+        title: Struck from the Veil
+        description: >-
+          A member put out of the circle, named in none of its ledgers and left to be talked about by it.
       - level: 1
         title: Of the Veil
         description: >-

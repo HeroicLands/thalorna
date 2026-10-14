@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered body that regulates paid soldiering in the empire, placing its members with employers and vouching for their standing and conduct.
     ranks:
+      - level: 0
+        title: Unvouched
+        description: >-
+          A fighter the guild will not vouch for or place with an employer, hired only on their own credit.
       - level: 1
         title: Mercenary
         description: >-

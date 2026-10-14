@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the empire's artisans, spanning every craft without a guild of its own, glad of its finest members' prestige and disapproving of their methods.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          An artisan removed from the guild's roll, who no longer holds its good standing for a craft that has no guild of its own.
       - level: 1
         title: Artisan
         description: >-

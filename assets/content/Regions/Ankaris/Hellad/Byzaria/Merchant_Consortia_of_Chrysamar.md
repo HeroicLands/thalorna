@@ -14,6 +14,10 @@ data:
     summary: >-
       Merchant consortia own the harborfront warehouses and run the port's affairs more informally than the League's larger cities.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A trader shut out of the consortia's warehouses and harbor, with no charter or protection in Chrysamar.
       - level: 1
         title: Resident
         description: >-

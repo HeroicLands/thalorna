@@ -16,6 +16,10 @@ data:
     summary: >-
       The patrician assembly of the senior estates, advising the Ôrzâs and trying its own as the highest court for senatorial persons, with no member set over another and its weight rising and falling with the strength of the throne.
     ranks:
+      - level: 0
+        title: Expelled
+        description: >-
+          A senator removed from the dome, deprived of a voice and of trial by the highest court for senatorial persons.
       - level: 1
         title: Argentean
         description: >-

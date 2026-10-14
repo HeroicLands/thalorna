@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the empire's musicians and singers, open to any performer who pays its dues. Its members invoke it constantly and attend it sporadically, and its masters' recommendations carry across the empire.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A performer dropped from the guild's roll, who can no longer claim it as a credential.
       - level: 1
         title: Minstrel
         description: >-

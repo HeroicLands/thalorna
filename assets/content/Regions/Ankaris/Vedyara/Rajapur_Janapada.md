@@ -15,6 +15,10 @@ data:
     summary: >-
       Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple, with representation drawn from each constituent village and from the principal artisan, merchant, and scholar shrenīs of the central town. By long tradition the sabhā includes one Memory-Keeper—a hereditary office whose holder maintains the genealogies of the displaced royal line and recites them at the opening of every formal session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of the janapada's order by the sabhā, barred from the temples and the village and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

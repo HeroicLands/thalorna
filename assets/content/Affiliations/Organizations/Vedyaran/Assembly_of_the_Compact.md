@@ -16,6 +16,10 @@ data:
     summary: >-
       Five seats, one for each signatory polity, meeting twice a year under an elected High Speaker, with standing committees carrying the administration between sittings.
     ranks:
+      - level: 0
+        title: Unseated
+        description: >-
+          A delegate whose seat is withdrawn, so that the polity they represent has no voice in renewing the Compact.
       - level: 1
         title: Delegate
         description: >-

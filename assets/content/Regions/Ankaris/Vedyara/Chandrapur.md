@@ -14,6 +14,10 @@ data:
     summary: >-
       A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated at the head of a court the Nine houses fill and the temple patrons moderate. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of every order of the Moon House's realm, barred from the temples and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

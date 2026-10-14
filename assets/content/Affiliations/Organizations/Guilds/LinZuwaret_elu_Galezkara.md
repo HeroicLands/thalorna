@@ -16,6 +16,10 @@ data:
     summary: >-
       An informal association of the capital's independent traders, meeting outside any guild hall to share prices, routes and buyers and to coordinate against the larger commercial houses.
     ranks:
+      - level: 0
+        title: Shut Out of the Circle
+        description: >-
+          A trader no longer told prices, routes and buyers, left to stand alone against the larger houses.
       - level: 1
         title: Independent Trader
         description: >-

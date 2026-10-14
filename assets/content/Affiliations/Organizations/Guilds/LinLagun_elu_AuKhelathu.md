@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the empire's timber trade, uniting loggers, haulers and timber-merchants. It sets the standard a first-quality shipment must meet, and its members dispute what that standard means.
     ranks:
+      - level: 0
+        title: Barred
+        description: >-
+          A logger, hauler or merchant shut out of the guild, whose shipments cannot be sold as first quality.
       - level: 1
         title: Timberwright
         description: >-

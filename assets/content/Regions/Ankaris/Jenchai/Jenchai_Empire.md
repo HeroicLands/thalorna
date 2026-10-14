@@ -16,6 +16,10 @@ data:
     summary: >-
       A sacred monarchy that reigns and does not rule: the Emperor holds the Nine Mountains by heaven's grant and the Daozhuo govern them.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One stripped of the Emperor's protection and of the Daozhuo's, whom no domain's law shields.
       - level: 1
         title: Shuonong
         description: >-

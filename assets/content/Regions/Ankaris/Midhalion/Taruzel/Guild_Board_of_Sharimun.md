@@ -15,6 +15,10 @@ data:
     summary: >-
       The town's guild families govern it through magistrates of the guild government.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A resident struck from the town's register by its guild government, with no charter, protection or standing.
       - level: 1
         title: Resident
         description: >-

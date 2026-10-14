@@ -16,6 +16,10 @@ data:
     summary: >-
       The goldsmiths of the capital, admitting only those whose work is judged fit for temple and tomb, and following a temple's failed inspection with scrutiny of their own.
     ranks:
+      - level: 0
+        title: Work Refused
+        description: >-
+          A goldsmith whose work was judged unfit for temple and tomb and who is no longer admitted to the guild.
       - level: 1
         title: Goldsmith
         description: >-

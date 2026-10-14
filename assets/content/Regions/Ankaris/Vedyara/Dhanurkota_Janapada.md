@@ -15,6 +15,10 @@ data:
     summary: >-
       Sabhā of forty-two members convened by the senior priest of the Mahājaya temple, with proportional representation from the constituent villages and reserved seats for the masters of the four great archery academies. The sabhā meets monthly during the campaign season and bi-monthly during the rest of the year; major decisions require a two-thirds concurrence.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of the janapada's order by the sabhā, barred from the temples and the village and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

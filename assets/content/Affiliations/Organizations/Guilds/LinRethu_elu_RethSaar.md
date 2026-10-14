@@ -16,6 +16,10 @@ data:
     summary: >-
       The scholars the temple of Reth'Sa'âr has certified to handle its deeper texts, holding those texts apart from the general archive and deciding together who may read them.
     ranks:
+      - level: 0
+        title: Certification Withdrawn
+        description: >-
+          A scholar whom the temple no longer certifies to handle its deeper texts or to decide who may read them.
       - level: 1
         title: Certified Scholar
         description: >-

@@ -13,6 +13,10 @@ data:
     summary: >-
       A warband of desert nomads holding the ground around certain sealed temples and killing those who come for what the wards protect. It holds ground rather than agreements.
     ranks:
+      - level: 0
+        title: Driven from the Warband
+        description: >-
+          A warrior the warband has driven off, denied its ground, its water and its protection.
       - level: 1
         title: Warrior of the Zelqetu
         description: >-

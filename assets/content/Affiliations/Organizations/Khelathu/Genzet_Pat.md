@@ -17,6 +17,10 @@ data:
     summary: >-
       A ceremonial assembly of the empire's greatest houses, convened in the capital to advise the Gar-Aû, holding no legislative authority and working instead through the informal power of its mediators.
     ranks:
+      - level: 0
+        title: Unseated
+        description: >-
+          A house put out of the assembly of the greatest houses, no longer called to advise the Gar-Aû.
       - level: 1
         title: Halzi'a
         description: >-

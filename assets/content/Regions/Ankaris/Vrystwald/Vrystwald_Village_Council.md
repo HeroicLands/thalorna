@@ -14,6 +14,10 @@ data:
     summary: >-
       In every village a Shaman, a War Chief and an Other Chief hold three seats, each with its own authority; no village commands another.
     ranks:
+      - level: 0
+        title: Vrystrith
+        description: >-
+          Cast out of the village, claimed by none and owed neither hospitality nor vengeance.
       - level: 1
         title: Fródrád
         lore: frodradrnk

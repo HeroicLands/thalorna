@@ -18,6 +18,10 @@ data:
     summary: >-
       The Mahā-Sangha convenes and does not govern. It has no legislature, no taxation and no standing institution between gatherings—only the offices the Mela itself needs, and consensus among senior priests, enforced by the withdrawal of inter-janapada goodwill.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of the order of the janapadas, barred from the Mela and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

@@ -15,6 +15,10 @@ data:
     summary: >-
       The Laws of the Well keep the peace of the camp between hunters and trackers of both deserts, whatever their tribes.
     ranks:
+      - level: 0
+        title: Barred from the Well
+        description: >-
+          One who has broken the Laws of the Well, refused water at the oasis and the peace of the camp.
       - level: 1
         title: Camper
         description: >-

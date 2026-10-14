@@ -16,6 +16,10 @@ data:
     summary: >-
       Held of the Emperor by patent by the Daozhuo Tsuijai Rēzo, who sits at Tsuiwū and governs the uplands through his retainers, the headmen of its villages and the Jajū who keep its armory and forge.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One stripped of the Daozhuo's protection and put outside the uplands' law, with no appeal.
       - level: 1
         title: Subject
         description: >-

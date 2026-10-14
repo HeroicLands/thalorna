@@ -16,6 +16,10 @@ data:
     summary: >-
       The governing council of the temple of Gewa'âtis, drawn from its senior priests and the captains whose voyages the god protects. It administers the temple's holdings and sanctions the voyages that claim his protection.
     ranks:
+      - level: 0
+        title: Put Out of the Council
+        description: >-
+          A priest or captain removed from the temple's council, who loses a voice in its holdings.
       - level: 1
         title: Councilor
         description: >-

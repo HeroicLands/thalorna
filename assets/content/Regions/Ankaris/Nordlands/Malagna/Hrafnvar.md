@@ -15,6 +15,10 @@ data:
     summary: >-
       A polity of Malagna, under the crown at Gnarthborg.
     ranks:
+      - level: 0
+        title: Níding
+        description: >-
+          One cast beyond the ting's protection for an offense no wergild settles, whom any may kill without penalty.
       - level: 1
         title: Member of the Polity
         description: >-

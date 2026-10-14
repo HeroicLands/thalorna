@@ -15,6 +15,10 @@ data:
     summary: >-
       A janapada of the Sarvada circuit, governed through its sabhā.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of the janapada by its sabhā, barred from the temples and the village and owed no protection.
       - level: 1
         title: Villager
         description: >-

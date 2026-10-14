@@ -16,6 +16,10 @@ data:
     summary: >-
       The ordained priesthood of Reth'Sa'âr, drawn from scribes who pass beyond the guild halls into the god's direct service. It keeps his archives and sets the disciplines of the written hand, and a document it refuses to recognize carries no standing before any court or temple.
     ranks:
+      - level: 0
+        title: Name Struck
+        description: >-
+          A priest struck from the god's archives, whose hand is no longer vouched for and whose name is no longer recorded.
       - level: 1
         title: Lem'Nelgir
         description: >-

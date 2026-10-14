@@ -16,6 +16,10 @@ data:
     summary: >-
       Emperor and Warlords of the Zhazhò over a rigid eight-caste order, administered by a celestial bureaucracy that tracks the purity of officials and the movements of comets in the same ministries.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One cast beyond the Emperor's protection and the eight-caste order, whom the celestial bureaucracy no longer records.
       - level: 1
         title: Shuonong
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       An imperial treasury and central bank under a Quaestor appointed for life, with three Orsani over its functions, a Station Magister to each station, and sixteen Censors reckoning the strongroom against its books. The Imperial Quaestor serves for life or until imperial dismissal, and every officer beneath him holds at the Quaestor's pleasure or the throne's.
     ranks:
+      - level: 0
+        title: Dismissed
+        description: >-
+          An auditor removed from the treasury's service, with no say over the strongroom's books or the clearing claims.
       - level: 1
         title: Censor
         description: >-

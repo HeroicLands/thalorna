@@ -13,6 +13,10 @@ data:
     summary: >-
       An oath-bound society that takes exotic beasts and forces them to fight for spectacle. It keeps no book: what a member owes is sworn before the others and held by them.
     ranks:
+      - level: 0
+        title: Forsworn
+        description: >-
+          One who has broken the society's oath, owed nothing by the others and hunted by those who hold what was sworn.
       - level: 1
         title: Sworn
         description: >-

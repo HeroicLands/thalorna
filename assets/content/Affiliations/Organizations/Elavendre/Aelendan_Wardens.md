@@ -15,6 +15,10 @@ data:
     summary: >-
       The Wardens of each tribal territory under its most experienced, recognized by their peers rather than appointed, with seasonal councils and runners carrying coordination between territories.
     ranks:
+      - level: 0
+        title: Cast Out
+        description: >-
+          A warden the peers no longer recognize, denied the runners, the seasonal councils and the shelter of the territory.
       - level: 1
         title: Warden
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       The frontier command holding the forts and wells of Khuqet-Miglet against the desert tribes, its officers keeping the peace with the Dunhari as it suits them, under a commander who answers for the road.
     ranks:
+      - level: 0
+        title: Cashiered
+        description: >-
+          A soldier dismissed from the frontier command, left without a post, a ration or a wall to stand behind.
       - level: 1
         title: Soldier
         description: >-

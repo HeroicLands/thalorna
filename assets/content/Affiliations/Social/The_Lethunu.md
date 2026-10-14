@@ -16,6 +16,10 @@ data:
     summary: >-
       A faction within an established guild, acting through its parent's meetings and votes to change what the old guard holds settled, and led publicly by one of its senior members.
     ranks:
+      - level: 0
+        title: Expelled
+        description: >-
+          A member put out of the faction, no longer acting through the parent guild's meetings and votes.
       - level: 1
         title: Of the Lethunu
         description: >-

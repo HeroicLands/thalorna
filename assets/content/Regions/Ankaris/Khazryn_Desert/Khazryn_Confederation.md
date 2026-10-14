@@ -15,6 +15,10 @@ data:
     summary: >-
       A Council of the Princes of seven houses—three still ruling their oases, four ruling in exile at Amradad—which coordinates a common diplomatic position and does not govern.
     ranks:
+      - level: 0
+        title: Kinless
+        description: >-
+          One cast out by their house and claimed by none, owed no hospitality, water or vengeance.
       - level: 1
         title: Bondservant
         description: >-

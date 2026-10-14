@@ -15,6 +15,10 @@ data:
     summary: >-
       A fraternity of war-veteran ship captains turned shipping cartel, providing the Confederation's de facto navy under the charter its Grand Council periodically threatens to revoke.
     ranks:
+      - level: 0
+        title: Struck from the League
+        description: >-
+          A captain or fleet owner cut from the League's umbrella, denied its preferential access and its charter.
       - level: 1
         title: Member
         description: >-

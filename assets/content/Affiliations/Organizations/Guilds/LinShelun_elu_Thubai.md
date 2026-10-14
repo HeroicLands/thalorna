@@ -16,6 +16,10 @@ data:
     summary: >-
       A collective of performers and artists working under the patronage of Thubâ'i, whose temple funds the work and takes a share of the acclaim. Membership is by invitation and is itself a mark of standing.
     ranks:
+      - level: 0
+        title: Dropped from the Collective
+        description: >-
+          An artist the temple has stopped funding, who loses the patronage and the share of acclaim that came with it.
       - level: 1
         title: Artist of the Collective
         description: >-

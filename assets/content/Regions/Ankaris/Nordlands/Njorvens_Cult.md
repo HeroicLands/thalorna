@@ -16,6 +16,10 @@ data:
     summary: >-
       The cult that venerates Njörven.
     ranks:
+      - level: 0
+        title: Spirit-shunned
+        description: >-
+          One put out of the cult that venerates Njörven, refused its rites and its protection.
       - level: 1
         title: Devotee
         description: >-

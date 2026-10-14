@@ -15,6 +15,10 @@ data:
     summary: >-
       The Khazári hold of Vorgald, which holds the Vardain Valleys beneath it and has no relationship with any realm on Aelwyth.
     ranks:
+      - level: 0
+        title: Exile
+        description: >-
+          One put out of Vorgald Hold, denied its protection and left outside the valleys beneath it.
       - level: 1
         title: Member of the Hold
         description: >-

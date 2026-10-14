@@ -15,6 +15,10 @@ data:
     summary: >-
       Hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varnaka ushtakas. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of every order of the Mahārāja's kingdom, barred from the temples and owed no protection.
       - level: 1
         title: Bonded Servant
         description: Bound by debt or birth to a household, owing labor and lacking the standing to hold land.

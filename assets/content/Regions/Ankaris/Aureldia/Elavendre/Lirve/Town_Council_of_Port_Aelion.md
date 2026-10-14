@@ -15,6 +15,10 @@ data:
     summary: >-
       The town council blends traditional human governance with the counsel of older families.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One put out of Port Aelion by its town council, without the protection of its law and unwelcome inside its walls.
       - level: 1
         title: Resident
         description: >-

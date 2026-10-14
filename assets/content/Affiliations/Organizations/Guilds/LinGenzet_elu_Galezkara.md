@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the capital's advocates, which examines every candidate before admission and through which the license to argue in the capital's courts runs.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          An advocate removed from the guild's roster, no longer licensed to argue before the courts of the capital.
       - level: 1
         title: Advocate
         description: >-

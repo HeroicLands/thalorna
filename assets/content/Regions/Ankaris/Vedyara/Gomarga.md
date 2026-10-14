@@ -15,6 +15,10 @@ data:
     summary: >-
       Hereditary Mahārāja whose court travels the well-circuit through the year, advised by the keepers of the droveways and by the lineages that cut and hold the plateau's wells. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          An outcaste put out of the order of the droveways, barred from the well-circuit and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

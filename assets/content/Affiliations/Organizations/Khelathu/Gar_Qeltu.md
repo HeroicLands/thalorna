@@ -16,6 +16,10 @@ data:
     summary: >-
       The pearl-divers' house, whose charter governed the pearl trade until the Gar-Aû dissolved it when the charter lapsed. Its fate is the example every guild master is reminded of.
     ranks:
+      - level: 0
+        title: Charter Lost
+        description: >-
+          A former diver of the house whose charter was dissolved, with no claim on the pearl trade it once governed.
       - level: 1
         title: Of the House
         description: >-

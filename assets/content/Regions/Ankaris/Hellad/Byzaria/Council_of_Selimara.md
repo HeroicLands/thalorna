@@ -15,6 +15,10 @@ data:
     summary: >-
       The governing council of the market town of Selímara.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A resident struck from the market town's register, with no charter, protection or standing in its courts.
       - level: 1
         title: Resident
         description: >-

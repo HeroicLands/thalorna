@@ -16,6 +16,10 @@ data:
     summary: >-
       A noble house that commissions arms and armor from the finest smiths and lends its name as a guarantee of their standards to its peers. Its master answers for the house and for the name it lends.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          A member the house no longer names, who loses its guarantee and the weight of its name.
       - level: 1
         title: Of the House
         description: >-
