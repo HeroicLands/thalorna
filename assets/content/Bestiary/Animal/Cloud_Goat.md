@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A white-coated mountain goat, heavier than an ibex, with long back-swept horns, that lives on the cliff faces of the Ring at and above the cloud line."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: goat, templatePriority: 0, culture: kaliharanclt}
+data: {packFolder: animals, icon: sohl-none-icon-goat, templatePriority: 0, culture: kaliharanclt}
 sohl:
   kbcat: animal
   attrRollFormula:

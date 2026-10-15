@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A shy, barrel-bodied jungle herbivore with a trunk-like nose, foraging riverbanks by night and swimming to escape confrontation."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: pawprint, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-pawprint, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

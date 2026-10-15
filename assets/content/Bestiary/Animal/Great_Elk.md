@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A migratory megafauna elk of northern forests and plains, a mature bull standing eight feet at the shoulder and weighing near a ton."
 tags: [animal, creature]
-data: {packFolder: animals, icon: staghead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-staghead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

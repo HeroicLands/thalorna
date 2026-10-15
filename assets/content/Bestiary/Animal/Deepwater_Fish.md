@@ -5,7 +5,11 @@ type: being
 subType: creature
 description: "A pale, eyeless-looking bottom fish of twelve to fifteen feet that lives in the deep water around the Massif and rises to the surface of the Bowl Lake in the dry season."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: sharkjaws, templatePriority: 0, culture: kaliharanclt}
+data:
+  packFolder: animals
+  icon: sohl-none-icon-sharkjaws
+  templatePriority: 0
+  culture: kaliharanclt
 sohl:
   kbcat: animal
   attrRollFormula:

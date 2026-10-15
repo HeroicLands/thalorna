@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A muscular, endurance-built carnivore with a distinctive sloping back, weighing up to a hundred and sixty pounds and marked by a unique mottled coat."
 tags: [animal, creature]
-data: {packFolder: animals, icon: pawprint, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-pawprint, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

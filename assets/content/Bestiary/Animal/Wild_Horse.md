@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A stocky, powerful equine ancestor of domestic breeds, roaming the open steppe in bands with heavy bone and tireless endurance."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: horsehead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-horsehead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

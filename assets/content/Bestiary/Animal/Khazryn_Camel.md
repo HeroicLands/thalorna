@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A hardy, two-humped pack animal of remarkable endurance, carrying merchants and soldiers across frozen passes and bitter deserts."
 tags: [animal, creature]
-data: {packFolder: animals, icon: camelhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-camelhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

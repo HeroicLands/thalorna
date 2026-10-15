@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive tawny carnivore second only to the tiger among great cats, the maned males weighing up to five hundred pounds of social pride-hunting power."
 tags: [animal, creature]
-data: {packFolder: animals, icon: lion, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-lion, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

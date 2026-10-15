@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "An enormous pack-hunting canine of deep wilderness, twice the size of a gray wolf yet retaining its cousins' tactical intelligence."
 tags: [animal, creature]
-data: {packFolder: animals, icon: wolfhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-wolfhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

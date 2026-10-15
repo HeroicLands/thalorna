@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "An apex ocean predator exceeding twenty feet and several tons, a solitary killing machine that patrols deep and shallow waters unchanged for millions of years."
 tags: [animal, creature]
-data: {packFolder: animals, icon: sharkjaws, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-sharkjaws, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

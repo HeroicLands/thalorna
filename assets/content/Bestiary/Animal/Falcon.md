@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A sleek, compact raptor of the middle air, striking prey in devastating high-speed vertical dives no larger bird can match."
 tags: [animal, creature]
-data: {packFolder: animals, icon: falconmoon, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-falconmoon, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

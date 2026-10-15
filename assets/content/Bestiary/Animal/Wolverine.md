@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A stocky, densely muscled northern predator infamous for fearlessly confronting beasts many times its size and refusing to retreat."
 tags: [animal, creature]
-data: {packFolder: animals, icon: badger, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-badger, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

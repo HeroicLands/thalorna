@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A semi-aquatic ambush predator of warm waters, lying motionless for days before erupting into explosive violence to seize its prey."
 tags: [animal, creature]
-data: {packFolder: animals, icon: crocjaws, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-crocjaws, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

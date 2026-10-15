@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive, intelligent forest primate living in silverback-led troops, peaceful until provoked, when its defending alpha becomes a nightmare of muscle."
 tags: [animal, creature]
-data: {packFolder: animals, icon: gorilla, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-gorilla, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

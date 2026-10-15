@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive shaggy grazer of frozen tundra and cold steppe, peaceful yet fiercely territorial and devastating when defending its range."
 tags: [animal, creature]
-data: {packFolder: animals, icon: rhinoceroshorn, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-rhinoceroshorn, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

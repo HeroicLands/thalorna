@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive, intelligent pack-hunting marine mammal and apex predator of every ocean, the most dangerous animal encounter possible on open water."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: spermwhale, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-spermwhale, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

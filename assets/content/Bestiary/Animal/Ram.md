@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "The heavily built dominant male of sheep herds, wielding massive curved horns and a fierce temper that turns lethal during the autumn rut."
 tags: [animal, creature]
-data: {packFolder: animals, icon: sheep, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-sheep, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

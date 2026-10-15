@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "The stocky apex cat of tropical jungles and riverbanks, wielding the strongest proportional bite of any cat, able to puncture turtle shell and skull."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: feline, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-feline, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

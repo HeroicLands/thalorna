@@ -5,7 +5,11 @@ type: being
 subType: creature
 description: "A sparrow-sized, slate-backed bird that feeds in the forest by day and flies home to the village gardens in a single streaming flock as the light fails."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: crowdive, templatePriority: 0, culture: kaliharanclt}
+data:
+  packFolder: animals
+  icon: sohl-none-icon-crowdive
+  templatePriority: 0
+  culture: kaliharanclt
 sohl:
   kbcat: animal
   attrRollFormula:

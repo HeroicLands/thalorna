@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A powerful warhorse bred and trained for battle, conditioned to endure noise, blood, and violence while carrying an armored rider into the fray."
 tags: [animal, creature]
-data: {packFolder: animals, icon: horsehead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-horsehead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

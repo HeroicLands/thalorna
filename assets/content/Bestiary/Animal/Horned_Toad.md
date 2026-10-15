@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A four-foot desert reptile armored in jagged bony plates, its sand-colored, warty hide letting it vanish against rocky badlands terrain."
 tags: [animal, creature]
-data: {packFolder: animals, icon: hornedreptile, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-hornedreptile, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

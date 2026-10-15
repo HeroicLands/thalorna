@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A spectacular southern bird whose iridescent male unfurls a seven-foot train of elongated tail coverts in the most dazzling display in the world."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: pawprint, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-pawprint, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

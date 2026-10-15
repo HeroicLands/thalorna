@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A venomous ambush serpent, gram-for-gram among the deadliest creatures, killing prey larger than itself with precise, potent strikes."
 tags: [animal, creature]
-data: {packFolder: animals, icon: snake, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-snake, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

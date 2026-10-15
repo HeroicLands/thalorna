@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A highly intelligent, solitary rainforest ape and peaceful herbivore of the distant jungle canopy, turning violent only to defend itself or its young."
 tags: [animal, creature]
-data: {packFolder: animals, icon: monkey, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-monkey, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

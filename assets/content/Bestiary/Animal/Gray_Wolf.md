@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A highly social pack predator of temperate and cold wilds, using numbers and tactical cunning to bring down prey far larger than itself."
 tags: [animal, creature]
-data: {packFolder: animals, icon: wolfhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-wolfhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

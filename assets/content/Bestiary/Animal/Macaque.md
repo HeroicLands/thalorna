@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A stocky, intelligent medium-sized monkey of the monsoon south thriving everywhere from temples to cities by stealing and extorting food from humans."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: monkey, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-monkey, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

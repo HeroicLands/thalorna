@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A strong, surprisingly intelligent forest predator and scavenger of temperate woods that usually avoids humans but turns dangerous when provoked."
 tags: [animal, creature]
-data: {packFolder: animals, icon: bearhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-bearhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

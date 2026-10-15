@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A solitary, thick-coated mountain predator and peerless climber, hunting goats and sheep in high peaks where no rivals compete."
 tags: [animal, creature]
-data: {packFolder: animals, icon: feline, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-feline, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A regal megafauna deer ruling deep temperate woodlands in herds, a dominant prime male built for unstoppable dominance through raw power."
 tags: [animal, creature]
-data: {packFolder: animals, icon: staghead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-staghead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

@@ -5,7 +5,11 @@ type: being
 subType: creature
 description: "A cat-sized, long-limbed night feeder of the unbroken canopy that crosses a hundred yards of forest between trees on a fold of skin without touching the ground."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: monkey, templatePriority: 0, culture: kaliharanclt}
+data:
+  packFolder: animals
+  icon: sohl-none-icon-monkey
+  templatePriority: 0
+  culture: kaliharanclt
 sohl:
   kbcat: animal
   attrRollFormula:

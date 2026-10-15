@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive soaring desert scavenger with a nine-foot wingspan, riding thermals for hours to feast wherever death visits the steppe."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: vulture, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-vulture, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

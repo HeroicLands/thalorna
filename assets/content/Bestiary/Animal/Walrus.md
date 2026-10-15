@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "An immense, tusked pinniped weighing up to three thousand pounds, hauling out in aggressive colonies on northern rocky shores and ice floes."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: pawprint, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-pawprint, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

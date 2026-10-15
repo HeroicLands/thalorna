@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A huge non-venomous snake of tropical regions that kills through patient, crushing coils, subduing prey far larger than its own head."
 tags: [animal, creature]
-data: {packFolder: animals, icon: snake, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-snake, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

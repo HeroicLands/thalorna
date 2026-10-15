@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small bipedal predator that overwhelms prey through stealth, patience, and terror rather than brute strength, stalking forests and ruins."
 tags: [animal, creature]
-data: {packFolder: animals, icon: dinosaurrex, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-dinosaurrex, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

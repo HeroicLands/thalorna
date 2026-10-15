@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A refined, smooth-gaited riding horse bred by nobility for comfort over long distances, favored by ladies, couriers, and wealthy merchants."
 tags: [animal, creature]
-data: {packFolder: animals, icon: horsehead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-horsehead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

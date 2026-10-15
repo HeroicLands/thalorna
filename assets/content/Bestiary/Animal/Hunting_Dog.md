@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A medium-sized, powerfully built canine bred to track and bring down prey, combining lean endurance with intelligence honed by generations of training."
 tags: [animal, creature]
-data: {packFolder: animals, icon: hound, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-hound, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

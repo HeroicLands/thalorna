@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small, sure-footed equine prized for endurance and long life, hauling loads through rough terrain that would defeat a horse."
 tags: [animal, creature]
-data: {packFolder: animals, icon: donkey, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-donkey, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

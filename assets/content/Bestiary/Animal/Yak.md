@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive, cold-adapted highland bovine providing milk, transport, and survival to mountain peoples amid the harshest peaks."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: bison, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-bison, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

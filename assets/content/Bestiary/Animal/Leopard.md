@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A solitary, nocturnal ambush cat of the eastern hills and river forests, pound-for-pound among the strongest and most adaptable of all great cats."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: feline, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-feline, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

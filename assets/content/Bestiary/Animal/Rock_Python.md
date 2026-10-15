@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive constrictor serpent up to forty feet long, slow but unstoppable, ambushing prey in deep jungles, rocky highlands, and caves."
 tags: [animal, creature]
-data: {packFolder: animals, icon: snake, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-snake, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

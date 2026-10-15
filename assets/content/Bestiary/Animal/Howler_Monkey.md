@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A large, heavily built canopy folivore of tropical forests, living in troops and producing the loudest vocalization of any land animal."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: monkey, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-monkey, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

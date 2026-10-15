@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A solitary apex raptor of high ridges and passes, patrolling vast territory to snatch small mammals and fish with sudden violence."
 tags: [animal, creature]
-data: {packFolder: animals, icon: eaglehead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-eaglehead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

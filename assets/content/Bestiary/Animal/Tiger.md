@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "The world's largest cat, a solitary ambush hunter sitting atop every food chain across jungle, grassland, and river margin."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: tiger, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-tiger, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

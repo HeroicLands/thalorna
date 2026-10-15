@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A large, disciplined canine bred for protection, obeying its handler's commands while defending settlements and charges with the aggression of a trained predator."
 tags: [animal, creature]
-data: {packFolder: animals, icon: hound, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-hound, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

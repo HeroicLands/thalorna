@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive, ill-tempered wild bovine of prehistoric power that roams grasslands and sparse forests in loose, dangerous herds."
 tags: [animal, creature]
-data: {packFolder: animals, icon: bull, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-bull, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

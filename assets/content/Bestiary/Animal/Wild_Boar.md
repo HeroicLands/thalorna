@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A heavily muscled, stocky ungulate of temperate forests, ferociously territorial and dangerous when cornered or defending its ground."
 tags: [animal, creature]
-data: {packFolder: animals, icon: boar, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-boar, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

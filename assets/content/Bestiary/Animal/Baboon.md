@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A powerfully built, highly social monkey of the river lowlands, dwelling in rocky escarpments and river margins near human settlements."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: monkey, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-monkey, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

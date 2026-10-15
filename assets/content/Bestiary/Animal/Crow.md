@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A clever, adaptable passerine thriving alongside humans, showing curiosity, problem-solving, and a memory that lends each bird real personality."
 tags: [animal, creature]
-data: {packFolder: animals, icon: crowdive, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-crowdive, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

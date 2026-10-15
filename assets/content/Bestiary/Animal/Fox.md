@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small, cunning solitary carnivore of forests and settlement margins, notorious for raiding coops and outwitting traps and hounds."
 tags: [animal, creature]
-data: {packFolder: animals, icon: fox, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-fox, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

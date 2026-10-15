@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A tall, elegant wading bird of temperate wetlands, so revered in imperial culture that harming one carries legal punishment."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: pawprint, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-pawprint, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

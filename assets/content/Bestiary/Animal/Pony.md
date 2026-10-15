@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A stocky, strong equine under fourteen hands, bred for endurance and labor as a draft animal and reliable mount for smaller riders and dwarves."
 tags: [animal, creature]
-data: {packFolder: animals, icon: horsehead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-horsehead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

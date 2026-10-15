@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A mature forest-dwelling male cervid with large branching antlers, turning dangerously aggressive toward intruders during the rutting season."
 tags: [animal, creature]
-data: {packFolder: animals, icon: staghead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-staghead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

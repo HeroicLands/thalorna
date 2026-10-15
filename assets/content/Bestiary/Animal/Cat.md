@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small solitary predator living between wild and tame, hunting vermin with lethal efficiency while tolerating the humans it shares hearths with."
 tags: [animal, creature]
-data: {packFolder: animals, icon: cat, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-cat, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

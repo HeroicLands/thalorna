@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive domesticated herbivore bred for docility and labor, standing up to six feet at the shoulder yet capable of goring the careless."
 tags: [animal, creature]
-data: {packFolder: animals, icon: cow, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-cow, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

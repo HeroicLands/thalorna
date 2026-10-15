@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "The largest living bird of the desert, a flightless seven-to-nine-foot desert runner carried on a pair of devastatingly powerful legs."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: cassowaryhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-cassowaryhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

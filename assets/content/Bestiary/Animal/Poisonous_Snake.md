@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "An efficient ambush predator armed with a specialized venom delivery system, striking swiftly from forests, badlands, and diverse patient-hunting niches."
 tags: [animal, creature]
-data: {packFolder: animals, icon: snake, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-snake, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

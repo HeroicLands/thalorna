@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small but ferocious mustelid whose rubbery, twisting hide lets it bite attackers even when pinned, fighting far above its thirty-five pounds."
 tags: [animal, creature]
-data: {packFolder: animals, icon: badger, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-badger, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "The apex arctic predator of the far north, a solitary fifteen-hundred-pound hunter of ice and freezing water, a pure carnivore unlike the omnivorous brown bear."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: polarbear, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-polarbear, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

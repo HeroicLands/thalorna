@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A colossal armored warhorse bred as a living fortress, carrying rider and full plate into the most violent battles without faltering."
 tags: [animal, creature]
-data: {packFolder: animals, icon: horsehead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-horsehead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

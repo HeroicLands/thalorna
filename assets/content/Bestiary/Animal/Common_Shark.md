@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A sleek oceanic predator honed for efficient killing, cruising warm and temperate seas and tracking prey through acute senses."
 tags: [animal, creature]
-data: {packFolder: animals, icon: sharkjaws, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-sharkjaws, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

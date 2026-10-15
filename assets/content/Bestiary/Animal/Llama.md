@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A domesticated highland camelid serving as pack animal, fiber and meat source, and guardian of smaller livestock in mountain caravans."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: camelhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-camelhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

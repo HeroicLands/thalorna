@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A lightly built sprinting cat of the arid grasslands, built for blistering speed to run down gazelle across open gravel plains."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: lion, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-lion, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

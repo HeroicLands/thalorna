@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A large, fast venomous serpent of the river lowlands, haunting river margins, granaries, and ruins where its bite delivers swift death."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: snake, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-snake, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

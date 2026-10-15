@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A sleek, semi-arboreal reptilian predator over ten feet long, blending into rocky scrubland where it basks by day and hunts by night."
 tags: [animal, creature]
-data: {packFolder: animals, icon: gecko, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-gecko, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

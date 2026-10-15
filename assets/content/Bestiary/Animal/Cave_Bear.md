@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A titanic solitary apex predator of mountains and deep caverns, larger and more muscular than any brown bear and thought to survive from an older age."
 tags: [animal, creature]
-data: {packFolder: animals, icon: bearhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-bearhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

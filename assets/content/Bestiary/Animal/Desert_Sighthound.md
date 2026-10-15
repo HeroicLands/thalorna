@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A lean, elegant desert sighthound of ancient lineage, built entirely for speed to course gazelle and hare across open dunes."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: hound, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-hound, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

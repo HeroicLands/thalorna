@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A powerfully built desert hunting cat of the arid steppe, prowling rocky scrubland and thorn thickets for prey it ambushes with explosive leaps."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: lynxhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-lynxhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

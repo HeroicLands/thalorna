@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A one-humped desert transport animal engineered for the harshest arid wastes, faster than its two-humped cousin but far more nervous and aggressive."
 tags: [animal, creature]
-data: {packFolder: animals, icon: camelhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-camelhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

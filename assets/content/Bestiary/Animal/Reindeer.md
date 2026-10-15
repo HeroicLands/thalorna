@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A hardy northern cervid in which both sexes grow antlers, supremely adapted to survive and sustain entire cultures in bitter arctic cold."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: deer, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-deer, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

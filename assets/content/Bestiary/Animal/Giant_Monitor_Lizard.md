@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "The largest living lizard, a heavily muscled nine-to-ten-foot reptile whose broad-jawed, coarse-scaled body makes it a formidable ambush hunter."
 tags: [animal, creature]
-data: {packFolder: animals, icon: gecko, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-gecko, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

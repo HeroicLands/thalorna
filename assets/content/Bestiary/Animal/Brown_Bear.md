@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A colossal, fiercely territorial apex predator of boreal and alpine wilds, the most dangerous large hunter of the northern hemisphere."
 tags: [animal, creature]
-data: {packFolder: animals, icon: bearhead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-bearhead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

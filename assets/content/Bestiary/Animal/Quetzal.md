@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small, brilliantly iridescent jungle trogon whose trailing green tail feathers are prized above gold across the highland civilizations."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: pawprint, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-pawprint, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

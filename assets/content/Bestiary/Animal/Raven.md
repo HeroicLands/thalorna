@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A large, uncannily intelligent black bird thriving everywhere from deep wilderness to crowded cities, hovering between wild scavenger and civilized companion."
 tags: [animal, creature]
-data: {packFolder: animals, icon: raven, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-raven, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

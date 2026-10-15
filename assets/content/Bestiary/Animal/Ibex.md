@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A powerfully built wild goat of the desert cliffs, the supreme climbing specialist scaling sheer rock faces and canyon escarpments with ease."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: goat, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-goat, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

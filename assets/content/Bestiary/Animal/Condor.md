@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive soaring vulture with a ten-foot wingspan, sacred to highland faith, spotting carrion from staggering altitudes above the western peaks."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: vulture, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-vulture, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A compact, aggressive tusked ungulate of forests and scrublands, quick to charge with muscle and violence when its territory is crossed."
 tags: [animal, creature]
-data: {packFolder: animals, icon: boar, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-boar, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

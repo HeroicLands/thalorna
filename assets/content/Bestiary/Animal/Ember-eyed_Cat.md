@@ -5,7 +5,11 @@ type: being
 subType: creature
 description: "A heavy, dark-coated forest cat the size of a leopard, with a faint green dapple and eyes that throw back lamp-light as a steady green, and the one beast of the forest that takes grown people."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: feline, templatePriority: 0, culture: kaliharanclt}
+data:
+  packFolder: animals
+  icon: sohl-none-icon-feline
+  templatePriority: 0
+  culture: kaliharanclt
 sohl:
   kbcat: animal
   attrRollFormula:

@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A muscular ambush-hunting feline that fells prey far larger than itself through precision and raw power across grasslands and scrublands."
 tags: [animal, creature]
-data: {packFolder: animals, icon: lion, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-lion, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

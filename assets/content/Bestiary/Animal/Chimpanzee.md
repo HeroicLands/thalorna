@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A fiercely intelligent primate capable of calculated, grudge-driven violence, remembering faces and grievances with a cunning that outmatches most predators."
 tags: [animal, creature]
-data: {packFolder: animals, icon: monkey, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-monkey, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

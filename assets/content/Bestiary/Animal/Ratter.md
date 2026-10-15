@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small, wiry hunting dog bred for relentless efficiency against rodents, guarding farms, mills, and grain stores throughout settled lands."
 tags: [animal, creature]
-data: {packFolder: animals, icon: hound, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-hound, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

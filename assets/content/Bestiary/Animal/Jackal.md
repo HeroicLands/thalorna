@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A small, adaptable canid of the river lowlands that hunts and scavenges along riverbanks, village middens, and necropolis complexes among the dead."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: hound, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-hound, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive solitary ambush predator of open steppes, holding and fiercely defending enormous territories against all intruders."
 tags: [animal, creature]
-data: {packFolder: animals, icon: lion, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-lion, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

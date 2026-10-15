@@ -5,7 +5,11 @@ type: being
 subType: creature
 description: "A tall, pale grey wading bird with a rust stripe down the neck that stands motionless in the reed-beds of the Bowl Lake for an hour and strikes with the whole neck."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: pawprint, templatePriority: 0, culture: kaliharanclt}
+data:
+  packFolder: animals
+  icon: sohl-none-icon-pawprint
+  templatePriority: 0
+  culture: kaliharanclt
 sohl:
   kbcat: animal
   attrRollFormula:

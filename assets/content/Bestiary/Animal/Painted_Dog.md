@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A lean, endurance-built savannah canid that hunts in coordinated packs of ten to thirty with unmatched efficiency across the open plains."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: hound, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-hound, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

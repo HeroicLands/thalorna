@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A lean, muscular solitary cat six to eight feet long, built for explosive speed and agility as it hunts across mountains and wilderness."
 tags: [animal, creature]
-data: {packFolder: animals, icon: lion, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-lion, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

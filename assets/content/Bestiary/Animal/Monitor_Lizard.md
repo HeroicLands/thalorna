@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A large, agile reptile five to seven feet long with a camouflaged hide and muscular neck, a lean predator of arid and rocky terrain."
 tags: [animal, creature]
-data: {packFolder: animals, icon: gecko, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-gecko, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:

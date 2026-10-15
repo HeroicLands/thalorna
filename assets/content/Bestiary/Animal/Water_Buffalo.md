@@ -5,7 +5,7 @@ type: being
 subType: creature
 description: "A massive semi-aquatic bovine of tropical floodplains, valued as a powerful draft beast yet formidable when running wild in feral herds."
 tags: [animal, creature, image-needed]
-data: {packFolder: animals, icon: buffalohead, templatePriority: 0}
+data: {packFolder: animals, icon: sohl-none-icon-buffalohead, templatePriority: 0}
 sohl:
   kbcat: animal
   attrRollFormula:
