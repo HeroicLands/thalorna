@@ -168,15 +168,17 @@ Lineage names are compounds of these stems, and so are the ports of Ilovanu and 
 
 ### People and the house
 
-| Form         | Class  | Gloss                                     | Built from                | Attested                              |
-| ------------ | ------ | ----------------------------------------- | ------------------------- | ------------------------------------- |
-| `manei`      | `n`    | a person, people                          | —                         | [[skill-kalihrlng\|Kalihári]]         |
-| `ia`         | `part` | of, marking the one a thing belongs to    | —                         | [[skill-kalihrlng\|Kalihári]]         |
-| `tavo-`      | `stem` | to walk beside, to guard on the road      | —                         | —                                     |
-| `ilu-`       | `stem` | to set down exactly, to write             | —                         | —                                     |
-| `teli-`      | `stem` | to count, to reckon                       | —                         | —                                     |
-| `kulanei`    | `n`    | one who flows, a given name               | `kula-` + `-nei`          | [[skill-kalihrlng\|Kalihári]]         |
-| `olitelinei` | `n`    | a star-reckoner, one who counts the stars | `oli-` + `teli-` + `-nei` | [[being-olvlthlr\|Olivael Ithaluori]] |
+| Form         | Class  | Gloss                                       | Built from                | Attested                              |
+| ------------ | ------ | ------------------------------------------- | ------------------------- | ------------------------------------- |
+| `manei`      | `n`    | a person, people                            | —                         | [[skill-kalihrlng\|Kalihári]]         |
+| `ia`         | `part` | of, marking the one a thing belongs to      | —                         | [[skill-kalihrlng\|Kalihári]]         |
+| `tavo-`      | `stem` | to walk beside, to guard on the road        | —                         | —                                     |
+| `ilu-`       | `stem` | to set down exactly, to write               | —                         | —                                     |
+| `teli-`      | `stem` | to count, to reckon                         | —                         | —                                     |
+| `yalo-`      | `stem` | to gainsay, to say a thing is not so        | —                         | —                                     |
+| `kulanei`    | `n`    | one who flows, a given name                 | `kula-` + `-nei`          | [[skill-kalihrlng\|Kalihári]]         |
+| `olitelinei` | `n`    | a star-reckoner, one who counts the stars   | `oli-` + `teli-` + `-nei` | [[being-olvlthlr\|Olivael Ithaluori]] |
+| `yalonei`    | `n`    | a gainsayer, one who says a thing is not so | `yalo-` + `-nei`          | [[being-olvlthlr\|Olivael Ithaluori]] |
 
 ## Making names
 
@@ -413,7 +415,7 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `Parvesh`         | `Noravei`           | an Earth name, the master of the Scribes' Guild            |
 | `Tavis`           | `Ruvaneli`          | an Earth word and name, the scribe's apprentice            |
 | `Dalen`           | `Vaoleni`           | an Earth word and name, the caravan guard's apprentice     |
-| `Lord Devendra`   | `Lord Maruvei`      | an Earth name, the head of the House of Varendi            |
+| `Lord Devendra`   | `Lord Maruvei`      | an Earth name, the head of the Kubasari                    |
 | `Astronomus`      | `Olitelinei`        | an Earth word, the byname of the pilots' astronomer        |
 | `Morwenna`        | —                   | an Earth name; the Lady of House Dûravîn goes by her house |
 | `Lysander Cross`  | —                   | Earth names; the foreign merchant goes unnamed             |

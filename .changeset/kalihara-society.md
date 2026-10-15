@@ -10,3 +10,5 @@
 - When a living held stone's work dies, its lineage gives the stone up to a sanctuary.
 - The Council of the Island, the Wardens of the Approaches, the Sílhari circle, the Keeper's House, the House of Factors and the lineages Kuethori and Avoluthei each have a page with their standings and offices.
 - Ilovanu's three merchant families are named: the Kubasari, the Zazurari and the Yakodari.
+- Kalihara has gear of its own: held stones that warm with their works and go cold when the works go dark, and the island's journals, cords, tools, trade goods, draughts and weapons.
+- Olivael Ithaluori's patron is the Kubasari, and her rivals are the astrologer Yalonei and the Ozeli, priests of Zûnêlâs in the foreign quarter's temple.

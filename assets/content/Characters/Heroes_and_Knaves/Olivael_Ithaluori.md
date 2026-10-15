@@ -482,15 +482,15 @@ Lately a darker motive has grown beside that one: the fear that something has go
 
 ### Patrons
 
-- **The House of Varendi**: an Ilovanu merchant house that has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord Maruvei**, counts her essential to his plans, and she thinks most of his plans foolish.
+- **The Kubasari**: the eldest of the three merchant families of the [[affiliation-housefactors|House of Factors]], which has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord Maruvei**, presides at the House as Eldest Factor and counts her essential to his plans, and she thinks most of his plans foolish.
 - **The Council of the Panepistemium**: Olivael's relations with the federation's leadership are uneasy, but several senior scholars are devoted to her work and send her money, rare texts and instruments across the water.
 - **The Telvári observatory**: the pilots keep a chamber for her in the observatory where she studied, with the best instruments on the island and the quiet her work needs.
 - [[affiliation-brazemas|Faith of Brâzêmâs]]: the priests of the storm god's temple in Ilovanu's foreign quarter, who count her readings of the sky a help to their own and support her with money and counsel.
 
 ### Enemies
 
-- **The Disputer**: a rival astrologer of the foreign quarter who has spent twenty years trying to prove her predictions are luck, coincidence and careful vagueness. He has discredited a few of her failed predictions and is working to have her expelled from the Panepistemium.
-- **The Institutional Church**: a faction among the temple clergy of the foreign quarter who hold astrology a heresy, giving the stars a power that belongs to the gods alone, and who campaign to have her work suppressed.
+- **Yalonei**: a rival astrologer of the foreign quarter, whom the port calls the gainsayer, who has spent twenty years trying to prove her predictions are luck, coincidence and careful vagueness. He has discredited a few of her failed predictions and is working to have her expelled from the Panepistemium.
+- **The Ozeli of the quarter**: priests of [[affiliation-zunelas|Zûnêlâs]] in the foreign quarter's Aurèldían temple, who hold that what is to come is shown only in the goddess's dreams, so that reading it in the stars is impiety, and who campaign to have her work suppressed.
 - **The ruined merchant**: a foreign merchant whom she warned against a venture thirty years ago. He went ahead and lost everything exactly as she foretold, and he has concluded that she caused the loss by sorcery. He is obsessed with having her brought before the harbor-wardens as a witch.
 
 ### Affiliations
@@ -503,6 +503,6 @@ Lately a darker motive has grown beside that one: the fear that something has go
 
 1. **The Breaking Sky**: Olivael's observations show planets straying from their predicted places and stars shifting in ways that should be impossible. She cannot tell whether the heavens are truly disordered, with consequences she can only guess at, or whether her own understanding is collapsing. Lord Maruvei wants the findings suppressed for fear of panic, while scholars across the water begin reporting the same anomalies, and Olivael must decide whether she is part of a discovery or of a shared delusion that will ruin her.
 2. **The Prophecy of Ruin**: A prophecy she made thirty years ago and kept secret, of the death of a great foreign ruler and the upheaval of a whole region, is about to come due. She withheld it believing she would learn how to prevent it, and she now sees that the very events she hoped would prevent it are the ones that will cause it. She can speak publicly, work in secret to change its course, or accept that she cannot stop it.
-3. **The Charlatan Unmasked**: Olivael obtains proof that the Disputer has falsified data and predictions for years. Exposing him would end their feud. But she finds that some of his false predictions kept people from decisions her own stars marked as harmful, and that his lies have done good she would undo.
+3. **The Charlatan Unmasked**: Olivael obtains proof that Yalonei has falsified data and predictions for years. Exposing him would end their feud. But she finds that some of his false predictions kept people from decisions her own stars marked as harmful, and that his lies have done good she would undo.
 4. **The Stolen Atlas**: Someone steals the nearly finished atlas, and with it months of final calculations. The thief was hired by unknown parties who want it suppressed or for themselves, and the trail leads toward the anomalies she has been watching, and toward the possibility that the disturbance in the heavens is being made by someone.
 5. **The Price of Knowledge**: A young scholar of rare promise asks to be her apprentice, and her charts show that he will one day betray her work and her name. She can teach him and try to prevent it, refuse him and perhaps make the enemy the stars foretold, or try to change his destiny by manipulating his life, and each choice compromises her principles or risks the very disaster she fears.
