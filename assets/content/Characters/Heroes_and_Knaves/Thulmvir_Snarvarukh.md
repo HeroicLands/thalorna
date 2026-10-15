@@ -468,8 +468,8 @@ At forty, Thulmvir is primarily motivated by the desire to preserve authentic cr
 
 ### Patrons
 
-The Merchant House Valdris
-: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Aldric Valdris**, respects traditional craftsmanship and keeps **Thulmvir's** work in demand among the upper classes.
+The Merchant House Vraldendikh
+: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Althmýl Vraldendikh**, respects traditional craftsmanship and keeps **Thulmvir's** work in demand among the upper classes.
 
 The Miller's Cooperatives
 : Multiple miller families depend on Thulmvir's storage and measurement vessels, which are prized for their durability and accuracy of form.
@@ -482,8 +482,8 @@ Herbalist Magga Hvalgumakh
 The Merchants' Collective of New Fashion
 : A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thulmvir's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
 
-Artisan Eldrik Vrathumakh
-: A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Eldrik champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's hold on the market. The ideological conflict between them runs deep.
+Artisan Ilthann Vrathumakh
+: A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Ilthann champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's hold on the market. The ideological conflict between them runs deep.
 
 ### Affiliations
 
@@ -495,9 +495,9 @@ The Traditionalists' Circle
 
 ## Plot Hooks
 
-1. **The Apprentice's Dilemma**: - **Thulmvir's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Eldrik**, involving travel to distant centers of the potter's art and the opportunity to experiment with new techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
+1. **The Apprentice's Dilemma**: - **Thulmvir's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Ilthann**, involving travel to distant centers of the potter's art and the opportunity to experiment with new techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
 
-2. **The Crisis of the Kiln**: - Thulmvir's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Aldric Valdris** to use a new, hotter kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.
+2. **The Crisis of the Kiln**: - Thulmvir's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Althmýl Vraldendikh** to use a new, hotter kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.
 
 3. **The Competition of Prestige**: - The King's court announces a grand competition for artisans across the realm—the winner will be commissioned to create the ceremonial vessels for a royal wedding, earning both significant payment and extraordinary prestige. Despite his reservations, Thulmvir's peers urge him to enter, and he's uncertain whether his traditional work can compete against younger, more innovative potters. The preparation process becomes an internal struggle between staying true to his principles and the temptation to compromise them for validation.
 

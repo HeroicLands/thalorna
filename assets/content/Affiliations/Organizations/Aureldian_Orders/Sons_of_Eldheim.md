@@ -14,7 +14,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Military bands of the Black Flame under their Blazewardens; Malekir leads the campaign against the Varokh.
+      Military bands of the Black Flame under their Blazewardens; Sîrêthôs leads the campaign against the Varokh.
     ranks:
       - level: 0
         title: Cast Out
@@ -40,7 +40,7 @@ The **Sons of Eldheim** are a military order within [[affiliation-blackflame|the
 
 The order has gained a foothold in [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Aelwyth]], among Nordmen whose Asguardian beliefs it seeks to displace. From there the Sons attempt to make inroads into the wider Nordlands. Their principal campaign is to take land from the [[affiliation-vrystwldtrbs|Varokhi villages]] of [[place-vrystwald|Vrystwald]] and use it as a base for further incursions. Raids have brought them into direct conflict with [[being-thrnkbldtscbr|Thornak Blodtusc Bar]] and Eichengrund, but control of Vrystwald is still their aim, not an accomplished conquest.
 
-Malekir holds the order's **Blazewarden** title and commands forces in that campaign. He has sworn to burn the Varokhi forest and sacrifice its Shamans to Ústaron. The threat gives the villages a common enemy without placing them under a lasting unified command.
+Sîrêthôs holds the order's **Blazewarden** title and commands forces in that campaign. He has sworn to burn the Varokhi forest and sacrifice its Shamans to Ústaron. The threat gives the villages a common enemy without placing them under a lasting unified command.
 
 ## See Also
 

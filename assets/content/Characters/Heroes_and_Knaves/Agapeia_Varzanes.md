@@ -430,7 +430,7 @@ Agápeia was born in the mining towns of the [[affiliation-byzarianlg|Byzarian L
 
 ### Coming of Age in Darkness
 
-From early childhood, Agápeia worked the mines alongside her parents. By her teenage years, she had become skilled in the fundamental techniques of her people—identifying rock types by sight and touch, understanding the structural integrity of stone, moving safely through treacherous passages. What set her apart, however, was a combination of her mother's intuitive connection to the earth's riches and her father's analytical mind. She began experimenting with improved tools and techniques, developing methods to extract gems with greater precision and less collateral damage. Her improvements attracted the attention of Overseer Dûrûm, a veteran of thirty years in the Byzarian mines, who took her as an informal apprentice around age sixteen. Under Dûrûm's mentorship, she learned mining craft and the workings of the mining hierarchies—how to negotiate with merchants, manage teams of workers, and handle the uneasy relationship between independent miners and the mining houses that controlled the richest deposits.
+From early childhood, Agápeia worked the mines alongside her parents. By her teenage years, she had become skilled in the fundamental techniques of her people—identifying rock types by sight and touch, understanding the structural integrity of stone, moving safely through treacherous passages. What set her apart, however, was a combination of her mother's intuitive connection to the earth's riches and her father's analytical mind. She began experimenting with improved tools and techniques, developing methods to extract gems with greater precision and less collateral damage. Her improvements attracted the attention of Overseer Karvashéna Halíkot, a veteran of thirty years in the Byzarian mines, who took her as an informal apprentice around age sixteen. Under Karvashéna's mentorship, she learned mining craft and the workings of the mining hierarchies—how to negotiate with merchants, manage teams of workers, and handle the uneasy relationship between independent miners and the mining houses that controlled the richest deposits.
 
 ### Independent Prospector
 
@@ -483,7 +483,7 @@ Agápeia is driven by a desire for autonomy and meaningful work that connects he
 Master Jeweler Sâvâlî
 : One of the Byzarian League's finest gem workers, who regularly commissions Agápeia to locate and extract specific gem varieties. Their relationship is built on mutual respect and years of reliable dealings.
 
-Overseer Dûrûm
+Overseer Karvashéna
 : Her former mentor, still active in the major mining operations, who refers her specialized prospecting jobs and occasionally provides her with information about emerging deposits and developments in the trade.
 
 The Clergy of Lîzêlâs
@@ -491,7 +491,7 @@ The Clergy of Lîzêlâs
 
 ### Enemies
 
-Mining Baron Valdûm Thex
+Mining Baron Lopebáz Halíkot
 : The ruthless owner of several of the largest mining operations in the Byzarian League, who views independent miners like Agápeia as obstacles to consolidation and profit. He has made subtle efforts to make her operations more difficult, buying up mineral rights to areas she frequents and offering inflated prices to her regular clients to undercut her sales.
 
 The Órashion Consortium
@@ -507,7 +507,7 @@ The Temple of Lîzêlâs
 
 ## Plot Hooks
 
-1. **The Lost Deposit**: An elderly miner named Garrin Stonestep, whom Agápeia knows by reputation, approaches her with a dying request. He has discovered what he believes to be an enormous deposit of rare crystalline material in the deep caves beneath the Byzarian heartland, but he lacks the strength to extract it himself, and he fears that if he reports it through official channels, the Órashion Consortium will seize it and destroy it with their reckless methods. He asks Agápeia to find the deposit, assess it, and determine the right thing to do with the knowledge. The catch: the location is in territory controlled by the mining operations of Baron Valdûm Thex, and Garrin's maps are incomplete and possibly inaccurate. Agápeia would need to assemble a team, tread dangerous political ground, and potentially uncover something far more significant than a simple mineral deposit—possibly evidence of magical excavation or something hidden beneath the earth that both the Consortium and Baron Thex desperately want to remain hidden.
+1. **The Lost Deposit**: An elderly miner named Garrin Stonestep, whom Agápeia knows by reputation, approaches her with a dying request. He has discovered what he believes to be an enormous deposit of rare crystalline material in the deep caves beneath the Byzarian heartland, but he lacks the strength to extract it himself, and he fears that if he reports it through official channels, the Órashion Consortium will seize it and destroy it with their reckless methods. He asks Agápeia to find the deposit, assess it, and determine the right thing to do with the knowledge. The catch: the location is in territory controlled by the mining operations of Baron Lopebáz Halíkot, and Garrin's maps are incomplete and possibly inaccurate. Agápeia would need to assemble a team, tread dangerous political ground, and potentially uncover something far more significant than a simple mineral deposit—possibly evidence of magical excavation or something hidden beneath the earth that both the Consortium and Baron Lopebáz desperately want to remain hidden.
 
 2. **The Escaped Crew**: One of Agápeia's former crews—miners she trained and sent out to work for one of the larger operations—sends word that they are fleeing their current employment. They have discovered that their operation is engaged in the extraction of something dangerous and unnatural, something that they believe is literally damaging the earth in ways that cause tremors and subsidence. They need Agápeia's help to escape with evidence of what is happening and to find refuge away from the Consortium's reach. Helping them would mean taking direct action against powerful interests.
 

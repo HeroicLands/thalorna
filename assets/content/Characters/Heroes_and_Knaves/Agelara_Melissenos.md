@@ -428,7 +428,7 @@ Agélâra stands 5'7" tall with a light build. She has olive skin, dark brown ha
 
 ### A Merchant's Daughter
 
-Agélâra was born the youngest of five daughters to **Merchant-Prince Kossian Stetês**, a wealthy trader in the [[affiliation-byzarianlg|Byzarian League]] whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Agélâra, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Melanthéhran Vuzigazûr**, proprietor of the famous Gilded Gryphon Inn.
+Agélâra was born the youngest of five daughters to **Merchant-Prince Selvâzhikon Zygákit**, a wealthy trader in the [[affiliation-byzarianlg|Byzarian League]] whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Agélâra, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Melanthéhran Vuzigazûr**, proprietor of the famous Gilded Gryphon Inn.
 
 ### The Making of an Innkeeper
 
@@ -472,18 +472,18 @@ Agélâra's driving passion is simple: she wants to create sanctuary. In a world
 
 ### Patrons
 
-Her Mother, Lady Kalista Stetês
-: Though officially estranged from her father, Agélâra maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Kalista has also become one of Agélâra's best sources of information about the social machinations of the wealthy.
+Her Mother, Lady Tchârzilína Zygákit
+: Though officially estranged from her father, Agélâra maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Tchârzilína has also become one of Agélâra's best sources of information about the social machinations of the wealthy.
 
 Master Melanthéhran Vuzigazûr
 : Her mentor and former owner, now retired, who still frequents the Gilded Gryphon to share wine with Agélâra and offer wisdom on business and life matters.
 
-Merchant-Lord Kaelith
+Merchant-Lord Kezhvâlikos Bolalídek
 : A worldly trader and collector of fine things who has become both a regular guest and a social ally, using his position to recommend the Gilded Gryphon to other wealthy travelers and defending Agélâra's reputation when necessary.
 
 ### Enemies
 
-Her Father, Merchant-Prince Kossian Stetês
+Her Father, Merchant-Prince Selvâzhikon Zygákit
 : Though not actively hostile, Agélâra's father views her choice as a personal rejection of his authority and the family's social position. He has pressured her to close the Inn and return to her "proper" role in the family business. The emotional distance between them causes Agélâra real pain despite her outward success.
 
 The Merchant's Syndicate

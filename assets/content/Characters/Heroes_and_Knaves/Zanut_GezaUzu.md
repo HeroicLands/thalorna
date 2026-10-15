@@ -499,7 +499,7 @@ Noblewoman Qiya of Gar-Theqeru
 
 ### Enemies
 
-Church Inquisitor Malachi the Censorious
+Church Inquisitor Zinlegir the Censorious
 : A zealous religious official who views Zanut's independent practice and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services. His scrutiny is partially motivated by religious concern, but also by his general hostility toward women working independently outside male supervision.
 
 The Merchant Alchemist Geron
@@ -518,7 +518,7 @@ A Manipulative Former Patient
 
 ## Plot Hooks
 
-1. **The Poisoning Accusation**: A prominent figure dies under mysterious circumstances after seeking treatment from Zanut. Though the death was not caused by her remedies—indeed, her potions were the only thing temporarily alleviating the victim's suffering—Inquisitor Malachi seizes the opportunity to formally accuse her of poisoning. She must gather evidence of her innocence while discovering the true cause of death, all while her reputation is systematically destroyed and patients cease coming to her out of fear.
+1. **The Poisoning Accusation**: A prominent figure dies under mysterious circumstances after seeking treatment from Zanut. Though the death was not caused by her remedies—indeed, her potions were the only thing temporarily alleviating the victim's suffering—Inquisitor Zinlegir seizes the opportunity to formally accuse her of poisoning. She must gather evidence of her innocence while discovering the true cause of death, all while her reputation is systematically destroyed and patients cease coming to her out of fear.
 
 2. **The Brother's Resurrection Possibility**: A scholar arrives claiming to represent an organization that has developed a ritual that might allow temporary resurrection of the recently dead—a procedure that would allow Zanut to speak with Khelôr one final time. The cost is extraordinary, and the scholar's claims are suspiciously convenient to Zanut's deepest emotional desire. She can pursue an impossible hope or recognize it as a fraud designed to exploit her grief.
 

@@ -487,8 +487,8 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 
 ### Patrons
 
-Captain-Merchant Taramandal
-: A successful merchant captain who employs Senāpati regularly and considers him the foundation of his trading success. Taramandal has offered Senāpati a permanent position with significant authority, which Senāpati has declined.
+Captain-Merchant Prthūrāja
+: A successful merchant captain who employs Senāpati regularly and considers him the foundation of his trading success. Prthūrāja has offered Senāpati a permanent position with significant authority, which Senāpati has declined.
 
 The Shipwrights' Shrenī of Vedyara
 : Maintains good relationships with the shrenī, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
@@ -498,8 +498,8 @@ Temple of Rāsikara
 
 ### Enemies
 
-Captain Dharen of the Crimson Sail
-: A merchant captain whom Senāpati once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Dharen has since built his own reputation for speed and profit, and he views Senāpati as a rival whose standards are "outdated" and "cost-prohibitive."
+Captain Dhārmāja of the Crimson Sail
+: A merchant captain whom Senāpati once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Dhārmāja has since built his own reputation for speed and profit, and he views Senāpati as a rival whose standards are "outdated" and "cost-prohibitive."
 
 Modernist Faction
 : A loose coalition of younger seafarers who view Senāpati's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
@@ -525,4 +525,4 @@ The Order of Mariners
 
 4. **The Generational Clash**: A young, brilliant sailor—perhaps the most talented Senāpati has trained in years—comes to him with a revolutionary idea for restructuring the crew's chain of command and how decisions are made in ways that Senāpati believes would undermine discipline. However, the sailor presents evidence that the new approach could improve both the work and the crew's morale by listening to what they know. Senāpati faces the possibility that his absolute standards are obstacles rather than advantages, and that excellence might look different from the way he has always practiced it.
 
-5. **The Rescue Refusal**: Senāpati's ship encounters another vessel in distress—likely sinking, crew in mortal danger. However, assisting would involve significant risk to Senāpati's own ship and crew, and the vessel in distress appears to belong to Captain Dharen, Senāpati's old enemy. The captain gives Senāpati the option: attempt a dangerous rescue or proceed safely onward. Senāpati has to weigh the brotherhood of the sea against his personal enmities.
+5. **The Rescue Refusal**: Senāpati's ship encounters another vessel in distress—likely sinking, crew in mortal danger. However, assisting would involve significant risk to Senāpati's own ship and crew, and the vessel in distress appears to belong to Captain Dhārmāja, Senāpati's old enemy. The captain gives Senāpati the option: attempt a dangerous rescue or proceed safely onward. Senāpati has to weigh the brotherhood of the sea against his personal enmities.

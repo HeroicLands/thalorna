@@ -477,10 +477,10 @@ Flarnthýra creates not for fame or fortune, though both have come to her, but b
 
 ### Patrons
 
-Merchant-Lord Théodric the Elder
+Merchant-Lord Thilmorv the Elder
 : A wealthy trader who has commissioned five major pieces and pays handsomely for work that takes her fancy. He seeks her favor for political reasons as much as aesthetic ones.
 
-Lady Sígrún Whitmore
+Lady Skilfrinna Anthidrokh
 : A minor noblewoman of impeccable taste who has become Flarnthýra's closest thing to a confidante, regularly commissioning decorative ware and providing commissions to others based on her recommendation.
 
 Master Jórun Graywick (Former Master)

@@ -470,7 +470,7 @@ Hvalgvir's driving force is the belief that civilization itself rests upon small
 Lady Constance Ashford
 : A noble widow who has become Hvalgvir's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
 
-Magistrate Horatio Greensleeves
+Magistrate Hvulgorv Hluskendikh
 : The town's chief law enforcement, who relies heavily on Hvalgvir's network of informants and his insight into the community's pulse.
 
 Lin'Zuwaret elu Aû'Khelâthu of Ódholm
@@ -481,7 +481,7 @@ Lin'Zuwaret elu Aû'Khelâthu of Ódholm
 Keth Vetrdómr
 : His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
 
-Thane Hrandarukh
+Thane Hrandynda
 : A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
 
 The Poison Cult of Ústaron

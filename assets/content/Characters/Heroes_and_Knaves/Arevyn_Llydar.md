@@ -481,7 +481,7 @@ The Royal Engineering Corps of Élavendre
 
 ### Enemies
 
-Foreman Kardos of the Deepmine Consortium
+Foreman Sálvurnë of the Deepmine Consortium
 : A ruthless operative who views Arévyn's safety rules as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
 
 The Industrialists' Council

@@ -498,7 +498,7 @@ Thâz'Lekhau [[being-etheritzrkh2|Etherita Zarukhét]]
 [[being-garaumeqesxv|Gar-Aû Meqes XVI]]
 : The reigning Gar-Aû depends on Thalura's judicial auguries and her ability to read the Genzet'Palu's shifting loyalties. She views Thalura as a necessary counterbalance to the more aggressive faction leaders within the court and the high priests of rival temples.
 
-Merchant Prince Othman
+Merchant Prince Linet
 : A wealthy spice trader from the eastern provinces and member of the Zebequ'Zut. He depended on the Iqe'Lêru network long before Gethor's death and now relies on Thalura's combined temple-and-commercial authority for political protection, providing exotic goods and useful intelligence from foreign ports in return.
 
 Zemelu [[being-amnalegezu2|Amnalegezu]]

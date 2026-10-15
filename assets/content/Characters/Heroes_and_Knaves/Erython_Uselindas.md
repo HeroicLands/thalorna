@@ -422,7 +422,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Érython was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], in the transitional lands where forest gives way to settled agriculture and the devotion to Lîzêlâs runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aurèldían faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord Keldarion**, the aging noble who oversaw these lands.
+Érython was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], in the transitional lands where forest gives way to settled agriculture and the devotion to Lîzêlâs runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aurèldían faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord Dôrândôs**, the aging noble who oversaw these lands.
 
 For a decade, Érython has served in this capacity—maintaining peace, hunting threats, and honing his craft to near-perfection. The serpent tattoo on his back was earned five years ago when he undertook a sacred pilgrimage to the heart of the Verdant Sanctum, seeking wisdom and blessing from Lîzêlâs for a failed hunt that cost a family their livelihood. The serpent, he was taught, represents regeneration and the cyclical nature of life—a reminder that even failure contains the seeds of renewal.
 
@@ -456,10 +456,10 @@ For a decade, Érython has served in this capacity—maintaining peace, hunting 
 
 ### Patrons
 
-Lord Keldarion
+Lord Dôrândôs
 : The aging nobleman who employs Érython values him not merely as a skilled guard but as a trusted counselor; their relationship has deepened over the decade of service into something approaching friendship.
 
-High Priestess Liríndâ of the Verdant Sanctum
+High Priestess Kâldrêmâ of the Verdant Sanctum
 : The spiritual leader who marked Érython with the serpent tattoo maintains contact with him, offering guidance and occasionally requesting that he undertake special missions.
 
 Master Fletcher Aldunor
@@ -474,7 +474,7 @@ Thaleris Swiftshot
 : A rival archer from a neighboring kingdom who publicly challenged Érython's reputation three years ago; though Érython defeated him in a formal competition, Thaleris harbors bitter resentment and spreads rumors about luck and fairness.
 
 The Crimson Cult
-: A faction of heretics who have targeted the Verdant Sanctum and its priests; Érython's connection to High Priestess Liríndâ has made him a target for their agents.
+: A faction of heretics who have targeted the Verdant Sanctum and its priests; Érython's connection to High Priestess Kâldrêmâ has made him a target for their agents.
 
 ### Affiliations
 
@@ -493,7 +493,7 @@ The Devotees of Lîzêlâs
 
 2. **The Poisoned Arrow**: Érython is framed for an assassination attempt when his distinctive arrows are found at the scene of a crime—yet he did not fire them. Investigation reveals someone is craftily duplicating his arrows and implicating him in murders and attacks. The conspiracy leads deeper into the kingdom's politics than Érython could have imagined, and he must prove his innocence while uncovering who has gone to such lengths to destroy his reputation.
 
-3. **The Verdant Sanctum Under Siege**: High Priestess Liríndâ sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Érython must lead a rapid journey to aid the sanctuary, only to discover that the attack was a diversion for something far darker happening at the shrine's heart.
+3. **The Verdant Sanctum Under Siege**: High Priestess Kâldrêmâ sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Érython must lead a rapid journey to aid the sanctuary, only to discover that the attack was a diversion for something far darker happening at the shrine's heart.
 
 4. **The Archery Tournament**: A grand tournament is announced that will attract the finest archers from across multiple kingdoms. Érython is strongly encouraged to participate, but strange portents surround the event. The party discovers that the tournament is actually a cover for darker purposes—slave trading, assassination, or the identification of skilled warriors for conscription into a shadowy force.
 

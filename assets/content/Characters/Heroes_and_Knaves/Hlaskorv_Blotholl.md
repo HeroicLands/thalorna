@@ -472,7 +472,7 @@ Hlaskorv is driven by two interrelated motivations: a determination to practice 
 The Masterwork Carpenters' Alliance
 : A collective of the region's finest woodworkers who depend upon Hlaskorv's timber for their most important commissions and fiercely defend his methods against criticism.
 
-Jarl Hnirvthann Forestborn
+Jarl Hlurthann Flirnidrokh
 : A noble who has made the surprising commitment to sustainable forest management and contracts Hlaskorv for all major timber needs across his extensive lands.
 
 The Herbal Society of Nordheim

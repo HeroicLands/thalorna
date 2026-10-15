@@ -424,7 +424,7 @@ Júthâra stands 5'11" tall with a medium build. She has warm amber skin, black 
 
 # Dossier {#dossier}
 
-Born into the Jâmîthôn family during the height of the Matriarchy's intellectual renaissance, Júthâra was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the physician **Thessala the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
+Born into the Jâmîthôn family during the height of the Matriarchy's intellectual renaissance, Júthâra was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the physician **Tabîra the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
 
 Her career took a darker turn when she accepted a commission from the ruling council to investigate a plague spreading through the outer provinces. During fieldwork in a remote village, she was attacked by infected victims who had turned feral—the source of her abdominal scar. She survived, but the experience transformed her from a clinical scholar into one obsessed with understanding the boundary between disease and corruption of the soul. For five years she disappeared from public life, conducting controversial experiments that earned her considerable censure.
 
@@ -465,7 +465,7 @@ Júthâra is driven by an almost obsessive need to understand the forces that co
 The Matriarch's Council
 : Officially, she serves the ruling body of [[affiliation-mtrrchybth|Bethua]], conducting investigations and providing medical consultation on matters of state health.
 
-Thessala the Wise
+Tabîra the Wise
 : Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.
 
 Master Archivist Solene
@@ -493,7 +493,7 @@ The Circle of Natural Philosophy
 
 2. **The Forbidden Experiment**: A mysterious patron offers Júthâra unlimited resources and access to restricted subjects—criminals and beggars—to continue her most controversial research into the boundary between natural disease and supernatural corruption. The offer is tempting and the patron's motives initially seem purely scientific, but evidence gradually emerges that they are actually seeking a way to weaponize her discoveries. She must navigate whether to proceed for the sake of knowledge or step back from a project that could transform her into a tool of destruction.
 
-3. **Thessala's Secret**: Her beloved mentor **Thessala the Wise** is dying from a condition Júthâra cannot diagnose. During a desperate attempt to understand the illness, she discovers evidence in Thessala's private notes that her mentor was herself involved in the plague research thirty years ago—and may have caused the outbreak Júthâra spent five years investigating. Júthâra must choose between confronting Thessala and potentially losing her final years together, or burying the truth and living with the knowledge that justice may never come.
+3. **Tabîra's Secret**: Her beloved mentor **Tabîra the Wise** is dying from a condition Júthâra cannot diagnose. During a desperate attempt to understand the illness, she discovers evidence in Tabîra's private notes that her mentor was herself involved in the plague research thirty years ago—and may have caused the outbreak Júthâra spent five years investigating. Júthâra must choose between confronting Tabîra and potentially losing her final years together, or burying the truth and living with the knowledge that justice may never come.
 
 4. **The Alchemical Breakthrough**: A young alchemist from outside the Matriarchy arrives with evidence of a transmutation process that could revolutionize medicine. However, the process requires components Júthâra knows to be fundamentally corrupting—things that should not be mixed in the natural world. She must decide whether to suppress potentially world-changing knowledge or explore it despite her grave reservations about the consequences.
 

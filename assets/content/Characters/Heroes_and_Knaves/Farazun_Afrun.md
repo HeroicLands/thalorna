@@ -459,8 +459,8 @@ Farazûn's primary motivation is to maintain his reputation as a reliable transp
 
 ### Patrons
 
-Merchant Lord Vashir
-: One of the most prominent trading masters in the Kingdom has employed Farazûn repeatedly and trusts him with valuable cargo; Vashir actively recommends him to other merchants.
+Merchant Lord Valhamin
+: One of the most prominent trading masters in the Kingdom has employed Farazûn repeatedly and trusts him with valuable cargo; Valhamin actively recommends him to other merchants.
 
 The Merchants' Consortium of the Eastern Roads
 : A formal organization of wealthy traders maintains Farazûn on contract for important shipments and considers him one of their most valued contractors.

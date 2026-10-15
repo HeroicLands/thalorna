@@ -474,7 +474,7 @@ The Temple of Ólvenía
 Merchant Peldan the Prosperous
 : A wealthy local trader who appreciates fine craftsmanship and has commissioned several pieces for his home, serving as Xadrôs' most reliable repeat customer.
 
-Village Elder Marîn
+Village Elder Pîrkêlar
 : The village's governing elder who treasures Xadrôs' work and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
 
 ### Enemies

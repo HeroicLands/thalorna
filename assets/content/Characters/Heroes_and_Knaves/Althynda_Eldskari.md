@@ -484,10 +484,10 @@ Priestess Sigrid
 Master Craftsman Vraldvir
 : A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
-The Widow Hvarnrinna
+The Widow Hvurnrinna
 : An elderly woman of considerable means who has adopted Althynda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althynda's work to her social circle.
 
-Lord Hlirthorv
+Lord Hlirthmýl
 : A minor nobleman who discovered Althynda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
 
 ### Enemies

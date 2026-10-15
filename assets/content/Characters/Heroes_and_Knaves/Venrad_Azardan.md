@@ -475,7 +475,7 @@ Venrâd is driven by a need to prove that the combination of instinct, skill, an
 Merchant Consortium of the Eastern Trade
 : A powerful merchant collective that has contracted Venrâd's services repeatedly for particularly difficult voyages between kingdom ports and distant trading partners.
 
-Captain Teshmar the Venerable
+Captain Tahruz the Venerable
 : An aging merchant captain and Venrâd's closest friend, who continues to offer him navigation contracts and is one of the few people Venrâd trusts.
 
 ### Enemies

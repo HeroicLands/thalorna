@@ -404,7 +404,7 @@ Lady Ârnela Kórisvar is a 42-year-old woman who stands 5'6" tall and is of mod
 
 ### The Kórisvar Name
 
-The Kórisvars are a minor noble house of [[place-lizela|Lizèla]], their wealth built on coastal trade and the salt flats east of the town. Ârnela's father, Lord Pálthen Kórisvar, was a cautious man who kept his head down during the last decades of political maneuvering between the crown and the Council of Peers. He died when Ârnela was twenty-six, leaving her an estate that was solvent but unremarkable—a manor house on the hill above Lizèla's harbor, a handful of tenant farms, fishing rights along a stretch of coast, and a seat on the town's charter council that no one particularly coveted.
+The Kórisvars are a minor noble house of [[place-lizela|Lizèla]], their wealth built on coastal trade and the salt flats east of the town. Ârnela's father, Lord Lordhème Kórisvar, was a cautious man who kept his head down during the last decades of political maneuvering between the crown and the Council of Peers. He died when Ârnela was twenty-six, leaving her an estate that was solvent but unremarkable—a manor house on the hill above Lizèla's harbor, a handful of tenant farms, fishing rights along a stretch of coast, and a seat on the town's charter council that no one particularly coveted.
 
 ### A Different Kind of Ambition
 
@@ -442,7 +442,7 @@ She also carries a fear she would never voice aloud: that her father was right, 
 
 ### Patrons
 
-Countess Shamûlar Tárveneth
+Countess Kiràma Ilthorandìs
 : A senior member of the Council of Peers and leader of the reformist faction. She sees Ârnela as a useful ally—capable, ambitious, and expendable enough that the Countess can use her as a stalking horse for policies too controversial to champion directly. Ârnela is aware of this and accepts it as the cost of access.
 
 Master Lúcen Fáravel
@@ -450,7 +450,7 @@ Master Lúcen Fáravel
 
 ### Enemies
 
-Lord Vásquen Cortelúni
+Lord Aurènthe Orthemandìs
 : Head of one of Lizèla's older noble families and a staunch traditionalist who views Ârnela's academy as an insult to the proper order—educating commoners above their station, he says, weakens the order of society. He has blocked several of her proposals on the charter council and is quietly working to undermine her influence at court. The rivalry is conducted with impeccable Provenzian courtesy, and is dangerous all the same.
 
 The Syndics of Kalvèza
@@ -460,10 +460,10 @@ The Syndics of Kalvèza
 
 1. **The Compact Under Siege**—The Syndics of Kalvèza have found a legal vulnerability in the fishing compact and are preparing a formal challenge before the royal court. If the compact is overturned, Ârnela loses her signature achievement and the political credibility built upon it. She must defend the compact while discovering who inside Lizèla leaked the information the Syndics needed.
 
-2. **The Countess's Gambit**—Countess Tárveneth asks Ârnela to publicly champion a controversial reform—extending chartered rights to two more towns—knowing it will draw fierce opposition from traditionalists. If Ârnela succeeds, the reform advances and her standing rises. If she fails, the Countess loses nothing while Ârnela absorbs the political damage. The reward may or may not justify the risk of becoming the Countess's sacrificial piece.
+2. **The Countess's Gambit**—Countess Ilthorandìs asks Ârnela to publicly champion a controversial reform—extending chartered rights to two more towns—knowing it will draw fierce opposition from traditionalists. If Ârnela succeeds, the reform advances and her standing rises. If she fails, the Countess loses nothing while Ârnela absorbs the political damage. The reward may or may not justify the risk of becoming the Countess's sacrificial piece.
 
 3. **A Scholar's Disappearance**—One of the academy's most promising instructors vanishes without notice. Investigation reveals he was conducting research into pre-Vylarian ruins in the hills above Lizèla—research that may have drawn the attention of [[affiliation-ordoarcanis|the Ordo Arcanis]]. Ârnela has to handle the delicate politics of the Ordo's relationship with the Provenzian crown while finding her missing scholar before the Ordo's Sekran does.
 
-4. **The Cortelúni Marriage**—Lord Vásquen proposes a marriage alliance between his eldest son and Ârnela, framing it as a reconciliation between the traditional and reform factions in Lizèla. The offer is politically astute and personally revolting. Refusing outright would insult a powerful family; accepting would yoke her to a man who despises everything she has built. She needs a third option.
+4. **The Orthemandìs Marriage**—Lord Aurènthe proposes a marriage alliance between his eldest son and Ârnela, framing it as a reconciliation between the traditional and reform factions in Lizèla. The offer is politically astute and personally revolting. Refusing outright would insult a powerful family; accepting would yoke her to a man who despises everything she has built. She needs a third option.
 
-5. **Debts of the Father**—A merchant from Tarûzel arrives in Lizèla with documents suggesting that Lord Pálthen Kórisvar borrowed heavily near the end of his life to cover losses that Ârnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.
+5. **Debts of the Father**—A merchant from Tarûzel arrives in Lizèla with documents suggesting that Lord Lordhème Kórisvar borrowed heavily near the end of his life to cover losses that Ârnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.

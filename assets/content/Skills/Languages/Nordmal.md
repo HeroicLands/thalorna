@@ -11,8 +11,8 @@ data:
   packFolder: language
   names:
     pattern:
-      male: ["{given} {clan}", "{given} {given.male}sen"]
-      female: ["{given} {clan}", "{given} {given.male}dóttir"]
+      male: ["{given} {clan}", "{given} {given.male}sen", "{given}", "{given} the {epithet}"]
+      female: ["{given} {clan}", "{given} {given.male}dóttir", "{given}", "{given} the {epithet}"]
     given:
       female:
         - "Althselda"
@@ -323,6 +323,17 @@ data:
       - "Vrithidrokh"
       - "Vruldidrokh"
       - "Vrutharukh"
+    epithet:
+      - "Cruel"
+      - "Cutthroat"
+      - "Elder"
+      - "Greedy"
+      - "Merciless"
+      - "Miser"
+      - "Reaver"
+      - "Unyielding"
+      - "Vengeful"
+      - "Younger"
 # terran_analog: the place-name layers follow Scandinavian toponymy: theophoric names such as Odensvi, Torsberg and Ullevi, a founder's name as in Grimsstadir, and the assembly's as in Thingvellir and Logberg.
 sohl:
   system:

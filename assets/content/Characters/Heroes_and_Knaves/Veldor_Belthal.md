@@ -429,7 +429,7 @@ At fourteen, Véldor apprenticed with **Master Celestyn Darnos**, the grand dire
 
 ### Current Situation
 
-Now, in his fourth decade, Véldor stands at the zenith of his career, yet feels the weight of time's passage. The roles that once came effortlessly now require greater discipline to master. His financial security is assured through generous patronage from the nobility of Élavendre—most notably from **Lady Sýlena of House Valorant**, whose love of the theatrical arts has translated into unflagging support—yet he senses a gnawing hollow beneath his considerable success. The applause that once intoxicated him now feels, on certain nights, like the roar of an uncaring sea.
+Now, in his fourth decade, Véldor stands at the zenith of his career, yet feels the weight of time's passage. The roles that once came effortlessly now require greater discipline to master. His financial security is assured through generous patronage from the nobility of Élavendre—most notably from **Lady Nélamis of House Valorant**, whose love of the theatrical arts has translated into unflagging support—yet he senses a gnawing hollow beneath his considerable success. The applause that once intoxicated him now feels, on certain nights, like the roar of an uncaring sea.
 
 ## Psyche
 
@@ -463,7 +463,7 @@ Véldor seeks the one thing that has always eluded him: the sense of real, lasti
 
 ### Patrons
 
-Lady Sýlena of House Valorant
+Lady Nélamis of House Valorant
 : A noblewoman of considerable wealth and refined taste who has become Véldor's primary benefactor. She hosts exclusive performances at her estate and maintains his theater company with generous annual donations. Their relationship is primarily financial, though rumors of romantic entanglement have circulated for years.
 
 The Élavendre City Theater Company's Board of Directors
@@ -489,7 +489,7 @@ The Élavendre City Theater Company
 
 1. **The Lost Manuscript**: A scholar approaches Véldor claiming to have discovered the complete text of an ancient, unperformed masterwork—a tragedy of such power that its author was said to have gone mad during its composition. The scholar believes Véldor is the only actor alive capable of bringing the role's protagonist to life, but completion of the work requires Véldor to undertake a dangerous expedition into the Obsidian Peaks to recover several missing pages from the ruins of an ancient library, where his rival **Dárion Ashford** has also taken an interest.
 
-2. **The Patron's Dangerous Secret**: **Lady Sýlena** discreetly summons Véldor and reveals that her patronage of the theater has been a cover for her involvement in a network of rebel agents working to undermine the current regime. She asks Véldor to use his access to noble circles to gather intelligence on a potential conspirator. Véldor must decide whether to involve himself in dangerous court politics, risk losing his patronage and livelihood, or betray Lady Sýlena's trust.
+2. **The Patron's Dangerous Secret**: **Lady Nélamis** discreetly summons Véldor and reveals that her patronage of the theater has been a cover for her involvement in a network of rebel agents working to undermine the current regime. She asks Véldor to use his access to noble circles to gather intelligence on a potential conspirator. Véldor must decide whether to involve himself in dangerous court politics, risk losing his patronage and livelihood, or betray Lady Nélamis's trust.
 
 3. **A Role That Demands Everything**: The Élavendre City Theater Company receives commission to perform a controversial new work that critiques the very foundations of the kingdom's social order. **Master Darnos** insists that Véldor perform the lead role—a character whose struggle with who he is and what his life means mirrors Véldor's own crisis. The performance becomes an obsession that slowly unravels Véldor's carefully maintained public persona, forcing him to confront the line between performance and reality.
 

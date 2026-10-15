@@ -472,7 +472,7 @@ Traveling Fair Circuit
 
 ### Enemies
 
-Priest Vandal of the Temple of Ashkanti
+Priest Vatesa of the Temple of Ashkanti
 : A high-ranking priest offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.
 
 Kulina Malvina the Austere

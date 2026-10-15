@@ -389,7 +389,7 @@ Hnirvmýl's runic mastery is unmatched in the northern lands; he can read omens 
 
 ### Patrons
 
-**Jarl Hvurnmýl of [[place-snarvfjord|Snarvfjord]]**—A cautious ruler who relies on Hnirvmýl's counsel before making any major decision. Hvurnmýl provides Hnirvmýl with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
+**Jarl Hvurnvir of [[place-snarvfjord|Snarvfjord]]**—A cautious ruler who relies on Hnirvmýl's counsel before making any major decision. Hvurnvir provides Hnirvmýl with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
 
 **The Raven Circle**—A secretive fellowship of runemasters and seers scattered across the northern realms who share forbidden knowledge through coded messages carved into waymarker stones.
 
@@ -405,6 +405,6 @@ Hnirvmýl's runic mastery is unmatched in the northern lands; he can read omens 
 
 2. **The Silent Ravens**—[[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]] have gone silent. Hnirvmýl can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
 
-3. **The Jarl's Dilemma**—Jarl Hvurnmýl's son has been accused of murder, and the evidence is damning. Hvurnmýl begs Hnirvmýl to use his sight to uncover the truth, but what Hnirvmýl sees in the runes implicates someone far more dangerous than anyone suspected.
+3. **The Jarl's Dilemma**—Jarl Hvurnvir's son has been accused of murder, and the evidence is damning. Hvurnvir begs Hnirvmýl to use his sight to uncover the truth, but what Hnirvmýl sees in the runes implicates someone far more dangerous than anyone suspected.
 
 4. **The Apprentice's Betrayal**—A former student of Hnirvmýl has begun using corrupted runes to enslave the minds of villagers. Hnirvmýl must confront his own failure as a teacher while stopping the apprentice before the corruption spreads.

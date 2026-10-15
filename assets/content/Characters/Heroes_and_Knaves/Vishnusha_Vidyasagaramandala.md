@@ -482,8 +482,8 @@ The Miners' Union Leadership
 
 ### Enemies
 
-Overseer Thālim
-: A ruthless administrator dispatched by the Merchant Collective to increase profits. Thālim views safety measures as unnecessary expense and has repeatedly overridden Shilāvīra's safety recommendations, creating dangerous conditions and tension between them.
+Overseer Tarīka
+: A ruthless administrator dispatched by the Merchant Collective to increase profits. Tarīka views safety measures as unnecessary expense and has repeatedly overridden Shilāvīra's safety recommendations, creating dangerous conditions and tension between them.
 
 The Industrial Consortium
 : A rival merchant organization that seeks to undercut the Collective's mining operations. They have attempted to poach Shilāvīra's workers and techniques, and have even offered him substantial sums to switch his allegiance.

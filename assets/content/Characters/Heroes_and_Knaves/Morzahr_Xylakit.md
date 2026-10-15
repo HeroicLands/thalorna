@@ -478,7 +478,7 @@ Lady Serena of House Thálassos
 The Xylákit Family Enterprise
 : His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
 
-Guild Master Sozomáhr the Ruthless
+Guild Master Frolázira Fabídek
 : The current head of the Timberwrights' Guild marked Morzáhr for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
 
 ### Affiliations
@@ -496,7 +496,7 @@ The Independent Craftspeople's League
 
 1. **The Ancient Wood of Akkrath**: A caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a weapon or construct an artifact of power. Morzáhr is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with temptation.
 
-2. **The Guild's Conspiracy**: Word reaches Morzáhr that Guild Master Sozomáhr is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Sozomáhr's corruption, or help Morzáhr arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Byzarian League.
+2. **The Guild's Conspiracy**: Word reaches Morzáhr that Guild Master Frolázira is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Frolázira's corruption, or help Morzáhr arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Byzarian League.
 
 3. **The Silent Partnership**: A mysterious benefactor offers Morzáhr a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Morzáhr has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
 

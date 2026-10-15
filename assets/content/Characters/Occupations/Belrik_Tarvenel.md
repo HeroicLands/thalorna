@@ -402,7 +402,7 @@ Bélrik occupies a liminal role within Élavendren society: respected as a speci
 
 ### Patrons
 
-**Captain Aelwyn Llýdar**—The commander of Élavendre's border militia. Aelwyn is a professional soldier who respects Bélrik's competence and has explicitly protected him from reassignment despite his social awkwardness. She has encouraged his investigative work into the ambush that nearly killed him, providing resources quietly.
+**Captain Élenor Tháurndë**—The commander of Élavendre's border militia. Élenor is a professional soldier who respects Bélrik's competence and has explicitly protected him from reassignment despite his social awkwardness. She has encouraged his investigative work into the ambush that nearly killed him, providing resources quietly.
 
 ### Enemies
 
@@ -410,7 +410,7 @@ Bélrik occupies a liminal role within Élavendren society: respected as a speci
 
 ## Plot Hooks
 
-1. **The Ambush Investigation**—Bélrik's investigation into the ambush that scarred him leads him to discover that the foreign agents involved had support from within Élavendre—specifically, members of the regional government who were facilitating border incursions in exchange for political power and trade access. The conspiracy is significant and implicates people with connections to the capital. Captain Aelwyn warns him that pursuing the investigation will make him politically dangerous, and he will be removed or eliminated. Bélrik must choose between abandoning the investigation or becoming a fugitive within his own country.
+1. **The Ambush Investigation**—Bélrik's investigation into the ambush that scarred him leads him to discover that the foreign agents involved had support from within Élavendre—specifically, members of the regional government who were facilitating border incursions in exchange for political power and trade access. The conspiracy is significant and implicates people with connections to the capital. Captain Élenor warns him that pursuing the investigation will make him politically dangerous, and he will be removed or eliminated. Bélrik must choose between abandoning the investigation or becoming a fugitive within his own country.
 
 2. **The Deep Forest Sanctuary**—Bélrik discovers evidence of a hidden settlement deep in the forest—a community of people who have left Élavendren civilization for various reasons (refugees, dissidents, religious separatists). The settlement is peaceful and self-sufficient, but its existence violates multiple laws. Bélrik has access to files that would expose the settlement and allow government forces to eliminate it. He is under pressure from his superiors to submit a report. He must choose between loyalty to law and loyalty to people he has come to respect.
 

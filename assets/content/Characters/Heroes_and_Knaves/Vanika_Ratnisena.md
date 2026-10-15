@@ -481,7 +481,7 @@ Vanika is driven by a fundamental commitment to excellence—the conviction that
 Shreshthin Kaliprasad
 : One of Vedyara's most prominent merchants and a devoted admirer of Vanika's cooking; he regularly hosts dinners at his residence and specifically requests that Vanika be hired to prepare meals, paying premium fees for her services.
 
-Priestess Malini
+Priestess Māndali
 : High priestess of Rāsikara's temple and a fellow devotee of the fire goddess; she has commissioned Vanika to prepare ritual meals and has become something of spiritual companion and advocate.
 
 The Ratnisena Family

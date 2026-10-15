@@ -109,7 +109,7 @@ The company is structured along legion lines, with adaptations for mercenary wor
 ### Notable Personnel
 
 - Captain Fýlazûr Zýghídek—professional, methodical, cold-blooded by selection rather than by temperament. He has no record of personal cruelty and is regarded by his men as fair, even generous. His decisions about which contracts to accept are the moral question that he, alone among the company, refuses to ask.
-- **First-Sergeant Karûsh**—Fýlazûr's senior field deputy and a Trianthion veteran. Karûsh was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghymâráhr Rorês]] for his subsequent desertion. Karûsh keeps an informal standing inquiry running for any rumor of Ghymâráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
+- **First-Sergeant Pârzhelion Trivídek**—Fýlazûr's senior field deputy and a Trianthion veteran. Pârzhelion was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghymâráhr Rorês]] for his subsequent desertion. Pârzhelion keeps an informal standing inquiry running for any rumor of Ghymâráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
 - First-Sergeant **Ghorigios Aikastos**—the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
 - Lieutenant **Ánevéze Pédhíkot**—commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
 
@@ -132,7 +132,7 @@ Training is rigorous and selective. The company recruits primarily from cashiere
 
 ## Internal Dynamics
 
-- _The Karûsh Question._ First-Sergeant Karûsh's obsession with hunting down Ghymâráhr Rorês consumes administrative bandwidth and produces standing tensions with Fýlazûr, who considers it a personal grievance being conducted on the company's time. Fýlazûr tolerates it because Karûsh is otherwise indispensable.
+- _The Pârzhelion Question._ First-Sergeant Pârzhelion's obsession with hunting down Ghymâráhr Rorês consumes administrative bandwidth and produces standing tensions with Fýlazûr, who considers it a personal grievance being conducted on the company's time. Fýlazûr tolerates it because Pârzhelion is otherwise indispensable.
 - _The Reform Whisper._ Lieutenant Ánevéze Pédhíkot has, quietly, begun arguing in officers' council for the company to refuse the worst class of contracts—strike-breaking and civilian suppression—on the grounds that such work is increasingly attracting League investigation. Fýlazûr has not ruled but is privately persuadable.
 - _The Generational Split._ The younger officers, recruited under Fýlazûr's tenure, have less personal investment in the company's hard reputation than the older sergeants do. A succession crisis on Fýlazûr's eventual retirement (he is fifty-three) is likely to be defined by which faction holds the senior cadre's vote.
 
@@ -149,7 +149,7 @@ The company's heraldry is a wolf's head, in profile, in dull gray on a black fie
 
 ## Plot Hooks
 
-- _The Located Deserter._ A rumor reaches First-Sergeant Karûsh that Ghymâráhr Rorês has been seen, still alive, in a particular village. The company is contracted in the field; Karûsh requests detachment of a small unit to pursue the rumor. Fýlazûr's response—grant the request, refuse it, or grant it under modified terms—will shape the company's next several months.
+- _The Located Deserter._ A rumor reaches First-Sergeant Pârzhelion that Ghymâráhr Rorês has been seen, still alive, in a particular village. The company is contracted in the field; Pârzhelion requests detachment of a small unit to pursue the rumor. Fýlazûr's response—grant the request, refuse it, or grant it under modified terms—will shape the company's next several months.
 - _The Refused Contract._ A wealthy patron offers the company a very large fee to suppress a developing peasant rebellion in the Aurèldían countryside. The contract is, by Iron Wolves standards, well within scope; Ánevéze Pédhíkot is the first officer in years to argue formally against accepting. The officers' council vote will be the company's first real test of the reformist faction's strength.
 - _The Compromised Officer._ Ghorigios Aikastos, the administrative First-Sergeant, has been quietly accepting payments from a [[affiliation-velvethand|Velvet Hand]] handler in exchange for the company's contract and movement records. The discovery, when it comes, will be a major internal crisis—Ghorigios is universally respected, and his information is operationally devastating.
 - _The Trianthion Survivor._ An elderly woman has begun, openly and publicly, claiming to be a survivor of the Trianthion massacre and demanding the League's intervention against the company. The woman's claim is plausible. Her testimony, if credited, would force the League to act. The company must decide between waiting out the political storm and acting to silence her—and acting carries risks neither captain Fýlazûr nor the League's quiet patrons are quite ready to authorize.

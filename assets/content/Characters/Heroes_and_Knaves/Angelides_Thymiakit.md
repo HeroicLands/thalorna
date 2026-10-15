@@ -425,17 +425,17 @@ Fodios stands 6'3" tall with a heavy build. He has tanned weathered skin, black 
 
 ### Early Years and Tragedy
 
-Born to a merchant family in the [[affiliation-byzarianlg|Byzarian League]], Fodios was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Thessal Thymiákit**—a marriage that was to unite two powerful merchant families.
+Born to a merchant family in the [[affiliation-byzarianlg|Byzarian League]], Fodios was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Sefâde Thymiákit**—a marriage that was to unite two powerful merchant families.
 
-On the night of their wedding, tragedy struck. A rival merchant house, jealous of his family's dominance in the lucrative perfume trade, orchestrated an attack. Fodios survived only by chance—his would-be assassin's blade struck his neck rather than his heart. His betrothed was not so fortunate. Thessal died in his arms, whispering words of forgiveness rather than recrimination, even as her blood stained the silken wedding garments they both wore.
+On the night of their wedding, tragedy struck. A rival merchant house, jealous of his family's dominance in the lucrative perfume trade, orchestrated an attack. Fodios survived only by chance—his would-be assassin's blade struck his neck rather than his heart. His betrothed was not so fortunate. Sefâde died in his arms, whispering words of forgiveness rather than recrimination, even as her blood stained the silken wedding garments they both wore.
 
 ### Transformation Through Craft
 
-For three years afterward, Fodios withdrew from society entirely, nearly taking his own life. It was his grandmother, the perfumer **Nofáz Pheromex**, who saved him by forcing him back into the workshop. She had him create a scent memory of Thessal—an impossible task, yet in attempting it, Fodios discovered fragrance as a tool for transformation, for healing, for capturing what cannot be named and rendering it tangible. He became obsessed, channeling his grief into learning every secret of the craft, traveling to distant lands to source rare botanicals and animal essences, studying with masters both orthodox and heterodox.
+For three years afterward, Fodios withdrew from society entirely, nearly taking his own life. It was his grandmother, the perfumer **Nofáz Pheromex**, who saved him by forcing him back into the workshop. She had him create a scent memory of Sefâde—an impossible task, yet in attempting it, Fodios discovered fragrance as a tool for transformation, for healing, for capturing what cannot be named and rendering it tangible. He became obsessed, channeling his grief into learning every secret of the craft, traveling to distant lands to source rare botanicals and animal essences, studying with masters both orthodox and heterodox.
 
 ### Current Station
 
-Now a master perfumer of unquestioned reputation, Fodios operates his own exclusive establishment within the Byzarian League's capital, serving only the most discerning clientele. He has achieved wealth and fame, yet neither brings him satisfaction. His work is exacting, even obsessive—he often spends months perfecting a single fragrance, rejecting batch after batch as insufficiently true to his vision. Nobility and merchants of consequence commission him for signature scents, and his waiting list extends years into the future. Yet he is a man still haunted by loss, still questioning whether his creations truly honor Thessal's memory or merely perpetuate his obsession.
+Now a master perfumer of unquestioned reputation, Fodios operates his own exclusive establishment within the Byzarian League's capital, serving only the most discerning clientele. He has achieved wealth and fame, yet neither brings him satisfaction. His work is exacting, even obsessive—he often spends months perfecting a single fragrance, rejecting batch after batch as insufficiently true to his vision. Nobility and merchants of consequence commission him for signature scents, and his waiting list extends years into the future. Yet he is a man still haunted by loss, still questioning whether his creations truly honor Sefâde's memory or merely perpetuate his obsession.
 
 ## Psyche
 
@@ -447,7 +447,7 @@ He is haunted by guilt—guilt at having survived, which manifests as compulsive
 
 ### Motivation
 
-Fodios drives himself relentlessly to create fragrances that go beyond craftsmanship and achieve something approaching transcendence—scents that transform the feelings of those who encounter them. He believes that through his work, he keeps Thessal's memory alive and honors her brief existence by elevating the mundane human experience toward beauty. There is a darker current in this: the suspicion that no perfection he achieves will ever satisfy him, that he is chasing an impossible goal to escape the gravity of his grief. He seeks redemption through creation, though he is not entirely certain what he is being redeemed for.
+Fodios drives himself relentlessly to create fragrances that go beyond craftsmanship and achieve something approaching transcendence—scents that transform the feelings of those who encounter them. He believes that through his work, he keeps Sefâde's memory alive and honors her brief existence by elevating the mundane human experience toward beauty. There is a darker current in this: the suspicion that no perfection he achieves will ever satisfy him, that he is chasing an impossible goal to escape the gravity of his grief. He seeks redemption through creation, though he is not entirely certain what he is being redeemed for.
 
 ### Strengths
 
@@ -471,7 +471,7 @@ Fodios drives himself relentlessly to create fragrances that go beyond craftsman
 
 - **Difficulty Delegating**: His perfectionism makes it nearly impossible for him to trust others with important work. He insists on personally overseeing every aspect of production, which limits his capacity and prevents the business from scaling.
 
-- **Dangerous Obsession**: His fixation on capturing Thessal's essence through fragrance borders on sickness. He occasionally pursues lines of inquiry that seem motivated by ghost-chasing rather than sound craft. Some worry he is slowly unraveling beneath the weight of his own standards.
+- **Dangerous Obsession**: His fixation on capturing Sefâde's essence through fragrance borders on sickness. He occasionally pursues lines of inquiry that seem motivated by ghost-chasing rather than sound craft. Some worry he is slowly unraveling beneath the weight of his own standards.
 
 - **Social Isolation**: Despite his charm and eloquence, he maintains a deep emotional distance from others. He has few real friends and no romantic entanglements, channeling all intimate capacity into his work. This isolation intensifies his obsessive tendencies.
 
@@ -479,10 +479,10 @@ Fodios drives himself relentlessly to create fragrances that go beyond craftsman
 
 ### Patrons
 
-Duchess Verenthia Stonehold
+Duchess Ginéhran Krizusídek
 : An aging noblewoman of considerable power who has become Fodios' most steadfast patron and something approaching a confidante. She commissions fragrance for every season and has referred numerous wealthy clients. She has also begun asking him searching questions about his past and future that suggest maternal concern.
 
-Lord Marchant Silus
+Lord Tûlvâzikos Kezhvâlzát
 : A wealthy merchant prince who collects unique fragrances as investments. He pays extraordinary sums for experimental pieces and has bankrolled several of Fodios' most ambitious botanical expeditions to distant lands.
 
 Master Educator Frokumês
@@ -494,7 +494,7 @@ Rival Perfumer Fritash Fotokâr
 : The only craftsman working at anywhere near Fodios' level, Fritash is driven by bitter envy and has begun spreading rumors that Fodios' fragrances contain narcotic additives and that he has achieved his reputation through illicit magic rather than legitimate skill. Fritash has also been systematically recruiting away Fodios' few apprentices.
 
 The Merchant House of Thorne
-: The family responsible for orchestrating the attack that took Thessal's life, though official records list them as innocent. They remain powerful, and recent reports suggest they are commissioning Fritash to create fragrances specifically designed to undermine Fodios' reputation.
+: The family responsible for orchestrating the attack that took Sefâde's life, though official records list them as innocent. They remain powerful, and recent reports suggest they are commissioning Fritash to create fragrances specifically designed to undermine Fodios' reputation.
 
 The Church Inquisitor Malthas
 : A zealous religious official who suspects Fodios' use of animal musks and certain exotic botanicals to constitute forbidden practices. He has initiated a quiet investigation into whether Fodios' work violates religious law, putting him in legal danger even if unfounded.
@@ -509,7 +509,7 @@ The Byzarian League Artisans' Guild
 
 ## Plot Hooks
 
-1. **The Scent of Resurrection**: An old woman arrives at Fodios' workshop claiming to be a visitor from the spirit realm, bearing a vial containing fragments of a scent she claims belonged to Thessal in life—impossible, since such a thing cannot exist. Yet when Fodios smells it, it contains elements that match his deepest intuitions about what Thessal would have worn. The woman demands he recreate the full fragrance, claiming it will allow Thessal's spirit to briefly walk the material world once more. The task is technically feasible, but it will require materials of such rarity and moral ambiguity that obtaining them will force Fodios to compromise his ethics. The woman may be what she claims, a fraud, or something far stranger.
+1. **The Scent of Resurrection**: An old woman arrives at Fodios' workshop claiming to be a visitor from the spirit realm, bearing a vial containing fragments of a scent she claims belonged to Sefâde in life—impossible, since such a thing cannot exist. Yet when Fodios smells it, it contains elements that match his deepest intuitions about what Sefâde would have worn. The woman demands he recreate the full fragrance, claiming it will allow Sefâde's spirit to briefly walk the material world once more. The task is technically feasible, but it will require materials of such rarity and moral ambiguity that obtaining them will force Fodios to compromise his ethics. The woman may be what she claims, a fraud, or something far stranger.
 
 2. **The Poisoner's Gambit**: A mysterious client commissions a fragrance with precise and unusual specifications—one that must carry specific olfactory properties while concealing the scent of a particular poison. The payment offered is extraordinary, enough to fund years of research. Fodios realizes immediately that the fragrance is intended to mask a murder weapon. Pulling at him are his need of money, his curiosity about an impossible technical challenge, and his moral principles. When he refuses, the client reveals himself as a high-ranking official in the government—and promises to destroy him if he does not comply.
 

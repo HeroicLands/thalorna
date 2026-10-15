@@ -482,7 +482,7 @@ Krênéze seeks to elevate hideworking from the status of a mere trade to that o
 
 ### Patrons
 
-Lady Ghodîa Stilogis
+Lady Ghodîa Elaiákit
 : A wealthy widow and patron of the arts who has become Krênéze's most consistent and generous patron. Ghodîa commissions regular pieces from Krênéze and has begun to introduce her work to other members of the city's artistic and intellectual circles.
 
 The Merchant Queens' Collective

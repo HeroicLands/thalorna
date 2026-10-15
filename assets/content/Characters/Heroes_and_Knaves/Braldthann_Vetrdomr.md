@@ -466,11 +466,11 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 
 ### Patrons
 
-Magistrate-Commander Svalthann Knarvumakh
-: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Svalthann privately worries about the aging craftsman's future reliability.
+Magistrate-Commander Svulthann Knarvendikh
+: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Svulthann privately worries about the aging craftsman's future reliability.
 
-Merchant-Prince Flarnvir Wayfarer
-: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Flarnvir credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
+Merchant-Prince Flarnthann Braldarukh
+: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Flarnthann credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
 
 ### Enemies
 

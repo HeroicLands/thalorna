@@ -480,18 +480,18 @@ Sakozês is driven by a desire to preserve what he considers to be the essential
 
 ### Patrons
 
-Governor Anthus Meridian
+Governor Belzûréla Chrysákit
 : The current governor of Byzaris, who values Sakozês's knowledge of ceremonial matters and relies heavily on his judgment regarding questions of proper form and precedent in official functions.
 
 The Grand Council of the Byzarian League
 : The highest governing body, which has come to rely on Sakozês as an advisor regarding proper ceremonial acknowledgment of important events, treaties, and transitions.
 
-High Priestess Teresia of Lîzêlâs
+High Priestess Dragoráhre Eriákit of Lîzêlâs
 : A priestess of the same order as his mother, who occasionally consults Sakozês regarding the intersection of religious ceremony and civic ritual.
 
 ### Enemies
 
-Herald Markus Vex
+Herald Zhevrânikos Nêshârzát
 : A younger, reform-minded herald who has begun to introduce informal elements into ceremonial contexts and who publicly advocates changing heraldic traditions. Sakozês views him as a threat to the entire order of society.
 
 The Progressive Council Faction

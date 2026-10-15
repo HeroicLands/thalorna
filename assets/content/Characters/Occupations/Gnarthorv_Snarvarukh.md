@@ -398,7 +398,7 @@ Gnarthorv Snarvarukh is a 36-year-old man who stands 6'0" tall and is broad and 
 
 # Dossier {#dossier}
 
-Gnarthorv Snarvarukh is chief huntsman to Lady Elenora of [[place-wildwoodmnr|Wildwood Manor]], above the fishing village of Thraldfjord in [[place-nordheim|Nordheim]], a Nordman freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
+Gnarthorv Snarvarukh is chief huntsman to Lady Nulthýra of [[place-wildwoodmnr|Wildwood Manor]], above the fishing village of Thraldfjord in [[place-nordheim|Nordheim]], a Nordman freeman who has kept the manor's forest and settled the hunting quarrels of the fjord for fifteen years.
 
 Gnarthorv keeps the forest that climbs behind Thraldfjord from the manor to the high ground; the village lives on fish, and the forest lives on him. He was a fisherman's son who preferred the wood, and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge will carry, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport. The clans of the fjord bring him their disputes over hunting rights and grazing at the wood's edge; he rules against his own lady's guests when the season requires, and she has never once overruled him.
 
@@ -410,7 +410,7 @@ Gnarthorv is steady, cautious and deliberate, slow to change a method that works
 
 ### Motivation
 
-Gnarthorv wants the forest kept—its game, its ground and its balance—for the manor after him. He serves Lady Elenora because she lets him keep it that way.
+Gnarthorv wants the forest kept—its game, its ground and its balance—for the manor after him. He serves Lady Nulthýra because she lets him keep it that way.
 
 ### Strengths
 
@@ -418,13 +418,13 @@ Experienced, knowledgeable about the land and its game, a natural leader of hunt
 
 ## Social
 
-Gnarthorv belongs to Lady Elenora's retinue and ranks in it just below her steward.
+Gnarthorv belongs to Lady Nulthýra's retinue and ranks in it just below her steward.
 
 ## Companions
 
 ### Patrons
 
-Gnarthorv's patrons are Lady Elenora and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and—when the season or the ground demands it—refuses.
+Gnarthorv's patrons are Lady Nulthýra and the guests she brings to Wildwood Manor to hunt, whom he guides, outfits and—when the season or the ground demands it—refuses.
 
 ### Enemies
 
@@ -432,10 +432,10 @@ Nobody open, but a fjord is a small place, and the men he has ruled against over
 
 ## Plot Hooks
 
-1. **The Guest**—A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Elenora has left the answer to Gnarthorv.
+1. **The Guest**—A jarl's kinsman, guesting at the manor, wants to take a stag the season forbids, and will take a refusal as an insult to his house. Lady Nulthýra has left the answer to Gnarthorv.
 
 2. **The Boundary**—Two clans of the fjord have brought Gnarthorv a dispute over a stretch of the wood's edge that both have grazed for a century.
 
-3. **The Manor's Fortunes**—Lady Elenora's income has failed and she is under pressure to sell the timber rights to the forest. Gnarthorv has been asked what the wood is worth, and the truth is not what she wants to hear.
+3. **The Manor's Fortunes**—Lady Nulthýra's income has failed and she is under pressure to sell the timber rights to the forest. Gnarthorv has been asked what the wood is worth, and the truth is not what she wants to hear.
 
 4. **The Hard Winter**—The wolves have come down from the high ridge early and taken three of the village's cattle, and the fjord wants the pack hunted out. Gnarthorv knows the ridge cannot spare it and the village cannot spare the cattle.

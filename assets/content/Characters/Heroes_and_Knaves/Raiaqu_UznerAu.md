@@ -463,7 +463,7 @@ Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the pe
 
 ### Patrons
 
-Lord Commander Ankethet
+Lord Commander Gari
 : The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaqu implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
 
 The Gar-Gul'Thakétu

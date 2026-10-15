@@ -395,7 +395,7 @@ Vraldorv's left-handed fighting style is unorthodox and catches many opponents o
 
 ### Enemies
 
-**The former Jarl Skruldorv**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Skruldorv still commands loyal followers and plots revenge.
+**The former Jarl Skruldthann**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Skruldthann still commands loyal followers and plots revenge.
 
 **The Blood Eagle Clan**—A raider clan that follows the old ways of blood-vengeance and views Vraldorv's legal reforms as an attack on their traditions and honor.
 

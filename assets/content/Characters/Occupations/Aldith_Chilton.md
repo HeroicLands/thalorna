@@ -417,7 +417,7 @@ Her greatest strength is her supernatural ability to make others feel special, d
 
 ## Social
 
-Aldith is not merely affiliated with the Temple of Ólvenía in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess tolerates her because Aldith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Aldith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
+Aldith is not merely affiliated with the Temple of Ólvenía in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess, Godrun, tolerates her because Aldith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Aldith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
 
 Within Ashford's upper circles, she moves with ease and recognition. Merchants' wives seek her blessing for fertility. Ambitious magistrates visit her salons to be seen among the elite. Younger noblewomen ask her for advice on matters of love and seduction, and she gives it with the smugness of someone who has never experienced romantic rejection. Yet there is a brittleness to her social standing. She has made enemies through her indifference and through her casual willingness to favor some patrons over others based on whim. Some of the families whose daughters she has humiliated, whose sons she has rejected, harbor quiet resentments that, given the right circumstance, could turn into danger.
 
@@ -425,12 +425,12 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 
 **Patrons:**
 
-- **Lord Aldwin Forthright**, a wealthy merchant lord with diverse trading interests who has been Aldith's most generous patron for five years. He views her with a mixture of affection and proprietary ownership that borders on controlling.
+- **Lord Leofwin Greywick**, a wealthy merchant lord with diverse trading interests who has been Aldith's most generous patron for five years. He views her with a mixture of affection and proprietary ownership that borders on controlling.
 - **Lady Mérindel Ashford**, wife of a minor noble, who funds Aldith's salons partly from appreciation and partly because attending them elevates her own social standing.
 
 **Enemies:**
 
-- **Father Sérismond**, high priestess of the Temple of Ólvenía, who views Aldith as a useful asset but no more than that. Their relationship is cordial but tense; Sérismond's spiritual authority stands in implicit competition with Aldith's charismatic power.
+- **Father Edwald**, a priest of the Temple of Ólvenía, who views Aldith as a useful asset but no more than that. Their relationship is cordial but tense; Edwald's spiritual authority stands in implicit competition with Aldith's charismatic power.
 - **Cynric Blackweir**, a merchant's son whom Aldith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
 
 ## Plot Hooks

@@ -479,8 +479,8 @@ Dvarnvir is driven by a simple but deep conviction: good shelter saves lives. He
 
 ### Patrons
 
-Captain Hnarvthann Skalfarukh
-: A decorated military officer who has become Dvarnvir's best customer and closest friend. Hnarvthann purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's workshop.
+Captain Hnurvthann Skalfidrokh
+: A decorated military officer who has become Dvarnvir's best customer and closest friend. Hnurvthann purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's workshop.
 
 Master Hlarthmýl Roofmaker (Retired Mentor)
 : Though now elderly and mostly retired, Hlarthmýl still consults with Dvarnvir on particularly difficult projects and has referred many of his own clients to his former apprentice.
@@ -490,8 +490,8 @@ The Merchant Kalvin
 
 ### Enemies
 
-Kross the Cutthroat
-: A rival tentmaker who operates at half Dvarnvir's prices by using inferior materials and shoddy construction. Kross's tents look impressive but fail under real stress, yet he has stolen many contracts Dvarnvir might have earned. Kross also spreads rumors that Dvarnvir charges inflated prices for military cachet.
+Krildthann the Cutthroat
+: A rival tentmaker who operates at half Dvarnvir's prices by using inferior materials and shoddy construction. Krildthann's tents look impressive but fail under real stress, yet he has stolen many contracts Dvarnvir might have earned. Krildthann also spreads rumors that Dvarnvir charges inflated prices for military cachet.
 
 The Vithgard Cloth Syndicate
 : A merchant guild that seeks to control all textile production in the region. They view independent craftspeople like Dvarnvir as obstacles and have attempted to force him to buy exclusively through their network, dramatically increasing his material costs.
@@ -515,12 +515,12 @@ The Old Soldiers' Lodge
 
 ## Plot Hooks
 
-1. **The Expedition of the Doomed**: A famous explorer, **Lady Alfrúd Glarvarukh**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the city of **Hulavath**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
+1. **The Expedition of the Doomed**: A famous explorer, **Lady Althselda Glarvidrokh**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the city of **Hulavath**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
 
-2. **The Sabotaged Supply**: Dvarnvir receives an urgent order from **Captain Hnarvthann Skalfarukh** for emergency tents to shelter troops caught in unexpected winter weather. He works frantically to deliver them on time, and the tents save lives. Days later, he learns that someone has planted evidence suggesting his materials were stolen from the Cloth Syndicate, and he is accused of receiving stolen goods. The real culprit may be **Kross**, trying to discredit him, or someone with deeper political aims. Dvarnvir must prove his innocence while uncovering who is orchestrating his ruin.
+2. **The Sabotaged Supply**: Dvarnvir receives an urgent order from **Captain Hnurvthann Skalfidrokh** for emergency tents to shelter troops caught in unexpected winter weather. He works frantically to deliver them on time, and the tents save lives. Days later, he learns that someone has planted evidence suggesting his materials were stolen from the Cloth Syndicate, and he is accused of receiving stolen goods. The real culprit may be **Krildthann**, trying to discredit him, or someone with deeper political aims. Dvarnvir must prove his innocence while uncovering who is orchestrating his ruin.
 
 3. **The Talking Tent**: An old nomadic wanderer, **Zephyr the Unspeaking**, arrives at Dvarnvir's workshop requesting a specific tent design—one that matches a sketch the wanderer produces from memory. Dvarnvir realizes it matches designs described in fragments of old military records from before he was born. When he creates the tent according to specification, it seems to hum faintly in the wind, and people who sleep within it report vivid dreams of ancient times. The wanderer hints that this particular design contains subtle magical properties, and that **Zephyr** has been searching for someone capable of recreating it for years.
 
-4. **The Apprentice's Betrayal and Redemption**: Dvarnvir's latest apprentice, a talented young woman named **Dagrun**, befriends the rival **Kross** and begins secretly documenting Dvarnvir's techniques to share with the competitor. When Dvarnvir discovers this betrayal, he is devastated—not angry, but deeply hurt. Dagrun, guilt-stricken, confesses that she needed money to care for her sick mother and Kross promised to pay her. Dvarnvir faces a choice: cast her out and prove that the craft world punishes ambition, or find a way to help her that honors both their needs and his own integrity.
+4. **The Apprentice's Betrayal and Redemption**: Dvarnvir's latest apprentice, a talented young woman named **Dagrun**, befriends the rival **Krildthann** and begins secretly documenting Dvarnvir's techniques to share with the competitor. When Dvarnvir discovers this betrayal, he is devastated—not angry, but deeply hurt. Dagrun, guilt-stricken, confesses that she needed money to care for her sick mother and Krildthann promised to pay her. Dvarnvir faces a choice: cast her out and prove that the craft world punishes ambition, or find a way to help her that honors both their needs and his own integrity.
 
 5. **The Expedition That Matters**: A ragged group of refugees fleeing persecution approach Dvarnvir requesting enough tents to shelter two hundred people—they will take them on a dangerous journey to the Free Lands. They have little coin, and the Cloth Syndicate has threatened to prosecute anyone helping them escape. The King's tax collectors are actively seeking to intercept this refugee group. Dvarnvir must decide whether to risk his reputation and safety to help people he'll never meet find freedom, and whether his craftsmanship is meant only for those who can afford it, or whether it has a higher purpose.

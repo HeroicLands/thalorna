@@ -423,7 +423,7 @@ Standing at 5'11", Father Ostáran has a medium build, weighing around 170 pound
 
 # Dossier {#dossier}
 
-Ostáran Dorvás was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, **Álvaro Dorvás**, was a knight in the royal guard, while his mother, **Tesera**, was the daughter of a well-known scholar. From an early age, Ostáran was taught the principles of the **Árdavonian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
+Ostáran Dorvás was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, **Álvaro Dorvás**, was a knight in the royal guard, while his mother, **Zédima**, was the daughter of a well-known scholar. From an early age, Ostáran was taught the principles of the **Árdavonian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
 
 Although Ostáran’s family hoped he would follow in his father’s footsteps as a knight, Ostáran felt a strong calling to the clergy. He was particularly inspired by the god **Árdavon**, the god of justice and honor, who teaches his followers to defend the helpless and stand against oppression. By the age of 12, Ostáran expressed his desire to join the **Order of the Sword of Árdavon**, the priesthood dedicated to serving both the spiritual and martial aspects of the Árdavonian faith.
 
@@ -439,7 +439,7 @@ At the age of 20, Ostáran took his vows and was ordained as a priest dedicated 
 
 In recent years, the Kingdom of Tarvénia has faced increasing political unrest, with corruption spreading among the nobility. Several powerful lords have begun to use their influence to exploit the common people, disregarding the chivalric code and the teachings of Árdavon. As a priest, Ostáran has become a central figure in the church’s efforts to combat this rising tide of injustice. He is often called upon to investigate claims of corruption and arbitrate disputes, so that the kingdom’s laws of honor and protection are upheld.
 
-One of Ostáran’s most recent assignments involves investigating **Lord Goran Virador**, a noble accused of abusing his power and oppressing the local peasantry. Goran has seized land unlawfully and has shown a blatant disregard for the kingdom’s laws, presenting Ostáran with one of his most difficult challenges yet. As Ostáran digs further into the investigation, he uncovers a web of corruption that extends beyond Lord Goran, threatening the very foundations of Tarvénia’s chivalric code.
+One of Ostáran’s most recent assignments involves investigating **Lord Nizélo Ganotándis**, a noble accused of abusing his power and oppressing the local peasantry. Nizélo has seized land unlawfully and has shown a blatant disregard for the kingdom’s laws, presenting Ostáran with one of his most difficult challenges yet. As Ostáran digs further into the investigation, he uncovers a web of corruption that extends beyond Lord Nizélo, threatening the very foundations of Tarvénia’s chivalric code.
 
 ### Skills and Abilities
 
@@ -478,16 +478,16 @@ Despite his commitment to his faith, Father Ostáran is pragmatic enough to reco
 Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dálven]] Thórvek
 : A loyal knight and Ostáran’s close friend, Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dálven]] has been Ostáran’s protector and companion on many dangerous missions. Together, they have fought bandits, quelled rebellions, and brought corrupt nobles to justice. Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dálven]] lives by the ideals of Árdavonian chivalry and holds firm in his support of Ostáran’s quest for justice.
 
-Archbishop Valerio Córdava
-: The Árdavonian prelate at Polthámis, who confirms Ostáran’s arbitrations under seal and so meets him on the register four times a year. The commissions into noble corruption carry that seal, and so does the protection from the complaints they draw—protection Ostáran knows is conditional on the matter never reaching the royal court. Córdava is also **Tesera**’s brother. Neither of them says so, and nobody counts a scholar’s daughter who married into the royal guard as kin to an archbishop.
+Archbishop Thalúro Zenothándis
+: The Árdavonian prelate at Polthámis, who confirms Ostáran’s arbitrations under seal and so meets him on the register four times a year. The commissions into noble corruption carry that seal, and so does the protection from the complaints they draw—protection Ostáran knows is conditional on the matter never reaching the royal court. Zenothándis is also **Zédima**’s brother. Neither of them says so, and nobody counts a scholar’s daughter who married into the royal guard as kin to an archbishop.
 
 ### Enemies
 
-Lord Goran de Virador
-: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Goran sees Ostáran’s investigation as a direct threat to his power. Lord Goran will use every means at his disposal—bribery, manipulation, and even violence—to stop Ostáran from uncovering the full extent of his crimes.
+Lord Nizélo Ganotándis
+: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, Lord Nizélo sees Ostáran’s investigation as a direct threat to his power. Lord Nizélo will use every means at his disposal—bribery, manipulation, and even violence—to stop Ostáran from uncovering the full extent of his crimes.
 
-Lady Isolda de Varas
-: A shrewd noblewoman who plays a dangerous political game, Lady Isolda publicly supports the Árdavonian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Ostáran as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
+Lady Zenótha Ulmerándis
+: A shrewd noblewoman who plays a dangerous political game, Lady Zenótha publicly supports the Árdavonian faith but has secretly allied herself with the corrupt elements within the kingdom. She views Ostáran as an obstacle to her ambitions and has begun to quietly work against him, spreading rumors and using her influence in the royal court to undermine his reputation.
 
 ### Affiliations
 
@@ -496,8 +496,8 @@ Sir [[being-srdlvnthrvkknghtwstrnmrchs|Dálven]] Thórvek
 
 ## Plot Hooks
 
-1. **Investigating Corruption**: Ostáran’s investigation into Lord Goran’s actions could lead to the discovery of a larger conspiracy within the kingdom. Players could assist him in gathering evidence, infiltrating noble circles, or protecting him from assassination attempts.
+1. **Investigating Corruption**: Ostáran’s investigation into Lord Nizélo’s actions could lead to the discovery of a larger conspiracy within the kingdom. Players could assist him in gathering evidence, infiltrating noble circles, or protecting him from assassination attempts.
 
-2. **A Knight’s Duel**: Lord Goran, unwilling to face justice, may challenge Father Ostáran to a duel, forcing him to prove his martial skills in a high-stakes confrontation.
+2. **A Knight’s Duel**: Lord Nizélo, unwilling to face justice, may challenge Father Ostáran to a duel, forcing him to prove his martial skills in a high-stakes confrontation.
 
 3. **Political Intrigue**: As Father Ostáran navigates the complexities of the royal court, players may become entangled in the power struggles between the nobility and the church, with the fate of Tarvénia’s chivalric code hanging in the balance.

@@ -470,7 +470,7 @@ Lord Commander Mazitos of the [[place-eastrnmrch|Eastern March]]
 Merchant Consortium of the Golden Coast
 : Several trading families maintain Lôfáhr under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
 
-Duke Ramikhios Pylíkot
+Duke Dekheghash Pylíkot
 : An aging but still-powerful aristocrat who employs Lôfáhr for sensitive security work, often involving protection from internal conspiracies within the court.
 
 ### Enemies

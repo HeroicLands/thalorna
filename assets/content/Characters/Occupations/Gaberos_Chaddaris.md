@@ -405,11 +405,11 @@ Gábêros is fully integrated into Heliónis's intellectual and commercial estab
 
 ### Enemies
 
-**Merchant Lord Trekhekios Opulentus**—A wealthy merchant who has been engaged in systematic fraud within the agora marketplace—misrepresenting goods and engaging in deceptive practices. Gábêros has been aware of the fraud but lacks sufficient evidence for legal prosecution. Trekhekios views Gábêros as an obstacle and has begun working to discredit him through rumors of bias and prejudicial treatment.
+**Merchant Lord Dókharês Fàdîrôs**—A wealthy merchant who has been engaged in systematic fraud within the agora marketplace—misrepresenting goods and engaging in deceptive practices. Gábêros has been aware of the fraud but lacks sufficient evidence for legal prosecution. Dókharês views Gábêros as an obstacle and has begun working to discredit him through rumors of bias and prejudicial treatment.
 
 ## Plot Hooks
 
-1. **The Fraud Prosecution**—Gábêros finally secures enough evidence to prosecute Merchant Lord Trekhekios for fraud. The case is strong and Gábêros is prepared to present it to the magistrate. But during the preparation, Gábêros discovers that Master Academician Theron, his patron, has a financial relationship with Trekhekios—Theron borrowed money from Trekhekios years ago and is still paying it back. Theron, aware that the prosecution will damage Trekhekios and potentially interrupt the loan arrangement, asks Gábêros to delay or suppress the case. His patron and his integrity now ask different things of him.
+1. **The Fraud Prosecution**—Gábêros finally secures enough evidence to prosecute Merchant Lord Dókharês for fraud. The case is strong and Gábêros is prepared to present it to the magistrate. But during the preparation, Gábêros discovers that Master Academician Theron, his patron, has a financial relationship with Dókharês—Theron borrowed money from Dókharês years ago and is still paying it back. Theron, aware that the prosecution will damage Dókharês and potentially interrupt the loan arrangement, asks Gábêros to delay or suppress the case. His patron and his integrity now ask different things of him.
 
 2. **The Philosophical Extremist**—A charismatic philosopher begins gathering followers in the agora and delivering speeches that are technically legal but are clearly inciting social unrest and potentially violence against the merchant community. Gábêros cannot arrest him for speech alone, but he can see that the situation is escalating toward actual conflict. He is in a difficult position: prevent speech to maintain order, or maintain free expression and risk violence.
 

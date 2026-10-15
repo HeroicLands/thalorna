@@ -426,12 +426,12 @@ His status as a Freeman rather than a member of the formal nobility or merchant 
 
 **Patrons:**
 
-- **Captain Loris "Ironhand" Devereux**, a corsair captain with an old wound that Yutâlûsh healed years ago. Devereux considers him a friend and owes him life-debt, but this association is dangerous if discovered by the oligarchs.
-- **Merchant-Mother Silene Vasquez**, one of the more enlightened members of the Auric Compact who quietly steers resources toward Yutâlûsh's clinic and has never demanded anything in return beyond his discretion.
+- **Captain Bêshûra Tarmûmî**, a corsair captain with an old wound that Yutâlûsh healed years ago. Tarmûmî considers him a friend and owes him life-debt, but this association is dangerous if discovered by the oligarchs.
+- **Merchant-Mother Ninûri Shamîrû**, one of the more enlightened members of the Auric Compact who quietly steers resources toward Yutâlûsh's clinic and has never demanded anything in return beyond his discretion.
 
 **Enemies:**
 
-- **Magistrate Tarrûk Elkamûnî**, a rising figure in Bazûnel's oligarchic hierarchy who views Yutâlûsh's neutrality as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over the clinic's operations.
+- **Magistrate Tarrûk Eshkarûm**, a rising figure in Bazûnel's oligarchic hierarchy who views Yutâlûsh's neutrality as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over the clinic's operations.
 - **The Shadow Broker**, a mysterious figure who operates in the interstices of Bazûnel's resistance networks and who has been attempting to pressure or leverage Yutâlûsh into providing information about the oligarchs' health vulnerabilities—a request Yutâlûsh has thus far refused at considerable personal risk.
 
 ## Plot Hooks
@@ -442,6 +442,6 @@ His status as a Freeman rather than a member of the formal nobility or merchant 
 
 3. **The Informant's Test**—An intelligence operative from an outside power (perhaps a rival nation or a competing faction) arrives in Bazûnel and begins deliberately getting wounded in ways that require Yutâlûsh's care, each time establishing deeper rapport and testing whether he might be turned as an informant. The operative is subtle and charming, and by the time Yutâlûsh realizes what is happening, he has already become emotionally attached to them.
 
-4. **The Clinic's Collapse**—Resources mysteriously begin drying up. Magistrate Elkamûnî has been quietly but systematically undermining the clinic's supply chains and the temple authorities are becoming less protective. Within months, Yutâlûsh may have to close the clinic. The realization that he might be forced to abandon his patients breaks something in him, and he begins considering desperate measures.
+4. **The Clinic's Collapse**—Resources mysteriously begin drying up. Magistrate Eshkarûm has been quietly but systematically undermining the clinic's supply chains and the temple authorities are becoming less protective. Within months, Yutâlûsh may have to close the clinic. The realization that he might be forced to abandon his patients breaks something in him, and he begins considering desperate measures.
 
 5. **The Healer's Choice**—Two former patients—one an oligarchic official, one a resistance fighter—both arrive at the clinic gravely wounded at nearly the same moment. Yutâlûsh has resources to save one, perhaps both if he is extraordinarily fortunate. But his knowledge of each man's role and significance makes this decision far more than medical. Whoever he saves shapes Bazûnel's future. The weight of choosing which faction deserves to win finally forces Yutâlûsh to confront that his "neutrality" has always been a fiction.

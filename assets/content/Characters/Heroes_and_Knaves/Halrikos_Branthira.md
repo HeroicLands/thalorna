@@ -471,7 +471,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 ### Patrons
 
-Magistrate Korvain
+Magistrate Ilthéra
 : The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
 
 City Judge Thelessa
@@ -491,7 +491,7 @@ The Reformist Coalition
 Inspector Kelix
 : A younger city official who was denied promotion in part due to Hálrikos's testimony that she lacked proper understanding of procedural law; she blames him bitterly and works to discredit him.
 
-Lady Merchant Sylaine
+Lady Merchant Dúrreka
 : An ambitious trader who views Hálrikos's strict interpretation of contract law as an impediment to her commercial ambitions and has attempted to have him removed from his position.
 
 The Shadow Syndicate

@@ -418,7 +418,7 @@ Darzash stands 5'10" tall with a light build. She has tawny skin, very dark brow
 
 # Dossier {#dossier}
 
-Born in the craft-quarters of [[place-amradadrgn|Amradad]]'s inner city, Darzash inherited not merely the woodcrafter's trade but a philosophy of reverence for wood itself. Her father, **Sharib Shavân**, taught her that every timber piece harbors an inner form waiting to be revealed—that the craftsperson's duty is discovery, not imposition. She mastered the fundamentals with stubborn dedication, apprenticing informally with her father until his death when she was eighteen. Rather than accept commissions from wealthy merchants, she devoted five years to secret study, learning from traveling artisans and aging masters whose work appeared in temple sanctuaries and forgotten estates.
+Born in the craft-quarters of [[place-amradadrgn|Amradad]]'s inner city, Darzash inherited not merely the woodcrafter's trade but a philosophy of reverence for wood itself. Her father, **Shuvâr Shavân**, taught her that every timber piece harbors an inner form waiting to be revealed—that the craftsperson's duty is discovery, not imposition. She mastered the fundamentals with stubborn dedication, apprenticing informally with her father until his death when she was eighteen. Rather than accept commissions from wealthy merchants, she devoted five years to secret study, learning from traveling artisans and aging masters whose work appeared in temple sanctuaries and forgotten estates.
 
 At twenty-four, Darzash established her modest workshop in a riverside district, deliberately far from the guild-regulated quarters. Here she creates work that borders on the sacred—ceremonial vessels adorned with script-like carvings, boxes inlaid with patterns that seem to shift when viewed from different angles, and meditation staffs carved to resonate with the whispered prayers of devotees. Word of her extraordinary work has slowly spread through networks of nobles, spiritual seekers, and wandering collectors.
 
@@ -456,13 +456,13 @@ Darzash is animated by a belief that physical objects possess sacred significanc
 
 ### Patrons
 
-Lady Velînah Tavrûd
+Lady Shirân Golshanî
 : A widow and collector of sacred objects who has commissioned three major pieces and is Darzash's primary advocate in noble circles.
 
-Father Ilmantur of the Míthárä Temple
+Father Artavin of the Míthárä Temple
 : The elderly priest who recognized spiritual dimension in her work and provides both commissions and spiritual counsel.
 
-Merchant-Prince Gorzûn
+Merchant-Prince Ahrash
 : A wealthy spice trader who values her work above all others and has promised patronage if she were ever to accept formal support.
 
 ### Enemies
@@ -488,4 +488,4 @@ Míthárä's Circle of Creation
 
 4. **The Curse of the Whispering Forest**: After completing a commission using timber harvested from the Whispering Forest (against her better judgment), Darzash discovers that her finished pieces begin to develop patterns of their own—carvings appearing in the wood as if carved by invisible hands, always in the shape of warning signs or desperate pleas. Terrified and fascinated, she realizes the timber itself is somehow inhabited or cursed, and that her work may be serving as a conduit for something trapped within the forest to communicate with the physical world. She must determine whether to continue using this extraordinary material or burn her entire inventory and break the cycle.
 
-5. **The Master's Lost Heir**: An elderly wanderer arrives in Amradad claiming to be the last surviving student of **Sharib Shavân**—Darzash's father. The stranger possesses intimate knowledge of her father's private theories and unfinished works, but also tells a tale of betrayal, a secret commission for a noble house that led to her father's death, and a cache of his materials hidden in the mountains. The stranger asks for Darzash's help recovering these works, but the journey would require weeks away from her workshop and would place her in direct conflict with the same noble house whose interests led to her father's mysterious end. The stranger's motivations, however, remain unclear and potentially dangerous.
+5. **The Master's Lost Heir**: An elderly wanderer arrives in Amradad claiming to be the last surviving student of **Shuvâr Shavân**—Darzash's father. The stranger possesses intimate knowledge of her father's private theories and unfinished works, but also tells a tale of betrayal, a secret commission for a noble house that led to her father's death, and a cache of his materials hidden in the mountains. The stranger asks for Darzash's help recovering these works, but the journey would require weeks away from her workshop and would place her in direct conflict with the same noble house whose interests led to her father's mysterious end. The stranger's motivations, however, remain unclear and potentially dangerous.

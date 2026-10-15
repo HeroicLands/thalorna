@@ -20,7 +20,7 @@ The legend names no direction beyond the far north and no range or coast, and ev
 
 ## The Fragment
 
-**Lady Alfrúd Glarvarukh**, an explorer, has uncovered a fragment of a poem that hints at the city's location. The manuscript is damaged by fire and by water. Whole stretches are lost and most lines break off mid-phrase. One phrase survives whole.
+**Lady Althselda Glarvidrokh**, an explorer, has uncovered a fragment of a poem that hints at the city's location. The manuscript is damaged by fire and by water. Whole stretches are lost and most lines break off mid-phrase. One phrase survives whole.
 
 ```poetry {form=fragment lang=en}
 […] burnt […] the deep delvers […]

@@ -1,0 +1,39 @@
+---
+shortcode: zhambelikosk
+name: {full: Zhâmbelikos Kîtvârzát, aliases: [Captain Zhâmbelikos Kîtvârzát]}
+type: being
+subType: npc
+description: Captain of the Rival Legion, a competitor from a neighboring military unit chosen for a prestigious campaign over Árshazûr Gavios's.
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [warrior]
+  occupation: Captain of the Rival Legion
+  lore: []
+  culture: byzarianclt
+  homes: []
+  affiliations: {}
+  gender: male
+  species: humanflk
+  born: "674.146"
+  died: null
+  height: 6' 3"
+  weight: 177 lbs
+  frame: medium
+  appearance:
+    eye_color: hazel
+    hair_color: dark_blonde
+    skin_color: tanned
+    complexion: [ruddy]
+    extra_features: []
+  packFolder: helladbyzaria
+---
+
+# Appearance {#appearance}
+
+Zhâmbelikos Kîtvârzát is a 45-year-old man who stands 6'3" tall with a medium build. He has tanned skin, ruddy complexion, dark blonde hair, and hazel eyes.
+
+# Dossier {#dossier}
+
+Zhâmbelikos Kîtvârzát is the captain of the Rival Legion, a competitor from a neighboring military unit whose unit was chosen over that of [[being-arshzrktkls|Árshazûr Gavios]] for a prestigious campaign. He harbors deep resentment and looks for opportunities to undermine Árshazûr's reputation.

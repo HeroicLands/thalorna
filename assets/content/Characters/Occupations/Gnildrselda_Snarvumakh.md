@@ -1,6 +1,6 @@
 ---
 shortcode: gnldrsldstrmrt
-name: {full: Gnildrselda Stormrót, aliases: [Lysandra Aetherwind]}
+name: {full: Gnildrselda Snarvumakh, aliases: [Lysandra Aetherwind]}
 type: being
 subType: npc
 tags: [draft, mages]
@@ -396,11 +396,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnildrselda Stormrót carries herself with the natural authority of the Nordheimn nobility, though her features speak of something deeper—a woman caught between two worlds. Slender and lithe, she stands with the practiced grace of someone trained from childhood to command attention. Her face is angular and striking, with sharp cheekbones, a broad forehead, and a steady gaze framed by thick brows that give her a perpetually appraising expression. Her green eyes are luminous and oddly distant, as though she is calculating probabilities in some unseen realm. Her blonde hair, plaited in a thick braid, is bound with silver wire wound in fine patterns. There is something almost otherworldly about her presence—a shimmer in the air around her that hints at veils not quite seen, at realities that shift when one looks away.
+Gnildrselda Snarvumakh carries herself with the natural authority of the Nordheimn nobility, though her features speak of something deeper—a woman caught between two worlds. Slender and lithe, she stands with the practiced grace of someone trained from childhood to command attention. Her face is angular and striking, with sharp cheekbones, a broad forehead, and a steady gaze framed by thick brows that give her a perpetually appraising expression. Her green eyes are luminous and oddly distant, as though she is calculating probabilities in some unseen realm. Her blonde hair, plaited in a thick braid, is bound with silver wire wound in fine patterns. There is something almost otherworldly about her presence—a shimmer in the air around her that hints at veils not quite seen, at realities that shift when one looks away.
 
 # Dossier {#dossier}
 
-Born into the Stormrót clan, one of Nalthmark's most prominent noble houses, Gnildrselda's path should have been simple: marry well, manage estates, produce heirs. Instead, her childhood was shaped by an unusual gift—the ability to perceive and manipulate the boundary between seen and unseen, a talent she would later recognize as akin to what the southern scholars call Zephäris magic, the school of illusion. In [[place-nordheim|Nordheim]], such things came under different names: the work of a völva, a seer-woman who walked between worlds through trance and vision. That Gnildrselda manifested these gifts was not inherently scandalous; women had always been the keepers of seidr, the mystical knowledge that flowed through the land.
+Born into the Snarvumakh clan, one of Nalthmark's most prominent noble houses, Gnildrselda's path should have been simple: marry well, manage estates, produce heirs. Instead, her childhood was shaped by an unusual gift—the ability to perceive and manipulate the boundary between seen and unseen, a talent she would later recognize as akin to what the southern scholars call Zephäris magic, the school of illusion. In [[place-nordheim|Nordheim]], such things came under different names: the work of a völva, a seer-woman who walked between worlds through trance and vision. That Gnildrselda manifested these gifts was not inherently scandalous; women had always been the keepers of seidr, the mystical knowledge that flowed through the land.
 
 Her refusal to keep it private was what made her dangerous to her family. At nineteen, she insisted on formal training under old Hrímrún the seer-priestess, an order that her father—a practical warrior and Hersvald—nearly forbade. Instead, she struck a compromise: she would cultivate a public identity as a scholar of ancient manuscripts and dead languages (respectable for a noblewoman, intellectually rigorous), and she would pursue seidr studies under guise of "ancestral research." For sixteen years, she lived this double life: publishing scholarly treatises on Old Aelwythan inscriptions (which did have real value), attending [[affiliation-panepistmm|Panepistemium]] chapterhouses across northern lands, and quietly teaching herself the deep arts—seeing through veils and then reshaping them, making things appear and disappear, bending perception itself to her will.
 
@@ -422,7 +422,7 @@ Gnildrselda's official position is as an independent scholar affiliated with the
 
 She also maintains networks within Nordheim's hidden magical circles—practitioners of the old seidr traditions, rúnameistari who work outside Ódvar's formal clergy, collectors of texts that the authorities prefer forgotten. These connections are not _hostile_ to Ódvar's faith so much as orthogonal to it; Ódvar himself values the pursuit of knowledge at any cost, and his most learned servants often turn a blind eye to heterodox methods.
 
-Her status as a Stormrót noble gives her considerable insulation. Attacking her directly would require political will her enemies may not possess. But it also makes her visible in ways she increasingly resents—her family expects her to eventually accept her duty and cease this "scholarly phase."
+Her status as a Snarvumakh noble gives her considerable insulation. Attacking her directly would require political will her enemies may not possess. But it also makes her visible in ways she increasingly resents—her family expects her to eventually accept her duty and cease this "scholarly phase."
 
 ## Companions
 
@@ -430,7 +430,7 @@ Her status as a Stormrót noble gives her considerable insulation. Attacking her
 
 **Hrímrún of the North**, her original seidr teacher (now in her seventies) and the person Gnildrselda trusts most in the world. Hrímrún is her spiritual anchor, the one person who knows the full extent of Gnildrselda's work and does not judge it. Their bond is rarely acknowledged publicly but is absolute.
 
-**Jarl Hlarthorv Stormrót**, Gnildrselda's uncle and effective head of the Stormrót household, provides financial support and family protection, though he knows nothing of the true scope of her studies. He believes her to be an eccentric scholar and accepts this with the tolerance of a man who understands that noble families contain eccentrics.
+**Jarl Hlarthvir Snarvumakh**, Gnildrselda's uncle and effective head of the Snarvumakh household, provides financial support and family protection, though he knows nothing of the true scope of her studies. He believes her to be an eccentric scholar and accepts this with the tolerance of a man who understands that noble families contain eccentrics.
 
 **The Collector of Amber**, a mysterious figure connected to the Epistemium's more liberal elements, supplies rare texts and acts as a fence for Gnildrselda's acquisitions. Identity unknown; all communication is by letter.
 
@@ -438,7 +438,7 @@ Her status as a Stormrót noble gives her considerable insulation. Attacking her
 
 **Jón the Iron**, a brutal rúnameistari who views Gnildrselda's systematization of seidr as a violation of tradition and a threat to the old ways. He has made subtle attempts to undermine her reputation and would not mourn her disappearance. The threat he poses is growing.
 
-**The Stormrót Succession**, specifically Gnildrselda's cousin Snirvorv and his ambitious wife, who see her scholarly pursuits as a dangerous anomaly and believe a woman of her station should be married off to secure alliance. They have been quietly lobbying Jarl Hlarthorv to force the issue.
+**The Snarvumakh Succession**, specifically Gnildrselda's cousin Snirvorv and his ambitious wife, who see her scholarly pursuits as a dangerous anomaly and believe a woman of her station should be married off to secure alliance. They have been quietly lobbying Jarl Hlarthvir to force the issue.
 
 ## Plot Hooks
 

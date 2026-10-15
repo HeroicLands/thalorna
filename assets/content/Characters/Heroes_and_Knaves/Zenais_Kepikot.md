@@ -476,8 +476,8 @@ Ghofa is driven by a sense that her understanding of animals might represent som
 
 ### Patrons
 
-House Genumáhr
-: A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Trughokéhran Genumáhr** has become something of a mentor figure
+House Ambârzát
+: A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Kiladéhran Ambârzát** has become something of a mentor figure
 
 Master Badvárion
 : Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity

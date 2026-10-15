@@ -14,7 +14,7 @@ Marshfeld is a farming village of [[place-byzariargn|Byzaría]] that cannot keep
 
 ## The Magistrate
 
-The council's senior figure is **Elder Magistrate Tomás**, who has become a mentor to Fýléze over the years of her contract and offers her wisdom and support beyond the business of the season.
+The council's senior figure is **Elder Magistrate Raza**, who has become a mentor to Fýléze over the years of her contract and offers her wisdom and support beyond the business of the season.
 
 ## See Also
 

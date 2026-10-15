@@ -468,7 +468,7 @@ Stemios's deepest motivation is to create and maintain a sanctuary—a refuge wh
 The City Magistrate, Lord Zipugos
 : An aging administrator who conducts much of his actual governance from a corner table in the Starlight Crown's common room. Stemios provides him with information, advice, and the illusion of privacy while subtly influencing policy through carefully timed conversations.
 
-Captain Pavunos of the Harbor Guard
+Captain Krusidâde Plavídek of the Harbor Guard
 : A gruff military officer who has relied on Stemios for word of smuggling and crime in the port. Stemios freely trades information in exchange for protection and official favor.
 
 The Merchant House of Brugon

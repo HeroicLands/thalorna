@@ -461,9 +461,9 @@ Fýléze is motivated by a desire to protect those who cannot protect themselves
 ### Patrons
 
 The Village Council of [[place-marshfeld|Marshfeld]]
-: A agrarian community that hires Fýléze annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
+: A agrarian community that hires Fýléze annually to protect against bandits and raiders. **Elder Magistrate Raza** has become a mentor figure, offering wisdom and support.
 
-Lady Khatunéla Lysandáhr
+Lady Tûlvâzéa Melitákit
 : A noblewoman of conscience who uses her influence to connect Fýléze with communities in need of protection. She asks only that Fýléze help those who cannot afford formal mercenary rates.
 
 The Scholars' Collective of the Archive
@@ -472,9 +472,9 @@ The Scholars' Collective of the Archive
 ### Enemies
 
 The Crimson Brotherhood
-: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Malachai the Chained**, has marked Fýléze for death after she dismantled two of their trafficking operations.
+: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Tchîrnâleon Valídek**, has marked Fýléze for death after she dismantled two of their trafficking operations.
 
-Mercenary Lord Korvas the Merciless
+Mercenary Lord Rûzhvelis Sapipídek
 : A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
 
 The Corrupt House of Magistrates
@@ -492,10 +492,10 @@ The Protectors' Circle
 
 1. **The Impossible Contract**: A young scholar offers Fýléze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Byzarian Inquisition** itself, forcing her into direct conflict with official authority.
 
-2. **The Ghost Brigade**: Fýléze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Delia**, asks Fýléze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
+2. **The Ghost Brigade**: Fýléze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Drelia Petríkot**, asks Fýléze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
 
-3. **The Infiltration**: Lady Khatunéla asks Fýléze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fýléze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
+3. **The Infiltration**: Lady Tûlvâzéa asks Fýléze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fýléze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
 
-4. **The Rival's Challenge**: **Korvas the Merciless** publicly challenges Fýléze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fýléze suspects he has some larger purpose in forcing this confrontation.
+4. **The Rival's Challenge**: **Rûzhvelis Sapipídek** publicly challenges Fýléze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fýléze suspects he has some larger purpose in forcing this confrontation.
 
 5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fýléze discovers that some "safety operations" are actually harvesting refugees for slavery. She must handle politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.

@@ -472,13 +472,13 @@ Bokhenôn seeks redemption through service to Lîzêlâs, believing that only th
 Thálassios of the Byzarian Council
 : A military governor who relies on Bokhenôn's blessings and counsel to maintain his authority and morale among his troops.
 
-High Priestess Eupráxinaz
+High Priestess Pazhûréna Gefyríkot
 : The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Bokhenôn's brutal effectiveness.
 
 ### Enemies
 
-Captain Théodoulos the Bitter
-: A rival corsair from Bokhenôn's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Théodoulos has lost.
+Captain Kekhasîn Rekhazûr
+: A rival corsair from Bokhenôn's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Kekhasîn has lost.
 
 House of Maríanos
 : An aristocratic family whose merchant fleet Bokhenôn systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
@@ -499,9 +499,9 @@ The Order of the Sacred Flame
 
 ## Plot Hooks
 
-1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Byzarian harbors bearing Théodoulos's colors—and word that the captain has grown tired of hunting. He sends a message to Bokhenôn: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Bokhenôn to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Théodoulos before he strikes, or forced to help Bokhenôn face this specter from his corsair days.
+1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Byzarian harbors bearing Kekhasîn's colors—and word that the captain has grown tired of hunting. He sends a message to Bokhenôn: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Bokhenôn to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Kekhasîn before he strikes, or forced to help Bokhenôn face this specter from his corsair days.
 
-2. **A Crisis of Faith**: High Priestess Eupráxinaz discovers evidence suggesting that Bokhenôn has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Bokhenôn's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
+2. **A Crisis of Faith**: High Priestess Pazhûréna discovers evidence suggesting that Bokhenôn has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Bokhenôn's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
 
 3. **The Resurrection of the Scarlet Reaver**: Bokhenôn's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate Gaspar—a scarred, one-eyed survivor who claims Bokhenôn abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Byzarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
 

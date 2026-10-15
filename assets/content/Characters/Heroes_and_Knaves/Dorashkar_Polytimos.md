@@ -469,7 +469,7 @@ Dôrashkâr is driven by the conviction that food is one of humanity's greatest 
 ### Patrons
 
 The Proprietor of the Copper Kettle
-: His employer, **Merchant-Master Hidukôn**, trusts him completely and defers to his judgment on all kitchen matters. Hidukôn has invested significantly in the kitchen and treats Dôrashkâr almost as a partner.
+: His employer, **Merchant-Master Sêvrûnai Sitákit**, trusts him completely and defers to his judgment on all kitchen matters. Sêvrûnai has invested significantly in the kitchen and treats Dôrashkâr almost as a partner.
 
 Wealthy Merchant Families
 : Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Dôrashkâr's cooking and have requested private catering for their events.
@@ -502,7 +502,7 @@ Informal Network of Master Cooks
 
 2. **The Culinary Competition**: The Council of the Byzarian League announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dôrashkâr's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
 
-3. **The Plague's Cure**: A mysterious illness sweeps through the city, and the physicians are baffled. Dôrashkâr notices that patrons who eat his food seem to recover more quickly than others, and a desperate healer named **Priestess Mâva** seeks his help in identifying what properties in his cooking might be therapeutic. Together, they must understand the nature of the plague and whether his culinary knowledge can contribute to a cure—potentially requiring him to work with alchemists and healers in ways that stretch his understanding of his own craft.
+3. **The Plague's Cure**: A mysterious illness sweeps through the city, and the physicians are baffled. Dôrashkâr notices that patrons who eat his food seem to recover more quickly than others, and a desperate healer named **Priestess Zhevrânéla Aktíkot** seeks his help in identifying what properties in his cooking might be therapeutic. Together, they must understand the nature of the plague and whether his culinary knowledge can contribute to a cure—potentially requiring him to work with alchemists and healers in ways that stretch his understanding of his own craft.
 
 4. **The Restoration of the Master's Legacy**: A young, gifted cook named **Sudázion** arrives at the tavern claiming to be the distant relation of Dôrashkâr's beloved teacher, **Master Valisar**. Sudázion has fallen on hard times and asks Dôrashkâr to take him as an apprentice. Taking on a student would force Dôrashkâr to articulate and share the knowledge he's kept close, challenging his fear of diminishing his own mastery, and raising the question of whether he can truly be a teacher despite his self-doubts.
 

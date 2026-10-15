@@ -426,12 +426,12 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 **Patrons:**
 
 - **Magdalen Weaver**, a widow who runs a small cloth-working shop employing a dozen women. She comes to Pálina monthly for blessings and counsel and has become something approaching a friend.
-- **Captain Serafin Cordova**, a merchant captain who credits Pálina’s fertility blessing with his ability to father a child after years of childlessness. His family’s loyalty is fierce.
+- **Captain Orthémo Tsukurrándis**, a merchant captain who credits Pálina’s fertility blessing with his ability to father a child after years of childlessness. His family’s loyalty is fierce.
 
 **Enemies:**
 
-- **Lord Marchand**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
-- **Father Anselm**, an older priest of the Aurèldían faith whose austere views of spirituality directly conflict with Ólvenía’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthéma.
+- **Lord Tharózo**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
+- **Father Gaimélo**, an older priest of the Aurèldían faith whose austere views of spirituality directly conflict with Ólvenía’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Herthéma.
 
 ## Plot Hooks
 

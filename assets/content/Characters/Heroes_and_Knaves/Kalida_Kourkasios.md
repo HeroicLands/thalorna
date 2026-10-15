@@ -460,7 +460,7 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 
 ### Patrons
 
-Lord Archon Gabinos
+Lord Archon Krorighos Gharazûr
 : A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
 
 The Byzarian Merchant Consortium

@@ -495,8 +495,8 @@ He avoids making enemies within the guild but is aware of the dangerous politics
 
 ### Patrons
 
-Lady Adrienna Alranis
-: A minor noblewoman with a keen interest in alchemical remedies. Lady Adrienna suffers from a rare blood disorder and frequently commissions Sevion to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
+Lady Áimelinë Úlmerndë
+: A minor noblewoman with a keen interest in alchemical remedies. Lady Áimelinë suffers from a rare blood disorder and frequently commissions Sevion to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
 
 The Merchant’s Guild
 : Sevion has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Calypsa.
@@ -519,7 +519,7 @@ Guild of Apothecaries
 
 1. **The Recipe of Ruin**: Sevion receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sevion ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
 
-2. **A Merchant’s Deceit**: One of Sevion’s patrons, Lady Adrienna Alranis, hires him to create a life-preserving elixir for her rare blood disorder. As Sevion works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevion must decide whether to confront her or continue his work under new terms.
+2. **A Merchant’s Deceit**: One of Sevion’s patrons, Lady Áimelinë Úlmerndë, hires him to create a life-preserving elixir for her rare blood disorder. As Sevion works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevion must decide whether to confront her or continue his work under new terms.
 
 3. **The Alchemical Black Market**: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevion’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Calypsa. Investigating the truth places Sevion in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to handle a dangerous web of alliances and betrayals.
 

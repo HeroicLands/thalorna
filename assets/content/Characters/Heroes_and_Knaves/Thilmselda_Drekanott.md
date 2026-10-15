@@ -453,7 +453,7 @@ Thilmselda's primary drive is to create a space of true sanctuary in a world of 
 
 ### Patrons
 
-Jarl Knalthorv Hrandendikh
+Jarl Knalthann Hrandidrokh
 : The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter protecting her establishment.
 
 Lin'Zuwaret elu Aû'Khelâthu of Targud
@@ -470,7 +470,7 @@ Halgar Stonefist
 The Crimson Road Bandits
 : A loose confederation of brigands operating in the borderlands sees her well-stocked inn as both a target and a gathering place; they have robbed her twice in past years.
 
-Lord Márkos's Agent
+Lord Marvorv's Agent
 : A nobleman's representative who attempted to purchase her inn by any means necessary, including coercion; they harbor considerable resentment over her refusal.
 
 ### Affiliations

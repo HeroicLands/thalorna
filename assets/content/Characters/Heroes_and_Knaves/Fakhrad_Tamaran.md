@@ -477,7 +477,7 @@ Merchant Caravan Master Yelmâd
 Master Astrologer Navresh Tahvân
 : A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Navresh has attempted to publicly discredit him on several occasions.
 
-Inquisitor Mazul
+Inquisitor Mazinân
 : A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.
 
 The Skeptical Merchants' Council

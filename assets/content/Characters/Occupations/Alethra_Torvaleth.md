@@ -428,13 +428,13 @@ This position is increasingly precarious. As Nebrális grows wealthier and the m
 
 **Patrons:**
 
-- **Alderman Dílaren Floréscar**, leader of the fishing cooperative that represents the common fishermen of Nebrális. He has served alongside Aléthra in the communal assembly for six years and trusts her absolutely.
+- **Alderman Dorándaro Orthemándis**, leader of the fishing cooperative that represents the common fishermen of Nebrális. He has served alongside Aléthra in the communal assembly for six years and trusts her absolutely.
 - **The Widow Thesa**, an elderly woman of significant wisdom who was Aléthra's informal mentor and continues to consult with her on matters of spiritual importance affecting the community.
 
 **Enemies:**
 
 - **Merchant-Captain Lucien Vasquez**, whose family has been consolidating control of Nebrális's harbor trade. He views Aléthra's influence over the common people as an obstacle to the changes he is bringing in and has been quietly working to undermine her authority.
-- **Bishop Aldhelm**, a high-ranking member of the formal priesthood who visited Nebrális two years ago and was scandalized by what he perceived as Aléthra's informal, unstructured approach to her duties. He has recommended that she be placed under closer oversight and that her temple funding be redirected toward more formally trained clergy.
+- **Bishop Ronétho**, a high-ranking member of the formal priesthood who visited Nebrális two years ago and was scandalized by what he perceived as Aléthra's informal, unstructured approach to her duties. He has recommended that she be placed under closer oversight and that her temple funding be redirected toward more formally trained clergy.
 
 ## Plot Hooks
 
@@ -444,6 +444,6 @@ This position is increasingly precarious. As Nebrális grows wealthier and the m
 
 3. **The Hidden History**—An old sailor arrives in Nebrális, recognizes Aléthra, and begins hinting that the scar on her elbow came from violence, not accident—that Aléthra may have killed someone in her youth or been marked as a warning. He may be telling the truth or testing her, but his presence forces her to confront a past she has worked for eighteen years to leave behind.
 
-4. **The Temple's Modernization**—Bishop Aldhelm arrives in Nebrális with orders to "reform" the temple's work. He proposes consolidating the various informal healing and mediation roles into formal positions, hiring trained clergy, and reshaping her work to fit conventional priesthood hierarchy. Aléthra can accept the loss of her independence and her direct service to the community, or refuse and risk being removed from her position entirely.
+4. **The Temple's Modernization**—Bishop Ronétho arrives in Nebrális with orders to "reform" the temple's work. He proposes consolidating the various informal healing and mediation roles into formal positions, hiring trained clergy, and reshaping her work to fit conventional priesthood hierarchy. Aléthra can accept the loss of her independence and her direct service to the community, or refuse and risk being removed from her position entirely.
 
 5. **The Magical Awakening**—A disturbance in the deep places awakens something ancient in the lands surrounding Nebrális—perhaps something connected to Aelwyth's mystical influence filtering into distant waters, or perhaps something more immediately dangerous. Aléthra's unusual skill in embalming suggests she has knowledge or experience with death-work that goes beyond conventional preparation of corpses. She is drawn into a mystery that involves the boundary between the living and the dead, and her involvement could either save her community or damn it depending on choices she has not anticipated needing to make.

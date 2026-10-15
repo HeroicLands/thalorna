@@ -397,7 +397,7 @@ Krildthann's defensive combat style is nearly impenetrable; his ability to read 
 
 **The Blackfang Company**—The remnants of the mercenary band whose leader Krildthann slew. They have reorganized under new leadership and seek revenge.
 
-**Jarl Vruthmýl the Cruel**—A tyrant who views Krildthann's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
+**Jarl Vruldorv the Cruel**—A tyrant who views Krildthann's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
 
 ## Plot Hooks
 

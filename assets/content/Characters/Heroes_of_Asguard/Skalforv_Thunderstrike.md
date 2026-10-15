@@ -397,7 +397,7 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 **The Serpent Cult**—Worshippers of the great sea serpent who view Skalforv as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
 
-**Jarl Skraldvir Stormbreaker**—A prideful lord who once challenged Skalforv to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
+**Jarl Skraldvir Snarvumakh**—A prideful lord who once challenged Skalforv to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
 
 ## Plot Hooks
 

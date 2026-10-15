@@ -494,8 +494,8 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 Elder Shaman Ishuara
 : Kiroba’s mentor and spiritual guide, Ishuara remains in the Shókuma village, offering guidance through rituals and dreams. She warns him of dangers ahead and occasionally provides spiritual aid in the form of protective charms.
 
-Chief Nduvári
-: The chief of Kiroba’s tribe, Nduvári, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
+Chief Ntemba
+: The chief of Kiroba’s tribe, Ntemba, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
 
 ### Enemies
 

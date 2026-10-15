@@ -482,9 +482,9 @@ Worked names and words, each built from the stems above.
 | Khilodtoliz    | `sowides`  | a man's name: sun-spear; a rider of the Shirzâri                                             | `khilod` + `toliz`          |
 | Kelödeköön     | `sowides`  | the well-mother: the keeper at the bottom of the stepped well                                | `kelöd` + `eköön`           |
 | Khamaqjivoq    | `sowides`  | the skull-pole: a star the Sahri steer by                                                    | `khamaq` + `jivoq`          |
-| Shēkhulāt      | `atarzadi` | a woman's name: flame; the high priestess of the Great Fire-Temple at Shirvan                | `shēkhul` + `-āt`           |
-| Ēzbolōr        | `atarzadi` | a man's name: gift; the priest of the Northern Temple who preaches mercy                     | `ēzbol` + `-ōr`             |
-| Qēmburōr       | `atarzadi` | a man's name: wall; the captain of the city guard at Kethramír; `Darius` is retired          | `qēmbur` + `-ōr`            |
+| Shēkhulāt      | `atarzadi` | a woman's name: flame                                                                        | `shēkhul` + `-āt`           |
+| Ēzbolōr        | `atarzadi` | a man's name: gift                                                                           | `ēzbol` + `-ōr`             |
+| Qēmburōr       | `atarzadi` | a man's name: wall; `Darius` is retired                                                      | `qēmbur` + `-ōr`            |
 | Gholūtōd       | `atarzadi` | a tribe: the sons of the bow                                                                 | `gholūt` + `-ōd`            |
 | Khilodlun      | `sowides`  | a woman's name: sun; the chief of the Âzardan                                                | `khilod` + `-lun`           |
 | Kesükyemök     | `sowides`  | a man's name: eagle-oath; a shaman of the Âzardan; `Darius` is retired                       | `kesük` + `yemök`           |
@@ -710,6 +710,46 @@ Every name of every note in the region stands here with the note it names and it
 | Peshdenderat                                  | [[place-peldenderal\|Peshdenderat]]                                | `tellumi` | `peshden` + `derat`                                       |
 | The Dry Well of Shirvan                       | [[place-peldenderal\|Peshdenderat]]                                | `gloss`   | a glossed name on `Peshdenderat`                          |
 | The Dry Well                                  | [[place-peldenderal\|Peshdenderat]]                                | `gloss`   | a glossed name on `Peshdenderat`                          |
+| Kenbeshay                                     | [[being-kenbeshay\|Kenbeshay]]                                     | `tellumi` | `kenbesh` + `-ay`                                         |
+| Priest Kenbeshay                              | [[being-kenbeshay\|Kenbeshay]]                                     | `gloss`   | a glossed name on `Kenbeshay`                             |
+| Mavesha                                       | [[being-mavesha\|Mavesha]]                                         | `tellumi` | `mavesh` + `-a`                                           |
+| Prophet Mavesha                               | [[being-mavesha\|Mavesha]]                                         | `gloss`   | a glossed name on `Mavesha`                               |
+| Valsuma                                       | [[being-valsuma\|Valsuma]]                                         | `tellumi` | `valsum` + `-a`                                           |
+| High Priestess Valsuma                        | [[being-valsuma\|Valsuma]]                                         | `gloss`   | a glossed name on `Valsuma`                               |
+| Pedunay                                       | [[being-pedunaybulam\|Pedunay Bulamun]]                            | `tellumi` | `pedun` + `-ay`                                           |
+| Bulamun                                       | [[being-pedunaybulam\|Pedunay Bulamun]]                            | `tellumi` | `bulam` + `-un`                                           |
+| Pedunay Bulamun                               | [[being-pedunaybulam\|Pedunay Bulamun]]                            | `gloss`   | a glossed name on `Pedunay` and `Bulamun`                 |
+| Kireshay                                      | [[being-kireshay\|Kireshay]]                                       | `tellumi` | `kiresh` + `-ay`                                          |
+| Captain Kireshay                              | [[being-kireshay\|Kireshay]]                                       | `gloss`   | a glossed name on `Kireshay`                              |
+| Vurinay                                       | [[being-vurinay\|Vurinay]]                                         | `tellumi` | `vurin` + `-ay`                                           |
+| Saint Vurinay the Ascendant                   | [[being-vurinay\|Vurinay]]                                         | `gloss`   | a glossed name on `Vurinay`                               |
+| Saint Vurinay                                 | [[being-vurinay\|Vurinay]]                                         | `gloss`   | a glossed name on `Vurinay`                               |
+| Sunhema                                       | [[being-sunhemakarve\|Sunhema Karvemun]]                           | `tellumi` | `sunhem` + `-a`                                           |
+| Karvemun                                      | [[being-sunhemakarve\|Sunhema Karvemun]]                           | `tellumi` | `karvem` + `-un`                                          |
+| Sunhema Karvemun                              | [[being-sunhemakarve\|Sunhema Karvemun]]                           | `gloss`   | a glossed name on `Sunhema` and `Karvemun`                |
+| Merchant Princess Sunhema                     | [[being-sunhemakarve\|Sunhema Karvemun]]                           | `gloss`   | a glossed name on `Sunhema`                               |
+| Revunay                                       | [[being-revunaykishn\|Revunay Kishneshun]]                         | `tellumi` | `revun` + `-ay`                                           |
+| Kishneshun                                    | [[being-revunaykishn\|Revunay Kishneshun]]                         | `tellumi` | `kishnesh` + `-un`                                        |
+| Revunay Kishneshun                            | [[being-revunaykishn\|Revunay Kishneshun]]                         | `gloss`   | a glossed name on `Revunay` and `Kishneshun`              |
+| Duke Revunay                                  | [[being-revunaykishn\|Revunay Kishneshun]]                         | `gloss`   | a glossed name on `Revunay`                               |
+| Vemuna                                        | [[being-vemunatamker\|Vemuna Tamkerun]]                            | `tellumi` | `vemun` + `-a`                                            |
+| Tamkerun                                      | [[being-vemunatamker\|Vemuna Tamkerun]]                            | `tellumi` | `tamker` + `-un`                                          |
+| Vemuna Tamkerun                               | [[being-vemunatamker\|Vemuna Tamkerun]]                            | `gloss`   | a glossed name on `Vemuna` and `Tamkerun`                 |
+| High Artisan Vemuna Tamkerun                  | [[being-vemunatamker\|Vemuna Tamkerun]]                            | `gloss`   | a glossed name on `Vemuna` and `Tamkerun`                 |
+| High Artisan Vemuna                           | [[being-vemunatamker\|Vemuna Tamkerun]]                            | `gloss`   | a glossed name on `Vemuna`                                |
+| Bulaqsovid                                    | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `sowides` | `bulaq` + `sovid`                                         |
+| Yovaqur                                       | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `sowides` | `yovaq` + `-ur`                                           |
+| Bulaqsovid Yovaqur                            | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `gloss`   | a glossed name on `Bulaqsovid` and `Yovaqur`              |
+| Magister Bulaqsovid                           | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `gloss`   | a glossed name on `Bulaqsovid`                            |
+| Town Administrator Bulaqsovid                 | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `gloss`   | a glossed name on `Bulaqsovid`                            |
+| Tijoodorqun                                   | [[being-tijoodorquns\|Tijoodorqun Savaghur]]                       | `sowides` | `tijood` + `orqun`                                        |
+| Savaghur                                      | [[being-tijoodorquns\|Tijoodorqun Savaghur]]                       | `sowides` | `savagh` + `-ur`                                          |
+| Tijoodorqun Savaghur                          | [[being-tijoodorquns\|Tijoodorqun Savaghur]]                       | `gloss`   | a glossed name on `Tijoodorqun` and `Savaghur`            |
+| Elder Shaman Tijoodorqun                      | [[being-tijoodorquns\|Tijoodorqun Savaghur]]                       | `gloss`   | a glossed name on `Tijoodorqun`                           |
+| Khilodlun                                     | [[being-khilodlunbii\|Khilodlun Biiloqur]]                         | `sowides` | `khilod` + `-lun`                                         |
+| Biiloqur                                      | [[being-khilodlunbii\|Khilodlun Biiloqur]]                         | `sowides` | `biiloq` + `-ur`                                          |
+| Khilodlun Biiloqur                            | [[being-khilodlunbii\|Khilodlun Biiloqur]]                         | `gloss`   | a glossed name on `Khilodlun` and `Biiloqur`              |
+| Chief Khilodlun                               | [[being-khilodlunbii\|Khilodlun Biiloqur]]                         | `gloss`   | a glossed name on `Khilodlun`                             |
 
 ### Language tags
 

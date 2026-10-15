@@ -424,11 +424,11 @@ Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, aub
 
 ### Early Life
 
-Korêmdânis was born into House Bárkrâtys, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Korêmdânis showed from childhood an obsessive interest in the art of the blade. Her father, Lord Mikhâen Bárkrâtys, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster Valdis, a celebrated figure in the dueling circles of Sâlkhâlon, the capital city of the Empire.
+Korêmdânis was born into House Bárkrâtys, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Korêmdânis showed from childhood an obsessive interest in the art of the blade. Her father, Lord Thêlvarôs Barkrâtis, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster Pêlêrar, a celebrated figure in the dueling circles of Sâlkhâlon, the capital city of the Empire.
 
 ### Training and Ascension
 
-Under Valdis's exacting instruction, Korêmdânis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred Path of Breath—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
+Under Pêlêrar's exacting instruction, Korêmdânis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred Path of Breath—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
 
 ### Current Situation
 
@@ -483,8 +483,8 @@ Wealthy Merchant Families
 
 ### Enemies
 
-Swordmaster Lysandor the Undefeated
-: Officially, no rival; practically, Lysandor is in the service of the Empire's rival power and harbors intense envy of Korêmdânis's reputation. They have not yet formally dueled, though both know it is inevitable.
+Swordmaster Khofios the Undefeated
+: Officially, no rival; practically, Khofios is in the service of the Empire's rival power and harbors intense envy of Korêmdânis's reputation. They have not yet formally dueled, though both know it is inevitable.
 
 The Iron Circle
 : A shadowy assassin's guild views Korêmdânis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
@@ -513,4 +513,4 @@ House Bárkrâtys
 
 4. **The Betrayal of the Path**: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Sâlkhâlon and challenges Korêmdânis's understanding of the path she's devoted her life to mastering. Korêmdânis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
 
-5. **The Master's Retirement**: Swordmaster Valdis, Korêmdânis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Valdis requests that Korêmdânis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Korêmdânis questions whether compromising her pure approach to teaching would betray everything Valdis taught her about integrity.
+5. **The Master's Retirement**: Swordmaster Pêlêrar, Korêmdânis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Pêlêrar requests that Korêmdânis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Korêmdânis questions whether compromising her pure approach to teaching would betray everything Pêlêrar taught her about integrity.

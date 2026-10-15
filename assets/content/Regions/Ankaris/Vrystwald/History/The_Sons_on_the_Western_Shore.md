@@ -47,7 +47,7 @@ The cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of 
 
 ## The Burning of Arnwern
 
-The Sons are an order of the [[affiliation-blackflame|Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the Nordlands. [[place-arnwern|Arnwern]], the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, Malekir, has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
+The Sons are an order of the [[affiliation-blackflame|Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the Nordlands. [[place-arnwern|Arnwern]], the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, Sîrêthôs, has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
 
 ## No Muster Yet
 

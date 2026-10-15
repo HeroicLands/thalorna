@@ -470,15 +470,15 @@ Thraskorv is consumed by two intertwined motivations: the visceral desire for fr
 
 ### Patrons
 
-Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Thilmynda the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Rúnarr**, a traveling priest of Eidgar, once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
+Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Thilmynda the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Ralthann**, a traveling priest of Eidgar, once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
 ### Enemies
 
 Jarl Hrandorv Hlirthendikh
 : His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Hrandorv views Thraskorv as a potentially valuable asset that is becoming too dangerous.
 
-Svalthann, the New Overseer
-: The replacement for Gnaldrmýl, and no less cruel. Svalthann treats Thraskorv with particular savagery, viewing him as a threat that must be constantly suppressed.
+Svilthmýl, the New Overseer
+: The replacement for Gnaldrmýl, and no less cruel. Svilthmýl treats Thraskorv with particular savagery, viewing him as a threat that must be constantly suppressed.
 
 The System Itself
 : Thraskorv's true enemy is the legal and social structure of thralldom that permits his bondage. He sees every noble, every priest who accepts the status quo, as complicit.

@@ -417,7 +417,7 @@ Nômasáhr stands 5'7" tall with a medium build. He has light weathered skin, gr
 
 # Dossier {#dossier}
 
-Born the son of a successful merchant, Nômasáhr showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Chrysandáhr**, the most feared litigant in the Byzarian League's commercial courts. Chrysandáhr was a harsh master but brilliant, training Nômasáhr in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
+Born the son of a successful merchant, Nômasáhr showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Kezvûnéna Nomismákit**, the most feared litigant in the Byzarian League's commercial courts. Kezvûnéna was a harsh master but brilliant, training Nômasáhr in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
 
 By his early twenties, Nômasáhr had established himself as a feared advocate, known for his ability to find previously unnoticed clauses in contracts and his uncanny ability to sway juries through precise logic presented with devastating eloquence. Over the next two decades, he built an empire of influence, representing major merchant houses, shipping concerns, and craftsmen's guilds. He accumulated wealth, power, and knowledge of the League's secrets—information that could destroy lesser figures.
 
@@ -458,7 +458,7 @@ Nômasáhr is driven by the desire to regain his prominent position within the L
 [[affiliation-lingnztglzkr|Lin'Genzet elu Galezkara]]
 : Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
 
-Lord Merchant Simázion
+Lord Merchant Yevotash Nomismákit
 : A major trader whose commercial interests Nômasáhr has protected through countless suits at law, maintaining a mutually beneficial relationship of considerable depth.
 
 The Byzarian Consortium of Shipping Merchants
@@ -466,8 +466,8 @@ The Byzarian Consortium of Shipping Merchants
 
 ### Enemies
 
-Advocate Plosukáz
-: Younger, more charismatic rival who has been slowly taking Nômasáhr's clients and position. Plosukáz orchestrated the scandal that forced Nômasáhr's reduction.
+Advocate Sturash Tûlvâzát
+: Younger, more charismatic rival who has been slowly taking Nômasáhr's clients and position. Sturash orchestrated the scandal that forced Nômasáhr's reduction.
 
 House Malassian
 : A merchant dynasty Nômasáhr once defeated decisively in court, causing them significant financial harm. They have long memories and resources for vengeance.
@@ -486,8 +486,8 @@ The Council of Master Advocates
 
 2. **The Impossible Defense**: A client approaches Nômasáhr with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Nômasáhr realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He can take the case knowing that success might make powerful enemies and that the fee will never justify the risk, or turn it away.
 
-3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Chrysandáhr, was corrupt and used illegal methods even more egregiously than Nômasáhr himself. The question becomes whether Nômasáhr will help cover up this truth (protecting his own reputation as Chrysandáhr's student) or expose it (potentially undermining the entire foundation of his standing and training).
+3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Kezvûnéna, was corrupt and used illegal methods even more egregiously than Nômasáhr himself. The question becomes whether Nômasáhr will help cover up this truth (protecting his own reputation as Kezvûnéna's student) or expose it (potentially undermining the entire foundation of his standing and training).
 
-4. **Plosukáz's Fall**: Evidence emerges that Advocate Plosukáz, his rival, orchestrated the scandal against Nômasáhr and is currently engaged in even more serious corruptions. Nômasáhr has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
+4. **Sturash's Fall**: Evidence emerges that Advocate Sturash, his rival, orchestrated the scandal against Nômasáhr and is currently engaged in even more serious corruptions. Nômasáhr has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
 
 5. **The Shadow Counsel**: An anonymous patron offers Nômasáhr extraordinary payment to act as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to compel obedience. Nômasáhr can accept and risk becoming entangled with outright crime, or refuse and face exposure of his secrets.

@@ -430,7 +430,7 @@ Shâdezan stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark br
 
 ### Rise to Power
 
-Shâdezan was born forty-nine years ago into the Kamruz clan, one of the mid-tier tribes of the Dunhara confederation. His father, a capable warrior named Krezech Kamruz, was respected but not feared, and the clan held only modest territory and influence. Young Shâdezan grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named Tashira, blessed him with rituals dedicated to Báhrámiš, the god of storms, asking the deity to bless her son with strength and fury.
+Shâdezan was born forty-nine years ago into the Kamruz clan, one of the mid-tier tribes of the Dunhara confederation. His father, a capable warrior named Krezech Kamruz, was respected but not feared, and the clan held only modest territory and influence. Young Shâdezan grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named Tâvura, blessed him with rituals dedicated to Báhrámiš, the god of storms, asking the deity to bless her son with strength and fury.
 
 At sixteen, Shâdezan participated in his first raid against a neighboring tribe. He fought with such ferocity and skill that his name was sung in celebration fires. Within five years, he had participated in countless skirmishes and won every duel he fought. He ascended to leadership of the Kamruz clan at twenty-seven when his father fell in battle against the rival Soltrev clan, and immediately began an aggressive policy of expansion. Over the next two decades, Shâdezan conquered or subjugated five neighboring tribes, binding them to the Kamruz banner through superior martial prowess and the legitimacy of strength.
 
@@ -491,14 +491,14 @@ Shamanic Council
 
 ### Enemies
 
-Chieftain Morven of the Soltrev Clan
-: Leader of one of the clans that Shâdezan defeated, Morven harbors deep resentment and plots constant rebellion. He seeks alliances with other displaced chieftains to overthrow Shâdezan's rule.
+Chieftain Mahvarad of the Soltrev Clan
+: Leader of one of the clans that Shâdezan defeated, Mahvarad harbors deep resentment and plots constant rebellion. He seeks alliances with other displaced chieftains to overthrow Shâdezan's rule.
 
 The Merchant Coalition of the Northern Trade Routes
 : The merchant republics beyond the Dunhara territories view Shâdezan's expansion as a threat to their trade and have begun funding his rivals and providing weapons to rebel tribes.
 
-Warlord Kethren the Sorcerer
-: A rival warrior who rules lands adjacent to Shâdezan's territory. Kethren uses magical power rather than pure physical strength, which Shâdezan views as cowardly. Their conflicting approaches to warfare have led to several bitter confrontations.
+Warlord Khavârî the Sorcerer
+: A rival warrior who rules lands adjacent to Shâdezan's territory. Khavârî uses magical power rather than pure physical strength, which Shâdezan views as cowardly. Their conflicting approaches to warfare have led to several bitter confrontations.
 
 ### Affiliations
 
@@ -521,4 +521,4 @@ The Storm Cults
 
 4. **The Peaceful Confederacy**: A coalition of neighboring tribes, led by the wise shaman Alethea the Peacemaker, proposes a radical alternative to Shâdezan's rule—a tribal confederacy based on consensus, trade, and mutual defense rather than dominance of the strongest. They offer to accept Shâdezan as the ceremonial head of this new confederacy if he will release his conquered territories to local rule. Shâdezan faces a stark choice: abandon his philosophy of strength and conquest to maintain nominal power, or resist and risk a war that might break his aging body.
 
-5. **The Shamanic Revelation**: Shâdezan's mother, the shaman Tashira, now ancient and approaching death, finally reveals a secret she has kept for forty years—that Shâdezan's father did not die in honorable combat but was actually defeated by Kethren the Sorcerer using magic, and that she made a pact with dark forces so that her son would win a glory great enough to cover his bloodline's hidden shame. This revelation shakes Shâdezan's entire understanding of his accomplishments and his right to rule. He can expose the truth and undermine his own legitimacy, or continue a lie that was woven into the very foundation of his power.
+5. **The Shamanic Revelation**: Shâdezan's mother, the shaman Tâvura, now ancient and approaching death, finally reveals a secret she has kept for forty years—that Shâdezan's father did not die in honorable combat but was actually defeated by Khavârî the Sorcerer using magic, and that she made a pact with dark forces so that her son would win a glory great enough to cover his bloodline's hidden shame. This revelation shakes Shâdezan's entire understanding of his accomplishments and his right to rule. He can expose the truth and undermine his own legitimacy, or continue a lie that was woven into the very foundation of his power.

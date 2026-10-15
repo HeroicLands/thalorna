@@ -433,9 +433,9 @@ He is beginning to attract attention from radical reform movements within the pr
 
 ## Companions
 
-**Patrons:** Mother Celene, an elderly priestess of Lîzêlâs in the Temple hierarchy, maintains institutional support for Rêvôthar's circuit, despite her private reservations about his radical sympathies. A shadowy figure known only as "the Gathering" appears to coordinate with Rêvôthar about the moving of grain—whether ally or potential manipulator is unclear even to Rêvôthar.
+**Patrons:** Mother Sîrêmâ, an elderly priestess of Lîzêlâs in the Temple hierarchy, maintains institutional support for Rêvôthar's circuit, despite her private reservations about his radical sympathies. A shadowy figure known only as "the Gathering" appears to coordinate with Rêvôthar about the moving of grain—whether ally or potential manipulator is unclear even to Rêvôthar.
 
-**Enemies:** The Temple's conservative faction views Rêvôthar as a threat to institutional stability and would remove him if they could do so without generating rural unrest. Bishop Morivan, an ambitious ecclesiastic in the capital, has marked Rêvôthar as a heretic-in-waiting and gathers evidence against him. Greedy regional lords see his charitable work as an obstacle to their own squeezing of the villages. A grain merchant named Euthârês, who has profited from village scarcity, despises Rêvôthar for disrupting the desperation that makes the poor easy prey.
+**Enemies:** The Temple's conservative faction views Rêvôthar as a threat to institutional stability and would remove him if they could do so without generating rural unrest. Bishop Vârêlâ, an ambitious ecclesiastic in the capital, has marked Rêvôthar as a heretic-in-waiting and gathers evidence against him. Greedy regional lords see his charitable work as an obstacle to their own squeezing of the villages. A grain merchant named Euthârês, who has profited from village scarcity, despises Rêvôthar for disrupting the desperation that makes the poor easy prey.
 
 ## Plot Hooks
 

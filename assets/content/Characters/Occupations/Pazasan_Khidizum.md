@@ -405,13 +405,13 @@ Pazâsan occupies an unusual role within the port warehouse district—respected
 
 ### Enemies
 
-**Merchant Prince Ashûrûsh Hitûsûm**—A wealthy merchant whose operation Pazâsan has documented engaged in systematic smuggling and tax evasion. Ashûrûsh is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Ashûrûsh recognizes Pazâsan as a threat and has begun working to undermine him through allegations of corruption and bias.
+**Merchant Prince Ashûraz Hitûsûnî**—A wealthy merchant whose operation Pazâsan has documented engaged in systematic smuggling and tax evasion. Ashûraz is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Ashûraz recognizes Pazâsan as a threat and has begun working to undermine him through allegations of corruption and bias.
 
 ## Plot Hooks
 
 1. **The Documentation Trap**—Pazâsan discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Pazâsan assembles the evidence carefully. But when he reports it to Warehouse Master Zazûrûsh, he learns that the operation is being protected by senior government officials. Zazûrûsh warns him that pursuing the investigation will cost him his position and possibly his life. Pazâsan can keep his post and his safety, or expose a serious crime.
 
-2. **The Corrupted Guard**—Pazâsan discovers that a younger warehouse guard has been accepting payments from Merchant Prince Ashûrûsh in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Pazâsan faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Ashûrûsh to continue fraud while preserving the guard's future.
+2. **The Corrupted Guard**—Pazâsan discovers that a younger warehouse guard has been accepting payments from Merchant Prince Ashûraz in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Pazâsan faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Ashûraz to continue fraud while preserving the guard's future.
 
 3. **The Warehouse Master's Deception**—Pazâsan discovers that Warehouse Master Zazûrûsh has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Zazûrûsh has been Pazâsan's patron and supporter. The discovery is devastating to him. He can report his patron or become complicit in corruption.
 

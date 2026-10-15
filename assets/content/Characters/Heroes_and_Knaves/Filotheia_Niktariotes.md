@@ -465,7 +465,7 @@ Fritia seeks to go beyond mere entertainment. Obsessed with uncovering the mythi
 Varékos the Heartful
 : Proprietor of the Siren's Repose, a beloved tavern in Thálassos's harbor district. He has become something of a father figure to Fritia, offering her steady employment and shelter, though he worries about her increasingly dangerous quests. Their relationship is complex—he has never concealed romantic interest, which Fritia gently deflects with affection but firm boundaries.
 
-Lady Aéthna Tethyríon
+Lady Ambâréna Linákit
 : An aging widow of minor noble standing who became enchanted with Fritia's playing at a merchant's wedding. She now sponsors the musician's travels and has deep connections throughout the League's nobility, which Fritia leverages despite her distaste for aristocratic politics.
 
 The Fisher-Folk of Coastal Villages

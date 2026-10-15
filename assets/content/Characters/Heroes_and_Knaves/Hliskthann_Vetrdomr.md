@@ -463,8 +463,8 @@ Hliskthann is motivated by a simple but deep desire to provide protection and co
 
 ### Patrons
 
-Jarl Hrindorv Gnaldrendikh
-: A regional noble whose family estate Hliskthann has maintained for twenty-three years. Hrindorv trusts Hliskthann absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
+Jarl Hrindrinna Gnildrendikh
+: A regional noble whose family estate Hliskthann has maintained for twenty-three years. Hrindrinna trusts Hliskthann absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
 
 The Covenant of Malagna Farmers
 : An informal association of agricultural communities who, collectively, finance Hliskthann's annual maintenance work, since their collective prosperity depends on sound storage structures with weather-proof roofing.
@@ -489,7 +489,7 @@ Mótefnir's rural faithful
 
 ## Plot Hooks
 
-1. **The Inheritance of Knowledge**: A scholar and collector of traditional wisdom, **Lady Lysanthe of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
+1. **The Inheritance of Knowledge**: A scholar and collector of traditional wisdom, **Lady Dvurnthýra of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
 
 2. **The Impossible Commission**: The ancient capital cathedral's roof—a magnificent structure from the age of legends—has developed catastrophic damage. The nobility demands restoration, but the original techniques are lost, the structure is geometrically complex beyond modern standards, and the timeline is impossible. Only Hliskthann is thought capable of tackling it. He can attempt the work (which might destroy his reputation if he fails) or refuse and watch the sacred building fall into ruin.
 
@@ -497,4 +497,4 @@ Mótefnir's rural faithful
 
 4. **The Rival's Sabotage**: Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Dvulgorv Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.
 
-5. **The Storm's Aftermath**: A catastrophic and unprecedented storm strikes the region, destroying or severely damaging dozens of structures. Hliskthann is approached by Jarl Hrindorv and the farmers' covenant to lead reconstruction efforts, requiring him to coordinate multiple craftspeople, manage resources, and work at an intense pace despite his aging body. Success would cement his legacy; failure would leave the region vulnerable heading into winter. The work becomes a race against time, injury, and winter's onset.
+5. **The Storm's Aftermath**: A catastrophic and unprecedented storm strikes the region, destroying or severely damaging dozens of structures. Hliskthann is approached by Jarl Hrindrinna and the farmers' covenant to lead reconstruction efforts, requiring him to coordinate multiple craftspeople, manage resources, and work at an intense pace despite his aging body. Success would cement his legacy; failure would leave the region vulnerable heading into winter. The work becomes a race against time, injury, and winter's onset.

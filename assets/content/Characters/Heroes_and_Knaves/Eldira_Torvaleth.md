@@ -473,7 +473,7 @@ Eldíra is motivated by a drive to create beauty that expresses truth as she per
 Bishop Matthias of Riverside Cathedral
 : A reform-minded religious leader who commissioned Eldíra to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
 
-Merchant Collector Lady Esther Whitmore
+Merchant Collector Lady Oltréma Lizelándis
 : A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Eldíra's originality and has paid premium prices for original works.
 
 Artist-Patrons the Ravencroft Collective

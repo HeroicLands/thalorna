@@ -467,7 +467,7 @@ House of Bergvorn
 [[affiliation-kingdmtrgd|The King of Targud]]
 : The kingdom's ruler has relied upon Knilthann to authenticate historical claims and validate dynastic narratives, making him an informal advisor on matters of cultural importance.
 
-Jarl Vrildorv the Unyielding
+Jarl Vrithorv the Unyielding
 : A provincial ruler who views Knilthann as the keeper of his family's honor and commissions performances that serve to elevate his status among rival jarls.
 
 ### Enemies

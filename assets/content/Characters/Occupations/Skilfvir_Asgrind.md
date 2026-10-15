@@ -400,7 +400,7 @@ Skilfvir Ásgrind is a 30-year-old man who stands 6'1" tall and is of moderate b
 
 Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Skilfvir Ásgrind is a huntsman.
 
-Skilfvir is the head huntsman for Lord Gwendolyn of [[place-ashenwoodmnr|Ashenwood Manor]]. He manages the lord's hunting grounds and sees that the game is not hunted out. He is a fine tracker with a deep knowledge of the local wildlife. His loyalty to the lord is unquestioned, and he is often called upon to lead hunting parties during the lord's feasts.
+Skilfvir is the head huntsman for Lord Gnildrmýl of [[place-ashenwoodmnr|Ashenwood Manor]]. He manages the lord's hunting grounds and sees that the game is not hunted out. He is a fine tracker with a deep knowledge of the local wildlife. His loyalty to the lord is unquestioned, and he is often called upon to lead hunting parties during the lord's feasts.
 
 ## Psyche
 
@@ -418,13 +418,13 @@ He is an excellent tracker, knowledgeable about the local fauna, and a strong le
 
 ## Social
 
-Skilfvir belongs to Lord Gwendolyn’s retinue.
+Skilfvir belongs to Lord Gnildrmýl’s retinue.
 
 ## Companions
 
 ### Patrons
 
-Skilfvir's patrons are Lord Gwendolyn and the other members of the manor's household.
+Skilfvir's patrons are Lord Gnildrmýl and the other members of the manor's household.
 
 ### Enemies
 
@@ -440,4 +440,4 @@ None; respected by the local community.
 
 4. **Shifting Winds**—Political change in Nordheim threatens the manor Skilfvir depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gwendolyn is not named up front.
+5. **The Opportunity**—Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gnildrmýl is not named up front.

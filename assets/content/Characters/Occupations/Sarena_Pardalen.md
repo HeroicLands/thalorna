@@ -445,7 +445,7 @@ Within the [[affiliation-lizelas|Faith of Lîzêlâs]], she is regarded as a cap
 
 ### Patrons
 
-Sárena's primary patron is the temple of Lîzêlâs at Sóurimael, which provides her with basic supplies, a bed when she returns from her circuit, and the institutional authority to perform rites and administer healing in the goddess's name. The temple's senior priestess, Mother Aelwyn, is her mentor and has gently but persistently urged Sárena to accept a more structured role within the faith.
+Sárena's primary patron is the temple of Lîzêlâs at Sóurimael, which provides her with basic supplies, a bed when she returns from her circuit, and the institutional authority to perform rites and administer healing in the goddess's name. The temple's senior priestess, Mother Mélvesa, is her mentor and has gently but persistently urged Sárena to accept a more structured role within the faith.
 
 ### Enemies
 

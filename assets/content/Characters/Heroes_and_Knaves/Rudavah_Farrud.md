@@ -470,10 +470,10 @@ Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering
 Master Velkâsh of Amradad
 : Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudâvah maintains something approaching warm relationship.
 
-Captain Dezhvan Shâmâyân, Royal Cavalry
-: The commander of the Kingdom's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Dezhvan demands results, but respects Rudâvah's insistence on treating animals well.
+Captain Deyênâ Shâmâyân, Royal Cavalry
+: The commander of the Kingdom's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Deyênâ demands results, but respects Rudâvah's insistence on treating animals well.
 
-Lady Zeshûna Padvân, Merchant Princess
+Lady Zaranâh Sârânî, Merchant Princess
 : A wealthy merchant and equestrian enthusiast who has contracted for Rudâvah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
 
 ### Enemies

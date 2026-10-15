@@ -425,7 +425,7 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **Vorthgar yra Vithrúnd**, War Chief of Eichengrund, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of **Vorthgar yra Vithrúnd**, War Chief of Eichengrund, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Dómric, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 
@@ -433,7 +433,7 @@ Rather than surrender to the role of priestess-advisor that the conservative eld
 
 ### The Unexpected Succession
 
-When her brother Raeth died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that repelled the invasion and secured Eichengrund’s woodland approaches. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
+When her brother Dómric died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that repelled the invasion and secured Eichengrund’s woodland approaches. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
 
 ### Present Challenges
 
@@ -474,7 +474,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 The War Band of Eichengrund
 : Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to power within the broader world.
 
-Merchant Prince Oleander of the Byzarian League
+Merchant Prince Druzês of the Byzarian League
 : A canny trader who has secured access to Eichengrund’s furs and amber through village trade agreements and his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
 
 ### Enemies

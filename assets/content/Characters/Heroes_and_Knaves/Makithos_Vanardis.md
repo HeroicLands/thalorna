@@ -461,7 +461,7 @@ Màkîthos is driven by a vision of theater as the highest form of human artisti
 
 ### Patrons
 
-Lady Thespis Aurelia
+Lady Prâmizâ Thêlvarândis
 : An immensely wealthy widow and patron of the arts who has championed Màkîthos's work despite critical controversy, commissioning his most ambitious productions and providing financial stability.
 
 The Imperial Theater Company

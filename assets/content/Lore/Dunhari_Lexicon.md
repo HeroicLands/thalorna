@@ -394,6 +394,48 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Āsháian Pantheon**                      | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `ashaian`     | —                     |
 | **Ātáröš**                                | [[lore-atarosdty\|Ātáröš]]                                           | `ashaian`     | —                     |
 | **Šírvádár**                              | [[lore-sirvadardty\|Šírvádár]]                                       | `ashaian`     | —                     |
+| **Bashvard Darvâni**                      | [[being-bashvarddarv\|Bashvard Darvâni]]                             | `dunhari`     | —                     |
+| **Fortress Commander Bashvard Darvâni**   | [[being-bashvarddarv\|Bashvard Darvâni]]                             | `translation` | —                     |
+| **Fortress Commander Bashvard**           | [[being-bashvarddarv\|Bashvard Darvâni]]                             | `translation` | —                     |
+| **Deyênâ Shâmâyân**                       | [[being-deyenashamay\|Deyênâ Shâmâyân]]                              | `dunhari`     | —                     |
+| **Captain Deyênâ Shâmâyân**               | [[being-deyenashamay\|Deyênâ Shâmâyân]]                              | `translation` | —                     |
+| **Captain Deyênâ**                        | [[being-deyenashamay\|Deyênâ Shâmâyân]]                              | `translation` | —                     |
+| **Ahrash Tamîran**                        | [[being-ahrashtamira\|Ahrash Tamîran]]                               | `dunhari`     | —                     |
+| **Merchant-Prince Ahrash**                | [[being-ahrashtamira\|Ahrash Tamîran]]                               | `translation` | —                     |
+| **Harûmaz Bârâvi**                        | [[being-harumazbarav\|Harûmaz Bârâvi]]                               | `dunhari`     | —                     |
+| **Master Harûmaz**                        | [[being-harumazbarav\|Harûmaz Bârâvi]]                               | `translation` | —                     |
+| **Artavin Kavirân**                       | [[being-artavinkavir\|Artavin Kavirân]]                              | `dunhari`     | —                     |
+| **Father Artavin**                        | [[being-artavinkavir\|Artavin Kavirân]]                              | `translation` | —                     |
+| **Razâshar Perûdan**                      | [[being-razasharperu\|Razâshar Perûdan]]                             | `dunhari`     | —                     |
+| **Captain Razâshar**                      | [[being-razasharperu\|Razâshar Perûdan]]                             | `translation` | —                     |
+| **Shirân Golshanî**                       | [[being-shirangolsha\|Shirân Golshanî]]                              | `dunhari`     | —                     |
+| **Lady Shirân Golshanî**                  | [[being-shirangolsha\|Shirân Golshanî]]                              | `translation` | —                     |
+| **Lady Shirân**                           | [[being-shirangolsha\|Shirân Golshanî]]                              | `translation` | —                     |
+| **Shuvâr Shavân**                         | [[being-shuvarshavan\|Shuvâr Shavân]]                                | `dunhari`     | —                     |
+| **Shuvâr**                                | [[being-shuvarshavan\|Shuvâr Shavân]]                                | `dunhari`     | —                     |
+| **Yesêra Parivân**                        | [[being-yeserapariva\|Yesêra Parivân]]                               | `dunhari`     | —                     |
+| **Lady Yesêra Parivân**                   | [[being-yeserapariva\|Yesêra Parivân]]                               | `translation` | —                     |
+| **Lady Yesêra**                           | [[being-yeserapariva\|Yesêra Parivân]]                               | `translation` | —                     |
+| **Zarvash Kâveran**                       | [[being-zarvashkaver\|Zarvash Kâveran]]                              | `dunhari`     | —                     |
+| **Tribal Elder Zarvash Kâveran**          | [[being-zarvashkaver\|Zarvash Kâveran]]                              | `translation` | —                     |
+| **Tribal Elder Zarvash**                  | [[being-zarvashkaver\|Zarvash Kâveran]]                              | `translation` | —                     |
+| **Zaranâh Sârânî**                        | [[being-zaranahsaran\|Zaranâh Sârânî]]                               | `dunhari`     | —                     |
+| **Lady Zaranâh Sârânî**                   | [[being-zaranahsaran\|Zaranâh Sârânî]]                               | `translation` | —                     |
+| **Lady Zaranâh**                          | [[being-zaranahsaran\|Zaranâh Sârânî]]                               | `translation` | —                     |
+| **Valhamin Gorâvân**                      | [[being-valhamingora\|Valhamin Gorâvân]]                             | `dunhari`     | —                     |
+| **Merchant Lord Valhamin**                | [[being-valhamingora\|Valhamin Gorâvân]]                             | `translation` | —                     |
+| **Khavârî Vârakan**                       | [[being-khavarivarak\|Khavârî Vârakan]]                              | `dunhari`     | —                     |
+| **Warlord Khavârî the Sorcerer**          | [[being-khavarivarak\|Khavârî Vârakan]]                              | `translation` | —                     |
+| **Warlord Khavârî**                       | [[being-khavarivarak\|Khavârî Vârakan]]                              | `translation` | —                     |
+| **Mahvarad Parvaran**                     | [[being-mahvaradparv\|Mahvarad Parvaran]]                            | `dunhari`     | —                     |
+| **Chieftain Mahvarad**                    | [[being-mahvaradparv\|Mahvarad Parvaran]]                            | `translation` | —                     |
+| **Tâvura Kamruz**                         | [[being-tavurakamruz\|Tâvura Kamruz]]                                | `dunhari`     | —                     |
+| **Shaman Tâvura**                         | [[being-tavurakamruz\|Tâvura Kamruz]]                                | `translation` | —                     |
+| **Mazinân Shirzâri**                      | [[being-mazinanshirz\|Mazinân Shirzâri]]                             | `dunhari`     | —                     |
+| **Inquisitor Mazinân**                    | [[being-mazinanshirz\|Mazinân Shirzâri]]                             | `translation` | —                     |
+| **Tahruz Gîrânî**                         | [[being-tahruzgirani\|Tahruz Gîrânî]]                                | `dunhari`     | —                     |
+| **Captain Tahruz the Venerable**          | [[being-tahruzgirani\|Tahruz Gîrânî]]                                | `translation` | —                     |
+| **Captain Tahruz**                        | [[being-tahruzgirani\|Tahruz Gîrânî]]                                | `translation` | —                     |
 
 ## Retired names
 
@@ -439,21 +481,21 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `Mehrâd`            | `Venrâd`            | an Earth given name                                |
 | `Faradân`           | `Ferudân`           | an Earth word, a clan name                         |
 | `Khalid`            | `Kheldûn`, `Bezdûn` | an Earth given name, two men of Amradad            |
-| `Yasmin Mirza`      | `Yazhêna Parivân`   | an Earth name                                      |
-| `Davoud`            | `Pashvûr`, `Gorzûn` | an Earth given name, two men of Amradad            |
-| `Khalef ibn Rashid` | `Bezhrân Darvâni`   | an Earth name                                      |
-| `Saqqar`            | `Zendurak`          | an Earth given name                                |
+| `Yasmin Mirza`      | `Yesêra Parivân`    | an Earth name                                      |
+| `Davoud`            | `Pashvûr`, `Ahrash` | an Earth given name, two men of Amradad            |
+| `Khalef ibn Rashid` | `Bashvard Darvâni`  | an Earth name                                      |
+| `Saqqar`            | `Zarvash`           | an Earth given name                                |
 | `Saffan`            | `Yelmâd`            | an Earth word                                      |
 | `Rashid al-Kharazi` | `Navresh Tahvân`    | an Earth name                                      |
-| `Amir al-Rashid`    | `Dezhvan Shâmâyân`  | an Earth name                                      |
-| `Zahra al-Mansur`   | `Zeshûna Padvân`    | an Earth name                                      |
+| `Amir al-Rashid`    | `Deyênâ Shâmâyân`   | an Earth name                                      |
+| `Zahra al-Mansur`   | `Zaranâh Sârânî`    | an Earth name                                      |
 | `Hakkim`            | `Rûvesh`            | an Earth given name                                |
 | `Jamal`             | `Velkâsh`           | an Earth given name                                |
-| `Sarafina`          | `Velînah`           | an Earth given name                                |
+| `Sarafina`          | `Shirân`            | an Earth given name                                |
 | `Rehman`            | `Khozdun`           | an Earth given name                                |
 | `Dhavani`           | `Bêshrin`           | an Earth word                                      |
-| `Farrokh`           | `Hezrâd`            | an Earth given name                                |
-| `Sámir`             | `Teshmar`           | an Earth given name                                |
+| `Farrokh`           | `Harûmaz`           | an Earth given name                                |
+| `Sámir`             | `Tahruz`            | an Earth given name                                |
 | `Sayyid`            | `Tûlvesh`           | an Earth word and title                            |
 | `Yasmine`           | `Pezhinah`          | an Earth given name                                |
 | `Rakesh`            | `Rozhvân`           | an Earth given name                                |

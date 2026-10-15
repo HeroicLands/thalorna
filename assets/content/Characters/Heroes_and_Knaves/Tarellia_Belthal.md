@@ -487,8 +487,8 @@ Scholar-Collector Lóriena Myrkelis
 
 ### Enemies
 
-Captain Darios Stormrider
-: A successful merchant captain who publicly blamed Tárellia for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Darios continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
+Captain Trálkar Hérselndë
+: A successful merchant captain who publicly blamed Tárellia for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Trálkar continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
 
 Charlatan Astrologer Malachai the False
 : A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárellia as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.

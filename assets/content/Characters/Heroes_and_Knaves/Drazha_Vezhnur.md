@@ -492,11 +492,11 @@ Zirael Aimapyrós
 
 ### Enemies
 
-Sir Thalion Râskar
-: A Árdavonian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Thalion has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Árdavonian outpost, and Thalion has since sworn to bring him to justice. The two are destined to clash again, as Thalion sees in Drazhan everything he stands against.
+Sir Nebrálo Ozkurándis
+: A Árdavonian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Nebrálo has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Árdavonian outpost, and Nebrálo has since sworn to bring him to justice. The two are destined to clash again, as Nebrálo sees in Drazhan everything he stands against.
 
-Sir Vashek of Nakarys the Scourge
-: Once a fellow knight of the Blazing Oath, Sir Vashek turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Vashek’s defection as the ultimate betrayal and has vowed to hunt him down. However, Vashek has proven elusive, and members of his order continue to disrupt Servants of Vezhnûrikos operations throughout the Desert of Hek'ar.
+Sir Zekáz Trosuskâr of Nakarys the Scourge
+: Once a fellow knight of the Blazing Oath, Sir Zekáz turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Zekáz’s defection as the ultimate betrayal and has vowed to hunt him down. However, Zekáz has proven elusive, and members of his order continue to disrupt Servants of Vezhnûrikos operations throughout the Desert of Hek'ar.
 
 ## Plot Hooks
 
@@ -504,4 +504,4 @@ Sir Vashek of Nakarys the Scourge
 
 2. **Black Flame Politics**: As Drazhan’s power grows, so too does the opposition within the Black Flame, particularly the order of **Nakarys the Scourge**. Players could be hired to protect or sabotage Drazhan’s mission, depending on their allegiance.
 
-3. **Clash with Sir Thalion**: Drazhan’s ongoing conflict with the Árdavonian knight Sir Thalion could lead to a dramatic showdown, with players taking sides in the battle between two ideologically opposed orders.
+3. **Clash with Sir Nebrálo**: Drazhan’s ongoing conflict with the Árdavonian knight Sir Nebrálo could lead to a dramatic showdown, with players taking sides in the battle between two ideologically opposed orders.

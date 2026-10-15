@@ -486,7 +486,7 @@ Harkhîs seeks only to survive, to continue the work that defines his existence,
 The Crimson Order
 : A well-organized criminal brotherhood operating throughout Vylaria; they maintain standing contract for Harkhîs' exclusive services and provide security in exchange for his availability
 
-Merchant Prince Devarion
+Merchant Prince Kirâmôs
 : An ambiguous figure who may be legitimate or criminal (Harkhîs is uncertain); he contracts Harkhîs for exotic poisons and antidotes and seems to move easily between legitimate and shadow economies
 
 The Master Healer's Guild (Covertly)
@@ -494,7 +494,7 @@ The Master Healer's Guild (Covertly)
 
 ### Enemies
 
-Commander Thrace of the City Watch
+Commander Khôlsâmê of the City Watch
 : The official responsible for investigating underground apothecary operations; she views Harkhîs as a personal obsession and has dedicated significant resources to apprehending him
 
 The Violet Syndicate
@@ -519,6 +519,6 @@ The Crimson Order
 
 3. **The Healer's Daughter**: A young woman arrives at his underground shop claiming to be the daughter Harkhîs abandoned years ago. She has learned, through investigation, what her father became and what he has done, and she has come to offer him a choice: help her expose and dismantle the Crimson Order, which she claims murdered her adoptive family, and in exchange she will help him escape the underworld and attempt a return to legitimate society. The offer represents hope but also requires him to betray the organization that has kept him alive for fourteen years, and his daughter may not forgive him whatever he does.
 
-4. **The Plague's Cure**: A true plague begins spreading through Vylaria's populations, a disease uncontrolled and spreading with terrifying speed. Official apothecaries are unable to create an effective treatment. Commander Thrace approaches Harkhîs secretly with an unusual proposal: if he will develop a cure, she will allow him to escape the city safely. He has the knowledge she does not, and she is willing to overlook his crimes if it means saving the city's population. The offer is tempting, but Harkhîs suspects a trap—either designed to capture him or to compromise him further by making him a public hero rather than a hidden criminal.
+4. **The Plague's Cure**: A true plague begins spreading through Vylaria's populations, a disease uncontrolled and spreading with terrifying speed. Official apothecaries are unable to create an effective treatment. Commander Khôlsâmê approaches Harkhîs secretly with an unusual proposal: if he will develop a cure, she will allow him to escape the city safely. He has the knowledge she does not, and she is willing to overlook his crimes if it means saving the city's population. The offer is tempting, but Harkhîs suspects a trap—either designed to capture him or to compromise him further by making him a public hero rather than a hidden criminal.
 
 5. **The Suicide's Inheritance**: One of Harkhîs' few real friends among underworld figures—a woman named **Sylvara** who operated as an information broker—takes her own life after a business failure, leaving Harkhîs as her sole named heir. Her estate includes not only significant wealth but documents and records of secrets known only to her—blackmail material on numerous figures throughout Vylaria's underworld and legitimate circles. Sylvara left explicit instructions that Harkhîs should decide whether these secrets should be released, destroyed, or held in perpetuity. The decision he makes will shape politics and crime in Vylaria for decades, and Harkhîs realizes he has suddenly been positioned as a figure of real power, a responsibility he never sought.

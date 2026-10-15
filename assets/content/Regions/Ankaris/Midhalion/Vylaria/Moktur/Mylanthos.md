@@ -14,9 +14,9 @@ Mylânthos is a farming village on the rural circuit of [[place-tyrellan|Tyrella
 
 ## The Elder
 
-The village's voice is **Elder Vasken of Mylânthos**, a former militia commander now in his seventies. Asked by a visitor why a village that counts every sheaf gives any of it to a priest, Vasken points at the barn and says that the priest's blessing fills it, and that he has watched it do so.
+The village's voice is **Elder Pîrkêlôs of Mylânthos**, a former militia commander now in his seventies. Asked by a visitor why a village that counts every sheaf gives any of it to a priest, Pîrkêlôs points at the barn and says that the priest's blessing fills it, and that he has watched it do so.
 
-It was Vasken who first encouraged Azéndas to take up healing, and when the Temple hierarchy in the capital questions the priest's methods, Mylânthos is where Azéndas finds shelter and Vasken is the one who provides the local political cover.
+It was Pîrkêlôs who first encouraged Azéndas to take up healing, and when the Temple hierarchy in the capital questions the priest's methods, Mylânthos is where Azéndas finds shelter and Pîrkêlôs is the one who provides the local political cover.
 
 ## See Also
 

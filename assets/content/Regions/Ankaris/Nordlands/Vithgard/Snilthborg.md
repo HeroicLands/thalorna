@@ -14,7 +14,7 @@ Families with more sons than holdings send the extra ones to Snilthborg. The for
 
 ## The Training
 
-The training at Snilthborg is brutal by design, made to strip away softness and put reflexive violence in its place. The famous sword-master **Glirvir Marvarukh** trains there. [[being-thrldrvvrnhm|Thraldorv Vörnheim]] came to him at eleven, a jarl's third son with no claim to his father's holding, and had drawn blood in earnest by sixteen. Not every boy survives the regime: Thraldorv watched his own brother die in training under Glirvir, nearly twenty years ago.
+The training at Snilthborg is brutal by design, made to strip away softness and put reflexive violence in its place. The famous sword-master **Glarvorv Mirvarukh** trains there. [[being-thrldrvvrnhm|Thraldorv Vörnheim]] came to him at eleven, a jarl's third son with no claim to his father's holding, and had drawn blood in earnest by sixteen. Not every boy survives the regime: Thraldorv watched his own brother die in training under Glarvorv, nearly twenty years ago.
 
 Ask Thraldorv, who now guards merchants at [[place-dvarnvik|Dvarnvík]], what Snilthborg did to him, and he gives a short answer: it took what was soft.
 
@@ -26,7 +26,7 @@ That death has outlived the boy. If a young warrior ever turned up in Vithgard's
 
 - Kind: a fortress-barracks on a height.
 - Trains: boys into warriors-for-hire, under a regime built to strip away softness.
-- Sword-master: Glirvir Marvarukh.
+- Sword-master: Glarvorv Mirvarukh.
 
 ## See Also
 

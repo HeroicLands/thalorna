@@ -464,10 +464,10 @@ Skraldthann is motivated by a desire for recognition and immortality through his
 
 ### Patrons
 
-Lady Viscontess Thraskselda Gnuldrmýlsdóttir
+Lady Viscontess Thraskrinna Gnuldrthanndóttir
 : A powerful noblewoman who has been Skraldthann's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
 
-Duke Svalthvir Hnarvendikh
+Duke Svalthvir Hnarvarukh
 : A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Skraldthann's judgment completely and has introduced him to numerous high-ranking patrons.
 
 The Court of the Kingdom of Norgaad

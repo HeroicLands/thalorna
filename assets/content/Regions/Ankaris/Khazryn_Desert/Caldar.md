@@ -28,7 +28,7 @@ Caldar sells ore, copper, verdigris and the faculty's products to the belt and t
 
 ## The University
 
-The renowned **Master Aldrin Kovoss** trained [[being-kayvondzrd|Kayvonad Zarid]] there from the age of fifteen, and Kayvonad's thesis on the heat underlying copper-to-silver transmutation was hailed as groundbreaking. The faculty is also a place of long quarrels. When **Dârvazad Kesvarûn** published a paper showing mathematical errors in Kayvonad's foundational work and Kayvonad answered with accusations of plagiarism, the scandal divided the department. Kesvarûn is now the University's favored elder statesman of alchemical research; Kayvonad keeps the title of Senior Researcher and little else, and a faction of younger scholars, **the Cabal of Progressive Theorists**, openly calls his methods outdated.
+The renowned **Master Aldrin Kovoss** trained [[being-kayvondzrd|Kayvonad Zarid]] there from the age of fifteen, and Kayvonad's thesis on the heat underlying copper-to-silver transmutation was hailed as groundbreaking. The faculty is also a place of long quarrels. When **Pedunay Bulamun** published a paper showing mathematical errors in Kayvonad's foundational work and Kayvonad answered with accusations of plagiarism, the scandal divided the department. Bulamun is now the University's favored elder statesman of alchemical research; Kayvonad keeps the title of Senior Researcher and little else, and a faction of younger scholars, **the Cabal of Progressive Theorists**, openly calls his methods outdated.
 
 ## Under the Ātárzád
 
@@ -36,7 +36,7 @@ The Ātárzád hold the city, and the University belongs to nobody. Its faculty 
 
 ## Hooks and Dangers
 
-- **The resurrection of Aldrin Kovoss.** Kayvonad claims his dead master achieved alchemical immortality, and he needs a party to find out where the old man was last seen. Kesvarûn would pay more to see the claim buried.
+- **The resurrection of Aldrin Kovoss.** Kayvonad claims his dead master achieved alchemical immortality, and he needs a party to find out where the old man was last seen. Bulamun would pay more to see the claim buried.
 - **The Cabal.** The younger faction wants Kayvonad's notebooks, which hold the heat figures his thesis rests on. They will bribe, burgle or recruit to get them.
 - **The runoff.** The water that runs off the refineries is not what it was when the Tellumi built the basins. A child's illness in the lower terraces is a symptom, and a physician from Zargandûr who traces it to the University finds the University's patrons unwilling to hear.
 - **The old workings.** The deep mines under the spur break into passages that were not dug by any miner on the University's rolls. Students who go down looking for ore come back with stories.

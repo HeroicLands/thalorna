@@ -431,11 +431,11 @@ His youth was marked by careful observation. While other children played games o
 
 **Rise Through Administration**
 
-At twenty years of age, Párthun secured a position in the City Administration of Valdûn through a combination of legitimate qualification and the intervention of **Lord Merkus Vethrand**, a city councilor who recognized in the young man a useful tool. For the past seventeen years, Párthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
+At twenty years of age, Párthun secured a position in the City Administration of Valdûn through a combination of legitimate qualification and the intervention of **Lord Lótren Íltherndë**, a city councilor who recognized in the young man a useful tool. For the past seventeen years, Párthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
 
 **The Foot's Mark**
 
-The scar on his foot dates to a pivotal moment in his career. Five years ago, Párthun began to recognize that his patron, Lord Merkus, was becoming a liability. The councilor's appetites were growing more expensive, his demands more unreasonable, and his patience with Párthun's careful approach was wearing thin. Rather than continue as a subordinate in Merkus's shadow, Párthun resolved to eliminate the problem. What might have been a simple poisoning or arranged accident was interrupted by an unexpected guest—a rival administrator who discovered Párthun in the act of preparation. The two men fought in Merkus's private study, and though Párthun emerged victorious, he sustained a knife wound to his foot. More importantly, he learned a crucial lesson: sometimes the most careful plans are disrupted by chaos, and the wise operator must have contingencies for unexpected interference.
+The scar on his foot dates to a pivotal moment in his career. Five years ago, Párthun began to recognize that his patron, Lord Lótren, was becoming a liability. The councilor's appetites were growing more expensive, his demands more unreasonable, and his patience with Párthun's careful approach was wearing thin. Rather than continue as a subordinate in Lótren's shadow, Párthun resolved to eliminate the problem. What might have been a simple poisoning or arranged accident was interrupted by an unexpected guest—a rival administrator who discovered Párthun in the act of preparation. The two men fought in Lótren's private study, and though Párthun emerged victorious, he sustained a knife wound to his foot. More importantly, he learned a crucial lesson: sometimes the most careful plans are disrupted by chaos, and the wise operator must have contingencies for unexpected interference.
 
 **Current Position and Agenda**
 
@@ -481,15 +481,15 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 ### Patrons
 
-Lord Merkus Vethrand
-: Despite the complications between them, Merkus remains technically Párthun's patron and the relationship continues, though now on more equal terms. Merkus values Párthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
+Lord Lótren Íltherndë
+: Despite the complications between them, Lótren remains technically Párthun's patron and the relationship continues, though now on more equal terms. Lótren values Párthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
 
 The Lord Chancellor of Élavendre
 : At the highest level of government, Párthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents patronage or merely the normal monitoring of an unusually capable official is unclear.
 
 ### Enemies
 
-Magistrate Helvren Zálreth
+Magistrate Ílsevilë Tírvalndë
 : A judge who has clashed with Párthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
 
 The Office of Civic Integrity

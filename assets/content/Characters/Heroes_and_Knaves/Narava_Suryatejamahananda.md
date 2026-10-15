@@ -483,8 +483,8 @@ Nārava's primary motivation is the pursuit of an impossible ideal—to create a
 
 ### Patrons
 
-The Temple of Jñānasūra, High Priestess Vidya
-: The grand temple of the knowledge deity has commissioned Nārava for its sacred stained glass installations, which tell the stories of spiritual enlightenment through light and color. **High Priestess Vidya** views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
+The Temple of Jñānasūra, High Priestess Vidūliya
+: The grand temple of the knowledge deity has commissioned Nārava for its sacred stained glass installations, which tell the stories of spiritual enlightenment through light and color. **High Priestess Vidūliya** views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
 
 Shreshthin Javāloka of House Chandra
 : A wealthy spice trader with refined aesthetic tastes, Javāloka has become Nārava's most consistent patron, commissioning pieces for his personal collection and his estates. Though occasionally frustrated by delays, Javāloka values the prestige of owning Nārava's work enough to tolerate the inconvenience.

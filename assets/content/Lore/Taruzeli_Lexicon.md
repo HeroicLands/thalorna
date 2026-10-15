@@ -482,6 +482,18 @@ Every name the setting gives a person, place, polity or thing of the Tarûzelian
 | **Tarûzelian Currency System**         | [[lore-trzlncrncy\|Tarûzelian Currency]]                             | `translation` | —                                      |
 | **The Crimson Ledger**                 | [[affiliation-crimsnldgr\|The Crimson Ledger]]                       | `translation` | —                                      |
 | **The Tamzîr**                         | [[affiliation-thetamzir\|The Tamzîr]]                                | `taruzeli`    | —                                      |
+| **Ashûraz Hitûsûnî**                   | [[being-ashurazhitus\|Ashûraz Hitûsûnî]]                             | `taruzeli`    | —                                      |
+| **Prince Ashûraz Hitûsûnî**            | [[being-ashurazhitus\|Ashûraz Hitûsûnî]]                             | `translation` | —                                      |
+| **Merchant Prince Ashûraz Hitûsûnî**   | [[being-ashurazhitus\|Ashûraz Hitûsûnî]]                             | `translation` | —                                      |
+| **Merchant Prince Ashûraz**            | [[being-ashurazhitus\|Ashûraz Hitûsûnî]]                             | `translation` | —                                      |
+| **Bêshûra Tarmûmî**                    | [[being-beshuratarmu\|Bêshûra Tarmûmî]]                              | `taruzeli`    | —                                      |
+| **Captain Bêshûra Tarmûmî**            | [[being-beshuratarmu\|Bêshûra Tarmûmî]]                              | `translation` | —                                      |
+| **Captain Bêshûra**                    | [[being-beshuratarmu\|Bêshûra Tarmûmî]]                              | `translation` | —                                      |
+| **Ninûri Shamîrû**                     | [[being-ninurishamir\|Ninûri Shamîrû]]                               | `taruzeli`    | —                                      |
+| **Merchant-Mother Ninûri Shamîrû**     | [[being-ninurishamir\|Ninûri Shamîrû]]                               | `translation` | —                                      |
+| **Tarrûk Eshkarûm**                    | [[being-tarrukeshkar\|Tarrûk Eshkarûm]]                              | `taruzeli`    | —                                      |
+| **Magistrate Tarrûk Eshkarûm**         | [[being-tarrukeshkar\|Tarrûk Eshkarûm]]                              | `translation` | —                                      |
+| **Magistrate Eshkarûm**                | [[being-tarrukeshkar\|Tarrûk Eshkarûm]]                              | `translation` | —                                      |
 
 ## Retired names
 

@@ -479,7 +479,7 @@ The Shrine of Brâzêmâs
 The Red Syndicate
 : A criminal organization that attempted to force Ídrisè into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
 
-Lord Petyr the Cruel
+Lord Úrnath the Cruel
 : A nobleman whose cruelty toward servants and dependents violated every principle Ídrisè holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
 
 Her own past, an inner enemy
@@ -495,7 +495,7 @@ The Shrine of Brâzêmâs
 
 ## Plot Hooks
 
-1. **The Mirror in the Storm**: Ídrisè is hired to protect **Lord Dálren Gáranth**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Dálren is convinced he is being hunted by a hired assassin. As Ídrisè investigates, she discovers that the shadow is actually **Myrrh**, another warrior trained at the Shrine of Brâzêmâs decades before Ídrisè was born. Myrrh claims to be hunting Dálren for a dark secret in his past, and asks Ídrisè to stand aside. Her loyalty to her client is set against her respect for a sister from the Shrine, and she does not truly know her employer's past.
+1. **The Mirror in the Storm**: Ídrisè is hired to protect **Lord Dálren Mórlineth**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Dálren is convinced he is being hunted by a hired assassin. As Ídrisè investigates, she discovers that the shadow is actually **Myrrh**, another warrior trained at the Shrine of Brâzêmâs decades before Ídrisè was born. Myrrh claims to be hunting Dálren for a dark secret in his past, and asks Ídrisè to stand aside. Her loyalty to her client is set against her respect for a sister from the Shrine, and she does not truly know her employer's past.
 
 2. **The Forbidden Vow**: Ídrisè falls into an unexpected relationship with **Kiran**, a merchant's daughter, over the course of a multi-month contract protecting the merchant's household. It is the first real emotional connection Ídrisè has allowed herself in years. When the contract ends, Kiran asks Ídrisè to abandon her mercenary life and simply be with her. At the same moment, the Shrine of Brâzêmâs calls upon Ídrisè for a critical mission—monks are being kidnapped and experimented upon by a dark sorcerer seeking to create a new form of warrior-slave. Ídrisè's training and combat skills are desperately needed. She is forced to choose between the personal happiness she has never allowed herself and the duty that defines her entire existence.
 

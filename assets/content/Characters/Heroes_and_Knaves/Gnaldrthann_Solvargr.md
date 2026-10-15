@@ -486,13 +486,13 @@ Master Weaponsmith Gorath
 
 ### Enemies
 
-Captain Meredith Vane
+Captain Marvynda Murvendikh
 : A rival soldier of approximately equal skill who has competed with Gnaldrthann for recognition and advancement for the past fifteen years. Their conflicts have become personal and vicious, extending beyond the battlefield into political maneuvering.
 
 The Warlord Bruthgar
 : A notorious mercenary commander whose forces have clashed with Gnaldrthann's garrison repeatedly. Bruthgar has vowed to eventually face Gnaldrthann in single combat to prove his superiority.
 
-Councilor Harvis Snalthendikh
+Councilor Hliskvir Snalthendikh
 : A political figure who views military power as a threat to his authority. He has worked systematically to undermine Gnaldrthann's position and credibility, seeking to replace him with someone more politically pliable.
 
 ### Affiliations
@@ -512,7 +512,7 @@ The Garrison at [[place-dvilgborg|Dvilgborg]]
 
 2. **The War That Wasn't**: Gnaldrthann receives orders to execute a brutal campaign against what he is told is a rebel militia operating in the borderlands. However, as the campaign unfolds, he discovers that the "rebels" are actually innocent civilians, and the orders came through channels designed to obscure the true source. He must uncover why someone has orchestrated this situation and whether the conspiracy extends into the highest ranks of military command.
 
-3. **The Duel That Decides Kingdoms**: Captain Vane approaches Gnaldrthann with an extraordinary proposal: engage in a formal duel to settle their long rivalry once and for all, with the winner taking ultimate authority over the garrison. However, Vane has made a deal with darker powers, and the duel is not what it appears to be. Victory would require Gnaldrthann to accept something he cannot fully comprehend, but refusal would mean losing everything he has built.
+3. **The Duel That Decides Kingdoms**: Captain Murvendikh approaches Gnaldrthann with an extraordinary proposal: engage in a formal duel to settle their long rivalry once and for all, with the winner taking ultimate authority over the garrison. However, Murvendikh has made a deal with darker powers, and the duel is not what it appears to be. Victory would require Gnaldrthann to accept something he cannot fully comprehend, but refusal would mean losing everything he has built.
 
 4. **The Curse of the Lion's Heart**: Gnaldrthann's tattoo of the lion's mane begins to manifest supernatural properties—it seems to enhance his combat abilities but also inflicts terrible pain and periodic moments of uncontrollable rage. He discovers that the tattoo was more than a mark of pride: an ancient ritual binding him to a spiritual force. A mysterious figure offers to explain the tattoo's true nature in exchange for Gnaldrthann performing three seemingly reasonable tasks. However, these tasks are steps in a larger ritual whose end is catastrophic.
 

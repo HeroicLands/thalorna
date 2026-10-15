@@ -470,16 +470,16 @@ Sedikôn is driven by two conflicting forces: the desire to cement his legacy as
 House Markedon
 : A wealthy merchant dynasty that has employed Sedikôn as a private weapons master for fifteen years. Their eldest son, **Fruvês Markedon**, now commands the garrison, a position Sedikôn helped him prepare for.
 
-Captain-General Frison of the City Guard
+Captain-General Rûzhvelána Khoríkot of the City Guard
 : The supreme military commander of Chrysamar personally consults with Sedikôn on matters of combat doctrine and maintains him on an annual retainer.
 
-Archon Paulides
+Archon Rabekâra Neoríkot
 : A senior political figure who guards Sedikôn jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
 
 ### Enemies
 
-Swordmaster Theodarash the Younger
-: An ambitious rival twenty years Sedikôn's junior who has begun publicly questioning whether the aging master still deserves his reputation. Theodarash has cultivated alliances among newer swordmasters and has won several public bouts against Sedikôn's former students, building confidence and a following.
+Swordmaster Vesazáhr Brirorash
+: An ambitious rival twenty years Sedikôn's junior who has begun publicly questioning whether the aging master still deserves his reputation. Vesazáhr has cultivated alliances among newer swordmasters and has won several public bouts against Sedikôn's former students, building confidence and a following.
 
 The Merchants' Syndicate Faction
 : A group of mercantile powers who resent Sedikôn's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
@@ -499,7 +499,7 @@ The Scholars of Ólvenía
 
 1. **The Challenge from Beyond the Sea**: A famed swordmaster from a distant Byzarian colony arrives in Chrysamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikôn Manedês, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikôn to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikôn gain a truly honorable victory.
 
-2. **The Stolen Techniques**: Sedikôn discovers that Swordmaster Theodarash the Younger has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikôn has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikôn hires the party to identify the traitor and recover the stolen knowledge before it spreads among the city's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikôn to confront his own rigidity.
+2. **The Stolen Techniques**: Sedikôn discovers that Swordmaster Vesazáhr Brirorash has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikôn has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikôn hires the party to identify the traitor and recover the stolen knowledge before it spreads among the city's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikôn to confront his own rigidity.
 
 3. **The Tournament of Ascension**: A prestigious martial tournament is announced in a neighboring city, promising enormous prize money and the title of "Supreme Master of the Byzarian Realms." Sedikôn sees this as a final opportunity to prove his dominance against the best warriors of his age, but his declining condition worries his patrons and students. Alternatively, the party might be hired as his escorts and bodyguards, discovering that other competitors are employing supernatural enhancements, poisoning, and sabotage. The heroes can support Sedikôn through fair means or alert him to the cheating taking place around him.
 

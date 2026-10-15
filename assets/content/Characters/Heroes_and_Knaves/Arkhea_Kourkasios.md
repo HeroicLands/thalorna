@@ -467,7 +467,7 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 
 ### Patrons
 
-Mother Superior Thessala of the House of Lîzêlâs
+Mother Superior Hezogéze Sogipídek of the House of Lîzêlâs
 : The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhêa. They share a spiritual understanding despite their vastly different circumstances.
 
 Merchant's Widow Kraria Margikos

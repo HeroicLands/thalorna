@@ -433,7 +433,7 @@ Born to the Zu'Zereketu clan in the fertile valleys of the Empire of [[affiliati
 
 ### Training and Path
 
-At thirteen, Linta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Aû'Khelâthu.
+At thirteen, Linta convinced a weathered caravan master named **Lefta the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Aû'Khelâthu.
 
 ### Current Situation
 
@@ -482,8 +482,8 @@ Linta seeks to test herself against increasingly difficult challenges, driven by
 Merchant Prince [[being-walrthqltlft|Walrethu Qelt'Lefetu]]
 : A shrewd and successful trader who employs Linta as his primary scout and caravan guard. He pays extremely well and respects her independence, making him her most consistent patron. Qelt'Lefetu trusts Linta's judgment implicitly and often acts on her tactical recommendations.
 
-Caravan Master Thoren the Keen-Eyed
-: Her early mentor who first hired her as a porter, Thoren remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Linta to other caravan masters seeking reliable protection.
+Caravan Master Lefta the Keen-Eyed
+: Her early mentor who first hired her as a porter, Lefta remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Linta to other caravan masters seeking reliable protection.
 
 [[affiliation-linqeztkhlth|Lin'Qeztu elu Aû'Khelâthu]]
 : The formal institution that recognizes her as a guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.

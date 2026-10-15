@@ -479,7 +479,7 @@ The Builders' Collective
 High Priestess Snarvthýra
 : The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
-Alderman Hvarnvir
+Alderman Hluskmýl
 : The local administrative leader respects Kraldmýl's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 
 ### Enemies

@@ -1,0 +1,39 @@
+---
+shortcode: dvurnthyra
+name: {full: Dvurnthýra, aliases: [Lady Dvurnthýra]}
+type: being
+subType: npc
+description: A scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts, named in Hliskthann Vetrdómr.
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [scholar]
+  occupation: Scholar
+  lore: []
+  culture: nordheimnclt
+  homes: []
+  affiliations: {}
+  gender: female
+  species: humanflk
+  born: "678.290"
+  died: null
+  height: 5' 6"
+  weight: 166 lbs
+  frame: heavy
+  appearance:
+    eye_color: grey
+    hair_color: brown
+    skin_color: fair
+    complexion: [freckled]
+    extra_features: []
+  packFolder: ankarisnordlands
+---
+
+# Appearance {#appearance}
+
+Dvurnthýra is a 41-year-old woman who stands 5'6" tall with a heavy build. She has fair skin, freckled complexion, brown hair, and grey eyes.
+
+# Dossier {#dossier}
+
+Dvurnthýra is a scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts. She asks Hliskthann to become the subject of a comprehensive written record of his techniques. Dvurnthýra is named in [[being-hlskthnvtrdmr|Hliskthann Vetrdómr]].

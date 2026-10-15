@@ -475,7 +475,7 @@ The Council of Sāmantas
 
 ### Enemies
 
-Herald Kārvesh the Modernizer
+Herald Kalyānika the Modernizer
 : A younger herald of considerable talent who advocates for streamlined heraldic processes and argues that many of Madhurava's "sacred traditions" are merely outdated bureaucratic theater, directly challenging his authority.
 
 House Vākhara

@@ -428,7 +428,7 @@ Rulthvir was born into the Járnskel clan, a family of herders whose bloodline e
 
 ### The Settling Years
 
-By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Járnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Marvthýra Hlarthendikh**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Steinn the Younger**, showed the passion for herding that defines the Járnskel line.
+By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Járnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Marvthýra Hlarthendikh**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Snilthann the Younger**, showed the passion for herding that defines the Járnskel line.
 
 ### The Current Era
 
@@ -492,7 +492,7 @@ The Norgaad Pastoral Association
 
 1. **The Plague Among the Herds**: - A mysterious illness begins spreading among livestock across Norgaad, affecting cattle, sheep, and goats indiscriminately. Rulthvir's herds are among the first infected, and his ability to contain the spread becomes critical to regional survival. The disease appears to have no natural cause, leading to talk of magical corruption or divine punishment. Rulthvir must work with healers, nobles, and possibly adventurers to identify the source while watching his beloved herds sicken and die. The crisis tests whether traditional knowledge is enough or whether new approaches are needed.
 
-2. **The Herder's Choice**: - Rulthvir's son, **Steinn the Younger**, seeks permission to leave the herding life to train as a warrior in a distant kingdom. Rulthvir, who has always assumed his son would continue the family tradition, is devastated and refuses to grant permission. Steinn goes anyway, creating a rift that forces Rulthvir to ask whether tradition can be preserved by compulsion or only by willing choice.
+2. **The Herder's Choice**: - Rulthvir's son, **Snilthann the Younger**, seeks permission to leave the herding life to train as a warrior in a distant kingdom. Rulthvir, who has always assumed his son would continue the family tradition, is devastated and refuses to grant permission. Snilthann goes anyway, creating a rift that forces Rulthvir to ask whether tradition can be preserved by compulsion or only by willing choice.
 
 3. **The Ecological Shift**: - Over successive seasons, Rulthvir notices that the climate of his traditional pasturing regions is changing in subtle but concerning ways. The mountains that have reliably provided water sources are producing less runoff. Plant growth patterns are shifting. The understanding of his environment that has guided him for decades is becoming unreliable. He can abandon centuries of family tradition and move his herds to new territories, or keep his holding going in increasingly hard conditions.
 

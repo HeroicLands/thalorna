@@ -472,7 +472,7 @@ Deep down, Árshazûr fears civilian life and what it might require of him—the
 Lord Commander Mazitos of the Eastern March
 : The military commander who has overseen Árshazûr's service for the past decade. Mazitos respects Árshazûr's judgment and frequently seeks his counsel on tactical matters.
 
-Lady Merchant Elestra Panos
+Lady Merchant Mâzhreléna Olkadákit
 : A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Árshazûr. She offers both material support and emotional companionship.
 
 The Monastery of Saint Florantine
@@ -480,8 +480,8 @@ The Monastery of Saint Florantine
 
 ### Enemies
 
-Captain Markos of the Rival Legion
-: A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Árshazûr's. Markos harbors deep resentment and seeks opportunities to undermine Árshazûr's reputation.
+Captain Zhâmbelikos Kîtvârzát of the Rival Legion
+: A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Árshazûr's. Zhâmbelikos harbors deep resentment and seeks opportunities to undermine Árshazûr's reputation.
 
 The Bandit Lord Thessarios
 : A criminal leader whose network Árshazûr's unit destroyed several years ago. Thessarios survived and harbors lethal grudges against Árshazûr personally.

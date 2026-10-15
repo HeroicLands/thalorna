@@ -397,7 +397,7 @@ Mirvrinna's agricultural knowledge combines practical expertise with divine bles
 
 The Blight-Bringer—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Mirvrinna has been investigating and is getting dangerously close to the truth.
 
-**Jarl Grimbeard's Tax Collectors**—A lord who imposes crushing taxes on the villages Mirvrinna serves, deliberately keeping them dependent and hungry. He views Mirvrinna's efforts to improve their harvests as a threat to his control.
+**Jarl Glirvir's Tax Collectors**—A lord who imposes crushing taxes on the villages Mirvrinna serves, deliberately keeping them dependent and hungry. He views Mirvrinna's efforts to improve their harvests as a threat to his control.
 
 ## Plot Hooks
 

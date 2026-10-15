@@ -396,6 +396,16 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Watcher**                          | [[affiliation-wardensapproaches\|Watcher]]                                                                                | `translation` | —                         |
 | **Weaver of the Band**               | [[affiliation-lineageavoluthei\|Weaver of the Band]]                                                                      | `translation` | —                         |
 | **What the Sinalë Recognized**       | [[lore-sinalercgnzd\|What the Sinalë Recognized]]                                                                         | `translation` | —                         |
+| **Anorivei Thavoeli**                | [[being-anoriveithav\|Anorivei Thavoeli]]                                                                                 | `kalihari`    | —                         |
+| **Merchant-Prince Anorivei**         | [[being-anoriveithav\|Anorivei Thavoeli]]                                                                                 | `translation` | —                         |
+| **Maithori Naelithuri**              | [[being-maithorinael\|Maithori Naelithuri]]                                                                               | `kalihari`    | —                         |
+| **Seer Maithori**                    | [[being-maithorinael\|Maithori Naelithuri]]                                                                               | `translation` | —                         |
+| **Mahitua Theiluori**                | [[being-mahituatheil\|Mahitua Theiluori]]                                                                                 | `kalihari`    | —                         |
+| **Lord Mahitua**                     | [[being-mahituatheil\|Mahitua Theiluori]]                                                                                 | `translation` | —                         |
+| **Navatei Koathevoi**                | [[being-navateikoath\|Navatei Koathevoi]]                                                                                 | `kalihari`    | —                         |
+| **Guild Master Navatei**             | [[being-navateikoath\|Navatei Koathevoi]]                                                                                 | `translation` | —                         |
+| **Veithari Kuethori**                | [[being-veitharikuet\|Veithari Kuethori]]                                                                                 | `kalihari`    | —                         |
+| **Merchant Prince Veithari**         | [[being-veitharikuet\|Veithari Kuethori]]                                                                                 | `translation` | —                         |
 
 ## Retired names
 
@@ -412,10 +422,10 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `Khûn`            | `Revi`              | an Earth word, a rival guard captain                       |
 | `Khardun`         | `Melovai`           | built on an Earth morpheme, a smith of Ilovanu             |
 | `Korven`          | `Vaelumo`           | an Earth word, the scribe's master                         |
-| `Parvesh`         | `Noravei`           | an Earth name, the master of the Scribes' Guild            |
+| `Parvesh`         | `Navatei`           | an Earth name, the master of the Scribes' Guild            |
 | `Tavis`           | `Ruvaneli`          | an Earth word and name, the scribe's apprentice            |
 | `Dalen`           | `Vaoleni`           | an Earth word and name, the caravan guard's apprentice     |
-| `Lord Devendra`   | `Lord Maruvei`      | an Earth name, the head of the Kubasari                    |
+| `Lord Devendra`   | `Lord Mahitua`      | an Earth name, the head of the Kubasari                    |
 | `Astronomus`      | `Olitelinei`        | an Earth word, the byname of the pilots' astronomer        |
 | `Morwenna`        | —                   | an Earth name; the Lady of House Dûravîn goes by her house |
 | `Lysander Cross`  | —                   | Earth names; the foreign merchant goes unnamed             |

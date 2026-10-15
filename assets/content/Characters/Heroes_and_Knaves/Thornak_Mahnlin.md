@@ -501,11 +501,11 @@ Thornak hopes the barrows can give him enough renown to rally other villages aga
 
 ### Enemies
 
-Captain Varlan Keldros
-: A southern military commander who has been leading expeditions into Vrystwald territory. Keldros views the Vrystwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vrystwalds to instill fear.
+Captain Cuthwin Coldwick
+: A southern military commander who has been leading expeditions into Vrystwald territory. Coldwick views the Vrystwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vrystwalds to instill fear.
 
 [[affiliation-sonsmuspell|The Sons of Eldheim]]
-: This Black Flame military order seeks to seize Varokhi lands in Vrystwald as a route into the Nordlands. Its **Blazewarden Malekir** has personally sworn to burn the Vrystwald forests and offer the villages' Shamans as sacrifices to Ústaron. Thornak has clashed with Malekir's forces on several occasions, but the Sons are numerous and well armed, making them a deadly threat.
+: This Black Flame military order seeks to seize Varokhi lands in Vrystwald as a route into the Nordlands. Its **Blazewarden Sîrêthôs** has personally sworn to burn the Vrystwald forests and offer the villages' Shamans as sacrifices to Ústaron. Thornak has clashed with Sîrêthôs's forces on several occasions, but the Sons are numerous and well armed, making them a deadly threat.
 
 Sigulf the Crowcaller
 : The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that Eichengrund must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Eichengrund tribe and win wider allegiance beyond the temporary command Varokhi custom permits.
@@ -514,7 +514,7 @@ Sigulf the Crowcaller
 
 The barrow stories below are adventure possibilities, not established accounts of a shared Varokhi past. Thornak’s visions and the spirits’ claims can be mistaken or deceptive; discovering what is true is part of play. Seeking ancestral power for battle also breaches the ordinary prohibition on questioning the dead about combat or revenge, giving Eichengrund’s Weskár grounds to oppose his quest.
 
-1. **War with the Sons**: The [[affiliation-sonsmuspell|Sons of Eldheim]] plan a larger invasion of Vrystwald, and Thornak must lead his people in a desperate defense. Players could assist the villages, raid the Sons' camps, or confront Blazewarden Malekir in a climactic battle.
+1. **War with the Sons**: The [[affiliation-sonsmuspell|Sons of Eldheim]] plan a larger invasion of Vrystwald, and Thornak must lead his people in a desperate defense. Players could assist the villages, raid the Sons' camps, or confront Blazewarden Sîrêthôs in a climactic battle.
 
 2. **Rivalry of the Crow**: As Sigulf gathers power, the rivalry between him and Thornak could erupt into a full-blown conflict that threatens the unity of the Eichengrund tribe. Players may have to choose sides, either supporting Thornak’s vision of strength through the Boar Spirit or aiding Sigulf in his quest for a new path.
 

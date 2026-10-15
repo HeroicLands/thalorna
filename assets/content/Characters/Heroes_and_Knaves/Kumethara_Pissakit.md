@@ -471,7 +471,7 @@ The Architects' Collective of the Byzarian League
 : A group of builders committed to lasting construction. They seek Kûmêthâra's timber for high-profile projects and trust her judgment on material selection.
 
 The Monastery of Silent Waters
-: A religious community in the forest that employs Kûmêthâra to manage their woodlands sustainably while generating income. The head priest, **Father Yuvês**, shares her conservation philosophy.
+: A religious community in the forest that employs Kûmêthâra to manage their woodlands sustainably while generating income. The head priest, **Father Trokhazul Petríkot**, shares her conservation philosophy.
 
 ### Enemies
 

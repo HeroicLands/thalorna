@@ -483,10 +483,10 @@ Merchant House Valdris
 Master Cook Ilenna
 : Proprietor of a well-known provision house where Órashkâr coordinates supplies for merchant caravans; they maintain a mutually beneficial relationship built on decades of reliable partnership.
 
-Guild Master Maxentáhr
+Guild Master Zhâmbelína Keramákit
 : The current head of the Teamsters' Guild values Órashkâr as an unofficial advisor on standards and practices, consulting with him on disputes and policy matters.
 
-Lady Merchant Theresia
+Lady Merchant Bruzánaz Ghigídek
 : A younger merchant whose family was personally helped by Órashkâr in her youth; she has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
 
 ### Enemies

@@ -419,7 +419,7 @@ Plánthash stands 6'2" tall with a heavy build. He has tanned weathered skin, da
 
 # Dossier {#dossier}
 
-Plánthash was born a tradesman's son in the port districts of the [[affiliation-byzarianlg|Byzarian League]], where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain Merillos**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Plánthash learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
+Plánthash was born a tradesman's son in the port districts of the [[affiliation-byzarianlg|Byzarian League]], where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain Krozerazûr Pazhûrzát**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Plánthash learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
 
 By his twenty-fourth year, Plánthash had become a specialist in ship repair and fishing harvest management, taking charge of preservation techniques and crew victuals. His reputation for tireless work and honest dealing spread through the port, making captains and merchants want him; his name was known to captains and merchants alike. He has never taken command of his own vessel, content instead to remain the reliable hand upon whom others depend, though whispers suggest he possesses the capability for greater things.
 
@@ -458,7 +458,7 @@ Plánthash is driven by a desire to leave a mark upon his craft that goes beyond
 
 ### Patrons
 
-Captain Merillos
+Captain Krozerazûr
 : The merchant captain who trained him in youth and remains his closest contact in the trade, regularly requesting Plánthash for important commissions and vouching for his reliability to other vessel owners.
 
 Merchant House Tredis
@@ -484,7 +484,7 @@ Byzarian Seafarers' Loose Network
 
 1. **The Lost Design**: A mysterious stranger seeks out Plánthash in a harborside tavern, claiming to represent a wealthy merchant prince interested in commissioning an experimental vessel design. The stranger reveals knowledge of Plánthash's journal sketches, though he has never shown them to anyone. This unexpected attention forces Plánthash to consider whether his private ambitions might finally become reality—or whether something darker lies beneath the offer.
 
-2. **Wrecked Legacy**: Plánthash encounters **Captain Merillos** in desperate circumstances—his vessel has been sabotaged, his crew scattered, and mysterious enemies pursue him. Merillos refuses to explain the circumstances but implores Plánthash to help him hide a sealed cargo and disappear into anonymity. Plánthash must choose between loyalty to his mentor and his own safety, all while discovering that Merillos may not be the man he always believed him to be.
+2. **Wrecked Legacy**: Plánthash encounters **Captain Krozerazûr** in desperate circumstances—his vessel has been sabotaged, his crew scattered, and mysterious enemies pursue him. Krozerazûr refuses to explain the circumstances but implores Plánthash to help him hide a sealed cargo and disappear into anonymity. Plánthash must choose between loyalty to his mentor and his own safety, all while discovering that Krozerazûr may not be the man he always believed him to be.
 
 3. **The Philosopher's Question**: A learned scholar from the interior cities hires passage aboard a League vessel to gain access to maritime archives Plánthash uses for his research. The scholar becomes fascinated by Plánthash's journals, recognizing in the ship designs the mathematical principles underlying an ancient text the scholar is attempting to decode. Together, they begin to realize that Plánthash's intuitive designs may hold the key to understanding a lost civilization's navigational secrets—attracting interest from parties both academic and dangerous.
 

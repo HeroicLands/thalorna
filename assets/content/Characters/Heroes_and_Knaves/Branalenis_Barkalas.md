@@ -431,17 +431,17 @@ Her black hair is typically worn in neat plaited pigtails. Her eyes are perpetua
 
 Brânalenîs was born in the great port city of [[affiliation-provinclys|Alyssa]] in the [[affiliation-vylarinmpr|Empire of Vylaria]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
 
-At age six, she was effectively adopted by the crew of a merchant vessel, the _Seaflower_, whose captain—a gruff but fair-minded woman named Keira Saltwind—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of sea trade rather than schooling.
+At age six, she was effectively adopted by the crew of a merchant vessel, the _Seaflower_, whose captain—a gruff but fair-minded woman named Vênthêlen Kâldrêmândis—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of sea trade rather than schooling.
 
 ### The Rising Sailor
 
-Under Captain Saltwind's exacting tutelage, Brânalenîs learned every aspect of seamanship. She started as a general deckhand, performing the most menial tasks, but her quick mastery of rope work and her unusual fearlessness when climbing rigging marked her for advancement. By age sixteen, she was effectively the ship's bosun, managing crew assignments and rigging repairs. By her early twenties, she was being consulted on navigation and decisions regarding course and the handling of cargo.
+Under Captain Kâldrêmândis's exacting tutelage, Brânalenîs learned every aspect of seamanship. She started as a general deckhand, performing the most menial tasks, but her quick mastery of rope work and her unusual fearlessness when climbing rigging marked her for advancement. By age sixteen, she was effectively the ship's bosun, managing crew assignments and rigging repairs. By her early twenties, she was being consulted on navigation and decisions regarding course and the handling of cargo.
 
-Yet despite her obvious merit and growing responsibility, Brânalenîs never received formal advancement in rank, a fact that grated on her even as she understood the practical reasons. The merchant fleet's hierarchy was deeply conservative, and a woman—particularly a young woman of non-noble birth—advancing too visibly would create resentment and resistance throughout the seafaring community. Captain Saltwind protected her protégée by keeping her advancement informal, unofficial, and therefore less threatening to the men who held rank.
+Yet despite her obvious merit and growing responsibility, Brânalenîs never received formal advancement in rank, a fact that grated on her even as she understood the practical reasons. The merchant fleet's hierarchy was deeply conservative, and a woman—particularly a young woman of non-noble birth—advancing too visibly would create resentment and resistance throughout the seafaring community. Captain Kâldrêmândis protected her protégée by keeping her advancement informal, unofficial, and therefore less threatening to the men who held rank.
 
 ### The Uncertain Present
 
-Captain Saltwind died three years ago—not at sea, but of a wasting illness in Alyssa, leaving Brânalenîs bereft and, for the first time in her adult life, unanchored. She has spent the intervening years working as a hired hand aboard various vessels, trading on her considerable reputation and skills but never again finding the kind of guidance or partnership she had with Saltwind. The competitive nature that was an asset when working toward advancement within a hierarchy has become something more complicated in her current wandering life—she competes for every position, guards every advantage, and trusts no one in the way she once trusted her captain.
+Captain Kâldrêmândis died three years ago—not at sea, but of a wasting illness in Alyssa, leaving Brânalenîs bereft and, for the first time in her adult life, unanchored. She has spent the intervening years working as a hired hand aboard various vessels, trading on her considerable reputation and skills but never again finding the kind of guidance or partnership she had with Kâldrêmândis. The competitive nature that was an asset when working toward advancement within a hierarchy has become something more complicated in her current wandering life—she competes for every position, guards every advantage, and trusts no one in the way she once trusted her captain.
 
 Her standing as a sailor of rare skill has created an odd isolation. She is respected, in demand even, but never quite belonged to. Most crews view her as a hired hand rather than a true member of their community.
 
@@ -457,7 +457,7 @@ She is also a surprisingly idealistic young woman who dreams of things beyond th
 
 ### Motivation
 
-Brânalenîs is driven by multiple, sometimes contradictory forces. Fundamentally, she seeks belonging—a place where her extraordinary competence is recognized not as something to be exploited but as a valued contribution to something larger than herself. She seeks also to honor the memory of Captain Saltwind by becoming as great a sailor as possible, and by potentially using her position to open doors for other young women with maritime ambitions.
+Brânalenîs is driven by multiple, sometimes contradictory forces. Fundamentally, she seeks belonging—a place where her extraordinary competence is recognized not as something to be exploited but as a valued contribution to something larger than herself. She seeks also to honor the memory of Captain Kâldrêmândis by becoming as great a sailor as possible, and by potentially using her position to open doors for other young women with maritime ambitions.
 
 Yet in the immediate sense, she is driven by competition and the relentless need to prove herself. Each sailing contract is an opportunity to demonstrate superiority; each challenge is an invitation to show that she is superior to every other sailor in the crew. This creates an exhausting pattern where she cannot rest or settle because doing so feels like admitting defeat.
 
@@ -475,7 +475,7 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 - **Emotional Isolation**: Her inability to form real emotional connections leaves her deeply lonely despite being surrounded by people. She cannot ask for help, cannot admit weakness, cannot truly rest.
 - **Excessive Competitiveness**: Her need to prove herself superior often causes her to take unnecessary risks or to antagonize others unnecessarily. Her competitiveness can become destructive.
 - **Vulnerability Avoidance**: She will go to extraordinary lengths to avoid situations requiring her to be vulnerable or dependent. This often costs her opportunities for real connection and growth.
-- **Untrusting Nature**: Having never fully trusted anyone since Captain Saltwind's death, Brânalenîs approaches new relationships with deep skepticism. She assumes everyone is viewing her as a passing convenience rather than a person.
+- **Untrusting Nature**: Having never fully trusted anyone since Captain Kâldrêmândis's death, Brânalenîs approaches new relationships with deep skepticism. She assumes everyone is viewing her as a passing convenience rather than a person.
 - **Restlessness**: She cannot settle. Moving from ship to ship prevents her from building stability or community, yet the thought of staying in one place terrifies her.
 - **Tendency Toward Recklessness**: When frustrated or bored, Brânalenîs becomes willing to take unnecessary risks, often putting herself and others in danger unnecessarily.
 
@@ -483,10 +483,10 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 
 ### Patrons
 
-Captain Bárdanôs Arzatorìs
+Captain Sôltêrôs Brâzêmênôs
 : A merchant vessel captain who regularly seeks Brânalenîs out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
 
-Master Harbormaster Deneus
+Master Harbormaster Talôthar
 : The official overseer of Alyssa's harbor, who provides Brânalenîs with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
 
 The Seafarers' Lodge
@@ -498,7 +498,7 @@ Captain Drown
 : A rivaling sailor of questionable ethics who views Brânalenîs as competition and has spread unfounded rumors about her reliability. They have clashed on at least three separate occasions.
 
 The Harbor Master's Rival Faction
-: Certain merchants who view Deneus as an obstacle to their trading operations have subtly worked to undermine his authority. Since Brânalenîs is associated with him, she has become a secondary target.
+: Certain merchants who view Talôthar as an obstacle to their trading operations have subtly worked to undermine his authority. Since Brânalenîs is associated with him, she has become a secondary target.
 
 Merchant Syndicate of Shallow Cove
 : An organized smuggling ring has attempted to recruit Brânalenîs into their operations. When she refused, they marked her as a threat due to her knowledge of ships and harbor layouts.
@@ -524,4 +524,4 @@ Independent Maritime Community
 
 4. **The Sailing Contest**: A wealthy merchant announces a great sailing race across the empire—the winner receives land, title, and a substantial purse. For the first time, the competition is officially open to women as well as men. Brânalenîs sees this as an opportunity to prove herself definitively, but entering means competing against captains and sailors who have spent their entire lives in rivalry with her, and the race's course passes through territories where various factions would prefer she did not sail.
 
-5. **The Captain's Legacy**: An elderly sailor who claims to have known Captain Saltwind approaches Brânalenîs from his deathbed, asking her to deliver a sealed letter to "whoever succeeds in captaining a ship of true honor." He dies before explaining what this means. Investigating the letter's true contents puts Brânalenîs on a collision course with powerful shipping lords and puts to her the question of what she truly wants her life to become—a lone sailor of rare skill, or a leader capable of building something greater than herself.
+5. **The Captain's Legacy**: An elderly sailor who claims to have known Captain Kâldrêmândis approaches Brânalenîs from his deathbed, asking her to deliver a sealed letter to "whoever succeeds in captaining a ship of true honor." He dies before explaining what this means. Investigating the letter's true contents puts Brânalenîs on a collision course with powerful shipping lords and puts to her the question of what she truly wants her life to become—a lone sailor of rare skill, or a leader capable of building something greater than herself.

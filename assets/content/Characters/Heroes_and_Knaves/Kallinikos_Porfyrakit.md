@@ -467,10 +467,10 @@ Bazebos is driven by the deep human desire to know, to map the unmapped, to leav
 The Royal Cartographers' Society
 : Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of importance to the Order.
 
-Lord Commander Hieronymus
+Lord Commander Dâlveshikos Brirorash
 : A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
 
-Lady Investress Calyndra
+Lady Investress Dezhbâléa Argyrákit
 : A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
 
 ### Enemies

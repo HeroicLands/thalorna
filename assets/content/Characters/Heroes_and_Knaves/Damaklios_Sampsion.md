@@ -427,7 +427,7 @@ Damáklios stands 5'6" tall with a medium build. He has light tanned skin, greyi
 
 # Dossier {#dossier}
 
-Damáklios Bridutis was born in the [[affiliation-byzarianlg|Byzarian League]] to a family of skilled artisans—his father a mapmaker of modest renown, his mother a weaver of great ability. He showed early talent for drawing and composition, and by his teens, he had begun apprenticing formally with the **Cartographers' Guild**. His training under **Master Cartographer Vésalon** was rigorous and exacting; Vésalon demanded precision to the point of obsession, absolute fidelity to source material, and the integration of artistic sensibility with mathematical accuracy. By his twenties, Damáklios had become a skilled cartographer, creating maps commissioned by merchant houses, the League's administrative bodies, and wealthy collectors.
+Damáklios Bridutis was born in the [[affiliation-byzarianlg|Byzarian League]] to a family of skilled artisans—his father a mapmaker of modest renown, his mother a weaver of great ability. He showed early talent for drawing and composition, and by his teens, he had begun apprenticing formally with the **Cartographers' Guild**. His training under **Master Cartographer Khelilazul Frizipáhr** was rigorous and exacting; Khelilazul demanded precision to the point of obsession, absolute fidelity to source material, and the integration of artistic sensibility with mathematical accuracy. By his twenties, Damáklios had become a skilled cartographer, creating maps commissioned by merchant houses, the League's administrative bodies, and wealthy collectors.
 
 Yet as his capabilities increased, so did his appetite. He began to recognize that maps were instruments of power as well as documents: they revealed trade routes, revealed the locations of resources, revealed vulnerabilities in defensive positions. Fifteen years ago, facing financial pressures and an opportunity for very high pay, he began accepting commissions from less scrupulous sources—merchant lords engaged in smuggling, foreign powers interested in Byzarian military positions, organized crime syndicates seeking to understand territorial control and opportunity. The money was extraordinary, far exceeding what legitimate cartography could provide. He constructed an elaborate mental framework to justify these sales: he was simply providing accurate information; he was not responsible for how others chose to use his maps; merchants and nations acted as they always had, maps merely making their actions easier.
 
@@ -479,10 +479,10 @@ Unknown Foreign Power
 ### Enemies
 
 The Byzarian League's City Guard (Official)
-: Suspicion of espionage has created an official enmity. Damáklios is being watched, and they have commissioned rival **Cartographer Méchon** to produce competing maps to verify whether Damáklios's accuracy is skill or potentially involves access to classified information.
+: Suspicion of espionage has created an official enmity. Damáklios is being watched, and they have commissioned rival **Cartographer Fruzukáz Selvâzhazát** to produce competing maps to verify whether Damáklios's accuracy is skill or potentially involves access to classified information.
 
-Rival Cartographer Méchon
-: A talented but jealous competitor who suspects Damáklios of receiving commissions through underhanded means. Méchon has been cultivating relationships with city guard officials and spreading insinuations about Damáklios's integrity.
+Rival Cartographer Fruzukáz
+: A talented but jealous competitor who suspects Damáklios of receiving commissions through underhanded means. Fruzukáz has been cultivating relationships with city guard officials and spreading insinuations about Damáklios's integrity.
 
 The Theft Syndicate of the Eastern Docks
 : A criminal organization whose operations were severely disrupted when Damáklios, attempting to reduce his own complicity in harm, provided information to the city guard about their hidden supply caches (which he had previously mapped for them at high cost). They now view him as a traitor and have marked him for death.

@@ -426,11 +426,11 @@ Pritārika stands 5'6" tall with a medium build. She has rich brown skin, very d
 
 # Dossier {#dossier}
 
-Pritārika was born into the great house of Padmadīksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Kulina Jayendra, believed that women of great-house blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Amrita, was herself a scholar of considerable renown and passed to Pritārika a love of knowledge and an unusually compassionate worldview.
+Pritārika was born into the great house of Padmadīksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Kulina Jayarsha, believed that women of great-house blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Amrita, was herself a scholar of considerable renown and passed to Pritārika a love of knowledge and an unusually compassionate worldview.
 
-The realm's traditional great houses resisted this broad education, but Kulina Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Kulina Devānūra of a neighboring holding, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Devānūra respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
+The realm's traditional great houses resisted this broad education, but Kulina Jayarsha was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Kulina Satyādarsha of a neighboring holding, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Satyādarsha respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
 
-When Devānūra was killed in a hunting accident at age fifty-five—an incident Pritārika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
+When Satyādarsha was killed in a hunting accident at age fifty-five—an incident Pritārika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
 
 For the past fifteen years, she has carried out new agricultural reforms, established fair legal codes that protect the Karmāja alongside the interests of the great kulas, invested in education for promising youth regardless of birth status, and handled the treacherous politics between the great houses with care to strengthen her position and that of her people.
 
@@ -448,7 +448,7 @@ She is often lonely in her position. Her authority prevents friendship with thos
 
 Pritārika's deepest motivation is the creation of a society that functions according to merit and justice rather than mere tradition and bloodline. She views her positions of power not as personal privilege but as stewardship, and she is determined to use her influence to gradually reshape Vedyaran society into something more humane and egalitarian. She knows this transformation will not occur in her lifetime and may be reversed after her death, but she is committed to planting seeds that might grow in future generations.
 
-Privately, she also seeks to honor the memory of her late husband by seeing that his house and legacy endure and prosper, and she wonders obsessively whether his death was truly accident or the consequence of powerful enemies who feared what she and Devānūra might accomplish together.
+Privately, she also seeks to honor the memory of her late husband by seeing that his house and legacy endure and prosper, and she wonders obsessively whether his death was truly accident or the consequence of powerful enemies who feared what she and Satyādarsha might accomplish together.
 
 ### Strengths
 
@@ -472,7 +472,7 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 - **Isolation**: Her position and her reforming views isolate her from true friendship. This isolation can manifest as moments of paralyzing self-doubt when she lacks external validation for difficult decisions.
 
-- **Potential Vulnerability Regarding Her Husband's Death**: If convinced that Devānūra's death was murder rather than accident, Pritārika would be capable of extreme action, possibly undermining her own principles in pursuit of justice or revenge.
+- **Potential Vulnerability Regarding Her Husband's Death**: If convinced that Satyādarsha's death was murder rather than accident, Pritārika would be capable of extreme action, possibly undermining her own principles in pursuit of justice or revenge.
 
 - **Underestimation of Traditional Forces**: While aware intellectually of the power of tradition and conservative reaction, Pritārika sometimes underestimates how deeply rooted resistance to change can be. She may be surprised by how effectively traditionalist opponents mobilize against her initiatives.
 
@@ -522,7 +522,7 @@ The Learned Society of Vedyara
 
 ## Plot Hooks
 
-1. **The Murder Most Convenient**: Pritārika receives evidence—a letter discovered in long-sealed archives—suggesting that her husband Devānūra's death fifteen years ago was deliberately orchestrated. The letter implicates a powerful figure now deceased but names co-conspirators who are still alive and influential. As she investigates, she discovers that revealing the truth would destroy powerful current alliances and cast doubt on decisions she has made since Devānūra's death. Pursuing this old murder may serve justice, or it may be vengeance at the cost of the stability her people depend upon. Meanwhile, someone wants these documents destroyed and may attempt to murder Pritārika to prevent their publication.
+1. **The Murder Most Convenient**: Pritārika receives evidence—a letter discovered in long-sealed archives—suggesting that her husband Satyādarsha's death fifteen years ago was deliberately orchestrated. The letter implicates a powerful figure now deceased but names co-conspirators who are still alive and influential. As she investigates, she discovers that revealing the truth would destroy powerful current alliances and cast doubt on decisions she has made since Satyādarsha's death. Pursuing this old murder may serve justice, or it may be vengeance at the cost of the stability her people depend upon. Meanwhile, someone wants these documents destroyed and may attempt to murder Pritārika to prevent their publication.
 
 2. **The Heir Problem**: Pritārika discovers she is unable to bear children due to complications from a riding accident in her youth—something she had concealed even from herself through denial. Without an heir of her blood, her entire program of reform is vulnerable to reversal after her death. Her options are to adopt an heir, to marry despite her resistance to that institution, to restore power to the Padmadīksha line through a younger family member, or to make reforms in the law that will protect her legacy even without an heir of her body. Each option creates political complications and personal heartache.
 

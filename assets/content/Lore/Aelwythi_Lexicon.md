@@ -202,7 +202,7 @@ A byname draws on these and on the place-name elements above.
 | **Coldbeck**    | [[place-coldbeck\|Coldbeck]]                                                                   | `place`  | `cold` + `beck`         |
 | **Coldford**    | [[lore-coldfordhead\|Coldford]]                                                                | `place`  | `cold` + `ford`         |
 | **Cuthbert**    | [[being-cthbrtshrwn\|Cuthbert]]                                                                | `given`  | `cuth` + `bert`         |
-| **Cuthwin**     | [[lore-windownaming\|Cuthwin]]                                                                 | `given`  | `cuth` + `win`          |
+| **Cuthwin**     | [[lore-windownaming\|Cuthwin]], [[being-cuthwincoldw\|Cuthwin]]                                | `given`  | `cuth` + `win`          |
 | **Dunmere**     | [[place-dunmere\|Dunmere]]                                                                     | `place`  | `dun` + `mere`          |
 | **Dunstan**     | [[being-dnstnhlmsly\|Dunstan]]                                                                 | `given`  | `dun` + `stan`          |
 | **Dunwell**     | [[being-oswaldunwl\|Dunwell]], [[being-wilfrednwl\|Dunwell]]                                   | `byname` | `dun` + `well`          |
@@ -212,7 +212,7 @@ A byname draws on these and on the place-name elements above.
 | **Edmund**      | [[being-edmndwlfrd\|Edmund]]                                                                   | `given`  | `ed` + `mund`           |
 | **Edric**       | [[being-edriclvrtn\|Edric]]                                                                    | `given`  | `ed` + `ric`            |
 | **Edrith**      | [[being-edrthgrylng\|Edrith]]                                                                  | `given`  | `ed` + `rith`           |
-| **Edwald**      | [[lore-roadstops\|Edwald]]                                                                     | `given`  | `ed` + `wald`           |
+| **Edwald**      | [[lore-roadstops\|Edwald]], [[being-edwalddunmor\|Edwald]]                                     | `given`  | `ed` + `wald`           |
 | **Edwin**       | [[being-edwingarmn\|Edwin]]                                                                    | `given`  | `ed` + `win`            |
 | **Elfreda**     | [[being-elfrdlwknr\|Elfreda]]                                                                  | `given`  | `elf` + `red` + `a`     |
 | **Ethelinda**   | [[being-ethlndwgmr\|Ethelinda]]                                                                | `given`  | `ethel` + `lind` + `a`  |
@@ -264,6 +264,20 @@ A byname draws on these and on the place-name elements above.
 | **Wolford**     | [[being-edithwlfrd\|Wolford]], [[being-edmndwlfrd\|Wolford]]                                   | `byname` | `wolf` + `ford`         |
 | **Wraymouth**   | [[place-wraymouth\|Wraymouth]]                                                                 | `place`  | `wray` + `mouth`        |
 | **Wyndmarch**   | [[place-wyndmarch\|Wyndmarch]]                                                                 | `place`  | `wynd` + `march`        |
+| **Wilrith**     | [[being-wilriththorn\|Wilrith]]                                                                | `given`  | `wil` + `rith`          |
+| **Thornwell**   | [[being-wilriththorn\|Thornwell]]                                                              | `byname` | `thorn` + `well`        |
+| **Dunwald**     | [[being-dunwaldraven\|Dunwald]]                                                                | `given`  | `dun` + `wald`          |
+| **Ravenwell**   | [[being-dunwaldraven\|Ravenwell]]                                                              | `byname` | `raven` + `well`        |
+| **Alfwin**      | [[being-alfwinstormw\|Alfwin]]                                                                 | `given`  | `alf` + `win`           |
+| **Stormwell**   | [[being-alfwinstormw\|Stormwell]]                                                              | `byname` | `storm` + `well`        |
+| **Leofwin**     | [[being-leofwingreyw\|Leofwin]]                                                                | `given`  | `leof` + `win`          |
+| **Greywick**    | [[being-leofwingreyw\|Greywick]]                                                               | `byname` | `grey` + `wick`         |
+| **Kenwin**      | [[being-kenwinhighmo\|Kenwin]]                                                                 | `given`  | `ken` + `win`           |
+| **Highmore**    | [[being-kenwinhighmo\|Highmore]]                                                               | `byname` | `high` + `more`         |
+| **Coldwick**    | [[being-cuthwincoldw\|Coldwick]]                                                               | `byname` | `cold` + `wick`         |
+| **Dunmore**     | [[being-edwalddunmor\|Dunmore]]                                                                | `byname` | `dun` + `more`          |
+| **Godrun**      | [[being-godrunwinley\|Godrun]]                                                                 | `given`  | `god` + `run`           |
+| **Winley**      | [[being-godrunwinley\|Winley]]                                                                 | `byname` | `win` + `ley`           |
 
 ## Names outside the pattern
 

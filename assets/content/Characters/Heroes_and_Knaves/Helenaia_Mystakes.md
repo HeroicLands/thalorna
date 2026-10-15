@@ -483,7 +483,7 @@ At a deeper level, Bazîa seeks to create beauty in a world filled with sufferin
 
 ### Patrons
 
-High Priestess Kélirâra
+High Priestess Tchîrnâlína Agoríkot
 : The spiritual leader of the temple recognizes Bazîa as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
 
 The Citizens of the Byzarian League
@@ -497,7 +497,7 @@ Master Herbalist Lyrian
 
 ### Enemies
 
-Bishop Ghoton
+Bishop Trupazios Dragídek
 : A conservative religious figure who views Bazîa's changes to ritual as heretical departures from proper practice and who works to limit her authority and influence.
 
 The Merchant Syndicate

@@ -467,13 +467,13 @@ Xerôphôn is motivated fundamentally by the belief that order is a prerequisite
 
 ### Patrons
 
-Commander Vâlaris of the City Watch
+Commander Thârôzâ of the City Watch
 : The highest official in Moktur's law enforcement structure who values Xerôphôn's judgment and regularly defers to his recommendations regarding prison management.
 
 The Imperial Council of Moktur
 : Various officials who have depended upon Xerôphôn's discretion and integrity in managing sensitive prisoners and classified matters.
 
-Magistrate Théodôr the Strict
+Magistrate Rêvôthâ Kalmêthândis the Strict
 : A justice official known for harsh sentencing who appreciates Xerôphôn's reliable implementation of punishment and consequence.
 
 ### Enemies
@@ -481,7 +481,7 @@ Magistrate Théodôr the Strict
 Ferûn the Escaped
 : A cunning prisoner who orchestrated an attempted escape eight years ago that resulted in the death of three guards. Though captured and returned, the incident damaged Xerôphôn's reputation for complete control, and Ferûn remains in the facility as a subtle ongoing insult to his authority.
 
-Warden Kasânder
+Warden Thârkhôs
 : The political administrator appointed to manage the prison bureaucratically, a man who Xerôphôn views as incompetent and corrupt. They maintain an awkward relationship of mutual necessity while harboring deep disdain for one another.
 
 The Brotherhood of the Freed

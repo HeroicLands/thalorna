@@ -459,8 +459,8 @@ Fibakôn is driven by the endless accumulation of wealth, influence, and prestig
 
 ### Patrons
 
-Lord Daemon Voss, Master of the [[affiliation-byzarianlg|Byzarian League]]'s [[place-eastrnmrch|Eastern March]]
-: A powerful noble with whom Fibakôn maintains a complex relationship of mutual benefit. Voss provides official protection and access to certain restricted items; Fibakôn sees that Voss's acquisitions remain discreet and his valuable contacts remain available exclusively.
+Lord Mazitos Rekhazûr, Master of the [[affiliation-byzarianlg|Byzarian League]]'s [[place-eastrnmrch|Eastern March]]
+: A powerful noble with whom Fibakôn maintains a complex relationship of mutual benefit. Mazitos provides official protection and access to certain restricted items; Fibakôn sees that Mazitos's acquisitions remain discreet and his valuable contacts remain available exclusively.
 
 The Collector of Reliquaries
 : A mysterious individual (possibly a private wealthy collector, possibly an institution) who commissions Fibakôn to locate and acquire specific items of historical or spiritual significance. These commissions are very lucrative and have provided much of his recent wealth accumulation.
@@ -470,8 +470,8 @@ Master Artificer Kaelvos
 
 ### Enemies
 
-Merchant-Lord Tharenis
-: A rival merchant-broker operating in the Byzarian League's central territories. Tharenis has undercut Fibakôn's pricing on several important commissions and is aggressively cultivating some of Fibakôn's established clients. There is undeclared but intense commercial warfare between them.
+Merchant-Lord Plasáhr Olkadákit
+: A rival merchant-broker operating in the Byzarian League's central territories. Plasáhr has undercut Fibakôn's pricing on several important commissions and is aggressively cultivating some of Fibakôn's established clients. There is undeclared but intense commercial warfare between them.
 
 The Puritan Orders
 : Certain monastic and priestly orders have become concerned that Fibakôn is acquiring sacred relics and religious artifacts for private collectors without proper ecclesiastical approval. They view him as a desecrator and have begun subtly working to undermine his reputation with both ecclesiastical and secular authorities.
@@ -496,7 +496,7 @@ The Collector's Circle
 
 2. **The Stolen Masterpiece**: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Fibakôn personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Fibakôn faces serious legal consequences as well as financial loss. The thief proves to be operatives from the [[affiliation-adanasreni|Ādānashrenī]] (possibly including [[being-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]), who were hired to steal the piece by a rival merchant attempting to damage Fibakôn's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
 
-3. **The Competitor's Downfall**: A rival merchant-broker, **Merchant-Lord Tharenis**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Fibakôn discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Tharenis to drive his business into Fibakôn's ready hands. The question becomes: who orchestrated Tharenis's ruin, why did they choose to benefit Fibakôn, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Fibakôn to become their broker and facilitate specific acquisitions for unknown purposes.
+3. **The Competitor's Downfall**: A rival merchant-broker, **Merchant-Lord Plasáhr**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Fibakôn discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Plasáhr to drive his business into Fibakôn's ready hands. The question becomes: who orchestrated Plasáhr's ruin, why did they choose to benefit Fibakôn, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Fibakôn to become their broker and facilitate specific acquisitions for unknown purposes.
 
 4. **The Repatriation War**: The descendants of an ancient culture from which Fibakôn acquired several significant cultural and religious artifacts demand their return. They possess documentation proving the items were taken during colonization or conquest, and they appeal to the **Byzarian League's** cultural authority bodies for enforcement of repatriation. Simultaneously, the wealthy collectors who purchased these items from Fibakôn refuse to surrender them, threatening litigation against Fibakôn if the sale becomes legally invalid. Fibakôn is caught between legal/moral obligation to facilitate repatriation and contractual obligation to his clients. To complicate matters, one of the items may actually be falsely attributed, and returning it would be to commit cultural fraud against the very people demanding its return.
 

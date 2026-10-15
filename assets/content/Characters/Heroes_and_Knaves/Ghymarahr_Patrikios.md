@@ -485,14 +485,14 @@ The Village Blacksmith
 
 ### Enemies
 
-Karûsh
-: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Ghymâráhr. Karûsh has never forgiven Ghymâráhr for abandoning the company and suspects he's living in the very village they were hired to destroy. If Karûsh discovered Ghymâráhr's location, he would likely attempt to capture or kill him for his perceived betrayal.
+Pârzhelion Trivídek
+: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Ghymâráhr. Pârzhelion has never forgiven Ghymâráhr for abandoning the company and suspects he's living in the very village they were hired to destroy. If Pârzhelion discovered Ghymâráhr's location, he would likely attempt to capture or kill him for his perceived betrayal.
 
 [[affiliation-irnwlvscmpny|The Iron Wolves Company]]
 : The mercenary company views Ghymâráhr as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
 
-Lord Varkûn
-: The regional noble who hired the Iron Wolves to massacre the village still rules the region. Ghymâráhr fears that if his identity were known, Varkûn might move against him or the village he's come to protect.
+Lord Desuvîn Gharazûr
+: The regional noble who hired the Iron Wolves to massacre the village still rules the region. Ghymâráhr fears that if his identity were known, Desuvîn might move against him or the village he's come to protect.
 
 His own conscience, an inner enemy
 : More than any external enemy, Ghymâráhr battles himself—his guilt, his memories, his conviction that he deserves punishment for what he has done.

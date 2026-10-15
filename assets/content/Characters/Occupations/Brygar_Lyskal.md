@@ -402,7 +402,7 @@ Brýgar is fully integrated into his community in ways that other guards are not
 
 ### Patrons
 
-**Merchant Councilor Davine Artois**—The senior merchant representative on the city council. Davine's business is in the merchant quarter and he knows Brýgar well. He has become a patron, using his political influence to ensure Brýgar's assignment remains stable and that the merchant quarter receives adequate resources.
+**Merchant Councilor Tulème Serdalandìs**—The senior merchant representative on the city council. Tulème's business is in the merchant quarter and he knows Brýgar well. He has become a patron, using his political influence to ensure Brýgar's assignment remains stable and that the merchant quarter receives adequate resources.
 
 ### Enemies
 
@@ -416,6 +416,6 @@ Brýgar is fully integrated into his community in ways that other guards are not
 
 3. **The Blackmail**—Kessian approaches Brýgar with an offer: he will stop his predatory operations in the merchant quarter if Brýgar will use his position to harass a specific rival merchant out of the district—someone Kessian wants access to the business of. The offer is explicit corruption. But Brýgar recognizes that accepting would stop Kessian's predation against people he cares about. The rival merchant that Kessian wants removed is actually engaged in minor tax evasion that Brýgar has overlooked. Removing him would not destroy lives the way Kessian's lending has.
 
-4. **The Community Betrayal**—Brýgar discovers that Merchant Councilor Davine, his patron, has been secretly working with Kessian. Davine's business was struggling, and Kessian provided financial support in exchange for Davine's use of political influence to keep regulations loose. Davine has literally been enabling the predator. Brýgar is devastated and feels betrayed. But publicly exposing Davine will destroy him professionally and politically, which would weaken Brýgar's ability to actually help the merchant quarter.
+4. **The Community Betrayal**—Brýgar discovers that Merchant Councilor Tulème, his patron, has been secretly working with Kessian. Tulème's business was struggling, and Kessian provided financial support in exchange for Tulème's use of political influence to keep regulations loose. Tulème has literally been enabling the predator. Brýgar is devastated and feels betrayed. But publicly exposing Tulème will destroy him professionally and politically, which would weaken Brýgar's ability to actually help the merchant quarter.
 
 5. **The Accidental Leverage**—Brýgar discovers something about Kessian's personal life—a secret relationship, hidden illegitimate children, something that would cause him personal damage if exposed. Brýgar is suddenly in possession of leverage that could force Kessian out of the merchant quarter. But using it would make Brýgar into the kind of officer he has always opposed—someone willing to manipulate personal secrets for political advantage.

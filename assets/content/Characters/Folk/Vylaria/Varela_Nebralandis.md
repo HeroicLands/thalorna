@@ -1,0 +1,39 @@
+---
+shortcode: varelanebral
+name: {full: Vârêlâ Nêbrâlândis, aliases: [Bishop Vârêlâ]}
+type: being
+subType: npc
+description: An ambitious bishop in the capital who has marked Rêvôthar Bàremzâtôr as a heretic in waiting.
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [cleric]
+  occupation: Bishop
+  lore: []
+  culture: vylarianclt
+  homes: []
+  affiliations: {}
+  gender: female
+  species: humanflk
+  born: "671.106"
+  died: null
+  height: 5' 9"
+  weight: 150 lbs
+  frame: medium
+  appearance:
+    eye_color: amber
+    hair_color: dark_brown
+    skin_color: tanned
+    complexion: [weathered]
+    extra_features: []
+  packFolder: midhalionvylaria
+---
+
+# Appearance {#appearance}
+
+Vârêlâ Nêbrâlândis is a 48-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, weathered complexion, dark brown hair, and amber eyes.
+
+# Dossier {#dossier}
+
+Vârêlâ Nêbrâlândis is an ambitious bishop in the capital. Vârêlâ has marked [[being-rvthrbrmztr|Rêvôthar Bàremzâtôr]] as a heretic in waiting and gathers evidence against him.

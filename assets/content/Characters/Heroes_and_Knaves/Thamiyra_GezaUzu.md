@@ -476,7 +476,7 @@ Lord [[being-uqetirakugz2|Uqetiraku Gazemu]]
 Lady [[being-themeritshl2|Themerît Shalûqu]]
 : An aging widow and powerful political matriarch who has taken Thamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shalûqu sees in Thamiyra the ambitious mind she once possessed.
 
-Merchant Prince Vasken Tharcot
+Merchant Prince Veithari Kuethori
 : A wealthy foreign trader who visits Aû'Khelâthu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
 High Scribe [[being-zentikhlmgth|Zenti Khelemu'Gathau]]
@@ -484,7 +484,7 @@ High Scribe [[being-zentikhlmgth|Zenti Khelemu'Gathau]]
 
 ### Enemies
 
-Lord Commander Azaes Korvac
+Lord Commander Zahura Anlaghet'Zaru
 : The military officer involved in her scandal, now openly resentful of her continued elevation while his own advancement stalled following the incident. He harbors fantasies of somehow destroying her reputation thoroughly enough that she cannot recover. He spreads rumors about her whenever possible and has hired informants to discover new scandals he might use against her.
 
 Merchant Rival Selena Moros

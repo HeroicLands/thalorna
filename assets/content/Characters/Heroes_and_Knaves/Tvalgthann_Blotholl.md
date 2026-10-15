@@ -466,7 +466,7 @@ Tvalgthann seeks to discover whether his talents for performance and persuasion 
 
 ### Patrons
 
-Duke Vraldthann of Vithgard
+Duke Thruldmýl of Vithgard
 : The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
 
 Sigrid Blóthöll
@@ -483,7 +483,7 @@ Jorvald the Red
 The Whispered Syndicate
 : A network of information brokers who view Tvalgthann's access to noble secrets as either an asset to control or a threat to eliminate
 
-Alderman Grevik of the Guildhall
+Alderman Hvirnorv of the Guildhall
 : A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Tvalgthann
 
 ### Affiliations
