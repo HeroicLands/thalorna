@@ -951,23 +951,32 @@ TBD.
 
 ## Mark every name
 
-**At a name's first use in a note, link it if a note exists for it, and bold it
-if none does. Only the first use is marked, not the uses after.**
-
 Bold is the mark of a name that would be a link if its note existed. That makes
 the two marks one system: a reader sees at once which names lead somewhere and
 which are still waiting for a note, and the inventories that find missing notes
-read the bold spans. So a name that has a note is wikilinked, never bolded, and
-every new proper name an author coins is bolded until it gets a note of its own.
+read the bold spans. A name has a note when it is the `name.full` or one of the
+`aliases` of a note in the content index.
 
-**A person is named in full at the first occurrence in a note.** The full name
-takes the mark the rule above gives it—linked if the person has a note, bolded
-if not. After that first occurrence, a short name may stand in for it: the
-calling name, nickname or other short form the person's culture uses, wherever
-it reads naturally. The full name returns where formality fits—a record, a
-court, a title—and the short name never appears before the full one in a note.
-Each culture forms its short names its own way; the rules for a culture are
-with its other naming rules, in its lexicon or language note.
+1. **A name's first use in a note's prose is its full name.** That keeps every
+   later short form unambiguous. A possessive or other inflected form counts as
+   a use: "Hvilgthann's holdings" is a use of Hvilgthann. Headings, frontmatter,
+   tables and infoboxes are not prose, so a name there is not its first use.
+2. **If the name has a note, its first use is a link to that note, labelled with
+   the full name.**
+3. **If the name has no note, its first use is a bold span whose whole text is
+   the name.** It may sit inside italics, never inside a longer bold span.
+4. **After the first use, no bold span is exactly the name.** A bold span with
+   other words in it is emphasis, not a name mark, and stays as written.
+5. **A note links to another note, or to one heading of it, at most once.** Every
+   later use is plain text. Links to two different headings of one note are two
+   destinations.
+
+After the first use, a short name may stand in for the full one: the calling
+name, nickname or other short form the person's culture uses, wherever it reads
+naturally. The full name returns where formality fits (a record, a court, a
+title), and the short name never appears before the full one. Each culture forms
+its short names its own way; the rules for a culture are with its other naming
+rules, in its lexicon or language note.
 
 A naming phrase counts, not only a bare name. A named rite, ordeal, festival,
 relic, hall, ship, road, feud, vow or principle is a name—`Eye of the Void`,
@@ -983,9 +992,9 @@ Three things are not names, and none of them takes bold:
   keeps a hall, the hersvald who comes up from the valley. Such a word is a
   name only where the phrase names one specific post, the way
   `the Hersvald of the coastal district` names a seat.
-- **Emphasis on a word, a sentence or a clause.** Emphasis is set in italics,
-  never bold: bold on a statement reads as a name, and a reader cannot tell the
-  two apart. Italics are the right mark wherever a word or phrase needs stress.
+- **Emphasis on a word, a sentence or a clause.** Emphasis is set in italics:
+  bold on a statement reads as a name. Where bold emphasis does occur, rule 4
+  reads any bold span longer than a name as emphasis, never as a name mark.
 
 Taking the bold off a common noun or a rank leaves it **plain**, not italic.
 Italics have two uses and no others: an in-world word that is not a name, and
