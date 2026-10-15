@@ -1,0 +1,41 @@
+name: Publish pictures to the CDN
+
+# Uploads every Thalorna picture to the CDN and writes the named asset set of
+# the art the module leaves out. Started by hand only; no build or release runs
+# it. A dry run, the default, lists what would upload and writes nothing.
+
+on:
+    workflow_dispatch:
+        inputs:
+            set:
+                description: The set file's name under the package's CDN root.
+                required: true
+                default: alt-art.json
+                type: string
+            name:
+                description: The set's display name.
+                required: true
+                default: Thalorna — illustrated
+                type: string
+            dry-run:
+                description: List what would upload and what is skipped; write nothing.
+                required: false
+                default: true
+                type: boolean
+
+permissions:
+    contents: read
+
+jobs:
+    publish:
+        uses: HeroicLands/.github/.gitea/workflows/publish-package-cdn.yml@21aa8f0918bc3aa659801bdcafe9f085e297e485 # main
+        with:
+            set: ${{ inputs.set }}
+            name: ${{ inputs.name }}
+            dry-run: ${{ inputs.dry-run }}
+        # Named, never `secrets: inherit`.
+        secrets:
+            CDN_ENDPOINT: ${{ secrets.CDN_ENDPOINT }}
+            CDN_BUCKET: ${{ secrets.CDN_BUCKET }}
+            CDN_ACCESS_KEY_ID: ${{ secrets.CDN_ACCESS_KEY_ID }}
+            CDN_SECRET_ACCESS_KEY: ${{ secrets.CDN_SECRET_ACCESS_KEY }}
