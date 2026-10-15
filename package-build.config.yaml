@@ -626,8 +626,6 @@ packageBuild:
         - { from: README.md, to: README.md }
         - { from: LICENSE.md, to: LICENSE.md }
         - { from: src/LICENSE, to: src/LICENSE }
-        - { from: assets/icons, to: assets/icons }
-        - { from: assets/images, to: assets/images }
         - { from: assets/LICENSE, to: assets/LICENSE }
         # Emitted by `build:calendars` from the `subType: calendar` notes, so
         # the definitions a world loads and the notes a reader reads cannot

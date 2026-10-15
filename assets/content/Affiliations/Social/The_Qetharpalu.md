@@ -16,6 +16,10 @@ data:
     summary: >-
       A faction seated on councils across the empire who hold that the old arrangements need no revision, and who have the numbers to make any revision slow.
     ranks:
+      - level: 0
+        title: Unseated
+        description: >-
+          A councilor dropped from the faction, whose vote it no longer counts to slow a revision.
       - level: 1
         title: Seated Traditionalist
         description: >-

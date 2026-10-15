@@ -22,7 +22,7 @@ test("generic membership exceptions match only their exact authored affiliation 
         for (const file of entry.paths) {
             const raw = fs.readFileSync(file, "utf8");
             const front = YAML.parse(raw.split("---")[1]);
-            const rank = front.data.governance.ranks[0];
+            const rank = front.data.governance.ranks.find((r) => r.level === entry.membershipLevel);
             assert(keepsMembershipTitle(entry, file, front, rank));
             assert.equal(membershipTitleSpans(entry, file, raw).length, 1);
             assert(!keepsMembershipTitle(entry, "other.md", front, rank));

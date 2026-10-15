@@ -16,6 +16,10 @@ data:
     summary: >-
       A small company gathered around the astrologer who founded it, held together by the prophecy she read in the stars rather than by its trade, and guarding her reputation closely.
     ranks:
+      - level: 0
+        title: Turned Away
+        description: >-
+          A former companion shut out of the company, with no counsel from its founder and no place within its walls.
       - level: 1
         title: Companion
         description: >-

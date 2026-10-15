@@ -13,6 +13,10 @@ data:
     summary: >-
       A kin-band of bandits raiding the southern trade routes. Nothing they take is written and nothing they owe each other is entered, and a leader among them carries the band's grudges.
     ranks:
+      - level: 0
+        title: Cast from the Band
+        description: >-
+          A brother driven out of the kin-band, owed no share and no shelter and left to its vengeance.
       - level: 1
         title: Kin of the Wagalu
         description: >-

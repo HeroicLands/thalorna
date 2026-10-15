@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose association of the stewards who run the great houses of the capital, meeting away from their employers to compare suppliers, wages and the handling of masters.
     ranks:
+      - level: 0
+        title: Barred from the Meetings
+        description: >-
+          A steward shut out of the gatherings where suppliers, wages and masters are compared, and left to learn it alone.
       - level: 1
         title: Steward
         description: >-

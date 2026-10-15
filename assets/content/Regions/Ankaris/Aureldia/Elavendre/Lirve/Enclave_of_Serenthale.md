@@ -15,6 +15,10 @@ data:
     summary: >-
       A withdrawn Sinalë enclave of Lírvë's western forest, governed by its own lord and in contact with others only at its own initiative.
     ranks:
+      - level: 0
+        title: Vierka
+        description: >-
+          A Vierka, the Sinalë word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-

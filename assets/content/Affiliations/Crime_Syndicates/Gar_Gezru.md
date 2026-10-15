@@ -13,6 +13,10 @@ data:
     summary: >-
       Corrupt officials and Shreshthins who are kept strangers to one another by design and introduced through paid go-betweens. What each is owed is written in a book and enforced.
     ranks:
+      - level: 0
+        title: Struck from the Book
+        description: >-
+          A former member whose account in the network's book is closed, owed nothing by it and answered for by no one.
       - level: 1
         title: Named in the Book
         description: >-

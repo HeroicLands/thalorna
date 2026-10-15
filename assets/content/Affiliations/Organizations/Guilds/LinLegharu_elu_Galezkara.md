@@ -16,6 +16,10 @@ data:
     summary: >-
       An informal society of those in the capital who study the properties of plants, meeting regularly to compare findings and defending the study as a discipline rather than a trade.
     ranks:
+      - level: 0
+        title: Put Out of the Society
+        description: >-
+          A student of plants turned away from the meetings, with no place to compare findings.
       - level: 1
         title: Scholar of Plants
         description: >-

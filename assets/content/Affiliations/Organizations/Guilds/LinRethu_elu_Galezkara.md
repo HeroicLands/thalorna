@@ -16,6 +16,10 @@ data:
     summary: >-
       A circle of the capital's learned—scholars, liberal merchants and teachers—who meet regularly, commission lectures and seminars, and fund the study the temple schools pass over.
     ranks:
+      - level: 0
+        title: Dropped from the Circle
+        description: >-
+          A scholar, merchant or teacher no longer asked to meet or to judge where the circle's funding goes.
       - level: 1
         title: Of the Circle
         description: >-

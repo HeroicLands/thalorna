@@ -16,6 +16,10 @@ data:
     summary: >-
       A wealthy merchant house with trading interests across the empire, patron to timber-merchants and craftspeople. Its master decides which ventures carry the house's name.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          A member the merchant house no longer names, who loses its patronage and the right to trade under its interests.
       - level: 1
         title: Of the House
         description: >-

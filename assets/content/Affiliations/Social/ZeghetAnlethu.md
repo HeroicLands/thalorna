@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose fellowship of scholars and dealers who go after what the old tombs hold, imposing no rule on whether a find is published or sold.
     ranks:
+      - level: 0
+        title: Struck from the Fellowship
+        description: >-
+          A relic hunter put out of the fellowship, no longer introduced to its scholars and dealers.
       - level: 1
         title: Relic Hunter
         description: >-

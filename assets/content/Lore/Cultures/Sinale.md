@@ -136,10 +136,11 @@ For a player, the one thing to understand first is that a character does not dea
 
 Every Sinalë word and term of art this note uses. The folk note's glossary lists the rest.
 
-| Term     | Meaning                       |
-| -------- | ----------------------------- |
-| Sinalë   | The Firstborn; the people     |
-| Sinalo   | One of the Sinalë             |
-| Sinalëan | Of or belonging to the Sinalë |
+| Term     | Meaning                                                                                                    |
+| -------- | ---------------------------------------------------------------------------------------------------------- |
+| Sinalë   | The Firstborn; the people                                                                                  |
+| Sinalo   | One of the Sinalë                                                                                          |
+| Sinalëan | Of or belonging to the Sinalë                                                                              |
+| vierka   | An outlaw, one driven out and given no standing or shelter; a root word of the tongue, built from no parts |
 
 Tradition Keeper is a term from [[lore-elavendriclt#glossary|Élavendre]].

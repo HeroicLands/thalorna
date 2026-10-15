@@ -16,6 +16,10 @@ data:
     summary: >-
       The masters of the capital's crafts gathered into one body with authority over all of them. It alone decides what may be called master-work, and its elders sit as the council that arbitrates disputes and keeps the standards of the trade.
     ranks:
+      - level: 0
+        title: Struck from the Consortium
+        description: >-
+          A master denied the consortium's authority, whose work may no longer be called master-work.
       - level: 1
         title: Craftsmaster
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       A dynasty of the throne, standing barely a century, whose last Gar-Aû was thrown down and whose name and house were struck from every wall.
     ranks:
+      - level: 0
+        title: Name Struck
+        description: >-
+          A member of the fallen dynasty whose name is struck from every wall, and who is owed nothing by the realm.
       - level: 1
         title: Of the Dynasty
         description: >-

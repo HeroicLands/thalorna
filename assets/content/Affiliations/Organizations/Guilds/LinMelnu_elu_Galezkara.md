@@ -16,6 +16,10 @@ data:
     summary: >-
       The blacksmiths of the capital, distinct from the imperial guild and answering to their own masters and to the city's magistrates.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A smith removed from the guild's masters, refused its custom and its standing before the city's magistrates.
       - level: 1
         title: Smith
         description: >-

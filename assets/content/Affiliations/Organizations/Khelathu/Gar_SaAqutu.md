@@ -16,6 +16,10 @@ data:
     summary: >-
       A military house whose master answers for everyone attached to it. Its men rise through the officer ranks and its women are placed at court, each generation's placements chosen to support the other.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          A kinsman the military house no longer names, who loses their post in its ranks and its protection at court.
       - level: 1
         title: Of the House
         description: >-

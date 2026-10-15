@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the empire's hunters, licensing the taking of game and the handling of dangerous beasts, and setting the terms under which a hunter works a territory.
     ranks:
+      - level: 0
+        title: License Revoked
+        description: >-
+          A hunter whose license is withdrawn, forbidden the guild's territories and the handling of dangerous beasts.
       - level: 1
         title: Licensed Hunter
         description: >-

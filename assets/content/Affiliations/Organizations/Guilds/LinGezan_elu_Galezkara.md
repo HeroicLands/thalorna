@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered debt collectors of the capital, holding the exclusive right to enforce what a creditor's ledger says is owed once the courts have confirmed it.
     ranks:
+      - level: 0
+        title: Revoked
+        description: >-
+          A collector whose exclusive right to enforce confirmed debts is withdrawn, leaving the creditor's ledger with nobody to collect it.
       - level: 1
         title: Collector
         description: >-

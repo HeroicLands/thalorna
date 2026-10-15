@@ -15,6 +15,10 @@ data:
     summary: >-
       Forest estates endowed to the temples of the lower Bhārava, each held by an ordained keeper answerable to the temple that holds his endowment. No assembly stands above them and the mother-temples coordinate by consultation or not at all.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          A Vihru—an outcaste, one outside the order—is cast out of the temple-estates, denied the endowment's protection, its work and its keeper's justice.
       - level: 1
         title: Bonded Servant
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       Cinder Hands under Senior Cinders, every one of them selected and assigned by the First Cinder, whom the surviving Senior Cinders choose.
     ranks:
+      - level: 0
+        title: Quenched
+        description: >-
+          A Cinder Hand put out by the First Cinder, disowned by the cells and given no shelter by the Ashen Vow.
       - level: 1
         title: Cinder Hand
         description: >-

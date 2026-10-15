@@ -17,6 +17,10 @@ data:
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
+      - level: 0
+        title: Struck from the Rolls
+        description: >-
+          Someone the priests have turned away from the censers and seals, who loses the demon lord's favor and the protection of those who share it.
       - level: 1
         title: Lay
         description: >-

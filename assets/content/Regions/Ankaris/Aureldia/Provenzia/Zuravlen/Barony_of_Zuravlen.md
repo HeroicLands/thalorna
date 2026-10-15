@@ -14,6 +14,10 @@ data:
     summary: >-
       Held of the Crown of Provènzia by the Baron of Zûravlen, who sits at Elthrembìs and governs the valley through its manor courts.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One cast out by the Baron's courts and set beyond the protection of the barony, whom any may harm without penalty.
       - level: 1
         title: Subject
         description: >-

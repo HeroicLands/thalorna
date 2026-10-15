@@ -15,6 +15,10 @@ data:
     summary: >-
       The governing council of Nebrális.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One put out of Nebrális by its council, without protection of its law and unwelcome inside its walls.
       - level: 1
         title: Resident
         description: >-

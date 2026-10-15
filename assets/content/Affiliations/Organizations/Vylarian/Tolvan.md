@@ -16,6 +16,10 @@ data:
     summary: >-
       An imperial tax administration in four working bodies—a Council of sixteen seats under the Talkor of the Tolvan, provincial Karvani, and a discipline arm of Censors—setting the rates and awarding the contracts the Tolari collect under. Council seats turn over at the Ôrzâs's pleasure within procedural limits, and the Talkor of the Tolvan is dismissed at imperial discretion; a seat lost this way is not given back.
     ranks:
+      - level: 0
+        title: Dismissed
+        description: >-
+          An officer dismissed from the discipline arm, stripped of the power to audit collections or investigate abuses.
       - level: 1
         title: Censor
         description: >-

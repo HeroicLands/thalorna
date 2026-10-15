@@ -16,6 +16,10 @@ data:
     summary: >-
       The titled families of the empire, holding most of its land, office and access to the court between them through marriage alliance and inherited appointment, and closing ranks against outsiders.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A person of the titled families who is cut from the roll, losing their land, office and access to the court.
       - level: 1
         title: Of a Titled House
         description: >-

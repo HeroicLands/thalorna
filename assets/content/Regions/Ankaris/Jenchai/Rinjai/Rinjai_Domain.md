@@ -16,6 +16,10 @@ data:
     summary: >-
       Held of the Emperor by patent by the Daozhuo Rīnjai Hoja, who sits at Rīnwū, is sworn to Shuiwōjai Henzo, and governs the lesser island through his retainers and the headmen of its villages.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One stripped of the Daozhuo's protection and put outside the island's law, with no appeal.
       - level: 1
         title: Subject
         description: >-

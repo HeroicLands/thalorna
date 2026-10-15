@@ -16,6 +16,10 @@ data:
     summary: >-
       An informal circle of the capital's wealthy who pool their money for the arts and crafts, and expect to be consulted on what it produces.
     ranks:
+      - level: 0
+        title: Dropped from the Circle
+        description: >-
+          A patron no longer asked to pool wealth with the circle or to be consulted on its commissions.
       - level: 1
         title: Patron
         description: >-

@@ -15,6 +15,10 @@ data:
     summary: >-
       The governing council of the fishing village of Hitûsel.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A resident put out of Hitûsel by its council, without protection of its law.
       - level: 1
         title: Resident
         description: >-

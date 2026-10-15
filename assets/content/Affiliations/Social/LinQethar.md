@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose alliance of older masters and guild conservatives who hold that a craft's sanctity lies in its established methods, and organize within their guilds against change.
     ranks:
+      - level: 0
+        title: Expelled
+        description: >-
+          A traditionalist cast out of the alliance, no longer organized with the masters against changes to the craft.
       - level: 1
         title: Traditionalist
         description: >-

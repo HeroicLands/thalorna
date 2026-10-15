@@ -14,6 +14,10 @@ data:
     summary: >-
       A magistrate keeps minimal customs authority, and a handful of bonded merchants set the tariffs.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          A trader struck from the register by the magistrate, no longer protected in the port or admitted to the bonded merchants' trade.
       - level: 1
         title: Resident
         description: >-

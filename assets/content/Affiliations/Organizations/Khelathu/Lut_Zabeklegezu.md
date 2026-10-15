@@ -16,6 +16,10 @@ data:
     summary: >-
       A noble household of long standing whose master has kept the same servants for decades, so that its business runs on trust rather than written procedure, and the master's seal is a matter of real consequence.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          A servant or kinsman the master has put out after decades of trust, with no place left in the household.
       - level: 1
         title: Of the Household
         description: >-

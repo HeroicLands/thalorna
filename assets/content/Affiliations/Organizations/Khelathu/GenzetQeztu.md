@@ -16,6 +16,10 @@ data:
     summary: >-
       The empire's senior commanders in session, retired officers among them. Standing in the council runs on reputation as much as current rank.
     ranks:
+      - level: 0
+        title: Unseated
+        description: >-
+          A commander dropped from the council, whose counsel the officers no longer seek.
       - level: 1
         title: Seated Commander
         description: >-

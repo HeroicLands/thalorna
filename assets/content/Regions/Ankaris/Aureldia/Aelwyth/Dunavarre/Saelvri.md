@@ -15,6 +15,10 @@ data:
     summary: >-
       A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One disowned by the Saelvri, left without their kin's protection in a land that hunts the people.
       - level: 1
         title: Saelvri
         description: >-

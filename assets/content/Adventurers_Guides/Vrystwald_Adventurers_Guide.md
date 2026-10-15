@@ -132,18 +132,18 @@ Campaigns start well from a claim on a village. A captive taken in a failed raid
 
 ## Glossary
 
-| Word        | Meaning                                                                                                      |
-| ----------- | ------------------------------------------------------------------------------------------------------------ |
-| Druthmund   | A full member of a kindred by a true name earned at eth-kethrun, entitled to its protection, feud and share. |
-| Edrmund     | A free person sheltered by a household not of their blood, with no independent voice at the moot.            |
-| eth-kethrun | The taking of a true name by a deed, and the rite that marks adulthood.                                      |
-| Fródrád     | One of the three elders who govern a village together: the Shaman, the War Chief or the Other Chief.         |
-| Hródthúl    | One who bears a charge on renown already won, assisting the three elders.                                    |
-| Other Chief | The Theódár: the elder who hears trade, custom, debts, inheritance and blood-payment.                        |
-| Óthmund     | One taken in war or bought, answering to the mistress of the house; the standing is not hereditary.          |
-| Skathár     | The keeper of the reckoning of blood owed and paid between kindreds.                                         |
-| Vrystrith   | One cast out by their own kin and claimed by none, owed neither hospitality nor vengeance.                   |
-| wesk        | The one totem a village keeps, and the bond with its spirit.                                                 |
-| Weskár      | The Shaman, who keeps the village's totem and every rite of its people.                                      |
+| Word        | Meaning                                                                                                                                                                                                                                  |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Druthmund   | A full member of a kindred by a true name earned at eth-kethrun, entitled to its protection, feud and share.                                                                                                                             |
+| Edrmund     | A free person sheltered by a household not of their blood, with no independent voice at the moot.                                                                                                                                        |
+| eth-kethrun | The taking of a true name by a deed, and the rite that marks adulthood.                                                                                                                                                                  |
+| Fródrád     | One of the three elders who govern a village together: the Shaman, the War Chief or the Other Chief.                                                                                                                                     |
+| Hródthúl    | One who bears a charge on renown already won, assisting the three elders.                                                                                                                                                                |
+| Other Chief | The Theódár: the elder who hears trade, custom, debts, inheritance and blood-payment.                                                                                                                                                    |
+| Óthmund     | One taken in war or bought, answering to the mistress of the house; the standing is not hereditary.                                                                                                                                      |
+| Skathár     | The keeper of the reckoning of blood owed and paid between kindreds.                                                                                                                                                                     |
+| Vrystrith   | One cast out by their own kin and claimed by none, owed neither hospitality nor vengeance; built from vryst- (held by nobody) and -rith (the one who rides a ground), a euphemism for the kinless: the one who rides ground nobody holds |
+| wesk        | The one totem a village keeps, and the bond with its spirit.                                                                                                                                                                             |
+| Weskár      | The Shaman, who keeps the village's totem and every rite of its people.                                                                                                                                                                  |
 
 The [[lore-varokhiclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

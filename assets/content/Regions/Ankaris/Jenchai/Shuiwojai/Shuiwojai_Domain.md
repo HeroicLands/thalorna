@@ -16,6 +16,10 @@ data:
     summary: >-
       Held of the Emperor by patent by the Daozhuo Shuiwōjai Henzo, who sits at Hawū and governs the mountain through his retainers, the headmen of its villages and the Beshejū who keep its salt records.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One stripped of the Daozhuo's protection and put outside the mountain's law, with no appeal.
       - level: 1
         title: Subject
         description: >-

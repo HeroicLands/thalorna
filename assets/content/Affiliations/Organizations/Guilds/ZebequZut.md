@@ -17,6 +17,10 @@ data:
     summary: >-
       An informal, chartered-nowhere alliance of the empire's major trading houses, bound by mutual protection pacts and shared intelligence rather than by any court or roll.
     ranks:
+      - level: 0
+        title: Struck from the Alliance
+        description: >-
+          A trading house dropped from the alliance, without its mutual protection or shared intelligence.
       - level: 1
         title: "Member"
         description: >-

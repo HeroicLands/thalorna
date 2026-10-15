@@ -285,6 +285,7 @@ Every Vedyari word and term of art these pages use, with its meaning. The common
 | ushtaka         | a priest of the Varnaka who keeps a pass-shrine or sits in a priestly court            |
 | _vāda_          | a doctrine                                                                             |
 | _vanapāla_      | a forester                                                                             |
+| _vihru_         | an outcaste, one outside the order; a root word of the tongue, built from no parts     |
 | _vrata_         | a vow                                                                                  |
 | _vratin_        | one under a vow                                                                        |
 | _Yuvarāja_      | the heir to a crown                                                                    |

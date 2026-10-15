@@ -16,6 +16,10 @@ data:
     summary: >-
       A consortium of the capital's scribes working outside the temple schools, taking private commissions and guarding the trade in confidential copying.
     ranks:
+      - level: 0
+        title: Struck from the Consortium
+        description: >-
+          A scribe put out of the consortium, no longer trusted with its private commissions or its confidential copying.
       - level: 1
         title: Zethu
         description: >-

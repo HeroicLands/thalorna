@@ -16,6 +16,10 @@ data:
     summary: >-
       A militant order of the Faith of Árdavon, god of order and justice.
     ranks:
+      - level: 0
+        title: Cast Out
+        description: >-
+          A knight put out of the order of the Faith of Árdavon, stripped of its sanction and its principles.
       - level: 1
         title: Order Member
         description: >-

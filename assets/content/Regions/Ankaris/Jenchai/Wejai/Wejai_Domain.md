@@ -16,6 +16,10 @@ data:
     summary: >-
       Held of the Emperor by patent by the Daozhuo Wējai Rōwo, who sits at Zūwū and governs the coast through his retainers and the headmen of its fishing villages.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One stripped of the Daozhuo's protection and put outside the coast's law, with no appeal.
       - level: 1
         title: Subject
         description: >-

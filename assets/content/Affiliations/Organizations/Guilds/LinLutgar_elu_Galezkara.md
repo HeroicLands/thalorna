@@ -16,6 +16,10 @@ data:
     summary: >-
       The innkeepers of the capital, sharing what they learn of travelers and standing together against the merchant houses that would buy the inns outright.
     ranks:
+      - level: 0
+        title: Sold to the Houses
+        description: >-
+          An innkeeper who has sold the house to a merchant house, no longer told what the others learn of travelers.
       - level: 1
         title: Innkeeper
         description: >-

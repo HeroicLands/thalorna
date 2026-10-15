@@ -16,6 +16,10 @@ data:
     summary: >-
       A seagoing company of Norgaad, hired by contract.
     ranks:
+      - level: 0
+        title: Put Ashore
+        description: >-
+          A sailor discharged from the company's ships, owed nothing beyond the contract and shut out of its hire.
       - level: 1
         title: Crew
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       A district council of titled families, convened wherever enough noble households sit close enough to meet. Traditionalist and military thinking generally carries the room.
     ranks:
+      - level: 0
+        title: Unseated
+        description: >-
+          A titled family removed from the district's council, whose voice no longer carries in the room.
       - level: 1
         title: Seated House
         description: >-

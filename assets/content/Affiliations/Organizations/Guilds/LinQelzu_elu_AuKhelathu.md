@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the empire's locksmiths, which sets the standard a lock must meet before it is sold as guild-work.
     ranks:
+      - level: 0
+        title: Revoked Seal
+        description: >-
+          A maker whose locks the guild will no longer certify, so they cannot be sold as guild-work.
       - level: 1
         title: Locksmith
         description: >-

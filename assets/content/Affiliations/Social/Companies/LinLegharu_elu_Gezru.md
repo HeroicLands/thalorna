@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose association of merchants who take rare plants out of the red land around Gezru for quick profit, and treat conservation as a threat to the trade.
     ranks:
+      - level: 0
+        title: Struck from the Consortium
+        description: >-
+          A partner dropped from the consortium, shut out of its trade in rare plants and its quick profit.
       - level: 1
         title: Partner
         description: >-

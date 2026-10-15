@@ -16,6 +16,10 @@ data:
     summary: >-
       A state-backed monopoly on arcane practice, governed by the Verdan Maldor of Praelati under an Archmagister and enforced by the Sekran.
     ranks:
+      - level: 0
+        title: Expelled
+        description: >-
+          A mage put out of the Ordo, stripped of instruction and rights and refused the arcane practice it holds in monopoly.
       - level: 1
         title: Initiati
         description: >-

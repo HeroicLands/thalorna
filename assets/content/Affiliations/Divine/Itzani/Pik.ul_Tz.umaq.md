@@ -18,6 +18,10 @@ data:
     summary: >-
       No council, no election and no succession: a single fallen celestial confers standing directly, and withdraws it the same way.
     ranks:
+      - level: 0
+        title: Forsaken
+        description: >-
+          One whose standing the fallen celestial has withdrawn, so that no dead kinsman is asked for on their behalf again.
       - level: 1
         title: Petitioner
         description: >-

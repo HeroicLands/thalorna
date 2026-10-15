@@ -16,6 +16,10 @@ data:
     summary: >-
       A scholarly federation of philosophical colleges whose arcane college is now the dominant Ordo Arcanis, teaching every non-arcane discipline through its chapterhouses.
     ranks:
+      - level: 0
+        title: Expelled
+        description: >-
+          A student put out of the colleges, closed out of the disciplines taught in the chapterhouses.
       - level: 1
         title: Student
         description: >-

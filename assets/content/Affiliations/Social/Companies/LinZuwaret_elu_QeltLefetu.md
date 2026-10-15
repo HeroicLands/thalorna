@@ -16,6 +16,10 @@ data:
     summary: >-
       The trading house of the Qelt'Lefetu, running caravans on the high-value and dangerous routes under its own hired protection, at the direction of the house's merchant prince.
     ranks:
+      - level: 0
+        title: Turned Out
+        description: >-
+          A hand put out of the trading house's caravans, unfed by its supply and unguarded by its protection.
       - level: 1
         title: Of the Company
         description: >-

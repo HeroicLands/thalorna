@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the empire's scribes, which sets the hands a document must be written in and examines every pupil before certifying them. It holds the Imperial Library under its hand.
     ranks:
+      - level: 0
+        title: Certification Revoked
+        description: >-
+          A scribe whose certification is withdrawn, whose documents a court or ministry will not treat as the original record.
       - level: 1
         title: Zethu
         description: >-

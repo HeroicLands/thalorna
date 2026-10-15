@@ -16,6 +16,10 @@ data:
     summary: >-
       A framework rather than a house: it admits whoever is taught it, and every standing a person holds within it is held in one of its six Eídmata.
     ranks:
+      - level: 0
+        title: Anathema
+        description: >-
+          One declared outside the framework of the six Eídmata, whom the tradition treats as having no standing in it.
       - level: 1
         title: Adherent
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       Former soldiers stripped of standing for conduct the military could not overlook, keeping their own company out of shared disgrace rather than shared purpose.
     ranks:
+      - level: 0
+        title: Stripped of Standing
+        description: >-
+          A soldier put out of the military for serious conduct, who loses the rank and record of their service.
       - level: 1
         title: Stripped of Standing
         description: >-

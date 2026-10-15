@@ -16,6 +16,10 @@ data:
     summary: >-
       The household and council around the Gar-Aû, through which imperial appointment is made and favor distributed. Every faction keeps a presence, and a decision made elsewhere has to survive this court to become policy.
     ranks:
+      - level: 0
+        title: Banished from Court
+        description: >-
+          A courtier barred from the Gar-Aû's household and council, who loses appointment and favor with them.
       - level: 1
         title: Courtier
         description: >-

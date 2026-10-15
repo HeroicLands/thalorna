@@ -16,6 +16,10 @@ data:
     summary: >-
       A cooperative of the farming households of the northern selats, pooling harvests into shipments large enough to bargain with buyers directly.
     ranks:
+      - level: 0
+        title: Struck from the Pool
+        description: >-
+          A farming household whose harvest is refused from the pooled shipments, left to bargain with buyers alone.
       - level: 1
         title: Member Household
         description: >-

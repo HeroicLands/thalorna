@@ -16,6 +16,10 @@ data:
     summary: >-
       A cabal of Helspawn lords in the service of Náhild, in which the most powerful member is recognized by the rest.
     ranks:
+      - level: 0
+        title: Cast Out
+        description: >-
+          A lord cast from the Nightwight lords' seats and the service of Náhild, whom the others do not shelter.
       - level: 1
         title: Member
         description: >-

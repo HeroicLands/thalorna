@@ -16,6 +16,10 @@ data:
     summary: >-
       Decentralized to the point that it may have no center at all: "no central leadership council exists—or if one exists, no member taken into imperial custody has ever revealed its composition, which after decades of interrogation begins to support the hypothesis that none exists." Regional cells plan and execute their own operations and rarely know each other's membership; coordination passes through intermediaries who bear messages and know no operational detail. This makes the cult almost impossible to decapitate and incoherent as a political actor at the same time—which its own doctrine holds to be a feature, coordination being the behavior of organizations that expect to continue existing.
     ranks:
+      - level: 0
+        title: Cut Loose
+        description: >-
+          A former member the cult disowns on capture, with no one to vouch for them and no hiding place among the cast-aside.
       - level: 1
         title: Approached
         description: >-

@@ -17,6 +17,10 @@ data:
     summary: >-
       No formal hierarchy and no structured organization: scattered factions, each attached to a different hof and to the wound it keeps, operating independently and united only by faith in the Rime-Giant as substance rather than as a maker. What roles exist are informal, fluid, and claimed rather than conferred.
     ranks:
+      - level: 0
+        title: Refused the Rime
+        description: >-
+          Put out of every hof that keeps Hrímthur's wound, denied the faction's rites and its company.
       - level: 1
         title: Hrímvin
         lore: admirerrnk

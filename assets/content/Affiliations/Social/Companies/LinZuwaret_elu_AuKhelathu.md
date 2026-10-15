@@ -16,6 +16,10 @@ data:
     summary: >-
       A consortium of wealthy traders across the empire who deal in goods that must arrive alive, hiring beast-trainers and assessing stock on the imperial routes.
     ranks:
+      - level: 0
+        title: Struck from the Consortium
+        description: >-
+          A trader cut out of the consortium, without its counsel on their carriage or its beast-trainers.
       - level: 1
         title: Consortium Trader
         description: >-

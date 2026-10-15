@@ -13,6 +13,10 @@ data:
     summary: >-
       A secretive society of thief-philosophers who hold every lock to be a puzzle, taking apprentices, setting terms and holding their people to them as a sworn guild does.
     ranks:
+      - level: 0
+        title: Struck from the Society
+        description: >-
+          An apprentice or member put out for breaking the society's terms, taught no more and sheltered by none of the others.
       - level: 1
         title: Apprentice
         description: >-

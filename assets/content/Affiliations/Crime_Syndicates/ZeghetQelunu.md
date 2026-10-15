@@ -13,6 +13,10 @@ data:
     summary: >-
       An organized poaching ring with resources and a military-style structure, whose arrangements—taker, carrier, buyer and the official who looks elsewhere—are recorded so that each can trust the next, and whose trail leads to powerful figures in government and nobility.
     ranks:
+      - level: 0
+        title: Dropped from the Arrangements
+        description: >-
+          Someone cut out of the chain of taker, carrier and buyer, whom the ring will no longer deal with and may name to the wardens.
       - level: 1
         title: Party to the Arrangements
         description: >-

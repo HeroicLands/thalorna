@@ -16,6 +16,10 @@ data:
     summary: >-
       A conclave of the elders of nineteen great groves, gathering on the four hinge-days of the year and in emergency, holding no charter and ruling by a custom older than the kingdom.
     ranks:
+      - level: 0
+        title: Put Out of the Groves
+        description: >-
+          Someone the elders will not seat or teach, shut out of the hinge-day gatherings and the groves' ritual.
       - level: 1
         title: Initiate
         description: >-

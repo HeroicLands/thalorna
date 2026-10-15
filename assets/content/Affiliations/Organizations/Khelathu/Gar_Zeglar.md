@@ -16,6 +16,10 @@ data:
     summary: >-
       The empire's administrative ministry, whose ministers hold the paperwork of the realm—tax rolls, land grants and appointments—and decide what of it is found.
     ranks:
+      - level: 0
+        title: Dismissed the Ministry
+        description: >-
+          A minister removed from the ministry, whose hold on the realm's records passes to another.
       - level: 1
         title: Minister
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       The children of the retired master locksmith Zokhothu, passed over for his succession, who campaign together against the man it went to.
     ranks:
+      - level: 0
+        title: Disowned
+        description: >-
+          One of the retired master's children cut off from the campaign against his successor and its company.
       - level: 1
         title: Child of Zokhothu
         description: >-

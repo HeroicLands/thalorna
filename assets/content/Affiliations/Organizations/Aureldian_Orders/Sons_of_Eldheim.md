@@ -16,6 +16,10 @@ data:
     summary: >-
       Military bands of the Black Flame under their Blazewardens; Malekir leads the campaign against the Varokh.
     ranks:
+      - level: 0
+        title: Cast Out
+        description: >-
+          A warrior put out of the Black Flame's bands, stripped of arms and banner and owed no share.
       - level: 1
         title: Order Warrior
         description: >-

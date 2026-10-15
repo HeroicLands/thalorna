@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose alliance of alchemists of the Wazulet who have no patron among the great houses, bound together to defend the standing of those who work without one.
     ranks:
+      - level: 0
+        title: Shunned by the Alliance
+        description: >-
+          A former member the alliance no longer defends or introduces, left to work without its backing.
       - level: 1
         title: Patronless Alchemist
         description: >-

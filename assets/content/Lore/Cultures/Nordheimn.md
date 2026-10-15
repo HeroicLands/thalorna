@@ -179,134 +179,134 @@ A hall gathers a lord's close kin and sworn followers under one roof. Oath and a
 
 These are the in-world words and terms of art the Nordmen's notes use. The [[doc-nordlandsadvguide#glossary|Nordlands Adventurer's Guide]] lists the common words among them, which are set in roman everywhere; every other Nordmal word is set in italics.
 
-| Term                       | Meaning                                                                                                     |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| aettarnafn                 | An earned clan name, taken for a great deed and passed to the line when the deed outlives its doer          |
-| bandalagshringr            | The bronze ring a Signed Captain of the Málalidabandalag wears on the thumb                                 |
-| Bandalagsmadr              | A warrior on the Málalidabandalag's roll through a signed company                                           |
-| Bandalagsvargr             | One cast out of the Málalidabandalag by vote of its Council                                                 |
-| Bjartgengir                | The faithful of Bjartr, those who go to the light                                                           |
-| Bjartlok                   | One to whom Bjartr's faith closes the light                                                                 |
-| blót                       | An offering and shared meal joining the gods, the living and the dead                                       |
-| Blótlok                    | One whose offering a hof's godi refuses, cutting him from that faith's clergy                               |
-| Blótmadr                   | One who attends the blót; the laity of the faiths of the Ten that keep it                                   |
-| bóndi                      | A free farmer of full clan membership, holding odal land and speaking at the ting                           |
-| breld                      | A coal, an ember kept alive overnight                                                                       |
-| búvördr                    | The steward of an estate, who also seats a hall's honored old at Vetrnaetr                                  |
-| drengr                     | A warrior of standing                                                                                       |
-| dresk                      | A beacon                                                                                                    |
-| Dróttmadr                  | The ordinary member of a devotional order of the faiths of the Ten                                          |
-| Dróttstjóri                | The leading standing of a devotional order of the faiths of the Ten                                         |
-| Dróttvargr                 | One cast out of a devotional order of the faiths of the Ten                                                 |
-| dulm                       | A grave                                                                                                     |
-| dvern                      | A birth                                                                                                     |
-| dvön                       | A seal                                                                                                      |
-| dvönvangr                  | A rookery, the shore where seals haul out to breed                                                          |
-| dyrma                      | A lay, a poem that tells a story                                                                            |
-| Eidefnir                   | The candidate of a fighting order, one in the making for the oath                                           |
-| Eidhöfdingi                | The senior member of a fighting order, senior among the sworn peers                                         |
-| Eidvargr                   | One put from a fighting order, whose sworn vows are void                                                    |
-| eldsdulm                   | A pyre, the fire's grave; the common funeral rite for the free                                              |
-| ergi                       | The shame attached to seidr when a man practices it                                                         |
-| flöm                       | Blubber                                                                                                     |
-| fölm                       | Sickness                                                                                                    |
-| fösk                       | Ash, what a fire leaves                                                                                     |
-| frídr                      | The peace a hall owes a guest                                                                               |
-| frjálsalid                 | The free companies of the north, warriors for hire                                                          |
-| frostnár                   | A lingering spirit, said to be laid when its kin speak its name                                             |
-| glerv                      | Oil rendered from blubber and burned in a lamp                                                              |
-| gnúm                       | A clay pot; the one that holds a pyre's ash                                                                 |
-| godi, gydja                | A priest or priestess who keeps a hof's rites, often also leading the district; plural godar, gydjur        |
-| grákáppar                  | The gray champions, retired captains who hold three seats on the Málalidabandalag's Council                 |
-| grave-ale                  | The hrúmsminni, the seventh-night rite that settles a dead person's affairs                                 |
-| Great Moot                 | A meeting of the five kingdoms at Asgarthul, called by Norgaad's Lawspeaker between sittings on Dómsey      |
-| Grönmál, Hamarsmál, Sármál | The chairs who speak for the Green Wardens, the Storm-Speakers and the Giant's Children                     |
-| grönujurt                  | The plant that dyes a Green Warden's cloak                                                                  |
-| Grönvördr                  | A Sworn Guardian, the working warden of the Green Wardens                                                   |
-| gyldra                     | A praise-poem made for a lord and paid with a ring                                                          |
-| hafthur                    | A sea-thing in fishers' tales: an island that rises without birds and takes boats down                      |
-| Hallarfadir                | The Father of the Hall, who leads one chapter hall of the Giant's Children                                  |
-| heimsaldr                  | A world-age, the world from its kindling to its end                                                         |
-| Hershönd                   | The Hand of the Host, a senior brother of the Giant's Children                                              |
-| hersvald                   | The leader of a district's men at the muster, holding the post by the district's consent; plural hersvaldar |
-| High Jarl                  | The head of Stormveld's jarldoms, elected from among them; Höfudvald in the north's tongue                  |
-| hird, hirdman              | A king's household troop, and a sworn man of it fed at his table                                            |
-| Hirdskáld                  | A skald in formal service to a jarl or king                                                                 |
-| Hirdstjóri                 | The king's marshal, master of his household men and of the muster                                           |
-| hnerv                      | A refrain, the line that returns between stanzas                                                            |
-| hnoll                      | A skull                                                                                                     |
-| hnúra                      | A lament, never paid for                                                                                    |
-| hof                        | A shrine-hall where a blót is made, oaths are sworn and a ting may gather                                   |
-| Hofgodi, Hofgydja          | The high priest or priestess who consecrates a hof and performs the great blót                              |
-| Hofsmadr                   | One given to a hof young, years short of the priesthood                                                     |
-| huscarl                    | A sworn household warrior of a lord                                                                         |
-| höfudsveld                 | The high seat of a hall, where its lord sits                                                                |
-| Höfudvald                  | The High Jarl of Stormveld, the head who wields the authority the jarls lend him                            |
-| Höndskjöldr                | A hand's shield, the admitted candidate of the Order of the Sworn Hand                                      |
-| hörgr                      | An open stone altar or cairn for everyday offerings                                                         |
-| Host-Caller                | The Stormveld officer who bears the war-arrow summoning the jarldoms to a common muster                     |
-| hrend                      | A boundary stone set at a claim's edge                                                                      |
-| Hrímblenn                  | The rime-cleansed, candidates of the Giant's Children                                                       |
-| Hrímmadr                   | An adherent of the Faith of Hrímthur                                                                        |
-| Hrímvin                    | A friend of the rime, one drawn to Hrímthur's faith                                                         |
-| hringberi                  | One given a named seat in a hall, heard before a common bóndi                                               |
-| Hringvördr                 | The keeper of the rings the king gives and the silver of his hall                                           |
-| hrúm                       | A howe, the barrow raised over a grave                                                                      |
-| hrúmsminni                 | The grave-ale on the seventh night after a death, when the heir takes the high seat                         |
-| hrúmsmódir                 | The mothers of the oldest lines, said to lie beneath the stones of Hörgsvangr                               |
-| hrúmverdir                 | Howe-wardens, dead who walk in their own bodies                                                             |
-| hulma                      | A kenning, a thing named in other words; plural hulmur                                                      |
-| hvelm                      | A whale                                                                                                     |
-| hvelmgeir                  | A harpoon                                                                                                   |
-| jarl                       | The holder of a province by the king's grant                                                                |
-| Jól-Ride                   | The dead denied their grave-ale, riding abroad on the worst nights of Jól                                   |
-| knelth                     | A charm, a binding sung and never written down                                                              |
-| knerv                      | A body                                                                                                      |
-| landormr                   | The guardian Grímvar tellers say lies beneath the Crown of the Wyrm                                         |
-| Landsgodi                  | The priest of the land, who hallows Dómsey and speaks for the Ten with one voice                            |
-| landvördr                  | The king's reeve in a district, collecting dues and holding courts                                          |
-| Lawspeaker                 | The keeper of a kingdom's law in memory, who recites it at the assembly                                     |
-| lidmadr                    | A free person without a clan, who answers through a following                                               |
-| Lögskáld                   | A skald who recites legal precedent and witnesses formal proceedings                                        |
-| Merkiberi                  | The bearer of the king's standard in battle                                                                 |
-| merv                       | A bone                                                                                                      |
-| nágengir                   | Dead raised to serve Náhild                                                                                 |
-| Návargr                    | An outlaw of the corpse-goddess, cast out of Náhild's cult                                                  |
-| níding                     | One outlawed by the ting, beyond its peace                                                                  |
-| nóttreid                   | A night-riding dread, warded off by turning shoes outward and keeping steel by the bed                      |
-| oath-friend                | A sworn companion bound by blood under a strip of turf to avenge the other's death                          |
-| odal                       | Land held by inheritance rather than by grant                                                               |
-| relth                      | A telling, a tale shorter than a saga, given at a hearth                                                    |
-| rúnagaldr                  | Rune-craft, the cutting of runes with intent                                                                |
-| rúnameistari               | A rune-master                                                                                               |
-| Sárborinn                  | Born of the Wound, a full member of the Giant's Children                                                    |
-| seidr                      | The völva's craft of trance, spirit-walking and foretelling                                                 |
-| Signed Captain             | A captain who has sworn his company into the Málalidabandalag                                               |
-| skald                      | A sworn poet whose recital is a hall's memory and counts as evidence                                        |
-| Skáld                      | The Skalds' Circle's sworn rank                                                                             |
-| Skaldating                 | The Circle's gathering, which accepts an apprentice's gyldra and convicts false skalds                      |
-| Skaldavargr                | A skald whose ring the Circle has broken for false recital                                                  |
-| Skaldefnir                 | A skald in the making, an apprentice of the Circle                                                          |
-| skaldhringr                | The silver arm-ring a sworn skald wears for life                                                            |
-| skelfr                     | The ice-edge, where sea ice meets open water                                                                |
-| skipsdulm                  | A ship-burial, the ship's grave                                                                             |
-| skipstjóri                 | A shipmaster, who commands a crew and answers for the ship in the levy                                      |
-| skreld                     | A flyting, an exchange of insults in verse                                                                  |
-| snerv                      | A prophecy, a seeress's foretelling                                                                         |
-| stórald                    | A saga                                                                                                      |
-| Stóraldstjóri              | A saga-master, acclaimed when his sagas enter the Circle's repertoire                                       |
-| Stormmaelir                | A Sworn Speaker, a full member of the Storm-Speakers                                                        |
-| sveld                      | A seat                                                                                                      |
-| svelth                     | Death                                                                                                       |
-| svelthfell                 | The death-fell above Marvstead, told of in the Three Winters                                                |
-| thrall                     | A person owned outright, without voice or rights of their own                                               |
-| thresk                     | A keel                                                                                                      |
-| thursar                    | Giant-kin                                                                                                   |
-| ting                       | The lawful assembly of free people, where disputes are judged and laws proclaimed                           |
-| tingfridr                  | The peace a ting holds                                                                                      |
-| tingsveld                  | A stone seat at the ting, marked with its holder's sign                                                     |
-| Truce-Warden               | The Stormveld officer who holds the moot's peace and may kill to keep it                                    |
-| tvelg                      | A remnant, what is left when the greater part is gone                                                       |
-| völva                      | A wandering seeress bound to no hof; plural völvur                                                          |
-| vrell                      | Blood                                                                                                       |
-| vyld                       | Grain                                                                                                       |
+| Term                       | Meaning                                                                                                                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| aettarnafn                 | An earned clan name, taken for a great deed and passed to the line when the deed outlives its doer                                                                            |
+| bandalagshringr            | The bronze ring a Signed Captain of the Málalidabandalag wears on the thumb                                                                                                   |
+| Bandalagsmadr              | A warrior on the Málalidabandalag's roll through a signed company                                                                                                             |
+| Bandalagsvargr             | One cast out of the Málalidabandalag by vote of its Council                                                                                                                   |
+| Bjartgengir                | The faithful of Bjartr, those who go to the light                                                                                                                             |
+| Bjartlok                   | One to whom Bjartr's faith closes the light                                                                                                                                   |
+| blót                       | An offering and shared meal joining the gods, the living and the dead                                                                                                         |
+| Blótlok                    | One whose offering a hof's godi refuses, cutting him from that faith's clergy; built from blót- (a sacrifice made at a hof) and -lok (a close), "the sacrifice closed to him" |
+| Blótmadr                   | One who attends the blót; the laity of the faiths of the Ten that keep it                                                                                                     |
+| bóndi                      | A free farmer of full clan membership, holding odal land and speaking at the ting                                                                                             |
+| breld                      | A coal, an ember kept alive overnight                                                                                                                                         |
+| búvördr                    | The steward of an estate, who also seats a hall's honored old at Vetrnaetr                                                                                                    |
+| drengr                     | A warrior of standing                                                                                                                                                         |
+| dresk                      | A beacon                                                                                                                                                                      |
+| Dróttmadr                  | The ordinary member of a devotional order of the faiths of the Ten                                                                                                            |
+| Dróttstjóri                | The leading standing of a devotional order of the faiths of the Ten                                                                                                           |
+| Dróttvargr                 | One cast out of a devotional order of the faiths of the Ten                                                                                                                   |
+| dulm                       | A grave                                                                                                                                                                       |
+| dvern                      | A birth                                                                                                                                                                       |
+| dvön                       | A seal                                                                                                                                                                        |
+| dvönvangr                  | A rookery, the shore where seals haul out to breed                                                                                                                            |
+| dyrma                      | A lay, a poem that tells a story                                                                                                                                              |
+| Eidefnir                   | The candidate of a fighting order, one in the making for the oath                                                                                                             |
+| Eidhöfdingi                | The senior member of a fighting order, senior among the sworn peers                                                                                                           |
+| Eidvargr                   | One put from a fighting order, whose sworn vows are void                                                                                                                      |
+| eldsdulm                   | A pyre, the fire's grave; the common funeral rite for the free                                                                                                                |
+| ergi                       | The shame attached to seidr when a man practices it                                                                                                                           |
+| flöm                       | Blubber                                                                                                                                                                       |
+| fölm                       | Sickness                                                                                                                                                                      |
+| fösk                       | Ash, what a fire leaves                                                                                                                                                       |
+| frídr                      | The peace a hall owes a guest                                                                                                                                                 |
+| frjálsalid                 | The free companies of the north, warriors for hire                                                                                                                            |
+| frostnár                   | A lingering spirit, said to be laid when its kin speak its name                                                                                                               |
+| glerv                      | Oil rendered from blubber and burned in a lamp                                                                                                                                |
+| gnúm                       | A clay pot; the one that holds a pyre's ash                                                                                                                                   |
+| godi, gydja                | A priest or priestess who keeps a hof's rites, often also leading the district; plural godar, gydjur                                                                          |
+| grákáppar                  | The gray champions, retired captains who hold three seats on the Málalidabandalag's Council                                                                                   |
+| grave-ale                  | The hrúmsminni, the seventh-night rite that settles a dead person's affairs                                                                                                   |
+| Great Moot                 | A meeting of the five kingdoms at Asgarthul, called by Norgaad's Lawspeaker between sittings on Dómsey                                                                        |
+| Grönmál, Hamarsmál, Sármál | The chairs who speak for the Green Wardens, the Storm-Speakers and the Giant's Children                                                                                       |
+| grönujurt                  | The plant that dyes a Green Warden's cloak                                                                                                                                    |
+| Grönvördr                  | A Sworn Guardian, the working warden of the Green Wardens                                                                                                                     |
+| gyldra                     | A praise-poem made for a lord and paid with a ring                                                                                                                            |
+| hafthur                    | A sea-thing in fishers' tales: an island that rises without birds and takes boats down                                                                                        |
+| Hallarfadir                | The Father of the Hall, who leads one chapter hall of the Giant's Children                                                                                                    |
+| heimsaldr                  | A world-age, the world from its kindling to its end                                                                                                                           |
+| Hershönd                   | The Hand of the Host, a senior brother of the Giant's Children                                                                                                                |
+| hersvald                   | The leader of a district's men at the muster, holding the post by the district's consent; plural hersvaldar                                                                   |
+| High Jarl                  | The head of Stormveld's jarldoms, elected from among them; Höfudvald in the north's tongue                                                                                    |
+| hird, hirdman              | A king's household troop, and a sworn man of it fed at his table                                                                                                              |
+| Hirdskáld                  | A skald in formal service to a jarl or king                                                                                                                                   |
+| Hirdstjóri                 | The king's marshal, master of his household men and of the muster                                                                                                             |
+| hnerv                      | A refrain, the line that returns between stanzas                                                                                                                              |
+| hnoll                      | A skull                                                                                                                                                                       |
+| hnúra                      | A lament, never paid for                                                                                                                                                      |
+| hof                        | A shrine-hall where a blót is made, oaths are sworn and a ting may gather                                                                                                     |
+| Hofgodi, Hofgydja          | The high priest or priestess who consecrates a hof and performs the great blót                                                                                                |
+| Hofsmadr                   | One given to a hof young, years short of the priesthood                                                                                                                       |
+| huscarl                    | A sworn household warrior of a lord                                                                                                                                           |
+| höfudsveld                 | The high seat of a hall, where its lord sits                                                                                                                                  |
+| Höfudvald                  | The High Jarl of Stormveld, the head who wields the authority the jarls lend him                                                                                              |
+| Höndskjöldr                | A hand's shield, the admitted candidate of the Order of the Sworn Hand                                                                                                        |
+| hörgr                      | An open stone altar or cairn for everyday offerings                                                                                                                           |
+| Host-Caller                | The Stormveld officer who bears the war-arrow summoning the jarldoms to a common muster                                                                                       |
+| hrend                      | A boundary stone set at a claim's edge                                                                                                                                        |
+| Hrímblenn                  | The rime-cleansed, candidates of the Giant's Children                                                                                                                         |
+| Hrímmadr                   | An adherent of the Faith of Hrímthur                                                                                                                                          |
+| Hrímvin                    | A friend of the rime, one drawn to Hrímthur's faith                                                                                                                           |
+| hringberi                  | One given a named seat in a hall, heard before a common bóndi                                                                                                                 |
+| Hringvördr                 | The keeper of the rings the king gives and the silver of his hall                                                                                                             |
+| hrúm                       | A howe, the barrow raised over a grave                                                                                                                                        |
+| hrúmsminni                 | The grave-ale on the seventh night after a death, when the heir takes the high seat                                                                                           |
+| hrúmsmódir                 | The mothers of the oldest lines, said to lie beneath the stones of Hörgsvangr                                                                                                 |
+| hrúmverdir                 | Howe-wardens, dead who walk in their own bodies                                                                                                                               |
+| hulma                      | A kenning, a thing named in other words; plural hulmur                                                                                                                        |
+| hvelm                      | A whale                                                                                                                                                                       |
+| hvelmgeir                  | A harpoon                                                                                                                                                                     |
+| jarl                       | The holder of a province by the king's grant                                                                                                                                  |
+| Jól-Ride                   | The dead denied their grave-ale, riding abroad on the worst nights of Jól                                                                                                     |
+| knelth                     | A charm, a binding sung and never written down                                                                                                                                |
+| knerv                      | A body                                                                                                                                                                        |
+| landormr                   | The guardian Grímvar tellers say lies beneath the Crown of the Wyrm                                                                                                           |
+| Landsgodi                  | The priest of the land, who hallows Dómsey and speaks for the Ten with one voice                                                                                              |
+| landvördr                  | The king's reeve in a district, collecting dues and holding courts                                                                                                            |
+| Lawspeaker                 | The keeper of a kingdom's law in memory, who recites it at the assembly                                                                                                       |
+| lidmadr                    | A free person without a clan, who answers through a following                                                                                                                 |
+| Lögskáld                   | A skald who recites legal precedent and witnesses formal proceedings                                                                                                          |
+| Merkiberi                  | The bearer of the king's standard in battle                                                                                                                                   |
+| merv                       | A bone                                                                                                                                                                        |
+| nágengir                   | Dead raised to serve Náhild                                                                                                                                                   |
+| Návargr                    | An outlaw of the corpse-goddess, cast out of Náhild's cult                                                                                                                    |
+| níding                     | One outlawed by the ting, beyond its peace; a plain word of Nordmal, built from no parts                                                                                      |
+| nóttreid                   | A night-riding dread, warded off by turning shoes outward and keeping steel by the bed                                                                                        |
+| oath-friend                | A sworn companion bound by blood under a strip of turf to avenge the other's death                                                                                            |
+| odal                       | Land held by inheritance rather than by grant                                                                                                                                 |
+| relth                      | A telling, a tale shorter than a saga, given at a hearth                                                                                                                      |
+| rúnagaldr                  | Rune-craft, the cutting of runes with intent                                                                                                                                  |
+| rúnameistari               | A rune-master                                                                                                                                                                 |
+| Sárborinn                  | Born of the Wound, a full member of the Giant's Children                                                                                                                      |
+| seidr                      | The völva's craft of trance, spirit-walking and foretelling                                                                                                                   |
+| Signed Captain             | A captain who has sworn his company into the Málalidabandalag                                                                                                                 |
+| skald                      | A sworn poet whose recital is a hall's memory and counts as evidence                                                                                                          |
+| Skáld                      | The Skalds' Circle's sworn rank                                                                                                                                               |
+| Skaldating                 | The Circle's gathering, which accepts an apprentice's gyldra and convicts false skalds                                                                                        |
+| Skaldavargr                | A skald whose ring the Circle has broken for false recital                                                                                                                    |
+| Skaldefnir                 | A skald in the making, an apprentice of the Circle                                                                                                                            |
+| skaldhringr                | The silver arm-ring a sworn skald wears for life                                                                                                                              |
+| skelfr                     | The ice-edge, where sea ice meets open water                                                                                                                                  |
+| skipsdulm                  | A ship-burial, the ship's grave                                                                                                                                               |
+| skipstjóri                 | A shipmaster, who commands a crew and answers for the ship in the levy                                                                                                        |
+| skreld                     | A flyting, an exchange of insults in verse                                                                                                                                    |
+| snerv                      | A prophecy, a seeress's foretelling                                                                                                                                           |
+| stórald                    | A saga                                                                                                                                                                        |
+| Stóraldstjóri              | A saga-master, acclaimed when his sagas enter the Circle's repertoire                                                                                                         |
+| Stormmaelir                | A Sworn Speaker, a full member of the Storm-Speakers                                                                                                                          |
+| sveld                      | A seat                                                                                                                                                                        |
+| svelth                     | Death                                                                                                                                                                         |
+| svelthfell                 | The death-fell above Marvstead, told of in the Three Winters                                                                                                                  |
+| thrall                     | A person owned outright, without voice or rights of their own                                                                                                                 |
+| thresk                     | A keel                                                                                                                                                                        |
+| thursar                    | Giant-kin                                                                                                                                                                     |
+| ting                       | The lawful assembly of free people, where disputes are judged and laws proclaimed                                                                                             |
+| tingfridr                  | The peace a ting holds                                                                                                                                                        |
+| tingsveld                  | A stone seat at the ting, marked with its holder's sign                                                                                                                       |
+| Truce-Warden               | The Stormveld officer who holds the moot's peace and may kill to keep it                                                                                                      |
+| tvelg                      | A remnant, what is left when the greater part is gone                                                                                                                         |
+| völva                      | A wandering seeress bound to no hof; plural völvur                                                                                                                            |
+| vrell                      | Blood                                                                                                                                                                         |
+| vyld                       | Grain                                                                                                                                                                         |

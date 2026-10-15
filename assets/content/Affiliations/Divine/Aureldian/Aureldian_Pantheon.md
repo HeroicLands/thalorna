@@ -17,6 +17,10 @@ data:
     summary: >-
       Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body of ordained clergy, and a high priest above them, styled by the god's own domain: the Volsarn of law, the Bravsarn of storms, the Mentara of wisdom or the Nirvena of dreams. The larger faiths insert a senior college between clergy and apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Ústaran faiths, split by schism into the Sacred Forge's Hamsarn and the Black Flame's independent Flame-Wardens.
     ranks:
+      - level: 0
+        title: Banar
+        description: >-
+          A Banar—the Vylari word for one cast out of a faith—is a layman put out of the keeping of the Twelve, refused the feasts, the temples and the rites of passage.
       - level: 1
         title: Adherent
         description: >-

@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the empire's rivermen and sea-captains, open to any master who meets its standard of seamanship. It sets that standard and the safety a cargo must meet, and speaks for its members against the merchant houses.
     ranks:
+      - level: 0
+        title: Charter Revoked
+        description: >-
+          A riverman or sea-captain whose guild charter is withdrawn, so that guild cargoes and its standard of safety no longer cover them.
       - level: 1
         title: Igelar
         description: >-

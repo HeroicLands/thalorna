@@ -16,6 +16,10 @@ data:
     summary: >-
       A cooperative of the capital's weavers and dyers, pooling their cloth to reach markets beyond the city on carriage they choose together.
     ranks:
+      - level: 0
+        title: Struck from the Pool
+        description: >-
+          A weaver or dyer whose cloth is refused from the shared consignments, left to find carriage alone.
       - level: 1
         title: Pooling Weaver
         description: >-

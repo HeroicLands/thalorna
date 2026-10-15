@@ -16,6 +16,10 @@ data:
     summary: >-
       A garrison of elite warriors sworn to a temple.
     ranks:
+      - level: 0
+        title: Cast Out
+        description: >-
+          A warrior put out of the temple's guard, stripped of the oath and the holy places it defended.
       - level: 1
         title: Sworn Warrior
         description: >-

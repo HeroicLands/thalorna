@@ -15,6 +15,10 @@ data:
     summary: >-
       Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahājaya temples of Upper, Middle, and Lower Suvarnagiri. Each constituent village sends two representatives; the artisan-and-merchant shrenīs collectively send twelve; the three temples send two each. Decisions on gold-related questions—extraction, taxation, allocation of the temple-share—require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          A Vihru—an outcaste, one outside the order—is put out of the janapada's order by the sabhā, barred from the temples and the village and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-

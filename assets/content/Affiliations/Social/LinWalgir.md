@@ -16,6 +16,10 @@ data:
     summary: >-
       A loose fellowship of scouts and wilderness-hands who take the work a caravan master would rather not advertise, working in coordination without formal hierarchy.
     ranks:
+      - level: 0
+        title: Struck from the Fellowship
+        description: >-
+          A ranger the fellowship no longer coordinates with, left without its work or its word.
       - level: 1
         title: Gray Ranger
         description: >-

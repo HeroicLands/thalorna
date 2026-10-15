@@ -16,6 +16,10 @@ data:
     summary: >-
       The chartered guild of the makers of figures and mechanisms, which raises an apprentice to full membership on the funerary figure and keeps a standards committee over the work.
     ranks:
+      - level: 0
+        title: Struck from the Roll
+        description: >-
+          An apprentice or maker put out of the guild, whose figures cannot pass its standards committee.
       - level: 1
         title: Apprentice
         description: >-

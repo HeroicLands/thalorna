@@ -16,6 +16,10 @@ data:
     summary: >-
       A movement within the priesthood of the sterner gods holding that public performance corrupts performer and audience alike, and pressing for the players to be put down.
     ranks:
+      - level: 0
+        title: Name Struck
+        description: >-
+          A priest put out of the movement against the players, no longer counted among its cause.
       - level: 1
         title: Lem'Nelgir
         description: >-

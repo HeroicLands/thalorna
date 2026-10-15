@@ -16,6 +16,10 @@ data:
     summary: >-
       The principal playing company of the capital, whose leading performers are known across the empire and whose internal politics are as involved as any court's.
     ranks:
+      - level: 0
+        title: Dropped from the Company
+        description: >-
+          A performer let go from the company, whose standing in it ends and whose roles go to others.
       - level: 1
         title: Performer
         description: >-

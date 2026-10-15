@@ -16,6 +16,10 @@ data:
     summary: >-
       Conservative priests within the temple of Qe'âret who hold that political entanglement corrupts the goddess's purpose, and who organize against a high priest's renewal when the high priest leans toward the court.
     ranks:
+      - level: 0
+        title: Name Struck
+        description: >-
+          A priest put out of the conservative priests' company, who loses its backing in the temple.
       - level: 1
         title: Lem'Nelgir
         description: >-

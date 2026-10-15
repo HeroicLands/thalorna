@@ -16,6 +16,10 @@ data:
     summary: >-
       The governing council of the temple of Uzn'êra, drawn from its senior priestesses and the few men raised high enough to sit beside them. It administers the temple's holdings and sets the calendar of observances.
     ranks:
+      - level: 0
+        title: Put Out of the Council
+        description: >-
+          A priestess or man of standing removed from the temple's council, who loses a voice in its holdings.
       - level: 1
         title: Councilor
         description: >-

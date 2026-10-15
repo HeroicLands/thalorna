@@ -16,6 +16,10 @@ data:
     summary: >-
       A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.
     ranks:
+      - level: 0
+        title: Barred
+        description: >-
+          A tanner, currier or leatherdresser the collective will neither supply nor stand behind, and who works the trade alone.
       - level: 1
         title: Hideworker
         description: >-

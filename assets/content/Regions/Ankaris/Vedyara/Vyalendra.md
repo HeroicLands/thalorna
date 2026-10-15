@@ -14,6 +14,10 @@ data:
     summary: >-
       The Loom-Council of the master weavers, which keeps no king. The chartered weaving shrenīs hold its seats by craft-line, raise a Speaker from among themselves for a term, and govern production, trade and the city's civic life together.
     ranks:
+      - level: 0
+        title: Vihru
+        description: >-
+          A Vihru—an outcaste, one outside the order—is struck from the shrenīs' rolls, denied a seat by craft-line and the Loom-Council's protection.
       - level: 1
         title: Bonded Servant
         description: >-

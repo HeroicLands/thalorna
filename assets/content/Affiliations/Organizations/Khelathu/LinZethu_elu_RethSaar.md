@@ -16,6 +16,10 @@ data:
     summary: >-
       The scribal schools under Reth'Sa'âr's patronage, taking pupils on ability rather than birth and producing the administrators the imperial state runs on.
     ranks:
+      - level: 0
+        title: Dismissed
+        description: >-
+          A pupil sent down from the scribal schools, closed out of the course that leads into the administration.
       - level: 1
         title: Pupil
         description: >-

@@ -23,6 +23,10 @@ data:
     summary: >-
       A pan-tribal circle of acclaimed warriors, meeting quarterly at the Stone of Ranâz with no captain over it, its rulings made by whoever comes and its order kept by a Voice drawn each meeting by lot.
     ranks:
+      - level: 0
+        title: Cast Out
+        description: >-
+          A warrior put out of the Circle, denied its acclamation and the shelter of the pan-tribal peace.
       - level: 1
         title: Bahâr
         description: >-

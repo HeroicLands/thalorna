@@ -16,6 +16,10 @@ data:
     summary: >-
       The imperial service that collects the Gar-Aû's dues and enforces the law of trade, its assessors weighing and taxing goods at the point of sale or transit. It treats the taking of anything unweighed as theft.
     ranks:
+      - level: 0
+        title: Dismissed the Service
+        description: >-
+          An assessor stripped of the power to weigh and tax goods, and answerable for what was taken in the Gar-Aû's name.
       - level: 1
         title: Assessor
         description: >-

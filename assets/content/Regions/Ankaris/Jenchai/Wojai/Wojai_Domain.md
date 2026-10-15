@@ -16,6 +16,10 @@ data:
     summary: >-
       Held of the Emperor by patent by the Daozhuo Wōjai Dōja, who sits at Yūwū and governs the mountain through his retainers, the headmen of its villages and the Wōjū who keep its harbors.
     ranks:
+      - level: 0
+        title: Outlaw
+        description: >-
+          One stripped of the Daozhuo's protection and put outside the mountain's law, with no appeal.
       - level: 1
         title: Subject
         description: >-

@@ -618,6 +618,13 @@ An office is an element and one of the office closings, and the closing says wha
 | Wuldjagár   | `wuld-` + `-jagár` | hunting the wood             |
 | Weskár      | `wesk-` + `-ár`    | keeping the village's totem  |
 
+**The standings the forest names.** A rank at the foot of a company or a kindred's ladder takes the office shape and names the ground the person is left to.
+
+| standing word | its pieces         | what it names                                                   |
+| ------------- | ------------------ | --------------------------------------------------------------- |
+| Vrystrith     | `vryst-` + `-rith` | riding the ground nobody holds; one cast out by their own kin   |
+| Wulfrith      | `wulf-` + `-rith`  | riding the wolf's ground; one cast out of a company to the wild |
+
 An order joins two of these with `erund`, as Wuldjagár erund Gárskald does: the hunters of the wood, of the kindred that speaks for the spear.
 
 ### Bynames

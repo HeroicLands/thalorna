@@ -16,6 +16,10 @@ data:
     summary: >-
       The Imperial Library, held under the hand of the scribes' guild, which grants every reader's permission. What it holds on the spirit-realm is kept behind a further door.
     ranks:
+      - level: 0
+        title: Barred from the Library
+        description: >-
+          A scribe whom the guild denies the library's texts, with no reader's permission to give.
       - level: 1
         title: Zethu of the Library
         description: >-
