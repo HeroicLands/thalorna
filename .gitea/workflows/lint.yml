@@ -23,7 +23,7 @@
 # of them. A final job, `Content, prose, and registry checks`, waits for all
 # four and fails when any of them failed; it is the name branch protection
 # requires, so the checks report as one. Each job pays its own checkout and
-# `npm ci`, about a minute.
+# a dependency restore.
 #
 # The lexicons are deliberately absent, and so is the drift sweep. A lexicon
 # judges one culture's names against the phonology its own language note
@@ -39,15 +39,23 @@
 # `lint:nordmal-concordance` judges the table it and the Nordmal lexicon read.
 # Both are red on the same backlog and both are run the same way.
 #
-# ## The compile runs after the checks
+# ## The compile runs beside the checks
 #
 # It is the only job here that reaches the network — a satellite fetches the
 # pinned system release its actors resolve against — and it is the longest, so
-# it runs only once every check has passed: a tree that fails its checks is not
-# worth compiling, and the compile's runner stays free for a tree that passes.
+# it starts with the checks rather than after them: a green run takes as long
+# as the slowest single job. `Content pack compile` is its own required check,
+# so a red compile blocks the merge as a red check does.
 #
-# Every run is cold: `build/` is gitignored and holds the dependency catalogue
-# too, so a runner starts with nothing.
+# Every run is cold for `build/`: it is gitignored and holds the dependency
+# catalogue too, so a runner starts with nothing there.
+#
+# ## Dependencies are cached
+#
+# Every job restores `node_modules` keyed on the Node version and the hash of
+# `package-lock.json`, and runs `npm ci` only on a miss. The `prepare` script
+# only points git hooks at the installed package, which a CI job never uses, so
+# a restore needs no further step.
 name: Lint
 
 on:
@@ -76,7 +84,17 @@ jobs:
                   node-version: 24
                   cache: npm
 
+            # Restored on an unchanged lockfile and Node version; the install
+            # runs only on a miss. A restore leaves `node_modules/.bin` intact.
+            - name: Cache node_modules
+              id: modules
+              uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
               run: npm ci
 
             # Prettier over the whole tree.
@@ -108,7 +126,17 @@ jobs:
                   node-version: 24
                   cache: npm
 
+            # Restored on an unchanged lockfile and Node version; the install
+            # runs only on a miss. A restore leaves `node_modules/.bin` intact.
+            - name: Cache node_modules
+              id: modules
+              uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
               run: npm ci
 
             # `sohl`'s content index is fetched, not vendored, and both address
@@ -134,7 +162,17 @@ jobs:
                   node-version: 24
                   cache: npm
 
+            # Restored on an unchanged lockfile and Node version; the install
+            # runs only on a miss. A restore leaves `node_modules/.bin` intact.
+            - name: Cache node_modules
+              id: modules
+              uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
               run: npm ci
 
             # `sohl`'s content index is fetched, not vendored, and both address
@@ -164,7 +202,17 @@ jobs:
                   node-version: 24
                   cache: npm
 
+            # Restored on an unchanged lockfile and Node version; the install
+            # runs only on a miss. A restore leaves `node_modules/.bin` intact.
+            - name: Cache node_modules
+              id: modules
+              uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
               run: npm ci
 
             # A named person the prose leans on resolves to a note.
@@ -196,7 +244,6 @@ jobs:
     build:
         name: Content pack compile
         runs-on: build
-        needs: [lint]
 
         steps:
             - name: Checkout code
@@ -208,7 +255,17 @@ jobs:
                   node-version: 24
                   cache: npm
 
+            # Restored on an unchanged lockfile and Node version; the install
+            # runs only on a miss. A restore leaves `node_modules/.bin` intact.
+            - name: Cache node_modules
+              id: modules
+              uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
+              with:
+                  path: node_modules
+                  key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
               run: npm ci
 
             # Stages the tree, compiles every pack, and emits the content index
