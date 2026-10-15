@@ -25,7 +25,7 @@ data:
 
 The carol keeps a custom the village holds to more closely than to anything else in the year. The wood above Kingshollow is royal forest under forest law, and the tenants who live beside it may not cut its timber. At the end of the carol the king gives the singers one standing tree, which the forester has marked, and they fell it the next morning and burn it on the village hearths until it is gone. Whatever the tree is, the village calls it the **Wassail Oak**. In a year the king is held at [[place-dunmere|Dunmere]] the steward answers in his place and gives the same tree, and the village sings a verse it does not sing to the king.
 
-The verses go in a fixed order: the coming, the bowl, the greeting, the gift, the asking, the land, and the verses sung over the wall to the royal graves behind the hall. The burden is sung by everyone at the door after each verse. The king's answer is not sung but said, and it is always the same words. The verses about the first king are the village's alone. The barons' record says that **Bréthar** was crowned in the chapel beside his hall ([[lore-kingshlwcrwn|The Crowning at Kingshollow]]) and says nothing about where he lies; the carol says he lies in none of the graves, and that the hill keeps him until the crown is asked for again.
+The verses go in a fixed order: the coming, the bowl, the greeting, the gift, the asking, the land, and the verses sung over the wall to the royal graves behind the hall. The burden is sung by everyone at the door after each verse. The king's answer is not sung but said, and it is always the same words. The verses about the first king are the village's alone. The barons' record says that **Dréthar** was crowned in the chapel beside his hall ([[lore-kingshlwcrwn|The Crowning at Kingshollow]]) and says nothing about where he lies; the carol says he lies in none of the graves, and that the hill keeps him until the crown is asked for again.
 
 : The Coming {#coming}
 
@@ -81,7 +81,7 @@ _The burden._
 ```poetry {form=carol rhyme=AABB lang=en}
 There was never a crown but was given by hands,
 And thine by the barons that hold their own lands;
-They set it on Bréthar, a lord like the rest,
+They set it on Dréthar, a lord like the rest,
 That could ride all his land ere the sun went to rest.
 ```
 
@@ -90,8 +90,8 @@ _The burden._
 ```poetry {form=carol rhyme=AABB lang=en}
 A gift asketh gift, and the old saws agree:
 We have given thee ale; wilt thou give us a tree?
-The barons gave Bréthar a crown for his head,
-And Bréthar gave fire to the hollow, 'tis said.
+The barons gave Dréthar a crown for his head,
+And Dréthar gave fire to the hollow, 'tis said.
 ```
 
 _The burden._
@@ -158,7 +158,7 @@ With his hounds at his feet, and his horn, and his bill.
 
 ```poetry {form=carol rhyme=AABB lang=en}
 And when the crown's asked for again at this door,
-As the barons asked Bréthar to wear it before,
+As the barons asked Dréthar to wear it before,
 He shall rise, and come down through the wood on the hill,
 And the hollow shall cut what it will, when it will.
 ```

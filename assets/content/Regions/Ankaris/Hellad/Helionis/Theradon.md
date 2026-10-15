@@ -3,7 +3,7 @@ shortcode: theradon
 name: {full: Therádon, aliases: []}
 type: affiliation
 subType: polity
-description: "Inland Helionite city-state of terraced marble colonnades—oligarchic philosopher-republic and seat of a Panepistemium chapterhouse, whose libraries hold some of the oldest texts in western Ankaris and whose citizens consider themselves uniquely qualified to instruct everyone else."
+description: "Inland Helionite city-state of terraced marble colonnades—oligarchic philosopher-republic and seat of a Plûmepistémion chapterhouse, whose libraries hold some of the oldest texts in western Ankaris and whose citizens consider themselves uniquely qualified to instruct everyone else."
 data:
   templatePriority: null
   demonym: Therádoni
@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Therádon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the **Theradic Gulf**, known for its philosophers, physicians and natural historians and for a [[affiliation-panepistmm|Panepistemium]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Therádon]]. Therádon fell to the Republic in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
+Therádon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the **Theradic Gulf**, known for its philosophers, physicians and natural historians and for a [[affiliation-panepistmm|Plûmepistémion]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Therádon]]. Therádon fell to the Republic in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
 
 - **Government:** oligarchic assembly of the wealthiest and most educated citizens
 - **Seat:** the city of [[place-theradon2|Therádon]]
@@ -95,7 +95,7 @@ The result is real intellectual achievement beside real arrogance. A student fro
 
 ## Learning and Faith
 
-Scholars from across the realms come to study with Therádon's philosophers, physicians and natural historians. The city's libraries hold some of the oldest written texts in western Ankaris, and its colonnades are full of students in dialectic with their teachers. The Panepistemium chapterhouse, part of the federation [[lore-panepistfnd|founded around 400 BF]], gives the city its standing as a place of study.
+Scholars from across the realms come to study with Therádon's philosophers, physicians and natural historians. The city's libraries hold some of the oldest written texts in western Ankaris, and its colonnades are full of students in dialectic with their teachers. The Plûmepistémion (the Academy of Knowledge) chapterhouse, part of the federation [[lore-panepistfnd|founded around 400 BF]], gives the city its standing as a place of study.
 
 The temples of the [[affiliation-arldnpnthn|Aurèldían pantheon]] keep high standards of ritual propriety, but the academy is the center of spiritual life, because the pursuit of wisdom is treated here as a sacred duty. Markets are orderly and regulated, and art and architecture are built to elevate the soul and sharpen the intellect. Therádon is sublime and stifling in the same afternoon: beauty and insight beside a narrow certainty about what counts as truth and a proper life.
 
@@ -110,5 +110,5 @@ Therádon uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel
 - [[place-theradon2|Therádon]]—the city itself
 - [[skill-helonclng|Helonic]]—the naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the shared faith
-- [[affiliation-panepistmm|Panepistemium]]—the scholarly federation
+- [[affiliation-panepistmm|Plûmepistémion]]—the scholarly federation
 - [[lore-dragondead|The Dragon Dead at Therádon]]

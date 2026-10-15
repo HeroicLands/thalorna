@@ -9,4 +9,4 @@ tags: [draft]
 data: {culture: aureldianclt, packFolder: deitiesaureldian}
 ---
 
-Árdavon, the Keeper of the Gates, is the deity of order in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a dual-faced mask, one side serene and the other stern. Worship is kept in the [[affiliation-ardavon|Faith of Árdavon]], a temple priesthood of acolytes in training, ordained clergy and the Volsarn above them; the lay faithful keep the feasts without office.
+Árdavon, the Keeper of the Gates, is the deity of order in the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. The symbol is a dual-faced mask, one side serene and the other stern. Worship is kept in the [[affiliation-ardavon|Faith of Árdavon]], a temple priesthood of acolytes in training, ordained clergy and the Volsarnor above them; the lay faithful keep the feasts without office.

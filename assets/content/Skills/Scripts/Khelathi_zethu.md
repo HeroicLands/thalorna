@@ -31,7 +31,7 @@ The script is maintained by the priesthood, the royal scribes and the esoteric o
 
 ## Who has it
 
-Priests, royal scribes, initiates of the esoteric orders; a small fraction of the nobility, fewer than can read Qalezu. Foreign scholars occasionally, at the Panepistemium's expense and with the priesthood's grudging permission. Effectively nobody else—the gulf between those who read it and those who cannot is itself a marker of magical and social authority, and is maintained deliberately.
+Priests, royal scribes, initiates of the esoteric orders; a small fraction of the nobility, fewer than can read Qalezu. Foreign scholars occasionally, at the Plûmepistémion's expense and with the priesthood's grudging permission. Effectively nobody else—the gulf between those who read it and those who cannot is itself a marker of magical and social authority, and is maintained deliberately.
 
 ## In play
 

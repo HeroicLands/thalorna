@@ -26,7 +26,7 @@ The party is hired by:
 
 - A scholar or antiquarian seeking knowledge of the ancients
 - A noble seeking to expand Provenzian prestige and power
-- The [[affiliation-ordoarcanis|Ordo Arcanis]], claiming authority to study arcane artifacts
+- The [[affiliation-ordoarcanis|Thôrdimâlon]], claiming authority to study arcane artifacts
 - A mysterious patron with their own hidden agenda
 
 **Initial Information:**
@@ -34,7 +34,7 @@ The party is hired by:
 - Sirmennë lies in remote, difficult terrain (mountains, forests, cursed lands)
 - Previous expeditions have vanished or returned traumatized and empty-handed
 - The Áelendan tribes fiercely protect the site and refuse all outsiders
-- The ruins are said to be warded by ancient magic far older than the Ordo's traditions
+- The ruins are said to be warded by ancient magic far older than the Arcane Order's traditions
 - An artifact recovered centuries ago caused unforeseen consequences for whoever possessed it
 
 **NPCs:**
@@ -96,7 +96,7 @@ The party must navigate the ruins, overcome obstacles, and locate the artifact(s
 - The artifact is secured (but what to do with it remains the question)
 - Knowledge of the ancient partnership between Áelendi and Sinalë is recovered
 - The party may have awakened attention from the Sinalë themselves (who may not appreciate disturbance)
-- Possession of the artifact brings interest from the [[affiliation-ordoarcanis|Ordo Arcanis]], foreign powers, and hidden factions
+- Possession of the artifact brings interest from the [[affiliation-ordoarcanis|Thôrdimâlon]], foreign powers, and hidden factions
 - The Áelendan tribes' reaction depends on how the party treated them and what was disturbed
 
 **Consequences of the Artifact:**
@@ -121,5 +121,5 @@ The party must navigate the ruins, overcome obstacles, and locate the artifact(s
 - [[affiliation-aelndntrbs|Áelendan Tribes]]
 - [[lore-flksinale|Sinalë]]
 - [[place-elavendre|Élavendre]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]
 - [[affiliation-arldnpnthn|Aurèldían]]

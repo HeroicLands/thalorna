@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Transmutation turns a substance into a different one for as long as the talent holds. The change lasts only while the talent does. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Ordo Arcanis]] looks for in the children it registers.
+Transmutation turns a substance into a different one for as long as the talent holds. The change lasts only while the talent does. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.

@@ -23,7 +23,7 @@ data:
 
 **The Song of the Nameless Jar** is a satire sung in the temple squares of the southern cities during the Festival of the Golden Harvest of [[affiliation-olvenia|Ólvenía]], when the merchants close their shops and the squares fill with singers. It is not sung at a table. The singers who sing it have no patron, which is why they can, and a síladòr with a patron does not have it in his book. Its maker is not known; the song gives itself to a singer who asked a question at a great house in the spring and was not asked back.
 
-Its subject is the quickened field at [[place-kyvarel|Kývarel]] ([[place-bldfldkyvarel|The Blood-field of Kývarel]]), whose ground grows the best fruit in the barony, and whose fruit goes into the finest conserves in the kingdom under no particular name. The song never names the field, the barony or the baron. It praises the conserve in every stanza, as a guest praises his host's table, and comes back every time to the one question a guest does not ask. Every compliment in it carries the charge.
+Its subject is the quickened field at [[place-kyvarel|Kivarèl]] ([[place-bldfldkyvarel|The Blood-field of Kivarèl]]), whose ground grows the best fruit in the barony, and whose fruit goes into the finest conserves in the kingdom under no particular name. The song never names the field, the barony or the baron. It praises the conserve in every stanza, as a guest praises his host's table, and comes back every time to the one question a guest does not ask. Every compliment in it carries the charge.
 
 : The Song of the Nameless Jar {#song}
 
@@ -101,8 +101,8 @@ which is his due. The rest of his due is leased.
 
 ## See Also
 
-- [[place-bldfldkyvarel|The Blood-field of Kývarel]]—the quickening, and the subject nobody raises at table
-- [[place-kyvarel|Kývarel]]—the barony in the western valleys
+- [[place-bldfldkyvarel|The Blood-field of Kivarèl]]—the quickening, and the subject nobody raises at table
+- [[place-kyvarel|Kivarèl]]—the barony in the western valleys
 - [[lore-bloodfields|The Blood-fields of Provènzia]]—torn ground, and the rite of settlement that works perhaps half the time
 - [[affiliation-olvenia|Faith of Ólvenía]]—the Golden Harvest and the offering of gain
 - [[affiliation-selmoros|Faith of Sélmoros]]—offerings of fruit past its ripeness, and the placing of the dead

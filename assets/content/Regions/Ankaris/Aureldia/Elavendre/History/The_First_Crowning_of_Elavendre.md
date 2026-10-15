@@ -3,7 +3,7 @@ shortcode: firstcrown
 name: {full: The First Crowning of Élavendre, aliases: [The Tree-Line Oath]}
 type: lore
 subType: history
-description: "About 560 BF the lowland houses of the Bérav basin acclaimed Táldoren of the house of Oréthan as king, and he went up to Eshálosha and swore that the crown's writ stops where the tribes' ground begins."
+description: "About 560 BF the lowland houses of the Bérav basin acclaimed Táldoren of the house of Oréthan as king, and he went up to Ésalosa and swore that the crown's writ stops where the tribes' ground begins."
 tags: [history]
 data:
   culture: elavendriclt
@@ -21,7 +21,7 @@ data:
         - place-eshalshldg
         - place-beravel
       summary: >-
-        The lowland houses of the Bérav basin, Áelendan by descent and long settled, acclaim Táldoren of the house of Oréthan as their king. His first act is to go up to Eshálosha on the Áelendan's invitation and swear that the crown's writ stops where the tribes' ground begins: no royal court hears a case against the tribes, no royal troops enter the mountains without leave, and the royal road ends where the Wardens' charge starts. The Bardic Circle and the Grove Council, already old, become the king's counsel.
+        The lowland houses of the Bérav basin, Áelendan by descent and long settled, acclaim Táldoren of the house of Oréthan as their king. His first act is to go up to Ésalosa on the Áelendan's invitation and swear that the crown's writ stops where the tribes' ground begins: no royal court hears a case against the tribes, no royal troops enter the mountains without leave, and the royal road ends where the Wardens' charge starts. The Bardic Circle and the Grove Council, already old, become the king's counsel.
       standing: attested
       names:
         - {name: the Tree-Line oath, by: affiliation-kngdmlvndr}
@@ -57,8 +57,8 @@ data:
             The crown rules by descent from the people of the Pact, and the oath is sworn at every crowning.
           agrees: full
       unresolved:
-        - whether the oath was drafted at Eshálosha or in the basin before the king went up
-        - which king the honor-song at Eshálosha names that the Colleges' lists do not
+        - whether the oath was drafted at Ésalosa or in the basin before the king went up
+        - which king the honor-song at Ésalosa names that the Colleges' lists do not
 ---
 
 Every monarch of Élavendre swears at the crowning that the crown stops at the tree line. The first king swore it in the mountains, on the Áelendan's ground, before he held a court.
@@ -67,11 +67,11 @@ Every monarch of Élavendre swears at the crowning that the crown stops at the t
 
 The people who came down out of the hills into the broad green basin of the [[place-beravriver|Bérav]] were Áelendan by descent, and they had long since stopped being Áelendan by habit. They farmed, they traded up and down the river, they built in stone, and they raised houses with names and genealogies that the bards of the day were glad to keep. By about 560 BF they wanted a king, and they acclaimed **Táldoren**, of the house of **Oréthan**, as king. He is the First Crowned.
 
-## The Oath at Eshálosha
+## The Oath at Ésalosa
 
-Before he held a court, Táldoren went up to [[place-eshalshldg|Eshálosha]]. The Áelendan had invited him, and the Lodge's hall received him under its fire. He told the assembled elders where the crown would stop, and he swore it. No royal court would hear a case against the tribes. No royal troops would enter the mountains without leave. The royal road would end where the Wardens' charge began. The elders heard it and accepted it.
+Before he held a court, Táldoren went up to [[place-eshalshldg|Ésalosa]]. The Áelendan had invited him, and the Lodge's hall received him under its fire. He told the assembled elders where the crown would stop, and he swore it. No royal court would hear a case against the tribes. No royal troops would enter the mountains without leave. The royal road would end where the Wardens' charge began. The elders heard it and accepted it.
 
-The place where the line runs is the tree line, and the oath is the Tree-Line oath. It has been sworn at the coronation of every Élavendren monarch since, in the basin and not at the Lodge, and the monarchs the Áelendan have invited up to Eshálosha since are few.
+The place where the line runs is the tree line, and the oath is the Tree-Line oath. It has been sworn at the coronation of every Élavendren monarch since, in the basin and not at the Lodge, and the monarchs the Áelendan have invited up to Ésalosa since are few.
 
 ## The Counsel
 
@@ -80,16 +80,16 @@ The [[affiliation-bardicolgs|Bardic Circle]] and the [[affiliation-groveconcl|Gr
 ## What It Left
 
 - **The Tree-Line oath,** sworn at every crowning, and the reason no royal magistrate, soldier or tax-collector enters Áelendan country without being asked ([[place-drenavrspn|The Drenavar Spine]]).
-- **The honor-song at Eshálosha.** The monarchs the Áelendan have invited to the Lodge are remembered in a song, and its list of kings does not match the Colleges' on one name ([[place-eshalshldg|Eshálosha Lodge]]).
+- **The honor-song at Ésalosa.** The monarchs the Áelendan have invited to the Lodge are remembered in a song, and its list of kings does not match the Colleges' on one name ([[place-eshalshldg|Ésalosa Lodge]]).
 - **A crown that rules by descent.** The right to the throne is the right of a house to say it comes from the Áelendan, and the houses of the kingdom have been proving it since.
-- **Béravel.** The king's court grew at the crossing of the Bérav, and the capital grew around the court ([[place-beravel|Béravel]]).
+- **Péravel.** The king's court grew at the crossing of the Bérav, and the capital grew around the court ([[place-beravel|Péravel]]).
 
 The kingdom is the oldest continuously governed realm in the west of Ankaris, older than the Empire by more than five centuries, and a good deal younger than the Pact.
 
 ## See Also
 
 - [[affiliation-kngdmlvndr|Kingdom of Élavendre]]—the realm the first crowning began
-- [[place-eshalshldg|Eshálosha Lodge]]—where the oath is sworn
+- [[place-eshalshldg|Ésalosa Lodge]]—where the oath is sworn
 - [[lore-lowestpoolpct|The Pact at the Lowest Pool]]—the older pact the oath defers to
 - [[lore-elvtribute|The Tribute of Élavendre]]—the oath's first test
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|The Grove Council]]

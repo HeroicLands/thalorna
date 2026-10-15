@@ -40,9 +40,9 @@ An Aelwythan can point to no island charter. A baron's inherited claim, a Synod 
 
 Each realm keeps its own founding object. Aldorath's barons keep a record in which the crown is their gift to a war-leader, and the chapel, hall and royal graves at [[place-kingsholow|Kingshollow]] hold the line of kings that gift began. Ondareth keeps the broken rock above Thornbury where the last king's castle stood, and the Senate's bordered mantles come from a description of a republic nobody on the island has seen. Dúnavarre keeps the empty chair of its last king at Ravenmoor, shown to every petitioner on the way in. The Crown Roads, fitted-stone causeways laid across the interior by an older kingdom, carry no law at all; the realms stand on land that came to humans because the elder races stopped, and none of their charters says so.
 
-The Synod of Ordo Arcanis mages is the only island institution with reliable knowledge of Aelwyth's place in the wider world. It governs Dúnavarre, advises every realm, and can withdraw those advisers. It keeps records of magical cargo inspected at Ravenmoor, but has not corrected its neighbors' inflated ideas of their own importance. Its schools and libraries make learning a source of standing in Dúnavarre; its secrecy and control also make it feared.
+The Synod of Thôrdimâlon (the Arcane Order) mages is the only island institution with reliable knowledge of Aelwyth's place in the wider world. It governs Dúnavarre, advises every realm, and can withdraw those advisers. It keeps records of magical cargo inspected at Ravenmoor, but has not corrected its neighbors' inflated ideas of their own importance. Its schools and libraries make learning a source of standing in Dúnavarre; its secrecy and control also make it feared.
 
-Almost nobody leaves the island. The mainland is a long, dangerous sail, and much of what arrives is second-hand and years old. Dúnavarre requires ships between Aelwyth and the mainland to call at Ravenmoor in both directions, where Ordo officers search for prohibited goods and record, examine or detain magical cargo. The Synod is not merely an observer of outside knowledge; it controls the island's narrowest gate to it.
+Almost nobody leaves the island. The mainland is a long, dangerous sail, and much of what arrives is second-hand and years old. Dúnavarre requires ships between Aelwyth and the mainland to call at Ravenmoor in both directions, where Arcane Order officers search for prohibited goods and record, examine or detain magical cargo. The Synod is not merely an observer of outside knowledge; it controls the island's narrowest gate to it.
 
 The land itself resists any neat island-wide order. Fae are strong in places in the deep interior forest and wilder north; realm borders bend around them, and people who live nearby organize their lives with those powers in mind. Grukar have endured in the island's ungoverned third for centuries and cannot be driven out. An Aelwythan may be badly informed about distant politics and still know which crossroads to avoid after dark.
 
@@ -94,7 +94,7 @@ The same bad year shows the island's limits. In Stormveld a thrall is fed throug
 
 ## Shelter, Teaching and Defense
 
-When a family cannot do these things the lord, the guild or the temple does. Nothing promises an orphan or a widow a roof; a relative, a neighbor, a temple willing to shelter them or a craft master who takes an apprentice may supply one. A craft master carries a trade's teaching further than a household can, Dúnavarre's Synod keeps schools and libraries, and the Panepistemium chapterhouses teach the gentry's children. Defense follows a person's place in the realm: a lord and his retinue for the manorial country, the citizen levy for Ondareth, the Synod's soldiers and the Order of the Just Blade for Dúnavarre, the war-chief and the clan for the Peshtar. The frontier steadings of the Wyndmarch and the Nordfells defend themselves against the Grukar and write off the farms the forest takes as a routine loss.
+When a family cannot do these things the lord, the guild or the temple does. Nothing promises an orphan or a widow a roof; a relative, a neighbor, a temple willing to shelter them or a craft master who takes an apprentice may supply one. A craft master carries a trade's teaching further than a household can, Dúnavarre's Synod keeps schools and libraries, and the Plûmepistémion (the Academy of Knowledge) chapterhouses teach the gentry's children. Defense follows a person's place in the realm: a lord and his retinue for the manorial country, the citizen levy for Ondareth, the Synod's soldiers and the Order of the Just Blade for Dúnavarre, the war-chief and the clan for the Peshtar. The frontier steadings of the Wyndmarch and the Nordfells defend themselves against the Grukar and write off the farms the forest takes as a routine loss.
 
 ## Household, Holding and Roll
 
@@ -108,7 +108,7 @@ Inheritance and marriage tie households into the realm's order. A baron's claim 
 - [[place-pshtrwldrns|Peshtar Wilderness]]—the distinct highland clans and their traditions
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods of the southern and eastern realms
 - [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the conquered plain
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the Synod and its mainland order
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the Synod and its mainland order
 - [[affiliation-selmoros|Faith of Sélmoros]]—death, funerals and the dead
 - [[lore-saelvricrusade|The Saelvri Crusade]]—what the Order of the Just Blade did in the Hushwood
 - [[lore-kingshlwcrwn|The Crowning at Kingshollow]]—the barons' gift of a crown
@@ -125,4 +125,4 @@ Every term of art these notes use. Aelwythans speak [[skill-aelwthlng|Aelwythi]]
 | thrall         | A person owned outright, who works the land and holds nothing                         |
 | trackstone     | A standing marker of the old trackways in the Peshtar country, older than the Peshtar |
 
-Ardin (Ard), Solden, Ogdel (Bit) and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl and bóndi are loanwords from [[lore-nordheimnclt#glossary|the Nordlands]].
+Ardin, Solden, Ogdel (Bit) and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl and bóndi are loanwords from [[lore-nordheimnclt#glossary|the Nordlands]].

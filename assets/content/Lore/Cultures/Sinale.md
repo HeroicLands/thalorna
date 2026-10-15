@@ -32,7 +32,7 @@ The date of their arrival, about 7500 BF, is held no more closely than a century
 
 The Sinalë are tall, slender and very long-lived, so long-lived that a generation, as humans mean the word, has no meaning for them. Humans find their beauty unsettling rather than attractive: too perfect, too still, too aware. Their kinship with the living world runs deeper than any human druidic tradition. It is not worship or reverence but something nearer to family, and the forests they inhabit answer it. Paths appear and vanish, distances shift, and the light changes in ways the angle of the sun does not explain.
 
-Their arts are not sorted into schools or set down in texts. The power is woven into their nature and cannot be separated from their songs, their craft and their relationship with the living world. The [[affiliation-ordoarcanis|Ordo Arcanis]] has tried at various points to study and classify it and has failed completely. The Sinalë find these attempts somewhere between amusing and insulting.
+Their arts are not sorted into schools or set down in texts. The power is woven into their nature and cannot be separated from their songs, their craft and their relationship with the living world. The [[affiliation-ordoarcanis|Thôrdimâlon]] has tried at various points to study and classify it and has failed completely. The Sinalë find these attempts somewhere between amusing and insulting.
 
 ## A People Who Sing
 
@@ -76,7 +76,7 @@ The result is that Élavendre's relationship with the Sinalë has two layers. Th
 - [[place-aelirosse|Aelirossë]], about a hundred and twenty Sinalë in the Silver Forests, is the closest to the Áelendan of any Sinalëan community in the world. Its dwellings are worked into living silver birch, and its Áelendan neighbors come and go without ceremony.
 - [[place-serenthale|Serenthalë]], about ninety Sinalë facing the western sea in Lírvë, is the oldest of the three and by far the most withdrawn. It keeps to itself even from the Áelendan. Contact is real, respectful and rare, and it happens at the enclave's initiative and nobody else's. No Áelendan guides anyone to it.
 
-The Áelendan Wardens patrol the approaches and turn the Ordo back at the tree line. The Áelendan regard the Ordo as intruders who study what the tribes exist to keep.
+The Áelendan Wardens patrol the approaches and turn the Arcane Order back at the tree line. The Áelendan regard the Arcane Order as intruders who study what the tribes exist to keep.
 
 ## Beyond Élavendre
 
@@ -118,7 +118,7 @@ Several things are held entirely inside the Sinalë and are not supplied here:
 
 ## What Passes Between Peoples
 
-Three groups stand on what the Sinalë give or withhold. The Áelendan carry their words and receive their songs. The Bardic Colleges sing the songs at three and four removes from any Sinalo who sang them. The Ordo Arcanis has an institutional interest in the answer to where magic came from: a tradition that was inherited rather than discovered has a source that might still be consulted.
+Three groups stand on what the Sinalë give or withhold. The Áelendan carry their words and receive their songs. The Bardic Colleges sing the songs at three and four removes from any Sinalo who sang them. The Thôrdimâlon (the Arcane Order) has an institutional interest in the answer to where magic came from: a tradition that was inherited rather than discovered has a source that might still be consulted.
 
 For a player, the one thing to understand first is that a character does not deal with the Sinalë. A character deals with the people the Sinalë trust to carry, and those people carry exactly. The [[doc-sinaleadvguide|Sinalë Adventurer's Guide]] covers what a stranger meets first, what gets a stranger into trouble, and the ways a campaign reaches them.
 

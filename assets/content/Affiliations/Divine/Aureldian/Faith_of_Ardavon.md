@@ -16,7 +16,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Volsarn above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 4 working tiers: acolytes in training, ordained clergy, and the Volsarnor above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Banar
@@ -39,11 +39,11 @@ data:
         description: >-
           Temple Judges—fifteen or twenty seniors of the Sarnal who oversee the major temples and form the priesthood's administrative body.
       - level: 5
-        title: Volsarn
+        title: Volsarnor
         description: >-
           High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
     offices:
-      Volsarn: >-
+      Volsarnor: >-
         High Judge and keeper of cosmic law; final arbiter of doctrine, whose counsel weighs on kings and city councils across western Ankaris.
       Sentan: >-
         Temple Judges—fifteen or twenty seniors of the Sarnal who oversee the major temples and form the priesthood's administrative body.
@@ -52,7 +52,7 @@ data:
       Acolytes of the Threshold: >-
         Initiates in training at a temple, learning the law before they may witness under it.
       Sarnal: >-
-        The administrative college of the Sentani, standing below the Volsarn.
+        The administrative college of the Sentani, standing below the Volsarnor.
       Volgel: >-
         The faith's knightly order.
   seat: null
@@ -81,9 +81,9 @@ Individual piety to Árdavon takes the form of adherence to a personal code of h
 
 ## Organization
 
-The priesthood of Árdavon is the most powerful and politically influential of any Aurèldían faith, second only to [[affiliation-sacredforge|The Sacred Forge]] in sheer institutional wealth and territorial control. At its head stands the **Volsarn**, the High Judge and keeper of cosmic law, a position of supreme ecclesiastical and often political authority. The Volsarn is final arbiter of Árdavan doctrine and maintains headquarters in the greatest temple, typically located in the capital city of whatever kingdom grants the faith its primary patronage. The current Volsarn, based in [[place-provenzrgn|Provènzia Region]], is a formidable figure whose counsel influences the decisions of kings and city councils across western Ankaris.
+The priesthood of Árdavon is the most powerful and politically influential of any Aurèldían faith, second only to [[affiliation-sacredforge|The Sacred Forge]] in sheer institutional wealth and territorial control. At its head stands the **Volsarnor**, the High Judge and keeper of cosmic law, a position of supreme ecclesiastical and often political authority. The Volsarnor is final arbiter of Árdavan doctrine and maintains headquarters in the greatest temple, typically located in the capital city of whatever kingdom grants the faith its primary patronage. The current Volsarnor, based in [[place-provenzrgn|Provènzia Region]], is a formidable figure whose counsel influences the decisions of kings and city councils across western Ankaris.
 
-Below the Volsarn stands the **Sarnal**, a body of perhaps fifteen to twenty senior **Sentani**—Temple Judges—who oversee the major temples and serve as the priesthood's administrative body. These individuals are chosen for both theological knowledge and judicial wisdom, and they often serve as royal judges, interpreters of law, and settlement arbiters in disputes between nobles. A Sentan in a major city commands respect approaching that of a local lord, and their judgments carry weight in both religious and secular domains.
+Below the Volsarnor stands the **Sarnal**, a body of perhaps fifteen to twenty senior **Sentani**—Temple Judges—who oversee the major temples and serve as the priesthood's administrative body. These individuals are chosen for both theological knowledge and judicial wisdom, and they often serve as royal judges, interpreters of law, and settlement arbiters in disputes between nobles. A Sentan in a major city commands respect approaching that of a local lord, and their judgments carry weight in both religious and secular domains.
 
 The **Volsari**, ordained priests scattered throughout cities and settlements, form the middle tier of the priesthood. These priests maintain local temples, witness oaths and contracts, perform ceremonies of blessing and condemnation, and serve as spiritual counselors to the devout. Many Volsari serve dual roles as royal advisors or military chaplains, bringing the authority of Árdavon into battlefields and courts.
 

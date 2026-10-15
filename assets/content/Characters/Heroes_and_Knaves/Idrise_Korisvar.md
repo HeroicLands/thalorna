@@ -1,6 +1,6 @@
 ---
 shortcode: idriskrsvr
-name: {full: Ídrisè Kórisvar, given: Ídrisè, clan: Kórisvar, aliases: []}
+name: {full: Ídrisë Kórisvar, given: Ídrisë, clan: Kórisvar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -411,9 +411,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[idriskrsvr|Ídrisè Kórisvar]]{float=top-left}
+![[idriskrsvr|Ídrisë Kórisvar]]{float=top-left}
 
-Ídrisè stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, and angular cheeks.
+Ídrisë stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, and angular cheeks.
 
 # Dossier {#dossier}
 
@@ -421,27 +421,27 @@ sohl:
 
 ### The Foundling
 
-Ídrisè's earliest memory is of cold stone and the sound of chanting. She was raised in the Shrine of **Brâzêmâs the Stormkeeper**, in the Kingdom of [[affiliation-kngdmprvnz|Provènzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrisè trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
+Ídrisë's earliest memory is of cold stone and the sound of chanting. She was raised in the Shrine of **Brâzêmâs the Stormkeeper**, in the Kingdom of [[affiliation-kngdmprvnz|Provènzia]], by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrisë trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
 
 ### The Training and the Breaking
 
-At sixteen, the shrine was attacked by bandits seeking to loot the treasury. Ídrisè fought alongside the elder monks and proved herself devastatingly effective. In the aftermath, as the wounded were tended and the dead were mourned, the shrine's hierarchy made a decision: Ídrisè was too dangerous to keep cloistered. She was sent into the world with the monks' blessing to become what she was born to become—a protector, a warrior, a tool of the god's will. The transition from the spiritual discipline of the shrine to the brutal pragmatism of the mercenary world was deeply disorienting.
+At sixteen, the shrine was attacked by bandits seeking to loot the treasury. Ídrisë fought alongside the elder monks and proved herself devastatingly effective. In the aftermath, as the wounded were tended and the dead were mourned, the shrine's hierarchy made a decision: Ídrisë was too dangerous to keep cloistered. She was sent into the world with the monks' blessing to become what she was born to become—a protector, a warrior, a tool of the god's will. The transition from the spiritual discipline of the shrine to the brutal pragmatism of the mercenary world was deeply disorienting.
 
 ### Current Path
 
-For the last decade, Ídrisè has worked as an independent bodyguard in Provènzia's major cities, though she maintains loose affiliation with the Mercenaries Guild for contract purposes. She has developed a sterling reputation for absolute reliability and lethality, taking contracts only with clients whose goals she can morally accept. Her rates are high, and her services in constant demand. Yet she is deeply disconnected from normal human life—she moves through the world aware of lines of attack and exit routes, unable to simply exist without weighing danger.
+For the last decade, Ídrisë has worked as an independent bodyguard in Provènzia's major cities, though she maintains loose affiliation with the Mercenaries Guild for contract purposes. She has developed a sterling reputation for absolute reliability and lethality, taking contracts only with clients whose goals she can morally accept. Her rates are high, and her services in constant demand. Yet she is deeply disconnected from normal human life—she moves through the world aware of lines of attack and exit routes, unable to simply exist without weighing danger.
 
 ## Psyche
 
 ### Personality
 
-Ídrisè is reserved to the point of austerity, speaking only when necessary and rarely about anything beyond the work at hand. Her humor, when it emerges, is dry and often dark—laughing at absurdities that others might find horrifying. She is not unfriendly, but she maintains emotional walls so high that even those she has worked with for years describe her as distant. She has learned through painful experience that attachments create vulnerabilities, and vulnerabilities get people killed.
+Ídrisë is reserved to the point of austerity, speaking only when necessary and rarely about anything beyond the work at hand. Her humor, when it emerges, is dry and often dark—laughing at absurdities that others might find horrifying. She is not unfriendly, but she maintains emotional walls so high that even those she has worked with for years describe her as distant. She has learned through painful experience that attachments create vulnerabilities, and vulnerabilities get people killed.
 
 She is, however, a deeply ethical individual. She will not take contracts to harm the innocent, refuses to work for obviously corrupt nobility, and has walked away from lucrative work when she discovered the true nature of what she was being asked to do. This rigid morality, combined with her lethal competence, makes her rare—a killer with a conscience, which some see as contradiction and others as deep integrity.
 
 ### Motivation
 
-Ídrisè is driven by a need to protect, rooted in the spiritual training of the shrine but complicated by her observation that most people are not worthy of protection—they pursue petty ambitions and hurt those weaker than themselves. Still, she continues working because the act of preventing harm is the closest she comes to feeling meaningful purpose. There is also a deeper motivation she seldom acknowledges: she seeks redemption for the damage she causes, attempting to balance the scales by protecting innocent lives from those who would prey upon them.
+Ídrisë is driven by a need to protect, rooted in the spiritual training of the shrine but complicated by her observation that most people are not worthy of protection—they pursue petty ambitions and hurt those weaker than themselves. Still, she continues working because the act of preventing harm is the closest she comes to feeling meaningful purpose. There is also a deeper motivation she seldom acknowledges: she seeks redemption for the damage she causes, attempting to balance the scales by protecting innocent lives from those who would prey upon them.
 
 ### Strengths
 
@@ -466,10 +466,10 @@ She is, however, a deeply ethical individual. She will not take contracts to har
 ### Patrons
 
 Duke Reginald Stormthorne
-: A minor nobleman of real virtue who has employed Ídrisè multiple times for protection work. He respects her integrity and has become one of the few people whose company she actively seeks rather than merely tolerates.
+: A minor nobleman of real virtue who has employed Ídrisë multiple times for protection work. He respects her integrity and has become one of the few people whose company she actively seeks rather than merely tolerates.
 
 Lady Merchant Selena Goldleaf
-: A wealthy trader specializing in luxury goods who employs Ídrisè for high-value escort work. Their working relationship has extended into something approaching friendship, though Ídrisè would never use that word.
+: A wealthy trader specializing in luxury goods who employs Ídrisë for high-value escort work. Their working relationship has extended into something approaching friendship, though Ídrisë would never use that word.
 
 The Shrine of Brâzêmâs
 : The monks who raised her remain her deepest loyalty. Though she no longer practices their faith in any formal way, she maintains a connection to the community and would move mountains to protect them.
@@ -477,13 +477,13 @@ The Shrine of Brâzêmâs
 ### Enemies
 
 The Red Syndicate
-: A criminal organization that attempted to force Ídrisè into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
+: A criminal organization that attempted to force Ídrisë into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
 
 Lord Úrnath the Cruel
-: A nobleman whose cruelty toward servants and dependents violated every principle Ídrisè holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
+: A nobleman whose cruelty toward servants and dependents violated every principle Ídrisë holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while keeping her distance.
 
 Her own past, an inner enemy
-: In her younger years as a mercenary, before she developed her current moral code, Ídrisè took contracts whose purposes she now regrets. She wonders if any of her former victims or their families will one day come seeking revenge.
+: In her younger years as a mercenary, before she developed her current moral code, Ídrisë took contracts whose purposes she now regrets. She wonders if any of her former victims or their families will one day come seeking revenge.
 
 ### Affiliations
 
@@ -495,12 +495,12 @@ The Shrine of Brâzêmâs
 
 ## Plot Hooks
 
-1. **The Mirror in the Storm**: Ídrisè is hired to protect **Lord Dálren Mórlineth**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Dálren is convinced he is being hunted by a hired assassin. As Ídrisè investigates, she discovers that the shadow is actually **Myrrh**, another warrior trained at the Shrine of Brâzêmâs decades before Ídrisè was born. Myrrh claims to be hunting Dálren for a dark secret in his past, and asks Ídrisè to stand aside. Her loyalty to her client is set against her respect for a sister from the Shrine, and she does not truly know her employer's past.
+1. **The Mirror in the Storm**: Ídrisë is hired to protect **Lord Dálren Mórlineth**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Dálren is convinced he is being hunted by a hired assassin. As Ídrisë investigates, she discovers that the shadow is actually **Myrrh**, another warrior trained at the Shrine of Brâzêmâs decades before Ídrisë was born. Myrrh claims to be hunting Dálren for a dark secret in his past, and asks Ídrisë to stand aside. Her loyalty to her client is set against her respect for a sister from the Shrine, and she does not truly know her employer's past.
 
-2. **The Forbidden Vow**: Ídrisè falls into an unexpected relationship with **Kiran**, a merchant's daughter, over the course of a multi-month contract protecting the merchant's household. It is the first real emotional connection Ídrisè has allowed herself in years. When the contract ends, Kiran asks Ídrisè to abandon her mercenary life and simply be with her. At the same moment, the Shrine of Brâzêmâs calls upon Ídrisè for a critical mission—monks are being kidnapped and experimented upon by a dark sorcerer seeking to create a new form of warrior-slave. Ídrisè's training and combat skills are desperately needed. She is forced to choose between the personal happiness she has never allowed herself and the duty that defines her entire existence.
+2. **The Forbidden Vow**: Ídrisë falls into an unexpected relationship with **Kiran**, a merchant's daughter, over the course of a multi-month contract protecting the merchant's household. It is the first real emotional connection Ídrisë has allowed herself in years. When the contract ends, Kiran asks Ídrisë to abandon her mercenary life and simply be with her. At the same moment, the Shrine of Brâzêmâs calls upon Ídrisë for a critical mission—monks are being kidnapped and experimented upon by a dark sorcerer seeking to create a new form of warrior-slave. Ídrisë's training and combat skills are desperately needed. She is forced to choose between the personal happiness she has never allowed herself and the duty that defines her entire existence.
 
-3. **The Assassin's Interrogation**: Ídrisè captures an assassin who was sent to kill one of her clients. Rather than execute him, she interrogates him and is shocked to learn that the employer is not the person she suspected; it is someone from deep within the mercenary underworld. The assassin reveals the existence of a secret network of warrior-slaves—people like Ídrisè, trained from childhood but kept under magical compulsion to obey their handlers. The assassin himself claims he was once free but was captured years ago. He begs Ídrisè to help him break free of his magical bonds and promises to help her understand whether the shrine's training methods, however benign, contained traces of the same dark magic.
+3. **The Assassin's Interrogation**: Ídrisë captures an assassin who was sent to kill one of her clients. Rather than execute him, she interrogates him and is shocked to learn that the employer is not the person she suspected; it is someone from deep within the mercenary underworld. The assassin reveals the existence of a secret network of warrior-slaves—people like Ídrisë, trained from childhood but kept under magical compulsion to obey their handlers. The assassin himself claims he was once free but was captured years ago. He begs Ídrisë to help him break free of his magical bonds and promises to help her understand whether the shrine's training methods, however benign, contained traces of the same dark magic.
 
-4. **The Shrine's Dark Secret**: The monks of the Shrine of Brâzêmâs call Ídrisè home urgently. When she arrives, she discovers that one of the senior monks, **Master Írnald**, has begun performing mysterious rituals and seems to be attempting to create warrior-slaves similar to the ones the captured assassin described. Some among the monks believe this is necessary to defend against great evils coming; others want to stop him. Ídrisè is confronted with the possibility that her entire upbringing may have been preparation for purposes she never fully understood, and that the place she considered sanctuary may have been complicit in creating a system of magical slavery.
+4. **The Shrine's Dark Secret**: The monks of the Shrine of Brâzêmâs call Ídrisë home urgently. When she arrives, she discovers that one of the senior monks, **Master Írnald**, has begun performing mysterious rituals and seems to be attempting to create warrior-slaves similar to the ones the captured assassin described. Some among the monks believe this is necessary to defend against great evils coming; others want to stop him. Ídrisë is confronted with the possibility that her entire upbringing may have been preparation for purposes she never fully understood, and that the place she considered sanctuary may have been complicit in creating a system of magical slavery.
 
-5. **The Replacement**: A new warrior, **Cassian**, arrives in the city with a reputation nearly matching Ídrisè's own. Within days, Cassian begins taking contracts that would normally come to Ídrisè. Unlike other competitors, Cassian seems to know her methods and can counter her approaches. When Ídrisè finally confronts him, she is stunned to recognize her own mirror image—Cassian is a double created through magical means, deliberately crafted to match her abilities. Someone has stolen her very substance and created a replacement, and Cassian claims to be the "true" version while suggesting that Ídrisè is the copy. As Ídrisè unravels this mystery, she must question everything about her own origins and who she is.
+5. **The Replacement**: A new warrior, **Cassian**, arrives in the city with a reputation nearly matching Ídrisë's own. Within days, Cassian begins taking contracts that would normally come to Ídrisë. Unlike other competitors, Cassian seems to know her methods and can counter her approaches. When Ídrisë finally confronts him, she is stunned to recognize her own mirror image—Cassian is a double created through magical means, deliberately crafted to match her abilities. Someone has stolen her very substance and created a replacement, and Cassian claims to be the "true" version while suggesting that Ídrisë is the copy. As Ídrisë unravels this mystery, she must question everything about her own origins and who she is.

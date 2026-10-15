@@ -429,7 +429,7 @@ Théldina rents a private cabin aboard the Tamzîr and maintains her independenc
 
 ### Personality
 
-Théldina is poised, witty, and socially devastating. She navigates conversation the way Féthar navigates reefs—with instinctive precision and a deceptive appearance of ease. She is cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
+Théldina is poised, witty, and socially devastating. She navigates conversation the way Fethàr navigates reefs—with instinctive precision and a deceptive appearance of ease. She is cultured, deeply intelligent, and capable of making anyone feel like the most important person in the room. But beneath the charm is a fierce independence and a will of steel. She does not tolerate being talked down to, she maintains strict boundaries around her profession, and she can deliver a cutting remark with a smile that does not reach her eyes.
 
 ### Motivation
 
@@ -461,6 +461,6 @@ Licensed companion of the **Academy of the Silver Veil** (Heliónis). Passenger 
 
 1. **The Silver Veil's Reach**: A message arrives for Théldina from the Academy—a summons she cannot easily refuse. The Academy wants something from her, and their request may conflict with the Tamzîr's interests. Théldina must choose between the institution that made her and the ragged family she has unexpectedly found.
 
-2. **A Client's Dangerous Secret**: One of Théldina's former clients contacts her desperately, claiming to possess information about the Ordo Arcanis that could protect Cibella Tamaro—but only if Théldina agrees to a meeting in a Vylarian port city crawling with imperial agents. The information may be real, a trap, or both.
+2. **A Client's Dangerous Secret**: One of Théldina's former clients contacts her desperately, claiming to possess information about the Thôrdimâlon (the Arcane Order) that could protect [[being-cibelasrnt|Kivellâ Serênthis]]—but only if Théldina agrees to a meeting in a Vylarian port city crawling with imperial agents. The information may be real, a trap, or both.
 
 3. **The Mask Slips**: During a crisis aboard the Tamzîr, Théldina reveals combat skills and tactical knowledge that go far beyond what a courtesan—even a well-trained one—should possess. The crew begins to question who Théldina really is, and whether her presence aboard the ship is truly coincidental.

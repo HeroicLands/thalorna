@@ -14,7 +14,7 @@ Arvel, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills]] on 
 
 ## The Hill and the Empire
 
-A newcomer to Ôrzâra learns the hill by what is closed to them. The Inner City is the one quarter shut to the common crowd, given over to priests, senators, soldiers and magistrates, and the [[affiliation-panepistmm|Panepistemium]] keeps its small inner compound and its restricted library on the summit, within the citadel. Look up from the Platan District on a clear morning and the palace seems to grow out of the rock itself. The first Ôrzâs walled the crown in the Empire's founding age and moved the Senate up to it from [[place-antel|Antel]] ([[lore-eaglecityrse|The Raising of the Eagle City]]).
+A newcomer to Ôrzâra learns the hill by what is closed to them. The Inner City is the one quarter shut to the common crowd, given over to priests, _kurthândoi_ (senators), soldiers and magistrates, and the [[affiliation-panepistmm|Plûmepistémion]] keeps its small inner compound and its restricted library on the summit, within the citadel. Look up from the Platan District on a clear morning and the palace seems to grow out of the rock itself. The first Ôrzâs walled the crown in the Empire's founding age and moved the Senate up to it from [[place-antel|Antel]] ([[lore-eaglecityrse|The Raising of the Eagle City]]).
 
 ## The Sealed Eyrie
 

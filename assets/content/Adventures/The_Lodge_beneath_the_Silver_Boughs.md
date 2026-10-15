@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-An envoy carrying a sealed casket to [[place-eshalshldg|Eshálosha Lodge]] has gone missing on the road beside the [[place-hntrsrng|Hunter's Ring]], and the casket with him. Thieves pried the silver from the ring's boundary stones on their way through, and the stones they overturned have let the ring's hunter out of its bounds. A Warden takes the party in to find the envoy. The wood closes behind them, and the hunter takes the one who is alone. The one survivor in the keepers' lodge tells the party the hunter took the envoy's Warden first, and the hunter, which can only say what its prey said, tells the party something else.
+An envoy carrying a sealed casket to [[place-eshalshldg|Ésalosa Lodge]] has gone missing on the road beside the [[place-hntrsrng|Hunter's Ring]], and the casket with him. Thieves pried the silver from the ring's boundary stones on their way through, and the stones they overturned have let the ring's hunter out of its bounds. A Warden takes the party in to find the envoy. The wood closes behind them, and the hunter takes the one who is alone. The one survivor in the keepers' lodge tells the party the hunter took the envoy's Warden first, and the hunter, which can only say what its prey said, tells the party something else.
 
 ## Overview
 
 The Hunter's Ring is a ring of carved boundary stones on the outer margin of the [[place-silvrfrsts|Silver Forests]], holding the ground of a fae hunter the [[affiliation-alndnwrdns|Wardens]] call _súldinno_. Inside the stones it may take whatever walks there; outside them it may take nothing. It takes one at a time, and always the one who is alone. It hangs what it takes in woven branches in a moonlit clearing at the ring's heart, and it walks in the shapes and calls in the voices of those it has taken.
 
-The envoy **Dévrik Véldarin** was traveling the road under the escort of the Warden **Ástheren**, carrying a silver casket for the great council at Eshálosha. A band of lowland poachers under **Véndrik Óthral** robbed them on the road at dusk, took the casket, and fled uphill into the ring, prying the silver bands off the stones as they went. With four stones down, the hunter's ground has no edge. It has taken most of the thieves, and the envoy, and Ástheren is dead. One poacher, **Nórven Hálren**, is holed up in the old keepers' lodge with a wound in his side, and has not slept for two nights.
+The envoy **Dévrik Véldarin** was traveling the road under the escort of the Warden **Ástheren**, carrying a silver casket for the great council at Ésalosa. A band of lowland poachers under **Véndrik Óthral** robbed them on the road at dusk, took the casket, and fled uphill into the ring, prying the silver bands off the stones as they went. With four stones down, the hunter's ground has no edge. It has taken most of the thieves, and the envoy, and Ástheren is dead. One poacher, **Nórven Hálren**, is holed up in the old keepers' lodge with a wound in his side, and has not slept for two nights.
 
 The Warden **Sírgana** of the Tírindi, Ástheren's partner on the road, has come to find them. She has sense enough to know that a Warden alone in the ring is prey, and the party is her company.
 
@@ -91,7 +91,7 @@ Once the reveal lands, the party is no longer only finding an envoy. Sírgana wa
 
 Pick the entry that suits the hero. Each leads to the lodge with Sírgana.
 
-- **The thief.** A fence in [[place-beravel|Béravel]] has paid poachers for silver bands of an old pattern and wants the rest of their haul, said to include a jeweled casket. He sends the thief to meet them on the envoys' road, and a Warden meets the thief first and offers a choice of company.
+- **The thief.** A fence in [[place-beravel|Péravel]] has paid poachers for silver bands of an old pattern and wants the rest of their haul, said to include a jeweled casket. He sends the thief to meet them on the envoys' road, and a Warden meets the thief first and offers a choice of company.
 - **The mercenary or common soldier.** The royal house hires a few blades to support the Warden escort, since an envoy is missing and the crown wants its own witnesses. Sírgana takes them, and says plainly that they go in as her company or not at all.
 - **The leader.** The envoy is the leader's kinsman, friend or rival, and the casket carries the crown's word to the Lodge. The leader goes to the Wardens' post on the road and asks, which is the only way a lowlander enters that country.
 - **The lone wanderer.** The wanderer is on the road at dusk when a Warden steps out of the trees, looks at the wanderer for a long moment, and asks for company for one night. She does not say why one companion is better than none.
@@ -263,11 +263,11 @@ At first light, Sírgana walks the party down to the envoys' road, intending to 
 
 **Player choices.**
 
-- _Keep faith:_ give the casket to Sírgana unopened. She returns it to the envoy, and the envoy carries it to Eshálosha.
+- _Keep faith:_ give the casket to Sírgana unopened. She returns it to the envoy, and the envoy carries it to Ésalosa.
 - _Open the casket:_ it holds the crown's word to the great council, a folded letter under seal, and a cloak-clasp of Áelendan silver work. The clasp is meant for the party's reward. Opening the casket is a breach that Sírgana reports.
 - _Keep the silver:_ the bands from the stones belong to the stones. A party that kept some back has left a stone unbanded, and Sírgana knows which.
 - _Bargain:_ Véndrik's pack is the thieves' haul from before the road: gemstones from a lowland strongroom and coin-silver. Sírgana lets the party keep it, since it is no part of the wood.
-- _Decide Nórven:_ hand him to Sírgana at the road, let him slip away into the lowland before the Wardens' post, or take him on to the crown's people at Eshálosha and argue for him.
+- _Decide Nórven:_ hand him to Sírgana at the road, let him slip away into the lowland before the Wardens' post, or take him on to the crown's people at Ésalosa and argue for him.
 
 **Clues and rewards.**
 
@@ -276,17 +276,17 @@ At first light, Sírgana walks the party down to the envoys' road, intending to 
 - The **clasp** the Lodge sends for the party's service: a cloak-clasp of Áelendan silver cut with the mark of the ring's stones, a closed line with one gap. A Warden who sees it passes its wearer through Warden ground with a word. The Wardens' song says a thing of the wood that keeps the marks passes such a wearer by, and does not say more.
 - The gear of the hunter's older prey, from the roots, if the party searched: an old knife of good steel, a rotted pack with a lowland coin-purse, a horn.
 
-**Consequences.** The envoy reaches Eshálosha. The party is known to the Wardens of that stretch of road, for good or ill.
+**Consequences.** The envoy reaches Ésalosa. The party is known to the Wardens of that stretch of road, for good or ill.
 
 **If bypassed, failed or cut short.** A party that fled the ring without the casket hears within the season that the Wardens set the stones and recovered it from the roots. The reward goes to whoever brought out the envoy. A party that left the ring open is not welcome on the road again.
 
 ## Aftermath
 
 - **If the stones were set and the captives brought out,** the ring is whole, the paths are straight, and the Wardens owe the party.
-- **If Nórven was left in the ring,** he hangs in the clearing until the hunter tires of him, and on still dusks the charcoal-burners of Sóurimael hear two voices in the trees above the road, one asking for the spear to be put up and one refusing. The Wardens count the matter closed, and the party has the thanks of Ástheren's kin.
+- **If Nórven was left in the ring,** he hangs in the clearing until the hunter tires of him, and on still dusks the charcoal-burners of Sóurimel hear two voices in the trees above the road, one asking for the spear to be put up and one refusing. The Wardens count the matter closed, and the party has the thanks of Ástheren's kin.
 - **If Nórven came out alive and was handed to the Wardens,** the Elder Wardens of the territory hear Sírgana and the party, and at the next dusk Nórven is walked into the ring alone. The crown's magistrates do not interfere, since the killing was done on Warden ground.
 - **If Nórven came out alive and the party let him go,** he does not come back to the lodge, and the Wardens of that road want the party's account of why. Sírgana gives hers first.
-- **If Nórven came out alive and the party argued for him at Eshálosha,** the council hears that he killed in terror of a thing his own band let loose, and the Wardens hear the party speak for the man who killed one of theirs. Neither forgets it.
+- **If Nórven came out alive and the party argued for him at Ésalosa,** the council hears that he killed in terror of a thing his own band let loose, and the Wardens hear the party speak for the man who killed one of theirs. Neither forgets it.
 - **If the stones were set with someone else still inside,** that person hangs in the clearing until the hunter tires of them, and the Wardens sing them into the song.
 - **If the ring was left open,** the hunter's ground runs farther along the broken line each night, and the envoys' road is closed until the Wardens find enough company to set the stones.
 - **If the casket was opened,** the crown's word to the Lodge reaches the council broken, and the crown hears from the Lodge about it.
@@ -295,6 +295,6 @@ At first light, Sírgana walks the party down to the envoys' road, intending to 
 
 - [[place-hntrsrng|The Hunter's Ring]]—the stones, the lodge and the clearing
 - [[place-hntrsrng#truth|The truth of the Hunter's Ring]]—what happened at the lodge door
-- [[place-silvrfrsts|The Silver Forests]] · [[place-eshalshldg|Eshálosha Lodge]] · [[place-sorvanda|Sórvanda]]
+- [[place-silvrfrsts|The Silver Forests]] · [[place-eshalshldg|Ésalosa Lodge]] · [[place-sorvanda|Sórvanda]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—Sírgana and her order
 - [[lore-faecourts|The Fae Courts]]—what the wood's hunters are said to answer to

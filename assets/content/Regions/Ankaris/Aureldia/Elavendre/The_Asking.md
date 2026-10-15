@@ -480,7 +480,7 @@ You did not ask. We did not say.
 beneath a cairn, beside the way.
 
 You found a valley, high and still.
-  You built Eshálosha in oak
+  You built Ésalosa in oak
   and stone. No birch. The first hearth-smoke
 went up. We watched it from the hill.
 
@@ -911,25 +911,25 @@ it anyway. It is good bread.
 
 The song keeps the Áelendan names as the Áelendan say them and the Sinalë names as the Sinalë say them.
 
-| Name         | Who or what                                                                                                                                          |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Dhárgan**  | The herdsman who led the migration, sat four days at the wood's edge and died old at Eshálosha; later his descendant, chief at the fires on the pass |
-| **Néla**     | Dhárgan's daughter, the lamb over Nélgan, who made the asking at the Stair and was the first Tradition Keeper after him                              |
-| **Sîlor**    | The band's shaman, whose grass-country forms fail on the fae, who makes the Pact at the lowest pool                                                  |
-| **Ánsel**    | Dhárgan's son, who sat down in the snow and was called out                                                                                           |
-| **Dránketh** | Dhárgan's other son, kept by the fog at Thalve in the Lean Year                                                                                      |
-| **Tála**     | Néla's grandchild, who enlarged the fox's share in the song                                                                                          |
-| **Ghálmir**  | The chief of the Black Snow year, who felled the stand and pulled the watch, and was made Kinless                                                    |
-| **Môgha**    | Ghálmir's sister, a Tradition Keeper, who led the return                                                                                             |
-| **Dûlthân**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                     |
-| **Nélgan**   | The eastern pass, also called the Snow-Gate                                                                                                          |
-| **Haulera**  | The eldest of the Sinalë of Lonvu, she who said "the sea", once a guest in the makers' halls                                                         |
-| **Lauva**    | The Sinalë whose care is the pool, who ate the bread                                                                                                 |
-| **Vilmë**    | Dhárgan's epithet in the Sinalë tongue, "the one who sat", withheld until the song's close                                                           |
-| **Lonvu**    | The Silver Forests, as the Sinalë name them                                                                                                          |
-| **Mallonna** | The deep pool Lauva keeps, a thin place in water                                                                                                     |
-| **Tehy**     | The clearing round the one tree                                                                                                                      |
-| **Thalve**   | The fog-hollow thin place at the wood's edge                                                                                                         |
+| Name         | Who or what                                                                                                                                        |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dhárgan**  | The herdsman who led the migration, sat four days at the wood's edge and died old at Ésalosa; later his descendant, chief at the fires on the pass |
+| **Néla**     | Dhárgan's daughter, the lamb over Nélgan, who made the asking at the Stair and was the first Tradition Keeper after him                            |
+| **Sîlor**    | The band's shaman, whose grass-country forms fail on the fae, who makes the Pact at the lowest pool                                                |
+| **Ánsel**    | Dhárgan's son, who sat down in the snow and was called out                                                                                         |
+| **Dránketh** | Dhárgan's other son, kept by the fog at Thalve in the Lean Year                                                                                    |
+| **Tála**     | Néla's grandchild, who enlarged the fox's share in the song                                                                                        |
+| **Ghálmir**  | The chief of the Black Snow year, who felled the stand and pulled the watch, and was made Kinless                                                  |
+| **Môgha**    | Ghálmir's sister, a Tradition Keeper, who led the return                                                                                           |
+| **Dûlthân**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                   |
+| **Nélgan**   | The eastern pass, also called the Snow-Gate                                                                                                        |
+| **Haulera**  | The eldest of the Sinalë of Lonvu, she who said "the sea", once a guest in the makers' halls                                                       |
+| **Lauva**    | The Sinalë whose care is the pool, who ate the bread                                                                                               |
+| **Vilmë**    | Dhárgan's epithet in the Sinalë tongue, "the one who sat", withheld until the song's close                                                         |
+| **Lonvu**    | The Silver Forests, as the Sinalë name them                                                                                                        |
+| **Mallonna** | The deep pool Lauva keeps, a thin place in water                                                                                                   |
+| **Tehy**     | The clearing round the one tree                                                                                                                    |
+| **Thalve**   | The fog-hollow thin place at the wood's edge                                                                                                       |
 
 ## See Also
 

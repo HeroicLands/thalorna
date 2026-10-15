@@ -49,27 +49,27 @@ The highland masculine and feminine fell together as the animate gender, and the
 
 ### Fields
 
-| Field                                 | What it holds                                                                                                                                                                                                      |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| The house and the old blood           | The noble house and the descent it claims, kin, the clan name and the earned name, inheritance and fosterage, and the old words the houses trace themselves through.                                               |
-| The land in keeping                   | The land a house keeps, the field and the store, the herds and the horse, the count and the harvest, and the duty of stewardship.                                                                                  |
-| The bard and the word                 | Song and the singer, recitation and the record, memory and lore, the word and the stave, the Veldirno and the inscription.                                                                                         |
-| The art and the thin places           | Magic and its practice, the veil and the places it wears thin, spirits, the fae, wards, dreams and visions, the seer, and the druid of the grove.                                                                  |
-| The Pact, the oath and the judgment   | The Pact and the oath, the vow and the curse, the council and its judgment, outlawry and forfeit, custom, the hallowing of a place, and the keeper.                                                                |
-| The hall and the guest                | The hall and its fire, the seating, the giver of the feast, guest-right and welcome, bread, friendship and accord, and the lamp.                                                                                   |
-| Light, sky and the turning year       | The sun, the moon and the stars, the day and the month, the hours of the light, the seasons and the long ages.                                                                                                     |
-| The wood and its weather              | The trees, the grove and the stand, leaf and seed, moss and berries, the deer and the wolf, the river and the spring, the lake, wind, rain and frost.                                                              |
-| Mountain, water and stone             | Snow and winter, the valley and the tarn, the torrent, water and the rock basin, white stone and the dressed stone, the pillar, the island and the eagle.                                                          |
-| The body and the dead                 | Blood, wounds and healers, living and dying, the cairn and the grave field, death, grief, the lament, the lingering spirit and the binder of the dead.                                                             |
-| Arms and the border                   | Fighting and war, peace, the leader, spear, shield, bow and knife, the hill fort and the held pass.                                                                                                                |
-| Craft, coin and the market            | The forge and the hammer, the metals and glass, the work and the master, the trading ground, the price, the weight and the scale, weaving and the knot.                                                            |
-| The crown, the law and the University | The words the kingdom took from the empire in the centuries of vassalage and after: the law, the court and the charter, the tax and the province, the coin, the school, the University and the grades of the Ordo. |
-| Doing, going and being                | The verbs of ordinary speech, cited by the infinitive.                                                                                                                                                             |
-| Numbers and grammar words             | The numbers, the pronouns, the article and the particles.                                                                                                                                                          |
+| Field                                 | What it holds                                                                                                                                                                                                       |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The house and the old blood           | The noble house and the descent it claims, kin, the clan name and the earned name, inheritance and fosterage, and the old words the houses trace themselves through.                                                |
+| The land in keeping                   | The land a house keeps, the field and the store, the herds and the horse, the count and the harvest, and the duty of stewardship.                                                                                   |
+| The bard and the word                 | Song and the singer, recitation and the record, memory and lore, the word and the stave, the Veldirno and the inscription.                                                                                          |
+| The art and the thin places           | Magic and its practice, the veil and the places it wears thin, spirits, the fae, wards, dreams and visions, the seer, and the druid of the grove.                                                                   |
+| The Pact, the oath and the judgment   | The Pact and the oath, the vow and the curse, the council and its judgment, outlawry and forfeit, custom, the hallowing of a place, and the keeper.                                                                 |
+| The hall and the guest                | The hall and its fire, the seating, the giver of the feast, guest-right and welcome, bread, friendship and accord, and the lamp.                                                                                    |
+| Light, sky and the turning year       | The sun, the moon and the stars, the day and the month, the hours of the light, the seasons and the long ages.                                                                                                      |
+| The wood and its weather              | The trees, the grove and the stand, leaf and seed, moss and berries, the deer and the wolf, the river and the spring, the lake, wind, rain and frost.                                                               |
+| Mountain, water and stone             | Snow and winter, the valley and the tarn, the torrent, water and the rock basin, white stone and the dressed stone, the pillar, the island and the eagle.                                                           |
+| The body and the dead                 | Blood, wounds and healers, living and dying, the cairn and the grave field, death, grief, the lament, the lingering spirit and the binder of the dead.                                                              |
+| Arms and the border                   | Fighting and war, peace, the leader, spear, shield, bow and knife, the hill fort and the held pass.                                                                                                                 |
+| Craft, coin and the market            | The forge and the hammer, the metals and glass, the work and the master, the trading ground, the price, the weight and the scale, weaving and the knot.                                                             |
+| The crown, the law and the University | The words the kingdom took from the empire in the centuries of vassalage and after: the law, the court and the charter, the tax and the province, the coin, the school, the University and the grades of the Order. |
+| Doing, going and being                | The verbs of ordinary speech, cited by the infinitive.                                                                                                                                                              |
+| Numbers and grammar words             | The numbers, the pronouns, the article and the particles.                                                                                                                                                           |
 
 ## Sounds and spelling
 
-Élavendri is written in these pages as its own scribes write it in the [[skill-semrnscrpt|Sêmarion]], with one acute over the stressed vowel of every word, which is the first vowel of the root. It writes no circumflex, because it keeps no long vowel: every long vowel it inherited became a diphthong or a short vowel. A word's last vowel, unless it is _-a_, is the reduced _ë_, written with its two dots so that it is said and not swallowed.
+Élavendri is written in these pages as its own scribes write it in the [[skill-semrnscrpt|Sêmarôn]], with one acute over the stressed vowel of every word, which is the first vowel of the root. It writes no circumflex, because it keeps no long vowel: every long vowel it inherited became a diphthong or a short vowel. A word's last vowel, unless it is _-a_, is the reduced _ë_, written with its two dots so that it is said and not swallowed.
 
 ### Letters
 
@@ -134,7 +134,7 @@ The Sinalë words ride the same table, and many of them come back toward their S
 
 ## The learned words
 
-The imperial words came with the clerks in the centuries of vassalage and with the [[skill-semrnscrpt|Sêmarion]] and the University after. A learned word keeps its imperial shape more than an inherited one does: it loses its masculine ending and its long vowels, reduces its last vowel to _ë_, and takes the stress on its first syllable, but it keeps `b`, `f` and `z`, which no inherited word has. Several stand beside the inherited form of the same root: the inherited _lóuresand_ is a reciter who keeps a house's records in his head, and the learned _lórezand_ is a lecturer at the University.
+The imperial words came with the clerks in the centuries of vassalage and with the [[skill-semrnscrpt|Sêmarôn]] and the University after. A learned word keeps its imperial shape more than an inherited one does: it loses its masculine ending and its long vowels, reduces its last vowel to _ë_, and takes the stress on its first syllable, but it keeps `b`, `f` and `z`, which no inherited word has. Several stand beside the inherited form of the same root: the inherited _lóuresand_ is a reciter who keeps a house's records in his head, and the learned _lórezand_ is a lecturer at the University.
 
 ### Vylari loans
 
@@ -201,7 +201,7 @@ Land is a duty and not a possession. A lord who lets his people go hungry has fa
 
 Poetry is how a house's history is held, how a prophecy is passed on and how a judgment is made memorable enough to bind, and the bard's words are the oldest in the tongue's care. _Sóurimand_, a singer, is the highland singer at the gathering grown into a court officer; _lóuresand_, a reciter, is the highland Tradition Keeper, and in the lowlands he keeps a house's records in the head. A satire composed by a bard of standing is a weapon the law recognizes, and it is made of these words.
 
-The letters came twice. The rune-row is still cut for magic and old poetry, and its staves are _shéimarson_. Everything else is written in the empire's [[skill-semrnscrpt|Sêmarion]], whose letter is _sémarzon_, the same word borrowed back from the coast.
+The letters came twice. The rune-row is still cut for magic and old poetry, and its staves are _shéimarson_. Everything else is written in the empire's [[skill-semrnscrpt|Sêmarôn]], whose letter is _sémarzon_, the same word borrowed back from the coast.
 
 | Form          | Source                 | Class | Gloss                                                                    | Built from | Attested                                                |
 | ------------- | ---------------------- | ----- | ------------------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
@@ -503,38 +503,38 @@ The craft words are inherited, and the coin words came from the empire with its 
 
 ### The crown, the law and the University
 
-For centuries the kingdom owed the empire service, and the words of that service came north with the imperial clerks and stayed: the law, _vórnon_, the charter, _záktela_, the tax farmer, _sóhatand_. They are the only words in the tongue with `b`, `f` or `z`, and the three letters mark a clerk's word. The University and the [[affiliation-ordoarcanis|Ordo Arcanis]] brought a second band, and the kingdom treats the Ordo as a rival to be balanced, licensed and argued with, in the Ordo's own words: a lecturer is _lórezand_, the learned twin of the highland _lóuresand_, a reciter.
+For centuries the kingdom owed the empire service, and the words of that service came north with the imperial clerks and stayed: the law, _vórnon_, the charter, _záktela_, the tax farmer, _sóhatand_. They are the only words in the tongue with `b`, `f` or `z`, and the three letters mark a clerk's word. The University and the [[affiliation-ordoarcanis|Thôrdimâlon]] brought a second band, and the kingdom treats the Order as a rival to be balanced, licensed and argued with, in the Order's own words: a lecturer is _lórezand_, the learned twin of the highland _lóuresand_, a reciter.
 
-| Form            | Source                  | Class | Gloss                                  | Built from | Attested |
-| --------------- | ----------------------- | ----- | -------------------------------------- | ---------- | -------- |
-| `vórnon`        | vylari:`vôrnon`         | n in  | a law; a statute                       | —          | —        |
-| `vórnalon`      | vylari:`vôrnâlon`       | n in  | the law; the whole of the written law  | —          | —        |
-| `thízaron`      | vylari:`thîzâron`       | n in  | a seal on a written act                | —          | —        |
-| `záktela`       | vylari:`zâktêlâ`        | n in  | a charter                              | —          | —        |
-| `séheralon`     | vylari:`sêkhêrâlon`     | n in  | an inquisition                         | —          | —        |
-| `órzalon`       | vylari:`ôrzâlon`        | n in  | the empire                             | —          | —        |
-| `zílmara`       | vylari:`zilmârâ`        | n in  | a vote of the empire's Senate          | —          | —        |
-| `tálkalon`      | vylari:`tâlkâlon`       | n in  | an imperial magistracy                 | —          | —        |
-| `távand`        | vylari:`tâvândôs`       | n an  | a consul of the empire                 | —          | —        |
-| `thérhalon`     | vylari:`thêrkhâlon`     | n in  | a province of the empire               | —          | —        |
-| `sóhatand`      | vylari:`sôkhatândôs`    | n an  | a tax farmer                           | —          | —        |
-| `félzand`       | vylari:`phêlzândôs`     | n an  | an envoy of the empire                 | —          | —        |
-| `élthezas`      | vylari:`elthêzâs`       | n in  | the gold coin                          | —          | —        |
-| `ánhraz`        | vylari:`ankhrâzôs`      | n in  | the silver coin                        | —          | —        |
-| `fézumalon`     | vylari:`phêzûmâlon`     | n in  | interest on a loan                     | —          | —        |
-| `nézora`        | vylari:`nêzôrâ`         | n in  | a debt                                 | —          | —        |
-| `fírsamis`      | vylari:`phirsâmis`      | n in  | a note of hand                         | —          | —        |
-| `sémarzon`      | vylari:`sêmarzon`       | n in  | a letter of the Sêmarion               | —          | —        |
-| `thílandon`     | vylari:`thîlândon`      | n in  | a book                                 | —          | —        |
-| `thílandalon`   | vylari:`thîlândâlon`    | n in  | an archive                             | —          | —        |
-| `márendalon`    | vylari:`mârendâlon`     | n in  | a school of the Ordo or the University | —          | —        |
-| `zétmarendalon` | vylari:`zêtmârendâlon`  | n in  | the University                         | —          | —        |
-| `lórezand`      | vylari:`lôrêzândôs`     | n an  | a lecturer                             | —          | —        |
-| `thérmand`      | vylari:`thêrmândôs`     | n an  | an adept of the Ordo                   | —          | —        |
-| `hólmarendand`  | vylari:`hôlmârendândôs` | n an  | a prelate of the Ordo                  | —          | —        |
-| `zúlethalon`    | vylari:`zûlêthâlon`     | n in  | a fellowship of the Ordo               | —          | —        |
-| `zálvon`        | vylari:`zalvon`         | n in  | the imperial cult                      | —          | —        |
-| `kúrzalis`      | vylari:`kûrzâlis`       | n in  | an altar of the imperial cult          | —          | —        |
+| Form            | Source                  | Class | Gloss                                   | Built from | Attested |
+| --------------- | ----------------------- | ----- | --------------------------------------- | ---------- | -------- |
+| `vórnon`        | vylari:`vôrnon`         | n in  | a law; a statute                        | —          | —        |
+| `vórnalon`      | vylari:`vôrnâlon`       | n in  | the law; the whole of the written law   | —          | —        |
+| `thízaron`      | vylari:`thîzâron`       | n in  | a seal on a written act                 | —          | —        |
+| `záktela`       | vylari:`zâktêlâ`        | n in  | a charter                               | —          | —        |
+| `séheralon`     | vylari:`sêkhêrâlon`     | n in  | an inquisition                          | —          | —        |
+| `órzalon`       | vylari:`ôrzâlon`        | n in  | the empire                              | —          | —        |
+| `zílmara`       | vylari:`zilmârâ`        | n in  | a vote of the empire's Senate           | —          | —        |
+| `tálkalon`      | vylari:`tâlkâlon`       | n in  | an imperial magistracy                  | —          | —        |
+| `távand`        | vylari:`tâvândôs`       | n an  | a consul of the empire                  | —          | —        |
+| `thérhalon`     | vylari:`thêrkhâlon`     | n in  | a province of the empire                | —          | —        |
+| `sóhatand`      | vylari:`sôkhatândôs`    | n an  | a tax farmer                            | —          | —        |
+| `félzand`       | vylari:`phêlzândôs`     | n an  | an envoy of the empire                  | —          | —        |
+| `élthezas`      | vylari:`elthêzâs`       | n in  | the gold coin                           | —          | —        |
+| `ánhraz`        | vylari:`ankhrâzôs`      | n in  | the silver coin                         | —          | —        |
+| `fézumalon`     | vylari:`phêzûmâlon`     | n in  | interest on a loan                      | —          | —        |
+| `nézora`        | vylari:`nêzôrâ`         | n in  | a debt                                  | —          | —        |
+| `fírsamis`      | vylari:`phirsâmis`      | n in  | a note of hand                          | —          | —        |
+| `sémarzon`      | vylari:`sêmarzon`       | n in  | a letter of the Sêmarôn                 | —          | —        |
+| `thílandon`     | vylari:`thîlândon`      | n in  | a book                                  | —          | —        |
+| `thílandalon`   | vylari:`thîlândâlon`    | n in  | an archive                              | —          | —        |
+| `márendalon`    | vylari:`mârendâlon`     | n in  | a school of the Order or the University | —          | —        |
+| `zétmarendalon` | vylari:`zêtmârendâlon`  | n in  | the University                          | —          | —        |
+| `lórezand`      | vylari:`lôrêzândôs`     | n an  | a lecturer                              | —          | —        |
+| `thérmand`      | vylari:`thêrmândôs`     | n an  | an adept of the Order                   | —          | —        |
+| `hólmarendand`  | vylari:`hôlmârendândôs` | n an  | a prelate of the Order                  | —          | —        |
+| `zúlethalon`    | vylari:`zûlêthâlon`     | n in  | a fellowship of the Order               | —          | —        |
+| `zálvon`        | vylari:`zalvon`         | n in  | the imperial cult                       | —          | —        |
+| `kúrzalis`      | vylari:`kûrzâlis`       | n in  | an altar of the imperial cult           | —          | —        |
 
 ### Doing, going and being
 
@@ -595,8 +595,8 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 
 | Name                                         | Notes                                                                                                                                              | Tongue          | Built from |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------- |
-| **Aelithra**                                 | [[being-aelithraenewyn\|Aelithra Enéwyn]]                                                                                                          | `elavendri`     | —          |
-| **Enéwyn**                                   | [[being-aelithraenewyn\|Aelithra Enéwyn]]                                                                                                          | `elavendri`     | —          |
+| **Áelithra**                                 | [[being-aelithraenewyn\|Áelithra Énevin]]                                                                                                          | `elavendri`     | —          |
+| **Énevin**                                   | [[being-aelithraenewyn\|Áelithra Énevin]]                                                                                                          | `elavendri`     | —          |
 | **Áelendan Wardens**                         | [[affiliation-alndnwrdns\|Áelendan Wardens]]                                                                                                       | `translation`   | —          |
 | **The Wardens**                              | [[affiliation-alndnwrdns\|Áelendan Wardens]]                                                                                                       | `translation`   | —          |
 | **Guardians of the Pact**                    | [[affiliation-alndnwrdns\|Áelendan Wardens]]                                                                                                       | `translation`   | —          |
@@ -610,56 +610,56 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Initiate**                                 | [[affiliation-groveconcl\|The Grove Council]]                                                                                                      | `translation`   | —          |
 | **Grovekeeper**                              | [[affiliation-groveconcl\|The Grove Council]]                                                                                                      | `translation`   | —          |
 | **Grove-Elder**                              | [[affiliation-groveconcl\|The Grove Council]]                                                                                                      | `translation`   | —          |
-| **Ályra**                                    | [[being-alyrklmrth\|Ályra Kálmereth]]                                                                                                              | `elavendri`     | —          |
-| **Kálmereth**                                | [[being-alyrklmrth\|Ályra Kálmereth]]                                                                                                              | `elavendri`     | —          |
-| **Arévyn**                                   | [[being-arevynlydr\|Arévyn Llýdar]]                                                                                                                | `elavendri`     | —          |
-| **Llýdar**                                   | [[being-arevynlydr\|Arévyn Llýdar]]                                                                                                                | `elavendri`     | —          |
-| **Elýsè**                                    | [[being-elyseskyrn\|Elýsè Skýrn]]                                                                                                                  | `elavendri`     | —          |
-| **Skýrn**                                    | [[being-elyseskyrn\|Elýsè Skýrn]]                                                                                                                  | `elavendri`     | —          |
-| **Gârlen**                                   | [[being-garlendhrl\|Gârlen Dhárel]]                                                                                                                | `elavendri`     | —          |
-| **Dhárel**                                   | [[being-garlendhrl\|Gârlen Dhárel]]                                                                                                                | `elavendri`     | —          |
-| **Ídrisè**                                   | [[being-idriskrsvr\|Ídrisè Kórisvar]]                                                                                                              | `elavendri`     | —          |
-| **Kórisvar**                                 | [[being-idriskrsvr\|Ídrisè Kórisvar]]                                                                                                              | `elavendri`     | —          |
-| **Párthun**                                  | [[being-prthnblthl\|Párthun Bélthal]]                                                                                                              | `elavendri`     | —          |
-| **Bélthal**                                  | [[being-prthnblthl\|Párthun Bélthal]], [[being-tarelblthl\|Tárellia Bélthal]], [[being-veldrblthl\|Véldor Bélthal]]                                | `elavendri`     | —          |
+| **Álira**                                    | [[being-alyrklmrth\|Álira Kálmereth]]                                                                                                              | `elavendri`     | —          |
+| **Kálmereth**                                | [[being-alyrklmrth\|Álira Kálmereth]]                                                                                                              | `elavendri`     | —          |
+| **Árevin**                                   | [[being-arevynlydr\|Árevin Lídren]]                                                                                                                | `elavendri`     | —          |
+| **Lídren**                                   | [[being-arevynlydr\|Árevin Lídren]]                                                                                                                | `elavendri`     | —          |
+| **Élithë**                                   | [[being-elyseskyrn\|Élithë Sárneth]]                                                                                                               | `elavendri`     | —          |
+| **Sárneth**                                  | [[being-elyseskyrn\|Élithë Sárneth]]                                                                                                               | `elavendri`     | —          |
+| **Gárlen**                                   | [[being-garlendhrl\|Gárlen Dhárel]]                                                                                                                | `elavendri`     | —          |
+| **Dhárel**                                   | [[being-garlendhrl\|Gárlen Dhárel]]                                                                                                                | `elavendri`     | —          |
+| **Ídrisë**                                   | [[being-idriskrsvr\|Ídrisë Kórisvar]]                                                                                                              | `elavendri`     | —          |
+| **Kórisvar**                                 | [[being-idriskrsvr\|Ídrisë Kórisvar]]                                                                                                              | `elavendri`     | —          |
+| **Párthun**                                  | [[being-prthnblthl\|Párthun Pélthal]]                                                                                                              | `elavendri`     | —          |
+| **Pélthal**                                  | [[being-prthnblthl\|Párthun Pélthal]], [[being-tarelblthl\|Tárella Pélthal]], [[being-veldrblthl\|Véldor Pélthal]]                                 | `elavendri`     | —          |
 | **Ránthor**                                  | [[being-rnthrprdln\|Ránthor Párdalen]]                                                                                                             | `elavendri`     | —          |
 | **Párdalen**                                 | [[being-rnthrprdln\|Ránthor Párdalen]]                                                                                                             | `elavendri`     | —          |
-| **Sevion**                                   | [[being-sevnmyrkls\|Sevion Myrkelis]]                                                                                                              | `elavendri`     | —          |
-| **Myrkelis**                                 | [[being-sevnmyrkls\|Sevion Myrkelis]]                                                                                                              | `elavendri`     | —          |
-| **Tárellia**                                 | [[being-tarelblthl\|Tárellia Bélthal]]                                                                                                             | `elavendri`     | —          |
-| **Véldor**                                   | [[being-veldrblthl\|Véldor Bélthal]]                                                                                                               | `elavendri`     | —          |
+| **Sévren**                                   | [[being-sevnmyrkls\|Sévren Mírkelis]]                                                                                                              | `elavendri`     | —          |
+| **Mírkelis**                                 | [[being-sevnmyrkls\|Sévren Mírkelis]]                                                                                                              | `elavendri`     | —          |
+| **Tárella**                                  | [[being-tarelblthl\|Tárella Pélthal]]                                                                                                              | `elavendri`     | —          |
+| **Véldor**                                   | [[being-veldrblthl\|Véldor Pélthal]]                                                                                                               | `elavendri`     | —          |
 | **Áleren Párdalen**                          | [[being-alernprdln\|Áleren Párdalen]]                                                                                                              | `elavendri`     | —          |
-| **Bélrik Fálwyn**                            | [[being-belrkflwyn\|Bélrik Fálwyn]]                                                                                                                | `elavendri`     | —          |
-| **Bélrik Tárvenel**                          | [[being-belrktrvnl\|Bélrik Tárvenel]]                                                                                                              | `elavendri`     | —          |
-| **Bréthar Sálthar**                          | [[being-brthrslthr\|Bréthar Sálthar]]                                                                                                              | `elavendri`     | —          |
-| **Brýnael Fálwyn**                           | [[being-brynlflwyn\|Brýnael Fálwyn]]                                                                                                               | `elavendri`     | —          |
-| **Dárya Náredh**                             | [[being-daryanardh\|Dárya Náredh]]                                                                                                                 | `elavendri`     | —          |
-| **Déraen Kálmereth**                         | [[being-dernklmrth\|Déraen Kálmereth]]                                                                                                             | `elavendri`     | —          |
+| **Mélrik Sálvin**                            | [[being-belrkflwyn\|Mélrik Sálvin]]                                                                                                                | `elavendri`     | —          |
+| **Mélrik Tárvenel**                          | [[being-belrktrvnl\|Mélrik Tárvenel]]                                                                                                              | `elavendri`     | —          |
+| **Dréthar Sálthar**                          | [[being-brthrslthr\|Dréthar Sálthar]]                                                                                                              | `elavendri`     | —          |
+| **Drínel Sálvin**                            | [[being-brynlflwyn\|Drínel Sálvin]]                                                                                                                | `elavendri`     | —          |
+| **Dárva Náreth**                             | [[being-daryanardh\|Dárva Náreth]]                                                                                                                 | `elavendri`     | —          |
+| **Déren Kálmereth**                          | [[being-dernklmrth\|Déren Kálmereth]]                                                                                                              | `elavendri`     | —          |
 | **Dháran Véldarin**                          | [[being-dharnvldrn\|Dháran Véldarin]]                                                                                                              | `elavendri`     | —          |
-| **Émyna Óthral**                             | [[being-emynaothrl\|Émyna Óthral]]                                                                                                                 | `elavendri`     | —          |
-| **Êrmyn Véldarin**                           | [[being-ermynvldrn\|Êrmyn Véldarin]]                                                                                                               | `elavendri`     | —          |
-| **Féthar Óthral**                            | [[being-fetharthrl\|Féthar Óthral]]                                                                                                                | `elavendri`     | —          |
-| **Glýenna Cárdeth**                          | [[being-glyencrdth\|Glýenna Cárdeth]]                                                                                                              | `elavendri`     | —          |
-| **Hâlira Náredh**                            | [[being-haliranrdh\|Hâlira Náredh]]                                                                                                                | `elavendri`     | —          |
-| **Ívelyn Zálreth**                           | [[being-ivlynzlrth\|Ívelyn Zálreth]]                                                                                                               | `elavendri`     | —          |
-| **Jéthra Llýdar**                            | [[being-jethralydr\|Jéthra Llýdar]]                                                                                                                | `elavendri`     | —          |
-| **Kélyra Sálthar**                           | [[being-kelyrslthr\|Kélyra Sálthar]]                                                                                                               | `elavendri`     | —          |
-| **Khôrn Hálren**                             | [[being-khornhalrn\|Khôrn Hálren]]                                                                                                                 | `elavendri`     | —          |
-| **Llénar Cárdeth**                           | [[being-lenarcrdth\|Llénar Cárdeth]]                                                                                                               | `elavendri`     | —          |
-| **Mália Náredh**                             | [[being-malianardh\|Mália Náredh]]                                                                                                                 | `elavendri`     | —          |
-| **Méthra Zálreth**                           | [[being-methrzlrth\|Méthra Zálreth]]                                                                                                               | `elavendri`     | —          |
-| **Óvelyn Sálthar**                           | [[being-ovlynslthr\|Óvelyn Sálthar]]                                                                                                               | `elavendri`     | —          |
-| **Pália Véldarin**                           | [[being-paliavldrn\|Pália Véldarin]]                                                                                                               | `elavendri`     | —          |
-| **Párthun Cárdeth**                          | [[being-prthncrdth\|Párthun Cárdeth]]                                                                                                              | `elavendri`     | —          |
+| **Émina Óthral**                             | [[being-emynaothrl\|Émina Óthral]]                                                                                                                 | `elavendri`     | —          |
+| **Érmin Véldarin**                           | [[being-ermynvldrn\|Érmin Véldarin]]                                                                                                               | `elavendri`     | —          |
+| **Héthar Óthral**                            | [[being-fetharthrl\|Héthar Óthral]]                                                                                                                | `elavendri`     | —          |
+| **Lýenna Kárdeth**                           | [[being-glyencrdth\|Lýenna Kárdeth]]                                                                                                               | `elavendri`     | —          |
+| **Hálira Náreth**                            | [[being-haliranrdh\|Hálira Náreth]]                                                                                                                | `elavendri`     | —          |
+| **Ívelin Sálreth**                           | [[being-ivlynzlrth\|Ívelin Sálreth]]                                                                                                               | `elavendri`     | —          |
+| **Jéthra Lídren**                            | [[being-jethralydr\|Jéthra Lídren]]                                                                                                                | `elavendri`     | —          |
+| **Kélvira Sálthar**                          | [[being-kelyrslthr\|Kélvira Sálthar]]                                                                                                              | `elavendri`     | —          |
+| **Hóren Hálren**                             | [[being-khornhalrn\|Hóren Hálren]]                                                                                                                 | `elavendri`     | —          |
+| **Lénor Kárdeth**                            | [[being-lenarcrdth\|Lénor Kárdeth]]                                                                                                                | `elavendri`     | —          |
+| **Málsa Náreth**                             | [[being-malianardh\|Málsa Náreth]]                                                                                                                 | `elavendri`     | —          |
+| **Méthra Sálreth**                           | [[being-methrzlrth\|Méthra Sálreth]]                                                                                                               | `elavendri`     | —          |
+| **Óvelin Sálthar**                           | [[being-ovlynslthr\|Óvelin Sálthar]]                                                                                                               | `elavendri`     | —          |
+| **Pálva Véldarin**                           | [[being-paliavldrn\|Pálva Véldarin]]                                                                                                               | `elavendri`     | —          |
+| **Párthun Kárdeth**                          | [[being-prthncrdth\|Párthun Kárdeth]]                                                                                                              | `elavendri`     | —          |
 | **Pórena Dhárel**                            | [[being-porenadhrl\|Pórena Dhárel]]                                                                                                                | `elavendri`     | —          |
-| **Rhália Zálreth**                           | [[being-rhalizlrth\|Rhália Zálreth]]                                                                                                               | `elavendri`     | —          |
+| **Rálva Sálreth**                            | [[being-rhalizlrth\|Rálva Sálreth]]                                                                                                                | `elavendri`     | —          |
 | **Sárena Párdalen**                          | [[being-sarenprdln\|Sárena Párdalen]]                                                                                                              | `elavendri`     | —          |
 | **Sédrik Mórlineth**                         | [[being-sdrkmrlnth\|Sédrik Mórlineth]]                                                                                                             | `elavendri`     | —          |
 | **Táldor Kálmereth**                         | [[being-tldrklmrth\|Táldor Kálmereth]]                                                                                                             | `elavendri`     | —          |
 | **Thálrik Hálren**                           | [[being-thalrkhlrn\|Thálrik Hálren]]                                                                                                               | `elavendri`     | —          |
-| **Thóren Bélthal**                           | [[being-thornblthl\|Thóren Bélthal]]                                                                                                               | `elavendri`     | —          |
-| **Vélaria Óthral**                           | [[being-velarithrl\|Vélaria Óthral]]                                                                                                               | `elavendri`     | —          |
-| **Yálith Kálmereth**                         | [[being-ylthklmrth\|Yálith Kálmereth]]                                                                                                             | `elavendri`     | —          |
+| **Thóren Pélthal**                           | [[being-thornblthl\|Thóren Pélthal]]                                                                                                               | `elavendri`     | —          |
+| **Vélthra Óthral**                           | [[being-velarithrl\|Vélthra Óthral]]                                                                                                               | `elavendri`     | —          |
+| **Jálith Kálmereth**                         | [[being-ylthklmrth\|Jálith Kálmereth]]                                                                                                             | `elavendri`     | —          |
 | **Élavendri**                                | [[lore-elavendriclt\|Élavendri]], [[lore-elavendrnppl\|Élavendren People]], [[skill-elvndrlng\|Élavendri Language]]                                | `elavendri`     | —          |
 | **Áelendan People**                          | [[lore-aelendnppl\|Áelendan People]]                                                                                                               | `translation`   | —          |
 | **People of the Pact**                       | [[lore-aelendnppl\|Áelendan People]]                                                                                                               | `translation`   | —          |
@@ -689,10 +689,10 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **The Drenavar**                             | [[place-drenavrspn\|The Drenavar Spine]]                                                                                                           | `translation`   | —          |
 | **Drenavar Mountains**                       | [[place-drenavrspn\|The Drenavar Spine]]                                                                                                           | `translation`   | —          |
 | **Elanmere**                                 | [[place-elanmere\|Elanmere]]                                                                                                                       | `elavendri`     | —          |
-| **Eshálosha Lodge**                          | [[place-eshalshldg\|Eshálosha Lodge]]                                                                                                              | `translation`   | —          |
-| **Eshálosha**                                | [[place-eshalshldg\|Eshálosha Lodge]]                                                                                                              | `other:aelendi` | —          |
+| **Ésalosa Lodge**                            | [[place-eshalshldg\|Ésalosa Lodge]]                                                                                                                | `translation`   | —          |
+| **Ésalosa**                                  | [[place-eshalshldg\|Ésalosa Lodge]]                                                                                                                | `other:aelendi` | —          |
 | **Ethalossë**                                | [[place-ethalosse\|Ethalossë]]                                                                                                                     | `other:sinale`  | —          |
-| **Sóurimael**                                | [[place-sourimael\|Sóurimael]]                                                                                                                     | `elavendri`     | —          |
+| **Sóurimel**                                 | [[place-sourimael\|Sóurimel]]                                                                                                                      | `elavendri`     | —          |
 | **The Silver Forests**                       | [[place-silvrfrsts\|The Silver Forests]]                                                                                                           | `translation`   | —          |
 | **The Ûron Tékhi**                           | [[place-urontekhi\|The Ûron Tékhi]], [[lore-uronspr\|The Ûron Tékhi]]                                                                              | `translation`   | —          |
 | **The Tékhi**                                | [[place-urontekhi\|The Ûron Tékhi]]                                                                                                                | `translation`   | —          |
@@ -704,7 +704,7 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **The Bardic Circle**                        | [[affiliation-bardicolgs\|The Bardic Colleges]]                                                                                                    | `translation`   | —          |
 | **Áuldalon**                                 | [[place-auldalon\|Áuldalon]]                                                                                                                       | `elavendri`     | —          |
 | **Kélpasi**                                  | [[place-kelpasi\|Kélpasi]]                                                                                                                         | `other:aelendi` | —          |
-| **Valdûn**                                   | [[place-valdun\|Valdûn]]                                                                                                                           | `elavendri`     | —          |
+| **Váldun**                                   | [[place-valdun\|Váldun]]                                                                                                                           | `elavendri`     | —          |
 | **Líserë**                                   | [[place-lisere\|Líserë]]                                                                                                                           | `elavendri`     | —          |
 | **Líserë Bay**                               | [[place-liserebay\|Líserë Bay]]                                                                                                                    | `translation`   | —          |
 | **Élavendre**                                | [[place-elavendre\|Élavendre]]                                                                                                                     | `elavendri`     | —          |
@@ -712,9 +712,9 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Élavendren People**                        | [[lore-elavendrnppl\|Élavendren People]]                                                                                                           | `translation`   | —          |
 | **Élavendren**                               | [[lore-elavendrnppl\|Élavendren People]]                                                                                                           | `elavendri`     | —          |
 | **The Fae Courts**                           | [[lore-faecourts\|The Fae Courts]]                                                                                                                 | `translation`   | —          |
-| **Cárdeth**                                  | [[place-cardeth\|Cárdeth]]                                                                                                                         | `elavendri`     | —          |
+| **Kárdeth**                                  | [[place-cardeth\|Kárdeth]]                                                                                                                         | `elavendri`     | —          |
 | **Lírvë**                                    | [[place-lirve\|Lírvë]]                                                                                                                             | `elavendri`     | —          |
-| **Héligstrom**                               | [[place-heligstrom\|Héligstrom]]                                                                                                                   | `elavendri`     | —          |
+| **Hélithron**                                | [[place-heligstrom\|Hélithron]]                                                                                                                    | `elavendri`     | —          |
 | **Liranel**                                  | [[place-liranel\|Liranel]]                                                                                                                         | `elavendri`     | —          |
 | **Port Aelion**                              | [[place-portaelion\|Port Aelion]]                                                                                                                  | `translation`   | —          |
 | **Serenthalë**                               | [[place-serenthale\|Serenthalë]]                                                                                                                   | `other:sinale`  | —          |
@@ -777,7 +777,7 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Táldoren**                                 | [[lore-firstcrown\|The First Crowning of Élavendre]], [[lore-treelinelay\|The Lay of the Tree Line]]                                               | `elavendri`     | —          |
 | **Oréthan**                                  | [[lore-firstcrown\|The First Crowning of Élavendre]]                                                                                               | `elavendri`     | —          |
 | **The Tribute of Élavendre**                 | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `translation`   | —          |
-| **The Treaty of Valdûn**                     | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `translation`   | —          |
+| **The Treaty of Váldun**                     | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `translation`   | —          |
 | **Réidhanë**                                 | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `elavendri`     | —          |
 | **The Sórvanda Closing**                     | [[lore-sorvandaclose\|The Sórvanda Closing]]                                                                                                       | `translation`   | —          |
 | **The King's Cut**                           | [[lore-sorvandaclose\|The Sórvanda Closing]]                                                                                                       | `translation`   | —          |
@@ -786,31 +786,31 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Thélmoren**                                | [[place-elavendre\|Élavendre]]                                                                                                                     | `elavendri`     | —          |
 | **Nélgan**                                   | [[place-nelgan\|Nélgan]]                                                                                                                           | `other:aelendi` | —          |
 | **The Snow-Gate**                            | [[place-nelgan\|Nélgan]]                                                                                                                           | `translation`   | —          |
-| **Béravel**                                  | [[place-beravel\|Béravel]]                                                                                                                         | `elavendri`     | —          |
+| **Péravel**                                  | [[place-beravel\|Péravel]]                                                                                                                         | `elavendri`     | —          |
 | **The Bérav**                                | [[place-beravriver\|The Bérav]]                                                                                                                    | `translation`   | —          |
 | **Éllivë**                                   | [[place-ellive\|Éllivë]]                                                                                                                           | `elavendri`     | —          |
 | **Élavendri Language**                       | [[skill-elvndrlng\|Élavendri Language]]                                                                                                            | `translation`   | —          |
 | **Apprentice**                               | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Sálenda of the Long Stair**                | [[lore-salendaspr\|Sálenda of the Long Stair]]                                                                                                     | `translation`   | —          |
 | **Úrnel, the Bear of the High Corries**      | [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]                                                                                             | `translation`   | —          |
-| **Gílpand, the West Wind**                   | [[lore-gilpandspr\|Gílpand, the West Wind]]                                                                                                        | `translation`   | —          |
+| **Gíldand, the West Wind**                   | [[lore-gilpandspr\|Gíldand, the West Wind]]                                                                                                        | `translation`   | —          |
 | **Beast-Speaker**                            | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **Pórsand, the Grey Wolf of the Ridge**      | [[lore-porsandspr\|Pórsand, the Grey Wolf of the Ridge]]                                                                                           | `translation`   | —          |
+| **Kórsand, the Grey Wolf of the Ridge**      | [[lore-porsandspr\|Kórsand, the Grey Wolf of the Ridge]]                                                                                           | `translation`   | —          |
 | **Death-Speaker**                            | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Elder Shaman**                             | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Exiled**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Fire-Tender**                              | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **Tîpel, the Hawk of the Spine**             | [[lore-tipelspr\|Tîpel, the Hawk of the Spine]]                                                                                                    | `translation`   | —          |
+| **Tîmel, the Hawk of the Spine**             | [[lore-tipelspr\|Tîmel, the Hawk of the Spine]]                                                                                                    | `translation`   | —          |
 | **Marked**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Óssenda, the White Owl of the Hollow**     | [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]]                                                                                          | `translation`   | —          |
 | **Kíltas, the Red Fox of the Lower Wood**    | [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]]                                                                                          | `translation`   | —          |
 | **Shaman**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Song-Keeper**                              | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **T'éna**                                    | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]                                                                                                   | `other:aelendi` | —          |
-| **T'éna, the Hearth of Eshálosha**           | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]                                                                                                   | `translation`   | —          |
+| **T'éna**                                    | [[lore-tenaspr\|T'éna, the Hearth of Ésalosa]]                                                                                                     | `other:aelendi` | —          |
+| **T'éna, the Hearth of Ésalosa**             | [[lore-tenaspr\|T'éna, the Hearth of Ésalosa]]                                                                                                     | `translation`   | —          |
 | **The First Gods**                           | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **The First Gods (the Bright and the Dark)** | [[lore-thfrstgdsthdty\|The First Gods (the Bright and the Dark)]]                                                                                  | `translation`   | —          |
-| **The Hearth**                               | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]                                                                                                   | `translation`   | —          |
+| **The Hearth**                               | [[lore-tenaspr\|T'éna, the Hearth of Ésalosa]]                                                                                                     | `translation`   | —          |
 | **The Old Gods**                             | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Untaught**                                 | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Warder**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
@@ -915,7 +915,7 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Délitha Kélvasndë**                        | [[being-delithakelva\|Délitha Kélvasndë]]                                                                                                          | `elavendri`     | —          |
 | **Mother Délitha**                           | [[being-delithakelva\|Délitha Kélvasndë]]                                                                                                          | `translation`   | —          |
 | **Áuliranë Kárdeth**                         | [[being-auliranekard\|Áuliranë Kárdeth]]                                                                                                           | `elavendri`     | —          |
-| **Lady Áuliranë of Cárdeth**                 | [[being-auliranekard\|Áuliranë Kárdeth]]                                                                                                           | `translation`   | —          |
+| **Lady Áuliranë of Kárdeth**                 | [[being-auliranekard\|Áuliranë Kárdeth]]                                                                                                           | `translation`   | —          |
 | **Lady Áuliranë**                            | [[being-auliranekard\|Áuliranë Kárdeth]]                                                                                                           | `translation`   | —          |
 | **Ílsevilë Tírvalndë**                       | [[being-ilseviletirv\|Ílsevilë Tírvalndë]]                                                                                                         | `elavendri`     | —          |
 | **Magistrate Ílsevilë Tírvalndë**            | [[being-ilseviletirv\|Ílsevilë Tírvalndë]]                                                                                                         | `translation`   | —          |
@@ -947,10 +947,45 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 
 A retired name is one the setting does not write. Each stands below with the name written in its place, and no page writes it.
 
-| Retired    | Written instead | Why                                  |
-| ---------- | --------------- | ------------------------------------ |
-| `Tirwen`   | `Éllivë`        | a name borrowed from an Earth tongue |
-| `Glanmor`  | `Lírvë`         | a name borrowed from an Earth tongue |
-| `Brynavar` | `Áuldalon`      | a name borrowed from an Earth tongue |
-| `Cilfor`   | `Líserë`        | a name borrowed from an Earth tongue |
-| `Ardwyn`   | `Sórvanda`      | a name borrowed from an Earth tongue |
+| Retired      | Written instead | Why                                                                  |
+| ------------ | --------------- | -------------------------------------------------------------------- |
+| `Tirwen`     | `Éllivë`        | a name borrowed from an Earth tongue                                 |
+| `Glanmor`    | `Lírvë`         | a name borrowed from an Earth tongue                                 |
+| `Brynavar`   | `Áuldalon`      | a name borrowed from an Earth tongue                                 |
+| `Cilfor`     | `Líserë`        | a name borrowed from an Earth tongue                                 |
+| `Ardwyn`     | `Sórvanda`      | a name borrowed from an Earth tongue                                 |
+| `Enéwyn`     | `Énevin`        | a sound Élavendri lacks: w and y                                     |
+| `Ályra`      | `Álira`         | a sound Élavendri lacks: y                                           |
+| `Arévyn`     | `Árevin`        | a sound Élavendri lacks: y                                           |
+| `Llýdar`     | `Lídren`        | a sound Élavendri lacks: ll and y                                    |
+| `Elýsè`      | `Élithë`        | a sound Élavendri lacks: y, and a final è where the tongue ends on ë |
+| `Skýrn`      | `Sárneth`       | a sound Élavendri lacks: y, and a final rn                           |
+| `Bélthal`    | `Pélthal`       | a sound Élavendri lacks: b                                           |
+| `Sevion`     | `Sévren`        | a sound Élavendri lacks: the hiatus io                               |
+| `Myrkelis`   | `Mírkelis`      | a sound Élavendri lacks: y                                           |
+| `Tárellia`   | `Tárella`       | a sound Élavendri lacks: the hiatus ia                               |
+| `Bélrik`     | `Mélrik`        | a sound Élavendri lacks: b                                           |
+| `Fálwyn`     | `Sálvin`        | a sound Élavendri lacks: f, w and y                                  |
+| `Bréthar`    | `Dréthar`       | a sound Élavendri lacks: b, and the opening pair br                  |
+| `Brýnael`    | `Drínel`        | a sound Élavendri lacks: b, y, and an unstressed ae                  |
+| `Dárya`      | `Dárva`         | a sound Élavendri lacks: y                                           |
+| `Náredh`     | `Náreth`        | a sound Élavendri lacks: a final dh                                  |
+| `Déraen`     | `Déren`         | a sound Élavendri lacks: an unstressed ae                            |
+| `Émyna`      | `Émina`         | a sound Élavendri lacks: y                                           |
+| `Êrmyn`      | `Érmin`         | a sound Élavendri lacks: the circumflex and y                        |
+| `Cárdeth`    | `Kárdeth`       | a sound Élavendri lacks: c                                           |
+| `Glýenna`    | `Lýenna`        | a sound Élavendri lacks: y, and the opening pair gl                  |
+| `Héligstrom` | `Hélithron`     | a sound Élavendri lacks: a final m and the cluster gstr              |
+| `Ívelyn`     | `Ívelin`        | a sound Élavendri lacks: y                                           |
+| `Zálreth`    | `Sálreth`       | a sound Élavendri lacks: z                                           |
+| `Kélyra`     | `Kélvira`       | a sound Élavendri lacks: y                                           |
+| `Khôrn`      | `Hóren`         | a sound Élavendri lacks: the circumflex and a final rn               |
+| `Llénar`     | `Lénor`         | a sound Élavendri lacks: the opening pair ll                         |
+| `Mália`      | `Málsa`         | a sound Élavendri lacks: the hiatus ia                               |
+| `Óvelyn`     | `Óvelin`        | a sound Élavendri lacks: y                                           |
+| `Pália`      | `Pálva`         | a sound Élavendri lacks: the hiatus ia                               |
+| `Rhália`     | `Rálva`         | a sound Élavendri lacks: the opening pair rh and the hiatus ia       |
+| `Sóurimael`  | `Sóurimel`      | a sound Élavendri lacks: an unstressed ae                            |
+| `Vélaria`    | `Vélthra`       | a sound Élavendri lacks: the hiatus ia                               |
+| `Yálith`     | `Jálith`        | a sound Élavendri lacks: y as a vowel                                |
+| `Béravel`    | `Péravel`       | a sound Élavendri lacks: b                                           |

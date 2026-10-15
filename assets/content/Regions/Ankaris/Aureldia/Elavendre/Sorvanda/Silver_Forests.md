@@ -30,7 +30,7 @@ The [[lore-flksinale|Sinalë]] enclaves in the deep Élavendren forests are beli
 
 ## The Felled Stand
 
-At the margin of the forests nearest [[place-eshalshldg|Eshálosha Lodge]] stands a ring of birch stumps that have never sprouted again, and the ring is kept clear. It is what is left of the stand cut in the Black Snow ([[lore-blacksnow|The Black Snow]]), and beyond it lies the fog-hollow the Wardens watch. Young Wardens are brought to see it, and nobody else is.
+At the margin of the forests nearest [[place-eshalshldg|Ésalosa Lodge]] stands a ring of birch stumps that have never sprouted again, and the ring is kept clear. It is what is left of the stand cut in the Black Snow ([[lore-blacksnow|The Black Snow]]), and beyond it lies the fog-hollow the Wardens watch. Young Wardens are brought to see it, and nobody else is.
 
 - **A fresh stump.** Someone has cut a standing birch, and the cut is clean.
 - **The watch left for a night.** The fog-hollow has been unwatched, and something has already come through.

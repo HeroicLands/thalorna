@@ -3,7 +3,7 @@ shortcode: chandrmukha
 name: {full: Chandramukha, aliases: [The Moon-Mouth]}
 type: place
 subType: settlement
-description: "The deep-water port at the Chandramahī's mouth—the bar, the roadstead, the yards that build Chandrapur's galleys, and the one place in Vedyara the Ordo Arcanis is licensed to stand."
+description: "The deep-water port at the Chandramahī's mouth—the bar, the roadstead, the yards that build Chandrapur's galleys, and the one place in Vedyara the Thôrdimâlon is licensed to stand."
 tags: [town, port, coastal, naval, trading]
 data:
   demonym: null
@@ -39,7 +39,7 @@ The merchant houses build their coasting hulls on the west side, in yards they o
 
 Every foreign trade [[place-vedyarargn|Vedyara]] has by sea lands on this beach. The Khelâthi factors keep a street of their own, walled and gated, with their own well and their own weights, and the argument about the weights is older than the street. [[lore-tantsouclt|Tāntsou]] junks come round the eastern capes in the late season and lie outside the bar rather than take a pilot, which the pilots regard as an insult and the junk-masters as a precaution. Jénchài hulls come irregularly and are dealt with warily.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps one licensed factor here, and that is the whole of the Ordo's standing in the subcontinent. He is licensed to trade and to carry letters. He is not licensed to teach, to examine anybody, or to hold a working in the town, and the Council that licenses him renews the license yearly in a ceremony designed to make the yearly part conspicuous.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] keeps one licensed factor here, and that is the whole of the Arcane Order's standing in the subcontinent. He is licensed to trade and to carry letters. He is not licensed to teach, to examine anybody, or to hold a working in the town, and the Council that licenses him renews the license yearly in a ceremony designed to make the yearly part conspicuous.
 
 ## Stations at the Waterside
 

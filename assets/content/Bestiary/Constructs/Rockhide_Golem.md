@@ -99,7 +99,7 @@ The old watch-fort holds the pass the way a fist holds a stone: walls of fitted 
 
 # Dossier {#dossier}
 
-The Rockhide Golem is a construct: a ten-to-twelve-foot figure of fused stone, armored in slabs of rock and bound together with signs that glow in its joints, which a mage has worked into motion to guard a place. It has no will; it does what it was told, for as long as the working holds, and it reassembles itself from its own rubble when it is broken. The rockhide golems of [[place-helionis|Heliónis]] are the work of the Helionite mage-warlords of the war against the Vylarian Republic, who set them in the passes and fortresses they held, and some of those golems are still standing, guarding forts that have been empty for six centuries. The [[affiliation-ordoarcanis|Ordo Arcanis]], born out of the college those mage-warlords came from, would very much like to know how they were made.
+The Rockhide Golem is a construct: a ten-to-twelve-foot figure of fused stone, armored in slabs of rock and bound together with signs that glow in its joints, which a mage has worked into motion to guard a place. It has no will; it does what it was told, for as long as the working holds, and it reassembles itself from its own rubble when it is broken. The rockhide golems of [[place-helionis|Heliónis]] are the work of the Helionite mage-warlords of the war against the Vylarian Republic, who set them in the passes and fortresses they held, and some of those golems are still standing, guarding forts that have been empty for six centuries. The [[affiliation-ordoarcanis|Thôrdimâlon]], born out of the college those mage-warlords came from, would very much like to know how they were made.
 
 ## Presentation
 
@@ -113,9 +113,9 @@ Heliónis is olive-clad hills, narrow valleys and abrupt mountain ranges, and th
 
 A rockhide golem carries out its orders exactly and without end: it guards its gate or its courtyard and destroys anything that tries to pass. It does not leave its post and does not pursue past the line its orders set. It does not tire, eat or sleep, and it feels no pain. When it is broken, its stones drift back together and it rises again, more slowly each time; a golem that has been broken many times stands a little lopsided. Its orders were given by a mage who has been dead for six centuries, in words no one now living heard, and what it was told to admit, if anything, is unknown.
 
-## What the Helionites and the Ordo Do
+## What the Helionites and the Arcane Order Do
 
-The cities' herdsmen and travelers use the passes round the old forts and not through them, and every child in the mountain villages knows which gate-towers have a golem in them. The cities have never tried to remove the golems, because each was set by some city's mage-warlord and each city prefers not to remember which. The Ordo Arcanis, which holds a legal monopoly on arcane practice and controls the Epistemium in practice, sends scholars to the forts to study the binding signs from beyond the golem's line, and once sent a party in to take one apart. The party is not discussed. Helionite scholars of the older colleges, who argued for generations about the ethical limits of arcane power, use the golems in their lectures.
+The cities' herdsmen and travelers use the passes round the old forts and not through them, and every child in the mountain villages knows which gate-towers have a golem in them. The cities have never tried to remove the golems, because each was set by some city's mage-warlord and each city prefers not to remember which. The Thôrdimâlon (the Arcane Order), which holds a legal monopoly on arcane practice and controls the Epistémion (the Academy) in practice, sends scholars to the forts to study the binding signs from beyond the golem's line, and once sent a party in to take one apart. The party is not discussed. Helionite scholars of the older colleges, who argued for generations about the ethical limits of arcane power, use the golems in their lectures.
 
 ## Signs
 

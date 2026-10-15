@@ -41,7 +41,7 @@ A shaman's craft consists, in large part, of knowing which posture each of the t
 - **Place-kin**—Spirits whose domain is a specific place rather than a lineage of living things. Grove-keepers of particular old-growth stands. Stone-warders of cairns, ridges, standing stones. Cave-spirits of the deep places. Threshold-spirits of the passes and crossings.
 - **Water-kin**—Spirits of rivers, lakes, springs, and falls. Often addressed as "mothers" (the river-mothers) regardless of their specific character. Water-kin are consulted in matters of travel, crossing, drowning, and cleansing.
 - **Weather-kin**—Spirits of storm, wind, snow, and fire. More mobile than the other Kindred, and often regarded as less reliable. Addressed in specific circumstances—a storm approaching, a fire to be kindled or quenched—rather than on a standing basis.
-- **Hearth-kin**—Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Eshálosha]]) have powerful hearth-kin of long standing—the greatest of them [[lore-tenaspr|T'éna]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
+- **Hearth-kin**—Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Ésalosa]]) have powerful hearth-kin of long standing—the greatest of them [[lore-tenaspr|T'éna]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
 
 A given Kindred may serve the [[affiliation-firstgods#the-bright|Bright]], the [[affiliation-firstgods#the-dark|Dark]], or both. The affiliations are not doctrinal. They are observed—a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
 
@@ -55,20 +55,20 @@ A handful are known across the tribes and are named here. These are the Kindred 
 likely to hold a standing alliance with, and each is met through its own Spirit Power rather than
 through any rite of the tradition at large.
 
-| Kindred                                                   | Kind        | Seat                                  | Met through                                     |
-| --------------------------------------------------------- | ----------- | ------------------------------------- | ----------------------------------------------- |
-| [[lore-salendaspr\|Sálenda of the Long Stair]]            | Water-kin   | [[place-longstair\|The Long Stair]]   | [[skill-salendasprt\|Sálenda Spirit Power]]     |
-| [[lore-uronspr\|The Ûron Tékhi]]                          | Place-kin   | [[place-urontekhi\|The Ûron Tékhi]]   | [[skill-uronsprt\|The Ûron Tékhi Spirit Power]] |
-| [[lore-gilpandspr\|Gílpand, the West Wind]]               | Weather-kin | _none; he is where he blows_          | [[skill-gilpandsprt\|Gílpand Spirit Power]]     |
-| [[lore-porsandspr\|Pórsand, the Grey Wolf of the Ridge]]  | Animal-kin  | the Drenavar Spine                    | [[skill-porsandsprt\|Pórsand Spirit Power]]     |
-| [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]    | Animal-kin  | the Drenavar Spine                    | [[skill-urnelsprt\|Úrnel Spirit Power]]         |
-| [[lore-tipelspr\|Tîpel, the Hawk of the Spine]]           | Animal-kin  | the Drenavar Spine                    | [[skill-tipelsprt\|Tîpel Spirit Power]]         |
-| [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]] | Animal-kin  | [[place-owlhollow\|The Owl Hollow]]   | [[skill-ossendasprt\|Óssenda Spirit Power]]     |
-| [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]] | Animal-kin  | the Silver Forests                    | [[skill-kiltassprt\|Kíltas Spirit Power]]       |
-| [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]          | Hearth-kin  | [[place-eshalshldg\|Eshálosha Lodge]] | [[skill-tenasprt\|T'éna Spirit Power]]          |
+| Kindred                                                   | Kind        | Seat                                | Met through                                     |
+| --------------------------------------------------------- | ----------- | ----------------------------------- | ----------------------------------------------- |
+| [[lore-salendaspr\|Sálenda of the Long Stair]]            | Water-kin   | [[place-longstair\|The Long Stair]] | [[skill-salendasprt\|Sálenda Spirit Power]]     |
+| [[lore-uronspr\|The Ûron Tékhi]]                          | Place-kin   | [[place-urontekhi\|The Ûron Tékhi]] | [[skill-uronsprt\|The Ûron Tékhi Spirit Power]] |
+| [[lore-gilpandspr\|Gíldand, the West Wind]]               | Weather-kin | _none; he is where he blows_        | [[skill-gilpandsprt\|Gíldand Spirit Power]]     |
+| [[lore-porsandspr\|Kórsand, the Grey Wolf of the Ridge]]  | Animal-kin  | the Drenavar Spine                  | [[skill-porsandsprt\|Kórsand Spirit Power]]     |
+| [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]    | Animal-kin  | the Drenavar Spine                  | [[skill-urnelsprt\|Úrnel Spirit Power]]         |
+| [[lore-tipelspr\|Tîmel, the Hawk of the Spine]]           | Animal-kin  | the Drenavar Spine                  | [[skill-tipelsprt\|Tîmel Spirit Power]]         |
+| [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]] | Animal-kin  | [[place-owlhollow\|The Owl Hollow]] | [[skill-ossendasprt\|Óssenda Spirit Power]]     |
+| [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]] | Animal-kin  | the Silver Forests                  | [[skill-kiltassprt\|Kíltas Spirit Power]]       |
+| [[lore-tenaspr\|T'éna, the Hearth of Ésalosa]]            | Hearth-kin  | [[place-eshalshldg\|Ésalosa Lodge]] | [[skill-tenasprt\|T'éna Spirit Power]]          |
 
 All five kinds of Kindred have a named exemplar. T'éna is the one met indoors, and the one every
-Áelendan meets, since every tribe comes to Eshálosha to gather.
+Áelendan meets, since every tribe comes to Ésalosa to gather.
 
 ## Relationship with the Tribes
 
@@ -86,7 +86,7 @@ That said, the boundary is not absolute. Certain very old Kindred—the stone-wa
 
 ## Outsider Interaction
 
-Outsiders—travelers, traders, Ordo agents—do not have pacts with the Kindred and cannot form them. What outsiders can do is refrain from transgression: not desecrating a sacred site, not hunting what they have not been permitted to hunt, not disturbing what they have been warned not to disturb. Most Áelendan tribes are willing to extend this minimum reciprocity to respectful visitors. Those who transgress discover, sometimes slowly and sometimes quickly, that the Kindred take offense, and that the [[affiliation-alndnwrdns|Wardens]] exist to prevent transgressions that the Kindred themselves would punish more harshly.
+Outsiders—travelers, traders, Arcane Order agents—do not have pacts with the Kindred and cannot form them. What outsiders can do is refrain from transgression: not desecrating a sacred site, not hunting what they have not been permitted to hunt, not disturbing what they have been warned not to disturb. Most Áelendan tribes are willing to extend this minimum reciprocity to respectful visitors. Those who transgress discover, sometimes slowly and sometimes quickly, that the Kindred take offense, and that the [[affiliation-alndnwrdns|Wardens]] exist to prevent transgressions that the Kindred themselves would punish more harshly.
 
 ## See Also
 

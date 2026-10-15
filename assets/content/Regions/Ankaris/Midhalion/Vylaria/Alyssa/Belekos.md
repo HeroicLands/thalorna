@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Belekos is a city of wealthy merchant families, with opulent townhouses and manicured gardens that look down on the fertile river valleys supplying much of Alyssa's grain. It makes nothing that anyone travels to buy. Its prosperity comes from controlling the agricultural surplus of the valleys and the trade that carries it away.
+Belekos is a city of wealthy merchant families, with opulent townhouses and manicured gardens that look down on the fertile river valleys supplying much of Alêssâ's grain. It makes nothing that anyone travels to buy. Its prosperity comes from controlling the agricultural surplus of the valleys and the trade that carries it away.
 
 A grain factor of one of the great houses, walking a newly hired clerk through the city on his first morning, makes the point at the first gate he comes to: "You came in by the front door, and you are standing in the counting room. Here the family sleeps upstairs, the sacks are stored behind, and the ledger is read in the hall where the guests are received. A house in Belekos does not keep its business out of sight, and you should not be surprised to find how much of the family's life you are expected to keep out of the ledger."
 
@@ -30,11 +30,11 @@ The atmosphere is one of calculated sophistication. The merchant elite keep libr
 
 Belekos feels the weight of the empire's decline differently from provincial cities like [[place-velysara|Velysâra]]. Its merchants do not mourn lost grandeur. They are quietly relocating assets, establishing trading partnerships with other realms and hedging their bets against an empire that may not endure.
 
-The factors say among themselves that true power is already shifting away from the imperial court, and that the merchants of cities like Belekos, not the senators in the capital, increasingly control the flow of goods and gold that sustains civilization. The great houses do not say it where a senator can hear.
+The factors say among themselves that true power is already shifting away from the imperial court, and that the merchants of cities like Belekos, not the _kurthândoi_ (senators) in the capital, increasingly control the flow of goods and gold that sustains civilization. The great houses do not say it where a _kurthândôs_ can hear.
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alyssa]]—the parent province
+- [[affiliation-provinclys|Province of Alêssâ]]—the parent province
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
 - [[skill-vylarilng|Vylari]]—the naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the religious tradition

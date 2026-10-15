@@ -47,15 +47,15 @@ What extraction exists is therefore:
 - **Ruinously expensive**—which is why Élavendren gold and gemwork are worth what they are. The
   scarcity is not geological. It is political, and everyone in the trade knows it.
 
-Prospectors, speculators and agents of the [[affiliation-ordoarcanis|Ordo Arcanis]] come anyway, in
-numbers, every year—and the Ordo's people are the least welcome of the three. The Áelendan hold the
-Ordo in flat contempt as meddlesome intruders who come to study what the tribes exist to keep, and a
+Prospectors, speculators and agents of the [[affiliation-ordoarcanis|Thôrdimâlon]] come anyway, in
+numbers, every year—and the Arcane Order's people are the least welcome of the three. The Áelendan hold the
+Arcane Order in flat contempt as meddlesome intruders who come to study what the tribes exist to keep, and a
 Warden who finds a licensed surveyor above the line treats the license as an aggravation rather than a
 defense.
 
 ## The King's Cut
 
-Above the tree line in the Spine lie the sealed adits of the workings a king opened to pay the Empire's tribute and the Wardens closed in a season ([[lore-sorvandaclose|The Sórvanda Closing]]). Spoil heaps stand under birch, and a broken ore-road runs down to [[place-elanmere|Elanmere]]. The Wardens turn prospectors and Ordo surveyors back from it.
+Above the tree line in the Spine lie the sealed adits of the workings a king opened to pay the Empire's tribute and the Wardens closed in a season ([[lore-sorvandaclose|The Sórvanda Closing]]). Spoil heaps stand under birch, and a broken ore-road runs down to [[place-elanmere|Elanmere]]. The Wardens turn prospectors and Arcane Order surveyors back from it.
 
 - **A map of the old workings.** A prospector hires guides with one, and the Wardens have the original.
 - **The deepest adit.** It was sealed with more than stone.
@@ -64,7 +64,7 @@ Above the tree line in the Spine lie the sealed adits of the workings a king ope
 
 - **High pasture**—cattle, sheep, and the mountain cheeses that come down at the autumn fairs.
 - **Furs and hides** from the tree line.
-- **Herbs and simples**, gathered by Áelendan and traded down; the physicians of Béravel will pay for
+- **Herbs and simples**, gathered by Áelendan and traded down; the physicians of Péravel will pay for
   what only grows above the passes.
 - **Timber**, sparingly and by arrangement.
 
@@ -72,9 +72,9 @@ Above the tree line in the Spine lie the sealed adits of the workings a king ope
 
 - [[place-drenavrspn|The Drenavar Spine]] · [[place-alndntrblnds|Áelendan Tribal Lands]] ·
   [[place-silvrfrsts|The Silver Forests]]
-- [[place-eshalshldg|Eshálosha Lodge]]—Áelendan settlement and ceremonial center.
+- [[place-eshalshldg|Ésalosa Lodge]]—Áelendan settlement and ceremonial center.
 - [[place-elanmere|Elanmere]]—the lake town at the mountains' foot.
-- [[place-sourimael|Sóurimael]]—a woodland settlement of the Silver Forests.
+- [[place-sourimael|Sóurimel]]—a woodland settlement of the Silver Forests.
 
 ## See Also
 

@@ -304,4 +304,4 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 | tenyut                | A clay tablet; a household's or a house's written record                                                                    |
 | yumesh                | Name                                                                                                                        |
 
-Ard is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]]. Dovaq is a loanword from [[lore-sowidesclt#glossary|the Sovidur]].
+Ardin is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]]. Dovaq is a loanword from [[lore-sowidesclt#glossary|the Sovidur]].

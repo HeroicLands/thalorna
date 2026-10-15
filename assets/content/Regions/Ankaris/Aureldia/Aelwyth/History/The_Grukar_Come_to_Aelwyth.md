@@ -58,7 +58,7 @@ Nobody on [[place-aelwyth|Aelwyth]] remembers the landing, which is the usual wa
 
 The faction that came over about 20 BF was small enough that the crews took it for rats, and it landed on a coast with a great deal of ground that nobody held. The island's good land was settled, and the [[lore-pelwarpepl|Pelwar]] who farmed it lived in the river valleys and on the open uplands. What lay between them was deep forest, bog and moor that no one had troubled to plow. The newcomers spread into it as their kind do: a tribe forms around an Ahk, outgrows its ground, and sheds another. Within a century the empty third of Aelwyth was theirs in the only sense a Grukar tribe holds ground, which is that nothing else lives there for long.
 
-By the time [[lore-kingshlwcrwn|Bréthar was crowned at Kingshollow]] about 120 AF, the forest peoples of the interior and the southern woods were already at war with them.
+By the time [[lore-kingshlwcrwn|Dréthar was crowned at Kingshollow]] about 120 AF, the forest peoples of the interior and the southern woods were already at war with them.
 
 ## What the Settled Country Did
 

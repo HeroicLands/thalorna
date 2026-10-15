@@ -103,7 +103,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: break the box and carry the silver. Stealth: copy the ledgers and leave the silver. Guile: take the stage's seal ring, which every Crown Road gate will recognize. Parley: bring the ledgers to the Vardain and the Khazári.
 
-**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ard in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a Sinalë envoy had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
+**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a Sinalë envoy had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
 
 **Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazári of Vorgald, who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Sinalë, if they learn it was written down, will want it least.
 

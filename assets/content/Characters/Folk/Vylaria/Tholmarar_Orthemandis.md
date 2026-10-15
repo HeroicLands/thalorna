@@ -1,15 +1,15 @@
 ---
 shortcode: tholmararort
-name: {full: Thôlmârar Ôrthêmândis, aliases: [Magistra Thôlmârar Ôrthêmândis]}
+name: {full: Thôlmârar Ôrthêmândis, aliases: [Mârendândôs Thôlmârar Ôrthêmândis]}
 type: being
 subType: npc
-description: A fellow Magistra in the Sodalitas Physéra whose theoretical framework on mineral essences clashes with Azatô Dâemzânis's.
+description: A fellow mârendândôs in the Zûlêthâlon Physéra whose theoretical framework on mineral essences clashes with Azatô Dâmzânis's.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, scholar]
-  occupation: Magistra
+  occupation: Mârendândôs
   lore: []
   culture: vylarianclt
   homes: []
@@ -36,4 +36,4 @@ Thôlmârar Ôrthêmândis is a 54-year-old woman who stands 5'9" tall with a me
 
 # Dossier {#dossier}
 
-Thôlmârar Ôrthêmândis is a Magistra of the Sodalitas Physéra and chairs its examination board. [[being-azatodmzns|Azatô Dâemzânis]] systematically disassembled her theoretical framework on mineral essences in a published response, and Thôlmârar has not forgiven him. Thôlmârar has begun subtle investigations into his unconventional methods.
+Thôlmârar Ôrthêmândis is a _mârendândôs_ (master) of the Zûlêthâlon Physéra and chairs its examination board. [[being-azatodmzns|Azatô Dâmzânis]] systematically disassembled her theoretical framework on mineral essences in a published response, and Thôlmârar has not forgiven him. Thôlmârar has begun subtle investigations into his unconventional methods.

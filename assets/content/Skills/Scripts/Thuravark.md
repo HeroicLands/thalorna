@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Runic}}
 ---
 
-Thurávark is the rune-row of the north—an ancient carving script adapted long ago to the sounds of [[skill-nordmalng|Nordmal]], and still the only writing the five Nordmen kingdoms consider entirely their own. The name is Proto-Pelwar _thura-vark_, "graven work"; the same compound survives in the south as the imperial [[skill-thrvrknscrpt|Thâravárkon]], which is the clearest evidence that the two tongues share a nomadic ancestor.
+Thurávark is the rune-row of the north—an ancient carving script adapted long ago to the sounds of [[skill-nordmalng|Nordmal]], and still the only writing the five Nordmen kingdoms consider entirely their own. The name is Proto-Pelwar _thura-vark_, "graven work"; the same compound survives in the south as the imperial [[skill-thrvrknscrpt|Thâravarkon]], which is the clearest evidence that the two tongues share a nomadic ancestor.
 
 The letterforms are not a Pelwar invention. They correspond too closely to Khazári [[skill-drthrkscrpt|Pirzath]]—angle for angle, notch for notch—to have been arrived at independently, and the standing account is that the **Proto-Pelwar were themselves Khazári subjects**, taught a reduced work-row in the mountains before they ever went west. What came out of the mountains was one Proto-Pelwar rune-row; the migrations split it, and Thurávark is a simplification of that simplification rather than anything the Nordmen devised. Nobody can prove it. The name is evidence of a sort: a people who invent their own writing do not call it "the cutting," which is what one calls a thing one has been shown—and all three Pelwar branches carried that same word west with them, because all three carried the same borrowed row.
 
@@ -35,7 +35,7 @@ Memorial and grave stones; boundary markers; ships' stems and steering-oars; wea
 
 ## Who has it
 
-Far more widely held than pen literacy, and held by different people. A smith, a shipwright or a steading-holder may cut a competent inscription having never held a quill, because runes are a craft of the hand rather than a scholar's accomplishment, and are learned at the workbench. The priesthood and the professional scribes hold it as a matter of course. What high-status text exists—law recitations, genealogies, sacred formulas—is cut in runes and not written in the southern alphabet, since a jarl who received a genealogy in [[skill-semrnscrpt|Sêmarion]] would take the choice of script as a comment on his house. The alphabet has nonetheless made steady inroads in trade and maritime use, where speed matters more than dignity.
+Far more widely held than pen literacy, and held by different people. A smith, a shipwright or a steading-holder may cut a competent inscription having never held a quill, because runes are a craft of the hand rather than a scholar's accomplishment, and are learned at the workbench. The priesthood and the professional scribes hold it as a matter of course. What high-status text exists—law recitations, genealogies, sacred formulas—is cut in runes and not written in the southern alphabet, since a jarl who received a genealogy in [[skill-semrnscrpt|Sêmarôn]] would take the choice of script as a comment on his house. The alphabet has nonetheless made steady inroads in trade and maritime use, where speed matters more than dignity.
 
 ## In play
 

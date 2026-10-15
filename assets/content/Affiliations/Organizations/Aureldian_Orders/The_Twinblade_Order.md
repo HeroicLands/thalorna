@@ -2,7 +2,7 @@
 shortcode: twinbldrdr
 name:
   full: The Twinblade Order
-  aliases: [Ordo Bifrons, The Order of Two Faces, The Gate-Wardens]
+  aliases: [Tâvemyênthâmis, The Order of Two Faces, The Gate-Wardens]
 type: affiliation
 subType: order
 description: "Knightly guardians of thresholds—city gates, treaty borders, sacred boundaries—bearing the paired blades that symbolize Árdavon's two faces, one for what was sworn and one for what comes after the breach."
@@ -16,7 +16,7 @@ data:
   governance:
     model: council
     summary: >-
-      Sworn Twinblades holding stations from chapter houses, each house under its Magister of the Gate; the assembled Magisters choose the Voice of the Twin Gate.
+      Sworn Twinblades holding stations from chapter houses, each house under its Mârendândôs of the Gate; the assembled mârendândoi choose the Voice of the Twin Gate.
     ranks:
       - level: 0
         title: Expelled
@@ -35,8 +35,8 @@ data:
         description: >-
           Elevated by chapter vote; fit to command a station of importance or a short circuit of stations, and may take wards.
     offices:
-      Voice of the Twin Gate: The order's chair, chosen by the assembled Magisters and serving for life or until resignation.
-      Magister of the Gate: Leader of a chapter house, presiding over its affairs and its stations.
+      Voice of the Twin Gate: The order's chair, chosen by the assembled mârendândoi and serving for life or until resignation.
+      Mârendândôs of the Gate: Leader of a chapter house, presiding over its affairs and its stations.
       Station Commander: A Senior Twinblade in command of a station of importance or a short circuit of stations.
   seat: null
   population: null
@@ -47,11 +47,11 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Aurèldían: Ordo Bifrons—"The Order of Two Faces"_
+_Vylari: **Tâvemyênthâmis**—"The Order of Two Faces"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-ardavon|Árdavon]]—Aurèldían god of oaths, gates, beginnings, and the dualities that separate one state from another
-- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of [[place-olvestria|Ólvestria]]
+- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of [[place-olvestria|Ólvestra]]
 
 ## Overview
 
@@ -67,17 +67,17 @@ Candidates are sworn devotees of Árdavon, examined for martial competence, know
 
 There are two working ranks above the candidacy, and two offices drawn from them:
 
-- **Sworn Twinblade** (_Frater Bifrons_)—the working knight; serves a station or rides a circuit of stations.
-- **Senior Twinblade** (_Frater Senior_)—elevated by chapter vote; commands a station of importance or a short circuit of stations; may take wards.
-- **Magister of the Gate** (_Magister Portae_)—chapter leader; one per chapter house; presides over chapter affairs.
-- **Voice of the Twin Gate** (_Mál Portae Geminae_)—the order's chair; one position; chosen by the assembled Magisters; serves for life or until resignation.
+- **Sworn Twinblade** (_zarândôs_)—the working knight; serves a station or rides a circuit of stations.
+- **Senior Twinblade** (_hôlzarândôs_)—elevated by chapter vote; commands a station of importance or a short circuit of stations; may take wards.
+- **Mârendândôs of the Gate**—chapter leader; one per chapter house; presides over chapter affairs.
+- **Voice of the Twin Gate**—the order's chair; one position; chosen by the assembled _mârendândoi_ (masters); serves for life or until resignation.
 
-The order has chapter houses at each of the most consequential thresholds in Aurèldía: the great gates of Ólvestria, Béravel, Aelissium, Karatos, and Liranel; the principal treaty-borders between Tarvénia and Provènzia, Provènzia and Élavendre, and Élavendre and Aelwyth; the more important fae-touched groves with [[affiliation-groveconcl|The Grove Council]] recognition; and a small number of historical battlefields whose threshold-status the order maintains.
+The order has chapter houses at each of the most consequential thresholds in Aurèldía: the great gates of Ólvestra, Péravel, Elissâra, Karatos, and Liranel; the principal treaty-borders between Tarvénia and Provènzia, Provènzia and Élavendre, and Élavendre and Aelwyth; the more important fae-touched groves with [[affiliation-groveconcl|The Grove Council]] recognition; and a small number of historical battlefields whose threshold-status the order maintains.
 
 ## Notable Members
 
-- **Voice Veronica Aldorina**—current Voice of the Twin Gate; a woman in her early sixties whose distinguished career as Magister of the Ólvestrian Twin Gate preceded her elevation.
-- The Magisters of the major chapter houses—each presiding over a station of substantial diplomatic importance.
+- **Voice Veronica Aldorina**—current Voice of the Twin Gate; a woman in her early sixties whose distinguished career as Mârendândôs of the Ólvestran Twin Gate preceded her elevation.
+- The _mârendândoi_ of the major chapter houses—each presiding over a station of substantial diplomatic importance.
 
 ## Doctrine and Practice
 
@@ -94,11 +94,11 @@ The combat doctrine is paired-weapon focused, though in practice most Twinblades
 - **Gate-guard.** Permanent stations at major city gates; the Twinblade is not the primary guard but the figure who confirms the legitimacy of contested admissions and refusals.
 - **Border patrol.** Rotating circuits along treaty-borders; the Twinblade's presence confirms the line's legitimacy in disputed crossings.
 - **Sacred-boundary patrol.** Stations at fae-touched groves (in coordination with the [[affiliation-alndnwrdns|Áelendan Wardens]]) and at battlefield-sites; the Twinblade's role is ritual as much as practical.
-- **Ceremonial duty.** Major Aurèldían ceremonies—coronations, treaty-signings, formal embassies—require the presence of a Twinblade of the appropriate rank. The order maintains a ceremonial cadre at Ólvestria for this duty.
+- **Ceremonial duty.** Major Aurèldían ceremonies—coronations, treaty-signings, formal embassies—require the presence of a Twinblade of the appropriate rank. The order maintains a ceremonial cadre at Ólvestra for this duty.
 
 ## Relations
 
-- **The Aurèldían Pantheon's Priesthood**—religious foundation; the order's senior elevations are conducted in temple rite at the Twin Gate temple at Ólvestria.
+- **The Aurèldían Pantheon's Priesthood**—religious foundation; the order's senior elevations are conducted in temple rite at the Twin Gate temple at Ólvestra.
 - **The five Aurèldían Crowns**—the order operates under royal license in each kingdom; the licenses are generally renewed without difficulty since the order's services are valuable to the crowns themselves.
 - **The [[affiliation-ordrsldwrd|Order of the Sealed Word]]**—sister Árdavon order; constant coordination. The Sealed Word convenes oath-hearings; the Twinblade Order provides the threshold-presence at formal proceedings and supplies combatants for trial-by-combat when the matter is one of threshold-violation.
 - **The [[affiliation-groveconcl|Grove Council]] and [[affiliation-alndnwrdns|Áelendan Wardens]]**—formal cooperation on sacred-boundary work in Élavendre. The relationship is cordial and procedural.
@@ -107,7 +107,7 @@ The combat doctrine is paired-weapon focused, though in practice most Twinblades
 
 ## Identifying Marks
 
-A Sworn Twinblade wears the order's surcoat—pale gray with the Bifrons emblem (the two-faced head with crossed gold-and-silver blades) at the breast. The paired blades are themselves the most visible identifier: the right scabbard carries a longsword in the standard Aurèldían military pattern; the left carries a shorter and more ornate blade, often heirloomed from a previous holder of the station. Senior Twinblades wear an additional pin in the form of an open gate. The Voice of the Twin Gate wears the great gold pectoral of the Bifrons.
+A Sworn Twinblade wears the order's surcoat—pale gray with the two-faced emblem (the two-faced head with crossed gold-and-silver blades) at the breast. The paired blades are themselves the most visible identifier: the right scabbard carries a longsword in the standard Aurèldían military pattern; the left carries a shorter and more ornate blade, often heirloomed from a previous holder of the station. Senior Twinblades wear an additional pin in the form of an open gate. The Voice of the Twin Gate wears the great gold pectoral of the two faces.
 
 ## Plot Hooks
 

@@ -3,7 +3,7 @@ shortcode: pirkelarrevo
 name: {full: Pîrkêlar Rêvôthândis, aliases: [Village Elder Pîrkêlar]}
 type: being
 subType: npc
-description: The village's governing elder, who treasures the work of Xadrôs Dâemâtês and recommends him to visitors.
+description: The village's governing elder, who treasures the work of Xadrôs Dâmâtês and recommends him to visitors.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Pîrkêlar Rêvôthândis is a 71-year-old woman who stands 5'8" tall with a med
 
 # Dossier {#dossier}
 
-Pîrkêlar Rêvôthândis is the governing elder of the village. Pîrkêlar treasures the work of [[being-xadrosdmts|Xadrôs Dâemâtês]] and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
+Pîrkêlar Rêvôthândis is the governing elder of the village. Pîrkêlar treasures the work of [[being-xadrosdmts|Xadrôs Dâmâtês]] and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.

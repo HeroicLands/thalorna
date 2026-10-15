@@ -117,13 +117,13 @@ sohl: {system: {commonSkills: [provnzlng]}}
 
 ## Overview
 
-The Kingdom of Provènzia is a prosperous, cultured realm that won its independence from the [[affiliation-vylarinmpr|Vylarian Empire]] roughly a century ago, in [[lore-charterwar|the War of the Charter]], fought for the estates' rights against a governor rather than for a crown against an emperor—long enough that the memory of imperial rule has faded into a sense of cultural inheritance rather than resentment. Provènzia took the best of Vylarian civilization—its law, its learning, its architecture—and married it to a native tradition of artistic expression and courtly refinement. The kingdom holds the land of [[place-provenzrgn|Provènzia Region]].
+The Kingdom of Provènzia is a prosperous, cultured realm that won its independence from the [[affiliation-vylarinmpr|Vylarian Empire]] roughly a century ago, in [[lore-charterwar|the War of the Charter]], fought for the estates' rights against a _thêrkhôs_ (governor) rather than for a crown against an emperor—long enough that the memory of imperial rule has faded into a sense of cultural inheritance rather than resentment. Provènzia took the best of Vylarian civilization—its law, its learning, its architecture—and married it to a native tradition of artistic expression and courtly refinement. The kingdom holds the land of [[place-provenzrgn|Provènzia Region]].
 
 ## Government
 
 The kingdom is ruled by a monarch whose power is constrained by a Charter of Rights won in the War of the Charter. Its first king, Ylârven of House Lédravren, was chosen by the estates to hold it, and his house has held the crown since; the one succession the Charter did not settle was fought out in [[lore-warprinces|the War of the Princes]]. The nobility holds significant authority through a Council of Peers, and the major cities maintain chartered rights including self-governance on local matters. This produces a political culture of negotiation and consensus that is more stable than Vylaria's factional scheming, though no less intricate.
 
-The crown's relationship with the [[affiliation-ordoarcanis|Ordo Arcanis]] is distinctive: Provènzia welcomes the Ordo but insists on royal oversight of its activities. Mages in Provènzia answer to the crown as well as to the Ordo, a compromise that irritates the Ordo's leadership but has produced a more open magical culture than exists anywhere else in [[place-midhalnrgn|Mídhalión Region]].
+The crown's relationship with the [[affiliation-ordoarcanis|Thôrdimâlon]] is distinctive: Provènzia welcomes the Arcane Order but insists on royal oversight of its activities. Mages in Provènzia answer to the crown as well as to the Arcane Order, a compromise that irritates the Arcane Order's leadership but has produced a more open magical culture than exists anywhere else in [[place-midhalnrgn|Mídhalión Region]].
 
 ## Character
 
@@ -139,5 +139,5 @@ Kingdom of Provènzia uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / A
 
 - [[place-provenzrgn|Provènzia Region]]—Regional overview
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Former overlord, cultural parent
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—Present under royal oversight
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—Present under royal oversight
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—State pantheon

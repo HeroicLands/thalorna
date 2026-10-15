@@ -3,7 +3,7 @@ shortcode: thelvarosbar
 name: {full: Thêlvarôs Barkrâtis, aliases: [Lord Thêlvarôs Barkrâtis]}
 type: being
 subType: npc
-description: A lord of the Empire of Vylaria, the father of Korêmdânis Bárkrâtys.
+description: A lord of the Empire of Vylaria, the father of Korêmdânis Barkrâtis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Thêlvarôs Barkrâtis is a 64-year-old man who stands 6'3" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Thêlvarôs Barkrâtis is a lord of the Empire of Vylaria and the father of [[being-krmdnsbrkrtys|Korêmdânis Bárkrâtys]]. He indulged her unusual passion for the blade as a whim. When she persisted through adolescence, he recognized it as a gift and sought out the finest instruction available for her.
+Thêlvarôs Barkrâtis is a lord of the Empire of Vylaria and the father of [[being-krmdnsbrkrtys|Korêmdânis Barkrâtis]]. He indulged her unusual passion for the blade as a whim. When she persisted through adolescence, he recognized it as a gift and sought out the finest instruction available for her.

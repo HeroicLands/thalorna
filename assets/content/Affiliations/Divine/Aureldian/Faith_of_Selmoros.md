@@ -16,7 +16,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Kolsarn above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Kolsarnor above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Banar
@@ -35,11 +35,11 @@ data:
         description: >-
           The Threshold Keepers—twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
       - level: 4
-        title: Kolsarn
+        title: Kolsarnor
         description: >-
           Held by one among the Limori; the hierarchy is defined by wisdom and philosophical depth rather than administrative rank.
     offices:
-      Kolsarn: >-
+      Kolsarnor: >-
         Held by one among the Limori; the hierarchy is defined by wisdom and philosophical depth rather than administrative rank.
       Limor: >-
         The Threshold Keepers—twenty or thirty ordained priests across the cities of western Ankaris, who perform funeral rites and keep the temple records of the dead.
@@ -69,9 +69,9 @@ Offerings to Sélmoros are sparse and austere—flowers that have withered, grai
 
 ## Organization
 
-The priesthood of Sélmoros is smaller and more secretive than those of other Aurèldían deities, and its hierarchy is defined more by wisdom and philosophical depth than by administrative rank. At the apex stands the **Kolsarn**, a title held by one among the Sélmoran priests—rarely the same individual for more than a decade, as the role demands a level of existential contemplation that few can sustain indefinitely. The Kolsarn is final arbiter of Sélmoran doctrine and oversees the great temple complex where the most sacred rites are performed.
+The priesthood of Sélmoros is smaller and more secretive than those of other Aurèldían deities, and its hierarchy is defined more by wisdom and philosophical depth than by administrative rank. At the apex stands the **Kolsarnor**, a title held by one among the Sélmoran priests—rarely the same individual for more than a decade, as the role demands a level of existential contemplation that few can sustain indefinitely. The Kolsarnor is final arbiter of Sélmoran doctrine and oversees the great temple complex where the most sacred rites are performed.
 
-Below the Kolsarn are the **Limori**—the Threshold Keepers—a body of perhaps twenty to thirty ordained priests scattered throughout the major cities of western Ankaris. These priests are responsible for performing funeral rites, maintaining temple records of the dead, and counseling the dying. They are scholars of the underworld, experts in the theological mysteries of what lies beyond the gate. The Limori are often consulted by nobility on matters of succession and inheritance, as they understand the theological implications of death and the transition of power.
+Below the Kolsarnor are the **Limori**—the Threshold Keepers—a body of perhaps twenty to thirty ordained priests scattered throughout the major cities of western Ankaris. These priests are responsible for performing funeral rites, maintaining temple records of the dead, and counseling the dying. They are scholars of the underworld, experts in the theological mysteries of what lies beyond the gate. The Limori are often consulted by nobility on matters of succession and inheritance, as they understand the theological implications of death and the transition of power.
 
 The **Novices of the Silent Watch** form the lower tier of the priesthood—young men and women, often those who have survived near-death experiences and feel called to Sélmoros's service. These novices undergo extensive training in funerary practice, theological study, and the maintenance of crypts and burial grounds. They serve as gravediggers, tomb-keepers, and assistant priests at funeral ceremonies. Many remain in this rank indefinitely, finding peace and purpose in the contemplative care of the dead.
 

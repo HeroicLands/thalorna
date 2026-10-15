@@ -161,7 +161,7 @@ The Ātárzád fighting style is built around mounted archery, fast-moving caval
 
 To the **southwest**, the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the dominant Āsháian-pantheon power and is, technically, the senior religious authority for all Āsháian-faith peoples—the Shēkhulsīghot of Āhúrdáén's Great Fire-Temple in Amradad is the formal head of the Āsháian priesthood. Relations are complicated by the fact that the Kingdom's official religion is the full pantheon (with Āhúrdáén supreme) and the Ātárzád consider this idolatry. Diplomatic intercourse is maintained—the Tēghumōd merchants would not tolerate its breakdown—but it is cool. The Kingdom considers the Ātárzád to be schismatics whose elevation of Ātáröš to exclusive worship is a covenant violation against Āhúrdáén; the Ātárzád consider the Kingdom to be polytheistic apostates from the original revelation of Yōtekhōr. The Kingdom hosts the largest Tellumi exile community in the world, which it has consistently refused to extradite.
 
-To the **northwest**, the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] is a major trading partner. The Tēghumōd merchant-houses maintain offices in Sanctara and Alyssar, and Tarûzelian bankers handle Ātárzád commerce in the Vylarian Sea. Religious differences do not impede trade.
+To the **northwest**, the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] is a major trading partner. The Tēghumōd merchant-houses maintain offices in Ulthôra and Alêssar, and Tarûzelian bankers handle Ātárzád commerce in the Vylarian Sea. Religious differences do not impede trade.
 
 To the **east**, beyond the waste, lie [[place-vedyarargn|Vedyara]] and (much further) [[place-tantsouregin|Tāntsou]]. Contact is thin and through merchants; the Ātárzád know of these distant civilizations but have little practical engagement with them.
 
@@ -194,7 +194,7 @@ The current generation is in a relatively quiet phase. The last full-scale rebel
 
 ## Commerce and Currency
 
-The Ātárzád live on the tolls of the caravan road where it enters Tellumel and on the produce of the four cities' gardens and the uplands' herds. Inside the cities, trade runs through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, with the Tēghumōd counting-houses at Ashkarad settling what tribes owe one another; the Tellumi craftsmen and merchants of the cities have begun to adopt modest moneylender practices along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]). Tolls are paid in kind or in coin as the caravan master prefers. Foreign coin (Vylarian Ard from western trade, Khelâthi gezan pieces from southern trade) circulates by intrinsic-metal value among traders.
+The Ātárzád live on the tolls of the caravan road where it enters Tellumel and on the produce of the four cities' gardens and the uplands' herds. Inside the cities, trade runs through [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs, with the Tēghumōd counting-houses at Ashkarad settling what tribes owe one another; the Tellumi craftsmen and merchants of the cities have begun to adopt modest moneylender practices along Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]). Tolls are paid in kind or in coin as the caravan master prefers. Foreign coin (Vylarian Ardin from western trade, Khelâthi gezan pieces from southern trade) circulates by intrinsic-metal value among traders.
 
 ## See Also
 

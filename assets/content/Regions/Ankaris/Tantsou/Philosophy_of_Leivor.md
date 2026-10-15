@@ -13,7 +13,7 @@ Léiwō teaches that the world is sustained by **Léi**, the cosmic energy that 
 
 ## One Energy, Many Models
 
-The Tāntsou Léi is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Ordo Arcanis]] pictures it in elemental geometries; the [[lore-flksinale|Sinalë]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazári]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
+The Tāntsou Léi is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Thôrdimâlon]] pictures it in elemental geometries; the [[lore-flksinale|Sinalë]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazári]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
 
 The Tāntsou model is administrative. Léi is the energy that keeps sorted things in their categories. The model sees some things the others miss, and it is blind where they are not.
 
@@ -54,7 +54,7 @@ Two domains lie beyond any single lord, because they are too near the root of th
 
 Every magical tradition channels the cosmic energy through mental forms, structured images built from the practitioner's own aura, and the form decides how the energy flows. The Tāntsou build their forms as documents.
 
-A [[lore-wanduo|Wánduo]] sorcerer preparing a working builds a formal petition in his mind's eye: addressed to the right celestial bureau, stamped with the right seals of authority, and filed through the proper channels. The petition is the form. The seals hold it together, the address decides which domain the energy runs through, and the wording fixes the effect. The image genuinely shapes the energy, as the Ordo's geometries shape theirs, and it gives Tāntsou magic a character of its own.
+A [[lore-wanduo|Wánduo]] sorcerer preparing a working builds a formal petition in his mind's eye: addressed to the right celestial bureau, stamped with the right seals of authority, and filed through the proper channels. The petition is the form. The seals hold it together, the address decides which domain the energy runs through, and the wording fixes the effect. The image genuinely shapes the energy, as the Arcane Order's geometries shape theirs, and it gives Tāntsou magic a character of its own.
 
 **What the model does well.**
 

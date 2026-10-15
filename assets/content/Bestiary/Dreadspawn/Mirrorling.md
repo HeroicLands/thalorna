@@ -414,7 +414,7 @@ A mirrorling claims a place full of reflections and stays in it. It does not hun
 
 ## What the Household Does
 
-The family keeps the mirror gallery locked and its windows shuttered, and no candle is lit in it, because a dark gallery is a quiet one. Servants are told never to quarrel in the house and never to strike anyone, a rule the steward enforces with dismissal, because a fight in any room with a mirror has brought the creature through the glass. Mirrors in the family's wing have been covered with cloth. A scholar of the [[affiliation-panepistmm|Panepistemium]], quietly consulted, advised them to break every mirror in the house and fight it in the dark, and the family, who paid for the mirrors, has not yet done so. Rivals on Torvel have heard rumors, and an invitation to dine on Selvin is now accepted with care.
+The family keeps the mirror gallery locked and its windows shuttered, and no candle is lit in it, because a dark gallery is a quiet one. Servants are told never to quarrel in the house and never to strike anyone, a rule the steward enforces with dismissal, because a fight in any room with a mirror has brought the creature through the glass. Mirrors in the family's wing have been covered with cloth. A scholar of the [[affiliation-panepistmm|Plûmepistémion]], quietly consulted, advised them to break every mirror in the house and fight it in the dark, and the family, who paid for the mirrors, has not yet done so. Rivals on Torvel have heard rumors, and an invitation to dine on Selvin is now accepted with care.
 
 ## Signs
 

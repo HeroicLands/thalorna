@@ -46,7 +46,7 @@ data:
 
 A [[lore-khelathiclt|Khelâthi]] seldom asks what month it is; he asks what the river is doing. The Khelâthi calendar answers him: three seasons of four thirty-day months each, named for the water, with five days left over at the end that belong to no month.
 
-"Twelve months of thirty make three hundred and sixty, and the year is three hundred and sixty-five," a calendar-keeper at a temple of [[lore-rethsaardty|Reth'Sa'âr]] tells a clerk who has never counted past the tax rolls. "The five that remain are not a month and not a gap. They close the year, so the count stays whole without a leap, and then the water rises and it begins again." Khelâthi astronomers are proud of the fit and say so: the calendar tracks the solar year with a precision they hold unmatched anywhere in western **Ankaris**, and they point out that its seasons are named for what the river does, while the western calendar begins from a senator's coup.
+"Twelve months of thirty make three hundred and sixty, and the year is three hundred and sixty-five," a calendar-keeper at a temple of [[lore-rethsaardty|Reth'Sa'âr]] tells a clerk who has never counted past the tax rolls. "The five that remain are not a month and not a gap. They close the year, so the count stays whole without a leap, and then the water rises and it begins again." Khelâthi astronomers are proud of the fit and say so: the calendar tracks the solar year with a precision they hold unmatched anywhere in western **Ankaris**, and they point out that its seasons are named for what the river does, while the western calendar begins from a _kurthândôs_'s coup.
 
 ## Three Counts
 

@@ -3,7 +3,7 @@ shortcode: bedarrekmozk
 name: {full: Bedárrek Mozkarrándis, aliases: [Merchant-Lord Bedárrek]}
 type: being
 subType: npc
-description: A wealthy and politically connected trader whose interests Cárenna Gráveth opposed in a recent negotiation.
+description: A wealthy and politically connected trader whose interests Kárenna Gráveth opposed in a recent negotiation.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Bedárrek Mozkarrándis is a 46-year-old man who stands 5'10" tall with a medium
 
 # Dossier {#dossier}
 
-Bedárrek Mozkarrándis is a wealthy and politically connected merchant-lord whose interests [[being-carengrvth|Cárenna Gráveth]] opposed in a recent negotiation. He holds documented evidence of her conflicts of interest and offers her a choice between commercial concessions and exposure to the king's justice.
+Bedárrek Mozkarrándis is a wealthy and politically connected merchant-lord whose interests [[being-carengrvth|Kárenna Gráveth]] opposed in a recent negotiation. He holds documented evidence of her conflicts of interest and offers her a choice between commercial concessions and exposure to the king's justice.

@@ -24,7 +24,7 @@ data:
         title: Freedman
         description: Manumitted, and in the imperial household often far more powerful than the rank suggests.
       - level: 3
-        title: Peregrine
+        title: Pâlvêthôs
         description: >-
           A resident living under imperial authority without the citizenship—born to the empire, taxed by it, and holding no share in it, as the great majority of its people do.
       - level: 4
@@ -32,33 +32,33 @@ data:
         description: >-
           Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Ôrzâra, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
-        title: Equestrian
+        title: Gûlmâlênôs
         description: >-
-          Of the propertied order from which the prefectures, the procuratorships and the great commands are filled.
+          Of the propertied order from which the ûsâlâr, the kharêzâlâr and the great commands are filled.
       - level: 6
-        title: Senator
+        title: Kurthândôs
         description: >-
           Of the senatorial families, holding a seat for life and the empire's highest civil offices with it.
       - level: 7
-        title: Consular
+        title: Tâvâlênôs
         lore: formermagrnk
-        description: Having held the consulship, and eligible thereafter for the greatest provincial commands.
+        description: Having held the tâvâlon, and eligible thereafter for the greatest provincial commands.
       - level: 8
-        title: Governor
+        title: Thêrkhôs
         description: >-
           Holding the province for the emperor, commanding its garrison and its courts, and answerable to him alone.
     offices:
-      Governor: >-
+      Thêrkhôs: >-
         Holder of the province in the emperor's name, commanding its garrison, its revenue and its courts.
-      Legate: Commander of the legion stationed in the province, and the governor's deputy in the field.
-      Procurator: >-
-        Officer of the imperial revenue within the province, reporting past the governor to the emperor.
-      Quaestor: Officer of the provincial treasury and of its accounts.
-      Prefect of the Watch: Commander of the province's urban cohorts and keeper of its peace.
-      Curator of the Roads: Warden of the imperial roads, their posts, their bridges and the levy that maintains them.
-      Duumvir: One of the two annually elected chief magistrates of a chartered town within the province.
-      Decurion: Member of a town's council, liable in his own person for the taxes it owes.
-      Flamen: >-
+      Vandrax: Commander of the legion stationed in the province, and the thêrkhôs's deputy in the field.
+      Kharêzândôs: >-
+        Officer of the imperial revenue within the province, reporting past the thêrkhôs to the emperor.
+      Târkhêlândôs: Officer of the provincial treasury and of its accounts.
+      Zôralûsândôs: Commander of the province's urban cohorts and keeper of its peace.
+      Pôzêrûsândôs: Warden of the imperial roads, their posts, their bridges and the levy that maintains them.
+      Tâvemândôs: One of the two annually elected chief magistrates of a chartered town within the province.
+      Kurthâlândôs: Member of a town's council, liable in his own person for the taxes it owes.
+      Zalvândôs: >-
         Priest of the provincial cult, presiding over the rites that bind the province to the capital.
   seat: mercavia
   population: 5000000
@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Province of Sâlkhâlon holds the land of [[place-salkhalon|Sâlkhâlon]], and its merchant class has the most dealings with [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-helionis|Heliónis]] and the other maritime powers, which makes Sâlkhâlon the most cosmopolitan and commercially minded province of the empire. The governor sits at [[place-mercavia|Mercavia]].
+The Province of Sâlkhâlon holds the land of [[place-salkhalon|Sâlkhâlon]], and its merchant class has the most dealings with [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-helionis|Heliónis]] and the other maritime powers, which makes Sâlkhâlon the most cosmopolitan and commercially minded province of the empire. The _thêrkhôs_ (governor) sits at [[place-mercavia|Dêlâlâra]].
 
-A customs factor at the Mercavia quay, checking a new clerk's manifests, makes the political point in a sentence: "Every cask that crosses this wharf has been taxed by Ôrzâra and argued over by Mercavia. Learn to keep both sides of the account, and learn not to say which side you are on."
+A customs factor at the Dêlâlâra quay, checking a new clerk's manifests, makes the political point in a sentence: "Every cask that crosses this wharf has been taxed by Ôrzâra and argued over by Dêlâlâra. Learn to keep both sides of the account, and learn not to say which side you are on."
 
 ## Character
 
 Sâlkhâlon is where the old empire meets the new world. The province's port cities bustle with foreign merchants, sailors and travelers, and the province's aristocracy has adapted to this reality more readily than its counterparts elsewhere. The great families made their fortunes in shipping and trade, and they think in terms of markets and margins rather than ancestral land and senatorial tradition.
 
-That commercial outlook sets Sâlkhâlon at odds with the conservative faction in [[affiliation-provnchyln|Hylen]] and sometimes with the political establishment in [[affiliation-provinclys|Alyssa]]. The province's merchants argue for trade liberalization and engagement with Tarûzel, and the capital's politicians see this as dangerously close to collaboration with the enemy.
+That commercial outlook sets Sâlkhâlon at odds with the conservative faction in [[affiliation-provnchyln|Hilen]] and sometimes with the political establishment in [[affiliation-provinclys|Alêssâ]]. The province's merchants argue for trade liberalization and engagement with Tarûzel, and the capital's politicians see this as dangerously close to collaboration with the enemy.
 
 The loss of Tarûzel hit Sâlkhâlon hardest. Before the war of independence, its ports were the gateway to eastern trade. Now Tarûzelian ships compete with them directly, and its merchants find themselves squeezed between resentment of Tarûzelian commerce and dependence on it.
 
@@ -95,15 +95,15 @@ The loss of Tarûzel hit Sâlkhâlon hardest. Before the war of independence, it
 
 ## Life in the Province
 
-Sâlkhâlon is the empire's seafront: a long worked coast of harbors, shipyards, curing-sheds and fishing fleets, backed by an inland belt of farm estates that feed the ports. The coast lives by the sea, with the navy at [[place-castamar|Castamar]], trade at [[place-mercavia|Mercavia]] and fish everywhere between. The interior around [[place-terravia|Terravia]] is quiet estate-country, closer in temper to [[affiliation-provnchyln|Hylen]].
+Sâlkhâlon is the empire's seafront: a long worked coast of harbors, shipyards, curing-sheds and fishing fleets, backed by an inland belt of farm estates that feed the ports. The coast lives by the sea, with the navy at [[place-castamar|Kastamar]], trade at [[place-mercavia|Dêlâlâra]] and fish everywhere between. The interior around [[place-terravia|Thêrkhâra]] is quiet estate-country, closer in temper to [[affiliation-provnchyln|Hilen]].
 
-Power is divided three ways among the merchant houses of Mercavia, the naval command at Castamar, and the imperial customs that tax it all. Since Tarûzel's secession broke Vylarian sea-supremacy, all three are anxious and at odds, and the constant friction is between merchants who want Tarûzelian trade and admirals who want Tarûzelian blood.
+Power is divided three ways among the merchant houses of Dêlâlâra, the naval command at Kastamar, and the imperial customs that tax it all. Since Tarûzel's secession broke Vylarian sea-supremacy, all three are anxious and at odds, and the constant friction is between merchants who want Tarûzelian trade and admirals who want Tarûzelian blood.
 
-The province has been raided from the north once. In 523 a crew out of the Southern Fleets brought a captured galley through the western strait to the bay of [[place-braldvik|Braldvík]], lost it to a Castamar squadron whose fire burned the village's boats with it, and went to the imperial oars the next spring; the town still carries their name for it and still bills the admiralty for the boats.
+The province has been raided from the north once. In 523 a crew out of the Southern Fleets brought a captured galley through the western strait to the bay of [[place-braldvik|Braldvík]], lost it to a Kastamar squadron whose fire burned the village's boats with it, and went to the imperial oars the next spring; the town still carries their name for it and still bills the admiralty for the boats.
 
 Trouble in Sâlkhâlon is maritime: smuggling and customs-running (a [[place-tholkezora|Thôlkezôra]] specialty), shipping intrigue and insurance fraud, naval politics and ship-money, piracy and wrecking along the lonelier coast, and foreign agents in the cosmopolitan ports.
 
-What is abundant is fish, ships, salt and foreign news. What is scarce is grain, which comes from the interior and from [[affiliation-provnchyln|Hylen]], and any love for the imperial tax-farmer.
+What is abundant is fish, ships, salt and foreign news. What is scarce is grain, which comes from the interior and from [[affiliation-provnchyln|Hilen]], and any love for the imperial tax-farmer.
 
 ## Commerce and Currency
 
@@ -115,4 +115,4 @@ The Province of Sâlkhâlon uses the [[lore-vylrncrncy|Vylarian currency]] (Sold
 - [[place-salkhalon|Sâlkhâlon]]—the land the province holds
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—commercial rival and trading partner
 - [[place-vylarianse|Vylarian Sea]]—maritime domain
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]]—sister provinces
+- [[affiliation-provinclys|Province of Alêssâ]], [[affiliation-provnchyln|Province of Hilen]], [[affiliation-provncmktr|Province of Moktur]]—sister provinces

@@ -91,4 +91,4 @@ The party must devise and execute a plan to break the blockade. Options include:
 - [[affiliation-vylarinmpr|Vylarian Empire]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]

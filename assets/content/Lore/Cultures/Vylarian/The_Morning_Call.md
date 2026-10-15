@@ -25,7 +25,7 @@ data:
 
 **The Morning Call** is the third satire in the book of **Nîzêlar**, a client-poet of [[place-orzara|Ôrzâra]] who lived in the Warrens and attended a patron on the Heights, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vylarian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nîzêlar's book is read aloud after dinner in the houses of [[place-selvin|the Laurel]] and the Coronal by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
 
-The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the Alyssa street speech, with the worn-down _a'_ the schoolmasters correct: _a' thelmôs lôkhâtôr; a' daimêlâ phâlvâtôr_, "the client's come; the patron's out." The steward at the door says the same thing in High Vylari, with one vowel changed, and the poem turns on the vowel: the steward gives the patron's absence in the subjunctive, as a thing alleged, which is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
+The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the Alêssâ street speech, with the worn-down _a'_ the schoolmasters correct: _a' thelmôs lôkhâtôr; a' daimêlâ phâlvâtôr_, "the client's come; the patron's out." The steward at the door says the same thing in High Vylari, with one vowel changed, and the poem turns on the vowel: the steward gives the patron's absence in the subjunctive, as a thing alleged, which is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
 
 : The Morning Call {#call}
 
@@ -49,10 +49,10 @@ The client's come. The patron's out.
 
 Up from the River Hill to the Laurel, every street a stair,
 past the fountain that has not thrown water since the last Ôrzâs but one,
-which the Aedile's clerk has entered in the roll as resting,
+which the ward-magistrate's clerk has entered in the roll as resting,
 past the colonnade whose columns are resting, and the arch,
 which is resting very hard on two of its legs and considering the third,
-past the porters, who are not resting, and who curse me in Hylen speech
+past the porters, who are not resting, and who curse me in Hilen speech
 for a man in a white gown who walks where they need to put a sack.
 Here is the Laurel. Here are the houses. Here is the garden wall,
 and the door, and the bronze on the door, and in front of the door,
@@ -65,7 +65,7 @@ and he sets the line in order down the steps, as the Senate is set,
 the first client at the top step and the last at the bottom,
 and between them all the empire, step by step, measured to the hair.
 Twelve years ago I stood on the fourth step. That was a good year.
-Then the third son of the senator from Alyssar came, and I was on the fifth.
+Then the third son of the senator from Alêssar came, and I was on the fifth.
 Then a freedman of the house, whose master had died and left him a vineyard
 and a seal and an opinion of himself, and I was on the sixth.
 Then a dealer in Tarûzelian silk, whose patron's patron sits in the Senate,
@@ -112,7 +112,7 @@ I would take it short. I would take it late. I would take it in one hand.
 
 The patron dines. I am asked to dine. That was the year of the fourth step.
 I lay on the lowest couch at the end where the draught comes in,
-and the wine came round, and the wine was red from the Hylen hills,
+and the wine came round, and the wine was red from the Hilen hills,
 and it came round to me, and when it reached me it was pink.
 The patron spoke of the empire and its frontiers. The patron spoke of the dole,
 and said it was the ruin of the treasury, and the man beside me agreed,
@@ -120,7 +120,7 @@ and the man beside me was eating a quail that cost my month.
 The patron spoke of the virtue of our fathers. Let me speak of the fathers.
 
 Two doors down the Laurel there is a new house, raised last spring,
-an Adlect house, a house the sovereign raised for a gift of ships,
+an elevated house, a house the sovereign raised for a gift of ships,
 and the cupboard of masks by its door was empty when they raised it,
 since a house that is new has no faces, and a house with no faces is not a house.
 They had it filled in a month from a sculptor's yard in the Gilded Quarter.

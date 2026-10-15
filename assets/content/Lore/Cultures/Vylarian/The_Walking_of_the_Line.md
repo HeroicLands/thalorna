@@ -64,7 +64,7 @@ to stand outside it. I have asked you for many things. This is the hardest.
 Keep the line from outside it." And the legions said nothing, as legions say nothing,
 and the eagle-bearers grounded the eagles' poles on the flats, and they stood.
 
-As when a farmer in the hills of Hylen, the morning his eldest goes for a soldier,
+As when a farmer in the hills of Hilen, the morning his eldest goes for a soldier,
 walks the boy down to the boundary stone of the field and no further than the stone,
 because the field is the farmer's and the road beyond it is the eagle's,
 and stands at the stone with his hand on it and watches the boy down the road,
@@ -101,7 +101,7 @@ and its commander will be crowned by strangers, and not come home,
 and the chancery will strike his name and not write it again, and the empty roll
 will end at the quay. And at home the sovereign will die and name no one,
 and three eagles will be carried before three thrones, cast in one arsenal,
-and legions will kill legions in the wheat of Hylen and leave the wheat standing,
+and legions will kill legions in the wheat of Hilen and leave the wheat standing,
 and the bread will not come, and the city will burn from the low wards up
 over the Old Hill where you were born, six days, and the Old Hill will not rise.
 An eagle will be carried north into the forest and come back out of the reeds.
@@ -156,7 +156,7 @@ The Senator went in through the bronze door to the dark, and came out carrying
 the bone-chest of the founder of the house, and walked it down the slope to the road,
 outside the place where the line would go, and set it down on the road in the dust,
 and went back up for the next, and the next, nine times, and last the mother.
-As when the river comes up in the spring over the low farms of Hylen
+As when the river comes up in the spring over the low farms of Hilen
 and the farmer carries the seed-jars out of the cellar to the threshing-floor,
 one jar and then one, and goes down again into the water to the knee, to the waist,
 and does not stop to see how high the water is, because the seed is the year, so the Senator went

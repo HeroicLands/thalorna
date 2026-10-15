@@ -84,13 +84,13 @@ The Free Territory of Eskárath holds the land of [[place-eskarath|Eskárath]]. 
 
 ## Character
 
-The Eskárathi are not Tarvéni. They know it, the Tarvéni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vylarian governor tries to impose direct rule—attempts that have invariably ended badly for the outsider; the first Vylarian governor to try it lost his escort in the high meadows and was not replaced ([[lore-lowlandstaken|The Lowlands Taken]]).
+The Eskárathi are not Tarvéni. They know it, the Tarvéni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vylarian _thêrkhôs_ (governor) tries to impose direct rule—attempts that have invariably ended badly for the outsider; the first Vylarian _thêrkhôs_ to try it lost his escort in the high meadows and was not replaced ([[lore-lowlandstaken|The Lowlands Taken]]).
 
 Eskári culture is ancient, insular, and deeply rooted in the highland landscape. The people live in scattered mountain communities governed by clan elders, and major decisions affecting the territory as a whole are made by the **Biltzárrath**—a council of elders that meets in a high mountain meadow at the summer solstice. The Biltzárrath has no permanent seat, no bureaucracy, and no written constitution; it operates on oral tradition and consensus, and its decisions carry the weight of centuries of custom.
 
 The Eskárathi religion is nominally [[affiliation-arldnpnthn|Aurèldían]], but in practice it is layered over a much older animistic tradition. The highland people venerate mountain spirits, forest guardians, and ancestral figures alongside (or instead of) the Aurèldían gods. Shrines to local spirits are found at mountain passes, springs, and ancient oak groves, and the folk practices of the Eskárathi have more in common with the [[lore-aelendnppl|Áelendan traditions]] across the border in [[place-elavendre|Élavendre]] than with anything in lowland Tarvénia. This cultural affinity with the Élavendren highlands—and the ethnic distinctiveness from the Tarvéni—gives the Eskárathi a liminal quality, belonging fully to neither Tarvénia nor Élavendre.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has never established a presence in Eskárath. The few Ordo agents who have ventured into the highlands report that the Eskárathi have their own magical traditions—herb-lore, weather-reading, and a form of ancestral communion—that they practice openly and refuse to submit to outside regulation.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] has never established a presence in Eskárath. The few Arcane Order agents who have ventured into the highlands report that the Eskárathi have their own magical traditions—herb-lore, weather-reading, and a form of ancestral communion—that they practice openly and refuse to submit to outside regulation.
 
 ## Commerce and Currency
 
@@ -102,5 +102,5 @@ Free Territory of Eskárath uses the [[lore-vylrncrncy|Vylarian currency]] (Sold
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
 - [[place-eskarath|Eskárath]]—The land the Free Territory holds
 - [[place-elavendre|Élavendre]]—Northern neighbor (cultural affinity)
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The three kingdoms
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The three kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]]—Fellow Tarvénan free polity

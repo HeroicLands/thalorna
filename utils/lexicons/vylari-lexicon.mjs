@@ -80,7 +80,7 @@ export const CONFIG = {
         paths: [
             "Regions/Ankaris/Midhalion/Vylaria/",
             "Affiliations/Organizations/Vylarian/",
-            "Skills/Scripts/Semarion.md",
+            "Skills/Scripts/Semaron.md",
             "Skills/Scripts/Tharavarkon.md",
         ],
         notes: ["Lore/Cultures/Vylarian.md", "Skills/Languages/Vylari.md"],

@@ -106,7 +106,7 @@ The combat doctrine is built on heavy weapons: the two-handed hammer, the short 
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a peer, and the two cooperate when a matter needs both legal and tactical authority.
 - **The [[affiliation-gronverdir|Green Wardens]]** cooperate with the Speakers formally in winter, since weather and harvest are interrelated concerns.
 - **The [[affiliation-thursborn|Giant's Children]]** are the order's closest neighbors in belief, because both orders take an interest in primal forces. They cooperate in the field more often than the Speakers do with the more domestic orders.
-- **The [[affiliation-ordoarcanis|Ordo Arcanis]]** has tried formal cooperation with no other Asguardian fighting order. It proposed joint research into weather-craft, the order politely declined, and the order regards Ordo interest in its weather-craft with grave suspicion.
+- **The [[affiliation-ordoarcanis|Thôrdimâlon]]** has tried formal cooperation with no other Asguardian fighting order. It proposed joint research into weather-craft, the order politely declined, and the order regards Arcane Order interest in its weather-craft with grave suspicion.
 
 ## How to Know a Speaker
 
@@ -114,7 +114,7 @@ A Sworn Speaker wears the order's harness, heavy mail under a dark gray surcoat,
 
 ## Trouble on the Coast
 
-- **The Ordo Approach.** A senior Ordo Arcanis representative proposes, through diplomatic channels, a formal exchange of weather-craft research. The proposal comes with large financial inducements and the discreet implication that refusal might be unwise. The Voice of the Hammer's answer will set the order's posture toward the Ordo for a generation.
+- **The Arcane Order Approach.** A senior Thôrdimâlon (the Arcane Order) representative proposes, through diplomatic channels, a formal exchange of weather-craft research. The proposal comes with large financial inducements and the discreet implication that refusal might be unwise. The Voice of the Hammer's answer will set the order's posture toward the Arcane Order for a generation.
 - **The Wasted Storm.** Rumor says a young Sworn Speaker called a squall for a purpose the order counts as trivial, to embarrass a romantic rival. The accusation is plausible. The rival is the son of a powerful jarl, who has complained formally, and the Speaker denies it. The Storm-Captain of his chapter must investigate.
 - **The Reading That Was Wrong.** A senior Speaker, consulted on weather for a major fleet movement, gave a reading that proved disastrously wrong; ships were lost and lives with them. He swears his reading was correct and that the weather changed in a way no Speaker could have predicted. The Storm-Captains must decide whether the cause was incompetence, an honest misreading of unprecedented conditions, or something more troubling: that in one region the weather itself is becoming illegible.
 - **The Incursion Beneath.** A Storm-Captain on the western coast has identified, by readings she cannot explain in public, what she believes is an imminent chaos incursion in the deep waters off her chapter. Inexplicable storms and disappearances support her. She is gathering a unit of Speakers and intends to act, and the Voice of the Hammer has not yet been told.

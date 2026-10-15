@@ -45,7 +45,7 @@ ORDER BY data.population DESC, name.full COLLATE NOCASE
 
 Three great guilds hold Tarûzel in fact, and you meet each of them differently.
 
-- The [[affiliation-auricompct|Auric Compact]] financed the war and holds the Confederation's debt. You meet it as a letter of credit honored across Mídhalión, as a seal that makes a contract bind like a court order, and, if you default, as an enforcer at your door. Its counting house in Besîkar stands in the old Vylarian governor's palace.
+- The [[affiliation-auricompct|Auric Compact]] financed the war and holds the Confederation's debt. You meet it as a letter of credit honored across Mídhalión, as a seal that makes a contract bind like a court order, and, if you default, as an enforcer at your door. Its counting house in Besîkar stands in the old Vylarian _thêrkhôs_'s palace.
 - The [[affiliation-corsairleg|Corsair League]] grew out of the captains who fought at the Shoals and is now the shipping cartel that serves as the Confederation's navy. Its members carry swords on any quay and pass customs without delay. A Tarûzelian-flagged ship that sails outside the League's umbrella waits for berths and meets the occasional "mistaken" attack at sea.
 - The [[affiliation-mrchntryvl|Merchantry of the Veil]] deals openly in silks, spices and rare goods and secretly in information. Its agents wear sigil rings and greet each other with phrases that sound like small talk. It moves the cargoes the other guilds will not touch, and it is the guild most likely to offer an unaffiliated crew work.
 
@@ -78,7 +78,7 @@ Spiced meats, flatbreads, honeyed pastries and strong coffee are the food of eve
 
 ## Coin and Script
 
-Land with Vylarian traveler's notes and the first moneylender you visit pushes them back across the table. The [[lore-trzlncrncy|Tarûzelian currency]] uses the Vylarian denominations—1 Solden is 160 Ard, and 1 Ard is 8 Bits—but the coins are struck in Tarûzel and banked through the **Merâzûnî**, the treasury the Qubâsum runs. The Tarûzelian Solden is about 7 percent light by the Vylarian standard. It passes at face value anywhere in the islands; a Vylarian or Khelâthi changer weighs it and pays less. Merâzûnî script is honored at any Merâzûnî-affiliated moneylender in the Confederation and at no Vylarian house, and the reverse holds too. A merchant crossing between the two converts through coin, usually at the Heliónite houses that keep accounts on both sides.
+Land with Vylarian traveler's notes and the first moneylender you visit pushes them back across the table. The [[lore-trzlncrncy|Tarûzelian currency]] uses the Vylarian denominations—1 Solden is 160 Ardin, and 1 Ardin is 8 Bits—but the coins are struck in Tarûzel and banked through the **Merâzûnî**, the treasury the Qubâsum runs. The Tarûzelian Solden is about 7 percent light by the Vylarian standard. It passes at face value anywhere in the islands; a Vylarian or Khelâthi changer weighs it and pays less. Merâzûnî script is honored at any Merâzûnî-affiliated moneylender in the Confederation and at no Vylarian house, and the reverse holds too. A merchant crossing between the two converts through coin, usually at the Heliónite houses that keep accounts on both sides.
 
 ## The Anger Under the Coast
 
@@ -86,7 +86,7 @@ Land with Vylarian traveler's notes and the first moneylender you visit pushes t
 
 Pinned in every veterans' hall is a broadsheet gone brown at the edges: a broken chain, a rising sun, a ship under a Tarûzelian flag, and the words _we bleed gold for an empire that gives us nothing but chains_. The guilds printed it to raise a war. The dock workers, fishermen, tribesmen and captains who fought were promised land, guild membership, pensions and a voice in the new government, and they received a discharge and a small purse of silver.
 
-The merchant princes answer that they never lied. They spoke of freedom, and Tarûzel is free of imperial taxes, imperial governors and conscription into foreign legions. What followed the peace is not in dispute. Prominent veterans were accused of debts they did not owe and crimes they did not commit, bought off with small posts, or imprisoned. Captains who refused to be silenced were declared outlaws, and many of them now raid guild shipping from the island channels as the **Free Captains**, the **Unchained** and the **Shoals Brotherhood**. The guilds call them all pirates.
+The merchant princes answer that they never lied. They spoke of freedom, and Tarûzel is free of imperial taxes, imperial _thêrkhoi_ (governors) and conscription into foreign legions. What followed the peace is not in dispute. Prominent veterans were accused of debts they did not owe and crimes they did not commit, bought off with small posts, or imprisoned. Captains who refused to be silenced were declared outlaws, and many of them now raid guild shipping from the island channels as the **Free Captains**, the **Unchained** and the **Shoals Brotherhood**. The guilds call them all pirates.
 
 Unrest rises and is put down: a harbor strike in Yamûzel, a tax riot in Besîkar's dock districts, a tribal raid on a guild caravan. The guilds answer with revoked licenses, called-in debts, blacklisted families and quiet enforcers. They send no soldiers, because soldiers make martyrs. The [[affiliation-thetamzir|Tamzîr]], a battered coastal trader whose captain fought at the Shoals, works the margins of that order, and her crew is a ready-made company for a campaign.
 
@@ -98,7 +98,7 @@ Unrest rises and is put down: a harbor strike in Yamûzel, a tax riot in Besîka
 
 Tarûzelians are not much interested in doctrine and are very interested in omens, luck and the god who governs a particular sea route. The [[affiliation-arldnpnthn|Aurèldían Pantheon]], brought by the Vylarian conquest, holds the coastal cities. Merchants favor [[lore-olveniadty|Ólvenía]] for prosperity and [[lore-marendasdty|Mârendâs]] for knowledge, and sailors pray to [[lore-brazemasdty|Brâzêmâs]] of the storms before a sailing. The eastern states and the hill tribes keep the older [[affiliation-ashanpnthn|Āsháian Pantheon]], and in Qudûmel it is the dominant faith; its **Temple of Two Fires** holds the rites of both pantheons under one roof. Houses endow temples and publicize the endowments. A foreign priest who arrives with theology finds the ports polite and inattentive; one who arrives with a reputation for effective blessings finds them generous.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps chapters in the major cities, but the guilds suspect it of serving Vylarian interests and restrict its work. Hedge mages, alchemists and fortune-tellers are more common here than in Vylaria, and in Qudûmel the traditions that come with the caravans are practiced openly.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] keeps chapters in the major cities, but the guilds suspect it of serving Vylarian interests and restrict its work. Hedge mages, alchemists and fortune-tellers are more common here than in Vylaria, and in Qudûmel the traditions that come with the caravans are practiced openly.
 
 ## Neighbors
 
@@ -154,6 +154,6 @@ Campaigns start well from a debt. A house calls in a loan from a captain who can
 | vezâkum               | A guild-warden; the senior _vezâkum_ of each trade sits on the Vezâkûnî's council.               |
 | Warden of the Weights | The inspector of measures, coin and quality in a city's markets.                                 |
 
-Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-taruzelianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

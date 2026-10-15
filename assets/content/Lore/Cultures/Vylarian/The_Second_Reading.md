@@ -22,7 +22,7 @@ data:
 # terran_analog: "Livy's annalistic history, with its year-by-year lists of prodigies reported and expiated and its omens disregarded before a disaster; the Roman augurs and the sacred chickens that would not eat before the battle of Drepana, and the consul who drowned them; and Varus's legions lost in the Teutoburg forest, whose eagles were not all recovered."
 ---
 
-**The Second Reading** is the tale the **Omelars** of the legions tell a chaplain on the night of his licensing. An Ôzêthândôs is licensed jointly by the legions and the [[affiliation-ordoarcanis|Ordo Arcanis]] to read the signs for an army, in a bird or a flame, and his licensing ends at night in the camp shrine with the Omelars of the legion around the fire. The oldest of them tells the tale while the new one keeps the fire. It is set down here in the manner the Omelars use, which is the manner of the annals: the year, its signs, and then what was done, in that order, with no word given to what anyone felt, because the annals give none.
+**The Second Reading** is the tale the **Omelars** of the legions tell a chaplain on the night of his licensing. An Ôzêthândôs is licensed jointly by the legions and the [[affiliation-ordoarcanis|Thôrdimâlon]] to read the signs for an army, in a bird or a flame, and his licensing ends at night in the camp shrine with the Omelars of the legion around the fire. The oldest of them tells the tale while the new one keeps the fire. It is set down here in the manner the Omelars use, which is the manner of the annals: the year, its signs, and then what was done, in that order, with no word given to what anyone felt, because the annals give none.
 
 The tale is about [[lore-twelfthloss|the Loss of the Twelfth]], and its Ôzêthândôs is **Sîlkimar**, the chaplain of the Dôrêkhênôs Hîlthêrênôs. The army's record names no chaplain of the Twelfth, and the Omelars hold that this proves nothing either way, since the record names no chaplain of any legion. The tale turns on a vowel. A second reading ordered by a commander is given in the subjunctive, which in Vylari makes a reason something alleged and not vouched for, and the tale's whole matter is a man who did that and a man who did not hear it. The rendering marks the moved vowel "so it is said."
 
@@ -48,7 +48,7 @@ On the evening the fort's gate was hung, the Thrâmezûsândôs called the Ôzê
 
 ## The First Reading
 
-Sîlkimar built the fire in the fort's shrine as the rite prescribes, of dry wood and laurel on the bare stone, before the eagle, with the Thrâmezûsândôs standing on the eagle's right and the Hôltâkhêzândôs on its left, and the tribunes behind. He lit it from the kept fire the legion carried with it in its clay pot. He fed it three times. A flame read for a march is read for its lean: a flame that leans the way the army means to go is the gods walking ahead of it, and a flame that leans back toward the army is the gods standing in its road.
+Sîlkimar built the fire in the fort's shrine as the rite prescribes, of dry wood and laurel on the bare stone, before the eagle, with the Thrâmezûsândôs standing on the eagle's right and the Hôltâkhêzândôs on its left, and the Lusari behind. He lit it from the kept fire the legion carried with it in its clay pot. He fed it three times. A flame read for a march is read for its lean: a flame that leans the way the army means to go is the gods walking ahead of it, and a flame that leans back toward the army is the gods standing in its road.
 
 The flame leaned east, back down the valley the legion had come up, toward the quarters and the river and the capital.
 
@@ -74,7 +74,7 @@ He fed it, and it leaned east. He waited the time it takes to say the names of t
 
 Then Sîlkimar stood up from the fire and spoke the reading in High Vylari, as a reading is spoken. He said: "The flame burns clear. The gods go up the pass, because, so it is said, they go up the pass."
 
-The Thrâmezûsândôs heard that the flame burned clear and the gods went up the pass. He was a man of an old house and had learned his grammar from a tutor, and he had not used the subjunctive since he left the tutor's room except to doubt a tradesman's bill. The tribunes behind him heard what the Thrâmezûsândôs heard. The Hôltâkhêzândôs of the Twelfth, who had come up from the commoner track over thirty years and had sat in the camp courts through every one of them, heard the vowel, and turned his head, and looked at the Ôzêthândôs, and the Ôzêthândôs looked back at him. The Hôltâkhêzândôs said nothing. The Hôltâkhêzândôs had sworn the oath, and the oath was to the eagle, and the eagle was going up the pass.
+The Thrâmezûsândôs heard that the flame burned clear and the gods went up the pass. He was a man of an old house and had learned his grammar from a tutor, and he had not used the subjunctive since he left the tutor's room except to doubt a tradesman's bill. The Lusari behind him heard what the Thrâmezûsândôs heard. The Hôltâkhêzândôs of the Twelfth, who had come up from the commoner track over thirty years and had sat in the camp courts through every one of them, heard the vowel, and turned his head, and looked at the Ôzêthândôs, and the Ôzêthândôs looked back at him. The Hôltâkhêzândôs said nothing. The Hôltâkhêzândôs had sworn the oath, and the oath was to the eagle, and the eagle was going up the pass.
 
 Sîlkimar entered the second reading in the book as he had spoken it, with the vowel.
 
@@ -109,7 +109,7 @@ When the tale is finished the oldest Ôzêthândôs asks the new one to read the
 - [[lore-twelfthloss|The Loss of the Twelfth]]—the march into the Cervaron and the eagle under the snow
 - [[place-twelfthcamp|The Twelfth's Last Camp]]—the fort at the foot of the passes
 - [[affiliation-vylrnmltry|Vylarian Military]]—the Omelars, the Thrâmezûsândôs, the Hôltâkhêzândôs and the two tracks
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the half of the Ôzêthândôs's license the legions do not hold
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the half of the Ôzêthândôs's license the legions do not hold
 - [[place-alndntrblnds|Áelendan Tribal Lands]]—the clans who let the legion climb
 - [[skill-vylarilng|Vylari]]—the subjunctive that says a reason is only alleged
 - [[lore-vylarianclt|Vylarian]]—the diviner, the oath and the eagle

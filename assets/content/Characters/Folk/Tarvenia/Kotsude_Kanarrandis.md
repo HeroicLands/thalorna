@@ -3,7 +3,7 @@ shortcode: kotsudekanar
 name: {full: Kotsúde Kanarrándis, aliases: [Ser Kotsúde]}
 type: being
 subType: npc
-description: A mysterious old warrior-knight who rides a horse of extraordinary age, named in Kjôrvan Gjârlen.
+description: A mysterious old warrior-knight who rides a horse of extraordinary age, named in Chorvàn Jarlèn.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Kotsúde Kanarrándis is a 68-year-old man who stands 5'11" tall with a medium b
 
 # Dossier {#dossier}
 
-Kotsúde Kanarrándis is a mysterious old warrior and knight-errant who rides a horse of extraordinary breeding and apparent extreme age, which he says is preserved by magic. He seeks the help of [[being-kjrvngjrln|Kjôrvan Gjârlen]] with the horse, and is on a quest to recover a stolen artifact that he believes holds knowledge able to change the balance of power in several kingdoms.
+Kotsúde Kanarrándis is a mysterious old warrior and knight-errant who rides a horse of extraordinary breeding and apparent extreme age, which he says is preserved by magic. He seeks the help of [[being-kjrvngjrln|Chorvàn Jarlèn]] with the horse, and is on a quest to recover a stolen artifact that he believes holds knowledge able to change the balance of power in several kingdoms.

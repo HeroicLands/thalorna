@@ -3,7 +3,7 @@ shortcode: iltherethalu
 name: {full: Ilthêrê Thalûrâtês, aliases: [Lady Ilthêrê]}
 type: being
 subType: npc
-description: A noblewoman of House Thalûrâtês with close ties to the imperial court, named in Kallistratos Exarchides.
+description: A noblewoman of House Thalûrâtês with close ties to the imperial court, named in Kallistratos Xarkhêdis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Ilthêrê Thalûrâtês is a 31-year-old woman who stands 5'7" tall with a mediu
 
 # Dossier {#dossier}
 
-Ilthêrê Thalûrâtês is a noblewoman of House Thalûrâtês with close ties to the imperial court. Ilthêrê offers [[being-klstrtsxrchds|Kallistratos Exarchides]] political support in exchange for his help in manipulating key figures within Vylaria. She is pragmatic, self-serving and well connected.
+Ilthêrê Thalûrâtês is a noblewoman of House Thalûrâtês with close ties to the imperial court. Ilthêrê offers [[being-klstrtsxrchds|Kallistratos Xarkhêdis]] political support in exchange for his help in manipulating key figures within Vylaria. She is pragmatic, self-serving and well connected.

@@ -69,12 +69,12 @@ ORDER BY p.name.full COLLATE NOCASE
 
 The Lands have no surveyed border, but in practice their edge is the point at which the lowland cultivation, roads, and settled villages give way to unbroken forest and rising terrain. Crown magistrates do not attempt to impose their authority beyond that line. Where royal roads end, the Wardens' jurisdiction begins; where Élavendri villages give way to Áelendan hamlets and seasonal camps, the law of the tribes takes over.
 
-A handful of chartered lowland settlements sit at the edge of the Lands, serving as points of contact and trade. Beyond them, no outside institution—neither the Crown's, nor the Ordo Arcanis's, nor any merchant house's—holds standing.
+A handful of chartered lowland settlements sit at the edge of the Lands, serving as points of contact and trade. Beyond them, no outside institution—neither the Crown's, nor the Thôrdimâlon's, nor any merchant house's—holds standing.
 
 ## Notable Places
 
 - [[place-drenavrspn|The Drenavar Spine]]—The sacred mountain range at the heart of the Lands; the most densely Pact-bound territory and the largest concentration of Wardens
-- [[place-eshalshldg|Eshálosha Lodge]]—The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
+- [[place-eshalshldg|Ésalosa Lodge]]—The principal Áelendan settlement, a ceremonial and political gathering place in a sheltered valley of the Drenavar Spine
 - **The Silver Forests**—An ancient fae-touched woodland under heavy Warden watch, shared in neighborly arrangement with the [[lore-flksinale|Sinalë]]
 - **Mountain sanctuaries and grove shrines**—Scattered across the interior; each has its own standing in the Kindred Pact and its own customary protocols
 
@@ -90,7 +90,7 @@ Those who have reason to travel the Lands are expected to take a tribal guide, t
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—The order charged with protecting sacred territory
 - [[place-elavendre|Élavendre]]—The kingdom within which the Lands lie
 - [[place-drenavrspn|Drenavar Spine]]—The sacred range at the heart of the Lands
-- [[place-eshalshldg|Eshálosha Lodge]]—Principal Áelendan settlement
+- [[place-eshalshldg|Ésalosa Lodge]]—Principal Áelendan settlement
 - [[skill-aelendlng|Áelendi Language]]—The language spoken throughout the Lands
 - [[affiliation-theoldway|The Old Way]]—The religious tradition of the Áelendan (pantheon: [[affiliation-firstgods|The First Gods]])
 - [[lore-flksinale|Sinalë]]—Neighboring elder race of the Silver Forests

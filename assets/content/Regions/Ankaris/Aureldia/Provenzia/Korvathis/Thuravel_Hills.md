@@ -36,7 +36,7 @@ is romantic invention by collectors. The people of the hills decline to help the
   last one, which cartographers blame on the terrain and locals do not blame on anything.
 - **Fae-touched, by reputation.** The stories are consistent about there being something in the deep
   hills, and inconsistent about everything else concerning it.
-- **Of interest to the wrong people.** The [[affiliation-ordoarcanis|Ordo Arcanis]] claims authority
+- **Of interest to the wrong people.** The [[affiliation-ordoarcanis|Thôrdimâlon]] claims authority
   over arcane sites, nobles have sought power in old practices before, and the district's obscurity is
   exactly what makes it attractive.
 

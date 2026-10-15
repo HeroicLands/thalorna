@@ -86,7 +86,7 @@ That place is not quite the human one. The Elder Races are classified functional
 
 **Wòhou**, the warriors and the nobles. Khazárian warriors of proven valor and Sinalëan officers who serve in the imperial military are classified as [[lore-wohou|Wòhou]], and so are the leaders of enclaves and strongholds who must deal with the imperial administration, because that standing carries the authority such dealings need. In rare cases an Elder noble is classified [[lore-zhazho|Zhazhò]].
 
-**Never Wánduo.** Magic is intrinsic to the Elder Races, woven into their nature in a way no human shares, and no Sinalo or Khazár is ever classified as [[lore-wanduo|Wánduo]]. The Wánduo classification exists for humans born with innate magic who must be controlled through the chattel system, and Elder magic does not work through the petition model at all; it is not channeled through mental forms built from aura as human magic is, whether Ordo or Wánduo. The system can categorize the Elder Races and cannot explain their magic, a loose end the Tānchéi prefer not to examine.
+**Never Wánduo.** Magic is intrinsic to the Elder Races, woven into their nature in a way no human shares, and no Sinalo or Khazár is ever classified as [[lore-wanduo|Wánduo]]. The Wánduo classification exists for humans born with innate magic who must be controlled through the chattel system, and Elder magic does not work through the petition model at all; it is not channeled through mental forms built from aura as human magic is, whether Arcane Order or Wánduo. The system can categorize the Elder Races and cannot explain their magic, a loose end the Tānchéi prefer not to examine.
 
 ### The Dual Existence
 

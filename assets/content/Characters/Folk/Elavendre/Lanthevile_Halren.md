@@ -36,4 +36,4 @@ Lánthevilë Hálren is a 52-year-old woman who stands 5'8" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Lánthevilë Hálren is a druid attached to a grove near several sites of Black Flame activity. She investigates the burned shrines and scorched clearings in the forests around Elanmere and maps where they fall. She brings her reports to [[being-dharnvldrn|Dháran Véldarin]] and to council member [[being-glyencrdth|Glýenna Cárdeth]], asking for a more thorough investigation.
+Lánthevilë Hálren is a druid attached to a grove near several sites of Black Flame activity. She investigates the burned shrines and scorched clearings in the forests around Elanmere and maps where they fall. She brings her reports to [[being-dharnvldrn|Dháran Véldarin]] and to council member [[being-glyencrdth|Lýenna Kárdeth]], asking for a more thorough investigation.

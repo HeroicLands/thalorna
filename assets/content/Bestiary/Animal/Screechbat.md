@@ -249,7 +249,7 @@ A screechbat is mostly wing. The membranes are dark brown or black and leathery,
 
 ## In the Land
 
-Screechbats roost in deep, dark, still places in steep country, and the mountains of Moktur give them caves, gorges and, most of all, the worked-out galleries of the iron, copper and silver lodes above [[place-ferrovan|Ferrovan]] and [[place-stennvold|Stennvold]]. A colony of a few dozen to a few hundred takes an abandoned level and stays for generations. At dusk the colony streams out of the adit-mouths and over the forested slopes toward the [[place-vrystwald|Vrystwald]], hunting birds, other bats, mice and lizards, and comes back before dawn. In winter the colonies sleep, packed tight in the deepest galleries where the rock keeps warm, and a miner who breaks into a sleeping colony wakes it.
+Screechbats roost in deep, dark, still places in steep country, and the mountains of Moktur give them caves, gorges and, most of all, the worked-out galleries of the iron, copper and silver lodes above [[place-ferrovan|Zârgonâra]] and [[place-stennvold|Stennvold]]. A colony of a few dozen to a few hundred takes an abandoned level and stays for generations. At dusk the colony streams out of the adit-mouths and over the forested slopes toward the [[place-vrystwald|Vrystwald]], hunting birds, other bats, mice and lizards, and comes back before dawn. In winter the colonies sleep, packed tight in the deepest galleries where the rock keeps warm, and a miner who breaks into a sleeping colony wakes it.
 
 ## Key Behaviors
 

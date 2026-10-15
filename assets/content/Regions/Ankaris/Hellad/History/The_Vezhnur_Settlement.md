@@ -62,7 +62,7 @@ The League tolerates the clans above Órashion as its eastern shield, and the cl
 
 ## The Cohort
 
-About 226, six years after the [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith, a cohort of the legions stationed in the east lost its officers to the Black Flame. The officers were the kind of men a general disciplines or a throne proscribes. The Ôrzâs Kàromphôs, who would not proscribe the faith ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), would not discipline them either, and in the far passes above [[affiliation-orashion|Órashion]], at the edge of the province the legions had just won, he found a use for them.
+About 226, six years after the [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith, a cohort of the legions stationed in the east lost its officers to the Black Flame. The officers were the kind of men a general disciplines or a throne proscribes. The Ôrzâs Kàromphôs, who would not proscribe the faith ([[lore-nartumrefuse|Nartûn Refuses the Empire]]), would not discipline them either, and in the far passes above [[affiliation-orashion|Órashion]], at the edge of the province the legions had just won, he found a use for them.
 
 He settled the cohort on the high passes as frontier colonists under its centurion, **Vezhnûrikos**. The passes needed holding and the men needed a place, and no one in the capital asked how the two were being reconciled.
 
@@ -80,7 +80,7 @@ The cohort married into the pass villages. Its sons were raised to arms and its 
 ## See Also
 
 - [[lore-ustaranschsm|The Ústaran Schism]]—the schism the cohort's officers answered
-- [[lore-nartumrefuse|Nartûm Refuses the Empire]]—the refusal that left them undisciplined
+- [[lore-nartumrefuse|Nartûn Refuses the Empire]]—the refusal that left them undisciplined
 - [[place-eastrnmrch|Eastern March]] · [[affiliation-orashion|Órashion]]
 - [[place-hekardesert|Desert of Hek'ar]]
 - [[affiliation-blackflame|The Black Flame]]

@@ -3,7 +3,7 @@ shortcode: kenrelkardet
 name: {full: Kénrel Kárdeth, aliases: [Lord Kénrel Kárdeth, Lord Kénrel]}
 type: being
 subType: npc
-description: The late husband of Glýenna Cárdeth, fifteen years her senior, who held the family's estates and its seat on the regional council.
+description: The late husband of Lýenna Kárdeth, fifteen years her senior, who held the family's estates and its seat on the regional council.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Kénrel Kárdeth was a 39-year-old man who stood 6'1" tall with a light build. H
 
 # Dossier {#dossier}
 
-Kénrel Kárdeth was the husband of [[being-glyencrdth|Glýenna Cárdeth]] and fifteen years her senior. He held the family's estates and its seat on the regional council, a decent, well-liked and politically moderate man content to manage his lands. He was killed on the road between his estates and Elanmere in what was reported as a bandit raid.
+Kénrel Kárdeth was the husband of [[being-glyencrdth|Lýenna Kárdeth]] and fifteen years her senior. He held the family's estates and its seat on the regional council, a decent, well-liked and politically moderate man content to manage his lands. He was killed on the road between his estates and Elanmere in what was reported as a bandit raid.

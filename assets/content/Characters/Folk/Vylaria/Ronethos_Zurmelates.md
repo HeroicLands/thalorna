@@ -3,7 +3,7 @@ shortcode: ronethoszurm
 name: {full: Rônêthôs Zûrmelâtês, aliases: [Field Investigator Rônêthôs Zûrmelâtês]}
 type: being
 subType: npc
-description: A field investigator of the Sekran with a reputation for dogged persistence, named in Azatô Dâemzânis.
+description: A field investigator of the Sekran with a reputation for dogged persistence, named in Azatô Dâmzânis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Rônêthôs Zûrmelâtês is a 58-year-old man who stands 5'10" tall with a ligh
 
 # Dossier {#dossier}
 
-Rônêthôs Zûrmelâtês is a field investigator of the Sekran with a reputation for dogged persistence. He has taken interest in certain mineral thefts from the academy's stores and in novel alchemical compounds in black-market channels. He has no direct evidence against [[being-azatodmzns|Azatô Dâemzânis]], but their paths have begun to cross with uncomfortable frequency.
+Rônêthôs Zûrmelâtês is a field investigator of the Sekran with a reputation for dogged persistence. He has taken interest in certain mineral thefts from the academy's stores and in novel alchemical compounds in black-market channels. He has no direct evidence against [[being-azatodmzns|Azatô Dâmzânis]], but their paths have begun to cross with uncomfortable frequency.

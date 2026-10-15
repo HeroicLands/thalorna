@@ -1,6 +1,6 @@
 ---
 shortcode: garlendhrl
-name: {full: Gârlen Dhárel, given: Gârlen, clan: Dhárel, aliases: []}
+name: {full: Gárlen Dhárel, given: Gárlen, clan: Dhárel, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -418,39 +418,39 @@ sohl:
 
 # Appearance {#appearance}
 
-![[garlendhrl|Gârlen Dhárel]]{float=top-left}
+![[garlendhrl|Gárlen Dhárel]]{float=top-left}
 
-Gârlen stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
+Gárlen stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
 
 # Dossier {#dossier}
 
 **Apprenticeship in Blood and Leather**
 
-Born in the Tanners' Quarter of [[place-elavendre|Élavendre]]'s capital city, Gârlen was apprenticed to his uncle **Thorin Dhárel** at age nine, beginning a decade-long education in the mysteries of leather craft. The work was harsh and malodorous—scraping hides, boiling solutions, treating skins with mineral salts and plant dyes—but Gârlen showed aptitude and a love for the craft. By his twentieth year, he had earned the title of journeyman and established a modest workshop of his own in a leased space near the city's hunter's market.
+Born in the Tanners' Quarter of [[place-elavendre|Élavendre]]'s capital city, Gárlen was apprenticed to his uncle **Thorin Dhárel** at age nine, beginning a decade-long education in the mysteries of leather craft. The work was harsh and malodorous—scraping hides, boiling solutions, treating skins with mineral salts and plant dyes—but Gárlen showed aptitude and a love for the craft. By his twentieth year, he had earned the title of journeyman and established a modest workshop of his own in a leased space near the city's hunter's market.
 
 **The Accident and Recovery**
 
-At thirty-three, a moment of inattention with a splitting knife nearly cost Gârlen his leg. The blade slipped, opened his thigh and calf nearly to the bone, and left him fevered and delirious for a month while a physician named **Cútheir** fought the wound's infection with poultices and prayer. Gârlen recovered, though imperfectly—the leg never regained its full strength, and he walks with a subtle limp that occasionally aches during damp seasons. More significantly, the incident shattered his confidence. For two years, he worked only simple projects, terrified of another mistake. Only through the patient encouragement of Cútheir and his regular customers did he gradually rebuild his skill and his nerve.
+At thirty-three, a moment of inattention with a splitting knife nearly cost Gárlen his leg. The blade slipped, opened his thigh and calf nearly to the bone, and left him fevered and delirious for a month while a physician named **Cútheir** fought the wound's infection with poultices and prayer. Gárlen recovered, though imperfectly—the leg never regained its full strength, and he walks with a subtle limp that occasionally aches during damp seasons. More significantly, the incident shattered his confidence. For two years, he worked only simple projects, terrified of another mistake. Only through the patient encouragement of Cútheir and his regular customers did he gradually rebuild his skill and his nerve.
 
 **Master of His Craft**
 
-Now established as the finest leather-worker in the city, Gârlen has built a modest but comfortable living through quality craftsmanship and a reputation for fair dealing. His work adorns the armor of adventurers, the saddles of nobles' horses, and the everyday leather goods of Élavendre's working people. He has trained two apprentices—though only one, a young woman named **Órina**, shows serious promise of mastery. He remains unmarried, his life consumed by his work and by the quiet satisfaction of creating objects that will outlast him.
+Now established as the finest leather-worker in the city, Gárlen has built a modest but comfortable living through quality craftsmanship and a reputation for fair dealing. His work adorns the armor of adventurers, the saddles of nobles' horses, and the everyday leather goods of Élavendre's working people. He has trained two apprentices—though only one, a young woman named **Órina**, shows serious promise of mastery. He remains unmarried, his life consumed by his work and by the quiet satisfaction of creating objects that will outlast him.
 
 ## Psyche
 
 ### Personality
 
-Gârlen is a man of few unnecessary words, his communication often consisting of meaningful glances and brief observations. This reserve masks a sharp intelligence and a wry humor that emerges once he knows someone well. He is supremely confident in his craft, but this confidence is tempered by humility about the world beyond his workshop. He defers readily to those who know other trades better and harbors no illusions about his importance in the broader scheme of things—he makes things that others use, and that is sufficient honor.
+Gárlen is a man of few unnecessary words, his communication often consisting of meaningful glances and brief observations. This reserve masks a sharp intelligence and a wry humor that emerges once he knows someone well. He is supremely confident in his craft, but this confidence is tempered by humility about the world beyond his workshop. He defers readily to those who know other trades better and harbors no illusions about his importance in the broader scheme of things—he makes things that others use, and that is sufficient honor.
 
 He is unflinchingly honest, a trait that sometimes costs him sales when customers seek flattery or false promises. He will not over-promise a completion date, will not claim skills he lacks, and will always inform a customer of a flaw in material before beginning work. This integrity has made him beloved by those who value quality over manipulation, and disliked by those accustomed to deception.
 
 ### Motivation
 
-Gârlen's primary drive is the pursuit of perfection in his craft. He seeks to create leather goods that become famous, articles spoken of by warriors and travelers for their durability and beauty. He is also increasingly concerned that the knowledge accumulated through forty years of practice should not be lost—he wishes to find a worthy successor to train in the deepest secrets of his art. Beyond craft, he harbors a quiet desire to be recognized as more than a tradesman, to be acknowledged as an artist and a master. He also remains haunted by his accident and occasionally by a lingering fear that his leg will fail him at a critical moment, a concern he has never voiced aloud to anyone.
+Gárlen's primary drive is the pursuit of perfection in his craft. He seeks to create leather goods that become famous, articles spoken of by warriors and travelers for their durability and beauty. He is also increasingly concerned that the knowledge accumulated through forty years of practice should not be lost—he wishes to find a worthy successor to train in the deepest secrets of his art. Beyond craft, he harbors a quiet desire to be recognized as more than a tradesman, to be acknowledged as an artist and a master. He also remains haunted by his accident and occasionally by a lingering fear that his leg will fail him at a critical moment, a concern he has never voiced aloud to anyone.
 
 ### Strengths
 
-- **Hideworking Mastery**: Gârlen can assess the quality of a hide with a glance, determine exactly which portions will work best for specific purposes, and execute repairs and transformations that seem impossible to lesser craftspeople. His work is universally recognized as superior in both durability and aesthetics.
+- **Hideworking Mastery**: Gárlen can assess the quality of a hide with a glance, determine exactly which portions will work best for specific purposes, and execute repairs and transformations that seem impossible to lesser craftspeople. His work is universally recognized as superior in both durability and aesthetics.
 - **Creative Problem-Solving**: His creativity shows in an intuitive understanding of how to adapt standard techniques to unusual materials or unexpected requirements. Customers often bring him problems that other craftspeople declared impossible; he usually succeeds.
 - **Deep Practical Knowledge**: He understands animal husbandry, the characteristics of different creatures' hides, the properties of various tanning solutions, and the subtle interplay between materials. This knowledge extends to related crafts like textilework and basic leatherwork enhancement.
 - **Fair Dealing and Reputation**: His reputation for honesty and excellence creates a reliable stream of high-quality customers. People trust him implicitly and speak highly of his work to others.
@@ -459,7 +459,7 @@ Gârlen's primary drive is the pursuit of perfection in his craft. He seeks to c
 ### Weaknesses
 
 - **Lingering Physical Vulnerability**: His right leg, while functional, never fully recovered from his injury. It aches predictably during damp weather, tires during extended physical activity, and occasionally threatens to give way unexpectedly. Anything requiring sustained running or climbing presents significant challenge.
-- **Marketing and Self-Promotion**: Gârlen abhors selling himself. He prefers to let his work speak for itself, a philosophy that means he often loses commissions to more aggressive or charming competitors who oversell inferior products.
+- **Marketing and Self-Promotion**: Gárlen abhors selling himself. He prefers to let his work speak for itself, a philosophy that means he often loses commissions to more aggressive or charming competitors who oversell inferior products.
 - **Limited Business Acumen**: He struggles with the financial aspects of his trade—pricing, negotiation, maintaining margins—leaving him perpetually slightly less wealthy than his skill would suggest he should be.
 - **Social Awkwardness**: His reserve and focus on technical matters make him uncomfortable in social situations outside his craft. He is not rude, but he is clearly uncomfortable, making it difficult to entertain clients or cultivate acquaintances.
 - **Perfectionism as Paralysis**: His commitment to absolute quality sometimes prevents him from completing projects on schedule. He will redo work until he considers it perfect, sometimes frustrating customers with delays.
@@ -469,35 +469,35 @@ Gârlen's primary drive is the pursuit of perfection in his craft. He seeks to c
 ### Patrons
 
 Captain of the City Guard, Commander Aldis
-: A patron who has commissioned multiple leather armor sets for the city's elite guard. Aldis values Gârlen's work and sees that the guard's supply contracts flow regularly to his workshop.
+: A patron who has commissioned multiple leather armor sets for the city's elite guard. Aldis values Gárlen's work and sees that the guard's supply contracts flow regularly to his workshop.
 
 Lady Merenna of House Élavère
-: A minor nobility whose appreciation for Gârlen's aesthetic sense has made her a regular customer. She commissions decorative leather goods and saddles, and her endorsement among the city's elite has brought significant prestige to his workshop.
+: A minor nobility whose appreciation for Gárlen's aesthetic sense has made her a regular customer. She commissions decorative leather goods and saddles, and her endorsement among the city's elite has brought significant prestige to his workshop.
 
 Master Physician Cútheir
-: The healer who saved Gârlen's leg and his life decades ago, now elderly but still influential. The two remain in close contact, and Cútheir occasionally sends injured patients to Gârlen to help them recover their strength.
+: The healer who saved Gárlen's leg and his life decades ago, now elderly but still influential. The two remain in close contact, and Cútheir occasionally sends injured patients to Gárlen to help them recover their strength.
 
 ### Enemies
 
 Master Leatherworker Torvin
-: A rival craftsperson who produces faster, cheaper goods through corner-cutting methods. Torvin actively attempts to undercut Gârlen on price and spreads rumors about his work's durability, despite the fact that his own products are objectively inferior.
+: A rival craftsperson who produces faster, cheaper goods through corner-cutting methods. Torvin actively attempts to undercut Gárlen on price and spreads rumors about his work's durability, despite the fact that his own products are objectively inferior.
 
 The Tanners' Guild Elders
-: Several guild administrators have attempted to pressure Gârlen into their standardized pricing and methods. When he refused to compromise his standards or join their cartel, they blacklisted him from certain contracts, though his reputation has largely insulated him from the worst effects.
+: Several guild administrators have attempted to pressure Gárlen into their standardized pricing and methods. When he refused to compromise his standards or join their cartel, they blacklisted him from certain contracts, though his reputation has largely insulated him from the worst effects.
 
 ### Affiliations
 
 The Independent Craftspeople's Association
-: A loose collective of artisans who reject guild monopolies. Gârlen holds no formal position but attends their meetings and contributes to their advocacy efforts.
+: A loose collective of artisans who reject guild monopolies. Gárlen holds no formal position but attends their meetings and contributes to their advocacy efforts.
 
 ## Plot Hooks
 
-1. **The Unknown Hide**: A wealthy merchant arrives with a mysterious material—a hide of extraordinary size and quality, allegedly from a creature that no one can identify. The merchant claims it will create the finest leather goods ever made and offers Gârlen a substantial fee to work it into armor. However, the material subtly resists traditional tools and techniques. As Gârlen works, he discovers the hide seems to possess strange properties—it appears to be learning from his touch, or perhaps it is attempting to guide his hands toward a specific purpose. Investigation reveals the hide is ancient, perhaps centuries old, and comes from a creature long thought mythical. The party must help determine whether the hide should be worked into the armor or whether its making is somehow dangerous.
+1. **The Unknown Hide**: A wealthy merchant arrives with a mysterious material—a hide of extraordinary size and quality, allegedly from a creature that no one can identify. The merchant claims it will create the finest leather goods ever made and offers Gárlen a substantial fee to work it into armor. However, the material subtly resists traditional tools and techniques. As Gárlen works, he discovers the hide seems to possess strange properties—it appears to be learning from his touch, or perhaps it is attempting to guide his hands toward a specific purpose. Investigation reveals the hide is ancient, perhaps centuries old, and comes from a creature long thought mythical. The party must help determine whether the hide should be worked into the armor or whether its making is somehow dangerous.
 
-2. **The Poisoned Batch**: Several of Gârlen's recent customers fall mysteriously ill with a condition that no physician can identify—all the victims share only one connection: they purchased leather goods from Gârlen's workshop within the past three months. Gârlen is devastated and immediately suspects that his materials have been contaminated, but investigation suggests otherwise—someone has deliberately adulterated leather shipments intended for Gârlen, trying to frame him and destroy his reputation. The party must uncover the culprit before Gârlen's business is destroyed. The investigation leads to Torvin, his rival, who is willing to commit murder to eliminate competition.
+2. **The Poisoned Batch**: Several of Gárlen's recent customers fall mysteriously ill with a condition that no physician can identify—all the victims share only one connection: they purchased leather goods from Gárlen's workshop within the past three months. Gárlen is devastated and immediately suspects that his materials have been contaminated, but investigation suggests otherwise—someone has deliberately adulterated leather shipments intended for Gárlen, trying to frame him and destroy his reputation. The party must uncover the culprit before Gárlen's business is destroyed. The investigation leads to Torvin, his rival, who is willing to commit murder to eliminate competition.
 
-3. **The Apprentice's Secret**: Gârlen's talented apprentice Órina begins to act strangely, occasionally disappearing for entire days. When confronted, she reveals that she has been secretly meeting with a black-market fence who has been hiring her to create specialized leather containers for smuggled goods. She owes them a substantial debt and fears what they will do if she refuses. Gârlen can turn her over to the authorities or help her escape her obligations. If he helps, the party becomes entangled in conflict with organized crime. If he turns her in, he may destroy the talented apprentice he hopes to train into a master craftsperson.
+3. **The Apprentice's Secret**: Gárlen's talented apprentice Órina begins to act strangely, occasionally disappearing for entire days. When confronted, she reveals that she has been secretly meeting with a black-market fence who has been hiring her to create specialized leather containers for smuggled goods. She owes them a substantial debt and fears what they will do if she refuses. Gárlen can turn her over to the authorities or help her escape her obligations. If he helps, the party becomes entangled in conflict with organized crime. If he turns her in, he may destroy the talented apprentice he hopes to train into a master craftsperson.
 
-4. **The Master's Masterwork**: As age begins to creep upon him, Gârlen commits to creating one final masterwork—a complete set of ceremonial leather armor of breathtaking complexity and beauty. He offers the party a substantial commission: find him a specific material he requires—the hide of a **shadowreaver**, a nocturnal predator rumored to inhabit the deepest forests. The quest to hunt this creature becomes an adventure in itself, testing whether the party can obtain a hide worthy of a true master craftsman. Upon completion, the armor is so extraordinary that nobility and warlords begin bidding for it, potentially changing Gârlen's life—or attracting dangerous attention.
+4. **The Master's Masterwork**: As age begins to creep upon him, Gárlen commits to creating one final masterwork—a complete set of ceremonial leather armor of breathtaking complexity and beauty. He offers the party a substantial commission: find him a specific material he requires—the hide of a **shadowreaver**, a nocturnal predator rumored to inhabit the deepest forests. The quest to hunt this creature becomes an adventure in itself, testing whether the party can obtain a hide worthy of a true master craftsman. Upon completion, the armor is so extraordinary that nobility and warlords begin bidding for it, potentially changing Gárlen's life—or attracting dangerous attention.
 
-5. **The Injured Warrior's Salvation**: A famous warrior or knight arrives at Gârlen's workshop bearing a grievous wound on their dominant leg—one that threatens to end their fighting days. Cútheir, now very elderly, recommends that the warrior seek Gârlen's help, suggesting that his experience of his own recovery might be of use, and that custom-crafted supportive leather garments might let the warrior return to active life. Gârlen is initially reluctant—he is a craftsman, not a healer—but he begins designing specialized leather supports that allow the warrior graduated return to function. The party might need to protect Gârlen from enemies of the warrior, or assist in testing his designs in the field.
+5. **The Injured Warrior's Salvation**: A famous warrior or knight arrives at Gárlen's workshop bearing a grievous wound on their dominant leg—one that threatens to end their fighting days. Cútheir, now very elderly, recommends that the warrior seek Gárlen's help, suggesting that his experience of his own recovery might be of use, and that custom-crafted supportive leather garments might let the warrior return to active life. Gárlen is initially reluctant—he is a craftsman, not a healer—but he begins designing specialized leather supports that allow the warrior graduated return to function. The party might need to protect Gárlen from enemies of the warrior, or assist in testing his designs in the field.

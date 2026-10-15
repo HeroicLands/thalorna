@@ -19,17 +19,17 @@ magical practice in the known world. It holds that the arcane divides into eight
 region of the cosmic order over which a correctly known name has authority. Its practitioners are the
 _lekhau_, those who hold sacred power; the title of every high priest in the empire—Thâz'Lekhau, "Great of Sacred Power"—names the greatest of them.
 
-It predates the [[affiliation-hexhodai|Héx Hodäi]] by some thousands of years, and it is not a variant of
+It predates the [[affiliation-hexhodai|Ksêmor Hodhîs]] by some thousands of years, and it is not a variant of
 it. The two traditions are not rival schools within one framework. They are two complete and
 incompatible accounts of the same thing.
 
 ### The Same Ocean, Cut Differently
 
 Both traditions agree on the underlying fact. There is one undifferentiated reservoir of arcane
-force permeating existence—what the **Ordo** names the **Dýnaris**—and all practice consists of
+force permeating existence—what the **Arcane Order** names the **Dýnaris**—and all practice consists of
 reaching into it. The disagreement is about where its divisions lie.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] partitions the ocean by _substance_: fire, water, air,
+The [[affiliation-ordoarcanis|Thôrdimâlon]] partitions the ocean by _substance_: fire, water, air,
 earth, metal, spirit. Its doctrine is not that this is a serviceable model but that it is the
 structure of arcane reality, that the Dýnaris is _always already_ one of the Six in every place and
 at every moment, and that the Six exhaust the arcane.
@@ -42,16 +42,16 @@ the power it gives is licensed by temple authority, not held by a separate class
 
 _The two partitions cut across one another._ There is no table of equivalences and there cannot be
 one, because neither set of lines is a subdivision of the other. A working in the [[place-zulaten|Zulaten]] draws on what a
-Magister would have to call Spirit and Earth at once; a working of the River spans his Water and his
-Earth. This is the practical reason the traditions cannot see each other. An Ordo observer watching a
-lekhau does not see foreign magic—he sees _impure_ magic, several **Eídmata** braided into a single
+_Mârendândôs_ (master) would have to call Spirit and Earth at once; a working of the River spans his Water and his
+Earth. This is the practical reason the traditions cannot see each other. An Arcane Order observer watching a
+lekhau does not see foreign magic—he sees _impure_ magic, several **rhéshâ** (currents) braided into a single
 coherent act, which by his own doctrine should not be castable at all. And it works in front of him.
 
 The Khelâthi find the reverse just as absurd. To divide the arcane by material substance strikes them
 as classifying a library by the color of the bindings: true of the objects, and silent about what
 any of it is for.
 
-Neither priesthood is much troubled by the other's existence. The Ordo has no presence in Aû'Khelâthu
+Neither priesthood is much troubled by the other's existence. The Arcane Order has no presence in Aû'Khelâthu
 and no prospect of gaining one; the Khelâthi priesthood regards its agents as arrogant amateurs, and
 the few who have tried to recruit Khelâthi practitioners have been politely and firmly expelled.
 
@@ -151,10 +151,10 @@ names struck from every wall.
 
 The two traditions therefore train in opposite directions, and both know it.
 
-The Ordo channels students into a single **Eídma** early and accepts the cost: its mages are brilliant
-within their Eídma and increasingly limited outside it, the opposing Eídma becoming alien.
-This is efficient, and it is also what makes an Initiatus easy to examine and to regulate—which the
-Héx Hodäi's own history concedes was among the reasons the six-fold model won out in the west.
+The Arcane Order channels students into a single **rhéshin** early and accepts the cost: its mages are brilliant
+within their _rhéshin_ and increasingly limited outside it, the opposing _rhéshin_ becoming alien.
+This is efficient, and it is also what makes a _khôsthêmôs_ (initiate) easy to examine and to regulate—which the
+history of the Ksêmor Hodhîs itself concedes was among the reasons the six-fold model won out in the west.
 
 A lekhau trained that way would be understood in Aû'Khelâthu as _defective rather than specialized_.
 Holding Thelqen'Uqa without Ithnetáu, or Qelt'nu without Reth'zethu, is not a narrow mastery but half a working. So the
@@ -169,7 +169,7 @@ the shape the temple believes reality has.
 ### Reth'zethu and Qelt'nu in Practice
 
 Because the domains are functions rather than substances, the technique of reaching them is not the
-Ordo's either. Khelâthi power derives from knowledge of sacred words, divine names and ritual formulae,
+Arcane Order's either. Khelâthi power derives from knowledge of sacred words, divine names and ritual formulae,
 kept in temple libraries open only to the initiated—so the act of magic is one of _correct
 address_: the true name, in the exact form, spoken or set down.
 
@@ -201,7 +201,7 @@ a tradition where power is correct address, the library _is_ the armory.
 
 ### See Also
 
-- [[affiliation-hexhodai|Héx Hodäi]]—the western six-fold partition of the same Dýnaris
+- [[affiliation-hexhodai|Ksêmor Hodhîs]]—the western six-fold partition of the same Dýnaris
 - [[affiliation-garqarquzu|Gar-Qar'quzu]] · [[affiliation-garzelgut|Gar-Zelgút]] · [[affiliation-garathenuqa|Gar-Thelqen'Uqa]] ·
   [[affiliation-garithnetau|Gar-Ithnetáu]] · [[affiliation-garnlghkhlth|Gar-Anlagh'Khelâthu]] ·
   [[affiliation-gargezrulutu|Gar-Gezru'lutu]] · [[affiliation-garrethzethu|Gar-Reth'zethu]] ·

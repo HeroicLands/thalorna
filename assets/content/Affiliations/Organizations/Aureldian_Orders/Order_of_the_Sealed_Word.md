@@ -2,7 +2,7 @@
 shortcode: ordrsldwrd
 name:
   full: The Order of the Sealed Word
-  aliases: [Ordo Verbi Signati, The Sealed Hand, The Oath-Wardens]
+  aliases: [Thîzârlâmbizon, The Sealed Hand, The Oath-Wardens]
 type: affiliation
 subType: order
 description: "Sworn knightly enforcers of binding oaths and contracts under Árdavon—answering when civil law fails to compel the oath-breaker who once swore the binding word."
@@ -16,7 +16,7 @@ data:
   governance:
     model: council
     summary: >-
-      Sworn Brothers in chapter houses across the five kingdoms, with Senior Brothers on the Council of the Seal and a First Magister chosen by the Magisters of the houses.
+      Sworn Brothers in chapter houses across the five kingdoms, with Senior Brothers on the Council of the Seal and a First Mârendândôs chosen by the mârendândoi of the houses.
     ranks:
       - level: 0
         title: Expelled
@@ -34,11 +34,11 @@ data:
         description: >-
           Elevated by chapter vote; may take wards, convene a formal oath-hearing independently, and sit on the Council of the Seal.
     offices:
-      First Magister: The order's chair, chosen by conclave of the Magisters for a fifteen-year term.
-      Magister of the Order: >-
+      First Mârendândôs: The order's chair, chosen by conclave of the mârendândoi for a fifteen-year term.
+      Mârendândôs of the Order: >-
         Leader of a chapter house, presiding over its affairs and representing it before the Council of the Seal.
       Councilor of the Seal: >-
-        One of the twelve Senior Brothers, drawn from the five kingdoms, who sit on the Council of the Seal and meet quarterly at Ólvestria.
+        One of the twelve Senior Brothers, drawn from the five kingdoms, who sit on the Council of the Seal and meet quarterly at Ólvestra.
   seat: null
   population: null
   economy: []
@@ -48,11 +48,11 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Aurèldían: Ordo Verbi Signati—"The Order of the Sealed Word"_
+_Vylari: **Thîzârlâmbizon**—"The Order of the Sealed Word"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-ardavon|Árdavon]]—Aurèldían god of oaths, gates, beginnings, transitions, and the dualities that separate one state from another
-- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses in all five Aurèldían kingdoms, with the mother-house at [[place-olvestria|Ólvestria]] in [[place-tarvenirgn|Tarvénia]]
+- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses in all five Aurèldían kingdoms, with the mother-house at [[place-olvestria|Ólvestra]] in [[place-tarvenirgn|Tarvénia]]
 
 ## Overview
 
@@ -66,12 +66,12 @@ A candidate for the order must be a sworn devotee of Árdavon, must be of sound 
 
 There are two working ranks above the candidacy, and two offices drawn from them:
 
-- **Sworn Brother of the Seal** (_Frater Signati_)—the working knight; rides his circuit or answers petitions assigned by his chapter.
-- **Senior Brother** (_Frater Senior_)—elevated by chapter vote; permitted to take wards (apprentices), to convene formal oath-hearings independently, and to sit on the Council of the Seal.
-- **Magister of the Order** (_Magister Ordinis_)—chapter leader; one per chapter house; presides over chapter affairs and represents the chapter before the Council.
-- **First Magister** (_Magister Primus_)—the order's chair; one position; chosen by conclave of the Magisters for a fifteen-year term.
+- **Sworn Brother of the Seal** (_zarândôs_)—the working knight; rides his circuit or answers petitions assigned by his chapter.
+- **Senior Brother** (_hôlzarândôs_)—elevated by chapter vote; permitted to take wards (apprentices), to convene formal oath-hearings independently, and to sit on the Council of the Seal.
+- **Mârendândôs of the Order**—chapter leader; one per chapter house; presides over chapter affairs and represents the chapter before the Council.
+- **First Mârendândôs**—the order's chair; one position; chosen by conclave of the _mârendândoi_ (masters) for a fifteen-year term.
 
-The order has chapter houses in each Aurèldían kingdom, but its operational presence concentrates where commercial life and oath-density are highest: the Tarvénian capital, the Provenzian merchant cities, the Élavendren judicial seats. The mother-house at Ólvestria holds the order's archives—including the master register of every contested oath the order has ruled on in its three-century history, which opens with a boundary oath between two Tarvénian lords ([[lore-sealedwordfnd|The Founding of the Sealed Word]]).
+The order has chapter houses in each Aurèldían kingdom, but its operational presence concentrates where commercial life and oath-density are highest: the Tarvénian capital, the Provenzian merchant cities, the Élavendren judicial seats. The mother-house at Ólvestra holds the order's archives—including the master register of every contested oath the order has ruled on in its three-century history, which opens with a boundary oath between two Tarvénian lords ([[lore-sealedwordfnd|The Founding of the Sealed Word]]).
 
 ## Doctrine and Practice
 
@@ -85,8 +85,8 @@ The order's procedures are formal and ritualized. A petition is presented at a c
 
 ## Notable Members
 
-- **First Magister Anselmo Veroniani**—current First Magister; a man in his sixties; presiding over the order in a period of increasing tension between the order and several of the Aurèldían crowns.
-- **The Council of the Seal**—twelve Senior Brothers drawn from the five kingdoms; meets quarterly at Ólvestria.
+- **First Mârendândôs Anselmo Veroniani**—current First Mârendândôs; a man in his sixties; presiding over the order in a period of increasing tension between the order and several of the Aurèldían crowns.
+- **The Council of the Seal**—twelve Senior Brothers drawn from the five kingdoms; meets quarterly at Ólvestra.
 
 ## Relations
 
@@ -98,11 +98,11 @@ The order's procedures are formal and ritualized. A petition is presented at a c
 
 ## Identifying Marks
 
-A Sworn Brother wears the order's surcoat—deep blue with the Árdavon sigil (a two-faced head facing both directions over a sealed scroll) in gold at the breast. The brother's writ of office—the parchment empowering him to convene an oath-hearing—is sealed in red wax bearing the chapter's mark and the brother's personal sigil; the writ is the visible token of his authority. Senior Brothers wear an additional pendant in the form of a small bronze key—a reference to Árdavon's gates and to the keys to the order's archive at Ólvestria.
+A Sworn Brother wears the order's surcoat—deep blue with the Árdavon sigil (a two-faced head facing both directions over a sealed scroll) in gold at the breast. The brother's writ of office—the parchment empowering him to convene an oath-hearing—is sealed in red wax bearing the chapter's mark and the brother's personal sigil; the writ is the visible token of his authority. Senior Brothers wear an additional pendant in the form of a small bronze key—a reference to Árdavon's gates and to the keys to the order's archive at Ólvestra.
 
 ## Plot Hooks
 
 - **The King's Broken Word.** A petitioner has presented to a chapter house an oath broken by a sitting king. The petition is substantiated. The chapter must accept it under the doctrine that the hearing is rendered regardless of rank—and must do so knowing that the kingdom's renewal of the order's license is up for review.
 - **The Rival's Petition.** Two merchants have presented mutually exclusive petitions arising from the same disputed oath; each claims the other is the oath-breaker. The chapter must rule on which petition to hear first, knowing the procedural choice will be decisive.
-- **The Compromised Brother.** A Sworn Brother is suspected of having ruled in favor of a petitioner in exchange for a substantial bribe. The accusation is from a credible source but evidence is thin. The First Magister will have to decide whether to summon the brother to formal hearing—which, if the accusation proves false, will damage the brother's career and the order's confidence in its internal investigations.
+- **The Compromised Brother.** A Sworn Brother is suspected of having ruled in favor of a petitioner in exchange for a substantial bribe. The accusation is from a credible source but evidence is thin. The First Mârendândôs will have to decide whether to summon the brother to formal hearing—which, if the accusation proves false, will damage the brother's career and the order's confidence in its internal investigations.
 - **The Combat Demanded.** A petition has been accepted and the oath-breaker has demanded trial-by-combat against the assigned brother. The oath-breaker is a celebrated swordsman; the brother is competent but not extraordinary; the doctrine requires the offer of combat to be honored. The chapter must determine whether to send the assigned brother or to reassign the matter to a brother of better blade.

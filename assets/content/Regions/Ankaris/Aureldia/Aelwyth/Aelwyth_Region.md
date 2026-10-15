@@ -84,7 +84,7 @@ The southern forests shelter ancient communities of [[lore-flksinale|Sinalë]] (
 
 ### Minor Polities
 
-Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Dúnavarre and Ondareth, is a neutral center of learning whose [[affiliation-panepistmm|Panepistemium]] chapterhouse is among the most respected on the island.
+Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Dúnavarre and Ondareth, is a neutral center of learning whose [[affiliation-panepistmm|Plûmepistémion]] chapterhouse is among the most respected on the island.
 
 ## Religion
 
@@ -96,9 +96,9 @@ The [[affiliation-repblcndrth|Republic of Ondareth]] in the west is the exceptio
 
 Aelwyth is one of the most magically active regions in the known world. The great central bay is believed to be a nexus of mystical energy, and the veil between the mortal world and other realms is thinner here than anywhere outside of Élavendre.
 
-The [[affiliation-panepistmm|the Epistemium]] maintains chapterhouses in each of Aelwyth's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Ordo Arcanis]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Ordo governs the kingdom outright through a Synod of mages, the only polity anywhere in [[place-ankrscntnnt|Ankaris Continent]] where the Ordo holds direct political power.
+The [[affiliation-panepistmm|the Epistémion]] maintains chapterhouses in each of Aelwyth's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Thôrdimâlon]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Arcane Order governs the kingdom outright through a Synod of mages, the only polity anywhere in [[place-ankrscntnnt|Ankaris Continent]] where the Arcane Order holds direct political power.
 
-Elsewhere on the island, the relationship between the local rulers and their Panepistemium chapterhouses varies—[[affiliation-kngdmldrth|Aldorath's]] feudal lords defer to their own seers on matters of prophecy, [[affiliation-repblcndrth|Ondareth's]] senate insists on civic oversight, and the Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] are culturally indifferent to scholarly institutions. But even where the Epistemium is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistemium's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistemium's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Ordo lurking behind them.
+Elsewhere on the island, the relationship between the local rulers and their Plûmepistémion (the Academy of Knowledge) chapterhouses varies—[[affiliation-kngdmldrth|Aldorath's]] feudal lords defer to their own seers on matters of prophecy, [[affiliation-repblcndrth|Ondareth's]] senate insists on civic oversight, and the Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] are culturally indifferent to scholarly institutions. But even where the Epistémion (the Academy) is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistémion's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistémion's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Arcane Order lurking behind them.
 
 ## Relations
 
@@ -134,7 +134,7 @@ stone, planted the avenues beside them, and where a stretch survives whole there
 beech running along it that is far too old to have been set by anyone since.
 
 Under three towns, [[place-veldareth|Veldareth]], [[place-ashford|Ashford]] and [[place-brynhallow|Brynhallow]], lie
-footings of the same cut stone, which the Epistemium's scholars have not been able to date and the towns have
+footings of the same cut stone, which the Epistémion's scholars have not been able to date and the towns have
 built upon for as long as they have stood. The Synod's scholars follow the roads when the Synod's business takes
 them that way, and the [[lore-vardain|Vardain]], who know the stone better than anyone, say what it is and are not
 asked.
@@ -166,13 +166,13 @@ So every Aelwythan institution is conducted with total seriousness and no extern
 lords hold court as though their precedence mattered beyond the next valley; Dúnavarre's Synod deliberates
 as a great power; Stormveld's jarls reckon themselves conquerors of consequence. The most florid case is
 [[affiliation-repblcndrth|Ondareth]], which has built an entire imitation Vylarian republic—Senate,
-senators, mantles, portico—out of hearsay, and cannot tell how it looks, because no one there has seen
-the original.
+senators, mantles, portico—out of hearsay, and cannot tell how it looks, because almost no one there has
+seen the original.
 
 ### The One Exception
 
 There is exactly one body on Aelwyth that knows precisely how the island compares with the mainland, and
-that is the **Synod** of [[affiliation-ordoarcanis|Ordo Arcanis]] mages who govern
+that is the **Synod** of [[affiliation-ordoarcanis|Thôrdimâlon]] mages who govern
 [[affiliation-kingdmdnvr|Dúnavarre]].
 
 They are not parochial and never have been. They are members of a continental institution, they read its
@@ -206,7 +206,7 @@ There genuinely are places on Aelwyth where the fae are strong—sites of real a
 concentrated in the deep forest of the interior and in the wilder north, in country that the settled
 realms have never brought under the plow and do not pretend to govern. These are not folklore. The
 tribes of those regions organize their lives around them, the realms' borders bend to avoid them, and
-the [[affiliation-ordoarcanis|Ordo]] presence in [[affiliation-kingdmdnvr|Dúnavarre]] is not
+the [[affiliation-ordoarcanis|Arcane Order]] presence in [[affiliation-kingdmdnvr|Dúnavarre]] is not
 unconnected with the fact.
 
 So the mainland is not simply wrong; it has heard true things about a third of the island and applied
@@ -216,12 +216,12 @@ heron is also not wrong, because he has never had cause to go where such things 
 
 ## The Synod's Backyard
 
-Why the Ordo Arcanis governs one Aelwythan kingdom outright—the only place in the world where it does—is a question usually answered in terms of Dúnavarren history. The more useful answer is on the rest of
+Why the Thôrdimâlon (the Arcane Order) governs one Aelwythan kingdom outright—the only place in the world where it does—is a question usually answered in terms of Dúnavarren history. The more useful answer is on the rest of
 the island.
 
-**Aelwyth is where the Ordo can study the fae without constraint.** In
-[[place-elavendre|Élavendre]], which is the richest fae country in the known world, the Ordo is permitted
-and limited: it holds the University at Béravel and it does not go past the tree line, because the
+**Aelwyth is where the Arcane Order can study the fae without constraint.** In
+[[place-elavendre|Élavendre]], which is the richest fae country in the known world, the Arcane Order is permitted
+and limited: it holds the University at Péravel and it does not go past the tree line, because the
 [[affiliation-alndnwrdns|Áelendan Wardens]] enforce a boundary the Élavendren crown declines to move.
 Aelwyth has real fae sites and **no equivalent institution**. The country they lie in belongs to
 scattered tribes with no common council, no wardens, no treaty with anyone and no means of compelling
@@ -242,8 +242,8 @@ benefits the Synod, and the Synod has never lifted a finger to change any of the
 It has done one thing deliberately. **Every ship crossing between Aelwyth and the mainland must call
 first at [[place-ravenmoor|Ravenmoor]]** to be inspected—inbound before it may go on to any other
 port, outbound before it may leave. Prohibited goods are the stated purpose; magic and relics are the
-real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are **afraid of Dúnavarre**, and the fear is specific. The Synod is the Ordo's central chantry for
-the island, and every court on Aelwyth keeps Ordo advisors it would be crippled without. A realm that
+real interest, and are recorded and frequently detained. The other realms dislike it and acquiesce, for two reasons that reinforce each other. They are **afraid of Dúnavarre**, and the fear is specific. The Synod is the Arcane Order's central chantry for
+the island, and every court on Aelwyth keeps Arcane Order advisors it would be crippled without. A realm that
 goes around the Synod finds those advisors taking a courteous leave and no replacement obtainable from
 anywhere—shunned by the very men its neighbors still have. If that does not suffice, harvests fail
 and sicknesses arrive that no physician knows, and nothing is ever claimed or connected. It is also
@@ -317,9 +317,9 @@ Aelwyth. [[affiliation-kngdmldrth|Aldorath]] has nearly three times as many subj
 the south-east coast thinks of them.
 
 The reason is not the harbors, or the trade, or even the Order of the Just Blade. It is that the
-**Synod is the Ordo's central chantry for the island**, and every court on Aelwyth keeps Ordo advisors
+**Synod is the Arcane Order's central chantry for the island**, and every court on Aelwyth keeps Arcane Order advisors
 it would be crippled without. Dúnavarre does not need an army to discipline a neighbor three times its
-size. It needs only to let the Ordo in that neighbor's realm know its services are no longer
+size. It needs only to let the Arcane Order in that neighbor's realm know its services are no longer
 appropriate—and to decline, from every chantry the petitioner can reach, to send anyone else.
 
 A king of two hundred thousand who has lost his mages and cannot obtain another from anywhere is weaker

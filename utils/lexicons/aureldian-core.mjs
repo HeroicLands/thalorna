@@ -49,7 +49,9 @@
  *    the name, or writes it in bold in its prose as the name of someone or
  *    something with no note of its own, and a tongue the register declares;
  *    a row in the tongue's own
- *    name gives parts that recompute, or is counted as not yet reached.
+ *    name gives parts that recompute, or is counted as not yet reached. A
+ *    person row with a word the register gives to another tongue (`other:<tongue>`)
+ *    is checked against the sound rules on its remaining words alone.
  * 6. **Retired names.** A retired name written anywhere in the content tree
  *    is an error at the place it is written; poetry fences, literature notes
  *    and `terran_analog` comments are not read.
@@ -1150,13 +1152,21 @@ export function analyseTongue(config, input) {
     let built = 0;
     let unreached = 0;
     const breaks = [];
+    // Houses the register gives to another tongue: a person of one is checked on the other words alone.
+    const otherHouses = new Set(
+        rule.register
+            .filter((one) => one.tongue.startsWith("other:"))
+            .map((one) => keyOf(one.name)),
+    );
     for (const row of rule.register) {
         if (row.tongue !== config.tongue) continue;
         own += 1;
-        const words = plain(row.name)
+        const all = plain(row.name)
             .replace(ARTICLE, "")
             .split(/[-\s]+/)
             .filter(Boolean);
+        const kept = all.filter((w) => !otherHouses.has(keyOf(w)));
+        const words = all.length > 1 && kept.length ? kept : all;
         const broke = words.flatMap((w) =>
             soundProblems(w.replace(/['’]s$/, ""), rule, { label: config.label }),
         );

@@ -37,7 +37,7 @@ and they have never asked for more than that.
 
 ## Not Guided
 
-Every [[affiliation-ordoarcanis|Ordo]] expedition that has come to Lírvë looking for a Sinalë enclave
+Every [[affiliation-ordoarcanis|Arcane Order]] expedition that has come to Lírvë looking for a Sinalë enclave
 has been looking, whether it knew the name or not, for Serenthalë—and none has been taken anywhere
 near it. The crown's guides out of [[place-liranel|Liranel]] are courteous about this and inexhaustibly
 resourceful, and the Áelendan who could actually find it would not, for the crown or for anyone.

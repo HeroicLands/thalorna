@@ -75,7 +75,7 @@ In the spring of 520 the eagle came south again. The hunger that followed the Th
 
 The Karsan Soldan Korvan, a legion of the northern march, met the host in the valleys below the passes. The legion did not give battle in the open. It closed the valley above the host and held the ridges, and when the host turned to break out, the only ground that fell away from the legion was the marsh at the valley's foot. A man in mail sinks to the waist there. The host could not stand together on it, and the legion did not have to go in.
 
-It died there to the last man. The Korvan took the eagle out of the reeds. The Ôrzâs Hárvânês of House Hêlarkâlês, who had ruled the Empire through the Three Winters and the raids that followed them, granted the legion a gold band on its name for the recovery. The Pelsan Hilvan's name was struck from the roll in the same year, as the manual requires, and its eagle went to the shrine at Tyrellan, the province's seat.
+It died there to the last man. The Korvan took the eagle out of the reeds. The Ôrzâs Hárvânês of House Hêlarkâlês, who had ruled the Empire through the Three Winters and the raids that followed them, granted the legion a gold band on its name for the recovery. The Pelsan Hilvan's name was struck from the roll in the same year, as the manual requires, and its eagle went to the shrine at Tirellan, the province's seat.
 
 ## What Moktur Made of It
 

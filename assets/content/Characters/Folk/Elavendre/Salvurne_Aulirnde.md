@@ -3,7 +3,7 @@ shortcode: salvurneauli
 name: {full: Sálvurnë Áulirndë, aliases: [Foreman Sálvurnë]}
 type: being
 subType: npc
-description: Foreman of the Deepmine Consortium, a ruthless operative who views Arévyn Llýdar's safety protocols as expensive.
+description: Foreman of the Deepmine Consortium, a ruthless operative who views Árevin Lídren's safety protocols as expensive.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Sálvurnë Áulirndë is a 32-year-old woman who stands 5'8" tall with a light b
 
 # Dossier {#dossier}
 
-Sálvurnë Áulirndë is the foreman of the Deepmine Consortium, a ruthless operative. She regards the safety rules of [[being-arevynlydr|Arévyn Llýdar]] as expensive obstacles to profit, and the two have clashed repeatedly over Arévyn's warnings about unstable shafts.
+Sálvurnë Áulirndë is the foreman of the Deepmine Consortium, a ruthless operative. She regards the safety rules of [[being-arevynlydr|Árevin Lídren]] as expensive obstacles to profit, and the two have clashed repeatedly over Árevin's warnings about unstable shafts.

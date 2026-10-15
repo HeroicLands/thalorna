@@ -28,7 +28,7 @@ When the body dies, the soul departs. Where it goes, what happens to it, and whe
 
 In Thalorna's cosmology, mortals, spirits, elementals, dragons, and gods are _all souls_. They are not different categories of being; they are different points on a single spectrum.
 
-What varies along the spectrum is primarily the **scale and capacity of the soul itself**—the depth of its Aura, the breadth of its reasoning, the magnitude of what it can channel. A mortal human is a soul with ordinary Aura. A great Magister is a soul with high Aura, refined by training. A demi-divine entity is a soul of unusual strength, possibly augmented by partial divine inheritance. A dragon is a soul of vast strength embodied in a powerful material form. A god is a soul of such magnitude that the difference of degree becomes a difference of kind in every practical respect.
+What varies along the spectrum is primarily the **scale and capacity of the soul itself**—the depth of its Aura, the breadth of its reasoning, the magnitude of what it can channel. A mortal human is a soul with ordinary Aura. A great _mârendândôs_ (master) is a soul with high Aura, refined by training. A demi-divine entity is a soul of unusual strength, possibly augmented by partial divine inheritance. A dragon is a soul of vast strength embodied in a powerful material form. A god is a soul of such magnitude that the difference of degree becomes a difference of kind in every practical respect.
 
 This continuity matters. It means there is no clean metaphysical line separating "natural" beings from "supernatural" ones. The peasant and the god are made of the same kind of stuff, in the same kind of structure, just at radically different scales. It also means that all the mechanisms that operate on souls—death and transit, framework-magic, predator spirits in the spirit realm, the protections of community—operate across the whole spectrum, with appropriate adjustments for scale.
 
@@ -288,13 +288,13 @@ The pool functions as the dragons' totem and afterlife in one. Surviving dragons
 
 ### The Vylarian Compact and Its Betrayal
 
-In the years before the founding of the Ordo Arcanis, the Vylarian Republic, locked in the Helionite war, found itself losing to mage-warlords whose unrestricted arcane work was tearing through the Republic's legions. The Republic needed something that could break magic, and it discovered that dragons, by their nature, did exactly that.
+In the years before the founding of the Thôrdimâlon (the Arcane Order), the Vylarian Republic, locked in the Helionite war, found itself losing to mage-warlords whose unrestricted arcane work was tearing through the Republic's legions. The Republic needed something that could break magic, and it discovered that dragons, by their nature, did exactly that.
 
-How the Republic made contact with dragons is not part of the documented record. The Ordo's archives, suppressed and incomplete, do not say. What the records do say is that the Republic and the dragons reached some kind of agreement, and that dragons participated in the war, and that the Helionite mages were broken and the war ended.
+How the Republic made contact with dragons is not part of the documented record. The Order's archives, suppressed and incomplete, do not say. What the records do say is that the Republic and the dragons reached some kind of agreement, and that dragons participated in the war, and that the Helionite mages were broken and the war ended.
 
 What was promised to the dragons in exchange for their participation is not known. The agreement may have included specific lands, specific recognitions, specific freedoms, specific protections. It may have included something stranger and more particular—concessions on matters that mattered to dragons in ways the Republic understood imperfectly. Whatever was promised, it was substantial enough that the dragons agreed.
 
-The Dragon Riders stood as a corps for nearly three centuries, from the war on. Around 45 BF the Republic did not renew the arrangement, the Riders were disbanded and the Eyrie of [[place-arvel|Arvel]] was sealed. The reason usually given is that the dragons' presence was incompatible with the Ordo Arcanis, chartered in 73 BF out of the conquered Helionite College of Arcane Philosophy: its research would fail and its training would be impossible beside creatures that unravel magic.
+The Dragon Riders stood as a corps for nearly three centuries, from the war on. Around 45 BF the Republic did not renew the arrangement, the Riders were disbanded and the Eyrie of [[place-arvel|Arvel]] was sealed. The reason usually given is that the dragons' presence was incompatible with the Thôrdimâlon, chartered in 73 BF out of the conquered Helionite College of Arcane Philosophy: its research would fail and its training would be impossible beside creatures that unravel magic.
 
 The Republic chose to break faith. The specifics—what was done, when, by whom—are among the most carefully suppressed records in Vylarian history. What seems certain: many dragons were killed. Some escaped. Some may have been captured, bound, or driven into hiding. The Dragon Riders who had bonded with dragons during the war were quietly disbanded; their dragons were taken from them, killed, or vanished.
 
@@ -306,11 +306,11 @@ Where the surviving dragons are, what they are doing, and what they intend are o
 
 - **Hidden and waiting.** The surviving dragons may be in deep hiding, perhaps in remote regions of Thalorna that mortals do not visit, biding time until conditions favor their return. Centuries of suppressed grievance may translate into patient strategy.
 - **Scattered and broken.** The Republic's betrayal may have done more damage than even the dragon ancestor pool can repair. The survivors may be few, isolated, and individually limited in what they can do—though even a few dragons remain enormously powerful by mortal standards.
-- **In contact with mortals.** Some surviving dragons may have made cautious contact with particular mortal individuals or groups—sharing some knowledge, accepting some service, building relationships outside the Ordo's awareness. Such contacts would necessarily be discreet.
+- **In contact with mortals.** Some surviving dragons may have made cautious contact with particular mortal individuals or groups—sharing some knowledge, accepting some service, building relationships outside the Order's awareness. Such contacts would necessarily be discreet.
 - **Preparing.** The surviving dragons, possibly in counsel with the ancestor pool through whatever means dragons use for spirit-world consultation, may be preparing some response to the betrayal. The response may be slow—dragon time-scales are not human time-scales—but it may be coming.
 - **Some combination.** Different dragons in different places may be doing different things. The dragon nation, if it can be called that, is not necessarily unified in its approach to the post-betrayal era.
 
-The Ordo and the Empire have spent nearly eight centuries hoping the dragons forget. This is a false hope. Dragons do not forget. The dragon ancestor pool does not forget. The question is not whether the betrayal will eventually have consequences but when, in what form, and whether the consequences will be addressable when they arrive.
+The Order and the Empire have spent nearly eight centuries hoping the dragons forget. This is a false hope. Dragons do not forget. The dragon ancestor pool does not forget. The question is not whether the betrayal will eventually have consequences but when, in what form, and whether the consequences will be addressable when they arrive.
 
 The GM has wide latitude in deciding the dragons' current state and intentions for any given campaign. The cosmological framework supports any of the possibilities above; campaigns can be constructed around discovering which apply, around encountering specific surviving dragons, around the ancestor pool's eventual response, or around the slow return of dragons to the open world after their long withdrawal.
 
@@ -454,4 +454,4 @@ Several practical implications follow from the cosmology established here.
 - [[doc-godsrelign|Gods and Religion]]—What religions are, the four mechanisms of divine effect, blessings, curses, the Sacred Forge / Black Flame example
 - [[doc-divineactn|Divine Action]]—How the gods engage with the world through agents, the Balance, divine intelligence, the Heroic Age
 - [[lore-undead|Undead]]—The undead in detail: damutu, terebu, their creation, their politics, and practical guidance for running them
-- [[lore-frgntradcomp|Foreign Traditions Comparative]]—_(GM-only)_ How each non-Ordo magical tradition channels the potential, including priestly traditions
+- [[lore-frgntradcomp|Foreign Traditions Comparative]]—_(GM-only)_ How each non-Order magical tradition channels the potential, including priestly traditions

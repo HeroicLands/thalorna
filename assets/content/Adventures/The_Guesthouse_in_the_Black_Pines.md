@@ -20,7 +20,7 @@ A party crossing the Vandstein highlands by the old road takes shelter in a gues
 
 ## Overview
 
-North of the passes the [[lore-legionsroad|Legions' Road]] crosses a gorge on four Vylarian piers and climbs into the black pines of [[place-dunkelholt|Dunkelholt]], where a stone shell of an imperial post has been roofed again as a guesthouse. Its keeper, **Óthric yra Vandwald wur Vandgrund**, has a wife the Master below has kept alive after a bear mauled her, and he pays for that by sending travelers down the cellar stair. The Master is **Sîrêmôs**, a Vylarian of the [[affiliation-ordoarcanis|Ordo Arcanis]] whose house struck him from its rolls; the Sekran wants him dead for the arts he practices, and its file describes an old man. His servants are [[lore-golemcrtr|constructs]] of dead flesh, each held by a ring of signs cut into its skin, and the largest, the Choir, hunts the near bank of the river at night. A thin young woman, **Sundrún yra Eichrúnd wur Erthhaven**, serves at the keeper's table, and she is the party's best guide to all of it.
+North of the passes the [[lore-legionsroad|Legions' Road]] crosses a gorge on four Vylarian piers and climbs into the black pines of [[place-dunkelholt|Dunkelholt]], where a stone shell of an imperial post has been roofed again as a guesthouse. Its keeper, **Óthric yra Vandwald wur Vandgrund**, has a wife the Master below has kept alive after a bear mauled her, and he pays for that by sending travelers down the cellar stair. The Master is **Sîrêmôs**, a Vylarian of the [[affiliation-ordoarcanis|Thôrdimâlon]] whose house struck him from its rolls; the Sekran wants him dead for the arts he practices, and its file describes an old man. His servants are [[lore-golemcrtr|constructs]] of dead flesh, each held by a ring of signs cut into its skin, and the largest, the Choir, hunts the near bank of the river at night. A thin young woman, **Sundrún yra Eichrúnd wur Erthhaven**, serves at the keeper's table, and she is the party's best guide to all of it.
 
 That is the story as the party first meets it, and every sentence of it holds. The section that follows, What Is Really Happening, says how the rest of it reaches the party.
 
@@ -54,7 +54,7 @@ The full truth of the house—who Sundrún is, what sits by the brazier, what Ó
 | Óthric sends her to the kitchen, and leans aside without looking when she passes behind his chair                        | Scene One, at supper          | He is silencing a servant who talks too much         | He is afraid of her, and keeping her from choosing among his guests                            |
 | The thing circling the camp goes still while she walks out to it with bread                                              | Scene One, if the party camps | A brave girl, and a lucky one                        | The hunter of the near bank is hers, and never touches her                                     |
 | "I hold the lamp at the Master's table, because my hands are steady"                                                     | Scene Two                     | A girl forced to assist                              | The steady hands are the surgeon's, and the lamp is hers                                       |
-| She reads the factor's Sêmarion script without stumbling                                                                 | Scene Two                     | She learned letters from the merchants she came with | A Vylarian scholar reading the hand he wrote                                                   |
+| She reads the factor's Sêmarôn script without stumbling                                                                  | Scene Two                     | She learned letters from the merchants she came with | A Vylarian scholar reading the hand he wrote                                                   |
 | The factor wrote that the girl carried the lamp down the cellar stair alone at midnight, and the screaming began after   | Scene Two                     | She is sent down to assist                           | Nobody drives her down; she goes alone, and the work waits for her lamp                        |
 | The day-book's last pages are in another, small and practiced hand, and the last entry describes the drain               | Scene Two                     | A clerk took over the book, and found a way out      | A captive could not have walked the passage and come back to write it down; the book is bait   |
 | Athalwyn stops on the stair when she sees the lamp behind the party                                                      | Scene Three                   | She is afraid of the light                           | She knows who carries it                                                                       |
@@ -87,7 +87,7 @@ The reveal belongs in Scene Three or at the start of Scene Four, and it reaches 
 Once the reveal lands, the party wants something it did not want before. The girl it has been protecting is the one to stop, and she is at its side holding the light. Arngar learns that the hand that cut his brother is the one he has been guarding. Óthric and Athalwyn become people to free, and stop being gaolers to punish. Killing the old man achieves exactly what the Master wants, so the party has to decide whether to let that story stand and carry it south, or to carry the truth instead, which means a young Varokh woman's body on the cellar floor and a kindred at Erthhaven owed an account of it.
 
 > [!TIP]
-> A party hired by the Sekran, or carrying a mage of the Ordo, is the party the decoy was made for. Any hook can carry a second commission: a Quaesitor at the border garrison pays a small retainer for news of an old Vylarian mage on the northern road.
+> A party hired by the Sekran, or carrying a mage of the Arcane Order, is the party the decoy was made for. Any hook can carry a second commission: a _sêkhêrândôs_ (inquirer) at the border garrison pays a small retainer for news of an old Vylarian mage on the northern road.
 
 ## Hooks
 
@@ -172,7 +172,7 @@ She never says who the Master is. She says "the Master" and "below", and lets th
 - **Force.** Break down the cellar door now. It is oak bound in Vylarian iron, and the noise brings the keeper with an axe and wakes what is below.
 - **Stealth.** Wait for the house to sleep, and go down by Sundrún's way.
 - **Talk.** Get the whole story from Sundrún, which costs her the keeper's trust if he hears of it, or confront the keeper with the pack, which costs Arngar his patience.
-- **Cleverness with the place.** Read the luggage. Among it is a Moktur factor's day-book in Sêmarion script, its last pages written here.
+- **Cleverness with the place.** Read the luggage. Among it is a Moktur factor's day-book in Sêmarôn script, its last pages written here.
 - **Giving something up.** Leave the luggage and its silver where it is, so that the keeper finds nothing disturbed.
 
 **Clues and rewards.** The factor's entries are plain and frightened, and each records something the party can set beside Sundrún's account:
@@ -185,7 +185,7 @@ She never says who the Master is. She says "the Master" and "below", and lets th
 - The girl who serves carried the lamp down the cellar stair alone at midnight, and the screaming began after.
 - A voice called the factor's clerk by name from the yard after the clerk had gone missing.
 
-Then the hand changes. The last pages are in a smaller, practiced hand, and the last entry describes the drain under the woodshed: a passage the legions cut, too low for anything large, with water running in it, that climbs to a grate beneath the cellars behind the guard on the stair. If nobody in the party reads Sêmarion, Sundrún reads the book aloud without stumbling. Arngar, asked about the stream, says the tellings of the [[lore-varokhiclt|hrág]] hold that it will not cross running water, and that he never believed them. The luggage holds a modest weight of aurions and amber the party can take now.
+Then the hand changes. The last pages are in a smaller, practiced hand, and the last entry describes the drain under the woodshed: a passage the legions cut, too low for anything large, with water running in it, that climbs to a grate beneath the cellars behind the guard on the stair. If nobody in the party reads Sêmarôn, Sundrún reads the book aloud without stumbling. Arngar, asked about the stream, says the tellings of the [[lore-varokhiclt|hrág]] hold that it will not cross running water, and that he never believed them. The luggage holds a modest weight of aurions and amber the party can take now.
 
 The last pages are the Master's work, written into a dead man's book and left where the party would find it. They are bait, and they name her route.
 
@@ -254,7 +254,7 @@ Read by the drain:
 **Situation.** The cellars are the legions' strongroom, long vaulted chambers under the granary. The Choir stands in the outer vault. Beyond it, behind a door with a ward-sign cut into its lintel, is the Master's operating chamber: the first table, with straps, where the night's taken traveler lies awake and bound; racks of instruments; jars labeled in a small, practiced hand; a brazier; and the second table, set over the drain grate and laid out for the party. A narrow old man sits by the brazier, wearing a young man's hands, one eye blue and the other brown, his throat stitched where a fresh run of skin has been laid in. He speaks in four sentences, always in this order, and begins again at the first when he reaches the last:
 
 1. "You are welcome. Sit; the floor is cold."
-2. "I am Sîrêmôs. I was of the Ordo once, and the Ordo would like me dead."
+2. "I am Sîrêmôs. I was of the Arcane Order once, and the Arcane Order would like me dead."
 3. "Everything you carry can be mended. Lie down, and I will show you."
 4. "There is no need for the swords."
 
@@ -326,7 +326,7 @@ He is the Master's former body, a construct with its ring of signs under the sti
 - **If the Master escaped, unmasked.** She moves farther north and starts again, and a party that knows her face is the first thing she looks for.
 - **If the Choir still stands.** It keeps the house it was told to keep, and the near bank of the gorge has a hunter on it at night that no village can name.
 - **If Óthric went home.** The Vandgrund elders call a reckoning on the guides who sent parties north, and the families concerned are the same ones the War Chief fears to drive away.
-- **If the manuscripts went to the Sekran.** The Ordo pays well, and opens a file on the party. If the last working went with them, the Sekran's file on Sîrêmôs describes a young Varokh woman.
+- **If the manuscripts went to the Sekran.** The Arcane Order pays well, and opens a file on the party. If the last working went with them, the Sekran's file on Sîrêmôs describes a young Varokh woman.
 
 ## See Also
 
@@ -335,4 +335,4 @@ He is the Master's former body, a construct with its ring of signs under the sti
 - [[lore-legionsroad|The Legions' Road]]—the road and its abandoned posts
 - [[place-vandgrund|Vandgrund]]—the keeper's village and its pass guides
 - [[lore-golemcrtr|Constructs]]—what the Master makes
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the order whose Sekran wants the Master
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the order whose Sekran wants the Master

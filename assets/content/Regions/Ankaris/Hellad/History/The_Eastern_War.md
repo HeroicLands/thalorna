@@ -35,7 +35,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the province's ledgers are kept in the Sêmarion script and dated by the Vylarian Calendar for three centuries
+              the province's ledgers are kept in the Sêmarôn script and dated by the Vylarian Calendar for three centuries
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: actor}
@@ -73,7 +73,7 @@ The Ôrzâs annexed the League as a province by edict. The edict dissolved the C
 
 - **The province of Byzaría**, which lasted three centuries.
 - **The imperial frontier forts** in the passes, which the League takes as its marches after the legions leave.
-- **The Sêmarion ledgers and the Vylarian Calendar**, which the province keeps for the rest of its imperial age.
+- **The Sêmarôn ledgers and the Vylarian Calendar**, which the province keeps for the rest of its imperial age.
 - **The "formal conquest"** of the Tevran Maldor's account, which dates to this war and to no other.
 
 ## See Also
@@ -81,4 +81,4 @@ The Ôrzâs annexed the League as a province by edict. The edict dissolved the C
 - [[lore-heladcitadel|The Siege of the Silver Citadel]]—the longest siege of the war
 - [[lore-heladcompact|The Compact of the Five]]—the pact the edict dissolved
 - [[affiliation-vylarinmpr|Vylarian Empire]] · [[affiliation-tevran|Tevran Maldor]]
-- [[skill-semrnscrpt|Sêmarion]]
+- [[skill-semrnscrpt|Sêmarôn]]

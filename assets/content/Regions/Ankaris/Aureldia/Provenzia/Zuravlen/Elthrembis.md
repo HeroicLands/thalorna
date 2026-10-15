@@ -3,7 +3,7 @@ shortcode: elthrembis
 name: {full: Elthrembìs, aliases: []}
 type: place
 subType: settlement
-description: "The market town and baronial seat of Zûravlen, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."
+description: "The market town and baronial seat of Zuravlèn, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."
 tags: [town, market, trading]
 data:
   demonym: null
@@ -14,20 +14,20 @@ data:
   packFolder: provenzia
 ---
 
-**Elthrembìs** stands where the Zûravlen valley opens toward the plain, and it exists to sell what the
+**Elthrembìs** stands where the Zuravlèn valley opens toward the plain, and it exists to sell what the
 valley grows. Some fourteen hundred people live there—more in August, very many more during the
 fair—and almost none of them farm.
 
-It is the seat of **Baron Álegar alrí Zûravel**, who holds Zûravlen of the
+It is the seat of **Baron Álegar alrí Zûravel**, who holds Zuravlèn of the
 [[affiliation-kngdmprvnz|Crown of Provènzia]] and whose hall stands above the town rather than in it,
 and the administrative center of the barony: the water-rolls, the manor customs and the grading
 records are all kept here.
 
 ## The Grading Table
 
-The town's real institution, and the source of Zûravlen's reputation. Every basket of fruit intended
+The town's real institution, and the source of Zuravlèn's reputation. Every basket of fruit intended
 for sale outside the barony is brought to the **grading table** under the market hall, where sworn
-graders sort it into three marks. Only the first mark may be sold under the Zûravlen name.
+graders sort it into three marks. Only the first mark may be sold under the Zuravlèn name.
 
 The graders are appointed by the baron, hold office for three years, and are forbidden to own orchards—a rule introduced after a scandal three generations ago and observed with varying rigor since. A
 grader's decision can make or ruin a small holding's year, and every orchardist in the valley has a
@@ -65,4 +65,4 @@ For those eight days Elthrembìs is one of the wealthiest small towns in Provèn
 
 ## See Also
 
-- [[place-zuravlenrgn|Zûravlen Region]] · [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-zuravlenrgn|Zuravlèn Region]] · [[affiliation-kngdmprvnz|Kingdom of Provènzia]]

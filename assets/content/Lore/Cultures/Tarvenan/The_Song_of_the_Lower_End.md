@@ -45,7 +45,7 @@ on the great stone, when he said: You are the one who goes.
 Three times the legions climbed the ranges from the plain,
 and three times the ranges sent them back the way they came.
 They held the lowlands then, the harbor and the grain,
-the walled towns and the towers that watched the lords of Léonrik by day.
+the walled towns and the towers that watched the lords of Liénrik by day.
 The mountains they could not take.
 The fourth time a legion came, and it brought its road along the way:
 it cut the road in front of it, and walked on what it made.

@@ -193,7 +193,7 @@ exactly where it's asked is praised.
 At table, when they talk of the art,
 follow it well. You need not start.
 
-The Ordo writes it down. We sing.
+The Order writes it down. We sing.
 Ask which of us forgets the thing.
 
 When an old one of the wood is near,
@@ -217,7 +217,7 @@ _The Master:_
 Guest-right is never argued. Nor
 is the plain fact of a shut door.
 
-Courtesy to the Ordo costs
+Courtesy to the Order costs
 nothing. Count, after, what was lost.
 
 The crown's guides are excellent. They show
@@ -324,4 +324,4 @@ _The Master:_ Then you are a Bard of this College. Take the harp.
 ## See Also
 
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-elavendriclt|Élavendri]] · [[lore-theasking|The Asking]]
-- [[lore-treelinelay|The Lay of the Tree Line]] · [[lore-firstcrown|The First Crowning of Élavendre]] · [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[lore-treelinelay|The Lay of the Tree Line]] · [[lore-firstcrown|The First Crowning of Élavendre]] · [[affiliation-ordoarcanis|Thôrdimâlon]]

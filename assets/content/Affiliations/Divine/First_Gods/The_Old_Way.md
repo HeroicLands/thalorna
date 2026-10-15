@@ -150,7 +150,7 @@ The Aurèldían pantheon has been present in Élavendre for many centuries and i
 
 But the Áelendan do not regard Aurèldían worship as an alternative to the Old Way. They regard it, as noted in [[affiliation-firstgods|their teaching on the First Gods]], as a later refraction of the older truth—not wrong, but partial. The Aurèldían gods are children of the First, and honoring a child is not the same as honoring the parent.
 
-Among the Élavendri nobility, who claim Áelendan ancestry and whose own religious practice is "heavily inflected by older fae traditions," there are individuals and whole families who have quietly kept the Old Way alongside their public Aurèldían observance. This is tolerated by the Aurèldían clergy, who treat it as charming ancestral piety; it is regarded with more suspicion by the [[affiliation-ordoarcanis|Ordo Arcanis]], which regards any ungoverned religious practice as a category of problem.
+Among the Élavendri nobility, who claim Áelendan ancestry and whose own religious practice is "heavily inflected by older fae traditions," there are individuals and whole families who have quietly kept the Old Way alongside their public Aurèldían observance. This is tolerated by the Aurèldían clergy, who treat it as charming ancestral piety; it is regarded with more suspicion by the [[affiliation-ordoarcanis|Thôrdimâlon]], which regards any ungoverned religious practice as a category of problem.
 
 ## See Also
 

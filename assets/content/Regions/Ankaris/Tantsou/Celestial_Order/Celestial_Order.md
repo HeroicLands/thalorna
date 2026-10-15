@@ -45,12 +45,12 @@ The ledger makes the faith a matter of transactions. People pursue credit and av
 
 ## Magic
 
-The cosmic energy behind all magic, the force the [[affiliation-ordoarcanis|Ordo Arcanis]] works through elemental forms, is in Tāntsou called **Léi**: the stuff of classification, the energy that keeps sorted things sorted.
+The cosmic energy behind all magic, the force the [[affiliation-ordoarcanis|Thôrdimâlon]] works through elemental forms, is in Tāntsou called **Léi**: the stuff of classification, the energy that keeps sorted things sorted.
 
-The Wánduo work it by building mental forms shaped as procedures. Where an Ordo mage pictures the geometry of the elements, a Wánduo pictures a petition, complete with celestial seals, jurisdictional stamps, a bureau's address and the formal words of request. The greater the working, the more elaborate the paperwork: a small working needs one seal and one bureau, a great one the authority of several bureaus and the countersignatures of their overseers. The model gives Tāntsou magic its character.
+The Wánduo work it by building mental forms shaped as procedures. Where an Arcane Order mage pictures the geometry of the elements, a Wánduo pictures a petition, complete with celestial seals, jurisdictional stamps, a bureau's address and the formal words of request. The greater the working, the more elaborate the paperwork: a small working needs one seal and one bureau, a great one the authority of several bureaus and the countersignatures of their overseers. The model gives Tāntsou magic its character.
 
 - **Reliability over speed.** A petition takes longer to build than a geometric form, and once filed it is very hard to disrupt, because the procedure carries its own redundancies.
-- **Scale.** The model excels at great shared workings: wards over whole cities, blessings that last generations, enchantments on the harvest, the containment of plague. Many Wánduo can add their seals to one petition, a thing the Ordo's single-mage forms cannot easily match.
+- **Scale.** The model excels at great shared workings: wards over whole cities, blessings that last generations, enchantments on the harvest, the containment of plague. Many Wánduo can add their seals to one petition, a thing the Arcane Order's single-mage forms cannot easily match.
 - **Categorical limits.** The model struggles with what defies classification. A working that crosses elemental lines with no clear jurisdiction, or an effect no bureau governs, is truly harder to produce, because the sorcerer's mind has no form for a thing with no address.
 
 [[lore-phlsphyleiwo|Philosophy of Léiwō]] sets out the theory of Léi in full.

@@ -61,7 +61,7 @@ The desert has no single ruler. Perhaps a dozen great confederations and many sm
 
 The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary shêbaradêr, a standing army and a court modeled on the old cities of the Āsháian faith, and it holds the northwestern corner from the Vylarian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has no footing here. The tribes call it a Vylarian institution with no standing in their country, and the Ordo gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] has no footing here. The tribes call it a Vylarian institution with no standing in their country, and the Arcane Order gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
 
 ## Trade
 

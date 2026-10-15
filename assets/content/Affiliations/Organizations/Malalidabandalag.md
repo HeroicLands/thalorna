@@ -107,7 +107,7 @@ The [[affiliation-blckpnwlvs|Blackpine Wolves]] of Vrystwald are the best-known 
 
 - **[[place-nrdlndsrgn|The five Nordland crowns]]** are clients and protectors. Each kingdom hires from the Compact regularly and permits signed companies to recruit within its borders, and together they guarantee the Hall's neutrality.
 - **The [[affiliation-skaldscrcl|Skalds' Circle]]** and the Compact extend each other formal hospitality and recognition. A skald is welcome at any signed company's fire. Skalds carry company histories, sing the deaths of fallen captains and serve as messengers between the Hall and its scattered companies.
-- **The [[affiliation-ordoarcanis|Ordo Arcanis]]** is held at arm's length. The Ordo has tried twice to charter its own military arm in the Nordlands and was refused both times, and the Compact treats Ordo presence in its hiring markets as an intrusion to be managed.
+- **The [[affiliation-ordoarcanis|Thôrdimâlon]]** is held at arm's length. The Arcane Order has tried twice to charter its own military arm in the Nordlands and was refused both times, and the Compact treats Arcane Order presence in its hiring markets as an intrusion to be managed.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**, the [[affiliation-graytide|Gray Tide]] above all, get no contracts. The Compact expels any member caught dealing with them, and the Gray Tide answers by undercutting Compact prices on coastal contracts wherever it can.
 
 ## The Ring

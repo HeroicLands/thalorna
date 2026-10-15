@@ -18,10 +18,10 @@ A celestial dial above the pageant tracks the wandering of sun, moon and stars i
 
 ## Keeping the Machine
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] maintains the Orrery jealously. Only a handful of its Magi-Artificers know the full secret of its workings, and the cost of keeping it running is a closely guarded line in the imperial accounts. The guard on the door knows only what the pageant does, and he knows it better than anyone who has ever watched it from the floor.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] maintains the Orrery jealously. Only a handful of its Magi-Artificers know the full secret of its workings, and the cost of keeping it running is a closely guarded line in the imperial accounts. The guard on the door knows only what the pageant does, and he knows it better than anyone who has ever watched it from the floor.
 
 ## See Also
 
 - [[place-palvar|Palvar]]—the palace that houses it
-- [[place-orzara|Ôrzâra]]—the city and the Hand of the Ordo
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the order that builds and keeps it
+- [[place-orzara|Ôrzâra]]—the city and the Hand of the Arcane Order
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the order that builds and keeps it

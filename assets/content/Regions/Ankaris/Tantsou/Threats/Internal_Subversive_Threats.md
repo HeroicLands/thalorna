@@ -11,13 +11,13 @@ The [[affiliation-tantsouempr|Empire of Tāntsou]] keeps a register of every per
 
 ## The Sorcerers' Guild
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]], called in Tāntsou the Sorcerers' Guild, is a guild of mages from beyond the borders, and it holds that no sorcerer should be owned. To the Ordo the [[lore-wanduo|Wánduo]] are prisoners; to the empire they are property, and the empire's control of magic rests on them. The Ordo keeps an embassy in the imperial capital under treaty, and from it runs a quiet operation to reach the Wánduo, stir them to resist and gather what they know.
+The [[affiliation-ordoarcanis|Thôrdimâlon]], called in Tāntsou the Sorcerers' Guild, is a guild of mages from beyond the borders, and it holds that no sorcerer should be owned. To the Arcane Order the [[lore-wanduo|Wánduo]] are prisoners; to the empire they are property, and the empire's control of magic rests on them. The Arcane Order keeps an embassy in the imperial capital under treaty, and from it runs a quiet operation to reach the Wánduo, stir them to resist and gather what they know.
 
 ## Ha Zhao, the Shadow Sect
 
 [[affiliation-hazhao|Ha Zhao]] is a network of Wánduo who have escaped their owners and gone to ground in the empire's cities. Its members sell forbidden magic to anyone who can pay, and they work toward something no one else in the empire would say aloud: magic freed from the classification altogether, and an order in which a sorcerer belongs to himself.
 
-The Sect's most dangerous tie is to the Ordo embassy. The Ordo supplies money, safe houses and the means to smuggle a hunted sorcerer out over the [[doc-extrnlthrts|western passes]]; the Sect supplies information and measured access to Wánduo practice the Ordo could get no other way. Both sides deal through intermediaries and keep their exchanges compartmented, because exposure would destroy them both, and each holds enough on the other to make blackmail a standing option.
+The Sect's most dangerous tie is to the Arcane Order embassy. The Arcane Order supplies money, safe houses and the means to smuggle a hunted sorcerer out over the [[doc-extrnlthrts|western passes]]; the Sect supplies information and measured access to Wánduo practice the Arcane Order could get no other way. Both sides deal through intermediaries and keep their exchanges compartmented, because exposure would destroy them both, and each holds enough on the other to make blackmail a standing option.
 
 ## The Merchants' Rising
 

@@ -39,10 +39,10 @@ The arrangement has two properties that matter enormously and are rarely stated:
   decline and say so.
 - **It makes the Áelendan indispensable to everyone.** The Élavendren crown's celebrated centuries-long formal relationship with the Sinalë is, in practice and in the overwhelming majority of instances, carried on through Áelendan intermediaries. The crown does not advertise this, for the obvious reason:
   it means the relationship is not the monarchy's to possess but the tribes' to grant, and it could be
-  withdrawn without a word being said to anyone at Béravel.
+  withdrawn without a word being said to anyone at Péravel.
 
 Every Élavendren monarch has understood this. It is the quiet floor beneath the whole of the kingdom's
-careful management of the [[affiliation-ordoarcanis|Ordo]]—and the reason no reign has ever been
+careful management of the [[affiliation-ordoarcanis|Arcane Order]]—and the reason no reign has ever been
 willing to let the Áelendan be pushed too far.
 
 The arrangement dates from the day the wood was given to the Áelendan in the court itself ([[lore-firesnelgan|The Fires on Nélgan]]).

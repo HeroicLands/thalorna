@@ -41,7 +41,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 
 **Name:** [[being-arancelavren|Aran Célavren]]
 
-- **Role:** High-ranking mage of the [[affiliation-ordoarcanis|Ordo Arcanis]] and noble.
+- **Role:** High-ranking mage of the [[affiliation-ordoarcanis|Thôrdimâlon]] and noble.
 - **Background:** An experienced diplomat and trusted advisor in the service of the Synod of Dúnavarre.
 - \***\*Intrigue:\*\*** Recently promoted to his position, and some in the Synod's service believe he owes his rapid ascent to secret dealings or favoritism. Aran is driven by a need to prove his worth constantly, leading to strained relations within the party.
 
@@ -193,15 +193,15 @@ The Vylarian Empire currently serves as the sole intermediary for diplomatic rel
 
 ## Adventure 1: The [[miscgear-heartofdhirikri|Heart of Dhiríkri]]
 
-Central Plot: The mission arrives at [[place-beravel|Béravel]], capital of Élavendre. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Aelithra Enéwyn]], expresses interest in sending a party to the [[lore-aralwen|Arálwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
+Central Plot: The mission arrives at [[place-beravel|Péravel]], capital of Élavendre. At a party in Aran’s honor, the Royal Loremaster of Élavendre, [[being-aelithraenewyn|Áelithra Énevin]], expresses interest in sending a party to the [[lore-aralwen|Arálwen]] to retrieve an artifact. Aran suggests members of his mission would be happy to assist. This undertaking will involve dealing with the [[affiliation-alndnwrdns|Áelendan Wardens]], who are likely to oppose such movements.
 
-### The Leader of Panepistemium:
+### The Leader of Plûmepistémion:
 
-- Name: [[being-aelithraenewyn|Aelithra Enéwyn]]
+- Name: [[being-aelithraenewyn|Áelithra Énevin]]
 - Title: Royal Loremaster of Élavendre
-- Background: Aelithra is a Mistress of the [[affiliation-ordoarcanis|Ordo Arcanis]] and a wealthy commoner from Béravel.
-- Ancient Scroll: Aelithra possesses a recently discovered ancient scroll that mentions the Heart of Dhiríkri currently located within [[lore-aralwen|Úqua-Arálwen]]. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
-- Time Navigational Device: Aelithra provides the party with a device known as the Temporal Compass. This magical instrument helps navigate the time distortions within Úqua-Arálwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
+- Background: Áelithra is a Mistress of the [[affiliation-ordoarcanis|Thôrdimâlon]] and a wealthy commoner from Péravel.
+- Ancient Scroll: Áelithra possesses a recently discovered ancient scroll that mentions the Heart of Dhiríkri currently located within [[lore-aralwen|Úqua-Arálwen]]. Although the scroll is in poor condition and much of it is unreadable, it implies that music or sound has something to do with the artifact.
+- Time Navigational Device: Áelithra provides the party with a device known as the Temporal Compass. This magical instrument helps navigate the time distortions within Úqua-Arálwen, allowing the party to move through the zone without losing weeks or months in the process. The Temporal Compass is an ornate, enchanted object that glows when pointed in the safest direction. It vibrates when getting closer to the Heart of Dhiríkri and stabilizes time distortions around the bearer by creating a slight field of temporal consistency.
 
 ### Úqua-Arálwen
 

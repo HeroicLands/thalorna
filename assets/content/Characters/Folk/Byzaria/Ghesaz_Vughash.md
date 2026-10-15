@@ -2,16 +2,19 @@
 shortcode: ghesazvughas
 name:
   full: Ghesáz Vughash
-  aliases: [Magister Ghesáz Vughash, Quaesitor Magister Ghesáz Vughash, Quaesitor Ghesáz Vughash]
+  aliases:
+    - Mârendândôs Ghesáz Vughash
+    - Sêkhêrândôs Mârendândôs Ghesáz Vughash
+    - Sêkhêrândôs Ghesáz Vughash
 type: being
 subType: npc
-description: A quaesitor and aggressive magister who has filed an official inquiry into whether Fodios Rorês is an unlicensed magical practitioner.
+description: A sêkhêrândôs (inquirer) and aggressive mârendândôs (master) who has filed an official inquiry into whether Fodios Rorês is an unlicensed magical practitioner.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, scholar]
-  occupation: Quaesitor Magister
+  occupation: Sêkhêrândôs Mârendândôs
   lore: []
   culture: byzarianclt
   homes: []
@@ -38,4 +41,4 @@ Ghesáz Vughash is a 46-year-old man who stands 5'10" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Ghesáz Vughash is a quaesitor and aggressive magister of the Ordo Arcanis. He has filed an official inquiry into whether [[being-angldsptrks|Fodios Rorês]] is an unlicensed magical practitioner.
+Ghesáz Vughash is a _sêkhêrândôs_ (inquirer) and aggressive _mârendândôs_ (master) of the Thôrdimâlon (the Arcane Order). He has filed an official inquiry into whether [[being-angldsptrks|Fodios Rorês]] is an unlicensed magical practitioner.

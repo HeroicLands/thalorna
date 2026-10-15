@@ -35,7 +35,7 @@ data:
         description: >-
           Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
-        title: Equestrian
+        title: Gûlmâlênôs
         description: >-
           Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
       - level: 6
@@ -43,7 +43,7 @@ data:
         description: >-
           Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
       - level: 7
-        title: Consular
+        title: Tâvâlênôs
         lore: formermagrnk
         description: >-
           Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [nordmalng, valtarlng]}}
 
 Calypsa is a free port city on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], some seventy-five miles north of the mainland, just outside the mouth of [[place-liserebay|Líserë Bay]] and roughly fifteen miles across at its widest—barely large enough to hold the city proper, its terraced vineyards, and a scattering of fishing villages along the southern shore. The island commands the sea-lane between the [[place-nrdlndsrgn|Nordlands Region]] and the northern approaches to [[place-midhalnrgn|Mídhalión Region]], and its harbor is one of the best-sheltered anchorages in northern [[place-ankrscntnnt|Ankaris Continent]]. The galleys that use it tie the north and west of the continent together more completely than any treaty could.
 
-The city is nobody's vassal. It pays no tribute to the Nordmen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Ordo]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product, and every other good that passes through its warehouses is, in some sense, paying for it.
+The city is nobody's vassal. It pays no tribute to the Nordmen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Arcane Order]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product, and every other good that passes through its warehouses is, in some sense, paying for it.
 
 ## Character
 
@@ -134,7 +134,7 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 **The Nordmen kingdoms**—[[affiliation-kingdomlgn|Malagna]] especially—provide many of Calypsa's sailors, much of its shipbuilding timber, and a disproportionate share of its old-money families. Nordmal is still the working tongue of the docks for this reason. Relations with the Nordmen courts are friendly in trade and carefully neutral in politics; Calypsa has successfully stayed out of every Nordmen dynastic quarrel of the last three centuries.
 
-**The [[affiliation-ordoarcanis|Ordo Arcanis]]** maintains a small factor's house on the island but no chapterhouse and no licensing authority. Calypsa's official position is that the Ordo's writ stops at the waterline; in practice, Ordo agents who conduct themselves discreetly are tolerated, and those who do not are asked to leave.
+**The [[affiliation-ordoarcanis|Thôrdimâlon]]** maintains a small factor's house on the island but no chapterhouse and no licensing authority. Calypsa's official position is that the Arcane Order's writ stops at the waterline; in practice, Arcane Order agents who conduct themselves discreetly are tolerated, and those who do not are asked to leave.
 
 ## Notable Features
 

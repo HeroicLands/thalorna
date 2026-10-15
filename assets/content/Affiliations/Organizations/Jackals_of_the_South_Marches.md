@@ -101,7 +101,7 @@ The Jackals are [[being-argyrirjckl|Argýrira the Jackal's]] creation and hers a
 
 **Hired blades:** The band sells deniable violence—escort and protection, muscle for border feuds, and contract killings and ambushes for patrons who want a thing done where no Dómissa's writ runs. Because the Jackals answer to no House and no marcher clan, employing them keeps a patron's own hands clean.
 
-**Brokered grudges:** Argýrira's most exploitable trait is that she can be hired to do what she already means to do. A patron who knows the warlord's hatreds can set the pack on a chosen target for a fraction of its worth, letting her own grievance supply the ferocity. It is exactly this lever that [[being-casiaveric|Cassia Verric's]] Vylarian agents have pulled, paying through cut-outs to set the Jackals on [[being-lmbhrpdhnn|Lámbhira Pédhinion]]—a contract Argýrira took as much for the oldest debt she owns as for coin.
+**Brokered grudges:** Argýrira's most exploitable trait is that she can be hired to do what she already means to do. A patron who knows the warlord's hatreds can set the pack on a chosen target for a fraction of its worth, letting her own grievance supply the ferocity. It is exactly this lever that [[being-casiaveric|Kâssâ Vêrris's]] Vylarian agents have pulled, paying through cut-outs to set the Jackals on [[being-lmbhrpdhnn|Lámbhira Pédhinion]]—a contract Argýrira took as much for the oldest debt she owns as for coin.
 
 ## Reputation and Relations
 
@@ -111,7 +111,7 @@ The band's loyalty runs only as deep as its make-up. The Houseless core—the ex
 
 ## A Prize Crosses the Marches
 
-For all their standing as raiders and hired blades, the Jackals have lately become a piece in a far larger game than they bargained for. The fugitive Grammatíssa [[being-rshrhssfrn|Rashîra of House Safîrôn]] is crossing the Marches with the stolen **Purple Warrant**—incontrovertible proof of the matriarchy's corruption, sought by Bethûa to burn, by Vylaria to wield, and by [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] to answer. Vylaria's coin, through [[being-casiaveric|Cassia Verric's]] cut-outs, hired the band only to delay the Hound, [[being-lmbhrpdhnn|Lámbhira]]—but the Jackals rule the one road that prize must travel, and every faction now knows it. Whoever secures the register could buy the band outright or see it destroyed; and the Jackals, who answer to no one and whose queen has her own bitter score to settle with the realm the register condemns, are the wildcard that every power in the affair must reckon with and none can trust.
+For all their standing as raiders and hired blades, the Jackals have lately become a piece in a far larger game than they bargained for. The fugitive Grammatíssa [[being-rshrhssfrn|Rashîra of House Safîrôn]] is crossing the Marches with the stolen **Purple Warrant**—incontrovertible proof of the matriarchy's corruption, sought by Bethûa to burn, by Vylaria to wield, and by [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] to answer. Vylaria's coin, through [[being-casiaveric|Kâssâ Vêrris's]] cut-outs, hired the band only to delay the Hound, [[being-lmbhrpdhnn|Lámbhira]]—but the Jackals rule the one road that prize must travel, and every faction now knows it. Whoever secures the register could buy the band outright or see it destroyed; and the Jackals, who answer to no one and whose queen has her own bitter score to settle with the realm the register condemns, are the wildcard that every power in the affair must reckon with and none can trust.
 
 ## Identifying Marks
 

@@ -30,7 +30,7 @@ The climate is dominated by the Vylarian Sea—long, dry summers and mild winter
 
 The Tarvénans are fiercely independent and proud of their heritage. In contrast to the more refined and cultured people of [[place-provenzrgn|Provènzia Region]], they are known for their strength, resilience, and deeply entrenched sense of personal and communal freedom. Many of the great warriors and military leaders of Ankaris come from Tarvénia, and the region is home to skilled tacticians, mercenaries, and raiders.
 
-Politically, Tarvénia is a patchwork of semi-autonomous regions united under the loose authority of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. Three petty kingdoms—[[affiliation-kngdmstrth|Astúrath]] (the mountainous heartland), [[affiliation-kngdmglvrn|Galváren]] (the misty western coast), and [[affiliation-kingdmlnrk|Léonrik]] (the fertile central lowlands)—share power with the [[affiliation-frctyvlthr|Free City of Valthári]] (a merchant port on the southern coast) and the [[affiliation-frtrtryskrth|Free Territory of Eskárath]] (an ancient highland people on the Élavendren border). They share a common language and a history of both collaboration and rivalry. The people of Tarvénia are united by their warrior culture and their defiance of outside rule—a trait that has made them difficult subjects for every empire that has tried to conquer them. Even the [[affiliation-vylarinmpr|Vylarian Empire]] at its height struggled to hold Tarvénia: it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), lost a legion in the mountains ([[lore-horngorgebtl|The Horn Gorge]]), and was driven out of the lowlands by the first High King, elected for the purpose ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
+Politically, Tarvénia is a patchwork of semi-autonomous regions united under the loose authority of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. Three petty kingdoms—[[affiliation-kngdmstrth|Astúrath]] (the mountainous heartland), [[affiliation-kngdmglvrn|Galváren]] (the misty western coast), and [[affiliation-kingdmlnrk|Liénrik]] (the fertile central lowlands)—share power with the [[affiliation-frctyvlthr|Free City of Valthári]] (a merchant port on the southern coast) and the [[affiliation-frtrtryskrth|Free Territory of Eskárath]] (an ancient highland people on the Élavendren border). They share a common language and a history of both collaboration and rivalry. The people of Tarvénia are united by their warrior culture and their defiance of outside rule—a trait that has made them difficult subjects for every empire that has tried to conquer them. Even the [[affiliation-vylarinmpr|Vylarian Empire]] at its height struggled to hold Tarvénia: it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), lost a legion in the mountains ([[lore-horngorgebtl|The Horn Gorge]]), and was driven out of the lowlands by the first High King, elected for the purpose ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 
 Social structure varies by region. Coastal cities tend toward merchant oligarchies, while inland kingdoms are more traditionally feudal. Across Tarvénia, however, there is a strong tradition of communal assembly where freemen have a voice in local governance.
 
@@ -42,7 +42,7 @@ The Tarvénans have a complex relationship with magic and the divine. While [[pl
 
 ## Magic
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has a limited presence in Tarvénia. The Tarvénan distrust of centralized authority extends to magical authority, and the Ordo's attempts to regulate arcane practice have been met with resistance ranging from polite refusal to outright hostility. Local magical traditions—hedge magic, herbal lore, and protective charms—persist alongside the Ordo's more formal practices, and many Tarvénan communities would sooner consult a village wise-woman than an Ordo-sanctioned mage.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] has a limited presence in Tarvénia. The Tarvénan distrust of centralized authority extends to magical authority, and the Arcane Order's attempts to regulate arcane practice have been met with resistance ranging from polite refusal to outright hostility. Local magical traditions—hedge magic, herbal lore, and protective charms—persist alongside the Arcane Order's more formal practices, and many Tarvénan communities would sooner consult a village wise-woman than an Arcane Order-sanctioned mage.
 
 ## Relations
 
@@ -65,7 +65,7 @@ Tarvénan sailors and mercenaries are found across the [[place-vylarianse|Vylari
 - [[place-elavendre|Élavendre]]—Northern neighbor
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Former imperial power
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—Polity details
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The three kingdoms
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The three kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]]—The city-state
 - [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Highland free territory
 - [[skill-tarvenlng|Tarvéni]]—Naming conventions

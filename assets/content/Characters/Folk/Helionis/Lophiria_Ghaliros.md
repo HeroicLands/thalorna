@@ -3,7 +3,7 @@ shortcode: lophiriaghal
 name: {full: Lôphirîa Ghalîrôs, aliases: [Archon Lôphirîa]}
 type: being
 subType: npc
-description: A minor ruler on the empire's borders who turned against House Exarchides in its moment of need, named in Kallistratos Exarchides.
+description: A minor ruler on the empire's borders who turned against House Xarkhêdis in its moment of need, named in Kallistratos Xarkhêdis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Lôphirîa Ghalîrôs is a 47-year-old woman who stands 5'8" tall with a medium 
 
 # Dossier {#dossier}
 
-Lôphirîa Ghalîrôs is an archon, a minor ruler on the empire's borders. She was once an ally of House Exarchides and turned against it in its moment of need, hastening its downfall. She views [[being-klstrtsxrchds|Kallistratos Exarchides]] as the insignificant remnant of a dead house.
+Lôphirîa Ghalîrôs is an archon, a minor ruler on the empire's borders. She was once an ally of House Xarkhêdis and turned against it in its moment of need, hastening its downfall. She views [[being-klstrtsxrchds|Kallistratos Xarkhêdis]] as the insignificant remnant of a dead house.

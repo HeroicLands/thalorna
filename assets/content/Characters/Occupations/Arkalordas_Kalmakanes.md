@@ -1,6 +1,6 @@
 ---
 shortcode: arklrdsklmkns
-name: {full: Arkálòrdâs Kâlmâkanês, aliases: []}
+name: {full: Arkalordâs Kâlmâkanês, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -395,23 +395,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Arkálòrdâs Kâlmâkanês is a 33-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows and give him a keen gaze. He has an aquiline nose and narrow lips. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
+Arkalordâs Kâlmâkanês is a 33-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows and give him a keen gaze. He has an aquiline nose and narrow lips. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
 
 # Dossier {#dossier}
 
-Arkálòrdâs Kâlmâkanês is a common seaman of Aelissium, a trade city of [[place-vylariargn|Vylaría]], a Vylarian freeman who has worked the merchant ships of the Vylarian Sea for twenty years and is the hand the captains ask for by name.
+Arkalordâs Kâlmâkanês is a common seaman of Elissâra, a trade city of [[place-vylariargn|Vylaría]], a Vylarian freeman who has worked the merchant ships of the Vylarian Sea for twenty years and is the hand the captains ask for by name.
 
-Arkálòrdâs went to sea from Aelissium at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to Sâlkhâlon, and the long runs east to Heliónis and, before the war, to Tarûzel. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
+Arkalordâs went to sea from Elissâra at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to Sâlkhâlon, and the long runs east to Heliónis and, before the war, to Tarûzel. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
 
 ## Psyche
 
 ### Personality
 
-Arkálòrdâs is steady, stubborn and set in the ways he learned, and distrusts any way of working a ship he has not seen tested in a gale.
+Arkalordâs is steady, stubborn and set in the ways he learned, and distrusts any way of working a ship he has not seen tested in a gale.
 
 ### Motivation
 
-Arkálòrdâs wants the ship he is on to come home with every hand it left with, and he wants to keep the standing that makes the captains ask for him. The young officers do not ask.
+Arkalordâs wants the ship he is on to come home with every hand it left with, and he wants to keep the standing that makes the captains ask for him. The young officers do not ask.
 
 ### Strengths
 
@@ -419,24 +419,24 @@ Long experience at sea, a natural leader on deck, a fine seaman.
 
 ## Social
 
-Arkálòrdâs is on the roll of the Seamen's Guild of Aelissium, whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
+Arkalordâs is on the roll of the Seamen's Guild of Elissâra, whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
 
 ## Companions
 
 ### Patrons
 
-Arkálòrdâs's patrons are the merchant captains of Aelissium, who ask for him when the cargo matters, and the crews who sign because he has.
+Arkalordâs's patrons are the merchant captains of Elissâra, who ask for him when the cargo matters, and the crews who sign because he has.
 
 ### Enemies
 
-A young mate on the Heliónis run who learned his trade in a Tarûzelian yard and has told his captain that the old hand is slowing the deck; and a Tarûzelian privateer who took a ship Arkálòrdâs was aboard and did not take him.
+A young mate on the Heliónis run who learned his trade in a Tarûzelian yard and has told his captain that the old hand is slowing the deck; and a Tarûzelian privateer who took a ship Arkalordâs was aboard and did not take him.
 
 ## Plot Hooks
 
-1. **The Shoals**—A captain has offered double wages to take a cargo through the Tamzîr channels, which Tarûzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkálòrdâs.
+1. **The Shoals**—A captain has offered double wages to take a cargo through the Tamzîr channels, which Tarûzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkalordâs.
 
-2. **The Letters of Marque**—A Tarûzelian ship carrying letters against Vylarian trade has been seen off the Heliónis coast, and it is the privateer's. Arkálòrdâs's ship is the next out.
+2. **The Letters of Marque**—A Tarûzelian ship carrying letters against Vylarian trade has been seen off the Heliónis coast, and it is the privateer's. Arkalordâs's ship is the next out.
 
-3. **The Navy's Need**—The empire's navy is short of seamen and is paying the guild for its rolls. Arkálòrdâs's name is at the top of one.
+3. **The Navy's Need**—The empire's navy is short of seamen and is paying the guild for its rolls. Arkalordâs's name is at the top of one.
 
-4. **The Young Mate**—The mate has been given the deck for the Heliónis run and has set the ship the Tarûzelian way, with half the hands aloft that Arkálòrdâs would keep there. The weather is coming.
+4. **The Young Mate**—The mate has been given the deck for the Heliónis run and has set the ship the Tarûzelian way, with half the hands aloft that Arkalordâs would keep there. The weather is coming.

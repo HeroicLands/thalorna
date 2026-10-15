@@ -30,9 +30,9 @@ That said, some Áelendan songs suggest that the Sinalë and the Fae Courts have
 
 ## Scholarly Status
 
-[[affiliation-ordoarcanis|Ordo Arcanis]] theorists have attempted for centuries to develop a systematic account of the Fae Courts, with limited success. The Ordo's agents who venture deep enough into the Élavendren interior to gather firsthand evidence tend either not to return, or to return in states that make their testimony unreliable. The Ordo's standing position—its public position, at least—is that the Fae Courts are a literary conceit that encodes older memories of the Sinalë, conflated and mythologized over generations of oral transmission. Privately, senior members of the Sekran are known to take the question more seriously.
+[[affiliation-ordoarcanis|Thôrdimâlon]] theorists have attempted for centuries to develop a systematic account of the Fae Courts, with limited success. The Arcane Order's agents who venture deep enough into the Élavendren interior to gather firsthand evidence tend either not to return, or to return in states that make their testimony unreliable. The Arcane Order's standing position—its public position, at least—is that the Fae Courts are a literary conceit that encodes older memories of the Sinalë, conflated and mythologized over generations of oral transmission. Privately, senior members of the Sekran are known to take the question more seriously.
 
-The Áelendan, for their part, regard Ordo curiosity about the Courts with particular wariness. The Courts are not a subject to be studied by outside scholars. They are not a phenomenon to be cataloged. The Áelendan have given no consent for such investigation and they consider unauthorized inquiry into Court matters to be among the more serious violations of the Kindred Pact.
+The Áelendan, for their part, regard Arcane Order curiosity about the Courts with particular wariness. The Courts are not a subject to be studied by outside scholars. They are not a phenomenon to be cataloged. The Áelendan have given no consent for such investigation and they consider unauthorized inquiry into Court matters to be among the more serious violations of the Kindred Pact.
 
 ## See Also
 

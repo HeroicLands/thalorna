@@ -20,11 +20,11 @@ data: {packFolder: adventurersguides, culture: provenzianclt}
 
 Manners here are ornate, indirect and fast. A compliment is a coin of exchange, a direct refusal is a discourtesy, and an exact and cutting thing can be said inside the ornament where another Provenzian hears it perfectly. The code of courtly love governs far more than romance: it is how patronage is negotiated without either side saying the ugly part aloud. Dress, table and house are the public record of a family's standing, and a family that lets them slip is known to be in trouble before anyone has seen its books.
 
-Learning is prized, and rhetoric above all. The academies of the great cities teach natural philosophy, law and the magical arts, and the [[affiliation-ordoarcanis|Ordo Arcanis]] works openly here under royal oversight. Temples to [[affiliation-arldnpnthn|Mârendâs]] and [[affiliation-arldnpnthn|Ólvenía]] double as galleries and concert halls. The coin is [[lore-vylrncrncy|Vylarian]]: the Solden, the Ard and the Bit.
+Learning is prized, and rhetoric above all. The academies of the great cities teach natural philosophy, law and the magical arts, and the [[affiliation-ordoarcanis|Thôrdimâlon]] works openly here under royal oversight. Temples to [[affiliation-arldnpnthn|Mârendâs]] and [[affiliation-arldnpnthn|Ólvenía]] double as galleries and concert halls. The coin is [[lore-vylrncrncy|Vylarian]]: the Solden, the Ardin and the Bit.
 
 ## Where to Go
 
-[[place-jalnazdal|Jalnazdàl]], the capital, is a port as well as a court, and the crown and the Council of Peers conduct their long contest in its anterooms. [[place-valarencity|Válaren]] lives wholly on its harbor; nobody has ever taken it by assault, and a blockade is the one thing it fears. On the cold western coast of [[place-zuravlenrgn|Zûravlen]], peach orchards and fast boats race fruit to the southern tables. In the north, [[place-sathvothe|Sathvòthe]] holds the Élavendren borderland, the [[lore-aelendnppl|Áelendan]] mountains no crown truly holds, and the port of [[place-batarencity|Batáren]], where an old quarrel over land and rights is still unsettled.
+[[place-jalnazdal|Jalnazdàl]], the capital, is a port as well as a court, and the crown and the Council of Peers conduct their long contest in its anterooms. [[place-valarencity|Válaren]] lives wholly on its harbor; nobody has ever taken it by assault, and a blockade is the one thing it fears. On the cold western coast of [[place-zuravlenrgn|Zuravlèn]], peach orchards and fast boats race fruit to the southern tables. In the north, [[place-sathvothe|Sathvòthe]] holds the Élavendren borderland, the [[lore-aelendnppl|Áelendan]] mountains no crown truly holds, and the port of [[place-batarencity|Batáren]], where an old quarrel over land and rights is still unsettled.
 
 The east is the [[place-talothe|Talòthe]], the mountain march against [[place-tarvenirgn|Tarvénia]]. Raiding begins when the snow clears from the passes and ends when it returns, the levy musters at [[place-durvalis|Durvalìs]] every spring, and the courts sit in winter because nothing else can be done then.
 
@@ -34,7 +34,7 @@ Provènzia names the ground rather than the battle. Scattered across the kingdom
 
 ## Ways In
 
-A patron sends you north with a letter for an Élavendren house in Batáren, and two other patrons pay to know what it says. A merchant house in Válaren hires you to break a blockade's grip on its credit before its partners desert it. A baron in Zûravlen wants a quickened field farmed through one more harvest without anyone asking why the fruit is so large. A frontier family in the Talòthe needs hands for the raiding season, and the far side of the pass belongs to another family that has fought this one for longer than anyone remembers.
+A patron sends you north with a letter for an Élavendren house in Batáren, and two other patrons pay to know what it says. A merchant house in Válaren hires you to break a blockade's grip on its credit before its partners desert it. A baron in Zuravlèn wants a quickened field farmed through one more harvest without anyone asking why the fruit is so large. A frontier family in the Talòthe needs hands for the raiding season, and the far side of the pass belongs to another family that has fought this one for longer than anyone remembers.
 
 ## Where to Read Next
 
@@ -53,6 +53,6 @@ A patron sends you north with a letter for an Élavendren house in Batáren, and
 | règa        | The system of channels that carries river water along the valley terraces           |
 | síladòr     | A poet-singer of the courtly tradition, and the high poetic register itself         |
 
-Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Arálwen is a loanword from [[lore-elavendriclt#glossary|Élavendre]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Arálwen is a loanword from [[lore-elavendriclt#glossary|Élavendre]].
 
 The [[lore-provenzianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

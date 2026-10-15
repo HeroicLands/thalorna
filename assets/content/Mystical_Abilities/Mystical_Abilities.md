@@ -12,9 +12,9 @@ data: {banner: packagebuild-none-image-mysticalabilitybnr}
 
 Arcane incantations are divided by tradition.
 
-- [[affiliation-hexhodai|Hex Hodai]]
+- [[affiliation-hexhodai|Ksêmor Hodhîs]]
 
-### Incantus Hydälis
+### Incantation Hydalis
 
 ```sql
 SELECT address.slug AS _ref,
@@ -27,7 +27,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantus Kentra
+### Incantation Kentra
 
 ```sql
 SELECT address.slug AS _ref,
@@ -40,20 +40,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantus Physéra
-
-```sql
-SELECT address.slug AS _ref,
-       name.full    AS "Name",
-       description  AS "Description"
-FROM notes
-WHERE type = 'mysticalability'
-  AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'physera'
-ORDER BY name.full COLLATE NOCASE
-```
-
-### Incantus Pneuménos
+### Incantation Neuménos
 
 ```sql
 SELECT address.slug AS _ref,
@@ -66,7 +53,20 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantus Pyréthos
+### Incantation Physéra
+
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'physera'
+ORDER BY name.full COLLATE NOCASE
+```
+
+### Incantation Pyréthos
 
 ```sql
 SELECT address.slug AS _ref,
@@ -79,7 +79,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantus Sidéros
+### Incantation Sidéros
 
 ```sql
 SELECT address.slug AS _ref,
@@ -92,7 +92,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantus Zephäris
+### Incantation Zepharis
 
 ```sql
 SELECT address.slug AS _ref,

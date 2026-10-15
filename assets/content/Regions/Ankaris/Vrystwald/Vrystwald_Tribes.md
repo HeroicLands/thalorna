@@ -94,7 +94,7 @@ The Vrystwald's frontier with [[affiliation-provncmktr|Moktur province]] is the 
 
 ## Commerce and Currency
 
-Vrystwald Tribes uses the [[lore-vylrncrncy|Vylarian coinage]] (Solden / Ard / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-danvar|The Danvar]] chapters operate in Vrystwald. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|clan credit]] customs that have no relationship with the Vylarian banking system.
+Vrystwald Tribes uses the [[lore-vylrncrncy|Vylarian coinage]] (Solden / Ardin / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-danvar|The Danvar]] chapters operate in Vrystwald. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|clan credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 

@@ -29,7 +29,7 @@ data:
       - level: 2
         title: Acolytes of the Road
         description: >-
-          Initiates who travel with a Custos before they are given a shrine of their own.
+          Initiates who travel with a Tramor before they are given a shrine of their own.
       - level: 3
         title: Tramor
         description: >-
@@ -44,7 +44,7 @@ data:
       Tramor: >-
         The Keepers of Roads—fifty to a hundred ordained priests stationed at way-shrines and crossings, scattered by design.
       Acolytes of the Road: >-
-        Initiates who travel with a Custos before they are given a shrine of their own.
+        Initiates who travel with a Tramor before they are given a shrine of their own.
       Way-Shrines: >-
         The shrines along the roads at which the Tramori are stationed and travelers are blessed.
   seat: null

@@ -28,7 +28,7 @@ coming over it for as long as there has been anyone on the southern shore to com
 levy of [[place-lisere|Líserë]] exists for no other reason.
 
 Trade crosses it too, in the same boats and often in the same season, which is a fact the crown at
-[[place-beravel|Béravel]] finds easier to deplore than to prevent.
+[[place-beravel|Péravel]] finds easier to deplore than to prevent.
 
 ## The Open North
 

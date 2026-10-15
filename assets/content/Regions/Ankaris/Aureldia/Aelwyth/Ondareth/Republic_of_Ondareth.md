@@ -34,7 +34,7 @@ data:
         description: >-
           Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
-        title: Equestrian
+        title: Gûlmâlênôs
         description: >-
           Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
       - level: 6
@@ -42,7 +42,7 @@ data:
         description: >-
           Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
       - level: 7
-        title: Consular
+        title: Tâvâlênôs
         lore: formermagrnk
         description: >-
           Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
@@ -53,19 +53,19 @@ data:
     offices:
       First Senator: >-
         Presiding officer of the senate, who calls it, sets its order and speaks first. Elected, and vacated at term's end.
-      Consul: >-
+      Tâvândôs: >-
         Chief magistrate for the year, holding command in the field and presiding over the senate in the First Senator's absence.
-      Praetor: >-
+      Vôrnândôs: >-
         Magistrate of the courts, who declares the law for his year and hears what the lesser courts will not.
-      Censor: >-
+      Thêrônândôs: >-
         Keeper of the citizen roll and of the census on which every rank depends; may strike a senator from his seat.
-      Quaestor: >-
+      Târkhêlândôs: >-
         Officer of the treasury, answerable for revenue, disbursement and the accounts of the magistrates.
-      Aedile: >-
+      Pêlthrândôs: >-
         Officer of the city—its markets, its streets, its water, its games—and the usual first step in a public career.
-      Tribune: >-
+      Lûsândôs: >-
         Elected to speak for the citizen body and to interpose against a magistrate's act on its behalf.
-      Legate: Commander of a legion in the field, commissioned by the senate and answerable to it.
+      Vandrax: Commander of a legion in the field, commissioned by the senate and answerable to it.
       Prefect of the Fleet: Commander of the republic's ships and of the coasts they patrol.
       Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on return.
       Clerk of the Senate: Keeper of the senate's record, its decrees and its correspondence.
@@ -95,7 +95,7 @@ Ondarethan legions—disciplined, well-drilled, and motivated by civic duty rath
 
 ## Relations
 
-Ondareth has cultivated its own diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]], trading military expertise for political recognition. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Ondarethan legions regularly patrol the frontier. The free city of [[place-veldareth|Veldareth]], on the coast between Ondareth and Dúnavarre, serves as a neutral meeting ground and center of learning.
+Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]], sending diplomats there and trading military expertise for political recognition. Vylaria has on occasion sent missions to Ondareth to keep its options open, and keeps no regular relations with it. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Ondarethan legions regularly patrol the frontier. The free city of [[place-veldareth|Veldareth]], on the coast between Ondareth and Dúnavarre, serves as a neutral meeting ground and center of learning.
 
 ## Commerce and Currency
 
@@ -120,6 +120,8 @@ magistracies with Vylarian names, a civic calendar of processions and assemblies
 a self-consciously Vylarian manner, executed in local stone by masons working from descriptions.
 Senators wear the bordered mantle. The Senate house at [[place-thornbury|Thornbury]] has a portico.
 
+The magistracies carry the Empire's own words, in their Vylari spelling. Two _tâvândoi_ (consuls) give the year its name and hold command in the field, a _vôrnândôs_ declares the law, a _thêrônândôs_ keeps the citizen roll, a _târkhêlândôs_ answers for the treasury, a _pêlthrândôs_ keeps the markets and the streets, a _lûsândôs_ speaks for the citizens, and a Vandrax commands each legion in the field. A man who has held the year is _tâvâlênôs_ for life, and the propertied order that fills the magistracies is the _gûlmâlênoi_. The words are borrowed for the standing they carry. Vylarian diplomats treat the borrowed titles with diplomatic courtesy; in private, Vylarians take them as a mild insult.
+
 ## Rubbish, and Vanity
 
 The claim to comparison with Vylaria is **unadulterated vanity and rubbish**, and it is worth being
@@ -134,20 +136,17 @@ no one present could. The portico at Thornbury is a portico in the way a child's
 a horse.
 
 What it resembles is not a republic. It is **children playacting at the behavior of adults**—with
-total seriousness, immense ceremony, and no possible way of knowing how they look, because none of them
-has ever seen the thing they are imitating.
+total seriousness, immense ceremony, and no possible way of knowing how they look, because almost none of
+them has seen the thing they are imitating.
 
-That is the mechanism, and it is why the pretension is stable. Almost no Ondarethan has been to Vylaria.
+That is the mechanism, and it is why the pretension is stable. Almost no Ondarethan beyond its diplomats has been to Vylaria.
 The mainland is a fortnight's dangerous sailing and a world away; what reaches the island is
 second-hand, decades old, and filtered through people with an interest in flattering the Senate. There
 is nobody in Thornbury able to say _that is not how it is done_, and there has not been for
-generations.
+generations; the Vylarians who could say it treat the titles as a courtesy and answer with courtesy.
 
-Vylaria, for its part, has never sent an embassy and has no reason to. It is not aware of Ondareth in
-any sense an imperial clerk would record—a hundred and fifty thousand people on the far shore of an
-island the empire has never wanted. If a Vylarian embassy ever did arrive, its members would **die of
-laughing** at how provincial the whole performance is, and would take considerable trouble to do it
-somewhere else.
+Vylaria knows Ondareth, because Ondareth sends diplomats to Vylaria. Vylaria has on occasion sent
+missions to Ondareth to keep its options open, and has no regular relations with it.
 
 ## The Republic in Practice
 
@@ -220,5 +219,5 @@ are careful to be seen at both temples.
 - [[place-ondareth|Ondareth]]—The land the republic holds
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]—Southeastern neighbor
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]]—East-central rival
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Diplomatic partner
+- [[affiliation-vylarinmpr|Vylarian Empire]]—The empire Ondareth models itself on and sends diplomats to
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—State pantheon

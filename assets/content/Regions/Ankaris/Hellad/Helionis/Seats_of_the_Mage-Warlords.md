@@ -3,7 +3,7 @@ shortcode: warlordseats
 name: {full: The Seats of the Mage-Warlords, aliases: [The Warlords' Towers]}
 type: place
 subType: site
-description: "The ruined towers and walled workshops in the hills of several Helionite cities where the mage-warlords of the war of 335 to 312 BF worked, Therádon's among them: shells that treasure-seekers dig at and that scholars, and the Ordo, visit."
+description: "The ruined towers and walled workshops in the hills of several Helionite cities where the mage-warlords of the war of 335 to 312 BF worked, Therádon's among them: shells that treasure-seekers dig at and that scholars, and the Arcane Order, visit."
 tags: [ruin, battlefield, hellad]
 data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
 ---
@@ -19,8 +19,8 @@ Each seat is a tower with a walled workshop behind it, cut into rock or built ag
 ## Who Goes
 
 - **Scholars**, [[being-blnhdrks|Bûlêlon Hâdrîkês]] among them, who come for the walls, the marks and the shape of the rooms.
-- **Ordo surveyors**, who inspect a seat and write it into a register.
-- **Treasure-seekers**, whom the Ordo arrests when it finds them, and whom the cities' own magistrates mostly ignore.
+- **Arcane Order surveyors**, who inspect a seat and write it into a register.
+- **Treasure-seekers**, whom the Arcane Order arrests when it finds them, and whom the cities' own magistrates mostly ignore.
 
 ## Hooks
 

@@ -104,15 +104,15 @@ The channels between the islands are the other half of the country. Whoever hold
 
 Tarûzel was a Vylarian colony, among the first lands the expanding Vylarian Republic absorbed, and it was an old possession by the time the Republic became the Empire in Year 1. For centuries it was the empire's eastern anchor and its gateway to trade with the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], Dunhara, the Khazryn and the lands beyond. Tarûzelian harbors funneled eastern wealth into imperial coffers, and Tarûzelian ships carried Vylarian goods to markets the legions could never reach. By any measure it was one of the empire's most valuable provinces.
 
-It was also one of its most restive. The Tarûzelian city-states had been trading powers long before Vylaria conquered them, and they never fully accepted the role of provincial subjects. Tarûzelians paid their taxes, obeyed their governors and sent their sons to the legions, and each generation did so with deeper resentment than the last.
+It was also one of its most restive. The Tarûzelian city-states had been trading powers long before Vylaria conquered them, and they never fully accepted the role of provincial subjects. Tarûzelians paid their taxes, obeyed their _thêrkhoi_ (governors) and sent their sons to the legions, and each generation did so with deeper resentment than the last.
 
 ### The Rise of the Merchant Princes
 
 Success planted the rebellion. As the empire's reach extended east and south, Tarûzelian merchants became its indispensable intermediaries: they knew the languages, the sea routes, the customs and the contacts that Vylarian traders lacked. The great trading families of Besîkar, Yamûzel and Bazûnel grew spectacularly wealthy and built commercial empires inside the political empire that ruled them.
 
-These **merchant princes**, the heads of the great trading houses, held power that sat uneasily beside Vylarian authority. They controlled the shipping lanes, the warehouses, the counting houses and the networks of agents and factors that made the eastern trade work. A Vylarian governor issued edicts; Tarûzelian merchants decided whether goods moved. The empire needed Tarûzel's commerce far more than Tarûzel needed the empire's governance.
+These **merchant princes**, the heads of the great trading houses, held power that sat uneasily beside Vylarian authority. They controlled the shipping lanes, the warehouses, the counting houses and the networks of agents and factors that made the eastern trade work. A Vylarian _thêrkhôs_ issued edicts; Tarûzelian merchants decided whether goods moved. The empire needed Tarûzel's commerce far more than Tarûzel needed the empire's governance.
 
-The Vylarian court saw it, and its answer was heavier taxation and tighter regulation. New tariffs fell on Tarûzelian exports, preferential trade agreements were rewritten to favor Vylarian merchants, harbor fees rose, and customs inspections became more frequent, more intrusive and more expensive. The governor's office, once a sleepy posting for minor aristocrats, went to harder men with instructions to bring the merchant princes to heel.
+The Vylarian court saw it, and its answer was heavier taxation and tighter regulation. New tariffs fell on Tarûzelian exports, preferential trade agreements were rewritten to favor Vylarian merchants, harbor fees rose, and customs inspections became more frequent, more intrusive and more expensive. The _thêrkhôs_'s office, once a sleepy posting for minor aristocrats, went to harder men with instructions to bring the merchant princes to heel.
 
 What galled the Tarûzelians most was that they could not contest any of it. They had no representation in the imperial Senate. A petition was ignored; a bribe bought a season's relief before the next levy. They paid for the empire's legions, roads and bureaucracy and had no voice in how those taxes were set or spent. The rallying cry of the independence movement—_we bleed gold for an empire that gives us nothing but chains_—was meant as accounting.
 
@@ -152,11 +152,11 @@ On paper the Confederation that took shape in the months after the victory was a
 
 The veterans—dock workers, fishermen, tribal warriors and the ship captains who had sailed into the teeth of the imperial fleet at the Shoals—learned that the freedom they had bled for was not theirs. They had been promised land, guild membership, pensions and a voice in the new government. They received a discharge, a small purse of silver and the knowledge that the men who had paid for the revolution now owned the result.
 
-The merchant princes had not lied, exactly. They had spoken of freedom, and Tarûzel was free: free of imperial taxation, of Vylarian governors, of conscription into foreign legions. The princes had meant their own freedom—to trade without imperial interference, to set their own tariffs, to grow rich without sharing it with a distant emperor. The common people heard something different in the same words, and they fought and died for a promise that was never actually made.
+The merchant princes had not lied, exactly. They had spoken of freedom, and Tarûzel was free: free of imperial taxation, of Vylarian _thêrkhoi_, of conscription into foreign legions. The princes had meant their own freedom—to trade without imperial interference, to set their own tariffs, to grow rich without sharing it with a distant emperor. The common people heard something different in the same words, and they fought and died for a promise that was never actually made.
 
 The guilds moved fast. The Auric Compact, the banking cartel that had underwritten the war, called in its debts; the new Confederation owed it staggering sums, and it used that leverage to bend government policy to commercial interest. The Corsair League, a brotherhood of war veterans at its founding, was taken over by the merchant marine and turned from a fraternal body into a shipping cartel. The Merchantry of the Veil went on as it always had, in the shadows, profiting from the confusion of the transition.
 
-Within two years of independence the Confederation was an oligarchy in all but name. The guild families lived in palatial estates and the veterans in harbor tenements. The hill tribes, who had sent their warriors to die for a revolution of the port cities, received nothing at all and were worse off than before, since the Vylarian administrators had at least kept up the roads. The people who had fought saw plainly that they had traded one set of masters for another. The Vylarian governor's palace in Besîkar became the headquarters of the Auric Compact, and the men behind its desks were no kinder than the men they replaced. Guild fees took the place of imperial levies and fell as heavily on the same backs; private enforcers took the place of the legions, and the fist was as hard.
+Within two years of independence the Confederation was an oligarchy in all but name. The guild families lived in palatial estates and the veterans in harbor tenements. The hill tribes, who had sent their warriors to die for a revolution of the port cities, received nothing at all and were worse off than before, since the Vylarian administrators had at least kept up the roads. The people who had fought saw plainly that they had traded one set of masters for another. The Vylarian _thêrkhôs_'s palace in Besîkar became the headquarters of the Auric Compact, and the men behind its desks were no kinder than the men they replaced. Guild fees took the place of imperial levies and fell as heavily on the same backs; private enforcers took the place of the legions, and the fist was as hard.
 
 ### The Suppression
 
@@ -198,13 +198,13 @@ Tarûzelian faith is syncretic. The [[affiliation-arldnpnthn|Aurèldían Pantheo
 
 ## Magic
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] kept a strong presence in Tarûzel through the Vylarian period, and it is still active in the major cities, on worse terms. The merchant guilds regard it as a possible tool of Vylarian influence and have restricted its work. Some guild leaders would expel it outright; others see its uses and would rather co-opt it.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] kept a strong presence in Tarûzel through the Vylarian period, and it is still active in the major cities, on worse terms. The merchant guilds regard it as a possible tool of Vylarian influence and have restricted its work. Some guild leaders would expel it outright; others see its uses and would rather co-opt it.
 
-Independent practitioners—hedge mages, alchemists and fortune-tellers—are more common in Tarûzel than in Vylaria proper, partly because the Ordo's grip is looser here. The Ordo resents it and keeps pressing for its monopoly to be enforced, sometimes using Vylarian imperial agents as proxies.
+Independent practitioners—hedge mages, alchemists and fortune-tellers—are more common in Tarûzel than in Vylaria proper, partly because the Arcane Order's grip is looser here. The Arcane Order resents it and keeps pressing for its monopoly to be enforced, sometimes using Vylarian imperial agents as proxies.
 
 ## Relations
 
-Relations with Vylaria are officially correct and privately hostile. The empire has not forgiven the loss of Tarûzel, and Vylarian agents, often working with the Ordo Arcanis, operate in the Tarûzelian cities, gathering intelligence and cultivating sympathizers. Tarûzelian merchants, for their part, are pushing hard into markets the empire once dominated.
+Relations with Vylaria are officially correct and privately hostile. The empire has not forgiven the loss of Tarûzel, and Vylarian agents, often working with the Thôrdimâlon (the Arcane Order), operate in the Tarûzelian cities, gathering intelligence and cultivating sympathizers. Tarûzelian merchants, for their part, are pushing hard into markets the empire once dominated.
 
 Heliónis, to the north-west, is Tarûzel's natural trading partner, and the two share cultural and intellectual ties. Aû'Khelâthu, to the south, is its most important long-distance partner, and that relationship runs deeper than commerce. Khelâthi gold, weapons and military advisors were instrumental in the war of independence, a debt the merchant princes deny in public and honor in private, through preferential trade agreements, reduced harbor fees for Khelâthi vessels and quiet diplomatic coordination that favors Khelâthi interests over Vylarian ones. The surge in Tarûzelian–Khelâthi commerce since independence is one of the largest economic shifts on the Vylarian Sea: trade that once passed through Vylarian intermediaries now runs directly between Tarûzelian and Khelâthi ports, enriching both and further weakening the empire's commercial position. For Aû'Khelâthu the investment in Tarûzelian independence has paid for itself many times over.
 
@@ -220,7 +220,7 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 
 ## Commerce and Currency
 
-The Confederation pays in the [[lore-trzlncrncy|Tarûzelian currency]], the system it built after secession and administers through the **Merâzûnî**, the treasury of the [[affiliation-vezakuni|Vezâkûnî]]. Its denominations are the Vylarian ones (Solden, Ard and Bit), but they are backed by Tarûzelian reserves rather than by the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and the Tarûzelian Solden is slightly underweight by the Vylarian standard. A network of Merâzûnî-affiliated moneylenders carries the banking. Vylarian script is not honored in Tarûzel, and Tarûzelian script is not honored in Vylarian territory.
+The Confederation pays in the [[lore-trzlncrncy|Tarûzelian currency]], the system it built after secession and administers through the **Merâzûnî**, the treasury of the [[affiliation-vezakuni|Vezâkûnî]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Tarûzelian reserves rather than by the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and the Tarûzelian Solden is slightly underweight by the Vylarian standard. A network of Merâzûnî-affiliated moneylenders carries the banking. Vylarian script is not honored in Tarûzel, and Tarûzelian script is not honored in Vylarian territory.
 
 ## See Also
 
@@ -229,7 +229,7 @@ The Confederation pays in the [[lore-trzlncrncy|Tarûzelian currency]], the syst
 - [[place-helionis|Heliónis]]—the western trading partner
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the southern trading partner
 - [[place-dunharargn|Dunhara Region]]—the eastern overland trade routes
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the arcane order with a complicated local standing
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the arcane order with a complicated local standing
 - [[place-vylarianse|Vylarian Sea]]—Tarûzel's maritime domain
 - [[lore-taruzelianclt|Tarûzelian]]—the culture of the islands
 - [[skill-taruzelilng|Tarûzeli]]—the language and its naming conventions

@@ -38,7 +38,7 @@ tolerate. The other version does not stop at the margins, is very well paid, and
 respectable share of the people who do not come back out of the wood.
 
 Liranel is also where the **crown's** guides are found—the courteous, capable, officially provided
-escorts who conduct [[affiliation-ordoarcanis|Ordo]] expeditions into the interior and see to it that
+escorts who conduct [[affiliation-ordoarcanis|Arcane Order]] expeditions into the interior and see to it that
 the expedition returns having seen a great deal and found nothing. Half the town knows which of its
 guides are the crown's and which are for hire, and nobody explains the difference to visitors.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: hrkhsbrmyds
-name: {full: Harkhîs Bàremydês, given: Harkhîs, clan: Bàremydês, aliases: []}
+name: {full: Harkhîs Baremydês, given: Harkhîs, clan: Baremydês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -421,7 +421,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hrkhsbrmyds|Harkhîs Bàremydês]]{float=top-left}
+![[hrkhsbrmyds|Harkhîs Baremydês]]{float=top-left}
 
 Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
 

@@ -161,7 +161,7 @@ Tarvéni employs a rich inventory of consonants with strong distinctions between
 
 ## Script & Literacy
 
-Tarvéni is written in the [[skill-semrnscrpt|Sêmarion]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aurèldía]] and was taken up here as everywhere else in the region—a people who spent centuries refusing the empire's rule write in the empire's letters and see no contradiction in it. Regional scribal traditions have developed distinctive features: the southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
+Tarvéni is written in the [[skill-semrnscrpt|Sêmarôn]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aurèldía]] and was taken up here as everywhere else in the region—a people who spent centuries refusing the empire's rule write in the empire's letters and see no contradiction in it. Regional scribal traditions have developed distinctive features: the southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
 
 The alphabet pinches in two places, and Tarvéni has repaired neither. It has no letter for the glottal stop, so the catch that separates words in formal speech goes unwritten and the reader supplies it from the sense. And Vylari fixes stress by position, so the imperial letters were never given any way to mark it—where in Tarvéni stress is phonemic and tells one word from another, with the result that a pair a speaker would never confuse reaches the page as a single string of letters. A Tarvénan reads such a page aloud and decides as he goes, which is no hardship to a people who carry most of their literature in the mouth; an imperial clerk obliged to work from a Tarvéni document finds it maddening, and says so.
 
@@ -177,7 +177,7 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 **Astúrathi Tarvéni:** The speech of the mountainous interior heartland, characterized by interdental pronunciation of /z/ and strong stress patterns. Considered archaic by coastal speakers but prestigious among scholars and warriors of the High King's court.
 
-**Léonrik Tarvéni:** The dialect of the fertile central-southern lowlands, showing the most regular grammar and widest vocabulary. Tends toward clear vowel articulation and careful consonant distinction. Often treated as the closest thing to a "standard" Tarvéni, though no kingdom would admit it.
+**Liénrik Tarvéni:** The dialect of the fertile central-southern lowlands, showing the most regular grammar and widest vocabulary. Tends toward clear vowel articulation and careful consonant distinction. Often treated as the closest thing to a "standard" Tarvéni, though no kingdom would admit it.
 
 **Galvári Tarvéni:** The western coastal dialect, shaped by seafaring life and contact with maritime trade. Shows unique phonetic developments—vowel reduction in unstressed syllables, softened consonant clusters—and some vocabulary divergence from inland speech. Speakers of other Tarvénan dialects find this variant noticeably different.
 

@@ -95,7 +95,7 @@ A foreign envoy who asks to be taken to the government of Heliónis has asked fo
 
 Each city decides for itself. Three of them lead the region, and each is a power in its own right:
 
-- [[affiliation-thyrenae|Thyrenae]], the oldest and most prestigious, is the intellectual capital of Heliónis and, by its own reckoning, of all western [[place-ankrscntnnt|Ankaris]]. The great academies are centered there, including the original seat of the [[affiliation-panepistmm|Epistemium]]. A philosophical council drawn from the senior scholars of the academies and the heads of the oldest families governs it. Its patron is [[lore-marendasdty|Mârendâs]], goddess of knowledge and wisdom.
+- [[affiliation-thyrenae|Thyrenae]], the oldest and most prestigious, is the intellectual capital of Heliónis and, by its own reckoning, of all western [[place-ankrscntnnt|Ankaris]]. The great academies are centered there, including the original seat of the [[affiliation-panepistmm|Epistémion]]. A philosophical council drawn from the senior scholars of the academies and the heads of the oldest families governs it. Its patron is [[lore-marendasdty|Mârendâs]], goddess of knowledge and wisdom.
 - [[affiliation-pelagora|Pelagora]] is the naval power. It commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]; its citizen-sailors are formidable fighters, and its fleet is the largest in the region. It is a democracy whose assembly of free citizens votes on war, trade and law, and its politics are loud, passionate and occasionally violent. Its patron is [[lore-ardavondty|Árdavon]], god of order and justice.
 - [[affiliation-kalydria|Kalydria]] is known across [[place-midhalnrgn|Mídhalión]] for its artists, playwrights and musicians. The **Academy of the Silver Veil** is based there, and its theater festivals draw audiences from across the Vylarian Sea. An oligarchy of wealthy patron families governs it, competing to fund the most lavish productions. Its patron is [[lore-zunelasdty|Zûnêlâs]], goddess of dreams and visions.
 
@@ -117,11 +117,11 @@ What unites the Helionites is a shared conviction that the examined life is the 
 
 The Academy of the Silver Veil, which trains the hetairai (educated companions), stands for the Helionite belief that education, social grace and intellectual accomplishment are inseparable. Its graduates are among the most sought-after companions, conversationalists and gatherers of intelligence in Mídhalión.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] is more deeply rooted in Heliónis than anywhere outside [[affiliation-provinclys|Alyssa]], and for a plain reason: the Ordo's intellectual foundations were laid here by the scholars of the Panepistemium, the great Helionite federation of learning that the Vylarian Republic vivisected when it conquered the cities between 335 and 312 BF. The Senate took out the College of Arcane Philosophy in 312 BF and chartered it as the Ordo in 73 BF, and the other colleges—ethics, logic, metaphysics, natural philosophy and the rest—were left diminished but intact. Those colleges are strongest in Heliónis, and the Helionite academies keep the last real echo of the Epistemium's first vision: a federation of _all_ knowledge, in which arcane study was one domain among equals. Helionites regard the Ordo as their intellectual offspring, so their relationship with it is closer and more contentious than anywhere else.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] is more deeply rooted in Heliónis than anywhere outside [[affiliation-provinclys|Alêssâ]], and for a plain reason: the Arcane Order's intellectual foundations were laid here by the scholars of the Plûmepistémion (the Academy of Knowledge), the great Helionite federation of learning that the Vylarian Republic vivisected when it conquered the cities between 335 and 312 BF. The Senate took out the College of Arcane Philosophy in 312 BF and chartered it as the Arcane Order in 73 BF, and the other colleges—ethics, logic, metaphysics, natural philosophy and the rest—were left diminished but intact. Those colleges are strongest in Heliónis, and the Helionite academies keep the last real echo of the Epistémion's first vision: a federation of _all_ knowledge, in which arcane study was one domain among equals. Helionites regard the Arcane Order as their intellectual offspring, so their relationship with it is closer and more contentious than anywhere else.
 
 ## Relations
 
-The cities stand together with the Aurèldían Pantheon, the Panepistemium and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Ordo at arm's length. [[place-provenzrgn|Provènzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] is their trading partner across the water to the south.
+The cities stand together with the Aurèldían Pantheon, the Plûmepistémion and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Arcane Order at arm's length. [[place-provenzrgn|Provènzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] is their trading partner across the water to the south.
 
 ## Commerce and Currency
 
@@ -136,4 +136,4 @@ The City-States of Heliónis use the [[lore-vylrncrncy|Vylarian currency]] (Sold
 - [[place-provenzrgn|Provènzia Region]]—cultural rival and partner
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—eastern trading partner
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods the cities share
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—present, and contested
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—present, and contested

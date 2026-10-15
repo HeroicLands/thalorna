@@ -3,7 +3,7 @@ shortcode: thetamzir
 name: {full: The Tamzîr, aliases: []}
 type: affiliation
 subType: venture
-description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Ordo Arcanis."
+description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Thôrdimâlon."
 tags: [company, tamzir-crew]
 data:
   culture: taruzelianclt
@@ -80,23 +80,23 @@ The Tamzîr operates in the gray spaces of maritime law—legitimate trade when 
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serentia siblings. [[being-lucernsrnt|Lucerian Serentia]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Cibella]] from the [[affiliation-ordoarcanis|Ordo Arcanis]], who had been experimenting on her. Cibella is an arcane prodigy of great and erratic power—damaged by what the Ordo did to her, unpredictable, and desperately wanted back. The Ordo operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
+The crew's most dangerous entanglement is the Serênthis siblings. [[being-lucernsrnt|Lûkêros Serênthis]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivellâ]] from the [[affiliation-ordoarcanis|Thôrdimâlon]], who had been experimenting on her. Kivellâ is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
 
 ## Shared Enemies
 
-The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo Arcanis]] hunts Cibella and will not stop. Tarûzelian guild enforcers hold old debts from the war—grudges that compound with interest. And Vylarian imperial agents, often manipulated by the Ordo, represent the long arm of an empire that has not forgotten the Tarûzelian rebellion or forgiven those who fought in it.
+The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thôrdimâlon]] hunts Kivellâ and will not stop. Tarûzelian guild enforcers hold old debts from the war—grudges that compound with interest. And Vylarian imperial agents, often manipulated by the Order, represent the long arm of an empire that has not forgotten the Tarûzelian rebellion or forgiven those who fought in it.
 
 ## Crew
 
 - [[being-zbzmjkdn|Zabûzum Jakûdûnî]] (Captain)
-- [[being-slvrvlskyr|Sélvara Válskyr]] (First Mate)
-- [[being-fethardhrl|Féthar Dhárel]] (Pilot)
+- [[being-slvrvlskyr|Sélvara Válskir]] (First Mate)
+- [[being-fethardhrl|Fethàr Dhárel]] (Pilot)
 - [[being-blgnrskn|Belgina Rusâkûnî]] (Shipwright)
 - [[being-grlfdrthgr|Garulf yra Druthgar wur Edrgrund]] (Sellsword)
 - [[being-theldnkhldr|Théldina Khalîdra]] (Courtesan)
 - [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Priest)
-- [[being-lucernsrnt|Lucerian Serentia]] (Physician)
-- [[being-cibelasrnt|Cibella Serentia]] (Sister of Lucerian)
+- [[being-lucernsrnt|Lûkêros Serênthis]] (Physician)
+- [[being-cibelasrnt|Kivellâ Serênthis]] (Sister of Lûkêros)
 - [[being-svlthrnskrsdtr|Svalthrinna Skorrsdottir]] (Warrior)
 
 ## The Ship
@@ -106,5 +106,5 @@ The Tamzîr is not fast, not pretty, and not young. She is a broad-beamed coasta
 ## Plot Hooks
 
 1. **Ghosts of Tamzîr Shoals**: A survivor of the original battle contacts the captain with evidence that the Tarûzelian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
-2. **The Ordo Closes In**: An Ordo Arcanis Quaesitor arrives in port with a writ of seizure for the Tamzîr itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
+2. **The Order Closes In**: A Thôrdimâlon (the Arcane Order) _sêkhêrândôs_ (inquirer) arrives in port with a writ of seizure for the Tamzîr itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
 3. **A Paying Passenger**: A wealthy traveler offers an enormous sum for passage to a destination the crew would rather avoid. The money could solve half their problems, but the passenger is not what they seem.

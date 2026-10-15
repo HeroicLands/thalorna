@@ -3,7 +3,7 @@ shortcode: gaimelokorva
 name: {full: Gaimélo Korvathándis, aliases: [Father Gaimélo]}
 type: being
 subType: npc
-description: An older priest of the Aurèldían faith whose austere views of spirituality conflict with Pálina Sánriceth's.
+description: An older priest of the Aurèldían faith whose austere views of spirituality conflict with Pálina Sánriseth's.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Gaimélo Korvathándis is a 63-year-old man who stands 5'9" tall with a medium b
 
 # Dossier {#dossier}
 
-Gaimélo Korvathándis is an older priest of the Aurèldían faith with austere views of spirituality. He regards [[being-palnsnrcth|Pálina Sánriceth]] as a corruptor of proper religious order and has been agitating for stricter oversight of her.
+Gaimélo Korvathándis is an older priest of the Aurèldían faith with austere views of spirituality. He regards [[being-palnsnrcth|Pálina Sánriseth]] as a corruptor of proper religious order and has been agitating for stricter oversight of her.

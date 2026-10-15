@@ -1,15 +1,15 @@
 ---
 shortcode: amitharabish
-name: {full: Amîthàra Bîshânis, aliases: [Magistra Amîthàra Bîshânis]}
+name: {full: Amîthàra Bîshânis, aliases: [Mârendândôs Amîthàra Bîshânis]}
 type: being
 subType: npc
-description: The Ordo Arcanis official who arranged Tàlîra Bâshirôn's removal from active training and has since ensured her continued safety.
+description: The Thôrdimâlon official who arranged Tàlîra Bâshirôn's removal from active training and has since ensured her continued safety.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, courtier]
-  occupation: Magistra of the Ordo Arcanis
+  occupation: Mârendândôs of the Thôrdimâlon
   lore: []
   culture: helioniteclt
   homes: []
@@ -36,4 +36,4 @@ Amîthàra Bîshânis is a 48-year-old woman who stands 5'9" tall with a medium 
 
 # Dossier {#dossier}
 
-Amîthàra Bîshânis is the Ordo Arcanis official who arranged the removal of [[being-talirbshrn|Tàlîra Bâshirôn]] from active training and has since kept her safe by keeping certain eyes averted. The two share a cold clarity: each knows what the other is capable of and understands the cost of visibility.
+Amîthàra Bîshânis is a _mârendândôs_ (master) of the Thôrdimâlon (the Arcane Order) and the official who arranged the removal of [[being-talirbshrn|Tàlîra Bâshirôn]] from active training and has since kept her safe by keeping certain eyes averted. The two share a cold clarity: each knows what the other is capable of and understands the cost of visibility.

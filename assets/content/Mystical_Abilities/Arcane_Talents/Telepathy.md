@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Telepathy speaks mind to mind with another, at a distance and without sound. Neither party needs to speak, and neither needs to be near the other. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Ordo Arcanis]] looks for in the children it registers.
+Telepathy speaks mind to mind with another, at a distance and without sound. Neither party needs to speak, and neither needs to be near the other. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.

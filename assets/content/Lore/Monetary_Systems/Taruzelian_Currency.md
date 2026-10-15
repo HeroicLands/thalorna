@@ -3,7 +3,7 @@ shortcode: trzlncrncy
 name: {full: Tarûzelian Currency, aliases: [Tarûzelian Currency System, Merâzûnî]}
 type: lore
 subType: economy
-description: "Post-secession Tarûzelian monetary system—Vylarian-derived denominations (Solden, Ard, Bit) issued and cleared through the Vezâkûnî's Merâzûnî rather than the Vylarian Tarmex Orzan; uses Tarûzelian-struck coin (slightly underweight Solden, standard-weight Ard) and Tarûzelian temple-of-treasury chits."
+description: "Post-secession Tarûzelian monetary system—Vylarian-derived denominations (Solden, Ardin, Bit) issued and cleared through the Vezâkûnî's Merâzûnî rather than the Vylarian Tarmex Orzan; uses Tarûzelian-struck coin (slightly underweight Solden, standard-weight Ardin) and Tarûzelian temple-of-treasury chits."
 tags: [reference, currency, taruzel, economy]
 data: {culture: taruzelianclt}
 ---
@@ -14,9 +14,9 @@ A Vylarian changer who is handed a Tarûzelian Solden puts it on the scale befor
 
 ## Overview
 
-The Tarûzelian currency is the Confederation's post-secession monetary system. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Solden (gold), Ardin (Ard, silver), Ogdel (Bit, 1/8 of a Ard)—at the same nominal conversion ratios (1 Solden = 160 Ard = 1,280 Bits), but the coins are _Tarûzelian-struck_ and the supporting banking infrastructure is the Confederation's own **Merâzûnî** ("House of the Treasury"), not the Vylarian [[affiliation-tarmex|Tarmex Orzan]].
+The Tarûzelian currency is the Confederation's post-secession monetary system. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Solden (gold), Ardin (silver), Ogdel (Bit, 1/8 of an Ardin)—at the same nominal conversion ratios (1 Solden = 160 Ardin = 1,280 Bits), but the coins are _Tarûzelian-struck_ and the supporting banking infrastructure is the Confederation's own **Merâzûnî** ("House of the Treasury"), not the Vylarian [[affiliation-tarmex|Tarmex Orzan]].
 
-The Tarûzelian Solden is, by standard Vylarian assay, **slightly underweight**—about 7 percent below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Tarûzelian commerce the coin passes at face value. Tarûzelian Ard are struck to the full Vylarian standard (about 1.5 g, three parts silver to one of alloy) and pass at full value in all systems where silver is silver.
+The Tarûzelian Solden is, by standard Vylarian assay, **slightly underweight**—about 7 percent below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Tarûzelian commerce the coin passes at face value. Tarûzelian Ardin are struck to the full Vylarian standard (about 1.5 g, three parts silver to one of alloy) and pass at full value in all systems where silver is silver.
 
 The Merâzûnî issues script (the Tarûzelian equivalent of Vylarian traveler's notes and master notes) honored at any Merâzûnî-affiliated moneylender house across the Confederation. The script is not honored at any chapter of the Vylarian [[affiliation-danvar|Danvar]]; cross-border travel between Tarûzelian and Vylarian territory requires conversion to physical coin at a changer's office (typically Heliónite intermediaries who maintain accounts at both institutions).
 
@@ -30,11 +30,11 @@ The institutional infrastructure of the Tarûzelian currency—the Merâzûnî, 
 
 For game purposes, Tarûzelian coin converts to Vylarian and Khelâthi currencies as follows:
 
-| Tarûzelian          | Vylarian (effective)                                  | Khelâthi (effective)               |
-| ------------------- | ----------------------------------------------------- | ---------------------------------- |
-| 1 Tarûzelian Solden | 0.93 Vylarian Solden (~149 Ard, due to gold discount) | ~¾ gold gezan (~7½ silver gezan)   |
-| 1 Tarûzelian Ard    | 1 Vylarian Ard                                        | ½ silver qelu (5 copper qelu)      |
-| 1 Tarûzelian Bit    | 1 Vylarian Bit                                        | 1/16 silver qelu (5/8 copper qelu) |
+| Tarûzelian          | Vylarian (effective)                                    | Khelâthi (effective)               |
+| ------------------- | ------------------------------------------------------- | ---------------------------------- |
+| 1 Tarûzelian Solden | 0.93 Vylarian Solden (~149 Ardin, due to gold discount) | ~¾ gold gezan (~7½ silver gezan)   |
+| 1 Tarûzelian Ardin  | 1 Vylarian Ardin                                        | ½ silver qelu (5 copper qelu)      |
+| 1 Tarûzelian Bit    | 1 Vylarian Bit                                          | 1/16 silver qelu (5/8 copper qelu) |
 
 In casual commerce within Tarûzelian territory the underweight Solden passes at full nominal value; the discount only emerges in cross-border transactions where Vylarian or Khelâthi moneylenders assay the gold content.
 

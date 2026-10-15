@@ -70,7 +70,7 @@ Wardens are drawn from Áelendan tribal communities and trained from youth in a 
 
 The Wardens operate by a doctrine of graduated response. Trespassers who stumble into sacred territory by accident are warned once and escorted out. Those who ignore warnings, return after being escorted out, or who desecrate a site are dealt with harshly. The Wardens do not engage in elaborate trials or appeals; the sacred territory is not a place where outside authorities hold sway, and the Wardens' judgment is final within it.
 
-This doctrine has come into particular prominence in recent decades as the [[affiliation-ordoarcanis|Ordo Arcanis]]—operating from its substantial presence at the **University of Béravel** and the Sodalitas chapterhouses in Élavendre's cities—has increasingly sent agents into rural territory to study and map the fae-touched landscapes. Ordo surveyors who venture too deep into the forests sometimes do not return. Research camps are found abandoned, notes scattered, equipment destroyed. The Wardens regard Ordo intrusions into sacred territory as violations of the oldest pacts of the land, and they respond accordingly—with warnings first, and with lethal force when warnings are ignored. The Ordo publicly deplores these "incidents" as barbarism; privately, it tallies its losses and sends more agents.
+This doctrine has come into particular prominence in recent decades as the [[affiliation-ordoarcanis|Thôrdimâlon]]—operating from its substantial presence at the **University of Péravel** and the Zûlêthâlon (fellowship) chapterhouses in Élavendre's cities—has increasingly sent agents into rural territory to study and map the fae-touched landscapes. Arcane Order surveyors who venture too deep into the forests sometimes do not return. Research camps are found abandoned, notes scattered, equipment destroyed. The Wardens regard Arcane Order intrusions into sacred territory as violations of the oldest pacts of the land, and they respond accordingly—with warnings first, and with lethal force when warnings are ignored. The Arcane Order publicly deplores these "incidents" as barbarism; privately, it tallies its losses and sends more agents.
 
 ### Relationship with the Crown
 
@@ -91,5 +91,5 @@ The principal concentrations of Wardens correspond to the most sacred sites:
 - [[lore-aelendnppl|Áelendan]]—The people the Wardens serve
 - [[place-elavendre|Élavendre]]—The kingdom in which the Wardens operate
 - [[place-drenavrspn|Drenavar Spine]]—Primary sacred territory
-- [[place-eshalshldg|Eshálosha Lodge]]—Áelendan political and ceremonial center
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—The principal contemporary threat to sacred territory
+- [[place-eshalshldg|Ésalosa Lodge]]—Áelendan political and ceremonial center
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—The principal contemporary threat to sacred territory

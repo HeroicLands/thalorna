@@ -433,7 +433,7 @@ At twenty, Bazûdar encountered the great warhorse **Ashenbrand**, an animal so 
 
 ### Settlement and Complication
 
-Now in his middle years, Bazûdar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Bazûdar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **Magister Bulaqsovid**, and modernizing forces that view his methods as antiquated.
+Now in his middle years, Bazûdar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Bazûdar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **Bulaqsovid**, and modernizing forces that view his methods as antiquated.
 
 ## Psyche
 
@@ -488,11 +488,11 @@ The Village Healer Senna
 
 ### Enemies
 
-Magister Bulaqsovid
+Administrator Bulaqsovid
 : The ambitious Town Administrator who views Bazûdar's traditional methods as an obstacle to progress and modernization. Bulaqsovid has been quietly working to impose regulations that would force Bazûdar to adopt new training techniques and potentially strip him of his authority. Bulaqsovid is also motivated by jealousy—Bazûdar commands more real respect than Bulaqsovid despite his lower social status.
 
 The Merchant Combine of the North
-: A faction of wealthy merchants pushing for large-scale animal breeding and training methods to increase yields. They view Bazûdar as a dangerous impediment to progress and have commissioned Magister Bulaqsovid to develop policies that would eliminate his influence.
+: A faction of wealthy merchants pushing for large-scale animal breeding and training methods to increase yields. They view Bazûdar as a dangerous impediment to progress and have commissioned Administrator Bulaqsovid to develop policies that would eliminate his influence.
 
 Rival Trainer Vex Ironhoof
 : A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Bazûdar as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Bazûdar's prices and spreads rumors that his methods are ineffective.
@@ -511,7 +511,7 @@ The Desert Shamanic Circle
 
 2. **The Foal With Impossible Lineage**: A pregnant mare in Lord Khuvankenöd's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Bazûdar becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
 
-3. **The Rebellion Against Modernization**: As Magister Bulaqsovid moves forward with regulations designed to end traditional animal training, Bazûdar finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He can step into an openly political role, or allow the movement to fragment without his guidance.
+3. **The Rebellion Against Modernization**: As Administrator Bulaqsovid moves forward with regulations designed to end traditional animal training, Bazûdar finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He can step into an openly political role, or allow the movement to fragment without his guidance.
 
 4. **The Wasting Sickness**: An animal dear to Bazûdar—perhaps Ashenbrand in his old age, or a younger creature that has become symbolic of his work—develops a mysterious wasting sickness that resists both conventional veterinary treatment and his herbal knowledge. To save the animal's life, he must undertake a dangerous quest to locate a fabled healer or a mythical plant, requiring him to journey beyond the familiar desert into territories he fears and doesn't understand.
 

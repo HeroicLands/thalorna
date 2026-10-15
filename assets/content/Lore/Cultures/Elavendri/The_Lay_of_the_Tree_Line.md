@@ -3,7 +3,7 @@ shortcode: treelinelay
 name: {full: The Lay of the Tree Line, aliases: [The Crowning Lay]}
 type: lore
 subType: literature
-description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Eshálosha, the white hart in the wood, the page with its foot left blank, and the oath said at T'éna's fire."
+description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Ésalosa, the white hart in the wood, the page with its foot left blank, and the oath said at T'éna's fire."
 tags: [draft, elavendri]
 data:
   culture: elavendriclt
@@ -21,9 +21,9 @@ data:
 # terran_analog: "The Breton lai as Marie de France wrote it down (one marvellous episode, octosyllabic couplets, the harper's frame), for the form; the white hart of the lais and of Breton hunting tales that leads a lord off the road; the coronation oath sworn in a set form after a recital, for the occasion."
 ---
 
-**The Lay of the Tree Line** is the lay the [[affiliation-bardicolgs|Bardic Circle]] sings at every crowning in [[place-elavendre|Élavendre]], in the hall at [[place-beravel|Béravel]], before the monarch swears. It tells one episode, the going up of **Táldoren**, the First Crowned, to [[place-eshalshldg|Eshálosha]] ([[lore-firstcrown|The First Crowning of Élavendre]]), and it is the shortest of the songs the Circle keeps by heart, because it is sung once in a reign and must be sung without a fault. A Bard of the Circle sings it to the harp in rhymed couplets of four beats, the form of the lays, while the monarch stands bareheaded with the crown on its cloth beside the throne. When the lay is done the monarch says the oath in a set form, aloud and without a page, and only then is crowned.
+**The Lay of the Tree Line** is the lay the [[affiliation-bardicolgs|Bardic Circle]] sings at every crowning in [[place-elavendre|Élavendre]], in the hall at [[place-beravel|Péravel]], before the monarch swears. It tells one episode, the going up of **Táldoren**, the First Crowned, to [[place-eshalshldg|Ésalosa]] ([[lore-firstcrown|The First Crowning of Élavendre]]), and it is the shortest of the songs the Circle keeps by heart, because it is sung once in a reign and must be sung without a fault. A Bard of the Circle sings it to the harp in rhymed couplets of four beats, the form of the lays, while the monarch stands bareheaded with the crown on its cloth beside the throne. When the lay is done the monarch says the oath in a set form, aloud and without a page, and only then is crowned.
 
-The lay holds that the Lodge invited the king by sending down a loaf of its own bread with a Warden, **Kírtala**, and that he carried it up whole to be broken at the Lodge's fire. It holds that a white hart led him off the path in the wood below the Lodge, and that he sat out the night under a birch with his hands open, as the first of the Áelendan sat, until he was found. And it holds that the clerks of the basin wrote out the crown's rights before he went up and left a hand's breadth blank at the foot of the page for the place where the rights stop, and that the king read the page at the fire, put it into the fire, and said the end of it aloud. The Colleges have kept that blank: the great page of the crown's rights in the chancery at Béravel ends in a hand's breadth of nothing, and no clerk writes in it.
+The lay holds that the Lodge invited the king by sending down a loaf of its own bread with a Warden, **Kírtala**, and that he carried it up whole to be broken at the Lodge's fire. It holds that a white hart led him off the path in the wood below the Lodge, and that he sat out the night under a birch with his hands open, as the first of the Áelendan sat, until he was found. And it holds that the clerks of the basin wrote out the crown's rights before he went up and left a hand's breadth blank at the foot of the page for the place where the rights stop, and that the king read the page at the fire, put it into the fire, and said the end of it aloud. The Colleges have kept that blank: the great page of the crown's rights in the chancery at Péravel ends in a hand's breadth of nothing, and no clerk writes in it.
 
 The Circle does not settle whose the hart was. The Tradition Keepers say that the Lodge sends nothing down the mountain but its Wardens, and the harpers of the coast sing that the hart was sent; the lay is sung both ways and the Circle leaves it so. It closes on the one thing the Colleges' list of kings and the Lodge's honor-song do not agree on, and asks nothing about it.
 
@@ -201,7 +201,7 @@ Come up." She went. And round the bend
 the path was there, and it was clear,
 and it was short, and they were near.
 
-Eshálosha sits in its fold
+Ésalosa sits in its fold
 of the high valley, long and old,
 oak, stone and moss. And in its hall
 the first fire burns, that's not at all
@@ -302,6 +302,6 @@ It stops where the first king came down.
 
 ## See Also
 
-- [[lore-firstcrown|The First Crowning of Élavendre]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]] · [[place-beravel|Béravel]]
-- [[place-eshalshldg|Eshálosha Lodge]] · [[lore-tenaspr|T'éna, the Hearth of Eshálosha]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[lore-firstcrown|The First Crowning of Élavendre]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]] · [[place-beravel|Péravel]]
+- [[place-eshalshldg|Ésalosa Lodge]] · [[lore-tenaspr|T'éna, the Hearth of Ésalosa]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-elavendriclt|Élavendri]] · [[lore-theasking|The Asking]]

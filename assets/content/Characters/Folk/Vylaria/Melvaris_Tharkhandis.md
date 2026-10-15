@@ -1,15 +1,15 @@
 ---
 shortcode: melvaristhar
-name: {full: Mêlvaris Thârkhândis, aliases: [Magister Mêlvaris]}
+name: {full: Mêlvaris Thârkhândis, aliases: [Mârendândôs Mêlvaris]}
 type: being
 subType: npc
-description: A veteran of the Sodalitas Pyréthos and former Sekran operative who mentors Kallistratos Exarchides.
+description: A veteran of the Zûlêthâlon Pyréthos and former Sekran operative who mentors Kallistratos Xarkhêdis.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage]
-  occupation: Magister
+  occupation: Mârendândôs
   lore: []
   culture: vylarianclt
   homes: []
@@ -36,4 +36,4 @@ Mêlvaris Thârkhândis is a 69-year-old man who stands 5'10" tall with a light 
 
 # Dossier {#dossier}
 
-Mêlvaris Thârkhândis is a veteran of the Sodalitas Pyréthos, a former Sekran operative and a senior magister on the council of the Velysâra chapter. He was the mentor of [[being-klstrtsxrchds|Kallistratos Exarchides]] during his years as a discipulus and still guides his career. He encourages his research quietly and with plausible deniability.
+Mêlvaris Thârkhândis is a veteran of the Zûlêthâlon Pyréthos, a former Sekran operative and a senior _mârendândôs_ (master) on the council of the Velysâra chapter. He was the mentor of [[being-klstrtsxrchds|Kallistratos Xarkhêdis]] during his years as a _gâlêthôs_ (student) and still guides his career. He encourages his research quietly and with plausible deniability.

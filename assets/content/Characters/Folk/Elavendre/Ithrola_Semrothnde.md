@@ -3,7 +3,7 @@ shortcode: ithrolasemro
 name: {full: Íthrola Sémrothndë, aliases: [Countess Íthrola]}
 type: being
 subType: npc
-description: A young countess whose domain lies three days' ride from Ályra Kálmereth's cottage.
+description: A young countess whose domain lies three days' ride from Álira Kálmereth's cottage.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Íthrola Sémrothndë is a young countess whose domain lies three days' ride from the cottage of [[being-alyrklmrth|Ályra Kálmereth]]. She has heard extraordinary tales of Ályra's toymaking, and has a daughter whose nightmares she hopes the toymaker can capture.
+Íthrola Sémrothndë is a young countess whose domain lies three days' ride from the cottage of [[being-alyrklmrth|Álira Kálmereth]]. She has heard extraordinary tales of Álira's toymaking, and has a daughter whose nightmares she hopes the toymaker can capture.

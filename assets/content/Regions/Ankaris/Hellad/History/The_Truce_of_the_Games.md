@@ -18,7 +18,7 @@ data:
         - place-gamessanct
         - affiliation-ordoarcanis
       summary: >-
-        At the Games after the War of the Harbors, a graduate of the Academy of the Silver Veil, Sôthamîra Thelkhîdês, brokers among the cities' heralds the terms by which Helionite cities have fought since: war only in the season between the Games, no city to field a mage, the herald's crossing guaranteed, the dead always returned, and no city sacked. The Ordo Arcanis welcomes the second clause and has enforced it with some pleasure ever since.
+        At the Games after the War of the Harbors, a graduate of the Academy of the Silver Veil, Sôthamîra Thelkhîdês, brokers among the cities' heralds the terms by which Helionite cities have fought since: war only in the season between the Games, no city to field a mage, the herald's crossing guaranteed, the dead always returned, and no city sacked. The Thôrdimâlon welcomes the second clause and has enforced it with some pleasure ever since.
       standing: attested
       names:
         - {name: the Herald's Terms, by: affiliation-ctysttshlns}
@@ -51,7 +51,7 @@ data:
           agrees: full
         - by: affiliation-ordoarcanis
           says: >-
-            The Helionite cities have bound themselves not to make war with mages, and the Ordo has no quarrel with the Terms and has seen them kept.
+            The Helionite cities have bound themselves not to make war with mages, and the Arcane Order has no quarrel with the Terms and has seen them kept.
           agrees: partly
           withholds: that the clause was written by cities that had already learned, from the Republic's war on them, what a mage in the field costs
       unresolved:
@@ -74,16 +74,16 @@ She told them. The cities had fought in the season when the fields were bare, ha
 - **The dead.** The dead of a battle are returned to their own city for their own rites, and no city keeps another's.
 - **The walls.** No city is sacked. A city that wins a war takes its terms from the loser's council and leaves the walls standing.
 
-## The Ordo
+## The Arcane Order
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has no seat in the Games and no part in the Terms. It welcomes the second clause and enforces it with some pleasure, and it treats a Helionite city's breach of it as a matter for its own courts.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] has no seat in the Games and no part in the Terms. It welcomes the second clause and enforces it with some pleasure, and it treats a Helionite city's breach of it as a matter for its own courts.
 
 ## What the Truce Left
 
 - **The ritualized warfare** of the [[affiliation-ctysttshlns|city-states]], small, seasonal and fought by militias who expect to go home.
 - **A season for war** and a season against it, kept by every city.
 - **The Silver Veil's reputation** as the region's broker, which the Academy has kept since a graduate spoke at the altar.
-- **The Ordo's one liking** among the laws of Heliónis.
+- **The Arcane Order's one liking** among the laws of Heliónis.
 
 ## See Also
 

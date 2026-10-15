@@ -15,7 +15,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body of ordained clergy, and a high priest above them, styled by the god's own domain: the Volsarn of law, the Bravsarn of storms, the Mentara of wisdom or the Nirvena of dreams. The larger faiths insert a senior college between clergy and apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Ústaran faiths, split by schism into the Sacred Forge's Hamsarn and the Black Flame's independent Flame-Wardens.
+      Twelve separate priesthoods rather than one, sharing a pattern: acolytes in training, a body of ordained clergy, and a high priest above them, styled by the god's own domain: the Volsarnor of law, the Bravsarnor of storms, the Mentara of wisdom or the Nirvena of dreams. The larger faiths insert a senior college between clergy and apex. Two stand outside it: Karnavos's, which is deliberately anarchic, and the Ústaran faiths, split by schism into the Sacred Forge's Hamsarnor and the Black Flame's independent Flame-Wardens.
     ranks:
       - level: 0
         title: Banar
@@ -27,7 +27,7 @@ data:
           The lay faithful of any of the Twelve, keeping the feasts and observances without office.
     offices:
       Sarnax: >-
-        The apex of a single faith, whose authority does not extend beyond it. A faith names its own by setting the stem of its domain before the word, as in the Volsarn of law and the Bravsarn of storms.
+        The apex of a single faith, whose authority does not extend beyond it. A faith names its own by setting the stem of its domain before the word, as in the Volsarnor of law and the Bravsarnor of storms.
       Senior College: >-
         The administrative or scholarly body some faiths seat between clergy and apex.
       Sarnor: The ordained priest of a temple; a priestess is a sârkhenândâ.

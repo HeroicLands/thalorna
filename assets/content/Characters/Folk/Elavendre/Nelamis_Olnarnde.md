@@ -3,7 +3,7 @@ shortcode: nelamisolnar
 name: {full: Nélamis Ólnarndë, aliases: [Lady Nélamis]}
 type: being
 subType: npc
-description: A noblewoman of House Valorant, of considerable wealth and refined taste, who is Véldor Bélthal's patron.
+description: A noblewoman of House Valorant, of considerable wealth and refined taste, who is Véldor Pélthal's patron.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Nélamis Ólnarndë is a 40-year-old woman who stands 5'9" tall with a medium bu
 
 # Dossier {#dossier}
 
-Nélamis Ólnarndë is a noblewoman of House Valorant, of considerable wealth and refined taste. She is the patron of [[being-veldrblthl|Véldor Bélthal]] and of the theater, a patronage that serves as cover for her part in a network of rebel agents.
+Nélamis Ólnarndë is a noblewoman of House Valorant, of considerable wealth and refined taste. She is the patron of [[being-veldrblthl|Véldor Pélthal]] and of the theater, a patronage that serves as cover for her part in a network of rebel agents.

@@ -24,7 +24,7 @@ organized around getting its produce here.
 
 Long sandy beaches, easy anchorages and a climate that is the warmest in the kingdom make this the
 natural front door to the Vylarian world—which is exactly what it has been since the empire founded
-[[place-aureliane|Aurèliane]] on the inland road.
+[[place-aureliane|Aurelàne]] on the inland road.
 
 ## Its Cities
 
@@ -34,7 +34,7 @@ natural front door to the Vylarian world—which is exactly what it has been sin
   survive a blockade.
 - [[place-kalveza|Kalvèza]]—the working harbor that moves the tonnage while Válaren takes the
   glamour.
-- [[place-aureliane|Aurèliane]]—the old Vylarian provincial capital inland, still holding the
+- [[place-aureliane|Aurelàne]]—the old Vylarian provincial capital inland, still holding the
   high courts and the academies.
 - [[place-lizela|Lizèla]]—a modest coastal town on the kingdom's largest salt flats.
 - [[place-palvothe|Palvòthe]]—the green hill town where the gentry escape the summer, and the

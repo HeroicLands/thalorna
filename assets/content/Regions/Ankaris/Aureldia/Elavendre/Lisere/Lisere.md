@@ -50,7 +50,7 @@ There is accordingly **no warmth whatever between Élavendre and the Nordmen**, 
 in living memory or in any memory the chroniclers preserve. It is the one foreign question on which the
 courtly, conciliatory, endlessly diplomatic Élavendri have never been willing to be reasonable, and
 Líserë is the reason: the north has been paying for that history for a very long time, and paid most of
-it before Béravel took much notice.
+it before Péravel took much notice.
 
 ## The Economy
 

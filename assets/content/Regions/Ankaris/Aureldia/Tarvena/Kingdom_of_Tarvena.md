@@ -140,7 +140,7 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]]—The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvénan independence. Astúrath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vylarian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarvéni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
 - [[affiliation-kngdmglvrn|Kingdom of Galváren]]—The green, mist-shrouded western coast. Galváren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvénan skepticism of the arcane. The kingdom's fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
-- [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Léonrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Léonriki nobles have contested the High Kingship more often than anyone.
+- [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Liénrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Liénriki nobles have contested the High Kingship more often than anyone.
 
 ### The Free City
 
@@ -154,7 +154,7 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvénan mercenary tradition is famous across [[place-ankrscntnnt|Ankaris Continent]]—Tarvéni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to [[affiliation-cnfdrtntrzlnstts|Tarûzel]], and mercenary service is considered an honorable career rather than a mark of desperation.
 
-The Tarvénans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Ordo Arcanis]] in particular. The Ordo maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
+The Tarvénans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Thôrdimâlon]] in particular. The Arcane Order maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
 
 ## Commerce and Currency
 
@@ -163,7 +163,7 @@ Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ar
 ## See Also
 
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The three kingdoms
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The three kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]]—The city-state
 - [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—The highland free territory
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Former overlord (deeply resented)

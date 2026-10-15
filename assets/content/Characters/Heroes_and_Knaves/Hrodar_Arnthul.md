@@ -396,7 +396,7 @@ Hródar yra Arnthúl wur Erthhaven is a tall, gaunt man with the angular look of
 
 # Dossier {#dossier}
 
-Hródar was a timber cutter's son from a logging settlement in the deep pine country. His family worked the imperial timber concession—felling and dragging pine logs to a river depot where Vylarian agents paid a fraction of their worth and called it fair. It was a hard, honest life, and Hródar might have lived it without complaint had the concession not been sold to a Vylarian senator's factor who halved the already miserable wages and doubled the quotas.
+Hródar was a timber cutter's son from a logging settlement in the deep pine country. His family worked the imperial timber concession—felling and dragging pine logs to a river depot where Vylarian agents paid a fraction of their worth and called it fair. It was a hard, honest life, and Hródar might have lived it without complaint had the concession not been sold to a Vylarian _kurthândôs_'s factor who halved the already miserable wages and doubled the quotas.
 
 When Hródar's father was killed by a falling tree—exhausted, rushing to meet an impossible deadline—the twenty-year-old confronted the factor and broke his jaw. He fled into the forest that same day, knowing the garrison would come. He spent years drifting between illegal logging camps, poaching outfits, and seasonal labor, growing harder and more bitter with each passing winter. He joined the Blackpine Wolves eighteen months ago, recruited by Vandaric in a border tavern, and has proven himself a dependable fighter and woodsman—silent, tough, and willing to do what needs doing without being asked twice.
 
@@ -414,7 +414,7 @@ Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or un
 
 ### Motivation
 
-Revenge, diffused across an entire empire. Hródar cannot strike at the senator whose factor killed his father, so he strikes at whatever piece of Vylaria comes within reach. He knows this is futile and does not care. The anger sustains him the way food and water sustain other men. If the empire were to collapse tomorrow, he would have no idea what to do with himself.
+Revenge, diffused across an entire empire. Hródar cannot strike at the _kurthândôs_ (senator) whose factor killed his father, so he strikes at whatever piece of Vylaria comes within reach. He knows this is futile and does not care. The anger sustains him the way food and water sustain other men. If the empire were to collapse tomorrow, he would have no idea what to do with himself.
 
 ### Strengths
 

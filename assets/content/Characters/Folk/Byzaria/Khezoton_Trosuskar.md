@@ -1,15 +1,15 @@
 ---
 shortcode: khezotontros
-name: {full: Khezoton Trosuskâr, aliases: [Praelatus Khezoton Trosuskâr]}
+name: {full: Khezoton Trosuskâr, aliases: [Hôlmârendândôs Khezoton Trosuskâr]}
 type: being
 subType: npc
-description: Praelatus of the Zephäris Sodalitas and the elderly senior master of the Panepistemium in Byzaris, named in Dókhéhran Fefês.
+description: Hôlmârendândôs (prelate) of the Zepharis Zûlêthâlon and the elderly senior master of the Plûmepistémion in Byzaris, named in Dókhéhran Fefês.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, scholar]
-  occupation: Praelatus of the Zephäris Sodalitas
+  occupation: Hôlmârendândôs of the Zepharis Zûlêthâlon
   lore: []
   culture: byzarianclt
   homes: [byzaris]
@@ -36,4 +36,4 @@ Khezoton Trosuskâr is an 80-year-old man who stands 5'9" tall with a light buil
 
 # Dossier {#dossier}
 
-Khezoton Trosuskâr is Praelatus of the Zephäris Sodalitas and the elderly senior master of the Panepistemium in Byzaris. He mentored [[being-dkhhrnbsrn|Dókhéhran Fefês]] in her early years and defends her controversial theories against pressure from more conservative factions.
+Khezoton Trosuskâr is _Hôlmârendândôs_ (prelate) of the Zepharis Zûlêthâlon (fellowship) and the elderly senior master of the Plûmepistémion (the Academy of Knowledge) in Byzaris. He mentored [[being-dkhhrnbsrn|Dókhéhran Fefês]] in her early years and defends her controversial theories against pressure from more conservative factions.

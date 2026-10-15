@@ -1,6 +1,6 @@
 ---
 shortcode: pechszrvln
-name: {full: The Peaches of Zûravlen, aliases: []}
+name: {full: The Peaches of Zuravlèn, aliases: []}
 type: scenario
 subType: adventure
 data:
@@ -14,19 +14,19 @@ data:
   packFolder: adventures
 ---
 
-The orchards of [[place-zuravlenrgn|Zûravlen]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
+The orchards of [[place-zuravlenrgn|Zuravlèn]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
 
 ## Overview
 
-The region of [[place-zuravlenrgn|Zûravlen]], famous throughout [[place-provenzrgn|Provènzia Region]] and beyond for its exceptional peaches, has been struck by a curse. The fruit that once brought prosperity now brings sickness and death to those who consume it. Entire merchant caravans have been poisoned, trade has collapsed, and the regional economy teeters on ruin. Multiple factions claim the cause and blame each other: some say it's deliberate sabotage by a rival house, others whisper of a curse from an offended mage or spirit. The party must investigate before political maneuvering turns crisis into catastrophe.
+The region of [[place-zuravlenrgn|Zuravlèn]], famous throughout [[place-provenzrgn|Provènzia Region]] and beyond for its exceptional peaches, has been struck by a curse. The fruit that once brought prosperity now brings sickness and death to those who consume it. Entire merchant caravans have been poisoned, trade has collapsed, and the regional economy teeters on ruin. Multiple factions claim the cause and blame each other: some say it's deliberate sabotage by a rival house, others whisper of a curse from an offended mage or spirit. The party must investigate before political maneuvering turns crisis into catastrophe.
 
 ## Stage One: The Crisis
 
-The party arrives in or travels through Zûravlen as the crisis unfolds:
+The party arrives in or travels through Zuravlèn as the crisis unfolds:
 
 - The orchards are cordoned off and dying
 - Merchants are panic-selling remaining inventory (though the fruit is dangerous)
-- Multiple deaths from consumption of Zûravlen peaches
+- Multiple deaths from consumption of Zuravlèn peaches
 - Accusations fly between noble houses and merchant families
 - The market for peaches has collapsed, and economic devastation spreads
 - Neighboring regions are banning all Provenzian fruit as a precaution
@@ -38,7 +38,7 @@ The party arrives in or travels through Zûravlen as the crisis unfolds:
 - The poisoning is not simple toxin—it seems woven into the fruit itself
 - Several nobles have economic motivations to destroy the orchards (land grabs, rival business interests)
 - An estranged mage or spurned noble may have cursed the orchards in revenge
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] has begun investigating (or may be involved)
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] has begun investigating (or may be involved)
 
 **NPCs:**
 
@@ -55,7 +55,7 @@ The party must determine the curse's nature and source:
 - Interview those who consumed poisoned fruit (if they survived)
 - Research the curse's origins: accident, deliberate magic, alchemical poison, or something else
 - Investigate rival houses and their motives
-- Discover if anyone consulted with the [[affiliation-ordoarcanis|Ordo Arcanis]] or dark practitioners
+- Discover if anyone consulted with the [[affiliation-ordoarcanis|Thôrdimâlon]] or dark practitioners
 - Uncover tension between the noble houses that might explain the sabotage
 - Learn about recent insults, broken contracts, or betrayals that could motivate revenge
 
@@ -63,9 +63,9 @@ The party must determine the curse's nature and source:
 
 - Someone attempts to poison or kill the party if they get too close to the truth
 - Rival factions actively mislead the investigation
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] demands the party cease investigation and turn findings over to them
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] demands the party cease investigation and turn findings over to them
 - A party member becomes suspected of involvement (framed or mistaken identity)
-- The poisoning spreads beyond Zûravlen, creating pressure to stop investigation and prevent panic
+- The poisoning spreads beyond Zuravlèn, creating pressure to stop investigation and prevent panic
 
 ## Stage Three: The Conspiracy Unfolds
 
@@ -76,7 +76,7 @@ The party's investigation reveals the truth:
 - **Deliberate Sabotage:** A rival noble house hired a poisoner or dark mage to curse the orchards, destroying a competitor
 - **Alchemical Accident:** An experimental process or new fertilizer caused unforeseen consequences
 - **Magical Curse:** A mage (hired or acting independently) cursed the orchards for personal revenge
-- **Arcane Manipulation:** The [[affiliation-ordoarcanis|Ordo Arcanis]] cursed the orchards to create leverage or opportunity
+- **Arcane Manipulation:** The [[affiliation-ordoarcanis|Thôrdimâlon]] cursed the orchards to create leverage or opportunity
 - **Fae Influence:** A fae spirit or Áelendan power angered by desecration or broken compact inflicted the curse
 - **Natural Phenomenon:** A spiritual entity or natural force was awakened by something done in or near the orchards
 
@@ -119,14 +119,14 @@ The party must address the conspiracy and cure the orchards. Different approache
 **Complications and Leverage:**
 
 - Recovery is slow, and some orchards may be permanently damaged
-- If the [[affiliation-ordoarcanis|Ordo Arcanis]] was involved, they may seek to monopolize the cure or extract political concessions
+- If the [[affiliation-ordoarcanis|Thôrdimâlon]] was involved, they may seek to monopolize the cure or extract political concessions
 - The conspirators' allies may seek revenge or obstruct resolution
 - The party may uncover larger conspiracies or factions working against [[place-provenzrgn|Provènzia Region]]
 - The successful resolution brings the party prominence, making them targets for others' schemes
 
 **If the party fails or is compromised:**
 
-- The orchards are destroyed, and Zûravlen's economy collapses
+- The orchards are destroyed, and Zuravlèn's economy collapses
 - The conspirators consolidate power, and their faction grows
 - The party is blamed for the failure or exposed as complicit
 - A false narrative takes hold (scapegoating an innocent party)
@@ -136,6 +136,6 @@ The party must address the conspiracy and cure the orchards. Different approache
 
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]
 - [[affiliation-arldnpnthn|Aurèldían]]
 - [[place-elavendre|Élavendre]]

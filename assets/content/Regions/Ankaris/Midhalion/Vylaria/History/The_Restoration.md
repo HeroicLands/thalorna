@@ -24,9 +24,9 @@ data:
       standing: attested
       names:
         - {name: the Restoration, by: affiliation-vylarinmpr}
-        - name: the legate's year
+        - name: the phêlzândôs's year
           by: place-moktur
-          gloss: Moktur's name for the year its legate took the city
+          gloss: Moktur's name for the year its phêlzândôs took the city
       where:
         locus: [place-orzara]
         reach:
@@ -40,7 +40,7 @@ data:
             knowledge: named
           - place: place-moktur
             how: >-
-              the northern legions are rewarded and the province keeps the memory that its legate made the house
+              the northern legions are rewarded and the province keeps the memory that its phêlzândôs made the house
             knowledge: named
       who:
         - {ref: affiliation-vylrnmltry, role: instrument}
@@ -53,7 +53,7 @@ data:
       accounts:
         - by: affiliation-seldan
           says: >-
-            The Senate acclaimed the legate who restored order, and the Empire was one again.
+            The Senate acclaimed the phêlzândôs who restored order, and the Empire was one again.
           agrees: partly
           withholds: that the Senate acclaimed the army at its gates
         - by: affiliation-sorvan
@@ -68,7 +68,7 @@ A restoration guild's master mason, asked who built the Circle of Triumph's colo
 
 ## The City Taken
 
-By 405 [[place-orzara|Ôrzâra]] was a burned city under a hungry Senate, and the Senate's Ôrzâs, Sylârion, had an empty treasury and no legions. Makândas marched south from the north with the army that had won at Olcassa ([[lore-olcassabtl|The Battle of Olcassa]]). About 406 he took the city.
+By 405 [[place-orzara|Ôrzâra]] was a burned city under a hungry Senate, and the Senate's Ôrzâs, Sylârion, had an empty treasury and no legions. Makândas marched south from the north with the army that had won at Olkassâ ([[lore-olcassabtl|The Battle of Olkassâ]]). About 406 he took the city.
 
 The Senate acclaimed him within the week. The [[affiliation-sorvan|Sorvan]] handed over its claimant, Kàdelôs, and Sylârion died in the Offices, in a room whose door was not opened for two days. The three eagles were reduced to one.
 

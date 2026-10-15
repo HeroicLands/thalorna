@@ -87,7 +87,7 @@ The party must gather information about King Vélarik III, the ancient battle, a
 - Someone actively prevents investigation (protecting a secret or desecration)
 - A party member experiences profound visions or possession attempts
 - The ghosts become more aggressive as the party's investigation advances
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] or another faction shows interest in the site
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] or another faction shows interest in the site
 
 ## Stage Three: Communing with the Ghosts
 
@@ -177,4 +177,4 @@ The party must undertake a quest to fulfill the spirits' wishes:
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]

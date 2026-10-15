@@ -39,7 +39,7 @@ hill families who know how to speak to it have such a difficult, mutually suspic
 ## Why It Matters Now
 
 An abandoned sanctuary of a displaced faith is an obvious prize, and the interested parties are
-predictable: scholars after pre-Aurèldían knowledge, the [[affiliation-ordoarcanis|Ordo Arcanis]]
+predictable: scholars after pre-Aurèldían knowledge, the [[affiliation-ordoarcanis|Thôrdimâlon]]
 asserting its claim over arcane sites, nobles hoping old practices will yield personal power, and
 priests of the Twelve who would rather the whole question stayed closed.
 

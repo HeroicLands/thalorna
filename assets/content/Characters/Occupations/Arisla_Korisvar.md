@@ -1,6 +1,6 @@
 ---
 shortcode: arislkrsvr
-name: {full: Árisla Kórisvar, aliases: []}
+name: {full: Arìsla Kórisvar, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Árisla Kórisvar is a 32-year-old woman who stands 6'0" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a narrow jaw that leads to a firm chin. Her piercing gray eyes sit beneath expressive brows and give her a penetrating gaze. She has an aquiline nose and narrow lips. She has olive-tanned skin with a weathered complexion. Her black hair is twisted into an elaborate arrangement. She has laugh lines around her eyes.
+Arìsla Kórisvar is a 32-year-old woman who stands 6'0" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a narrow jaw that leads to a firm chin. Her piercing gray eyes sit beneath expressive brows and give her a penetrating gaze. She has an aquiline nose and narrow lips. She has olive-tanned skin with a weathered complexion. Her black hair is twisted into an elaborate arrangement. She has laugh lines around her eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a minor noble family of Provenzian heritage, Árisla Kórisvar is a herald.
+Born in the [[place-provenzrgn|Provènzia]] region to a minor noble family of Provenzian heritage, Arìsla Kórisvar is a herald.
 
-Lady Árisla Kórisvar was born into a minor noble family known for their service as heralds and courtiers. She has a natural gift for oratory and a sharp understanding of how people stand with one another, which she uses to her advantage when delivering announcements and mediating disputes. She is well liked for her poise and her ability to suit her style to the occasion, whether formal or more relaxed. Her informal manner has won her praise, and it has also drawn criticism from more traditional heralds.
+Lady Arìsla Kórisvar was born into a minor noble family known for their service as heralds and courtiers. She has a natural gift for oratory and a sharp understanding of how people stand with one another, which she uses to her advantage when delivering announcements and mediating disputes. She is well liked for her poise and her ability to suit her style to the occasion, whether formal or more relaxed. Her informal manner has won her praise, and it has also drawn criticism from more traditional heralds.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ She sometimes lacks the gravitas expected of a herald and can be overly diplomat
 
 ### Motivation
 
-Árisla wants to be heard and liked in every hall she speaks in, and to prove that a herald need not be stiff to be respected.
+Arìsla wants to be heard and liked in every hall she speaks in, and to prove that a herald need not be stiff to be respected.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ She is charismatic, adaptable, and skilled in etiquette and mediation.
 
 ## Social
 
-Árisla belongs to the City Heralds' Guild.
+Arìsla belongs to the City Heralds' Guild.
 
 ## Companions
 
 ### Patrons
 
-Árisla's patrons are the nobles who like her informal manner and her skill at diplomacy.
+Arìsla's patrons are the nobles who like her informal manner and her skill at diplomacy.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Traditionalists believe she is too informal for a herald.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma**—Árisla is given a proclamation to deliver that she knows to be false, and her office and her conscience ask different things of her.
+1. **The Herald's Dilemma**—Arìsla is given a proclamation to deliver that she knows to be false, and her office and her conscience ask different things of her.
 
-2. **Old Grudges**—A traditionalist herald brings a complaint against Árisla's manner before the guild.
+2. **Old Grudges**—A traditionalist herald brings a complaint against Arìsla's manner before the guild.
 
-3. **Echoes of the Past**—A dispute Árisla mediated in her early years comes apart, and both sides blame her.
+3. **Echoes of the Past**—A dispute Arìsla mediated in her early years comes apart, and both sides blame her.
 
-4. **Shifting Winds**—Political change in Provènzia threatens the standing Árisla's noble patrons give her, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Provènzia threatens the standing Arìsla's noble patrons give her, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—Árisla is offered the post of herald to a great house, and its price is not named up front.
+5. **The Opportunity**—Arìsla is offered the post of herald to a great house, and its price is not named up front.

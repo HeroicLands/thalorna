@@ -3,7 +3,7 @@ shortcode: ravenmoor
 name: {full: Ravenmoor, aliases: []}
 type: place
 subType: settlement
-description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland—where the Ordo inspects the island's entire commerce, and takes particular interest in anything magical."
+description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland—where the Arcane Order inspects the island's entire commerce, and takes particular interest in anything magical."
 tags: [city, port, coastal]
 data:
   demonym: null
@@ -39,7 +39,7 @@ chooses. Compensation is offered and is usually fair. Refusal is possible in pri
 
 Nothing about this is concealed. The Synod's stated reason is that unexamined magic entering or leaving
 an island as fae-touched as Aelwyth is a danger to everyone, which is true, and not the whole truth: the
-requirement means that no relic has left Aelwyth in living memory without the Ordo seeing it first, and
+requirement means that no relic has left Aelwyth in living memory without the Arcane Order seeing it first, and
 no mainland working has arrived without the same.
 
 ## What Happens to Those Who Try It
@@ -47,13 +47,13 @@ no mainland working has arrived without the same.
 The compulsory call is not enforced by ships, and the Synod has never in its history threatened anyone
 over it. It does not need to. Its instrument is the thing every ruler on Aelwyth most wants to keep.
 
-**Ordo advisors serve in almost every significant polity**, here and across the world. Their value is
+**Arcane Order advisors serve in almost every significant polity**, here and across the world. Their value is
 inestimable and their rulers know it: a court mage's knowledge, judgment and power are advantages no
 neighbor without one can match, and every person of consequence wants one. They are not neutral
 scholars for hire. They are members of an order, and on Aelwyth that order answers to the **Synod at
 Ravenmoor**, which is its central chantry for the whole island.
 
-So the first sanction is simply **withdrawal**. Word goes out to the Ordo in the offending realm, and
+So the first sanction is simply **withdrawal**. Word goes out to the Arcane Order in the offending realm, and
 its advisors take their leave—courteously, with proper notice, giving reasons that are impeccable and
 transparently pretextual. Then no replacement is available. Not from Dúnavarre, not from the mainland,
 not from anywhere, because the request is refused before it is made.

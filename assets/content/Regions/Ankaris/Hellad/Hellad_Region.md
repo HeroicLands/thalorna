@@ -52,9 +52,9 @@ Beneath and between the two sit dozens of smaller polities. Some are pirate have
 
 Hellád is one of the great commercial regions of the world. Helionite merchant fleets work the whole of the Vylarian Sea. Byzarian caravans and cogs carry the transfer from road to ship, moving silk, spice, porcelain and tea from the far east to the western markets. The region's own exports are olive oil, wine, marble, philosophical and scientific manuscripts, fine ceramics, and the finished luxury goods of its artisan guilds.
 
-## The Ordo in Hellád
+## The Arcane Order in Hellád
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] is well established across the region, with major chapter-houses in Heliónis and at least one chapter-hall in each Byzarian city. Helionite scholars have always been of two minds about it, respecting its scholarship and distrusting its monopoly. Heliónis has also produced more independent arcane practitioners than any other region of the Aurèldían world, more than the Ordo would like.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] is well established across the region, with major chapter-houses in Heliónis and at least one chapter-hall in each Byzarian city. Helionite scholars have always been of two minds about it, respecting its scholarship and distrusting its monopoly. Heliónis has also produced more independent arcane practitioners than any other region of the Aurèldían world, more than the Arcane Order would like.
 
 ## Neighbors
 

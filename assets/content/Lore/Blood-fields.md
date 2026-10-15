@@ -167,7 +167,7 @@ A _vrystgrund_ (blood-field) is ground where many died at once and no Shaman cal
 
 In [[place-aureldirgn|Aurèldía]] the dead are judged. The Threshold Keepers of [[affiliation-selmoros|Sélmoros]] perform the funeral rites and enter the dead in the temple records, and the Silent Judge receives each soul and weighs it without speaking. The judged go on to the Field of the Blessed, a region of the spirit realm that Aurèldían death-traditions have shaped over millennia. A blood-field is ground where thousands died and were not judged in order, and the clergy of Sélmoros end one by settlement: a formal placing of the dead in the god's keeping, which works perhaps half the time and is paid for by the district that asks.
 
-**The ground, not the battle.** [[place-provenzrgn|Provènzia]] has more fields than anywhere else, and its custom is to name the ground and let the battle go ([[lore-bloodfields|The Blood-fields of Provènzia]]). The battle at [[place-bldfldtiravlen|Tiravlen]] is known only from the Vylarian account, and no record says what war made [[place-bldfldkyvarel|Kývarel]] or [[place-bldfldcalvenza|Calvènza]].
+**The ground, not the battle.** [[place-provenzrgn|Provènzia]] has more fields than anywhere else, and its custom is to name the ground and let the battle go ([[lore-bloodfields|The Blood-fields of Provènzia]]). The battle at [[place-bldfldtiravlen|Tiravlen]] is known only from the Vylarian account, and no record says what war made [[place-bldfldkyvarel|Kivarèl]] or [[place-bldfldcalvenza|Calvènza]].
 
 **Élavendre has none.** Its thin places are [[lore-aralwen|arálwain]], natural and kept by the Wardens. Its wars were fought by not being where the army was, and [[lore-elvtribute|the war of the tribute]] and [[lore-sorvandaclose|the Sórvanda Closing]] cost lives without a slaughter. The Áelendan dead are commended onward by their shamans, and the Death-Speakers go to [[lore-ossendaspr|Óssenda]] to ask whether they have gone.
 
@@ -206,7 +206,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-wemaq\|Vömek]]                       | The Khazryn steppe         | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]        | ~312 AF | quickening           | moderate                        |
 | [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                    | [[lore-marupalafl\|The Fall of Marupāla]]                    | 315 AF  | dread                | thin                            |
 | [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu                | [[lore-vylconquest\|The Vylarian Conquest]]                  | 377 AF  | recurrence           | thin                            |
-| [[place-olcassafld\|Olcassa]]                | Vylaria                    | [[lore-olcassabtl\|The Battle of Olcassa]]                   | ~401 AF | quickening           | moderate                        |
+| [[place-olcassafld\|Olkassâ]]                | Vylaria                    | [[lore-olcassabtl\|The Battle of Olkassâ]]                   | ~401 AF | quickening           | moderate                        |
 | [[place-skalfvatn\|Skalfvatn]]               | The Nordlands              | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                        |
 | [[place-blackmarshfld\|The Black Marsh]]     | Moktur (the Varokh dead)   | [[lore-blackmarshbtl\|The Battle of the Black Marsh]]        | 520 AF  | dread                | thin                            |
 | [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                  | [[lore-southrnfleets\|The Southern Fleets]]                  | ~520 AF | withering            | thin, worked on                 |
@@ -216,7 +216,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-dvulgvangr\|Dvulgvangr]]             | The Nordlands (Targud)     | [[lore-burningeast\|The Burning of the East]]                | 613 AF  | dread                | thin                            |
 | [[place-henhulpedin\|Henhutpedin]]           | Tellumel                   | the Breaking                                                 | ~620 AF | recurrence           | moderate                        |
 | [[place-hushwood\|The Hushwood]]             | Aelwyth (the Saelvri dead) | [[lore-saelvricrusade\|The Saelvri Crusade]]                 | ~703 AF | silence              | thin                            |
-| [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                  | —                                                            | —       | quickening           | moderate                        |
+| [[place-bldfldkyvarel\|Kivarèl]]             | Provènzia                  | —                                                            | —       | quickening           | moderate                        |
 | [[place-bldfldcalvenza\|Calvènza]]           | Provènzia                  | —                                                            | —       | silence              | slight                          |
 
 ## See Also

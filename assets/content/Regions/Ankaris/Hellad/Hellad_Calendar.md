@@ -88,7 +88,7 @@ So 1 Lîzêlândi 571 in the Vylarian Calendar is 1 Ánthir 60 HR, the first mor
 | ---------------------------- | ------- | ----------------------------- | -------------------------------------------------------------------------------------------- |
 | The Landings                 | HL      | about 1300 BF to about 800 BF | ships from the north-west, the first sanctuaries, and the first Games                        |
 | The Daughter-Cities          | HD      | about 800 BF to about 400 BF  | the cities send colonists over the sea and up onto the eastern plateau                       |
-| The Federation and the Fire  | HF      | about 400 BF to 312 BF        | the Panepistemium federates the schools, and the Republic's war breaks them                  |
+| The Federation and the Fire  | HF      | about 400 BF to 312 BF        | the Plûmepistémion federates the schools, and the Republic's war breaks them                 |
 | The Province and the Compact | HP      | 312 BF to about 209 AF        | Heliónis keeps its councils under the Republic, and the five eastern cities bind themselves  |
 | The Imperial Peace           | HI      | 209 to 512                    | Byzaría annexed, the Celestial Road at its busiest, and Heliónis the empire's cultural heart |
 | The Drift                    | HR      | 512 to 620                    | the legions leave, the cities defend themselves, and the Compact is sworn again              |
@@ -100,11 +100,11 @@ A seafaring people who speak Proto-Helonic come down the coast and take the peni
 
 ### The Daughter-Cities, about 800 BF to about 400 BF
 
-Cities short of land send out colonists: Pelagora plants Bethûa on the southern shore, and settlers found the harbors of the eastern straits and climb to the plateau ([[lore-daughtercts|The Daughter-Cities]]). Thyrenae's schools grow, and mages study in them as one branch of philosophy. The age ends when the leading schools federate as the [[affiliation-panepistmm|Panepistemium]].
+Cities short of land send out colonists: Pelagora plants Bethûa on the southern shore, and settlers found the harbors of the eastern straits and climb to the plateau ([[lore-daughtercts|The Daughter-Cities]]). Thyrenae's schools grow, and mages study in them as one branch of philosophy. The age ends when the leading schools federate as the [[affiliation-panepistmm|Plûmepistémion]].
 
 ### The Federation and the Fire, about 400 BF to 312 BF
 
-A century of the Panepistemium is followed by the Republic's war on Heliónis ([[lore-helionscnq|The Conquest of Heliónis]]). A Korinthean mage-warlord's working turns on his own levy ([[lore-heladturnedwrk|The Turned Working]]), Pelagora makes a separate peace ([[lore-heladpelagtrty|The Pelagoran Treaty]]), and Thyrenae falls ([[lore-heladthyrsiege|The Siege of Thyrenae]]). It ends when the Senate's commissioners walk into the colleges.
+A century of the Plûmepistémion (the Academy of Knowledge) is followed by the Republic's war on Heliónis ([[lore-helionscnq|The Conquest of Heliónis]]). A Korinthean mage-warlord's working turns on his own levy ([[lore-heladturnedwrk|The Turned Working]]), Pelagora makes a separate peace ([[lore-heladpelagtrty|The Pelagoran Treaty]]), and Thyrenae falls ([[lore-heladthyrsiege|The Siege of Thyrenae]]). It ends when the Senate's commissioners walk into the colleges.
 
 ### The Province and the Compact, 312 BF to about 209 AF
 
@@ -120,7 +120,7 @@ The cities defend themselves. Heliónis fights its first war among its own citie
 
 ### The Free Cities, 620 to the present
 
-The present: Heliónis a province on paper with its own magistrates, the League neutral and indispensable, unpaid forts in the interior, and the arrangement between the philosophers and the Ordo that still holds ([[lore-heladconcordat|The Concordat of Theory]]).
+The present: Heliónis a province on paper with its own magistrates, the League neutral and indispensable, unpaid forts in the interior, and the arrangement between the philosophers and the Arcane Order that still holds ([[lore-heladconcordat|The Concordat of Theory]]).
 
 ## See Also
 

@@ -22,7 +22,7 @@ data:
 
 **The Lament at the Road's End** is a _nélthava_, a lament, that the market singers of [[place-elavendre|Élavendre]] sing for the diggers who went up to the King's Cut in the reign of **Hóuradhel** and did not come down ([[lore-sorvandaclose|The Sórvanda Closing]]). A _nélthava_ belongs at the cairn, and these dead have none that anyone below the mountains knows of; so it is sung where the broken ore-road comes down to [[place-elanmere|Elanmere]], on the first night of the autumn fair, by a singer who stands with his back to the lake and faces up the road. It is a song of the Minstrels' Guild and not of the Colleges. It is sung in ballad measure, four lines to the verse with the second and fourth rhyming, and the fair sings the names back with the singer at the end.
 
-It names eleven: **Dálren** the drover's son, **Móren** the smith of [[place-valdun|Valdûn]], the charcoal-burning brothers **Náldor** and **Ténral**, **Órlen** the carter, **Dénrik** who owed money, **Sálten** off the river barges, **Hálden** who left a wife, **Kélda** who baked for them, her son **Árvend**, who was fourteen, and **Jéldor**, the king's engineer, who gave the orders and died with the rest. Singers on the coast name thirteen, and some at Elanmere leave the engineer out, so the count is not agreed, and the song asks for any name it lacks. Eleven rowans stand at the foot of the ore-road, set there by the diggers' mothers and wives, and a loaf is left on the stone among them on the first night of the fair by someone nobody sees.
+It names eleven: **Dálren** the drover's son, **Móren** the smith of [[place-valdun|Váldun]], the charcoal-burning brothers **Náldor** and **Ténral**, **Órlen** the carter, **Dénrik** who owed money, **Sálten** off the river barges, **Hálden** who left a wife, **Kélda** who baked for them, her son **Árvend**, who was fourteen, and **Jéldor**, the king's engineer, who gave the orders and died with the rest. Singers on the coast name thirteen, and some at Elanmere leave the engineer out, so the count is not agreed, and the song asks for any name it lacks. Eleven rowans stand at the foot of the ore-road, set there by the diggers' mothers and wives, and a loaf is left on the stone among them on the first night of the fair by someone nobody sees.
 
 The song is a satire as well as a lament, and it is sung against a crown. It sets the king who went up the mountain unasked and came down beside the diggers who were asked up by his crier and stayed, and it sets the proofs of descent the great houses paid for after the Closing beside eleven people whose line nobody sings. The Colleges do not teach it. No crown has forbidden it.
 
@@ -47,9 +47,9 @@ and the road is all the sign.
 Three years the rain came wrong in the hills,
 three years the barley lay;
 and every year the silver went
-east on the Valdûn way.
+east on the Váldun way.
 
-For the queen had sworn it at Valdûn,
+For the queen had sworn it at Váldun,
 when the legion was in the hill:
 our law, our line, and silver paid.
 And the silver was owing still.
@@ -64,14 +64,14 @@ at the silver in the stone,
 and the gold, and the bright stones that the tribes
 had always let alone.
 
-The crier cried at Béravel,
-at Valdûn, at the fords:
+The crier cried at Péravel,
+at Váldun, at the fords:
 "Silver in hand for a strong back,
 and bread, and the king's own word."
 
 Then Dálren came, the drover's son,
 whose father's beasts were dead;
-and Móren banked his Valdûn forge
+and Móren banked his Váldun forge
 and sold his tongs for bread.
 
 Náldor and Ténral, brothers, came
@@ -213,5 +213,5 @@ and sing them when you wake.
 ## See Also
 
 - [[lore-sorvandaclose|The Sórvanda Closing]] · [[lore-elvtribute|The Tribute of Élavendre]] · [[place-sorvanda|Sórvanda]]
-- [[place-elanmere|Elanmere]] · [[place-valdun|Valdûn]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[place-elanmere|Elanmere]] · [[place-valdun|Váldun]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
 - [[lore-elavendriclt|Élavendri]] · [[affiliation-bardicolgs|The Bardic Colleges]]

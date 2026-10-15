@@ -1,9 +1,9 @@
 ---
 shortcode: pirkelosholi
-name: {full: Pîrkêlôs Hôlimândis, aliases: [Elder Pîrkêlôs of Mylânthos, Elder Pîrkêlôs]}
+name: {full: Pîrkêlôs Hôlimândis, aliases: [Elder Pîrkêlôs of Milânthos, Elder Pîrkêlôs]}
 type: being
 subType: npc
-description: The voice of the village of Mylânthos, a former militia commander in his seventies, who shelters the priest Azéndas Dâemâtôr.
+description: The voice of the village of Milânthos, a former militia commander in his seventies, who shelters the priest Azéndas Dâmâtôr.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Pîrkêlôs Hôlimândis is a 74-year-old man who stands 6'0" tall with a heavy 
 
 # Dossier {#dossier}
 
-Pîrkêlôs Hôlimândis is the elder and voice of Mylânthos, a former militia commander now in his seventies. He first encouraged [[being-azendsdmtr|Azéndas Dâemâtôr]] to take up healing, and when the Temple hierarchy in the capital questions the priest's methods, he provides the local political cover.
+Pîrkêlôs Hôlimândis is the elder and voice of Milânthos, a former militia commander now in his seventies. He first encouraged [[being-azendsdmtr|Azéndas Dâmâtôr]] to take up healing, and when the Temple hierarchy in the capital questions the priest's methods, he provides the local political cover.

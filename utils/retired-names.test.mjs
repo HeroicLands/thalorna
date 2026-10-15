@@ -66,8 +66,8 @@ export const RETIRED = [
             "assets/content/Characters/Heroes_and_Knaves/Helenaia_Mystakes.md",
             "assets/content/Characters/Heroes_and_Knaves/Gavrilos_Niktariotes.md",
             "assets/content/Characters/Heroes_and_Knaves/Domrithas_Vishardas.md",
-            "assets/content/Characters/Heroes_and_Knaves/Myrine_Kalypsos.md",
-            "assets/content/Characters/Heroes_and_Knaves/Arevyn_Llydar.md",
+            "assets/content/Characters/Heroes_and_Knaves/Mirene_Kalethos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Arevin_Lidren.md",
             "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
             "assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md",
             "assets/content/Characters/Occupations/Aldith_Chilton.md",
@@ -86,7 +86,7 @@ export const RETIRED = [
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Afzandah_Parnazar.md",
             "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
-            "assets/content/Characters/Occupations/Tarsia_Torvaleth.md",
+            "assets/content/Characters/Occupations/Tarsila_Torvaleth.md",
         ],
     },
     {
@@ -94,7 +94,7 @@ export const RETIRED = [
         replacement: "the host culture's given names",
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Gnaldrthann_Solvargr.md",
-            "assets/content/Characters/Heroes_and_Knaves/Kelena_Stylgon.md",
+            "assets/content/Characters/Heroes_and_Knaves/Kelena_Estilgon.md",
             "assets/content/Characters/Heroes_and_Knaves/Vrildmyl_Hrafnsvald.md",
             "assets/content/Characters/Heroes_of_Asguard/Dvurnvir_the_Shaper.md",
         ],
@@ -175,7 +175,7 @@ export const RETIRED = [
     {
         retired: ["Mera"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Kjorvan_Gjarlen.md"],
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Chorvan_Jarlen.md"],
     },
     {
         retired: ["Ivar"],

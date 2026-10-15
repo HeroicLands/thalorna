@@ -80,11 +80,11 @@ The great guilds keep a presence in Qudûmel and exercise less control here than
 
 The population is heavily mixed: Tarûzelian merchants, Dunhari tribespeople who have settled into city life, Khazryn caravan masters, and members of dozens of smaller peoples who have gathered at this crossroads over the centuries. That mixture makes Qudûmel the most cosmopolitan and the most religiously tolerant city in the Confederation, and the only one where the [[affiliation-ashanpnthn|Āsháian Pantheon]] is the dominant faith.
 
-It is also the city where the [[affiliation-ordoarcanis|Ordo Arcanis]] is weakest. The eastern traditions that come in along the caravan routes—Āsháian fire-worship, Dunhari sand-divination and Vedyaran meditation—are practiced openly, and a thriving magical underground works outside the Ordo's control, to the Ordo's considerable frustration.
+It is also the city where the [[affiliation-ordoarcanis|Thôrdimâlon]] is weakest. The eastern traditions that come in along the caravan routes—Āsháian fire-worship, Dunhari sand-divination and Vedyaran meditation—are practiced openly, and a thriving magical underground works outside the Arcane Order's control, to the Arcane Order's considerable frustration.
 
 ## Commerce and Currency
 
-The caravans that unload at Qudûmel settle in the [[lore-trzlncrncy|Tarûzelian currency]], issued under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. Its Solden, Ard and Bit follow the Vylarian denominations but rest on Tarûzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merâzûnî-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
+The caravans that unload at Qudûmel settle in the [[lore-trzlncrncy|Tarûzelian currency]], issued under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. Its Solden, Ardin and Bit follow the Vylarian denominations but rest on Tarûzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merâzûnî-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
 
 ## See Also
 

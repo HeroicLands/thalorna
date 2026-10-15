@@ -1,6 +1,6 @@
 ---
 shortcode: flirnynda
-name: {full: Flirnynda, aliases: [Magister Flirnynda]}
+name: {full: Flirnynda, aliases: [Master Flirnynda]}
 type: being
 subType: npc
 description: An elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor, named in Thraldorv Vörnheim.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [healer, scholar]
-  occupation: Magister
+  occupation: Master
   lore: []
   culture: nordheimnclt
   homes: []

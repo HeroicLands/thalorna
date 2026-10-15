@@ -20,7 +20,7 @@ data:
 # terran_analog: "The Irish and Welsh genealogies recited by a court poet, tracing a lord back through the generations to a founding ancestor, with their known seams where a dynasty is grafted onto an older line; the chained 'son of' formula of the royal lists; the feast at which a claim is renewed before people who could dispute it."
 ---
 
-**The Line of the House of Hálvireth** is a _sírnernë_, a roll of names, as the bard of a lowland house sings it at a _lórdemon_, a feast at which the genealogies are sung. The house of **Hálvireth** holds river-meadows in the Bérav basin below [[place-beravel|Béravel]], and it gives this feast on the night a child of the house is named; the bard sings the line from the child up, so that the child is counted into it in the hearing of everyone who might dispute it. What stands here is the short line, the heads of the house only, which is sung at a naming; the long line, with every branch and every marriage, takes a night and is sung at a death.
+**The Line of the House of Hálvireth** is a _sírnernë_, a roll of names, as the bard of a lowland house sings it at a _lórdemon_, a feast at which the genealogies are sung. The house of **Hálvireth** holds river-meadows in the Bérav basin below [[place-beravel|Péravel]], and it gives this feast on the night a child of the house is named; the bard sings the line from the child up, so that the child is counted into it in the hearing of everyone who might dispute it. What stands here is the short line, the heads of the house only, which is sung at a naming; the long line, with every branch and every marriage, takes a night and is sung at a death.
 
 The recital is in two forms. The bard's frame, which opens and closes it, is in rhymed couplets to the harp. The line itself is not composed and is not rhymed: it is said, each head in a set form, each line closing on the name that opens the next, exactly as the [[affiliation-bardicolgs|Colleges]] proved it, and a bard who changes a word of a proof has changed the proof. Each head is given one deed, the deed the house has chosen to keep, and the dead for whom trees stand are named with their trees. A debt of honor the line has never paid is sung at every feast until it is paid, and this line carries one, to a house whose line has ended.
 
@@ -50,13 +50,13 @@ The line:
 ```poetry {form=sirnerne lang=en}
 Sílvera, named tonight, whose other name is not for this hall, child of Táeren.
 Táeren, who holds the house, and keeps the river-meadows, and whose people eat, child of Méldoreth.
-Méldoreth, who followed the art at Béravel and came home, and kept a harper twenty years and paid him, child of Óuravel.
+Méldoreth, who followed the art at Péravel and came home, and kept a harper twenty years and paid him, child of Óuravel.
 Óuravel, in whose years the silver stopped going east, who built the living bridge over the mill-race, which stands, child of Dhéneth.
 Dhéneth, who held the house in her own right, and in the year the rain came wrong unbarred the stores, child of Kálvorin.
 Kálvorin, for whom the oak stands at the ford-gate, child of Thérseth.
 Thérseth, who stood on the north shore the year the fleets came, and came home, child of Ráenor.
 Ráenor, whom a bard of standing sang against, and who lived it down, and never named the bard, child of Ílthera.
-Ílthera, who held a chair at court against the Ordo, and kept it, child of Gálveren.
+Ílthera, who held a chair at court against the Order, and kept it, child of Gálveren.
 Gálveren, who planted the birch in the low meadow for his brother, which stands, child of Vélthar.
 Vélthar, who went up to the fair at Elanmere and sang the line there, and was heard, child of Sárhel.
 Sárhel, who lost the harp-hall to fire and built it again in stone, child of Nérrin.
@@ -95,16 +95,16 @@ The house sings the heads of its line by their sun names. The highland names abo
 
 | Name          | Who                                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------------ |
-| **Hálvireth** | A house of the Bérav basin holding river-meadows below Béravel                                   |
+| **Hálvireth** | A house of the Bérav basin holding river-meadows below Péravel                                   |
 | **Sílvera**   | The child named at the feast                                                                     |
 | **Táeren**    | Her father, head of the house                                                                    |
-| **Méldoreth** | Who studied the art at Béravel and kept a harper                                                 |
+| **Méldoreth** | Who studied the art at Péravel and kept a harper                                                 |
 | **Óuravel**   | Head of the house when the tribute lapsed; builder of the living bridge                          |
 | **Dhéneth**   | Who held the house in her own right and opened its stores in a bad year                          |
 | **Kálvorin**  | For whom the oak at the ford-gate was planted                                                    |
 | **Thérseth**  | Who fought on the north shore in the years of the fleets                                         |
 | **Ráenor**    | Who outlived a satire                                                                            |
-| **Ílthera**   | Who held a chair at court against the Ordo                                                       |
+| **Ílthera**   | Who held a chair at court against the Arcane Order                                               |
 | **Gálveren**  | Who planted the birch in the low meadow for his brother                                          |
 | **Vélthar**   | Who first sang the line at the Elanmere fair                                                     |
 | **Sárhel**    | Who rebuilt the harp-hall in stone                                                               |
@@ -120,4 +120,4 @@ The house sings the heads of its line by their sun names. The highland names abo
 
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-sorvandaclose|The Sórvanda Closing]] · [[lore-elavendriclt|Élavendri]]
 - [[lore-aelendnppl|The Áelendan]] · [[lore-theasking|The Asking]] · [[place-elanmere|Elanmere]]
-- [[lore-tenaspr|T'éna, the Hearth of Eshálosha]] · [[lore-firstcrown|The First Crowning of Élavendre]]
+- [[lore-tenaspr|T'éna, the Hearth of Ésalosa]] · [[lore-firstcrown|The First Crowning of Élavendre]]

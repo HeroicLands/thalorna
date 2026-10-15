@@ -12,7 +12,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held for the Crown of Provènzia by the Earl of Hárivren, who governs the western march from Hárivren City and counts the Baron of Zûravlen among his vassals.
+      Held for the Crown of Provènzia by the Earl of Hárivren, who governs the western march from Hárivren City and counts the Baron of Zuravlèn among his vassals.
     ranks:
       - level: 0
         title: Outlaw
@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [provnzlng]}}
 ---
 
-The **Earldom of Hárivren** is the western march of the [[affiliation-kngdmprvnz|Crown of Provènzia]], held by **Avaârl alrí Zylávren**, Earl of Hárivren, from [[place-harivrencity|Hárivren City]]. Among the Earl's vassals is Álegar alrí Zûravel, Baron of [[place-zuravlenrgn|Zûravlen]], whose fruit and wine pass through the Earl's city and pay his tolls.
+The **Earldom of Hárivren** is the western march of the [[affiliation-kngdmprvnz|Crown of Provènzia]], held by **Avaârl alrí Zylávren**, Earl of Hárivren, from [[place-harivrencity|Hárivren City]]. Among the Earl's vassals is Álegar alrí Zûravel, Baron of [[place-zuravlenrgn|Zuravlèn]], whose fruit and wine pass through the Earl's city and pay his tolls.

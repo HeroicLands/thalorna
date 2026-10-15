@@ -25,7 +25,7 @@ data:
 
 **The Song of the Gold Band** is the road-song of the **Khârzênôs Elthêzôs Ûrzêlthôs**, the legion of the northern march that took the Phêlzênôs Hîlthêrênôs's eagle out of the reeds below the Moktur passes ([[lore-blackmarshbtl|The Battle of the Black Marsh]]) and carries a gold band on its name for it. A road-song, _pôzêrsôrimâ_, is sung on the march to the step. One man calls the line, by custom the oldest Khâmezândôs of the leading century, and the century answers with the half-line; the next century takes it up when the first runs out of breath. Every legion has one, and every legion steals verses from the others and denies it. The song's hero is **Grêtalis**, the Khâmezândôs who went into the water for the eagle when it was quiet, and the song gives him no house name, as soldiers give each other none.
 
-The song has two halves, and everyone in the legion knows where the join is. The **parade verses** are the ones the legion's Hôltâkhêzândôs allows on the Vêlzôrpôzêrâ and in front of the governor at Tyrellan: the valley, the water, the eagle, the band, and the four words of the manual at the end. The **road verses** are everything the centuries have added on the long stretch between [[place-dolvar|Dolvar]] and the towers, and nobody has ever written them down by order. Two of the road verses are the ones the noble officers do not hear. One is for the Phêlzênôs Hîlthêrênôs, whose eagle came home in the same year its name was struck from the roll. The other is for the Twelfth, whose eagle did not come home at all ([[lore-twelfthloss|The Loss of the Twelfth]]), and the centuries sing it last and quietly, on the road west, when the Cervaron is in sight. A Êthôrlûsândôs learns in his first month on the march to find something to look at on the far side of the road while they sing it.
+The song has two halves, and everyone in the legion knows where the join is. The **parade verses** are the ones the legion's Hôltâkhêzândôs allows on the Vêlzôrpôzêrâ and in front of the governor at Tirellan: the valley, the water, the eagle, the band, and the four words of the manual at the end. The **road verses** are everything the centuries have added on the long stretch between [[place-dolvar|Dolvar]] and the towers, and nobody has ever written them down by order. Two of the road verses are the ones the noble officers do not hear. One is for the Phêlzênôs Hîlthêrênôs, whose eagle came home in the same year its name was struck from the roll. The other is for the Twelfth, whose eagle did not come home at all ([[lore-twelfthloss|The Loss of the Twelfth]]), and the centuries sing it last and quietly, on the road west, when the Cervaron is in sight. A Êthôrlûsândôs learns in his first month on the march to find something to look at on the far side of the road while they sing it.
 
 The recruits learn the song before they learn the oath. The text below is the song as the first cohort sings it on the road, the call set flush and the answer set in.
 
@@ -134,7 +134,7 @@ Old Grêtalis went into the city with the band on his shoulder,
 They gave him his bread and they gave him his room in the Warrens,
   and he sat in the window and counted the smoke.
 
-Where is the Fourth's eagle? In the shrine at Tyrellan.
+Where is the Fourth's eagle? In the shrine at Tirellan.
   Who carries it now? Nobody carries.
 The eagle came home, and the roll had no name for it.
   The eagle came home, and nobody was in.

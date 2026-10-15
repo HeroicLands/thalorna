@@ -13,7 +13,7 @@ shipping. In the **northwest** it opens.
 
 The **Gulf of Batáren** is a broad, deep, sheltered bay biting inland from the cold ocean, and it is
 the single reason Provènzia has any real presence on that water at all. Where
-[[place-volsather|Volsathèr]] down the coast in [[place-zuravlenrgn|Zûravlen]] is a notch in a cliff
+[[place-volsather|Volsathèr]] down the coast in [[place-zuravlenrgn|Zuravlèn]] is a notch in a cliff
 that is unusable forty days a year, the Gulf is a proper harbor in any weather, with holding ground
 and room for a fleet.
 

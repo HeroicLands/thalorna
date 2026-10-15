@@ -14,7 +14,7 @@ data:
   culture: elavendriclt
 ---
 
-Where the envoys' road to [[place-eshalshldg|Eshálosha Lodge]] skirts the outer margin of the [[place-silvrfrsts|Silver Forests]], a long ring of standing stones runs through the trees on the uphill side of the road. The stones are waist-high, gray and grown with moss, and each is cut on its outward face with the same mark, a closed line with a single gap. Some are banded round the top with silver. The ring is too wide to see across: it encloses a fold of silver-barked wood, a stream, and a clearing at its heart that the moon finds when it finds nothing else. The [[lore-aelendnppl|Áelendan]] call it _Pálmirno_, a ring of standing stones, and the [[affiliation-alndnwrdns|Wardens]] call it the **Hunter's Ring** when they speak of it to anyone else.
+Where the envoys' road to [[place-eshalshldg|Ésalosa Lodge]] skirts the outer margin of the [[place-silvrfrsts|Silver Forests]], a long ring of standing stones runs through the trees on the uphill side of the road. The stones are waist-high, gray and grown with moss, and each is cut on its outward face with the same mark, a closed line with a single gap. Some are banded round the top with silver. The ring is too wide to see across: it encloses a fold of silver-barked wood, a stream, and a clearing at its heart that the moon finds when it finds nothing else. The [[lore-aelendnppl|Áelendan]] call it _Pálmirno_, a ring of standing stones, and the [[affiliation-alndnwrdns|Wardens]] call it the **Hunter's Ring** when they speak of it to anyone else.
 
 ## The Hunter
 
@@ -30,7 +30,7 @@ The hunter has no words of its own. It says only what its prey said while it liv
 
 :::
 
-The keepers' carvings and the Wardens' song both put a great tree at the ring's heart with figures hanging in its branches. The charcoal-burners of [[place-sourimael|Sóurimael]] say that what the hunter takes it carries there, and that some of what hangs in the tree is still alive.
+The keepers' carvings and the Wardens' song both put a great tree at the ring's heart with figures hanging in its branches. The charcoal-burners of [[place-sourimael|Sóurimel]] say that what the hunter takes it carries there, and that some of what hangs in the tree is still alive.
 
 :::secret {title="The hanging tree"}
 The telling is true. The lower branches of the tree in the clearing are woven into cradles of bough and bark, and the taken hang in them, some living and silent, some dead, the oldest dry. The roots below are crowded with bones and with gear rotted to scraps, some of it still sound.
@@ -59,7 +59,7 @@ Silver is the usual reason a stone falls. The bands round the stones' heads are 
 ## Who Knows, and What They Say
 
 - **The Wardens** of the Silver Forests know the ring, its rule and its songs, and keep the songs' last verses to themselves. They escort travelers along the road below it and do not let them stop.
-- **Sóurimael** tells its children that the deer in the stone ring belong to someone. Its charcoal-burners leave the road a mile short of the lodge and rejoin it a mile past.
+- **Sóurimel** tells its children that the deer in the stone ring belong to someone. Its charcoal-burners leave the road a mile short of the lodge and rejoin it a mile past.
 - **Poachers out of the lowland** know the lodge as a good camp with fat deer near it and a run of bad luck that nobody explains.
 - **The Bardic Colleges** have a song of a man followed home from the wood by his brother's voice. It is sung without its last verse.
 
@@ -69,14 +69,14 @@ The ring lies a day's walk along the envoys' road from the last lowland steading
 
 ## Hooks
 
-- **The envoy and the casket.** An envoy carrying a sealed casket to Eshálosha is missing on the road beside the ring, and a Warden needs companions to look for him.
-- **Silver on the stones.** A fence in [[place-beravel|Béravel]] has bought silver bands of an old pattern from a band of poachers and wants more.
+- **The envoy and the casket.** An envoy carrying a sealed casket to Ésalosa is missing on the road beside the ring, and a Warden needs companions to look for him.
+- **Silver on the stones.** A fence in [[place-beravel|Péravel]] has bought silver bands of an old pattern from a band of poachers and wants more.
 - **A brother's voice.** A charcoal-burner's son walked toward his dead brother's voice one dusk and has not come back.
 
 ## See Also
 
 - [[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]—a scenario set here
-- [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimael]] · [[place-eshalshldg|Eshálosha Lodge]]
+- [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimel]] · [[place-eshalshldg|Ésalosa Lodge]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—who walk the ring's outside
 - [[lore-faecourts|The Fae Courts]] · [[lore-theasking|The Asking]]
 
@@ -86,7 +86,7 @@ The ring lies a day's walk along the envoys' road from the last lowland steading
 
 **The last verses.** The verses the Wardens keep to themselves are the ring's law as the Wardens use it. One who sheds kin-blood or Warden-blood on Warden ground, and is taken alive, is walked into the ring at dusk and left alone there, and the stones are the judgment. The Bardic Colleges' song of the man followed home by his brother's voice ends, in its unsung verse, with the brother's voice saying who killed him.
 
-**The stones now.** A band of lowland poachers under **Véndrik Óthral** robbed the envoy **Dévrik Véldarin** on the road below the ring at dusk, three days before the Warden Sírgana comes looking, and took the silver casket he carried for the great council at Eshálosha. The envoy's escort, the Warden **Ástheren**, put an arrow into one of them, **Nórven Hálren**, in the fight. The band fled uphill through the ring, prying the silver bands off the stones as it went, and four stones lie overturned in a line where it passed. With the line open, the paths around the ring fold inward, and the hunter walks as far down as the road. The sack of pried bands is in the lodge; without the bands a set stone stands unbanded, and the carvings show every stone banded.
+**The stones now.** A band of lowland poachers under **Véndrik Óthral** robbed the envoy **Dévrik Véldarin** on the road below the ring at dusk, three days before the Warden Sírgana comes looking, and took the silver casket he carried for the great council at Ésalosa. The envoy's escort, the Warden **Ástheren**, put an arrow into one of them, **Nórven Hálren**, in the fight. The band fled uphill through the ring, prying the silver bands off the stones as it went, and four stones lie overturned in a line where it passed. With the line open, the paths around the ring fold inward, and the hunter walks as far down as the road. The sack of pried bands is in the lodge; without the bands a set stone stands unbanded, and the carvings show every stone banded.
 
 **The band.** The first night a poacher named **Tórlan** stepped away from the band's fire and was taken. The band split: Véndrik and the rest went deeper into the ring with the casket, and Nórven, wounded, held the lodge with the sack of silver. The hunter has taken the band one by one since. Véndrik's pack and the casket hang three branches up in the tree in the clearing; two of the thieves hang below them, one alive.
 

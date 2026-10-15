@@ -1,6 +1,6 @@
 ---
 shortcode: kdmrshrrds
-name: {full: Kadméros Hârôrdîs, aliases: []}
+name: {full: Kadmeros Hârôrdîs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Kadméros Hârôrdîs is a 38-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round dark brown eyes sit beneath arched brows, lending him a candid gaze. An aquiline nose and wide lips complete his features. He has olive skin with a smooth complexion. His auburn hair is kept practical and short.
+Kadmeros Hârôrdîs is a 38-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round dark brown eyes sit beneath arched brows, lending him a candid gaze. An aquiline nose and wide lips complete his features. He has olive skin with a smooth complexion. His auburn hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kadméros Hârôrdîs came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kadmeros Hârôrdîs came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
-Kadméros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his carvings and quality craftsmanship, Kadméros is proud of his trade, though he often struggles to find steady customers in a small community.
+Kadmeros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his carvings and quality craftsmanship, Kadmeros is proud of his trade, though he often struggles to find steady customers in a small community.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Has difficulty finding customers beyond his village, struggles with pricing his 
 
 ### Motivation
 
-Kadméros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
+Kadmeros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Skilled in woodworking, detailed carving, and finishing techniques.
 
 ## Social
 
-Kadméros is affiliated with None; works independently in his family workshop.
+Kadmeros is affiliated with None; works independently in his family workshop.
 
-As a Vylarian woodcrafter, Kadméros occupies a recognized social niche within Vylaria society.
+As a Vylarian woodcrafter, Kadmeros occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Kadméros's primary patron is Local villagers and travelers who appreciate handmade wooden items. This relationship provides both opportunity and obligation.
+Kadmeros's primary patron is Local villagers and travelers who appreciate handmade wooden items. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ None; he is generally well-liked.
 
 ## Plot Hooks
 
-1. **The Woodcrafter's Dilemma**—Kadméros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Woodcrafter's Dilemma**—Kadmeros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—None; he is generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Kadméros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Kadmeros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kadméros depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kadmeros depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Kadméros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kadmeros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

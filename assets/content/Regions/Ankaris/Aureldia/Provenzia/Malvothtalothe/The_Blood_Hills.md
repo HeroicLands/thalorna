@@ -1,9 +1,9 @@
 ---
 shortcode: bloodhills
-name: {full: The Blood Hills, aliases: [Céravel's Blood Hills]}
+name: {full: The Blood Hills, aliases: [Keravèl's Blood Hills]}
 type: place
 subType: site
-description: "The blood-field east of Céravel where the Black Flame and the Knights of the Sacred Forge fought about 248 AF, a dread that returns the unease of a line that knew it was losing."
+description: "The blood-field east of Keravèl where the Black Flame and the Knights of the Sacred Forge fought about 248 AF, a dread that returns the unease of a line that knew it was losing."
 tags: [hill, haunted]
 data:
   demonym: null
@@ -13,7 +13,7 @@ data:
   packFolder: provenzia
 ---
 
-East of [[place-belsaren|Bélsaren]], the hills rise in long bare ridges grazed by nobody. Céravel's shepherds drive their flocks the long way round them, and the road that skirts the foot of the slope is one the Twinblade Order holds.
+East of [[place-belsaren|Belsarèn]], the hills rise in long bare ridges grazed by nobody. Keravèl's shepherds drive their flocks the long way round them, and the road that skirts the foot of the slope is one the Twinblade Order holds.
 
 ## The Field
 
@@ -23,7 +23,7 @@ The field is moderately thin. A traveler who lingers on the ridges feels ranks d
 
 ## How the Place Is Treated
 
-Céravel's shepherds do not graze it. The Knights of the Forge keep a vigil at the foot of the slope on the night of the battle, and the Twinblades hold the road beside it, as they hold a threshold at a few battlefields, to guard it and not to keep it. The Black Flame keeps the shrine. No rite of settlement has been performed here, because the priests of [[affiliation-selmoros|Sélmoros]] will not go where the Black Flame keeps a shrine.
+Keravèl's shepherds do not graze it. The Knights of the Forge keep a vigil at the foot of the slope on the night of the battle, and the Twinblades hold the road beside it, as they hold a threshold at a few battlefields, to guard it and not to keep it. The Black Flame keeps the shrine. No rite of settlement has been performed here, because the priests of [[affiliation-selmoros|Sélmoros]] will not go where the Black Flame keeps a shrine.
 
 ## Who Goes
 
@@ -33,7 +33,7 @@ Céravel's shepherds do not graze it. The Knights of the Forge keep a vigil at t
 
 ## Hooks
 
-- **The bandits' ground.** The outlaws of Céravel Vale shelter in the hills. A party sent after them must decide whether to follow.
+- **The bandits' ground.** The outlaws of Keravèl Vale shelter in the hills. A party sent after them must decide whether to follow.
 - **The second vigil.** A Forge knight keeping the battle-night vigil is joined by something that keeps it with him. He asks for another knight to stand beside him.
 - **The maul.** Someone has found a way through the cave's traps without the blood the first gate demands.
 
@@ -41,5 +41,5 @@ Céravel's shepherds do not graze it. The Knights of the Forge keep a vigil at t
 
 - [[lore-bloodhillsbtl|The Battle of the Blood Hills]]—the battle that made it
 - [[scenario-maulgashng|The Maul of Gashang]]—the relic the cave keeps
-- [[place-ceravelvale|Céravel Vale]]
+- [[place-ceravelvale|Keravèl Vale]]
 - [[lore-bloodfield|Blood-fields]]—what a dread is

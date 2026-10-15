@@ -141,7 +141,7 @@ name or an endonym that someone in the setting uses. It is never a respelling
 of the full name or a fragment of it.
 
 - A respelling is unnecessary. Resolution folds case, diacritics and a leading
-  article, so `Cardeth` already finds `Cárdeth` and `Sons of Eldheim` already
+  article, so `Kardeth` already finds `Kárdeth` and `Sons of Eldheim` already
   finds `The Sons of Eldheim`. A singular or plural of the full name is a
   respelling too.
 - A word of the full name is found by the editor's completion and the content

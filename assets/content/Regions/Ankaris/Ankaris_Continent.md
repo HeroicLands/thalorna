@@ -87,5 +87,5 @@ Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Xerathia]]: th
 - [[place-jenchairgn|Jénchài Region]]—Eastern island empire
 - [[affiliation-vylarinmpr|Vylarian Empire]]—The declining western empire
 - [[place-vylarianse|Vylarian Sea]]—The southern inland sea
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—Dominant western arcane institution
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—Dominant western arcane institution
 - [[lore-pnthnrgnlmp|Pantheon Regional Map]]—Where each pantheon holds sway

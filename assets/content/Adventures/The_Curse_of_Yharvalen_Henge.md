@@ -40,7 +40,7 @@ The party becomes aware of the curse through:
 - Local people remember old stories of the henge's destruction and the curse that followed
 - Some blame a returning [[affiliation-kngdmnrdhm|Nordheim curse]]; others suspect dark magic
 - Ancient records mention pre-Aurèldían traditions and forces bound to the henge
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] has shown unusual interest in the region
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] has shown unusual interest in the region
 
 **NPCs:**
 
@@ -76,13 +76,13 @@ The party investigates the blight's source and discovers the Cult of the Black F
 - Weakening the kingdom to seize power from within
 - Drawing power from destruction and death to fuel their corrupted fire-god's influence
 - Preparing for a larger ritual or summoning
-- Some members may have foreign connections—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Ordo Arcanis]]—but the cult's roots are Provenzian
+- Some members may have foreign connections—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Thôrdimâlon]]—but the cult's roots are Provenzian
 
 **Complications:**
 
 - The cult has members in positions of authority (nobles, priests, merchants)
 - The party is recognized as a threat and becomes a target for assassination or sabotage
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] may be investigating the site for their own purposes (cooperation or conflict)
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] may be investigating the site for their own purposes (cooperation or conflict)
 - The blight spreads faster as the cult accelerates their ritual schedule
 - A party member is revealed to have a connection to or be compromised by the cult
 
@@ -104,7 +104,7 @@ The party approaches Yhârvalen Henge and enters the cursed land:
 - Manifestations of the curse itself: twisted creatures, spectral soldiers from the ancient destruction
 - The remnants of those slain in the Nordheim raids (restless spirits, undead)
 - Cult guardian constructs or summoned entities
-- A rival faction or the [[affiliation-ordoarcanis|Ordo Arcanis]] investigating the site
+- A rival faction or the [[affiliation-ordoarcanis|Thôrdimâlon]] investigating the site
 
 ### Stage Four: Confronting the Cult
 
@@ -149,7 +149,7 @@ The party must locate and stop the Cult of the Black Flame's activities:
 - Some cult members escape and seek revenge
 - The curse's effects linger for years; complete recovery takes time
 - Surviving cult members may seek refuge with foreign powers sympathetic to their cause
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] may attempt to monopolize knowledge of the site or claim authority over the remaining curse
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] may attempt to monopolize knowledge of the site or claim authority over the remaining curse
 - If the party failed to uncover all cult cells, the group may continue their work elsewhere
 - The party may be drawn into larger conflicts over arcane power and religious corruption in [[place-provenzrgn|Provènzia Region]]
 
@@ -168,4 +168,4 @@ The party must locate and stop the Cult of the Black Flame's activities:
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]

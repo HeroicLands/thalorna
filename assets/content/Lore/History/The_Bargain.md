@@ -42,7 +42,7 @@ data:
           withholds: the terms, the object held, and the debt outstanding
         - by: affiliation-ordoarcanis
           says: >-
-            Nothing. The records for this stretch are missing, and what the Ordo holds of the Republic's arcane property is not a subject on which it corresponds.
+            Nothing. The records for this stretch are missing, and what the Arcane Order holds of the Republic's arcane property is not a subject on which it corresponds.
           agrees: silent
         - by: place-helionis
           says: >-

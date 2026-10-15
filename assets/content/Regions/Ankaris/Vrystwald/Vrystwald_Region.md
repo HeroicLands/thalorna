@@ -317,7 +317,7 @@ The village's rites are its own, even when a visitor or a household member bring
 
 Legends tell of giants who once roamed these lands, and of great heroes whose spirits still protect the people. The deep forests are said to harbor ancient powers—fae creatures, elemental spirits, and the lingering echoes of whatever civilization left the crumbling ruins that dot the landscape. The Varokh's magical traditions are rooted in nature: herbalism, divination through natural signs, and communion with forest spirits.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] considers Vrystwald a lawless frontier and has made periodic attempts to extend its authority here, always with limited success. The Varokh view the Ordo as just another face of Vylarian imperial overreach.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] considers Vrystwald a lawless frontier and has made periodic attempts to extend its authority here, always with limited success. The Varokh view the Arcane Order as just another face of Vylarian imperial overreach.
 
 ## Relations
 

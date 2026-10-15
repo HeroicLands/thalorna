@@ -37,15 +37,15 @@ The Drenavar Spine contains many of the most significant sacred sites of the Áe
 
 The [[place-silvrfrsts|Silver Forests]] lie at the edge of the Drenavar range, in a transition zone where the mountains descend into the deepest forests of the interior.
 
-## [[place-eshalshldg|Eshálosha Lodge]]
+## [[place-eshalshldg|Ésalosa Lodge]]
 
-[[place-eshalshldg|Eshálosha Lodge]]—the principal settlement of the Áelendan and the center of their political and ceremonial life—is located in a sheltered valley within the Drenavar range. The Lodge is the seat of the tribal councils and the traditional gathering place for seasonal ceremonies.
+[[place-eshalshldg|Ésalosa Lodge]]—the principal settlement of the Áelendan and the center of their political and ceremonial life—is located in a sheltered valley within the Drenavar range. The Lodge is the seat of the tribal councils and the traditional gathering place for seasonal ceremonies.
 
 ## Access and Restrictions
 
 Access to the Drenavar is governed by Áelendan custom and enforced by the Wardens. The lower approaches—the foothills and the outer valleys—are open to lowland travelers who behave respectfully, and Áelendan communities at the edge of their territory engage in limited trade and occasional hospitality with visitors. The deeper mountains are sacred territory, and entry requires Áelendan invitation or clear sanction from a tribal elder.
 
-Trespassers who venture into sacred territory are warned once and escorted out. Those who persist, who return uninvited, or who desecrate a site are dealt with according to the Wardens' graduated doctrine of response (see [[affiliation-alndnwrdns|Áelendan Wardens]]). In recent decades, [[affiliation-ordoarcanis|Ordo Arcanis]] agents have increasingly attempted to conduct clandestine research in the Drenavar range, with consequences that have become the subject of considerable private frustration within the Ordo.
+Trespassers who venture into sacred territory are warned once and escorted out. Those who persist, who return uninvited, or who desecrate a site are dealt with according to the Wardens' graduated doctrine of response (see [[affiliation-alndnwrdns|Áelendan Wardens]]). In recent decades, [[affiliation-ordoarcanis|Thôrdimâlon]] agents have increasingly attempted to conduct clandestine research in the Drenavar range, with consequences that have become the subject of considerable private frustration within the Arcane Order.
 
 ## Relations with the Crown
 
@@ -55,7 +55,7 @@ The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar S
 
 - [[lore-aelendnppl|Áelendan]]—The people who inhabit and protect the mountains
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that patrols the sacred sites
-- [[place-eshalshldg|Eshálosha Lodge]]—The principal Áelendan settlement
+- [[place-eshalshldg|Ésalosa Lodge]]—The principal Áelendan settlement
 - [[place-silvrfrsts|The Silver Forests]]—The fae-touched woodland at the mountains' edge
 - [[place-elavendre|Élavendre]]—The kingdom whose interior contains the Drenavar
 - [[place-vylariargn#the-cervaron-spine|The Cervaron Spine]]—The contested eastern arm of the same Áelendan sacred uplift

@@ -1,9 +1,9 @@
 ---
 shortcode: auliranekard
-name: {full: Áuliranë Kárdeth, aliases: [Lady Áuliranë of Cárdeth, Lady Áuliranë]}
+name: {full: Áuliranë Kárdeth, aliases: [Lady Áuliranë of Kárdeth, Lady Áuliranë]}
 type: being
 subType: npc
-description: A young noblewoman of Áelendan ancestry who holds the noble seat of Cárdeth near Liranel, and who seeks out Bélrik Fálwyn for discreet remedies.
+description: A young noblewoman of Áelendan ancestry who holds the noble seat of Kárdeth near Liranel, and who seeks out Mélrik Sálvin for discreet remedies.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Áuliranë Kárdeth is a young noblewoman of Áelendan ancestry who holds the noble seat of Cárdeth near Liranel. She is intelligent and ambitious, and she seeks out the alchemist [[being-belrkflwyn|Bélrik Fálwyn]] for discreet remedies.
+Áuliranë Kárdeth is a young noblewoman of Áelendan ancestry who holds the noble seat of Kárdeth near Liranel. She is intelligent and ambitious, and she seeks out the alchemist [[being-belrkflwyn|Mélrik Sálvin]] for discreet remedies.

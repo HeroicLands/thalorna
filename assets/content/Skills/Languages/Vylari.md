@@ -3,7 +3,7 @@ shortcode: vylarilng
 name: {full: Vylari Language, aliases: []}
 type: skill
 subType: language
-description: "The imperial tongue of the Vylarian court and the language of law, scholarship and treaty across western Ankaris."
+description: "The imperial tongue of the Vylarian court and, as the Vylarians hold it, the language of learning, government, the arcane and the university system in the empire and the lands that look to it."
 tags: []
 data:
   icon: icon-speaking
@@ -139,7 +139,7 @@ sohl:
 
 Vylari is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of Mídhalión, spoken in the great cities of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]. It is also the language of law, scholarship and treaty across western Ankaris: the educated of every western realm learn it, and a scholar of Dúnavarre writes to a magistrate of Provenzia in Vylari, whatever each speaks at home.
+Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of Mídhalión, spoken in the great cities of [[place-alyssa|Alêssâ]], [[place-hylen|Hilen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûn]]. The Vylarians hold it to be the language of learning, government, the arcane and the university system, and the Arcane Order and the schools of the Plûmepistémion work in it. In the empire and the lands that look to it the educated learn it, and a scholar of Dúnavarre writes to a magistrate of Provenzia in Vylari, whatever each speaks at home. The Khelâthi do not accept the claim. Vylarian learning began in Heliónis, where the Republic's scholars studied; after the conquest of 335 to 312 BF the schools came under Vylarian structures, which changed the institutions though not their names.
 
 ## Overview
 
@@ -149,9 +149,9 @@ The language also carries the empire's order in its grammar. Ancient Vylari had 
 
 ## Two Stages
 
-**Ancient Vylari** is the scholars' name for the speech the Pelwar carried west in the [[lore-pelwarmigr|Migration]]: strict in its rules, rich in forms, with seven cases and a vocative, three numbers, four genders, a wishing mood and a full middle voice. It survives in the oldest [[skill-thrvrknscrpt|Thâravárkon]] inscriptions and in the tongues descended from it, and the ritual speech of Nartûm is the nearest thing to it still spoken.
+**Ancient Vylari** is the scholars' name for the speech the Pelwar carried west in the [[lore-pelwarmigr|Migration]]: strict in its rules, rich in forms, with seven cases and a vocative, three numbers, four genders, a wishing mood and a full middle voice. It survives in the oldest [[skill-thrvrknscrpt|Thâravarkon]] inscriptions and in the tongues descended from it, and the ritual speech of Nartûn is the nearest thing to it still spoken.
 
-**Imperial Vylari** is the empire's speech today. In the street it has loosened: the dual and the locative are gone except in fixed phrases and place names, the wishing mood survives only in oaths and blessings, unstressed long vowels are said short, and prepositions creep in where the endings used to serve. **High Vylari**, the register of the Senate, the law courts, the temples, the arcane charters and formal oratory, keeps the ancient endings in use. A magistrate pronouncing sentence, a priest consecrating an altar and a senator moving a vote all speak it, and an educated Vylarian can move between the two registers inside one sentence for effect.
+**Imperial Vylari** is the empire's speech today. In the street it has loosened: the dual and the locative are gone except in fixed phrases and place names, the wishing mood survives only in oaths and blessings, unstressed long vowels are said short, and prepositions creep in where the endings used to serve. **High Vylari**, the register of the Senate, the law courts, the temples, the arcane charters and formal oratory, keeps the ancient endings in use. A magistrate pronouncing sentence, a priest consecrating an altar and a _kurthândôs_ (senator) moving a vote all speak it, and an educated Vylarian can move between the two registers inside one sentence for effect.
 
 |         | Ancient Vylari                                                         | Imperial Vylari                                                        |
 | ------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -160,14 +160,14 @@ The language also carries the empire's order in its grammar. Ancient Vylari had 
 | Cases   | nominative, vocative, accusative, genitive, dative, ablative, locative | the same in High Vylari; the locative only in place names in speech    |
 | Moods   | indicative, subjunctive, wishing (optative), imperative                | the wishing mood only in oaths and blessings                           |
 | Voice   | active and a full middle                                               | active and passive; middle-only verbs left as deponents                |
-| Article | none; the three pointing words do the work                             | none in High Vylari; spoken Alyssa wears the "yonder" word down to one |
+| Article | none; the three pointing words do the work                             | none in High Vylari; spoken Alêssâ wears the "yonder" word down to one |
 | Stops   | plain, breathed and clicked                                            | plain and breathed                                                     |
 
 ## Phonology
 
 **Consonants.** Imperial Vylari has the stops _p t k b d g_, the same stops with a breath after them (_ph th kh_, never said as _f_ or as in _thin_), the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, _x_ for _k_ and _s_ together, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vylari had a third series of stops closed hard in the throat and released with a click (_t' k' d' g'_), voiced stops with a breath after them (_dh gh_), and _w_; four sound changes turned it into the imperial system, and the [[doc-vylarilexcn|Vylari Lexicon]] sets them out.
 
-**Vowels.** Five vowels, _a e i o u_, each short or long; the romanization writes a long vowel with a circumflex. The [[skill-semrnscrpt|Sêmarion]] does not mark length in ordinary writing, and the grammar depends on it: a class I noun's nominative and ablative differ only in the length of the last vowel, so a poet can leave a word hovering between two readings on the page. Four diphthongs: _ai au ei oi_.
+**Vowels.** Five vowels, _a e i o u_, each short or long; the romanization writes a long vowel with a circumflex. The [[skill-semrnscrpt|Sêmarôn]] does not mark length in ordinary writing, and the grammar depends on it: a class I noun's nominative and ablative differ only in the length of the last vowel, so a poet can leave a word hovering between two readings on the page. Four diphthongs: _ai au ei oi_.
 
 **Words.** A word opens on a vowel, one consonant, or a stop followed by _l_ or _r_; it closes on a vowel or on _s n r l x_. No more than three consonants stand together.
 
@@ -370,9 +370,9 @@ Because the endings settle who did what, the order of words is free for emphasis
 
 ## Script & Literacy
 
-Vylari employs the [[skill-semrnscrpt|Sêmarion]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small bar over a long vowel where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
+Vylari employs the [[skill-semrnscrpt|Sêmarôn]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small bar over a long vowel where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
 
-An older runic form, [[skill-thrvrknscrpt|Thâravárkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names, and they write every sound of ancient Vylari, the clicked stops among them.
+An older runic form, [[skill-thrvrknscrpt|Thâravarkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names, and they write every sound of ancient Vylari, the clicked stops among them.
 
 ## Historical Development
 
@@ -384,17 +384,17 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 **High Vylari:** The formal register of law, liturgy, the Senate and literature, taught in the schools. It keeps every ancient ending except the dual and holds every long vowel at its full length.
 
-**Alyssa Dialect:** The quick, clipped speech of the greatest port. It shortens unstressed vowels, prefers prepositions to the rarer cases, puts the verb wherever it likes, and wears the "yonder" word down to a bare _a'_ before a noun, so that _a' thelmôs_ means simply "the client". High Vylari has no article, and a schoolmaster who hears _a'_ in his classroom corrects it.
+**Alêssâ Dialect:** The quick, clipped speech of the greatest port. It shortens unstressed vowels, prefers prepositions to the rarer cases, puts the verb wherever it likes, and wears the "yonder" word down to a bare _a'_ before a noun, so that _a' thelmôs_ means simply "the client". High Vylari has no article, and a schoolmaster who hears _a'_ in his classroom corrects it.
 
-**Hylen Lowland Dialect:** Says _th_ as _s_ and shortens long vowels everywhere, not only where they are unstressed. It keeps old verb forms the capital has lost, the past in progress among them, and its farmers still use the dual of oxen and of hands.
+**Hilen Lowland Dialect:** Says _th_ as _s_ and shortens long vowels everywhere, not only where they are unstressed. It keeps old verb forms the capital has lost, the past in progress among them, and its farmers still use the dual of oxen and of hands.
 
-**Nartûm Ritual Dialect:** The speech of every rite in the Holy Kingdom of Nartûm, deliberately kept by its priesthoods. It still declines nouns in four genders, the hallowed among them, still uses the dual and the wishing mood, and still says the breathed voiced stops that imperial Vylari lost. It is the nearest living thing to ancient Vylari.
+**Nartûn Ritual Dialect:** The speech of every rite in the Holy Kingdom of Nartûn, deliberately kept by its priesthoods. It still declines nouns in four genders, the hallowed among them, still uses the dual and the wishing mood, and still says the breathed voiced stops that imperial Vylari lost. It is the nearest living thing to ancient Vylari.
 
 ## Sample Phrases
 
 - **"Ulthândoi ôkhointôr dênon zaron, ul kalmêtharên."**—"May the gods see this oath, and the ancestors." (High Vylari: the opening of a sworn oath, in the wishing mood.)
 - **"Daimêla, ôrphênâmên."**—"Patron, I am in your debt." (The client's greeting at the morning call; no pronoun, since saying "I" aloud would be forward.)
-- **"A' thelmôs lôkhâtôr; a' daimêlâ phâlvâtôr."**—"The client's come; the patron's out." (Alyssa street speech, with the worn-down article.)
+- **"A' thelmôs lôkhâtôr; a' daimêlâ phâlvâtôr."**—"The client's come; the patron's out." (Alêssâ street speech, with the worn-down article.)
 - **"Hûmelthândar yâretôr."**—"It is resting." (Said of a ruin, with a straight face.)
 - **"Thêson!"**—"That thing of yours!" (A free person named in the neuter: the gravest insult the grammar allows.)
 

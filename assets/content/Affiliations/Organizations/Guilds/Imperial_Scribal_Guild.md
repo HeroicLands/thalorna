@@ -25,15 +25,15 @@ data:
       - level: 1
         title: Probationer
         description: >-
-          Scriba probandus—a student in training at a chapterhouse, not authorized to seal independently.
+          Thîlyûnâkhôs—a student in training at a chapterhouse, not authorized to seal independently.
       - level: 2
         title: Scribe
         description: >-
-          Scriba—qualified after the seven-year course, permitted to seal routine documents under the supervision of a master.
+          Thîlândôs—qualified after the seven-year course, permitted to seal routine documents under the supervision of a master.
       - level: 3
         title: Master Scribe
         description: >-
-          Magister scribarum—examined, permitted to seal all civilian documents independently and to supervise junior scribes.
+          Thîlgârtândôs—examined, permitted to seal all civilian documents independently and to supervise junior scribes.
       - level: 4
         title: Guildmaster
         description: >-
@@ -41,7 +41,7 @@ data:
       - level: 5
         title: High Hand
         description: >-
-          Manus prima—the Guild's chair, one position, held for life or until resignation.
+          Hôldêkhazû—the Guild's chair, one position, held for life or until resignation.
     offices: {}
   seat: null
   population: null
@@ -60,9 +60,9 @@ The Imperial Scribal Guild is the institution that makes Vylaria possible. The [
 
 Its central hall stands in [[place-orzara|Ôrzâra]], with a chapterhouse in every provincial capital. The Guild was chartered in the Empire's first century, has held custody of the imperial archive since 318, and was re-chartered by imperial edict in the eighty-third year of the present dynasty (about 489 AF); the charter has been renewed and expanded twice since. The Guild is a founding member of the [[affiliation-tevran|Tevran Maldor]], and its High Hand holds an ex officio seat on the Tevran's Council of the Tevran.
 
-If the [[affiliation-ordoarcanis|Ordo Arcanis]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vylarian court as an Ordo mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
+If the [[affiliation-ordoarcanis|Thôrdimâlon]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vylarian court as an Arcane Order mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
 
-The Guild's power is structural, not coercive. It raises no troops, hears no cases and governs nothing directly. Yet every provincial governor, every magistrate and every legion paymaster depends on its scribes to make his orders enforceable, and over the centuries the Guild has made itself irreplaceable to all of them.
+The Guild's power is structural, not coercive. It raises no troops, hears no cases and governs nothing directly. Yet every provincial _thêrkhôs_ (governor), every magistrate and every legion paymaster depends on its scribes to make his orders enforceable, and over the centuries the Guild has made itself irreplaceable to all of them.
 
 ## Membership and Structure
 
@@ -70,11 +70,11 @@ Membership is by examination, taken at the end of a seven-year course at one of 
 
 A scribe climbs five ranks:
 
-- **Probationer** (_scriba probandus_)—a student in training; not authorized to seal independently.
-- **Scribe** (_scriba_)—qualified; permitted to seal routine documents under the supervision of a master.
-- **Master Scribe** (_magister scribarum_)—examined; permitted to seal all civilian documents independently and to supervise junior scribes.
+- **Probationer** (_thîlyûnâkhôs_)—a student in training; not authorized to seal independently.
+- **Scribe** (_thîlândôs_)—qualified; permitted to seal routine documents under the supervision of a master.
+- **Master Scribe** (_thîlgârtândôs_)—examined; permitted to seal all civilian documents independently and to supervise junior scribes.
 - **Guildmaster**—promoted by senior vote; permitted to seal imperial edicts and to sit on the Council of the Guild.
-- **High Hand** (_manus prima_)—the Guild's chair; one position, held for life or until resignation.
+- **High Hand** (_hôldêkhazû_)—the Guild's chair; one position, held for life or until resignation.
 
 A scribe whose license is revoked for proven misconduct loses the right to seal, which ends the career.
 
@@ -82,12 +82,12 @@ The current High Hand is **Iulia Verronius**, the seventh of her line to hold se
 
 ## Notable Members
 
-- [[being-ailemkrmys|Ailêmâ Keriamyes]]—a Guildmaster since the age of twenty-two and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
+- [[being-ailemkrmys|Ailêmâ Kêrâmyês]]—a Guildmaster since the age of twenty-two and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
 - **Iulia Verronius**—the High Hand, presiding over the Guild's response to growing pressure from imperial authorities to streamline procedures the Guild considers essential.
 
 ## Doctrine and Practice
 
-The Guild holds that documentary authority comes from procedural integrity, and that procedure must be defended hard against the constant pull of convenience. A document sealed by a properly trained scribe under properly observed procedure is trustworthy by definition; one produced by cutting corners is suspect by definition. Impatient governors and frustrated military commanders offer the same argument endlessly, that the procedure can be relaxed because the document is too important to delay, and the Guild does not accept it.
+The Guild holds that documentary authority comes from procedural integrity, and that procedure must be defended hard against the constant pull of convenience. A document sealed by a properly trained scribe under properly observed procedure is trustworthy by definition; one produced by cutting corners is suspect by definition. Impatient _thêrkhoi_ and frustrated military commanders offer the same argument endlessly, that the procedure can be relaxed because the document is too important to delay, and the Guild does not accept it.
 
 In practice the Guild loses these arguments often enough to make its members cynical and wins them often enough to keep the system from collapsing. Its senior leaders know that the empire's documentary apparatus is older and more fragile than its imperial sponsors understand. A forged edict acted on, a tax roll found to be wholesale fabrication or a treaty proved to bear a counterfeit seal would be a crisis of trust that the apparatus might not survive.
 
@@ -102,9 +102,9 @@ In practice the Guild loses these arguments often enough to make its members cyn
 ## Relations
 
 - **The imperial administration** is patron, client and constant counterparty. The relationship is symbiotic and tense.
-- **The [[affiliation-tevran|Tevran Maldor]]** is the umbrella body under which the Guild holds its standing throughout the Vylarian-influenced world. The High Hand's seat on the Council of the Tevran makes the Guild one of the weightiest single members. Its procedural conservatism suits the Tevran's Censors, and the two institutions work closely on credential fraud and forgery prosecutions.
-- **The [[affiliation-ordoarcanis|Ordo Arcanis]]** cooperates formally. Ordo-trained scribes produce the Ordo's own internal documents under license from the Guild, an arrangement of careful parity between two institutions that each consider themselves senior.
-- **The [[affiliation-panepistmm|Panepistemium]]** is an academic friend. Many senior scribes are also associates of the Epistemium (the accepted short form of the Panepistemium), which lends the Guild much of its intellectual prestige, and the Guild gives the Epistemium archival access.
+- **The [[affiliation-tevran|Tevran Maldor]]** is the umbrella body under which the Guild holds its standing throughout the Vylarian-influenced world. The High Hand's seat on the Council of the Tevran makes the Guild one of the weightiest single members. Its procedural conservatism suits the Tevran's _rôzimândoi_ (auditors), and the two institutions work closely on credential fraud and forgery prosecutions.
+- **The [[affiliation-ordoarcanis|Thôrdimâlon]]** cooperates formally. Arcane Order-trained scribes produce the Arcane Order's own internal documents under license from the Guild, an arrangement of careful parity between two institutions that each consider themselves senior.
+- **The [[affiliation-panepistmm|Plûmepistémion]]** is an academic friend. Many senior scribes are also associates of the Epistémion (the Academy) (the accepted short form of the Plûmepistémion (the Academy of Knowledge)), which lends the Guild much of its intellectual prestige, and the Guild gives the Epistémion archival access.
 - **The provincial chapterhouses** keep a chapterhouse-level autonomy that is constantly renegotiated. They chafe under Ôrzâra's procedural rulings, and Ôrzâra suspects, often correctly, that they bend the rules.
 
 ## Identifying Marks
@@ -115,5 +115,5 @@ Scribes wear a dark blue stole over their working clothes, plain for probationer
 
 - **The Forged Edict.** An imperial edict has been acted on in a provincial capital and proved, weeks later, to be a forgery. The seal is authentic, so the forgery began inside the Guild. The High Hand must find the compromised member without letting the empire learn that the Guild's procedures have been breached.
 - **The Lost Original.** The original of a critical fifty-year-old treaty cannot be found in the Ôrzâra archive. Both signatories' copies exist but differ on a material point, and until the original turns up (or is proved destroyed) enforcement is in limbo. Several powerful houses have a large interest in the outcome.
-- **The Reform Crisis.** A new Imperial Quaestor, frustrated by Guild delays, has authorized non-Guild scribes on his own authority to handle routine tax documentation in two provinces. The Guild treats this as an existential challenge. The Council must choose between a public confrontation that may force the Quaestor's recall and a tacit acceptance that weakens its monopoly.
+- **The Reform Crisis.** A new Imperial _Târkhêlândôs_ (treasury officer), frustrated by Guild delays, has authorized non-Guild scribes on his own authority to handle routine tax documentation in two provinces. The Guild treats this as an existential challenge. The Council must choose between a public confrontation that may force the _târkhêlândôs_'s recall and a tacit acceptance that weakens its monopoly.
 - **The Apprentice's Discovery.** A probationer at the Ôrzâra chapterhouse, copying old correspondence, notices a pattern of small alterations in one Guildmaster's dispatches going back twenty years. Taken together, the alterations would change the documented history of a war.

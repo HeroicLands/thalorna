@@ -3,13 +3,13 @@ shortcode: palnebris
 name: {full: Palnebrìs, aliases: []}
 type: place
 subType: settlement
-description: "The great orchard manor of Zûravlen's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
+description: "The great orchard manor of Zuravlèn's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
 tags: [village, hill]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 310, packFolder: provenzia}
 ---
 
 **Palnebrìs** holds the best of the upper terraces, and is the wealthiest manor in
-[[place-zuravlenrgn|Zûravlen]] and the most precarious. Nearly its whole demesne is under peach. In a
+[[place-zuravlenrgn|Zuravlèn]] and the most precarious. Nearly its whole demesne is under peach. In a
 good year its lord out-earns the baron; in a frost year he borrows, and everyone knows it.
 
 Use Palnebrìs as the model of a **manor run for a single high-value crop**.

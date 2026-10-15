@@ -399,7 +399,7 @@ Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate 
 
 Táldor Kálmereth is a fisher of Elanmere, the lake town at the foot of the Sórvanda mountains in [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the lake from his own boat for thirty years and keeps its observances.
 
-Táldor learned the lake from his father and works it alone from the small boat that was his: where the fish lie in each month, how the wind comes down off the snowfields, and where a net is put down and where it is not. The lake is deep, cold and clear, and the boatmen hold it to be inhabited; Táldor keeps the observances his father kept without ever having said why, and he has seen enough in thirty years on the water to go on keeping them. He sells his catch at the Elanmere market and, in autumn, to the Béravel factors who come up for the fair, and he gives away more than he sells. A family with a sick father or a dead one eats Kálmereth fish through the winter and is not asked for thanks.
+Táldor learned the lake from his father and works it alone from the small boat that was his: where the fish lie in each month, how the wind comes down off the snowfields, and where a net is put down and where it is not. The lake is deep, cold and clear, and the boatmen hold it to be inhabited; Táldor keeps the observances his father kept without ever having said why, and he has seen enough in thirty years on the water to go on keeping them. He sells his catch at the Elanmere market and, in autumn, to the Péravel factors who come up for the fair, and he gives away more than he sells. A family with a sick father or a dead one eats Kálmereth fish through the winter and is not asked for thanks.
 
 ## Psyche
 
@@ -423,7 +423,7 @@ Táldor belongs to no guild; what governs the boatmen of the lake is the observa
 
 ### Patrons
 
-Táldor's patrons are the market of Elanmere, which takes his catch fresh, and the Béravel factors who buy salted fish at the autumn fair.
+Táldor's patrons are the market of Elanmere, which takes his catch fresh, and the Péravel factors who buy salted fish at the autumn fair.
 
 ### Enemies
 
@@ -433,7 +433,7 @@ A younger fisher of the town who nets where the boatmen do not and has been luck
 
 1. **The Wrong Water**—The young fisher has put a net down over the deep hole under the eastern cliff, where nobody nets, and it has come up full. He means to go back, and the boatmen have asked Táldor to stop him.
 
-2. **The Fair**—The Béravel factors have offered Táldor a contract for salted fish that would keep him for the years his hands have left, if he will fish the lake as they want it fished.
+2. **The Fair**—The Péravel factors have offered Táldor a contract for salted fish that would keep him for the years his hands have left, if he will fish the lake as they want it fished.
 
 3. **The Lake**—Something has begun to take nets from the water in the night, whole, and leave the floats. The boatmen have stopped going out, and the town is hungry.
 

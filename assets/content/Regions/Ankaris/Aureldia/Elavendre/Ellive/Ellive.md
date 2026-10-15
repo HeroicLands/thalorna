@@ -3,7 +3,7 @@ shortcode: ellive
 name: {full: Éllivë, aliases: []}
 type: place
 subType: region
-description: "The heartland of Élavendre—the basin of the Bérav, holding Béravel, the University and the workshops where everything the kingdom is famous for is actually made."
+description: "The heartland of Élavendre—the basin of the Bérav, holding Péravel, the University and the workshops where everything the kingdom is famous for is actually made."
 tags: [region, river, inland]
 data:
   demonym: null
@@ -26,7 +26,7 @@ explanation of its character.
 
 The Bérav gathers out of the northwestern hills and runs southwest across the basin to the sea, and the
 country it waters is the best in the kingdom: deep soil, mild wet weather, and a river navigable well
-past [[place-beravel|Béravel]]. Between the river meadows stand the remnant oak and birch woods that
+past [[place-beravel|Péravel]]. Between the river meadows stand the remnant oak and birch woods that
 give Élavendre its reputation, kept as much for their beauty as their timber, and crossed by roads that
 noble houses have competed for four centuries to make picturesque.
 
@@ -43,18 +43,18 @@ noble houses have competed for four centuries to make picturesque.
   very little metal go very far—which is precisely why Élavendren work commands what it does.
 - **The book trade**, out of the University: copying, binding, translation and the sale of manuscripts,
   a business large enough to have its own guild and its own quarter.
-- **River carriage.** Everything from the marches comes down to the Bérav and out through Béravel.
+- **River carriage.** Everything from the marches comes down to the Bérav and out through Péravel.
 
 ## The Contest
 
-Éllivë is where the kingdom's central argument is conducted. The [[affiliation-ordoarcanis|Ordo Arcanis]] holds the University of Béravel—the largest [[affiliation-panepistmm|Panepistemium]] campus
+Éllivë is where the kingdom's central argument is conducted. The [[affiliation-ordoarcanis|Thôrdimâlon]] holds the University of Péravel—the largest [[affiliation-panepistmm|Plûmepistémion]] campus
 outside the Vylarian Empire—and the [[affiliation-bardicolgs|Bardic Colleges]], the Grove Council and
 the Áelendan tradition contest its authority over the kingdom's supernatural life. In Éllivë that
 contest is polite, institutional and conducted through patronage. Beyond it, it is not.
 
 ## Its Places
 
-- [[place-beravel|Béravel]]—the capital, fifteen miles up the river from the sea.
+- [[place-beravel|Péravel]]—the capital, fifteen miles up the river from the sea.
 - [[place-beravriver|The Bérav]]—the river the whole region is arranged around.
 
 ## See Also

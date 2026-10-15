@@ -37,7 +37,7 @@ The Varokh villages of Vandstein that sent the host keep an empty place for each
 
 - **Varokh Shamans**, who would call their dead home and need a safe-conduct to do it.
 - **Deserters**, who hide in the reeds because the patrols will not follow.
-- **Ordo surveyors**, who want to measure it.
+- **Arcane Order surveyors**, who want to measure it.
 
 ## Hooks
 

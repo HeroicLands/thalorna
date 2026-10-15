@@ -3,7 +3,7 @@ shortcode: umbralcourt
 name: {full: The Umbral Court, aliases: [The Shadow Court, The Set-Aside Crown, The Second Face]}
 type: affiliation
 subType: criminal
-description: "The shadow court of Dúnavarre—the household of a crown the Ordo Arcanis set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
+description: "The shadow court of Dúnavarre—the household of a crown the Thôrdimâlon set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
 tags: [organization, crime, underworld, dunavarre, aelwyth]
 data:
   culture: aelwythanclt
@@ -77,7 +77,7 @@ what it is the remains of.
 ## The Set-Aside Crown
 
 Dúnavarre is the only polity in Ankaris governed directly by mages: the Synod of the
-[[affiliation-ordoarcanis|Ordo Arcanis]] sets policy, administers justice and commands the kingdom's
+[[affiliation-ordoarcanis|Thôrdimâlon]] sets policy, administers justice and commands the kingdom's
 forces. The kingdom's own chronicles describe how this came about gently—generations of mage-advisors
 assuming duties that incompetent kings could not, until the crown was ceremonial and was at length set
 aside. Its critics in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]] tell
@@ -138,7 +138,7 @@ it does not fully understand.
 
 This shapes everything. The Court's most valuable possessions are not its houses or its purse but its
 **quiet places**—chambers, cellars and ships that are reliably opaque to the Synod's attention—and
-the handful of people who can make more of them. Ordo washouts, disgraced adepts and scholars the
+the handful of people who can make more of them. Arcane Order washouts, disgraced adepts and scholars the
 Synod has censured are recruited on sight and treated better than peers. Business is conducted in
 person, in the old forms, with as little written as the Rolls will tolerate; the Master of the Hunt
 exists to know when the Synod is looking; and a member who has been _seen_ is not punished but
@@ -152,7 +152,7 @@ voice whatever**—the Synod's decisions are made behind closed doors and there 
 them. So people bring their grievances to the Umbral Court, which hears them, in the forms the old
 crown used, and sometimes acts.
 
-A tenant ruined by a Synod ruling, a family whose son vanished into an Ordo inquiry, a merchant with no
+A tenant ruined by a Synod ruling, a family whose son vanished into an Arcane Order inquiry, a merchant with no
 standing to sue: all of them can petition, and a good many are heard. The Court settles disputes, pays
 compensation, and occasionally arranges a very specific injustice to be answered. It does this because
 it is cheap, because it is the only source of legitimacy it has, and because every petition granted is
@@ -175,7 +175,7 @@ position that it does not exist is the least embarrassing one available.
 - **[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]].** Foreign money.
   Aldorath's feudal lords find the restoration of a Dúnavarran monarchy an agreeable idea and fund it
   intermittently, which is the single greatest threat to the Court's standing at home.
-- **[[affiliation-velvethand|The Velvet Hand]].** The mainland counterpart, and a buyer. Ordo secrets
+- **[[affiliation-velvethand|The Velvet Hand]].** The mainland counterpart, and a buyer. Arcane Order secrets
   command extraordinary prices, and the Court is one of very few sellers.
 - **[[affiliation-adanasreni|The Ādānashrenī]].** No contact to speak of, and a certain professional
   curiosity: both are criminal bodies that survive by being institutions rather than gangs, and each
@@ -221,5 +221,5 @@ wrecked is a question its own officers disagree about, and Laradh has not been t
 ## See Also
 
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]] · [[place-aelwyth|Aelwyth]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]] · [[affiliation-justbladeordr|Order of the Just Blade]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]] · [[affiliation-justbladeordr|Order of the Just Blade]]
 - [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] · [[affiliation-velvethand|The Velvet Hand]]

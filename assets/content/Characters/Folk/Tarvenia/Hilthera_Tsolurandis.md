@@ -3,7 +3,7 @@ shortcode: hiltheratsol
 name: {full: Hilthéra Tsolurándis, aliases: [Lady Hilthéra Tsolurándis, Master of Commerce]}
 type: being
 subType: npc
-description: Master of Commerce, the crown's chief advisor on trade and mercantile matters, named in Cárenna Gráveth.
+description: Master of Commerce, the crown's chief advisor on trade and mercantile matters, named in Kárenna Gráveth.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hilthéra Tsolurándis is a 49-year-old woman who stands 5'10" tall with a heavy
 
 # Dossier {#dossier}
 
-Hilthéra Tsolurándis is the crown's Master of Commerce, its chief advisor on trade and mercantile matters. She is the closest confidant and patron of [[being-carengrvth|Cárenna Gráveth]] at court, offering guidance on the political currents of the royal household.
+Hilthéra Tsolurándis is the crown's Master of Commerce, its chief advisor on trade and mercantile matters. She is the closest confidant and patron of [[being-carengrvth|Kárenna Gráveth]] at court, offering guidance on the political currents of the royal household.

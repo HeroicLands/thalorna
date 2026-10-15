@@ -3,7 +3,7 @@ shortcode: kingshlwcrwn
 name: {full: The Crowning at Kingshollow, aliases: [The First Crowning of Aldorath]}
 type: lore
 subType: history
-description: "About 120 AF the eastern barons of Aelwyth accepted Bréthar of Kingshollow, one of their own, as king; the kings of Aldorath are crowned in the same chapel and buried in the same ground."
+description: "About 120 AF the eastern barons of Aelwyth accepted Dréthar of Kingshollow, one of their own, as king; the kings of Aldorath are crowned in the same chapel and buried in the same ground."
 tags: [history]
 data:
   culture: aelwythanclt
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [place-kingsholow, affiliation-kngdmldrth, place-aldorathrgn]
       summary: >-
-        Bréthar of Kingshollow, the strongest of the eastern barons whose families have held their land since the Pelwar settled it, is crowned in the chapel beside his hall. The other barons accept a king who is one of them and who will not ask them for more than they would give a neighbor. The court moves to Dunmere generations later, and the kings never give up the hall.
+        Dréthar of Kingshollow, the strongest of the eastern barons whose families have held their land since the Pelwar settled it, is crowned in the chapel beside his hall. The other barons accept a king who is one of them and who will not ask them for more than they would give a neighbor. The court moves to Dunmere generations later, and the kings never give up the hall.
       standing: attested
       where:
         locus: [place-kingsholow]
@@ -33,14 +33,14 @@ data:
           agrees: full
           withholds: nothing; the barons keep the account precisely because it flatters them
       unresolved:
-        - whether Bréthar was the first king the barons crowned, or only the first they remember
+        - whether Dréthar was the first king the barons crowned, or only the first they remember
 ---
 
-Kings of Aldorath are crowned in a chapel at **Kingshollow**, a village in a sheltered fold of the eastern country, because the first of them was a baron whose hall stood beside it. **Bréthar** was crowned there about 120 AF, and the line he began has never taken a crown anywhere else.
+Kings of Aldorath are crowned in a chapel at **Kingshollow**, a village in a sheltered fold of the eastern country, because the first of them was a baron whose hall stood beside it. **Dréthar** was crowned there about 120 AF, and the line he began has never taken a crown anywhere else.
 
 ## A King Chosen From Among Them
 
-The eastern barons held the lowland farms of the country, and their families had held them since the [[lore-pelwarpepl|Pelwar]] first settled the island. They had no overlord and wanted none. They did want a war-leader against the forest, where the [[lore-grukarcomes|Grukar]] had spread across the interior and the tribes in it had been fighting them for generations, and they needed a judge to settle the quarrels that boundary stones could not. Bréthar was the strongest of them and the most trusted. The others crowned him in the chapel beside his hall because they preferred a king whose land they could ride across in a day.
+The eastern barons held the lowland farms of the country, and their families had held them since the [[lore-pelwarpepl|Pelwar]] first settled the island. They had no overlord and wanted none. They did want a war-leader against the forest, where the [[lore-grukarcomes|Grukar]] had spread across the interior and the tribes in it had been fighting them for generations, and they needed a judge to settle the quarrels that boundary stones could not. Dréthar was the strongest of them and the most trusted. The others crowned him in the chapel beside his hall because they preferred a king whose land they could ride across in a day.
 
 The arrangement shaped the crown that followed. A king of Aldorath rules with the consent of barons who hold their land from their own ancestors and regard the crown as a convenience they granted. The barons' conviction that they are older than the throne is accurate.
 

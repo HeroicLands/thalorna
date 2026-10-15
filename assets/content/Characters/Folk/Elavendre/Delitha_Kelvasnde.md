@@ -3,7 +3,7 @@ shortcode: delithakelva
 name: {full: Délitha Kélvasndë, aliases: [Mother Délitha]}
 type: being
 subType: npc
-description: The senior priestess of the temple at Liranel, who respects Vélaria Óthral's work but has warned that the temple cannot support her ministry indefinitely.
+description: The senior priestess of the temple at Liranel, who respects Vélthra Óthral's work but has warned that the temple cannot support her ministry indefinitely.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Délitha Kélvasndë is a 60-year-old woman who stands 5'5" tall with a light bu
 
 # Dossier {#dossier}
 
-Délitha Kélvasndë is the senior priestess of the temple at Liranel. She respects the work of [[being-velarithrl|Vélaria Óthral]] but has warned that the temple cannot support her ministry indefinitely.
+Délitha Kélvasndë is the senior priestess of the temple at Liranel. She respects the work of [[being-velarithrl|Vélthra Óthral]] but has warned that the temple cannot support her ministry indefinitely.

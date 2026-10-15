@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Natural Attunement reads the condition of a place and the living things in it: weather, water, growth, and what has passed through. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Ordo Arcanis]] looks for in the children it registers.
+Natural Attunement reads the condition of a place and the living things in it: weather, water, growth, and what has passed through. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.

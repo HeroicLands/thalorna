@@ -22,6 +22,6 @@ An innkeeper whose house stands empty from autumn until the first heat describes
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alyssa]]—the parent province
+- [[affiliation-provinclys|Province of Alêssâ]]—the parent province
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
 - [[place-orzara|Ôrzâra]]—the capital the court leaves behind each summer

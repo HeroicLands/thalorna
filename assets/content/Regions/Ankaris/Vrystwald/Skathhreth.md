@@ -36,7 +36,7 @@ The ford is crossed by day or not at all, and never in the thaw-week. Each sprin
 ## Hooks
 
 - Men from the logging camp begin to vanish at night, and the camp's master blames the Gárskald. The Gárskald's War Chief, who wants the camp gone, does not deny it and did not do it.
-- A Mokturan tribune hires a party to raise the eagle from the riverbed. Raising it brings the column up the bank, and the column has been looking for its eagle for four hundred years.
+- A Mokturan _Lusar_ hires a party to raise the eagle from the riverbed. Raising it brings the column up the bank, and the column has been looking for its eagle for four hundred years.
 - A Shaman laying the ash line finds it already laid, by somebody who did not know the words.
 
 ## See Also

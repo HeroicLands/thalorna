@@ -68,13 +68,13 @@ Before the Empire, the city of the Republic stood on [[place-sixhillsvyl|Antel]]
 
 ## The Walling
 
-The first Ôrzâs ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Arvel in the ring that stands there now, and built the Seldan and the Guard Camp inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a senator reading the Seldan's rules of debate is reading the Republic's, set down in the same words and carried uphill.
+The first Ôrzâs ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Arvel in the ring that stands there now, and built the Seldan and the Guard Camp inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a _kurthândôs_ (senator) reading the Seldan's rules of debate is reading the Republic's, set down in the same words and carried uphill.
 
 He then had the thîrûthrimâ walked and consecrated, the sacred line that bounds the city in law, so that it ran around all six hills, and he gave the whole the name **Ôrzâra**. From this point the name covers everything the line encloses.
 
 ## The Statue
 
-The colossus of the Founder stands in the Ôrzâs's Circle before the Inner City's gate, and every accession and triumph passes it. On the plinth, in the Thâravárkon letters, a crowned rune stands where the script's rule puts the name of a god, a founder or a reigning Ôrzâs. The rune encloses a patch of the stone that has been worked smooth. Nobody who works in the Circle can say when it was done, and the Seldan's clerks, asked whose name it was meant to hold, refer the question to the record, which does not give the Founder's name.
+The colossus of the Founder stands in the Ôrzâs's Circle before the Inner City's gate, and every accession and triumph passes it. On the plinth, in the Thâravarkon letters, a crowned rune stands where the script's rule puts the name of a god, a founder or a reigning Ôrzâs. The rune encloses a patch of the stone that has been worked smooth. Nobody who works in the Circle can say when it was done, and the Seldan's clerks, asked whose name it was meant to hold, refer the question to the record, which does not give the Founder's name.
 
 ## What It Left
 
@@ -85,7 +85,7 @@ The colossus of the Founder stands in the Ôrzâs's Circle before the Inner City
 
 ## See Also
 
-- [[lore-thefounding|The Founding]]—the Senator who made himself the first Ôrzâs
+- [[lore-thefounding|The Founding]]—the _kurthândôs_ who made himself the first Ôrzâs
 - [[lore-ridersdisb|The Lease Refused]]—the Eyrie sealed beneath the hill
 - [[place-arvon|Arvon]]—the Inner City the wall encloses
 - [[place-antel|Antel]]—the Republic's city, left behind

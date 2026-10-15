@@ -1,6 +1,6 @@
 ---
 shortcode: grmdnshrndns
-name: {full: Goremadânis Hérendânis, given: Goremadânis, clan: Hérendânis, aliases: []}
+name: {full: Goremadânis Herendânis, given: Goremadânis, clan: Herendânis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -410,7 +410,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grmdnshrndns|Goremadânis Hérendânis]]{float=top-left}
+![[grmdnshrndns|Goremadânis Herendânis]]{float=top-left}
 
 Goremadânis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.
 
@@ -418,7 +418,7 @@ Goremadânis stands 5'8" tall with a medium build. She has light olive skin, lig
 
 **Orphaned Beginnings**
 
-Goremadânis was born to a sailor's widow in the port city of [[place-mercavia|Mercavia]] in the [[affiliation-vylarinmpr|Empire of Vylaria]]. Her mother, a former ship's cook, died of lung fever when **Goremadânis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **Nêbrâlen Elthêzândis** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
+Goremadânis was born to a sailor's widow in the port city of [[place-mercavia|Dêlâlâra]] in the [[affiliation-vylarinmpr|Empire of Vylaria]]. Her mother, a former ship's cook, died of lung fever when **Goremadânis** was only seven summers old, leaving her alone and resourceless in a city where orphans had few options beyond servitude or thievery. A kindly captain named **Nêbrâlen Elthêzândis** found her stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his merchant vessel—cleaning, hauling, running messages between crew members.
 
 **Coming of Age at Sea**
 
@@ -464,12 +464,12 @@ Captain Nêbrâlen Elthêzândis
 : Her adoptive father figure and original savior, **Elthêzândis** remains her primary patron and deepest loyalty. He has refused several offers to purchase her contract and insists she maintain her independence and freedom to choose her work.
 
 The Crews of Various Merchant Vessels
-: The collective captains and officers of the ships she regularly works for, who value her reliability and skills. She has become a known commodity among **Mercavia's** merchant marine.
+: The collective captains and officers of the ships she regularly works for, who value her reliability and skills. She has become a known commodity among **Dêlâlâra's** merchant marine.
 
 ### Enemies
 
 Slave Trader Devorin
-: A merchant of human suffering who operates out of hidden docks in **Mercavia**, **Devorin** has attempted multiple times to capture **Goremadânis**, viewing her as a valuable commodity. **Captain Elthêzândis** has protected her thus far, but the threat remains.
+: A merchant of human suffering who operates out of hidden docks in **Dêlâlâra**, **Devorin** has attempted multiple times to capture **Goremadânis**, viewing her as a valuable commodity. **Captain Elthêzândis** has protected her thus far, but the threat remains.
 
 The Stern Order of Naval Tradition
 : Some of the older, more conservative naval officers view her presence aboard vessels as a violation of maritime tradition and believe women have no place in honest seafaring. They sometimes attempt to bar her from work or undermine her standing with captains.
@@ -477,7 +477,7 @@ The Stern Order of Naval Tradition
 ### Affiliations
 
 Informal Merchant Marine Community
-: While not a member of any formal organization, she is known among **Mercavia's** maritime workers and enjoys a loose affiliation based on reputation and mutual respect.
+: While not a member of any formal organization, she is known among **Dêlâlâra's** maritime workers and enjoys a loose affiliation based on reputation and mutual respect.
 
 ## Plot Hooks
 

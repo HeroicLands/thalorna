@@ -3,7 +3,7 @@ shortcode: volsather
 name: {full: Volsathèr, aliases: []}
 type: place
 subType: settlement
-description: "Zûravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
+description: "Zuravlèn's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
 tags: [town, port, coastal]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   packFolder: provenzia
 ---
 
-**Volsathèr** lies at the foot of the cliffs on [[place-zuravlenrgn|Zûravlen]]'s western shore, reached
+**Volsathèr** lies at the foot of the cliffs on [[place-zuravlenrgn|Zuravlèn]]'s western shore, reached
 from the valley by a single steep cut in the rock down which everything the barony ships must be
 carried. Some nine hundred people live there. It is the only harbor in the barony and, for perhaps
 forty days a year, no harbor at all.
@@ -33,14 +33,14 @@ town's oldest export and the one that pays whatever else happens.
 ## The Salt Pans
 
 Above the town, on the terraces the wind scours dry, lie the **salt pans**. Sun and wind do the work
-and the town takes the crop, and Zûravlen salt now goes to the fish, to the uplands for cheese, and—this is recent, and resented—inland to the preserving trades, which bought their salt from outside
+and the town takes the crop, and Zuravlèn salt now goes to the fish, to the uplands for cheese, and—this is recent, and resented—inland to the preserving trades, which bought their salt from outside
 the barony for generations and would rather not be dependent on Volsathèr for it.
 
 ## The Fast Boats
 
 Volsathèr's importance is new. A peach picked at [[place-palnebris|Palnebrìs]] is worthless four days
-later, which for centuries meant fruit left Zûravlen dried and nothing else. A fast hull out of
-Volsathèr, leaving on the evening wind, reaches markets no rider could—and so **fresh Zûravlen fruit
+later, which for centuries meant fruit left Zuravlèn dried and nothing else. A fast hull out of
+Volsathèr, leaving on the evening wind, reaches markets no rider could—and so **fresh Zuravlèn fruit
 now appears on tables that had only ever seen it dried**.
 
 In harvest the boats sail nightly, and the town is worked as hard by dark as the drying yards at
@@ -60,4 +60,4 @@ Its people are aware of this. Their new harbor-master is not a modest man.
 
 ## See Also
 
-- [[place-zuravlenrgn|Zûravlen Region]] · [[place-elthrembis|Elthrembìs]]
+- [[place-zuravlenrgn|Zuravlèn Region]] · [[place-elthrembis|Elthrembìs]]

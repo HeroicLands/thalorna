@@ -3,7 +3,7 @@ shortcode: naldorkardet
 name: {full: Náldor Kárdeth, aliases: [Prince Náldor Kárdeth, Merchant Prince Náldor Kárdeth]}
 type: being
 subType: npc
-description: A wealthy trader whose fortune was significantly increased by consistently following Tárellia Bélthal's advice.
+description: A wealthy trader whose fortune was significantly increased by consistently following Tárella Pélthal's advice.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Náldor Kárdeth is a 45-year-old man who stands 6'1" tall with a heavy build. H
 
 # Dossier {#dossier}
 
-Náldor Kárdeth is a wealthy merchant prince whose fortune grew considerably because he consistently followed the advice of [[being-tarelblthl|Tárellia Bélthal]].
+Náldor Kárdeth is a wealthy merchant prince whose fortune grew considerably because he consistently followed the advice of [[being-tarelblthl|Tárella Pélthal]].

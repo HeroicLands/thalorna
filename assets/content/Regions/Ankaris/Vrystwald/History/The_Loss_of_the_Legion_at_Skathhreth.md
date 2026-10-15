@@ -90,7 +90,7 @@ Every Vylarian officer posted to [[place-moktur|Moktur]] learns the forest's nam
 
 ## The March to Waldburg
 
-By the end of the second century AF the [[lore-legionsroad|Legions' Road]] ran north out of Moktur through [[place-vandstein|Vandstein]] with a post at every day's march, and the friendly chiefs the governors had bought had been disowned by their own villages one after another. The raids on the road did not stop. In the late summer of 291 a legion of about five thousand marched up it to burn [[place-waldburg|Waldburg]], the river crossing where the raiders sold what they took, and to end the raids where they were paid for.
+By the end of the second century AF the [[lore-legionsroad|Legions' Road]] ran north out of Moktur through [[place-vandstein|Vandstein]] with a post at every day's march, and the friendly chiefs the _thêrkhoi_ (governors) had bought had been disowned by their own villages one after another. The raids on the road did not stop. In the late summer of 291 a legion of about five thousand marched up it to burn [[place-waldburg|Waldburg]], the river crossing where the raiders sold what they took, and to end the raids where they were paid for.
 
 The villages along the road did something they had never done. Their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief for the response: **Dorgulf yra Grimskorn wur Thrástein**, War Chief of [[place-thrastein|Thrástein]], whose village the road ran past. It was the first common muster anyone can name. Dorgulf did not meet the legion on the road. He let it march, burned what it left behind it, and kept his war-bands in the trees on either side of the column for nine days.
 
@@ -110,12 +110,12 @@ The tellings disagree about what became of him, and the Varokh keep all three:
 
 - **The Thrástein telling.** He walked into the Moldún at the ford alone and went down where the eagle had, and the ford keeps him with the legion.
 - **The Deepwood telling.** The elders sent men after him, and Vandilda would not say whose.
-- **The telling nobody admits to.** He went south over the passes and took the governor's silver, as Hildulf had, and died in Moktur an old man. Thrástein's reciters call this the Mokturan telling, and the Mokturans have never heard it.
+- **The telling nobody admits to.** He went south over the passes and took the _thêrkhôs_'s silver, as Hildulf had, and died in Moktur an old man. Thrástein's reciters call this the Mokturan telling, and the Mokturans have never heard it.
 
 ## What It Left
 
 - **[[place-skathhreth|Skathhreth]].** The thinnest blood-field in the forest, upstream of which Vylarian loggers are felling the Gárskald's sacred trees without knowing what the ford is.
-- **The eagle in the river.** Moktur has wanted it back for four centuries, and a tribune who raised it would make a career.
+- **The eagle in the river.** Moktur has wanted it back for four centuries, and a _Lusar_ who raised it would make a career.
 - **The Sundered Talisman.** Fragments kept by village elders across the forest, laid together at Waldburg when a common War Chief is acclaimed. Some villages' fragments have been lost, traded or stolen in four hundred winters, and nobody has ever counted how many remain.
 - **The rule.** The forest's suspicion of any War Chief whose renown outgrows his village. [[being-thrnkbldtscbr|Thornak Blodtusc Bar]]'s ambition to rally the villages against the Sons of Eldheim is measured against Dorgulf's winter by every elder who hears it.
 

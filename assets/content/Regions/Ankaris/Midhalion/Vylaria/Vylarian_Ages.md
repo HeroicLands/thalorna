@@ -17,7 +17,7 @@ data:
     - {name: Mârendândi, abbreviation: Mare, days: 31}
     - {name: Elthêzândi, abbreviation: Elth, days: 30}
     - {name: Karnavar, abbreviation: Karn, days: 30}
-    - {name: Morveth, abbreviation: Morv, days: 31}
+    - {name: Morvanândi, abbreviation: Morv, days: 31}
     - {name: Kalmêthândi, abbreviation: Kalm, days: 30}
     - {name: Zûnêlândi, abbreviation: Zune, days: 31}
     - {name: Kâlpêzândi, abbreviation: Kalp, days: 30}
@@ -56,7 +56,7 @@ data:
   packFolder: vylaria
 ---
 
-A Panepistemium historian lecturing on the Empire gives a date as two things at once: the year of the [[lore-commoncal|Vylarian Calendar]], which every clerk and magistrate uses, and the age that year belongs to, which only the historians and the Senate's orators care about. "The year is for the ledger," she tells a first-year class. "The age is for the argument. A ledger says that the legions crossed the sea in 377. An orator says it happened in the Age of Conquest, and then he can say what the Age of Conquest cost."
+A Plûmepistémion (the Academy of Knowledge) historian lecturing on the Empire gives a date as two things at once: the year of the [[lore-commoncal|Vylarian Calendar]], which every clerk and magistrate uses, and the age that year belongs to, which only the historians and the Senate's orators care about. "The year is for the ledger," she tells a first-year class. "The age is for the argument. A ledger says that the legions crossed the sea in 377. An orator says it happened in the Age of Conquest, and then he can say what the Age of Conquest cost."
 
 The **Vylarian Ages** are that division. They add no second count of years: the year of an age is the Vylarian Calendar year, so 377 in the Age of Conquest is 377 AF and nothing else. An age is a name for a stretch of those years, set by what the Empire was doing in them and by what ended them. The ages are the historians' teaching and not a law, and the schools argue about where one ends.
 
@@ -66,34 +66,34 @@ A date gives the day and month of the Vylarian Calendar, the year, and the mark 
 
 ## The Eight Ages
 
-| Age                        | Written | Its years (AF)          | What marks it                                                                       |
-| -------------------------- | ------- | ----------------------- | ----------------------------------------------------------------------------------- |
-| The Kings and the Republic | KR      | counted back from 1 BF  | a city on the Vylaris becomes the power of the sea, and a Senator ends the Republic |
-| The First Ôrzândoi         | FA      | 1 to 96                 | the Founder's line builds the Empire's machinery                                    |
-| The Age of Conquest        | AC      | 96 to 389               | the legions push every frontier, and the Empire's reach is widest                   |
-| The Years of Three Eagles  | TE      | 389 to 406              | three claimants, three armies, and a capital that burns                             |
-| The Restoration            | RS      | 406 to 512              | one house rebuilds the capital and the institutions that still stand                |
-| The Drift                  | DR      | 512 to 620              | the north comes south, and the far provinces stop obeying one at a time             |
-| The Core                   | CO      | 620 to 708              | an Empire of Vylaria, Heliónis on paper, and Tarûzel                                |
-| After the Shoals           | AS      | 708 to the present, 720 | the loss of Tarûzel, a navy rebuilt, and a succession in doubt                      |
+| Age                        | Written | Its years (AF)          | What marks it                                                                          |
+| -------------------------- | ------- | ----------------------- | -------------------------------------------------------------------------------------- |
+| The Kings and the Republic | KR      | counted back from 1 BF  | a city on the Vylaris becomes the power of the sea, and a kurthândôs ends the Republic |
+| The First Ôrzândoi         | FA      | 1 to 96                 | the Founder's line builds the Empire's machinery                                       |
+| The Age of Conquest        | AC      | 96 to 389               | the legions push every frontier, and the Empire's reach is widest                      |
+| The Years of Three Eagles  | TE      | 389 to 406              | three claimants, three armies, and a capital that burns                                |
+| The Restoration            | RS      | 406 to 512              | one house rebuilds the capital and the institutions that still stand                   |
+| The Drift                  | DR      | 512 to 620              | the north comes south, and the far provinces stop obeying one at a time                |
+| The Core                   | CO      | 620 to 708              | an Empire of Vylaria, Heliónis on paper, and Tarûzel                                   |
+| After the Shoals           | AS      | 708 to the present, 720 | the loss of Tarûzel, a navy rebuilt, and a succession in doubt                         |
 
 An age shares its last year with the first year of the next, and the shared year is entered under the age it opens: year 96 is the first of the Age of Conquest.
 
 ### The Kings and the Republic
 
-Everything before the Founding: a monarchy of which only its end is recorded, then the Republic of the patrician families, the conquest of Heliónis, a garrison colony among the Thânevar kings of the west ([[lore-aurelianefound|The Founding of Aurèliane]]), the dragons and the Kandrol. [[lore-vylarirpbl|The Vylarian Republic]] is its spine, and [[lore-thefounding|The Founding]] is its last day.
+Everything before the Founding: a monarchy of which only its end is recorded, then the Republic of the patrician families, the conquest of Heliónis, a garrison colony among the Thânevar kings of the west ([[lore-aurelianefound|The Founding of Aurelàne]]), the dragons and the Kandrol. [[lore-vylarirpbl|The Vylarian Republic]] is its spine, and [[lore-thefounding|The Founding]] is its last day.
 
 ### The First Ôrzândoi, 1 to 95
 
-The Founder's line. The Eagle City is walled above the sealed Eyrie and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Ordo's last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Ôrzâs dies without a son and names a legate of House Vârkalênîs.
+The Founder's line. The Eagle City is walled above the sealed Eyrie and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Arcane Order's last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Ôrzâs dies without a son and names a _phêlzândôs_ (legate) of House Vârkalênîs.
 
 ### The Age of Conquest, 96 to 388
 
-Three centuries of conquest begin, the western ones told in [[lore-westernwars|The Western Wars]] and the eastern one, which annexes Byzaría under the Ôrzâs Kàromphôs, in [[lore-heladeastwar|The Eastern War]]. Nartûm refuses the Empire over the Black Flame ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), the Storm of the Hundred Banners reaches the eastern hills ([[lore-easternline|The Eastern Line]]), and the imperial archive burns ([[lore-archivefire|The Archive Fire]]). It ends when an Ôrzâs sends his best army across the sea ([[lore-deltaexped|The Delta Expedition]]) and its commander does not come home.
+Three centuries of conquest begin, the western ones told in [[lore-westernwars|The Western Wars]] and the eastern one, which annexes Byzaría under the Ôrzâs Kàromphôs, in [[lore-heladeastwar|The Eastern War]]. Nartûn refuses the Empire over the Black Flame ([[lore-nartumrefuse|Nartûn Refuses the Empire]]), the Storm of the Hundred Banners reaches the eastern hills ([[lore-easternline|The Eastern Line]]), and the imperial archive burns ([[lore-archivefire|The Archive Fire]]). It ends when an Ôrzâs sends his best army across the sea ([[lore-deltaexped|The Delta Expedition]]) and its commander does not come home.
 
 ### The Years of Three Eagles, 389 to 405
 
-Three claimants hold three armies ([[lore-brkensuccsn|The Broken Succession]]), legions kill legions ([[lore-olcassabtl|The Battle of Olcassa]]), and the capital burns ([[lore-greatburnng|The Great Burning]]). It ends when the legate from Moktur takes the city and the Senate acclaims him ([[lore-restorehouse|The Restoration]]).
+Three claimants hold three armies ([[lore-brkensuccsn|The Broken Succession]]), legions kill legions ([[lore-olcassabtl|The Battle of Olkassâ]]), and the capital burns ([[lore-greatburnng|The Great Burning]]). It ends when the _phêlzândôs_ from Moktur takes the city and the Senate acclaims him ([[lore-restorehouse|The Restoration]]).
 
 ### The Restoration, 406 to 511
 

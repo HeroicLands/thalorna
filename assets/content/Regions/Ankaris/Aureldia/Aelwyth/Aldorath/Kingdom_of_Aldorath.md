@@ -119,7 +119,7 @@ sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 
 ## Overview
 
-The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, Bréthar of Kingshollow, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of [[place-aldorathrgn|Aldorath Region]].
+The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, Dréthar of Kingshollow, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of [[place-aldorathrgn|Aldorath Region]].
 
 ## Character
 

@@ -70,3 +70,50 @@ test("a name in scope missing from the register is an error", () => {
         /"Jalnazdàl" is a Provenzal name the register does not register/,
     );
 });
+
+/**
+ * The page with the `| **Dorèn**` row renamed to `name` and a bare `Kórisvar`
+ * row, in the given tongue, added after it (replacing the page's own).
+ */
+function withHouse(name, tongue) {
+    const lines = rowEdited("| **Dorèn**", (line) => line.replace("**Dorèn**", `**${name}**`))
+        .split("\n")
+        .filter((line) => !line.startsWith("| **Kórisvar**"));
+    const at = lines.findIndex((line) => line.startsWith(`| **${name}**`));
+    lines.splice(
+        at + 1,
+        0,
+        lines[at].replace(`**${name}**`, "**Kórisvar**").replace("`provenzal`", `\`${tongue}\``),
+    );
+    return lines.join("\n");
+}
+
+const warnings = (lex, name) => {
+    process.env.LEXICON_VERBOSE = "1";
+    try {
+        return listed(lex, name);
+    } finally {
+        delete process.env.LEXICON_VERBOSE;
+    }
+};
+
+const listed = (lex, name) =>
+    run(lex)
+        .filter((line) => line.includes(": warning: ") && line.includes(`**${name}**`))
+        .join("\n");
+
+test("a person of a registered other house is checked on the given name alone", () => {
+    const lex = withHouse("Kàrena Kórisvar", "other:elavendri");
+    assert.equal(warnings(lex, "Kàrena Kórisvar"), "");
+});
+
+test("a person of a registered other house is still flagged for a given name that breaks the rules", () => {
+    const lex = withHouse("Wárena Kórisvar", "other:elavendri");
+    assert.match(warnings(lex, "Wárena Kórisvar"), /holds "w"/);
+    assert.doesNotMatch(warnings(lex, "Wárena Kórisvar"), /"ó"/);
+});
+
+test("a surname registered as Provenzal is checked like the given name", () => {
+    const lex = withHouse("Kàrena Kórisvar", "provenzal");
+    assert.match(warnings(lex, "Kàrena Kórisvar"), /"ó"/);
+});

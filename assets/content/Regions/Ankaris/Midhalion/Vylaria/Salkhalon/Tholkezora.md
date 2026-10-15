@@ -18,7 +18,7 @@ data:
 
 Thôlkezôra is the last of [[affiliation-provincvld|Sâlkhâlon]]'s four principal fishing towns, perched with its seven thousand people on the rocky headland its name describes, over deep water. Its crews fish the far grounds and, in season, hunt the great sea-beasts whose oil lights lamps across the province. That is a harder, more dangerous trade than the inshore netting of its sister-towns.
 
-Thôlkezôra men have a name up and down the coast for being half-wild and wholly fearless. A Mercavia sailing master, hiring a crew, tells his mate what the name means on a dock: "They will go where you will not, and they will not always tell the customs-house where they went." Its captains are as comfortable smuggling as fishing when the imperial customs press too hard.
+Thôlkezôra men have a name up and down the coast for being half-wild and wholly fearless. A Dêlâlâra sailing master, hiring a crew, tells his mate what the name means on a dock: "They will go where you will not, and they will not always tell the customs-house where they went." Its captains are as comfortable smuggling as fishing when the imperial customs press too hard.
 
 ## See Also
 

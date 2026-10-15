@@ -45,7 +45,7 @@ The spirit of Ansorudhe Lonvunto is believed to endure within the necropolis, re
 
 ## Significance
 
-The destruction showed that Sinalëan enclaves, long thought inviolable, can be found and broken. That has unsettled the Firstborn across Thalorna in ways human scholars can barely perceive. It has also drawn other powers: the [[affiliation-ordoarcanis|Ordo Arcanis]] is keenly interested in how Hluskmýl pierced the wards, and certain factions within the Ordo would dearly love to acquire that knowledge, for defensive purposes, they claim.
+The destruction showed that Sinalëan enclaves, long thought inviolable, can be found and broken. That has unsettled the Firstborn across Thalorna in ways human scholars can barely perceive. It has also drawn other powers: the [[affiliation-ordoarcanis|Thôrdimâlon]] is keenly interested in how Hluskmýl pierced the wards, and certain factions within the Arcane Order would dearly love to acquire that knowledge, for defensive purposes, they claim.
 
 Among the Nordmen the spreading blight is a growing concern. The highland clans know the hidden valley from the songs, and the older völvur hold that the songs tell the truth about what happened to whatever it once sheltered. Several have gone to look and have not returned.
 

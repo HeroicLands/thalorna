@@ -101,7 +101,7 @@ The Nordmen took Stormveld and needed thralls by the tens of thousands, and the 
 
 ### The Posts at Hrindstead (PH), from 708 AF
 
-The present age. Nordheim settlers planted their hall-posts in the Eichthúl grove at Hrindstead and the Eichthúl burned the first stockade ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The Empire has drawn back to its core and Moktur's governors act on their own; Vylarian loggers fell sacred trees on the Moldún upstream of Skathhreth; and the Sons of Eldheim have come ashore on the western bay and burned a village ([[lore-westernshore|The Sons on the Western Shore]]). The reciters expect the next thing every hearth remembers to start a new count, and they cannot say whether it will be a muster.
+The present age. Nordheim settlers planted their hall-posts in the Eichthúl grove at Hrindstead and the Eichthúl burned the first stockade ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The Empire has drawn back to its core and Moktur's _thêrkhoi_ (governors) act on their own; Vylarian loggers fell sacred trees on the Moldún upstream of Skathhreth; and the Sons of Eldheim have come ashore on the western bay and burned a village ([[lore-westernshore|The Sons on the Western Shore]]). The reciters expect the next thing every hearth remembers to start a new count, and they cannot say whether it will be a muster.
 
 ## Carrying a Winter to the Vylarian Calendar
 

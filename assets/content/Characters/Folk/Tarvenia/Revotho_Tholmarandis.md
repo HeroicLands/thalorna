@@ -3,7 +3,7 @@ shortcode: revothotholm
 name: {full: Revótho Tholmarándis, aliases: [Lord Revótho Tholmarándis, Herald Emeritus]}
 type: being
 subType: npc
-description: The retired previous chief herald, who views Cárenna Gráveth as an upstart.
+description: The retired previous chief herald, who views Kárenna Gráveth as an upstart.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Revótho Tholmarándis is a 70-year-old man who stands 5'9" tall with a medium b
 
 # Dossier {#dossier}
 
-Revótho Tholmarándis is the retired previous chief herald, titled Herald Emeritus. He views [[being-carengrvth|Cárenna Gráveth]] as an upstart who lacks the gravitas for her position, and has begun subtly undermining her authority with the king and his allies among the older nobility.
+Revótho Tholmarándis is the retired previous chief herald, titled Herald Emeritus. He views [[being-carengrvth|Kárenna Gráveth]] as an upstart who lacks the gravitas for her position, and has begun subtly undermining her authority with the king and his allies among the older nobility.

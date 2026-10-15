@@ -98,11 +98,11 @@ A Byzarian owes the terms first, then the guild behind his seal, then his master
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the civic faith, kept in an eastern rite that is mystical, contemplative and elaborate, and served by monks. Their monasteries are the country's chroniclers, healers and manuscript houses. At Argýrteíkhos the monks also keep the record of what crosses the pass, and they are the go-betweens with the peoples beyond it. Nýkhtion is the rite's greatest sanctuary; its council of senior priests and hereditary tomb-keepers holds a soft power in League politics, because no merchant prince wishes to offend the people who guard his ancestors' rest.
 
-The [[affiliation-ashanpnthn|Āsháian Pantheon]] has a substantial following among the eastern merchant communities and along the caravan roads, and small temples of it stand openly in every League city. In the Eastern March the two faiths are kept in roughly equal numbers. Byzarian tolerance began as arithmetic—a faith forbidden costs more in lost trade than orthodoxy could recover—and has been held long enough to become a habit Byzarians are proud of. The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps a chapter-hall in each League city.
+The [[affiliation-ashanpnthn|Āsháian Pantheon]] has a substantial following among the eastern merchant communities and along the caravan roads, and small temples of it stand openly in every League city. In the Eastern March the two faiths are kept in roughly equal numbers. Byzarian tolerance began as arithmetic—a faith forbidden costs more in lost trade than orthodoxy could recover—and has been held long enough to become a habit Byzarians are proud of. The [[affiliation-ordoarcanis|Thôrdimâlon]] keeps a chapter-hall in each League city.
 
 ## Coin
 
-Each city strikes its own coin, and the League keeps its accounts in [[lore-vylrncrncy|Vylarian money]]: the silver Ard, the cut-silver Bit, and the gold Solden most people never hold. Large sums travel as the paper-script of the [[affiliation-danvar|Danvar]], and the League uses that imperial banking system without answering to imperial governance or paying imperial tax.
+Each city strikes its own coin, and the League keeps its accounts in [[lore-vylrncrncy|Vylarian money]]: the silver Ardin, the cut-silver Bit, and the gold Solden most people never hold. Large sums travel as the paper-script of the [[affiliation-danvar|Danvar]], and the League uses that imperial banking system without answering to imperial governance or paying imperial tax.
 
 ## What Gets a Newcomer into Trouble
 
@@ -167,6 +167,6 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 | Lord Commander        | The League's commander of the Eastern March and its senior soldier                |
 | Warden of the Weights | Inspector of measures, coin and quality; the highest civic honor in a League city |
 
-Ard, Solden, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-byzarianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

@@ -66,7 +66,7 @@ Faiths are not forbidden in [[place-byzariargn|Byzaría]]. The [[affiliation-arl
 
 Byzarian tolerance is practical, and the Byzarians say so without embarrassment: a faith forbidden costs more in lost trade than orthodoxy could recover. A foreigner who mistakes this for principle is half right. It began as arithmetic and has been held long enough to become a habit they are proud of.
 
-An ordinary Byzarian's religion happens at the turns of his working life and leaves the long middle to the monks. He is blessed when he departs and gives thanks when he arrives; he renews his contracts before witnesses at the turn of the year; he sends his sick to the monastery or to a temple hospital; and he pays the keepers of his family's tomb. The rite itself is personal. It puts revelation and elaborate ceremony ahead of an institution's orders, so a layman looks to a monk for guidance and not for a ruling. The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps a chapter-hall in each League city and is treated as a licensed trade.
+An ordinary Byzarian's religion happens at the turns of his working life and leaves the long middle to the monks. He is blessed when he departs and gives thanks when he arrives; he renews his contracts before witnesses at the turn of the year; he sends his sick to the monastery or to a temple hospital; and he pays the keepers of his family's tomb. The rite itself is personal. It puts revelation and elaborate ceremony ahead of an institution's orders, so a layman looks to a monk for guidance and not for a ruling. The [[affiliation-ordoarcanis|Thôrdimâlon]] keeps a chapter-hall in each League city and is treated as a licensed trade.
 
 ## The Year Kept by Terms
 
@@ -189,4 +189,4 @@ The Cartographers' Guild shows the same pattern in a smaller place. Its seal mak
 | Unfree                | A person bound in service or debt-bondage, holding neither property nor the right to contract     |
 | Warden of the Weights | Inspector of measures, coin and quality in the markets; the highest civic honor in a League city  |
 
-Ard, Solden, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

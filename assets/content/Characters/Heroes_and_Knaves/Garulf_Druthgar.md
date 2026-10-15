@@ -471,4 +471,4 @@ Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudgin
 
 2. **Blood Debt**: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzîr visits and is closing in.
 
-3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzîr—specifically, to put the ship in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Ordo Arcanis]], and the real target is Cibella Tamaro. Garulf must decide what he is willing to sell and what he is not.
+3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzîr—specifically, to put the ship in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Thôrdimâlon]], and the real target is [[being-cibelasrnt|Kivellâ Serênthis]]. Garulf must decide what he is willing to sell and what he is not.

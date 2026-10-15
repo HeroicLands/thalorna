@@ -740,7 +740,7 @@ Every name of every note in the region stands here with the note it names and it
 | Bulaqsovid                                    | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `sowides` | `bulaq` + `sovid`                                         |
 | Yovaqur                                       | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `sowides` | `yovaq` + `-ur`                                           |
 | Bulaqsovid Yovaqur                            | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `gloss`   | a glossed name on `Bulaqsovid` and `Yovaqur`              |
-| Magister Bulaqsovid                           | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `gloss`   | a glossed name on `Bulaqsovid`                            |
+| Administrator Bulaqsovid                      | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `gloss`   | a glossed name on `Bulaqsovid`                            |
 | Town Administrator Bulaqsovid                 | [[being-bulaqsovidyo\|Bulaqsovid Yovaqur]]                         | `gloss`   | a glossed name on `Bulaqsovid`                            |
 | Tijoodorqun                                   | [[being-tijoodorquns\|Tijoodorqun Savaghur]]                       | `sowides` | `tijood` + `orqun`                                        |
 | Savaghur                                      | [[being-tijoodorquns\|Tijoodorqun Savaghur]]                       | `sowides` | `savagh` + `-ur`                                          |

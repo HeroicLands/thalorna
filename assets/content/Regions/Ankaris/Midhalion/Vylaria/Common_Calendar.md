@@ -17,7 +17,7 @@ data:
     - {name: Mârendândi, abbreviation: Mare, days: 31}
     - {name: Elthêzândi, abbreviation: Elth, days: 30}
     - {name: Karnavar, abbreviation: Karn, days: 30}
-    - {name: Morveth, abbreviation: Morv, days: 31}
+    - {name: Morvanândi, abbreviation: Morv, days: 31}
     - {name: Kalmêthândi, abbreviation: Kalm, days: 30}
     - {name: Zûnêlândi, abbreviation: Zune, days: 31}
     - {name: Kâlpêzândi, abbreviation: Kalp, days: 30}
@@ -79,7 +79,7 @@ Each month belongs to one of the Twelve. Three carry an old form of the god's na
 6. **Mârendândi** (31 days)—in the keeping of Mârendâs, Keeper of Sacred Wisdom.
 7. **Elthêzândi** (30 days)—the gold's month, for Ólvenía.
 8. **Karnavar** (30 days)—the autumnal equinox falls on its first day.
-9. **Morveth** (31 days)
+9. **Morvanândi** (31 days)
 10. **Kalmêthândi** (30 days)—the month of going to the ancestors, for Sélmoros; the winter solstice falls on its first day.
 11. **Zûnêlândi** (31 days)—in the keeping of Zûnêlâs, the Veiled Dreamer.
 12. **Kâlpêzândi** (30 days)—the gate's month, for Árdavon, the Keeper of the Gates, and the last month of the year.

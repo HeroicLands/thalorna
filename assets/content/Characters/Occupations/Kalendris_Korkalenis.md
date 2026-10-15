@@ -1,6 +1,6 @@
 ---
 shortcode: klndrskrklns
-name: {full: Kàlendrîs Korkâlenîs, aliases: []}
+name: {full: Kalendrîs Korkâlenîs, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Kàlendrîs Korkâlenîs is a 30-year-old woman who stands 5'6" tall and is slender. She has an angular face with broad cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. Her sharp green eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and curved lips complete her features. She has medium-toned skin with a bronzed complexion. Her auburn hair is gathered in a practical bun.
+Kalendrîs Korkâlenîs is a 30-year-old woman who stands 5'6" tall and is slender. She has an angular face with broad cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. Her sharp green eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and curved lips complete her features. She has medium-toned skin with a bronzed complexion. Her auburn hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kàlendrîs Korkâlenîs came into the world of the clothier through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kalendrîs Korkâlenîs came into the world of the clothier through a combination of circumstance and aptitude.
 
-Kàlendrîs learned the craft of sewing from her grandmother, who was the village seamstress. When her grandmother passed away, she took over the role and now provides clothing repair and custom garments for the villagers. Kàlendrîs has a natural eye for design and has started experimenting with incorporating local dyes into her fabrics.
+Kalendrîs learned the craft of sewing from her grandmother, who was the village seamstress. When her grandmother passed away, she took over the role and now provides clothing repair and custom garments for the villagers. Kalendrîs has a natural eye for design and has started experimenting with incorporating local dyes into her fabrics.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Lacks experience with high-end fabrics and formal attire.
 
 ### Motivation
 
-Kàlendrîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in clothier work keep her vigilant and adaptable.
+Kalendrîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in clothier work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Skilled with basic sewing techniques and natural dyes, good rapport with custome
 
 ## Social
 
-Kàlendrîs is affiliated with None, works independently.
+Kalendrîs is affiliated with None, works independently.
 
-As a Vylarian clothier, Kàlendrîs occupies a recognized social niche within Vylaria society.
+As a Vylarian clothier, Kalendrîs occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Kàlendrîs's primary patron is Local villagers who need durable and affordable clothing. This relationship provides both opportunity and obligation.
+Kalendrîs's primary patron is Local villagers who need durable and affordable clothing. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ None; well-liked within her community.
 
 ## Plot Hooks
 
-1. **The Clothier's Dilemma**—Kàlendrîs faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Clothier's Dilemma**—Kalendrîs faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—None; well-liked within her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Kàlendrîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Kalendrîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kàlendrîs depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kalendrîs depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Kàlendrîs the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kalendrîs the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

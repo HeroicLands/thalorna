@@ -3,7 +3,7 @@ shortcode: kaldremavent
 name: {full: Kâldrêmâ Vênthêlândis, aliases: [High Priestess Kâldrêmâ]}
 type: being
 subType: npc
-description: High Priestess of the Verdant Sanctum, who marked Érython Ûselîndâs with the serpent tattoo.
+description: High Priestess of the Verdant Sanctum, who marked Erithon Ûselîndâs with the serpent tattoo.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Kâldrêmâ Vênthêlândis is a 23-year-old woman who stands 5'4" tall with a h
 
 # Dossier {#dossier}
 
-Kâldrêmâ Vênthêlândis is the High Priestess of the Verdant Sanctum and the spiritual leader who marked [[being-erythnslnds|Érython Ûselîndâs]] with the serpent tattoo. Kâldrêmâ keeps in contact with him, offers guidance and occasionally asks him to undertake special missions.
+Kâldrêmâ Vênthêlândis is the High Priestess of the Verdant Sanctum and the spiritual leader who marked [[being-erythnslnds|Erithon Ûselîndâs]] with the serpent tattoo. Kâldrêmâ keeps in contact with him, offers guidance and occasionally asks him to undertake special missions.

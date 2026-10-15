@@ -3,7 +3,7 @@ shortcode: thyrenae
 name: {full: Thyrenae, aliases: []}
 type: affiliation
 subType: polity
-description: "Inland city-state of Helionis, the oldest and most prestigious, seat of the great academies, the Library of Thyrenae and the first home of the Panepistemium."
+description: "Inland city-state of Helionis, the oldest and most prestigious, seat of the great academies, the Library of Thyrenae and the first home of the Plûmepistémion."
 data:
   templatePriority: null
   demonym: Thyrenean
@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Thyrenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Panepistemium]], the scholarly federation from which the [[affiliation-ordoarcanis|Ordo Arcanis]] grew. Its academies are the most respected centers of learning in western [[place-ankrscntnnt|Ankaris]], and students cross [[place-midhalnrgn|Mídhalión]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thyrenae]], its seat.
+Thyrenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Plûmepistémion]], the scholarly federation from which the [[affiliation-ordoarcanis|Thôrdimâlon]] grew. Its academies are the most respected centers of learning in western [[place-ankrscntnnt|Ankaris]], and students cross [[place-midhalnrgn|Mídhalión]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thyrenae]], its seat.
 
 - **Patron deity:** [[lore-marendasdty|Mârendâs]], goddess of knowledge and wisdom
 - **Government:** philosophical council of senior scholars and patrician families
@@ -97,19 +97,19 @@ The council works inside the constitutional forms all seven city-states keep: a 
 
 A student from abroad who stays on to study is a metic: taxed, liable to the levy, with no vote and no right to own land. A person can earn the most prestigious education in the west and never vote in the city that gave it.
 
-## The Ordo and the Colleges
+## The Arcane Order and the Colleges
 
-The Ordo was born in these academies, and the city keeps the non-arcane colleges of the original federation, founded [[lore-panepistfnd|around 400 BF]], with real authority. A Thyrenean philosopher may study arcane theory without joining the Ordo, as long as he does not practice. The line between theory and practice is where the tension lives.
+The Arcane Order was born in these academies, and the city keeps the non-arcane colleges of the original federation, founded [[lore-panepistfnd|around 400 BF]], with real authority. A Thyrenean philosopher may study arcane theory without joining the Arcane Order, as long as he does not practice. The line between theory and practice is where the tension lives.
 
-A clerk of an Ordo chapter in Heliónis puts the Ordo's side of the line in two sentences: "Read what you like and argue what you like. Our interest begins the day you do it."
+A clerk of an Arcane Order chapter in Heliónis puts the Arcane Order's side of the line in two sentences: "Read what you like and argue what you like. Our interest begins the day you do it."
 
 ## The Last City
 
-Thyrenae was the last city of Heliónis to fall, in 312 BF, on terms its archon Sôthanos Kôshamîdês negotiated: the walls were breached at one gate only, the libraries and the colleges were left standing, and the Senate's commissioners took the College of Arcane Philosophy out of the Panepistemium the same month ([[lore-heladthyrsiege|the Siege of Thyrenae]]). Thyrenaeans date their rivalry with [[affiliation-pelagora|Pelagora]] to the Treaty that put Pelagoran ships along their coast.
+Thyrenae was the last city of Heliónis to fall, in 312 BF, on terms its archon Sôthanos Kôshamîdês negotiated: the walls were breached at one gate only, the libraries and the colleges were left standing, and the Senate's commissioners took the College of Arcane Philosophy out of the Plûmepistémion (the Academy of Knowledge) the same month ([[lore-heladthyrsiege|the Siege of Thyrenae]]). Thyrenaeans date their rivalry with [[affiliation-pelagora|Pelagora]] to the Treaty that put Pelagoran ships along their coast.
 
 ## Relations
 
-Thyrenae is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and with the Panepistemium. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thyrenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thyrenae has built, so the two are rivals and partners together. Thyrenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
+Thyrenae is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and with the Plûmepistémion. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thyrenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thyrenae has built, so the two are rivals and partners together. Thyrenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
 
 ## Commerce and Currency
 
@@ -121,6 +121,6 @@ Thyrenae uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel)
 - [[place-helionis|Heliónis]]—the region
 - [[place-thyrenae2|Thyrenae]]—the city itself
 - [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—the other two leading city-states
-- [[affiliation-panepistmm|Panepistemium]]—the federation founded here
-- [[lore-panepistfnd|The Panepistemium Founded]]—its founding
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the order that grew out of it
+- [[affiliation-panepistmm|Plûmepistémion]]—the federation founded here
+- [[lore-panepistfnd|The Plûmepistémion Founded]]—its founding
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the order that grew out of it

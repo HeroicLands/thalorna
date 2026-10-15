@@ -441,7 +441,7 @@ A flamewraith hungers for fuel and burns compulsively. It is drawn to flame of a
 
 ## What the Valley People Do
 
-The farmers and shepherds of the valley below the hill-fort light no fires after dark in sight of the fort, keep their lamps behind shutters, and roof their barns with tile. A household that sees a light moving down from the fort at night throws water on its hearth and goes out of the house. The [[affiliation-ordoarcanis|Ordo Arcanis]], whose founding college the mage-warlords came from, has sent scholars to the fort to find the object the flamewraith is bound to, because destroying it would end the creature and studying it would tell them what the mage-warlords knew. None of the scholars has found it. Helionite teachers of the older colleges bring their students to the valley, in daylight, as a lesson in what the ethical limits of arcane power look like when they are ignored.
+The farmers and shepherds of the valley below the hill-fort light no fires after dark in sight of the fort, keep their lamps behind shutters, and roof their barns with tile. A household that sees a light moving down from the fort at night throws water on its hearth and goes out of the house. The [[affiliation-ordoarcanis|Thôrdimâlon]], whose founding college the mage-warlords came from, has sent scholars to the fort to find the object the flamewraith is bound to, because destroying it would end the creature and studying it would tell them what the mage-warlords knew. None of the scholars has found it. Helionite teachers of the older colleges bring their students to the valley, in daylight, as a lesson in what the ethical limits of arcane power look like when they are ignored.
 
 ## Signs
 

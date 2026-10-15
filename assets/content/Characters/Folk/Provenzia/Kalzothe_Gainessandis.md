@@ -3,7 +3,7 @@ shortcode: kalzothegain
 name: {full: Kalzòthe Gainessandìs, aliases: [Captain Kalzòthe]}
 type: being
 subType: npc
-description: The cruel captain of the road bandits of Thornwood, who has a taste for horses, named in Kjôrvan Gjârlen.
+description: The cruel captain of the road bandits of Thornwood, who has a taste for horses, named in Chorvàn Jarlèn.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Kalzòthe Gainessandìs is a 39-year-old man who stands 5'9" tall with a medium 
 
 # Dossier {#dossier}
 
-Kalzòthe Gainessandìs is the cruel captain of the road bandits of Thornwood, who have attempted more than once to steal the valuable horses stabled at the Traveler's Rest Inn. [[being-kjrvngjrln|Kjôrvan Gjârlen]] has helped to recover the stolen animals.
+Kalzòthe Gainessandìs is the cruel captain of the road bandits of Thornwood, who have attempted more than once to steal the valuable horses stabled at the Traveler's Rest Inn. [[being-kjrvngjrln|Chorvàn Jarlèn]] has helped to recover the stolen animals.

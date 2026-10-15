@@ -3,7 +3,7 @@ shortcode: palvar
 name: {full: Palvar, aliases: [The Grand Palace]}
 type: place
 subType: settlement
-description: "The Palvar, the Grand Palace of Ôrzâra—the largest single structure in the known western world, a city of marble within the Inner City: terraced halls, throne rooms, hanging gardens, and private baths rising over the crown of Arvel, and the stage on which the Ordo Arcanis is permitted to show off."
+description: "The Palvar, the Grand Palace of Ôrzâra—the largest single structure in the known western world, a city of marble within the Inner City: terraced halls, throne rooms, hanging gardens, and private baths rising over the crown of Arvel, and the stage on which the Thôrdimâlon is permitted to show off."
 tags: [settlement, vylaria, imperial, orzara, palace, district]
 data: {demonym: null, lore: [], parents: [vylariargn], population: 3000, government: vylarinmpr}
 ---
@@ -16,11 +16,11 @@ Rising above everything else within [[place-arvon|Arvon]], over the crown of [[p
 
 Everything about the Palvar is meant to overwhelm. Gold leaf, porphyry, and rare colored marbles quarried from every land Vylaria ever conquered sheathe its surfaces, so that the morning sun strikes the upper terraces into a blaze visible from the river. Its private gardens—improbable green terraces hung against the bare stone of the hill—are watered by aqueducts dedicated to the palace alone, a luxury that in a dry summer is itself a statement of power, for the great families below ration their cisterns while the roses of the Ôrzâs, the emperor, drink freely. The bronze gates that close the ceremonial approaches are taller than three men, cast in single pours that the foundries of no other city could attempt, and worked with the imperial ôrkhaimâ whose spread wings shadow every threshold within.
 
-The palace turns its splendor outward by design. An embassy received here, a petitioner summoned, a senator called to account—each is meant to feel, in the long ascent through courts and colonnades, the precise weight of the power he is approaching. The architecture is an argument, and it is the same argument the Empire has made for three centuries ([[lore-arzanasedict|The Edicts of Arzánas]]): _that this is the heart of the world, and all roads run up to it._
+The palace turns its splendor outward by design. An embassy received here, a petitioner summoned, a _kurthândôs_ (senator) called to account—each is meant to feel, in the long ascent through courts and colonnades, the precise weight of the power he is approaching. The architecture is an argument, and it is the same argument the Empire has made for three centuries ([[lore-arzanasedict|The Edicts of Arzánas]]): _that this is the heart of the world, and all roads run up to it._
 
-### The Hand of the Ordo Arcanis
+### The Hand of the Thôrdimâlon
 
-The Palvar is the one place in the Empire where the [[affiliation-ordoarcanis|Ordo Arcanis]] is permitted—_encouraged_, even—to show off. Elsewhere the Order keeps its workings discreet, its wards unseen, its hand felt but not displayed; here the throne wants the marvels visible, because a court that commands such wonders is a court no rival can match. The most famous of these is the **Mechanical Court**, the [[place-magngndorery|Grand Orrery]], and the standing displays of the Hand of the Ordo Arcanis, devices and effects that visiting envoys carry home as evidence that Vylaria's power does not rest on legions and gold alone. (The [[place-orzara|Ôrzâra]] note describes the Hand of the Ordo.) That the Order works openly within the palace also makes natural its quieter presence elsewhere on the hill—the warded inner seat of the [[place-aulpnpstmm|Aula Panepistemium]] sharing the same crown, its brilliance and the Panepistemium's secrecy two faces of one arrangement.
+The Palvar is the one place in the Empire where the [[affiliation-ordoarcanis|Thôrdimâlon]] is permitted—_encouraged_, even—to show off. Elsewhere the Order keeps its workings discreet, its wards unseen, its hand felt but not displayed; here the throne wants the marvels visible, because a court that commands such wonders is a court no rival can match. The most famous of these is the **Mechanical Court**, the [[place-magngndorery|Grand Orrery]], and the standing displays of the Hand of the Thôrdimâlon (the Arcane Order), devices and effects that visiting envoys carry home as evidence that Vylaria's power does not rest on legions and gold alone. (The [[place-orzara|Ôrzâra]] note describes the Hand of the Arcane Order.) That the Order works openly within the palace also makes natural its quieter presence elsewhere on the hill—the warded inner seat of the [[place-aulpnpstmm|Ômbâlon]] sharing the same crown, its brilliance and the Plûmepistémion's secrecy two faces of one arrangement.
 
 ### A Hill Within a Hill
 
@@ -29,8 +29,8 @@ For all that it is the Ôrzâs's residence, the Palvar is also an instrument of 
 ### See Also
 
 - [[place-arvon|Arvon]]—the Inner City crowned by the palace
-- [[place-orzara|Ôrzâra]]—and the Hand of the Ordo
+- [[place-orzara|Ôrzâra]]—and the Hand of the Arcane Order
 - [[place-magngndorery|Grand Orrery]]—the Mechanical Court
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—permitted to display its marvels here
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—permitted to display its marvels here
 - [[affiliation-sorvan|The Sorvan]]—the imperial guard who keep the palace · [[place-thaurzurgalis|Thaurzûrgalis]]
-- [[place-aulpnpstmm|Aula Panepistemium]]—the Panepistemium's inner seat, sharing the hill
+- [[place-aulpnpstmm|Ômbâlon]]—the Plûmepistémion's inner seat, sharing the hill

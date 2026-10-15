@@ -3,7 +3,7 @@ shortcode: ankhelossath
 name: {full: Ânkhêlôs Sathêrândis, aliases: [Archimandrite Ânkhêlôs Sathêrândis]}
 type: being
 subType: npc
-description: A senior Sacred Forge clergyman based in the capital, named in Myrine Kalypsos.
+description: A senior Sacred Forge clergyman based in the capital, named in Mirênê Kalêthos.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Ânkhêlôs Sathêrândis is an archimandrite of the Sacred Forge, a senior clergyman based in the capital. He has made the growing influence of the Black Flame a personal crusade. He presses local authorities to restrict its preaching, discredit known sympathizers and fund counter-sermons, though Vylarian law keeps him from acting against [[being-myrnklypss|Myrine Kalypsos]] directly.
+Ânkhêlôs Sathêrândis is an archimandrite of the Sacred Forge, a senior clergyman based in the capital. He has made the growing influence of the Black Flame a personal crusade. He presses local authorities to restrict its preaching, discredit known sympathizers and fund counter-sermons, though Vylarian law keeps him from acting against [[being-myrnklypss|Mirênê Kalêthos]] directly.

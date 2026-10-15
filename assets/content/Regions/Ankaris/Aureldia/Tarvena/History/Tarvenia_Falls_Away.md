@@ -20,7 +20,7 @@ data:
         - affiliation-kingdmlnrk
         - place-lezkora
       summary: >-
-        With the legions drawn north to the hunger raids and the soldiers' pay cut, the occupied lowlands stop paying. The mountain lords meet at Lezkóra and elect Garváneth of Astúrath the first High King to drive the garrisons out; Léonrik's watchtowers are turned to face the coast. Short of silver to pay the lords who elected him, Garváneth sells Valthári a charter of self-government for a yearly tribute.
+        With the legions drawn north to the hunger raids and the soldiers' pay cut, the occupied lowlands stop paying. The mountain lords meet at Lezkóra and elect Garváneth of Astúrath the first High King to drive the garrisons out; Liénrik's watchtowers are turned to face the coast. Short of silver to pay the lords who elected him, Garváneth sells Valthári a charter of self-government for a yearly tribute.
       standing: attested
       names:
         - {name: the First High King, by: affiliation-kngdmstrth}
@@ -74,7 +74,7 @@ The lowlands had been paying the Empire since about 140 AF, in taxes and in the 
 
 ## The Election
 
-The mountain lords had never had a king over them, and now they had a reason to elect one: the lowlands were falling away from the Empire, and somebody would take them. They met at [[place-lezkora|Lezkóra]], elected Garváneth, an Astúrathi lord with the largest following, and pledged him their levies for as long as it took to drive the garrisons out. The Léonriki, who had kept the Empire's watchtowers for four centuries, turned them from the highlands to the coast.
+The mountain lords had never had a king over them, and now they had a reason to elect one: the lowlands were falling away from the Empire, and somebody would take them. They met at [[place-lezkora|Lezkóra]], elected Garváneth, an Astúrathi lord with the largest following, and pledged him their levies for as long as it took to drive the garrisons out. The Liénriki, who had kept the Empire's watchtowers for four centuries, turned them from the highlands to the coast.
 
 The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold **Valthári** a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the Consejárath. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
 
@@ -82,7 +82,7 @@ The garrisons were out within seven years, and the High King found he had no sil
 
 - **The elected High Kingship.** A crown that has no army, no bureaucracy and a vote that is rarely quiet ([[affiliation-kingdmtrvn|The Kingdom of Tarvénia]]).
 - **Valthári's charter.** The free city's independence, bought and paid for each year ([[affiliation-frctyvlthr|The Free City of Valthári]]).
-- **The turned watchtowers.** Léonrik's chain of towers facing the coast, still lit by the families who keep them.
+- **The turned watchtowers.** Liénrik's chain of towers facing the coast, still lit by the families who keep them.
 - **Tarvénian hosts pressing west.** The lords the garrisons had held down now looked at the province across the mountains ([[lore-malnebris|Malnebrìs]]).
 
 ## See Also

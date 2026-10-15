@@ -77,7 +77,7 @@ The gods are also where the doctrine bites. They witness promises and weigh a pe
 
 ## Lekhau
 
-Khelâthi magic is priestly, and the line between priest and mage barely exists. Sacred power is trained in temple schools, licensed by temple authority, and practised as an extension of liturgy rather than as a separate craft; [[lore-khelunulekha|Khelunu Lekhau]] is the tradition and the houses that keep it. The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in the empire and no prospect of one, and its factors are received with the courtesy owed to a foreign scholar who has misunderstood something fundamental.
+Khelâthi magic is priestly, and the line between priest and mage barely exists. Sacred power is trained in temple schools, licensed by temple authority, and practised as an extension of liturgy rather than as a separate craft; [[lore-khelunulekha|Khelunu Lekhau]] is the tradition and the houses that keep it. The [[affiliation-ordoarcanis|Thôrdimâlon]] has no presence in the empire and no prospect of one, and its factors are received with the courtesy owed to a foreign scholar who has misunderstood something fundamental.
 
 :::secret
 **For the GM:** The stranger rule is what makes organised crime here unlike organised crime anywhere else. A criminal family is nobody's doctrinal business—its obligations are held by kinship, as everyone's are. A body that takes in strangers and writes down what they owe is doing the one thing temples exist to do, and the priesthood answers that as heresy rather than theft. So growth is what condemns a syndicate, not violence or money, and its serious enemy is a priest rather than a magistrate. A party can be hired by either.

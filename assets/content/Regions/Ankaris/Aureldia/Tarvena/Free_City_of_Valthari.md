@@ -98,6 +98,6 @@ Free City of Valthári uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
 - [[place-valthari|Valthári]]—The city itself
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The three kingdoms
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The three kingdoms
 - [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan free polity
 - [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—Major trading partners

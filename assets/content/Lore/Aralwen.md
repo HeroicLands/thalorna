@@ -35,9 +35,9 @@ escorted out, and one who returns, or who desecrates, is dealt with finally. The
 arálwen is recognized both by tribal custom and by the crown of Élavendre, and it is older than
 either—it descends from the Kindred Pact, the compact between the Áelendan and the land itself.
 
-That has put them in open conflict with the [[affiliation-ordoarcanis|Ordo Arcanis]], which regards
+That has put them in open conflict with the [[affiliation-ordoarcanis|Thôrdimâlon]], which regards
 the arálwain as the most interesting arcane phenomena in the west and has spent decades sending
-surveyors to map them. Research camps are found abandoned. The Ordo deplores the incidents publicly,
+surveyors to map them. Research camps are found abandoned. The Arcane Order deplores the incidents publicly,
 tallies its losses privately, and sends more agents.
 
 ## Named Arálwain
@@ -52,7 +52,7 @@ tallies its losses privately, and sends more agents.
 ## The Name
 
 _Arálwen_ is the [[affiliation-theoldway|Old Way]]'s word, worn down from an older **arallwyn**—"the other place." The doubled consonant simplified, the ending fronted as it does in T'éna and
-Tîpel, and the stress settled where the acute now marks it. Áelendan shamen use the plural
+Tîmel, and the stress settled where the acute now marks it. Áelendan shamen use the plural
 **arálwain**; the Élavendren court, which prefers not to name such things precisely, says _the thin
 places_.
 

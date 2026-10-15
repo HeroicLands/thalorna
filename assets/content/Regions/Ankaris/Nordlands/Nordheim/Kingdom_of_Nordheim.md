@@ -144,7 +144,7 @@ Worship is practical and personal. People make offerings at standing stones, in 
 
 Magic in Nordheim takes two forms. _Seidr_ is the völvur's craft of trance, spirit journeys and divination. It is powerful and socially fraught: respected in a woman, it is called _ergi_ (unmanly) in a man, though some men practice it anyway. _Rúnagaldr_ is the craft of cutting runes with intent, kept by specialists called _rúnameistari_ (rune-masters). It is accepted in either sex and closely tied to the worship of [[lore-odvardty|Ódvar]], who paid an eye at [[lore-minnir|Minnir]]'s well for the runes. The rune-masters teach that the eye was the only price he paid and the well the only place he paid it: he drank, the runes stood in the water, and the first thing they spelled for him was his own death at [[lore-aldarlok|Aldarlok]].
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has almost no presence in Nordheim. The Nordmen distrust foreign institutions, and their own traditions were old centuries before the Ordo existed.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] has almost no presence in Nordheim. The Nordmen distrust foreign institutions, and their own traditions were old centuries before the Arcane Order existed.
 
 ## Relations
 

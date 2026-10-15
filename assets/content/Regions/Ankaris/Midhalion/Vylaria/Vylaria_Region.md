@@ -3,7 +3,7 @@ shortcode: vylariargn
 name: {full: Vylaría Region, aliases: []}
 type: place
 subType: region
-description: "The heartland of the Vylarian Empire on the northern shore of the Vylarian Sea—four imperial provinces and the independent Holy Kingdom of Nartûm, with the Áelendan-held Cervaron Spine on its western frontier."
+description: "The heartland of the Vylarian Empire on the northern shore of the Vylarian Sea—four imperial provinces and the independent Holy Kingdom of Nartûn, with the Áelendan-held Cervaron Spine on its western frontier."
 tags: []
 data:
   demonym: null
@@ -21,19 +21,19 @@ data:
 
 ## Overview
 
-Vylaría is the heartland of an empire that is smaller than its maps: a warm peninsula on the northern shore of the [[place-vylarianse|Vylarian Sea]], within [[place-midhalnrgn|Mídhalión Region]], that once stood at the summit of civilization and still governs as though it did. It is the land of the [[affiliation-vylarinmpr|Vylarian Empire]] and of the independent [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]. An outsider remembers it for three things: its steel, its roads, and its capital, [[place-orzara|Ôrzâra]].
+Vylaría is the heartland of an empire that is smaller than its maps: a warm peninsula on the northern shore of the [[place-vylarianse|Vylarian Sea]], within [[place-midhalnrgn|Mídhalión Region]], that once stood at the summit of civilization and still governs as though it did. It is the land of the [[affiliation-vylarinmpr|Vylarian Empire]] and of the independent [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûn]]. An outsider remembers it for three things: its steel, its roads, and its capital, [[place-orzara|Ôrzâra]].
 
 Vylaría lies east of [[place-tarvenirgn|Tarvénia]], west of [[place-heladrgn|Hellád]], south of [[place-velanthrgn|Velanthia]], and southeast of [[place-vrystwald|Vrystwald]].
 
-| Land                                  | Held by                                                                | People    | Seat                           |
-| ------------------------------------- | ---------------------------------------------------------------------- | --------- | ------------------------------ |
-| [[place-alyssa\|Alyssa]]              | [[affiliation-provinclys\|Province of Alyssa]], the heartland          | 7,000,000 | [[place-alyssar\|Alyssar]]     |
-| [[place-hylen\|Hylen]]                | [[affiliation-provnchyln\|Province of Hylen]], the breadbasket         | 7,000,000 | [[place-aravantia\|Aravantia]] |
-| [[place-salkhalon\|Sâlkhâlon]]        | [[affiliation-provincvld\|Province of Sâlkhâlon]], the coast and fleet | 5,000,000 | [[place-mercavia\|Mercavia]]   |
-| [[place-moktur\|Moktur]]              | [[affiliation-provncmktr\|Province of Moktur]], the northern march     | 2,000,000 | [[place-tyrellan\|Tyrellan]]   |
-| [[place-nartumkngdm\|Nartûm Kingdom]] | [[affiliation-hlykngdmnrtm\|Holy Kingdom of Nartûm]], independent      | 2,500,000 | [[place-nartum\|Nartûm]]       |
+| Land                                  | Held by                                                                | People    | Seat                            |
+| ------------------------------------- | ---------------------------------------------------------------------- | --------- | ------------------------------- |
+| [[place-alyssa\|Alêssâ]]              | [[affiliation-provinclys\|Province of Alêssâ]], the heartland          | 7,000,000 | [[place-alyssar\|Alêssar]]      |
+| [[place-hylen\|Hilen]]                | [[affiliation-provnchyln\|Province of Hilen]], the breadbasket         | 7,000,000 | [[place-aravantia\|Aravantâra]] |
+| [[place-salkhalon\|Sâlkhâlon]]        | [[affiliation-provincvld\|Province of Sâlkhâlon]], the coast and fleet | 5,000,000 | [[place-mercavia\|Dêlâlâra]]    |
+| [[place-moktur\|Moktur]]              | [[affiliation-provncmktr\|Province of Moktur]], the northern march     | 2,000,000 | [[place-tyrellan\|Tirellan]]    |
+| [[place-nartumkngdm\|Nartûn Kingdom]] | [[affiliation-hlykngdmnrtm\|Holy Kingdom of Nartûn]], independent      | 2,500,000 | [[place-nartum\|Nartûn]]        |
 
-The imperial capital, Ôrzâra, with something under a million people, stands in Alyssa and is counted with it.
+The imperial capital, Ôrzâra, with something under a million people, stands in Alêssâ and is counted with it.
 
 ## Geography
 
@@ -57,14 +57,14 @@ The names differ with the speaker. The Áelendan name the range only in their ow
 
 - **Vylarian Steel:** the empire's most famous export, an alloy of unmatched quality whose forging is a closely guarded secret.
 - **The Vylarian Roads:** the engineering that once joined the empire's territories; many stand and remain the main overland trade routes.
-- **The [[place-vylarisrvr|River Vylaris]]:** the river the heartland is named for, running through Alyssa and Sâlkhâlon to the sea.
+- **The [[place-vylarisrvr|River Vylaris]]:** the river the heartland is named for, running through Alêssâ and Sâlkhâlon to the sea.
 
 ## See Also
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the empire that holds this land
-- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]—the independent Vylari-speaking kingdom
+- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûn]]—the independent Vylari-speaking kingdom
 - [[place-midhalnrgn|Mídhalión Region]]—the enclosing region
-- [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]], [[place-salkhalon|Sâlkhâlon]]—the four provinces' lands
-- [[place-nartumkngdm|Nartûm Kingdom]]—the Holy Kingdom's land
+- [[place-alyssa|Alêssâ]], [[place-hylen|Hilen]], [[place-moktur|Moktur]], [[place-salkhalon|Sâlkhâlon]]—the four provinces' lands
+- [[place-nartumkngdm|Nartûn Kingdom]]—the Holy Kingdom's land
 - [[place-orzara|Ôrzâra City]]—the imperial capital
 - [[lore-vylarianclt|Vylarian]]—the people and their manners

@@ -72,7 +72,7 @@ The [[affiliation-asguardian|Asguardian Ten]] are near and demanding powers. Wor
 
 The central act is the blót: an offering and meal shared by gods, living people and the dead. Small household offerings fit daily work; the great communal blóts mark the seasons. At a hof, a shrine-house or hall, the local godi or gydja keeps the rites and witnesses public oaths. Domestic rune-staves guide small choices, while trained rune-priests interpret deeper currents of fate.
 
-Wandering völvur offer _seidr_, dream-reading and contact with spirits outside a single hof's service. Gróa's wandering belongs to this wider religious life. The [[affiliation-ordoarcanis|Ordo Arcanis]] has little reach in the north, where local magical traditions and distrust of foreign rule shape whom people consult.
+Wandering völvur offer _seidr_, dream-reading and contact with spirits outside a single hof's service. Gróa's wandering belongs to this wider religious life. The [[affiliation-ordoarcanis|Thôrdimâlon]] has little reach in the north, where local magical traditions and distrust of foreign rule shape whom people consult.
 
 ## The Year at the Hall
 

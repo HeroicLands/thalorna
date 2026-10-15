@@ -20,14 +20,14 @@ An ancient relic of the Aurèldían faith has been lost in the ruins of Ménavar
 
 ### Overview
 
-Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[place-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Ordo Arcanis]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
+Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[place-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Thôrdimâlon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
 
 ### Stage One: The Commission
 
 The party is approached by one of several factions seeking the relic:
 
 - An Aurèldían bishop or abbott who believes the relic belongs to the Church
-- An agent of the [[affiliation-ordoarcanis|Ordo Arcanis]] tasked with "studying" the artifact
+- An agent of the [[affiliation-ordoarcanis|Thôrdimâlon]] tasked with "studying" the artifact
 - A noble house that claims historical custody of the relic
 - A mysterious collector who makes a substantial offer
 
@@ -93,7 +93,7 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 
 - If the party succeeds, they must decide what to do with the relic
   - Return it to the hiring faction (creates enemies among rivals)
-  - Claim it (brings the [[affiliation-ordoarcanis|Ordo Arcanis]] and Church down on them)
+  - Claim it (brings the [[affiliation-ordoarcanis|Thôrdimâlon]] and Church down on them)
   - Destroy or hide it (prevents anyone from misusing it, but angers the hiring authority)
 - The relic may be cursed, addictive, or carry unforeseen consequences
 - Previously hidden secrets of the abbey are revealed (historical knowledge, prophecies)
@@ -105,5 +105,5 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

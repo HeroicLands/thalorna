@@ -12,9 +12,9 @@ data: {packFolder: adventurersguides, culture: helioniteclt}
 >
 > On the quay, a herald in a bleached wool cloak reads a decree of the assembly to whoever will stop, and a knot of men argue with him about its third clause before he has finished it. A metic factor in a dyed Tarûzelian robe counts amphorae of oil onto a lighter; two shipwrights with tarred forearms carry a mast-spar past him without breaking stride; a gray-haired woman in a saffron mantle steps around the whole business, followed by a slave with her writing-case. The oarsman who sat two benches in front of you all the way from the islands vaults onto the stones, rope-burned palms still black with tar, turns, and offers you his hand. "_Rhéthashin, dhidákhir!_" he says: speak, teach! "Of Pelagora. Bákîon Chàddâris, citizen, stroke oar. Which city is yours?" You name a country. He laughs, loud enough that the men at the herald's elbow look round, and asks what your people think justice is. Before you have finished the first sentence, two of them have come over to listen, and one is already shaking his head. Bákîon waves him quiet and lets you finish; then he takes your bag off your shoulder, slings it on his own, and starts up the quay toward the customs shed, where a magistrate's clerk is chalking a seal across half your ship's cargo.
 
-[[place-helionis|Heliónis]] is seven cities in the hills east of [[place-vylariargn|Vylaría]], three million people who share a tongue, a pantheon, a calendar of festivals and games, and an unshakable confidence in their own civilization, and who agree about almost nothing else. The country reaches the [[place-vylarianse|Vylarian Sea]] only along one short coast at its south-western corner, facing the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]] across the water; everything else is olive terraces, narrow valleys and abrupt ranges, with a road over each pass that joins two cities and divides them as often. The Vylarian Republic conquered these cities and then spent centuries sending its children to be educated by them. Their academies taught the west to argue, and the [[affiliation-ordoarcanis|Ordo Arcanis]] was born in one of them.
+[[place-helionis|Heliónis]] is seven cities in the hills east of [[place-vylariargn|Vylaría]], three million people who share a tongue, a pantheon, a calendar of festivals and games, and an unshakable confidence in their own civilization, and who agree about almost nothing else. The country reaches the [[place-vylarianse|Vylarian Sea]] only along one short coast at its south-western corner, facing the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]] across the water; everything else is olive terraces, narrow valleys and abrupt ranges, with a road over each pass that joins two cities and divides them as often. The Vylarian Republic conquered these cities and then spent centuries sending its children to be educated by them. Their academies taught the west to argue, and the [[affiliation-ordoarcanis|Thôrdimâlon]] was born in one of them.
 
-This guide is what the **College of Ethics** of the [[affiliation-panepistmm|Panepistemium]] at Thyrenae gives its foreign students in their first week. They arrive from every corner of [[place-midhalnrgn|Mídhalión]], most of them by sea at Pelagora, and the College would rather they made their first mistakes on paper.
+This guide is what the **College of Ethics** of the [[affiliation-panepistmm|Plûmepistémion]] at Thyrenae gives its foreign students in their first week. They arrive from every corner of [[place-midhalnrgn|Mídhalión]], most of them by sea at Pelagora, and the College would rather they made their first mistakes on paper.
 
 **The one thing to understand before anything else: in Heliónis, you are what you can defend in public.** A Helionite reputation cannot be inherited and cannot be bought. It is performed—in the agora, in the assembly, at the games, in the theater and in court—before people competent to judge it, and it has to be performed again. A rich man's son who cannot argue is told so to his face and then invited to dinner anyway. A foreigner who will not be examined is taken for modest or for a fraud, and pressed until his hosts know which. Come prepared to say something and stand behind it, and every door in the seven cities opens to the argument.
 
@@ -24,7 +24,7 @@ Each city is sovereign, with its own government, laws and customs, and each beli
 
 Choose [[place-pelagora2|Pelagora]] if you want the sea. Its harbor is one of the finest anchorages on the central sea, its shipwrights build the fastest galleys on it, and its fleet is the largest in the region and controls the sea lanes of the eastern Vylarian Sea. [[affiliation-pelagora|Pelagora]] is a democracy: free citizens vote on war, trade and law, and each of them serves in the fleet or the militia, so every vote is cast by someone who will row or fight for it. Its assembly is the loudest place in the country.
 
-Choose [[place-thyrenae2|Thyrenae]] if you want the academies. It is the oldest and most prestigious of the seven, the first home of the Panepistemium, and its credential settles the question of where a scholar was taught. White marble colonnades, shaded courts and terraced gardens are built for contemplation and debate, and the **Library of Thyrenae** is said to hold more manuscripts than any collection outside the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. [[affiliation-thyrenae|Thyrenae]] is governed by a philosophical council of senior scholars and the heads of its oldest families, so power there follows a reputation for learning before it follows money. Thyrenae needs Pelagora's fleet, and Pelagora needs Thyrenae's diplomats; the two are rivals and partners at once.
+Choose [[place-thyrenae2|Thyrenae]] if you want the academies. It is the oldest and most prestigious of the seven, the first home of the Plûmepistémion (the Academy of Knowledge), and its credential settles the question of where a scholar was taught. White marble colonnades, shaded courts and terraced gardens are built for contemplation and debate, and the **Library of Thyrenae** is said to hold more manuscripts than any collection outside the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. [[affiliation-thyrenae|Thyrenae]] is governed by a philosophical council of senior scholars and the heads of its oldest families, so power there follows a reputation for learning before it follows money. Thyrenae needs Pelagora's fleet, and Pelagora needs Thyrenae's diplomats; the two are rivals and partners at once.
 
 Choose [[place-kalydria2|Kalydria]] if you want the theater. Where Thyrenae pursues truth and Pelagora pursues power, Kalydria pursues beauty. Arrive in the weeks of a festival and the inns are full, a crowd waits outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. [[affiliation-kalydria|Kalydria's]] patron families compete by spending, and a Kalydrian prize is the highest honor a dramatist can win. The **Academy of the Silver Veil** trains its hetairai there.
 
@@ -68,7 +68,7 @@ WHERE type = 'affiliation'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The [[affiliation-vylarinmpr|Vylarian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Heliónis]]), and Heliónis still keeps its formal ties to the empire: the cities spend [[lore-vylrncrncy|Vylarian coin]], Helionite mints strike Ard and Bit under imperial standards, and the [[affiliation-tolvan|Tolvan]] still claims their taxes on paper, which the cities do not pay. As the empire declines, the cities have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
+The [[affiliation-vylarinmpr|Vylarian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Heliónis]]), and Heliónis still keeps its formal ties to the empire: the cities spend [[lore-vylrncrncy|Vylarian coin]], Helionite mints strike Ardin and Bit under imperial standards, and the [[affiliation-tolvan|Tolvan]] still claims their taxes on paper, which the cities do not pay. As the empire declines, the cities have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
 
 ## The Agora and the Dinner Table
 
@@ -90,16 +90,16 @@ The shared festivals are the nearest thing Heliónis has to a national instituti
 
 The mystery cults are a distinctly Helionite institution: secretive societies that promise their initiates deeper knowledge through revelation in stages. Some are purely spiritual. Several have real political influence, and a party that needs to know who in a city answers to whom may have to ask which of its magistrates have been initiated.
 
-## The Academies and the Ordo
+## The Academies and the Order
 
-Every city of note has its academies, gymnasia and theaters, and the great academies draw students from across Ankaris. Mathematics, natural philosophy, rhetoric, medicine, ethics, law and the theory of magic are all taught and argued over in public. Around 400 BF the schools of the city-states joined in the Panepistemium—the Panepistēmion, the place of all knowledge—a federation in which every domain of inquiry stood level with every other. Its College of Arcane Philosophy was one college among many.
+Every city of note has its academies, gymnasia and theaters, and the great academies draw students from across Ankaris. Mathematics, natural philosophy, rhetoric, medicine, ethics, law and the theory of magic are all taught and argued over in public. Around 400 BF the schools of the city-states joined in the Plûmepistémion—the Plûmepistémion, the place of all knowledge—a federation in which every domain of inquiry stood level with every other. Its College of Arcane Philosophy was one college among many.
 
-When the Republic conquered the cities, the Senate took that college out of the federation in 312 BF and, in 73 BF, chartered it as the Ordo Arcanis. The other colleges stayed, diminished but intact, and they are strongest here. Helionites regard the Ordo as their intellectual offspring: they are proud of the parentage and uneasy about the child.
+When the Republic conquered the cities, the Senate took that college out of the federation in 312 BF and, in 73 BF, chartered it as the Thôrdimâlon (the Arcane Order). The other colleges stayed, diminished but intact, and they are strongest here. Helionites regard the Order as their intellectual offspring: they are proud of the parentage and uneasy about the child.
 
-That unease has a working rule. Several city-states have arrangements that let a Helionite philosopher study arcane theory and debate magical philosophy without joining the Ordo, so long as he does not practice. "Read what you like and argue what you like," an Ordo clerk tells students. "Our interest begins the day you do it." The line between theory and practice is blurred, and both sides use the blur. Unlicensed practitioners are more common in Heliónis than the Ordo would like, and its inquisitors of the **Sekran** tread more carefully here than anywhere else.
+That unease has a working rule. Several city-states have arrangements that let a Helionite philosopher study arcane theory and debate magical philosophy without joining the Order, so long as he does not practice. "Read what you like and argue what you like," an Order clerk tells students. "Our interest begins the day you do it." The line between theory and practice is blurred, and both sides use the blur. Unlicensed practitioners are more common in Heliónis than the Order would like, and its inquisitors of the **Sekran** tread more carefully here than anywhere else.
 
 :::secret
-**For the GM:** The College's account leaves out what Helionites are quieter about. In the war of 335–312 BF the cities' mages became mage-warlords their own cities could not control, and their sorceries poisoned the land and killed on a scale no army could match; Helionite mages made the Ordo necessary. The Republic broke them with the **Dragon Riders**, and how it secured the dragons is told in [[lore-dragondead|The Dragon Dead at Therádon]] and [[lore-thebargain|The Bargain]]. Old battlefields and the ruins of the mage-warlords' seats still lie in the hills.
+**For the GM:** The College's account leaves out what Helionites are quieter about. In the war of 335–312 BF the cities' mages became mage-warlords their own cities could not control, and their sorceries poisoned the land and killed on a scale no army could match; Helionite mages made the Order necessary. The Republic broke them with the **Dragon Riders**, and how it secured the dragons is told in [[lore-dragondead|The Dragon Dead at Therádon]] and [[lore-thebargain|The Bargain]]. Old battlefields and the ruins of the mage-warlords' seats still lie in the hills.
 :::
 
 ## What Gets a Newcomer into Trouble
@@ -112,7 +112,7 @@ That unease has a working rule. Several city-states have arrangements that let a
 
 **Treating a metic's rights as a citizen's.** A foreigner cannot own land, cannot vote, and is liable to the levy if the city goes to war while he lives there.
 
-**Practicing what you may only study.** Arcane theory is free in Heliónis. Casting is the Ordo's business, and a philosopher who crosses the line answers to the Ordo.
+**Practicing what you may only study.** Arcane theory is free in Heliónis. Casting is the Order's business, and a philosopher who crosses the line answers to the Order.
 
 **Touching a herald.** His person is inviolable, even between cities at war.
 
@@ -138,7 +138,7 @@ A party can arrive by sea at Pelagora, overland from Vylaría with students boun
 
 At the first agora, ask three questions: **Which city's law are you standing under? Who will speak for you in its assembly? What can you defend in public?** The answers give a party its patron, its standing and its first argument.
 
-Campaigns start well from a contest. A city needs a team for the games and its best wrestler has broken his arm. A playwright's patron family wants the rival family's production to fail on the night. A magistrate cannot leave the city until his accounts balance, and someone has made sure they never will. An ambassador must reach a city its own city is at war with, and needs escorts who are not citizens of either. A student of the College of Ethics has found a manuscript that proves an Ordo theorem was argued first in a different college, by someone who also argued about justice.
+Campaigns start well from a contest. A city needs a team for the games and its best wrestler has broken his arm. A playwright's patron family wants the rival family's production to fail on the night. A magistrate cannot leave the city until his accounts balance, and someone has made sure they never will. An ambassador must reach a city its own city is at war with, and needs escorts who are not citizens of either. A student of the College of Ethics has found a manuscript that proves an Order theorem was argued first in a different college, by someone who also argued about justice.
 
 :::secret
 **For the GM:** The sharpest tool Heliónis offers is that every decision is public and every city is sovereign. A party that wins an argument in one agora has made an enemy who will be in the next one, and a decree that binds one city means nothing over the pass. The shared festivals bring rival cities to one sacred site, where taking part is a duty to the gods, and that duty is the one thing the party can count on both sides to honor.
@@ -150,10 +150,10 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 - [[affiliation-ctysttshlns|City-States of Heliónis]] for the constitutions, the offices and the ladder of standing
 - [[lore-helioniteclt|Helionite]] for what a Helionite holds a person owes
 - [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]] and [[affiliation-kalydria|Kalydria]] for the three leading cities, and [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]] for the other four
-- [[affiliation-panepistmm|The Panepistemium]], [[lore-panepistfnd|its founding]] and [[affiliation-ordoarcanis|the Ordo Arcanis]] for the academies and the order that grew out of them
-- [[lore-helionscnq|The Conquest of Heliónis]] for the war that ended the cities' freedom and began the Ordo
+- [[affiliation-panepistmm|The Plûmepistémion]], [[lore-panepistfnd|its founding]] and [[affiliation-ordoarcanis|the Thôrdimâlon]] for the academies and the order that grew out of them
+- [[lore-helionscnq|The Conquest of Heliónis]] for the war that ended the cities' freedom and began the Order
 - [[affiliation-arldnpnthn|The Aurèldían Pantheon]] for the gods the cities share
-- [[skill-helonclng|Helonic]] for the tongue of the academies and its naming traditions
+- [[skill-helonclng|Helonic]] for the tongue of the theater and its naming traditions
 - [[place-heladrgn|Hellád]] for the wider country, and [[place-byzariargn|Byzaría]] for the cousins to the east
 
 ## Glossary
@@ -169,6 +169,6 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 | mage-warlord | A Helionite mage of the conquest war who commanded forces his own city could not |
 | strategos    | Elected commander of a city's forces, re-electable without limit                 |
 
-Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-helioniteclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

@@ -38,4 +38,4 @@ Thalûrôs Sôltêrâtês is a 64-year-old man who stands 5'9" tall with a mediu
 
 # Dossier {#dossier}
 
-Thalûrôs Sôltêrâtês is the Master Scriptorium Director, head of the Imperial Scribal Academy and arguably the most respected calligrapher in the Empire. He is known for exacting standards and notorious harshness. [[being-ailemkrmys|Ailêmâ Kêrîamyês]] was apprenticed to him at fourteen and studied under him for six years.
+Thalûrôs Sôltêrâtês is the Master Scriptorium Director, head of the Imperial Scribal Academy and arguably the most respected calligrapher in the Empire. He is known for exacting standards and notorious harshness. [[being-ailemkrmys|Ailêmâ Kêrâmyês]] was apprenticed to him at fourteen and studied under him for six years.

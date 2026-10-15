@@ -3,7 +3,7 @@ shortcode: khofiosbolal
 name: {full: Khofios Bolalídek, aliases: [Swordmaster Khofios the Undefeated, Swordmaster Khofios]}
 type: being
 subType: npc
-description: A swordmaster called the Undefeated, in the service of the Empire's rival power, who envies Korêmdânis Bárkrâtys's reputation.
+description: A swordmaster called the Undefeated, in the service of the Empire's rival power, who envies Korêmdânis Barkrâtis's reputation.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Khofios Bolalídek is a 46-year-old man who stands 6'3" tall with a medium build
 
 # Dossier {#dossier}
 
-Khofios Bolalídek is a swordmaster called the Undefeated. He serves the Empire's rival power and harbors intense envy of the reputation of [[being-krmdnsbrkrtys|Korêmdânis Bárkrâtys]]. The two have not yet formally dueled, though both know it is inevitable.
+Khofios Bolalídek is a swordmaster called the Undefeated. He serves the Empire's rival power and harbors intense envy of the reputation of [[being-krmdnsbrkrtys|Korêmdânis Barkrâtis]]. The two have not yet formally dueled, though both know it is inevitable.

@@ -1,15 +1,15 @@
 ---
 shortcode: hiltheristho
-name: {full: Hîlthêris Thôlmârândis, aliases: [Magister Hîlthêris Thôlmârândis]}
+name: {full: Hîlthêris Thôlmârândis, aliases: [Mârendândôs Hîlthêris Thôlmârândis]}
 type: being
 subType: npc
-description: A magister of the Ordo whose theories Azatô Dâemzânis publicly demolished.
+description: A mârendândôs (master) of the Order whose theories Azatô Dâmzânis publicly demolished.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, scholar]
-  occupation: Magister
+  occupation: Mârendândôs
   lore: []
   culture: vylarianclt
   homes: []
@@ -36,4 +36,4 @@ Hîlthêris Thôlmârândis is a 67-year-old woman who stands 5'8" tall with a m
 
 # Dossier {#dossier}
 
-Hîlthêris Thôlmârândis was a magister of the Ordo whose theories [[being-azatodmzns|Azatô Dâemzânis]] publicly demolished. Hîlthêris died under circumstances never fully clarified, and the death prompted an internal investigation that touched [[being-azatodmzns|Azatô Dâemzânis]] peripherally. The matter was officially closed, but file agents of the Sekran keep certain suspicions.
+Hîlthêris Thôlmârândis was a _mârendândôs_ (master) of the Order whose theories [[being-azatodmzns|Azatô Dâmzânis]] publicly demolished. Hîlthêris died under circumstances never fully clarified, and the death prompted an internal investigation that touched [[being-azatodmzns|Azatô Dâmzânis]] peripherally. The matter was officially closed, but file agents of the Sekran keep certain suspicions.

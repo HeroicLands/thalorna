@@ -373,7 +373,7 @@ Gábêros stands 5'9" with a light, lean build—narrow in the shoulders and spa
 
 # Dossier {#dossier}
 
-Gábêros was born into a scholarly family in [[place-helionis|Heliónis]] and spent his early years surrounded by philosophy, rhetoric, and intellectual discourse. His father was a minor scholar at [[affiliation-panepistmm|the Panepistemium]]. Gábêros was educated beyond most soldiers' expectations but discovered early that pure intellectual work did not satisfy him—he wanted to apply knowledge to practical problems. At twenty, he joined the agora patrol, the city guard detail responsible for maintaining order in Heliónis's central marketplace and intellectual gathering spaces.
+Gábêros was born into a scholarly family in [[place-helionis|Heliónis]] and spent his early years surrounded by philosophy, rhetoric, and intellectual discourse. His father was a minor scholar at [[affiliation-panepistmm|the Plûmepistémion]]. Gábêros was educated beyond most soldiers' expectations but discovered early that pure intellectual work did not satisfy him—he wanted to apply knowledge to practical problems. At twenty, he joined the agora patrol, the city guard detail responsible for maintaining order in Heliónis's central marketplace and intellectual gathering spaces.
 
 The agora patrol is different from other city guard work. It requires the ability to understand complex commercial disputes, recognize when intellectual debate is beginning to shift into incitement to violence, manage both merchants and philosophers with equal authority. Gábêros thrived in this role. He became known as the guard who would explain the law instead of merely enforcing it, who would engage in actual discussion rather than wielding authority blindly.
 
@@ -401,7 +401,7 @@ Gábêros is fully integrated into Heliónis's intellectual and commercial estab
 
 ### Patrons
 
-**Master Academician Theron Philosophos**—A senior scholar at the Panepistemium who has mentored Gábêros intellectually and has become his patron within the academy. Theron sees that Gábêros has access to scholarly resources and support for his continued intellectual development alongside his guard work.
+**Master Academician Theron Philosophos**—A senior scholar at the Plûmepistémion (the Academy of Knowledge) who has mentored Gábêros intellectually and has become his patron within the academy. Theron sees that Gábêros has access to scholarly resources and support for his continued intellectual development alongside his guard work.
 
 ### Enemies
 
@@ -417,4 +417,4 @@ Gábêros is fully integrated into Heliónis's intellectual and commercial estab
 
 4. **The Merchant Council's Pressure**—The merchant council approaches Gábêros with pressure to be more aggressive in suppressing protesting workers and philosophers who are criticizing merchant practices. They are using political pressure and threatening to have him reassigned if he does not comply. Gábêros believes the protesters have legitimate grievances but is being pressured to silence them through guard authority.
 
-5. **The Academic Conspiracy**—Gábêros discovers evidence that some of the scholars at the Epistemium are engaged in a scheme to manipulate agora merchants through falsified intellectual arguments—deliberately creating philosophical justifications for harmful economic practices. Master Academician Theron is aware of the scheme and may even be involved. Gábêros can expose the conspiracy, which damages the academy he respects and the patron who has supported him, or allow it to continue.
+5. **The Academic Conspiracy**—Gábêros discovers evidence that some of the scholars at the Epistémion (the Academy) are engaged in a scheme to manipulate agora merchants through falsified intellectual arguments—deliberately creating philosophical justifications for harmful economic practices. Master Academician Theron is aware of the scheme and may even be involved. Gábêros can expose the conspiracy, which damages the academy he respects and the patron who has supported him, or allow it to continue.

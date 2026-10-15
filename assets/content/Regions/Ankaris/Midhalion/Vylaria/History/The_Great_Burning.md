@@ -20,7 +20,7 @@ data:
         - place-antel
         - place-selvin
       summary: >-
-        With Hylen's harvest lost to the war, the dole fails in Ôrzâra. The Circles riot, the Watch cannot hold the valley wards, and fire runs from the Warrens over Antel for six days. The families of the Old Hill move to the newer slopes of Selvin and do not go back.
+        With Hilen's harvest lost to the war, the dole fails in Ôrzâra. The Circles riot, the Watch cannot hold the valley wards, and fire runs from the Warrens over Antel for six days. The families of the Old Hill move to the newer slopes of Selvin and do not go back.
       standing: attested
       names:
         - {name: the Great Burning, by: affiliation-vylarinmpr}
@@ -58,7 +58,7 @@ A Watch sergeant, showing a new recruit round the lanes of the Old Hill's lower 
 
 ## The Failed Dole
 
-[[place-orzara|Ôrzâra]] is fed from [[place-hylen|Hylen]], and Hylen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olcassa]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the Empire ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
+[[place-orzara|Ôrzâra]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassâ]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the Empire ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
 
 ## The Fire
 
@@ -82,6 +82,6 @@ The Senate and the guild-masters rebuilt. They passed the decree of the Clearanc
 ## See Also
 
 - [[place-antel|Antel]] · [[place-selvin|Selvin]]—the hill that burned and the hill that rose
-- [[lore-olcassabtl|The Battle of Olcassa]]—the war behind the failed dole
+- [[lore-olcassabtl|The Battle of Olkassâ]]—the war behind the failed dole
 - [[lore-restorehouse|The Restoration]]—who took the city afterwards
 - [[place-orzara|Ôrzâra]]

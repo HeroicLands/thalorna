@@ -1,6 +1,8 @@
 ---
 shortcode: bulaqsovidyo
-name: {full: Bulaqsovid Yovaqur, aliases: [Magister Bulaqsovid, Town Administrator Bulaqsovid]}
+name:
+  full: Bulaqsovid Yovaqur
+  aliases: [Administrator Bulaqsovid, Town Administrator Bulaqsovid]
 type: being
 subType: npc
 description: The ambitious town administrator who views the animal training methods of Bazûdar Shahrûn as an obstacle to progress.

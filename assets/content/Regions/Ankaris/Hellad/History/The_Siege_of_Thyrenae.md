@@ -20,7 +20,7 @@ data:
         - affiliation-vylarinmpr
         - affiliation-pelagora
       summary: >-
-        Thyrenae is the last city standing, besieged by the legions on land while Pelagoran ships hold its coast. It falls in 312 BF on terms its archon Sôthanos Kôshamîdês negotiates: the walls are breached at one gate only, the libraries and the colleges are left standing, and the Senate's commissioners enter through that gate the same month to take the College of Arcane Philosophy out of the Panepistemium.
+        Thyrenae is the last city standing, besieged by the legions on land while Pelagoran ships hold its coast. It falls in 312 BF on terms its archon Sôthanos Kôshamîdês negotiates: the walls are breached at one gate only, the libraries and the colleges are left standing, and the Senate's commissioners enter through that gate the same month to take the College of Arcane Philosophy out of the Plûmepistémion.
       standing: attested
       names:
         - {name: the Last City, by: place-helionis}
@@ -30,7 +30,7 @@ data:
         reach:
           - place: place-helionis
             how: >-
-              the Panepistemium's birthplace is where its arcane college is taken out of it, and the other colleges are left standing in the city
+              the Plûmepistémion's birthplace is where its arcane college is taken out of it, and the other colleges are left standing in the city
             knowledge: named
           - place: place-pelagora2
             how: >-
@@ -69,18 +69,18 @@ By 313 BF Thyrenae was the last city of Heliónis that had not yielded. The legi
 
 ## The Terms
 
-The Archon of the year, **Sôthanos Kôshamîdês**, sent to the legate and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the College of Arcane Philosophy out of the [[affiliation-panepistmm|Panepistemium]] that same month, and the Senate placed it under the Kandral.
+The Archon of the year, **Sôthanos Kôshamîdês**, sent to the _phêlzândôs_ (legate) and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the College of Arcane Philosophy out of the [[affiliation-panepistmm|Plûmepistémion]] that same month, and the Senate placed it under the Kandral.
 
 ## What the Siege Left
 
 - **The Commissioners' Gate**, walled up in the days after and never reopened. Antiquarians go to see it, and nobody else uses the street.
 - **The Library of Thyrenae**, whole, and the colleges around it, which are the reason the city still teaches.
 - **The day of the extraction**, which the colleges keep as a day of silence.
-- **Thyrenae's claim** to be the birthplace of the Ordo and its first victim.
+- **Thyrenae's claim** to be the birthplace of the Arcane Order and its first victim.
 
 ## See Also
 
 - [[lore-helionscnq|The Conquest of Heliónis]]—the war this siege ends
 - [[lore-heladpelagtrty|The Pelagoran Treaty]]—what the ships on the coast were bought with
 - [[affiliation-thyrenae|Thyrenae]] · [[place-thyrenae2|The city of Thyrenae]]
-- [[affiliation-panepistmm|Panepistemium]]
+- [[affiliation-panepistmm|Plûmepistémion]]

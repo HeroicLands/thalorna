@@ -1,6 +1,6 @@
 ---
 shortcode: nilaratlgn
-name: {full: Nílara Tólgen, aliases: []}
+name: {full: Nilàra Tolgèn, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Nílara Tólgen is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with soft cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. Her wide-set hazel eyes sit beneath straight brows, lending her an open gaze. An aquiline nose and thin lips complete her features. She has olive-tanned skin with a weathered complexion. Her chestnut hair is twisted into an elaborate arrangement.
+Nilàra Tolgèn is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with soft cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. Her wide-set hazel eyes sit beneath straight brows, lending her an open gaze. An aquiline nose and thin lips complete her features. She has olive-tanned skin with a weathered complexion. Her chestnut hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Nílara Tólgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Nilàra Tolgèn came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
-Nílara grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Nílara is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
+Nilàra grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Nilàra is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Lacks strength for melee combat, can be overly reliant on her speed.
 
 ### Motivation
 
-Nílara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in yeoman archer work keep her vigilant and adaptable.
+Nilàra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in yeoman archer work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Skilled archer, quick and agile, excellent at tracking.
 
 ## Social
 
-Nílara is affiliated with Local Militia.
+Nilàra is affiliated with Local Militia.
 
-As a Provenzian yeoman archer, Nílara occupies a recognized social niche within Provènzia society.
+As a Provenzian yeoman archer, Nilàra occupies a recognized social niche within Provènzia society.
 
 ## Companions
 
 ### Patrons
 
-Nílara's primary patron is Local hunters and militia who have seen her skill firsthand. This relationship provides both opportunity and obligation.
+Nilàra's primary patron is Local hunters and militia who have seen her skill firsthand. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Poachers who encroach on her territory.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma**—Nílara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Yeoman Archer's Dilemma**—Nilàra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 
 2. **Old Grudges**—Poachers who encroach on her territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Nílara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Nilàra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Nílara depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Nilàra depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Nílara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Nilàra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

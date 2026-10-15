@@ -3,7 +3,7 @@ shortcode: dorandosmelv
 name: {full: Dôrândôs Mêlvarândis, aliases: [Lord Dôrândôs]}
 type: being
 subType: npc
-description: The aging noble who employs Érython Ûselîndâs as personal archer-guard.
+description: The aging noble who employs Erithon Ûselîndâs as personal archer-guard.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Dôrândôs Mêlvarândis is a 69-year-old man who stands 5'11" tall with a medi
 
 # Dossier {#dossier}
 
-Dôrândôs Mêlvarândis is an aging nobleman who oversees the lands where [[being-erythnslnds|Érython Ûselîndâs]] serves as personal archer-guard. He values [[being-erythnslnds|Érython Ûselîndâs]] as a trusted counselor as well as a skilled guard, and their relationship has deepened over long service into something approaching friendship.
+Dôrândôs Mêlvarândis is an aging nobleman who oversees the lands where [[being-erythnslnds|Erithon Ûselîndâs]] serves as personal archer-guard. He values [[being-erythnslnds|Erithon Ûselîndâs]] as a trusted counselor as well as a skilled guard, and their relationship has deepened over long service into something approaching friendship.

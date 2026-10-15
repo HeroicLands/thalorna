@@ -3,13 +3,13 @@ shortcode: estivren
 name: {full: Estivren, aliases: []}
 type: place
 subType: settlement
-description: "The upland sheep manor of Zûravlen—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
+description: "The upland sheep manor of Zuravlèn—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
 tags: [village, hill]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 190, packFolder: provenzia}
 ---
 
 **Estivren** sits where the terraces give out and the hill pasture begins. It is the oldest settlement
-in [[place-zuravlenrgn|Zûravlen]]—its name belongs to an older stratum than Elthrembìs or Blavéra—and it has never been much interested in peaches.
+in [[place-zuravlenrgn|Zuravlèn]]—its name belongs to an older stratum than Elthrembìs or Blavèra—and it has never been much interested in peaches.
 
 Use Estivren as the model of an **upland pastoral manor**, and as the reason the valley below works.
 
@@ -43,7 +43,7 @@ be; he holds something that cannot be grown in a season.
 A **bailiff** and a **reeve**, and—uniquely in the barony—a **head shepherd** whose office is
 customary, elective among the shepherd families, and effectively beyond the lord's power to fill. The
 **court baron** sits twice a year, and half its business is grazing boundaries with holdings outside
-Zûravlen altogether.
+Zuravlèn altogether.
 
 ## Character
 

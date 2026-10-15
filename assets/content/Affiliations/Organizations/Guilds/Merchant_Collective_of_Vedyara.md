@@ -103,7 +103,7 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 - The five seats of the Compact are two courts and three councils, and every one is a client, a debtor and an occasional opponent. The relationship is mutual dependence and mutual resentment.
 - The [[affiliation-twilighths|Twilight House]] is a major supplier of intelligence. The Collective uses its product to inform pricing and contract negotiations, an arrangement acknowledged at the top and denied below.
 - The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]], and particularly the [[affiliation-theashroad|Ash Road]], run desert caravan routes that complement and compete with the Collective's. The two keep an awkward truce, each understanding what the other could do to it.
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation. The Ordo answers by occasionally licensing competing operators outside the Compact.
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] has tried to establish a presence in Vedyaran markets and has been quietly frustrated by Collective non-cooperation. The Arcane Order answers by occasionally licensing competing operators outside the Compact.
 
 ## Identifying Marks
 

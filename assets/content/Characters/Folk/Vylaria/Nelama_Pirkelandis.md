@@ -3,7 +3,7 @@ shortcode: nelamapirkel
 name: {full: Nelâmâ Pîrkêlândis, aliases: [Merchant-Lady Nelâmâ Pîrkêlândis, Merchant-Lady Nelâmâ]}
 type: being
 subType: npc
-description: A wealthy merchant of considerable influence who employs Ailêmâ Kêrîamyês to handle her personal correspondence and record-keeping.
+description: A wealthy merchant of considerable influence who employs Ailêmâ Kêrâmyês to handle her personal correspondence and record-keeping.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Nelâmâ Pîrkêlândis is a 59-year-old woman who stands 5'10" tall with a medi
 
 # Dossier {#dossier}
 
-Nelâmâ Pîrkêlândis is a wealthy merchant of considerable influence. Nelâmâ employs [[being-ailemkrmys|Ailêmâ Kêrîamyês]] to handle her personal correspondence and record-keeping. Nelâmâ appreciates [[being-ailemkrmys|Ailêmâ Kêrîamyês]]'s discretion and has become something of a patron to her.
+Nelâmâ Pîrkêlândis is a wealthy merchant of considerable influence. Nelâmâ employs [[being-ailemkrmys|Ailêmâ Kêrâmyês]] to handle her personal correspondence and record-keeping. Nelâmâ appreciates [[being-ailemkrmys|Ailêmâ Kêrâmyês]]'s discretion and has become something of a patron to her.

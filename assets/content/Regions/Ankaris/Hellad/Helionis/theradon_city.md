@@ -3,14 +3,14 @@ shortcode: theradon2
 name: {full: Therádon, aliases: []}
 type: place
 subType: settlement
-description: "An inland Helionite city of terraced marble, old libraries and a Panepistemium chapterhouse, whose citizens consider themselves qualified to instruct everyone else."
+description: "An inland Helionite city of terraced marble, old libraries and a Plûmepistémion chapterhouse, whose citizens consider themselves qualified to instruct everyone else."
 tags: [city-state, city, draft]
 data: {demonym: null, lore: [], parents: [helionis], population: 50000, government: theradon}
 ---
 
 ## Overview
 
-The students of **Therádon** argue in marble colonnades that climb terraced hillsides, and they argue with their teachers. This is a Helionite city of 50,000, known for philosophical inquiry and for the [[affiliation-panepistmm|Panepistemium]] chapterhouse it holds. Scholars from across the realms come to study with its philosophers, physicians and natural historians, and its libraries contain some of the oldest written texts in western Ankaris. The Republic took it in 330 BF, the first city of the war to fall, and the chapterhouse does not teach that year.
+The students of **Therádon** argue in marble colonnades that climb terraced hillsides, and they argue with their teachers. This is a Helionite city of 50,000, known for philosophical inquiry and for the [[affiliation-panepistmm|Plûmepistémion]] chapterhouse it holds. Scholars from across the realms come to study with its philosophers, physicians and natural historians, and its libraries contain some of the oldest written texts in western Ankaris. The Republic took it in 330 BF, the first city of the war to fall, and the chapterhouse does not teach that year.
 
 ## Who Governs
 
@@ -24,6 +24,6 @@ Therádon is sublime and stifling in the same afternoon: art and architecture bu
 
 - [[affiliation-theradon|Therádon]]—the city-state and its assembly
 - [[place-helionis|Heliónis]]—the region and its city-states
-- [[affiliation-panepistmm|Panepistemium]]—the scholarly federation whose chapterhouse stands here
+- [[affiliation-panepistmm|Plûmepistémion]]—the scholarly federation whose chapterhouse stands here
 - [[lore-helioniteclt|Helionite]]—the culture
 - [[lore-dragondead|The Dragon Dead at Therádon]]

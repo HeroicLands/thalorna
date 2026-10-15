@@ -1,18 +1,18 @@
 ---
 shortcode: blavera
-name: {full: Blavéra, aliases: []}
+name: {full: Blavèra, aliases: []}
 type: place
 subType: settlement
-description: "A mixed manor of the Zûravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."
+description: "A mixed manor of the Zuravlèn valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."
 tags: [village, river]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 240, packFolder: provenzia}
 ---
 
-**Blavéra** lies on the flat ground where the Zûravlen river slows, and grows wheat, barley, beans and
+**Blavèra** lies on the flat ground where the Zuravlèn river slows, and grows wheat, barley, beans and
 a modest strip of orchard along its northern edge. It is neither rich nor poor, exports nothing under
 its own name, and feeds a good deal of the barony.
 
-Use Blavéra as the model of an **ordinary mixed manor**. Most of [[place-zuravlenrgn|Zûravlen]] looks
+Use Blavèra as the model of an **ordinary mixed manor**. Most of [[place-zuravlenrgn|Zuravlèn]] looks
 like this; Palnebrìs is the exception that gets talked about.
 
 ## The Manor
@@ -23,8 +23,8 @@ like this; Palnebrìs is the exception that gets talked about.
   and rent in grain. The arrangement is old, intricate and understood by everyone born to it.
 - **Banalities.** The lord's **mill** on the river and the lord's **oven**. Both are resented in the
   ordinary way and neither is seriously contested.
-- **The fold.** Blavéra's own flock is folded on the fallow at night, which is where its yields come
-  from. Its surplus dung is sold up the valley, and this is Blavéra's quiet second income.
+- **The fold.** Blavèra's own flock is folded on the fallow at night, which is where its yields come
+  from. Its surplus dung is sold up the valley, and this is Blavèra's quiet second income.
 - **Orchard.** Perhaps four hectares, dried in the baron's yards at Elthrembìs like everybody else's.
   Enough to matter in a good year and not enough to ruin the manor in a bad one, which is precisely
   the point.
@@ -37,6 +37,6 @@ and the fold.
 
 ## Why It Matters
 
-When frost takes the blossom, Palnebrìs borrows and Blavéra eats. In such years grain prices in the
-barony rise sharply and Blavéra's lord becomes, briefly and unaccustomedly, an important man—a
-reversal that has caused more trouble in Zûravlen's history than any outside enemy.
+When frost takes the blossom, Palnebrìs borrows and Blavèra eats. In such years grain prices in the
+barony rise sharply and Blavèra's lord becomes, briefly and unaccustomedly, an important man—a
+reversal that has caused more trouble in Zuravlèn's history than any outside enemy.

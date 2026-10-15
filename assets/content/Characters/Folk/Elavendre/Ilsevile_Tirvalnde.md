@@ -3,7 +3,7 @@ shortcode: ilseviletirv
 name: {full: Ílsevilë Tírvalndë, aliases: [Magistrate Ílsevilë Tírvalndë, Magistrate Ílsevilë]}
 type: being
 subType: npc
-description: A judge who has clashed with Párthun Bélthal on numerous occasions over the interpretation of law and regulation.
+description: A judge who has clashed with Párthun Pélthal on numerous occasions over the interpretation of law and regulation.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Ílsevilë Tírvalndë is a magistrate and judge. She has clashed with [[being-prthnblthl|Párthun Bélthal]] on numerous occasions over the interpretation of law and regulation.
+Ílsevilë Tírvalndë is a magistrate and judge. She has clashed with [[being-prthnblthl|Párthun Pélthal]] on numerous occasions over the interpretation of law and regulation.

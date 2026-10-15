@@ -20,7 +20,7 @@ data:
         - place-longstair
         - place-eshalshldg
       summary: >-
-        After Dhárgan has sat four days at the wood's edge and been taught the work of keeping it, the band settles in a high valley and builds Eshálosha. When the seven falls of the Long Stair take a boy who climbed them by day, Dhárgan's daughter Néla sits by the water and asks, and a Sinalë gives the rules: the lowest pool, first light, silence, and a thing made by the giver's own hands. The shaman Sîlor sings the first pact there with the river-mother Sálenda, in the band's own forms with the Sinalë names set in them. Dhárgan sets the watch on the fog-hollow in the same spring, and the Wardens begin as the people who keep it.
+        After Dhárgan has sat four days at the wood's edge and been taught the work of keeping it, the band settles in a high valley and builds Ésalosa. When the seven falls of the Long Stair take a boy who climbed them by day, Dhárgan's daughter Néla sits by the water and asks, and a Sinalë gives the rules: the lowest pool, first light, silence, and a thing made by the giver's own hands. The shaman Sîlor sings the first pact there with the river-mother Sálenda, in the band's own forms with the Sinalë names set in them. Dhárgan sets the watch on the fog-hollow in the same spring, and the Wardens begin as the people who keep it.
       standing: attested
       names: [{name: the Kindred Pact, by: lore-aelendnppl}]
       where:
@@ -71,7 +71,7 @@ Dhárgan went down, and the paths stayed straight behind him, which the Sinalë 
 
 ## The Falls
 
-The people did not move on. They buried their dead under a cairn by the road, found a high still valley, and built [[place-eshalshldg|Eshálosha]] there in oak and stone, with no birch. In a summer some years later the children found the seven falls in a gorge of the [[place-drenavrspn|Drenavar Spine]], and one boy climbed them by day and slipped at the fourth. The pool kept him. No rope, no call and no diving brought him back.
+The people did not move on. They buried their dead under a cairn by the road, found a high still valley, and built [[place-eshalshldg|Ésalosa]] there in oak and stone, with no birch. In a summer some years later the children found the seven falls in a gorge of the [[place-drenavrspn|Drenavar Spine]], and one boy climbed them by day and slipped at the fourth. The pool kept him. No rope, no call and no diving brought him back.
 
 Néla went up and sat and asked. Haulera told her what the Stair is: seven falls and one water, loudest in spring. The offering is made at the lowest pool at first light, in silence, and it is a thing the giver made and would miss. Nobody fishes above the third fall, nobody swims, and nobody climbs by day. Haulera said no more then and has said no more since, and the answer to the question of why is the one she gave, which is _not in the sun_.
 

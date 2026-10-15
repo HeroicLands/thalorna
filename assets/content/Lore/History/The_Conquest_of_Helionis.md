@@ -3,7 +3,7 @@ shortcode: helionscnq
 name: {full: The Conquest of Heliónis, aliases: [The Constituting of the Kandral]}
 type: lore
 subType: history
-description: "From 335 BF to 312 BF the Vylarian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Panepistemium and places it under a magistracy that holds the Republic's arcanists as state property."
+description: "From 335 BF to 312 BF the Vylarian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Plûmepistémion and places it under a magistracy that holds the Republic's arcanists as state property."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -18,7 +18,7 @@ data:
         - affiliation-vylarinmpr
         - affiliation-panepistmm
       summary: >-
-        The Vylarian Republic takes the Helionite city-states over twenty-three years, ending with the last of them. The city-states answer the legions with their mages and the worst magical warfare western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working turns back on the one who made it. In the year the last city falls the Senate reaches into the Panepistemium, extracts its College of Arcane Philosophy, and places it under a magistracy—the Kandral—which holds the Republic's arcanists as state property, teaches nothing, publishes nothing and decides nothing.
+        The Vylarian Republic takes the Helionite city-states over twenty-three years, ending with the last of them. The city-states answer the legions with their mages and the worst magical warfare western Ankaris has seen, and the Republic answers with the Dragon Riders, near whom a working turns back on the one who made it. In the year the last city falls the Senate reaches into the Plûmepistémion, extracts its College of Arcane Philosophy, and places it under a magistracy—the Kandral—which holds the Republic's arcanists as state property, teaches nothing, publishes nothing and decides nothing.
       standing: attested
       names:
         - name: the Kandral
@@ -29,7 +29,7 @@ data:
         reach:
           - place: place-midhalnrgn
             how: >-
-              every arcanist born inside the Republic goes onto a register held by a prefect who changes with the year's magistracies, and is lent out to whoever the Senate owes
+              every arcanist born inside the Republic goes onto a register held by an ûsândôs who changes with the year's magistracies, and is lent out to whoever the Senate owes
             knowledge: named
           - place: place-vylariargn
             how: >-
@@ -53,7 +53,7 @@ data:
       accounts:
         - by: place-helionis
           says: >-
-            The Ordo's terminology is Vylari and its foundations are thoroughly Helionite, and we have never let the Vylarians forget it.
+            The Arcane Order's terminology is Vylari and its foundations are thoroughly Helionite, and we have never let the Vylarians forget it.
           agrees: partly
           withholds: that it was Helionite mages who made the institution necessary, and which Helionite masters the Republic kept after the war, and why
         - by: affiliation-vylarinmpr
@@ -75,7 +75,7 @@ In 335 BF the Vylarian Republic turned its legions against the Helionite city-st
 the last of them. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
 superior conventional forces, they unleashed sorceries that shattered formations, poisoned the land
 and killed on a scale that swords could not. Some of the most powerful became mage-warlords their own
-city-states could not fully control. The [[affiliation-panepistmm|Epistemium]], which had theorized
+city-states could not fully control. The [[affiliation-panepistmm|Epistémion]], which had theorized
 about the ethical limits of arcane power for generations, proved helpless to stop its own members
 weaponizing the knowledge it had helped systematize.
 
@@ -88,11 +88,11 @@ The last city fell in 312 BF.
 
 What the Senate made afterward was a _magistracy_. The
 **Kandral** held the conquered Helionite masters and, in time, every arcanist born inside
-the Republic, under a prefect who changed with the year's magistracies. It had a register and a
+the Republic, under an _ûsândôs_ (prefect) who changed with the year's magistracies. It had a register and a
 garrison and no doctrine. Its registered mages were state property—all but a few, who were never lent—and the rest were lent out to whoever the Senate
 owed, and as the Republic's own last century turned violent the register became a weapon: factions
-borrowed mages from each other's prefects, and a man's name on the roll was a thing that could be
+borrowed mages from each other's _ûsândoi_, and a man's name on the roll was a thing that could be
 sold.
 
 Two and a third centuries stand between that year and [[lore-kandrol|the charter]] that produced
-the Ordo Arcanis, and the institution that fills them is the one the world's records are thinnest about.
+the Thôrdimâlon (the Arcane Order), and the institution that fills them is the one the world's records are thinnest about.

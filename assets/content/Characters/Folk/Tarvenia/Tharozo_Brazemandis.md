@@ -3,7 +3,7 @@ shortcode: tharozobraze
 name: {full: Tharózo Brazemándis, aliases: [Lord Tharózo]}
 type: being
 subType: npc
-description: A wealthy merchant who approached Pálina Sánriceth for intimate counsel and was rebuffed.
+description: A wealthy merchant who approached Pálina Sánriseth for intimate counsel and was rebuffed.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Tharózo Brazemándis is a 45-year-old man who stands 6'2" tall with a medium bu
 
 # Dossier {#dossier}
 
-Tharózo Brazemándis is a wealthy merchant who approached [[being-palnsnrcth|Pálina Sánriceth]] for intimate counsel and was rebuffed. He takes her refusal as an affront and has begun to undermine her reputation in higher circles, suggesting that her work is beneath her station.
+Tharózo Brazemándis is a wealthy merchant who approached [[being-palnsnrcth|Pálina Sánriseth]] for intimate counsel and was rebuffed. He takes her refusal as an affront and has begun to undermine her reputation in higher circles, suggesting that her work is beneath her station.

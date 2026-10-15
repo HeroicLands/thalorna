@@ -3,7 +3,7 @@ shortcode: elenorthaurn
 name: {full: Élenor Tháurndë, aliases: [Captain Élenor Tháurndë, Captain Élenor]}
 type: being
 subType: npc
-description: The commander of Élavendre's border militia, a professional soldier who has protected Bélrik Tárvenel from reassignment.
+description: The commander of Élavendre's border militia, a professional soldier who has protected Mélrik Tárvenel from reassignment.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Élenor Tháurndë is a captain and the commander of Élavendre's border militia, a professional soldier. She respects the competence of [[being-belrktrvnl|Bélrik Tárvenel]] and has explicitly protected him from reassignment despite his social awkwardness.
+Élenor Tháurndë is a captain and the commander of Élavendre's border militia, a professional soldier. She respects the competence of [[being-belrktrvnl|Mélrik Tárvenel]] and has explicitly protected him from reassignment despite his social awkwardness.

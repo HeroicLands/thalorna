@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Transference moves a hurt, a quality or a working from one bearer to another. What is moved leaves its first bearer and settles on the second. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Ordo Arcanis]] looks for in the children it registers.
+Transference moves a hurt, a quality or a working from one bearer to another. What is moved leaves its first bearer and settles on the second. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.

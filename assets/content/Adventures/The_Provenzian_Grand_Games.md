@@ -29,7 +29,7 @@ The party arrives in Hárivren as the games approach:
 - Nobles are openly negotiating alliances, debts, and revenge
 - Rumors of cheating, poison, and assassination circulate
 - Spectators place enormous wagers; fortunes hang in the balance
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] has an official presence (monitoring for magical interference)
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] has an official presence (monitoring for magical interference)
 
 **Potential Hooks:**
 
@@ -70,7 +70,7 @@ The party's involvement (whether as competitors or investigators) inevitably dee
 - A spectacular assassination or poisoning occurs during the games
 - Evidence implicates a powerful noble or unexpected figure
 - Multiple conspiracies are revealed to be overlapping or connected
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] begins their own investigation (potentially conflicting with the party's)
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] begins their own investigation (potentially conflicting with the party's)
 - Threats escalate: the party receives warnings, is physically attacked, or faces magical compulsion
 
 **Key Discoveries:**
@@ -87,7 +87,7 @@ The party must decide how to act. Options include:
 
 - **Expose the Conspirators:** Publicly reveal the truth, risking the games' cancellation and potential violence
 - **Disrupt the Assassination:** Prevent the assassination through intervention or warning the target
-- **Work with Authorities:** Alert the city guard or [[affiliation-ordoarcanis|Ordo Arcanis]] and coordinate response
+- **Work with Authorities:** Alert the city guard or [[affiliation-ordoarcanis|Thôrdimâlon]] and coordinate response
 - **Confront the Conspirators Directly:** Attempt to stop them through negotiation, magic, or combat
 - **Exploit the Chaos:** Use the confusion and attention of the games as cover for their own investigation or agenda
 
@@ -95,7 +95,7 @@ The party must decide how to act. Options include:
 
 - Confrontation with assassins in the crowded stadium
 - Combat in the streets as conspirators flee
-- Magical duels if the [[affiliation-ordoarcanis|Ordo Arcanis]] is involved
+- Magical duels if the [[affiliation-ordoarcanis|Thôrdimâlon]] is involved
 - Chase sequences through Hárivren's streets and the games' venues
 
 ## Stage Five: Aftermath & Legacy
@@ -130,6 +130,6 @@ The party must decide how to act. Options include:
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

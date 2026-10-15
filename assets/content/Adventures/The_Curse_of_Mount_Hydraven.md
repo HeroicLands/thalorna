@@ -29,7 +29,7 @@ The party is approached by:
 - The abbot or priestess of a local Aurèldían shrine
 - A noble lord whose lands border the cursed mountain
 - A desperate villager whose family has been affected
-- The [[affiliation-ordoarcanis|Ordo Arcanis]], claiming the curse is magical and their concern
+- The [[affiliation-ordoarcanis|Thôrdimâlon]], claiming the curse is magical and their concern
 
 **Initial Information:**
 
@@ -64,7 +64,7 @@ The party gathers information about the mountain, the curse, and its potential s
 - The priesthood is divided and may hinder or help based on their theories
 - A party member becomes affected by the curse (nightmares, visions, weakness)
 - Someone in the village actively works to prevent investigation (protecting a secret)
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] may attempt to monopolize the investigation
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] may attempt to monopolize the investigation
 
 ### Stage Three: Approaching the Mountain
 
@@ -123,7 +123,7 @@ The party must resolve the curse by addressing its root cause. Options include:
 - The party discovers knowledge about pre-Aurèldían traditions or the true nature of the mountain
 - Gratitude and rewards flow from affected villages and the hiring authority
 - The mountain may become a site of pilgrimage or renewed sanctity
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] may be interested in studying what was found or learned
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] may be interested in studying what was found or learned
 
 **Complications:**
 
@@ -137,4 +137,4 @@ The party must resolve the curse by addressing its root cause. Options include:
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]

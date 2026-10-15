@@ -27,7 +27,7 @@ Sinalë do not draw a distinction between literacy and craft. A written passage 
 
 ## Who has it
 
-Literacy is near-universal among the Sinalë themselves, who are fewer than one in ten thousand of Thalorna's people and mostly unseen. Among humans it is **extremely rare**: a handful of scholars, the odd mage who has spent decades on it, and the occasional bard of the [[affiliation-bardicolgs|Bardic Colleges]] who has been given a text and taught to read it—though the Colleges are memory-institutions by preference and treat a written song as a poor copy of the real one. The [[affiliation-ordoarcanis|Ordo Arcanis]] has tried repeatedly to acquire the script systematically and has not succeeded.
+Literacy is near-universal among the Sinalë themselves, who are fewer than one in ten thousand of Thalorna's people and mostly unseen. Among humans it is **extremely rare**: a handful of scholars, the odd mage who has spent decades on it, and the occasional bard of the [[affiliation-bardicolgs|Bardic Colleges]] who has been given a text and taught to read it—though the Colleges are memory-institutions by preference and treat a written song as a poor copy of the real one. The [[affiliation-ordoarcanis|Thôrdimâlon]] has tried repeatedly to acquire the script systematically and has not succeeded.
 
 ## In play
 

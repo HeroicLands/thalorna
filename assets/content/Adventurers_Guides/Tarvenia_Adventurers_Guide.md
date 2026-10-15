@@ -20,17 +20,17 @@ data: {packFolder: adventurersguides, culture: tarvenanclt}
 
 Selling a sword is an honorable career, the respectable road for a second son, and a village of no importance may be surprisingly well armed. Men go abroad under contract for years, and women run the holdings, the accounts and the contracts while they are away; in the free city and the free territory women hold office outright. A household takes in cousins, fosterlings and veterans of a dead brother's company, and a man who has fought four seasons beside another is kin.
 
-Honor is transacted in public. An insult given before witnesses is answered before the same witnesses, in proportion and not to the death, and a stranger who escalates too fast has misread the grammar. Magic is distrusted. A village wise-woman is a neighbor and answerable, and she is respected; an [[affiliation-ordoarcanis|Ordo]] mage who throws his weight about tends to end up with a knife between his ribs, and the investigation is slow. The faith keeps its village shrines and its own priests, and favors [[affiliation-ardavon|Árdavon]] of gates and oaths. The coin is [[lore-vylrncrncy|Vylarian]]: the Solden, the Ard and the Bit.
+Honor is transacted in public. An insult given before witnesses is answered before the same witnesses, in proportion and not to the death, and a stranger who escalates too fast has misread the grammar. Magic is distrusted. A village wise-woman is a neighbor and answerable, and she is respected; an [[affiliation-ordoarcanis|Arcane Order]] mage who throws his weight about tends to end up with a knife between his ribs, and the investigation is slow. The faith keeps its village shrines and its own priests, and favors [[affiliation-ardavon|Árdavon]] of gates and oaths. The coin is [[lore-vylrncrncy|Vylarian]]: the Solden, the Ardin and the Bit.
 
 ## Where to Go
 
-[[place-valthari|Valthári]], the richest port, governs itself through the **Consejárath**, a council of merchant houses under a charter bought from the High King, and the mountain lords call it soft. [[place-olvestria|Ólvestria]] is a moneylenders' city behind the **Twin Gate**, where the [[affiliation-ordrsldwrd|Order of the Sealed Word]] keeps the register of every contested oath and the [[affiliation-twinbldrdr|Twinblade Order]] keeps the gate; it is also where the [[affiliation-ordershnvw|Order of the Ashen Vow]] keeps its largest cell. At [[place-polthamis|Polthámis]] the **Great Temple of Árdavon** trains priests who are taught law and the sword together. [[affiliation-kngdmglvrn|Galváren]] on the foggy west coast sends out the largest fishing fleets in the west, [[affiliation-kingdmlnrk|Léonrik]] holds the richest farmland and the most ambitious lords, and the [[affiliation-frtrtryskrth|Free Territory of Eskárath]] keeps a people older than the Tarvéni and their own law.
+[[place-valthari|Valthári]], the richest port, governs itself through the **Consejárath**, a council of merchant houses under a charter bought from the High King, and the mountain lords call it soft. [[place-olvestria|Ólvestra]] is a moneylenders' city behind the **Twin Gate**, where the [[affiliation-ordrsldwrd|Order of the Sealed Word]] keeps the register of every contested oath and the [[affiliation-twinbldrdr|Twinblade Order]] keeps the gate; it is also where the [[affiliation-ordershnvw|Order of the Ashen Vow]] keeps its largest cell. At [[place-polthamis|Polthámis]] the **Great Temple of Árdavon** trains priests who are taught law and the sword together. [[affiliation-kngdmglvrn|Galváren]] on the foggy west coast sends out the largest fishing fleets in the west, [[affiliation-kingdmlnrk|Liénrik]] holds the richest farmland and the most ambitious lords, and the [[affiliation-frtrtryskrth|Free Territory of Eskárath]] keeps a people older than the Tarvéni and their own law.
 
 The western border with [[place-provenzrgn|Provènzia]] is fought over every summer in raid and counter-raid that neither crown calls a war, and the passes close in winter. In the north, the [[place-toravarrange|Toravar Range]] is [[lore-aelendnppl|Áelendan]] high country, and a baron who pushes his herds or his loggers up into it can start a small mountain war.
 
 ## Ways In
 
-A company signs you on for a season abroad, and the employer begins to bend the terms. A widow who has run her husband's holding for six years learns that his captain sold his contract, and she wants the captain found before witnesses. A brother of the Sealed Word needs riders to bring an oath-breaker to a hearing, and the oath-breaker is a baron with friends in the hills around Ólvestria. An Ordo factor in Valthári hires guards who will not ask why the town has gone quiet around him.
+A company signs you on for a season abroad, and the employer begins to bend the terms. A widow who has run her husband's holding for six years learns that his captain sold his contract, and she wants the captain found before witnesses. A brother of the Sealed Word needs riders to bring an oath-breaker to a hearing, and the oath-breaker is a baron with friends in the hills around Ólvestra. An Arcane Order factor in Valthári hires guards who will not ask why the town has gone quiet around him.
 
 ## Where to Read Next
 
@@ -42,15 +42,15 @@ A company signs you on for a season abroad, and the employer begins to bend the 
 
 ## Glossary
 
-| Word           | Meaning                                                                                                               |
-| -------------- | --------------------------------------------------------------------------------------------------------------------- |
-| First Magister | The chair of the Order of the Sealed Word, chosen by the Magisters for fifteen years; Magister Primus                 |
-| Magister       | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
-| oath-hearing   | A hearing on a broken oath, convened by the Sealed Word                                                               |
-| Senior Brother | A brother of the Sealed Word elevated by chapter vote, who may hold hearings alone and sit on the Council of the Seal |
-| Sworn Brother  | A working knight of the Sealed Word who rides a circuit or answers petitions                                          |
-| Twinblade      | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
+| Word              | Meaning                                                                                                               |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| First Mârendândôs | The chair of the Order of the Sealed Word, chosen by the mârendândoi for fifteen years                                |
+| Mârendândôs       | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
+| oath-hearing      | A hearing on a broken oath, convened by the Sealed Word                                                               |
+| Senior Brother    | A brother of the Sealed Word elevated by chapter vote, who may hold hearings alone and sit on the Council of the Seal |
+| Sworn Brother     | A working knight of the Sealed Word who rides a circuit or answers petitions                                          |
+| Twinblade         | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
 
-Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-tarvenanclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

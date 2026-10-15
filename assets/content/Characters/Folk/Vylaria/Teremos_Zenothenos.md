@@ -1,6 +1,6 @@
 ---
 shortcode: teremoszenot
-name: {full: Têrêmôs Zênôthênôs, aliases: [Magister Têrêmôs]}
+name: {full: Têrêmôs Zênôthênôs, aliases: [Mârendândôs Têrêmôs]}
 type: being
 subType: npc
 description: An austere enforcer for the Sekran's western investigations, named in Alfred Barnwell.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [scholar, infiltrator]
-  occupation: Magister
+  occupation: Mârendândôs
   lore: []
   culture: vylarianclt
   homes: []
@@ -36,4 +36,4 @@ Têrêmôs Zênôthênôs is a 45-year-old man who stands 5'6" tall with a heavy
 
 # Dossier {#dossier}
 
-Têrêmôs Zênôthênôs is a magister and an austere enforcer for the Sekran's western investigations. He takes an interest in irregular practices in the Aelwyth borderlands, and interviews villagers where the alias of [[being-alfrdbrnwl|Alfred Barnwell]] is known. He does not yet know Alfred by name.
+Têrêmôs Zênôthênôs is a _mârendândôs_ (master) and an austere enforcer for the Sekran's western investigations. He takes an interest in irregular practices in the Aelwyth borderlands, and interviews villagers where the alias of [[being-alfrdbrnwl|Alfred Barnwell]] is known. He does not yet know Alfred by name.

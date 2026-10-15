@@ -3,7 +3,7 @@ shortcode: helonclng
 name: {full: Helonic Language, aliases: []}
 type: skill
 subType: language
-description: "The old prestige tongue of philosophy, theater, and scholarship—still the learned man's second language from the academies to the stage."
+description: "The tongue of culture and the arts—drama, rhetoric, poetry and the epics—spoken in Heliónis and the parent of Byzarian and Bethuan."
 tags: []
 data:
   icon: icon-speaking
@@ -208,7 +208,7 @@ sohl:
 
 Helonic is a tongue of the Helonic family. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of [[place-helionis|Heliónis]] and the philosophical heartland of Mídhalión. Helonic is the language of drama, rhetoric, mathematics, and metaphysical inquiry—spoken in academies and theaters, written in the great epics and scientific treatises that define western civilization. Though primary speakers are concentrated in Heliónis, Helonic serves as a prestige language throughout Mídhalión, learned by educated merchants, courtiers, and scholars who wish to participate in the discourse of the age.
+The tongue of [[place-helionis|Heliónis]] and the parent of [[skill-byzarnlng|Byzarian]] and [[skill-bethunlng|Bethuan]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Heliónis, Helonic carries prestige throughout Mídhalión, learned by merchants and courtiers who wish to take part in the culture of the age. The schools of the Plûmepistémion and the Ksêmor Hodhîs were first written in Helonic, which is why those institutions keep Helonic names inside the Vylarian system.
 
 ## Overview
 
@@ -284,7 +284,7 @@ Helonic is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet,
 - **Vowels (7):** a, e, ê (long e), i, o, y, ô (long o)
 - **Consonants (17):** b, g, d, z, th, k, l, m, n, x, p, r, s, t, ph, kh, ps
 
-**Literacy and Education:** True Helonic literacy—the ability to read and compose continuous text—is the province of the nobility (perhaps 30-40% of whom can read), the priesthood (who learn enough to recite and interpret liturgical texts), and professional scribes and scholars. The Panepistemium teaches Helonic to serious scholars, but these are a tiny fraction of the population. Among merchants and guildsmen, functional literacy exists—enough to recognize common signs, tally marks, and the shape of one's own name—but even prosperous traders rely on scribes or solicitors for contracts and correspondence. The vast majority of the population (well over 90%) cannot read or write. Public monuments and civic inscriptions are read aloud by heralds and criers, not by passersby.
+**Literacy and Education:** True Helonic literacy—the ability to read and compose continuous text—is the province of the nobility (perhaps 30-40% of whom can read), the priesthood (who learn enough to recite and interpret liturgical texts), and professional scribes, poets and scholars of the old texts. The Plûmepistémion (the Academy of Knowledge) still teaches Helonic to those who study them, but these are a tiny fraction of the population. Among merchants and guildsmen, functional literacy exists—enough to recognize common signs, tally marks, and the shape of one's own name—but even prosperous traders rely on scribes or solicitors for contracts and correspondence. The vast majority of the population (well over 90%) cannot read or write. Public monuments and civic inscriptions are read aloud by heralds and criers, not by passersby.
 
 ## Historical Development
 
@@ -292,18 +292,18 @@ Helonic descended from **Proto-Helonic**, spoken by the ancient maritime peoples
 
 1. **Ancient Helonic** (pre-1500 years ago): The language of the earliest epics and philosophical schools, more heavily inflected and conservative in its grammar. Some texts remain difficult even for modern educated speakers.
 
-2. **Classical Helonic** (1500–500 years ago): The height of the language's refinement, used by Heliónis' greatest dramatists and philosophers. This period established the norms and models still taught in academies. The works of this era remain the standard for excellence in rhetoric and expression.
+2. **Classical Helonic** (1500–500 years ago): The height of the language's refinement, used by Heliónis' greatest dramatists and philosophers. This period established the norms and models still taught to poets and speakers. The works of this era remain the standard for excellence in rhetoric and expression.
 
 3. **Modern Helonic** (500 years ago–present): Gradual simplification of case endings and verbal conjugations, increased contact vocabulary from trade languages (particularly Byzarian and Dunhari), and the emergence of regional dialects. Yet the written language remains conservative—educated speakers and writers still aim for Classical standards.
 
 ## Regional Dialects
 
-While Helonic is relatively standardized through written tradition and educational institutions, several regional variants exist:
+While Helonic is relatively standardized through written tradition and the schools of rhetoric, several regional variants exist:
 
-- **Heliónis City Dialect:** The prestige standard, taught in academies and used in formal writing. Clear vowels, careful articulation of the velar fricatives.
+- **Heliónis City Dialect:** The prestige standard, the speech of the stage and of formal writing. Clear vowels, careful articulation of the velar fricatives.
 - **Coastal Dialects:** Influenced by maritime trade and contact with Byzarian speakers. Some softening of harsh consonants, occasional vocabulary borrowing.
 - **Interior Highland Dialect:** More conservative, preserving some ancient forms lost in the city speech. Stronger stress accent, more guttural pronunciation of kh and gh.
-- **Academic Register:** An artificial, hyper-classical form used in formal writing and scholarly discourse, deliberately archaic, with restoration of older grammatical forms.
+- **Literary Register:** An artificial, hyper-classical form used in formal writing and in the recitation of verse and drama, deliberately archaic, with restoration of older grammatical forms.
 
 ## Core Vocabulary
 

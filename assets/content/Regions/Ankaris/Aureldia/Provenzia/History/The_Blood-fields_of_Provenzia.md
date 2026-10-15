@@ -84,7 +84,7 @@ dead were not judged in order, and a formal placing of them in the god's keeping
 where a field is troublesome, it is expensive, and it works perhaps half the time. Priests of
 Sélmoros are candid about the proportion, which does not endear them to the districts that pay.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] would very much like to study them systematically and has
+The [[affiliation-ordoarcanis|Thôrdimâlon]] would very much like to study them systematically and has
 never been permitted to, chiefly because every proposal has involved opening one.
 
 ## The Black Flame
@@ -103,8 +103,8 @@ strongest argument for making one, and the single strongest argument against.
 - [[place-bldfldyharvalen|Yhârvalen]]—north; a **withering**, and the worst in the kingdom.
 - [[place-bldfldtiravlen|Tiravlen]]—beside [[place-tiravellake|Lake Tiravel]]; a **recurrence**, made by [[lore-tiravlenbattle|a legion's victory over the Thânevar kings]].
 - [[place-bldfldmalnebris|Malnebrìs]]—the eastern frontier; a **recurrence**, made by [[lore-malnebris|the first great raid]] and still being added to.
-- [[place-bloodhills|The Blood Hills]]—east of Céravel; a **dread**, made by [[lore-bloodhillsbtl|a battle between the Forge and the Flame]].
-- [[place-bldfldkyvarel|Kývarel]]—the western valleys; a **quickening**.
+- [[place-bloodhills|The Blood Hills]]—east of Keravèl; a **dread**, made by [[lore-bloodhillsbtl|a battle between the Forge and the Flame]].
+- [[place-bldfldkyvarel|Kivarèl]]—the western valleys; a **quickening**.
 - [[place-bldfldcalvenza|Calvènza]]—the southern coast; a **silence**.
 
 These are the ones with names. Provenzians will tell you there are many more, and that a field does

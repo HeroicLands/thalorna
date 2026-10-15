@@ -23,7 +23,7 @@ have been the intermediaries for so long that the arrangement is mistaken locall
 Wealth, and the display of wealth, is the city's organizing principle. Its houses are old, its money is
 older, and its enthusiasms are the Provenzian ones taken to their limit—art, philosophy, glass,
 manuscripts, and an appetite for the rare and perishable that supports whole trades elsewhere. Fresh
-**Zûravlen peaches** command absurd prices on Válaren tables, and always have; the fast boats out of
+**Zuravlèn peaches** command absurd prices on Válaren tables, and always have; the fast boats out of
 [[place-volsather|Volsathèr]] exist because Válaren will pay.
 
 A Válaren merchant regards [[place-batarencity|Batáren]] as a cold northern outpost of no consequence

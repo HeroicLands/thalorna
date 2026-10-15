@@ -40,20 +40,20 @@ The copper pieces are not worth their metal. They are struck in bronze by the [[
 
 Counterfeiting the copper is the one way to profit from the gap between face and metal, and the temples treat it accordingly (see _Counterfeit and Debasement_ below).
 
-The Khelâthi people speak in _gezan_ and _qelu_ with the metal specified by context: "the field cost twelve gold gezan" or "the loaf was three copper qelu." The unit _qezelet_ is the formal liturgical form of _qelu_; everyday speech uses qelu, formal documents and temple records use qezelet. The distinction parallels the Vylarian distinction between Ardin (formal) and Ard (colloquial).
+The Khelâthi people speak in _gezan_ and _qelu_ with the metal specified by context: "the field cost twelve gold gezan" or "the loaf was three copper qelu." The unit _qezelet_ is the formal liturgical form of _qelu_; everyday speech uses qelu, formal documents and temple records use qezelet. The distinction parallels the Vylarian distinction between Ogdel (formal) and Bit (colloquial).
 
 ## The Standardized Pieces
 
 The temples produce, attest, and circulate pieces of metal in standardized weights. The pieces are small ingots, rings, or wedge-stamped fragments—never round coins (the round-coin form is a Vylarian and [[lore-helioniteclt|Helionite]] convention that the Khelâthi consider foreign). Each piece bears the issuing temple's seal, an indication of metal and weight, and (on the larger pieces) the regnal cypher of the Gar-Aû in whose reign it was attested.
 
-| Denomination       | Mass    | Ard-equivalent value | Typical use                                                                               |
-| ------------------ | ------- | -------------------- | ----------------------------------------------------------------------------------------- |
-| Copper Qelu piece  | ~2.3 g  | 0.2 Ard (~1½ Bits)   | Daily small purchases—bread, beer, market goods                                           |
-| Copper Gezan piece | ~22.7 g | 2 Ard                | Everyday medium purchases—meals, a night's lodging                                        |
-| Silver Qelu piece  | ~2.3 g  | 2 Ard                | Wages, common commerce                                                                    |
-| Silver Gezan piece | ~22.7 g | 20 Ard               | Significant purchases—weapons, tack, fine cloth                                           |
-| Gold Qelu piece    | ~2.3 g  | 20 Ard               | Same value as silver gezan but lighter; used for ceremonial gifts and high-status payment |
-| Gold Gezan piece   | ~22.7 g | 200 Ard (1¼ Solden)  | Large purchases, ceremonial offerings, temple tributes                                    |
+| Denomination       | Mass    | Ardin-equivalent value | Typical use                                                                               |
+| ------------------ | ------- | ---------------------- | ----------------------------------------------------------------------------------------- |
+| Copper Qelu piece  | ~2.3 g  | 0.2 Ardin (~1½ Bits)   | Daily small purchases—bread, beer, market goods                                           |
+| Copper Gezan piece | ~22.7 g | 2 Ardin                | Everyday medium purchases—meals, a night's lodging                                        |
+| Silver Qelu piece  | ~2.3 g  | 2 Ardin                | Wages, common commerce                                                                    |
+| Silver Gezan piece | ~22.7 g | 20 Ardin               | Significant purchases—weapons, tack, fine cloth                                           |
+| Gold Qelu piece    | ~2.3 g  | 20 Ardin               | Same value as silver gezan but lighter; used for ceremonial gifts and high-status payment |
+| Gold Gezan piece   | ~22.7 g | 200 Ardin (1¼ Solden)  | Large purchases, ceremonial offerings, temple tributes                                    |
 
 A trader's purse normally contains a mix sized to his transaction needs. Cheap purchases (bread, beer, market goods) are paid in copper qelu or copper gezan; medium purchases in silver qelu or silver gezan; large purchases call for gold or temple chits. The metal a trader chooses for a given payment is itself a social signal—paying in gold gezan for a small purchase is conspicuous and ostentatious; paying in copper for a large purchase is insulting. The cultural expectation is that the metal match the transaction's scale and dignity.
 
@@ -61,32 +61,32 @@ For "making change," the temples and most market stalls maintain small balances 
 
 ## Conversion with Vylarian Currency
 
-The conversion ratio between the Vylarian and Khelâthi systems is fixed by the metal in the pieces. A Ardin carries the silver of half a silver qelu, and an Solden the gold of eight-tenths of a gold gezan, so the par of exchange is:
+The conversion ratio between the Vylarian and Khelâthi systems is fixed by the metal in the pieces. An Ardin carries the silver of half a silver qelu, and an Solden the gold of eight-tenths of a gold gezan, so the par of exchange is:
 
 | Vylarian | Khelâthi                                           |
 | -------- | -------------------------------------------------- |
 | 1 Bit    | 1/16 silver qelu (5/8 copper qelu)                 |
-| 1 Ard    | ½ silver qelu (5 copper qelu)                      |
+| 1 Ardin  | ½ silver qelu (5 copper qelu)                      |
 | 1 Solden | 80 silver qelu (= 8 silver gezan = 4/5 gold gezan) |
 
 Working the other way:
 
-| Khelâthi       | Vylarian              |
-| -------------- | --------------------- |
-| 1 copper qelu  | 0.2 Ard (~1½ Bits)    |
-| 1 copper gezan | 2 Ard                 |
-| 1 silver qelu  | 2 Ard                 |
-| 1 silver gezan | 20 Ard                |
-| 1 gold qelu    | 20 Ard                |
-| 1 gold gezan   | 200 Ard (= 1¼ Solden) |
+| Khelâthi       | Vylarian                |
+| -------------- | ----------------------- |
+| 1 copper qelu  | 0.2 Ardin (~1½ Bits)    |
+| 1 copper gezan | 2 Ardin                 |
+| 1 silver qelu  | 2 Ardin                 |
+| 1 silver gezan | 20 Ardin                |
+| 1 gold qelu    | 20 Ardin                |
+| 1 gold gezan   | 200 Ardin (= 1¼ Solden) |
 
-A SoHL item priced at _X_ Ard costs X × 0.5 silver qelu, or X ÷ 20 silver gezan (or the equivalent in any other metal). A 6 Ard dagger is 3 silver qelu; a 240 Ard Mail Shirt is 120 silver qelu—12 silver gezan, or 1.2 gold gezan, or any equivalent combination. The conversion is mechanical: no SoHL item's value field needs to change for a Khelâthi campaign.
+A SoHL item priced at _X_ Ardin costs X × 0.5 silver qelu, or X ÷ 20 silver gezan (or the equivalent in any other metal). A 6 Ardin dagger is 3 silver qelu; a 240 Ardin Mail Shirt is 120 silver qelu—12 silver gezan, or 1.2 gold gezan, or any equivalent combination. The conversion is mechanical: no SoHL item's value field needs to change for a Khelâthi campaign.
 
-The Vylarian Ard trades within the Northern Fertile Region at a small discount against its theoretical silver-content value—typically 3–5%—because of the friction of accepting foreign coin in a system that prefers temple-attested local pieces. Conversely, a Vylarian moneylender at a frontier port honors Khelâthi silver and gold pieces at their metal value minus a similar 3–5% spread. Copper pieces hold their face only for someone who can return them to a Gár-Hálzi chapter: the changers at the ports take them at face less the same spread, and beyond the ports they are bronze, taken by weight. The spread is the basic income of the changers—the specialist moneylenders who operate at the conversion boundaries.
+The Vylarian Ardin trades within the Northern Fertile Region at a small discount against its theoretical silver-content value—typically 3–5%—because of the friction of accepting foreign coin in a system that prefers temple-attested local pieces. Conversely, a Vylarian moneylender at a frontier port honors Khelâthi silver and gold pieces at their metal value minus a similar 3–5% spread. Copper pieces hold their face only for someone who can return them to a Gár-Hálzi chapter: the changers at the ports take them at face less the same spread, and beyond the ports they are bronze, taken by weight. The spread is the basic income of the changers—the specialist moneylenders who operate at the conversion boundaries.
 
 ## Sample Prices
 
-These prices align with the canonical SoHL gear data via the 1 Ard = 0.5 silver qelu conversion. Cheap items are typically paid in copper; expensive ones in silver or gold; the choice of metal carries social weight.
+These prices align with the canonical SoHL gear data via the 1 Ardin = 0.5 silver qelu conversion. Cheap items are typically paid in copper; expensive ones in silver or gold; the choice of metal carries social weight.
 
 ### Food, Drink, Lodging
 
@@ -193,7 +193,7 @@ These prices align with the canonical SoHL gear data via the 1 Ard = 0.5 silver 
 | Senior priestly noble house     | —                               | total assets 250,000–1,000,000 gold gezan                                                |
 | Gar-Aû's personal household     | —                               | total assets in the tens of millions of gold gezan, mostly in land and temple endowments |
 
-(Ard-equivalents: multiply silver qelu by 2, silver gezan by 20, and gold gezan by 200 for Ard; a gold gezan is 1¼ Solden. A laborer's year of 10–15 silver gezan is 200–300 Ard (~1¼–2 Solden), the Vylarian laborer's figure; a senior priestly house at 250,000–1,000,000 gold gezan holds 50–200 million Ard (~310,000–1,250,000 Solden). Wages match the Vylarian scale once converted.)
+(Ardin-equivalents: multiply silver qelu by 2, silver gezan by 20, and gold gezan by 200 for Ardin; a gold gezan is 1¼ Solden. A laborer's year of 10–15 silver gezan is 200–300 Ardin (~1¼–2 Solden), the Vylarian laborer's figure; a senior priestly house at 250,000–1,000,000 gold gezan holds 50–200 million Ardin (~310,000–1,250,000 Solden). Wages match the Vylarian scale once converted.)
 
 ## Grain Credit and the Temple Granaries
 
@@ -245,7 +245,7 @@ Counterfeiting an attested temple piece is a sacrilegious crime under Khelâthi 
 
 ### Carrying Weight
 
-Like the Vylarian system, large sums of physical metal are heavy. 100 silver gezan (2,000 Ard) weighs about 2.3 kg (5 lb); 1,000 silver gezan weighs nearly 23 kg (50 lb), a burden for a single traveler. Gold carries the same value in a tenth of the weight, but gold pieces are few and conspicuous. Wealth above the carryable threshold moves on temple chits or trade-house correspondent arrangements. A Khelâthi merchant's purse in serious commerce typically contains: a handful of gold pieces (qelu or gezan) for emergency liquidity, perhaps 20–50 silver qelu for ordinary transactions, a small bag of copper for daily small purchases, and a sealed temple chit for the bulk of his working capital.
+Like the Vylarian system, large sums of physical metal are heavy. 100 silver gezan (2,000 Ardin) weighs about 2.3 kg (5 lb); 1,000 silver gezan weighs nearly 23 kg (50 lb), a burden for a single traveler. Gold carries the same value in a tenth of the weight, but gold pieces are few and conspicuous. Wealth above the carryable threshold moves on temple chits or trade-house correspondent arrangements. A Khelâthi merchant's purse in serious commerce typically contains: a handful of gold pieces (qelu or gezan) for emergency liquidity, perhaps 20–50 silver qelu for ordinary transactions, a small bag of copper for daily small purchases, and a sealed temple chit for the bulk of his working capital.
 
 ## See Also
 

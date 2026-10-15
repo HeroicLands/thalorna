@@ -457,7 +457,7 @@ Bû has no formal patrons. He works freelance and prefers it that way. He mainta
 
 ### Enemies
 
-The **Tarûzelian Guild Enforcers** have a long memory for debts and slights. Bû's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the [[affiliation-ordoarcanis|Ordo Arcanis]], have taken an interest in the Tamzîr since the Tamaro siblings came aboard. Bû does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
+The **Tarûzelian Guild Enforcers** have a long memory for debts and slights. Bû's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the [[affiliation-ordoarcanis|Thôrdimâlon]], have taken an interest in the Tamzîr since the Tamaro siblings came aboard. Bû does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
 
 ### Affiliations
 
@@ -467,7 +467,7 @@ Bû is captain of the **Tamzîr** and the unquestioned leader of her crew. He ma
 
 1. **The War That Never Ended**: A former comrade from the Tarûzelian rebellion contacts Bû with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzîr, resulting in the deaths of sailors Bû commanded. The evidence is real, but pursuing it would mean returning to Tarûzel and confronting enemies with far more resources than a freelance ship captain can muster.
 
-2. **The Price of Passage**: A wealthy Vylarian merchant offers Bû an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzîr's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bû's contacts warns him that the merchant has ties to the Ordo Arcanis.
+2. **The Price of Passage**: A wealthy Vylarian merchant offers Bû an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzîr's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bû's contacts warns him that the merchant has ties to the Thôrdimâlon (the Arcane Order).
 
 3. **Crew Fractures**: When a lucrative but morally repugnant job is offered—transporting enslaved laborers for a Vylarian noble—Bû must navigate a crew divided between those who need the coin and those who will not compromise. The decision he makes will define what the Tamzîr stands for, and whether his crew holds together or fractures.
 

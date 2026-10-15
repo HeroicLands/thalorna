@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [aureldirgn], population: 28000, govern
 
 ## Overview
 
-A harbor pilot at **Calypsa** will tell you the rule of the place before you are tied up: the city is nobody's vassal. It stands on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], barely large enough to hold the city proper, its terraced vineyards and a scattering of fishing villages, and its harbor is one of the best-sheltered anchorages in northern Ankaris. It pays no tribute to the Nordmen kingdoms, owes no fealty to Élavendre, and answers to no [[affiliation-ordoarcanis|Ordo]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product.
+A harbor pilot at **Calypsa** will tell you the rule of the place before you are tied up: the city is nobody's vassal. It stands on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], barely large enough to hold the city proper, its terraced vineyards and a scattering of fishing villages, and its harbor is one of the best-sheltered anchorages in northern Ankaris. It pays no tribute to the Nordmen kingdoms, owes no fealty to Élavendre, and answers to no [[affiliation-ordoarcanis|Arcane Order]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product.
 
 ## The Harbor
 

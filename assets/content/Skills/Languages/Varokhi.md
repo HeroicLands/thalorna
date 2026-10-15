@@ -372,7 +372,7 @@ Eight clusters open a Varokhi name where thirty-one open a Nordmal one, and no V
 
 Varokhi has no traditional writing system. The language is preserved entirely through oral transmission—memorization, recitation, and storytelling. This is not considered a limitation but rather a distinctive cultural feature: the Varokhi valorize those with strong memories and eloquent speech.
 
-In modern times, some Varokhi speakers have adopted the scripts of neighboring regions—the [[skill-semrnscrpt|Sêmarion]] from the empire, [[skill-thuravarkscript|Thurávark]] from the north—for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
+In modern times, some Varokhi speakers have adopted the scripts of neighboring regions—the [[skill-semrnscrpt|Sêmarôn]] from the empire, [[skill-thuravarkscript|Thurávark]] from the north—for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
 
 ### Romanizing Varokhi
 

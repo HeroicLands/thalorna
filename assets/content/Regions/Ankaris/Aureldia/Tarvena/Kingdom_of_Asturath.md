@@ -145,5 +145,5 @@ Kingdom of Astúrath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ar
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
 - [[place-asturath|Astúrath]]—The land the kingdom holds
-- [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—Sister kingdoms
+- [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—Sister kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan regions

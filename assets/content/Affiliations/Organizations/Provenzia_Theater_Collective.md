@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: []}}
 - **Type:** Cultural federation
 - **Region:** [[place-provenzrgn|Provènzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
 - **Founded:** Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
-- **Tevran Maldor status:** Chartered member as the trade body covering theatrical production in Provènzia; holds the Performers' seat (jointly with the senior Aurèldían bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The Censors of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
+- **Tevran Maldor status:** Chartered member as the trade body covering theatrical production in Provènzia; holds the Performers' seat (jointly with the senior Aurèldían bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The _rôzimândoi_ (auditors) of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
 
 ## Overview
 
@@ -81,7 +81,7 @@ Day-to-day administration is conducted by the **Convocation of Companies**, whic
 
 ## Notable Members
 
-- [[being-kelnstylgn|Kêlena Stylgon]]—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
+- [[being-kelnstylgn|Kelèna Estilgòn]]—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
 - **Léonardo Castiranni**—current First Speaker; playwright; political operator.
 - The **Teatro della Luna** company—most prestigious of the standing companies, with its own permanent venue in the capital.
 - The **Compagnia delle Maschere**—the leading touring troupe; specializes in commedia and the political mask traditions.

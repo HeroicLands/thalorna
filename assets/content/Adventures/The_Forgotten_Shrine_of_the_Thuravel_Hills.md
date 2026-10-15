@@ -27,7 +27,7 @@ Deep in the Thúravel Hills of southern [[place-provenzrgn|Provènzia Region]] s
 The party is approached by:
 
 - A scholar or antiquarian seeking pre-Aurèldían knowledge
-- An agent of the [[affiliation-ordoarcanis|Ordo Arcanis]] claiming authority over arcane sites
+- An agent of the [[affiliation-ordoarcanis|Thôrdimâlon]] claiming authority over arcane sites
 - A noble seeking to expand personal power through ancient practices
 - An Áelendi guide or fae-touched individual with family memory of the shrine
 - A priestess or priest of the Aurèldían faith concerned about the shrine's influence
@@ -120,7 +120,7 @@ The party must decide what to do with the shrine and its secrets:
 **Options:**
 
 - **Preserve & Protect:** Seal the shrine again, keeping it hidden from those who would exploit it
-- **Document & Report:** Share findings with scholars, the [[affiliation-arldnpnthn|Aurèldían]] Church, or the [[affiliation-ordoarcanis|Ordo Arcanis]]
+- **Document & Report:** Share findings with scholars, the [[affiliation-arldnpnthn|Aurèldían]] Church, or the [[affiliation-ordoarcanis|Thôrdimâlon]]
 - **Claim & Exploit:** Attempt to use the shrine's power for personal benefit or to advance the party's agenda
 - **Cleanse & Consecrate:** Perform rituals to bring the shrine under Aurèldían authority or neutralize its power
 - **Leave & Warn:** Depart without disturbing further and warn others away
@@ -129,7 +129,7 @@ The party must decide what to do with the shrine and its secrets:
 
 - The shrine is sacred to hidden worshippers, who oppose its disturbance
 - The [[affiliation-arldnpnthn|Aurèldían]] Church demands the shrine be desecrated or brought under their control
-- The [[affiliation-ordoarcanis|Ordo Arcanis]] insists on studying any artifacts or magical sites discovered
+- The [[affiliation-ordoarcanis|Thôrdimâlon]] insists on studying any artifacts or magical sites discovered
 - Possession of items from the shrine draws unwanted attention (fae entities, ancient spirits, cults)
 - The shrine's power cannot be fully contained; knowledge of its existence spreads
 - The party is bound by oath or curse to protect or further the shrine's original purposes
@@ -147,6 +147,6 @@ The party must decide what to do with the shrine and its secrets:
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]
 - [[place-elavendre|Élavendre]]
 - [[lore-flksinale|Sinalë]]

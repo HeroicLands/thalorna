@@ -20,7 +20,7 @@ For three thousand years the central civilizations of Thalorna have arranged the
 
 The sea gives its name to the empire that once ruled it and to the region that still has its economic shape, and its trade pidgin is spoken in every port. To sail it is to enter the common life of two continents.
 
-A sailing master out of [[place-mercavia|Mercavia]] gives every new hand the same first lesson: "Two winds and one door. In summer the wind comes down from the north and you run west with it; in winter it drops and you work back east. And there is one door to the ocean, at the western strait, and both sides of it are fortified. Whatever your owner tells you about the cargo, those three things decide when and where you are going."
+A sailing master out of [[place-mercavia|Dêlâlâra]] gives every new hand the same first lesson: "Two winds and one door. In summer the wind comes down from the north and you run west with it; in winter it drops and you work back east. And there is one door to the ocean, at the western strait, and both sides of it are fortified. Whatever your owner tells you about the cargo, those three things decide when and where you are going."
 
 ## Geography
 

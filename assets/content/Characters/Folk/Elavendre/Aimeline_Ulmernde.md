@@ -3,7 +3,7 @@ shortcode: aimelineulme
 name: {full: Áimelinë Úlmerndë, aliases: [Lady Áimelinë Úlmerndë, Lady Áimelinë]}
 type: being
 subType: npc
-description: A minor noblewoman with a keen interest in alchemical remedies, who suffers from a rare blood disorder and commissions tonics and elixirs from Sevion Myrkelis.
+description: A minor noblewoman with a keen interest in alchemical remedies, who suffers from a rare blood disorder and commissions tonics and elixirs from Sévren Mírkelis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Áimelinë Úlmerndë is a minor noblewoman with a keen interest in alchemical remedies. She suffers from a rare blood disorder and commissions tonics and elixirs from [[being-sevnmyrkls|Sevion Myrkelis]], one of whose patrons she is.
+Áimelinë Úlmerndë is a minor noblewoman with a keen interest in alchemical remedies. She suffers from a rare blood disorder and commissions tonics and elixirs from [[being-sevnmyrkls|Sévren Mírkelis]], one of whose patrons she is.

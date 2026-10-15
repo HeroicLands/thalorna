@@ -97,7 +97,7 @@ An Aurèldían factor, handing a Vylarian clerk a traveler's note at a counting-
 
 ## What the Empire Had Left
 
-By the time the estates of Provènzia made peace ([[lore-charterwar|The War of the Charter]]), the Empire had been losing provinces for a century. Tarvénia had stopped paying in the generation after the Three Winters ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The Byzarian League, annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn its Compact again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). Heliónis kept its cities' councils and had no governor it obeyed. The western crowns had armies of their own.
+By the time the estates of Provènzia made peace ([[lore-charterwar|The War of the Charter]]), the Empire had been losing provinces for a century. Tarvénia had stopped paying in the generation after the Three Winters ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The Byzarian League, annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn its Compact again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). Heliónis kept its cities' councils and had no _thêrkhôs_ (governor) it obeyed. The western crowns had armies of their own.
 
 What the Empire still had been the note system. The Tarmex minted the coin, the Danvar issued the notes, and the Tevran Maldor held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzánas]]). Every realm that had left the Empire still banked through it.
 
@@ -105,7 +105,7 @@ What the Empire still had been the note system. The Tarmex minted the coin, the 
 
 In the year after the Charter's peace, the Ôrzâs **Azénalès** of **House Mârdôvanês**, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Ôrzâra and set the terms down in one settlement.
 
-- **Provènzia's Charter** was recognized. The Empire stopped sending governors, and the Charter's king was acknowledged in the chancery's own style.
+- **Provènzia's Charter** was recognized. The Empire stopped sending _thêrkhoi_, and the Charter's king was acknowledged in the chancery's own style.
 - **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vylarian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmex ([[affiliation-tarmex|Tarmex Orzan]]).
 - **Heliónis** stayed on the chancery's roll as a province. Its cities kept their own magistrates, and a legion sat in a Helionite city only where the city had asked for one by treaty. The roll names a province, and the cities govern themselves ([[place-helionis|Heliónis]]).
 - **The far forts** went unpaid. A fortress commander who held a post in the Hellád on an imperial commission kept the post and lost the pay, and some of their heirs hold the posts still.

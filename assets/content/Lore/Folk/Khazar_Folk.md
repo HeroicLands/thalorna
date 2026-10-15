@@ -26,7 +26,7 @@ The Khazári are shorter and broader than humans—powerfully built, with dense 
 
 They are creatures of craft and endurance. Where the Sinalë's relationship with the natural world is one of kinship, the Khazári's relationship with stone and metal is one of mastery—but a mastery born of deep understanding, not domination. A Khazár smith does not force metal into shape; they understand what the metal wants to become and help it get there. The results are works of such quality that the finest human smiths can only marvel. Khazárian metalwork, stonework, and engineering are legendary—quite literally, since most humans encounter them only in legends.
 
-Their magic, like the Sinalë's, bears no resemblance to the [[affiliation-ordoarcanis|Ordo Arcanis]]'s arcane system. Khazárian arts are bound up in craft—in the forging of metal, the shaping of stone, the singing of deep songs that resonate with the bones of the earth. The Ordo has never successfully studied Khazárian magic, primarily because no Khazár has ever consented to be studied. The few Ordo scholars who have encountered genuine Khazárian craftsmanship have been deeply unsettled by their inability to explain how it works.
+Their magic, like the Sinalë's, bears no resemblance to the [[affiliation-ordoarcanis|Thôrdimâlon]]'s arcane system. Khazárian arts are bound up in craft—in the forging of metal, the shaping of stone, the singing of deep songs that resonate with the bones of the earth. The Arcane Order has never successfully studied Khazárian magic, primarily because no Khazár has ever consented to be studied. The few Arcane Order scholars who have encountered genuine Khazárian craftsmanship have been deeply unsettled by their inability to explain how it works.
 
 ## History
 

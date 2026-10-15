@@ -64,7 +64,7 @@ The Áelendan will cut an oak, an ash, a pine or an alder, and they do not cut a
 
 ## The Winter
 
-Snow came early that year and late, and it was deep. It killed the lambs inside the ewes and filled the cairns, and fire was the one thing that kept the people at [[place-eshalshldg|Eshálosha]]. The oak ran out, then the ash. The chief was **Ghálmir**, Tála's grandson, who bore the face of the first Dhárgan, and he looked at the silver birch standing above the Lodge and said that it should be cut. The people let him. Nobody spoke against it.
+Snow came early that year and late, and it was deep. It killed the lambs inside the ewes and filled the cairns, and fire was the one thing that kept the people at [[place-eshalshldg|Ésalosa]]. The oak ran out, then the ash. The chief was **Ghálmir**, Tála's grandson, who bore the face of the first Dhárgan, and he looked at the silver birch standing above the Lodge and said that it should be cut. The people let him. Nobody spoke against it.
 
 He also took the watch off the fog-hollow, for he needed hands to haul and split. The fog could sit unwatched for one spring, he said, and the people thought so too. The birch came down in a stand at dusk, and the hands that swung the axes went cold. After that night no starlight lit the bark of the trees that remained.
 
@@ -88,7 +88,7 @@ The silver came back to the bark of the birch that were left, slowly, over four 
 
 ## What It Left
 
-- **The birch law.** No standing silver birch is felled in Áelendan country, ever, by anyone, for any reason, and the village of [[place-sourimael|Sóurimael]] inside the Silver Forests keeps it as strictly as the tribes do.
+- **The birch law.** No standing silver birch is felled in Áelendan country, ever, by anyone, for any reason, and the village of [[place-sourimael|Sóurimel]] inside the Silver Forests keeps it as strictly as the tribes do.
 - **The Kinless.** The sentence of Kinlessness is passed by a tribe's hall to this day. It is the worst the Áelendan have.
 - **The Felled Stand.** The stumps of the cut birch stand in a ring at the margin of the Silver Forests nearest the Lodge, and the young Wardens are brought to see it ([[place-silvrfrsts|The Silver Forests]]).
 - **The pattern.** Failure, return and asking, and a yes that does not name its price, is the shape of every Áelendan telling after this one.
@@ -98,4 +98,4 @@ The silver came back to the bark of the birch that were left, slowly, over four 
 - [[lore-theasking|The Asking]]—the lay that tells the Black Snow
 - [[lore-lowestpoolpct|The Pact at the Lowest Pool]]—the watch that was pulled
 - [[lore-firesnelgan|The Fires on Nélgan]]—the next time the people stood at the wood's edge
-- [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimael]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimel]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]

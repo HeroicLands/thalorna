@@ -3,7 +3,7 @@ shortcode: bardicolgs
 name: {full: The Bardic Colleges, aliases: [The Bardic Circle]}
 type: affiliation
 subType: venture
-description: "Institutions of music, memory, and fae magic preserving Pelwar traditions and serving as Élavendre's cultural authority and rival to Ordo expansion."
+description: "Institutions of music, memory, and fae magic preserving Pelwar traditions and serving as Élavendre's cultural authority and rival to Arcane Order expansion."
 data:
   culture: elavendriclt
   templatePriority: null
@@ -64,14 +64,14 @@ The Bardic curriculum is famously broad. A fully trained bard is expected to be 
 - **Oral poetry and storytelling**—The preservation, composition, and performance of the long poetic forms that structure Élavendren cultural memory. Bards are expected to carry epics of many hours' length in memory and to perform them on demand.
 - **Genealogy and history**—The noble houses of Élavendre set great store by accurate lineage, and the Colleges are the kingdom's definitive authority on the question of who is descended from whom ([[lore-sorvandaclose|The Sórvanda Closing]]).
 - **Languages**—All Pelwar descendants are taught to some degree, along with the principal Ankarian trade languages. The most learned bards also study [[skill-aelendlng|Áelendi]] and, in rare cases, fragments of [[lore-flksinale|Sinalëan]].
-- **Bardic magic**—The old magical traditions of Élavendre, distinct from the institutional arcana of the [[affiliation-ordoarcanis|Ordo Arcanis]]. These include song-binding, memory-shaping, and various forms of inspiration and dispiriting magic that operate through voice and narrative. The Colleges do not teach these openly to outsiders, and their exact mechanisms are closely held.
+- **Bardic magic**—The old magical traditions of Élavendre, distinct from the institutional arcana of the [[affiliation-ordoarcanis|Thôrdimâlon]]. These include song-binding, memory-shaping, and various forms of inspiration and dispiriting magic that operate through voice and narrative. The Colleges do not teach these openly to outsiders, and their exact mechanisms are closely held.
 - **Diplomacy and statecraft**—Many bards serve as envoys and advisors to noble houses and foreign courts. The Colleges train their students in protocol, persuasion, and the particular arts of gathering information without seeming to do so.
 
 ## The Bardic Circle
 
 The senior leadership of the Colleges—the masters, the archivists, and the most accomplished working bards—form a body known as the **Bardic Circle**. The Circle is one of the three traditional Élavendren institutions that together have shaped the kingdom's magical, cultural, and political life since before the monarchy was founded, the other two being the **Grove Council** (the religious authority of the fae traditions) and the [[lore-aelendnppl|Áelendan]] (whose sovereign authority over sacred territory predates all other institutions).
 
-The Bardic Circle is presently one of the primary organized forces resisting the expansion of [[affiliation-ordoarcanis|Ordo Arcanis]] influence in Élavendre. The Circle regards the Ordo's attempts to catalog and bureaucratize magic as fundamentally incompatible with the bardic tradition's understanding of magic as something that lives in voice, story, and relationship. In the cities, this resistance takes the form of civilized rivalry—competing chairs at court, contested pupils, reciprocal exclusion from certain venues. Beyond the cities, where the Circle's interests align with the [[affiliation-alndnwrdns|Áelendan Wardens]], the resistance turns considerably less polite.
+The Bardic Circle is presently one of the primary organized forces resisting the expansion of [[affiliation-ordoarcanis|Thôrdimâlon]] influence in Élavendre. The Circle regards the Arcane Order's attempts to catalog and bureaucratize magic as fundamentally incompatible with the bardic tradition's understanding of magic as something that lives in voice, story, and relationship. In the cities, this resistance takes the form of civilized rivalry—competing chairs at court, contested pupils, reciprocal exclusion from certain venues. Beyond the cities, where the Circle's interests align with the [[affiliation-alndnwrdns|Áelendan Wardens]], the resistance turns considerably less polite.
 
 ## The Colleges
 
@@ -86,6 +86,6 @@ The Bardic Colleges operate with considerable institutional independence, but th
 - [[place-elavendre|Élavendre]]—The kingdom in which the Colleges are based
 - [[lore-aelendnppl|Áelendi]]—The ancestral people whose bardic tradition the Colleges preserve
 - [[lore-pelwarpepl|Pelwar People]]—The deeper ancestral tradition
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—The principal institutional rival
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—The principal institutional rival
 - [[place-silvrfrsts|The Silver Forests]]—Source of many bardic songs
 - [[lore-faecourts|The Fae Courts]]—Subject of ancient bardic tradition

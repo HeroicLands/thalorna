@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [sixhillsvyl], population: 0, packFolde
 
 ## Overview
 
-Selvin is the hill a family builds on when it is rising. The Laurel is one of the [[place-sixhillsvyl|Six Hills]] of [[place-orzara|Ôrzâra]], and with **Torvel** (the Coronal) it makes **the Heights**: the twin patrician hills of walled villas, terraced gardens and city-houses of senators and great families who do not lodge in the Inner City. Both are prized for their air and their views, and both are reached only on foot.
+Selvin is the hill a family builds on when it is rising. The Laurel is one of the [[place-sixhillsvyl|Six Hills]] of [[place-orzara|Ôrzâra]], and with **Torvel** (the Coronal) it makes **the Heights**: the twin patrician hills of walled villas, terraced gardens and city-houses of _kurthândoi_ (senators) and great families who do not lodge in the Inner City. Both are prized for their air and their views, and both are reached only on foot.
 
 ## The Newer Hill
 

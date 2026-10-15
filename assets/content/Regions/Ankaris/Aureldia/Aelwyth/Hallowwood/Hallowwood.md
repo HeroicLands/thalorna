@@ -84,14 +84,14 @@ The Sinalë of the Hallowwood do not discuss this and never have. Whether they k
 do is precisely the question, and it is one of the reasons an
 [[affiliation-kingdmdnvr|embassy from Dúnavarre]] is _tolerated_ here and nothing warmer.
 
-## The Ordo Problem
+## The Arcane Order Problem
 
-This is the flaw in the Synod's arrangement. Aelwyth is the Ordo's unconstrained research ground
+This is the flaw in the Synod's arrangement. Aelwyth is the Arcane Order's unconstrained research ground
 precisely because its fae country has no Wardens—and the single greatest concentration of fae presence
 on the island is the one place that does have a keeper, and it does not answer to Dúnavarre, and it
 tolerates the Synod's envoys the way one tolerates weather.
 
-The Ordo has learned a great deal on Aelwyth. It has learned almost nothing here.
+The Arcane Order has learned a great deal on Aelwyth. It has learned almost nothing here.
 
 ## See Also
 

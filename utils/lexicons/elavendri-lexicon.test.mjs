@@ -71,10 +71,10 @@ test("the reduced vowel stands only at the end of a word", () => {
 test("a name in scope missing from the register is an error", () => {
     const broken = lexicon
         .split("\n")
-        .filter((line) => !line.startsWith("| **Béravel**"))
+        .filter((line) => !line.startsWith("| **Péravel**"))
         .join("\n");
     assert.match(
         errors(broken).join("\n"),
-        /"Béravel" is a Élavendri name the register does not register/,
+        /"Péravel" is a Élavendri name the register does not register/,
     );
 });

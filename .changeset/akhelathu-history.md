@@ -8,7 +8,7 @@
 - Twenty events explain the present: the crossing to Galezkara, the War of the Two Thrones, the hill-nomads' and sea-raiders' thrones, the False Uqa'â's famine and judgment, the Vylarian conquest and the Great Removal.
 - Eleven sites carry that history on the ground, among them three cursed battlefields the Khelâthi call _zelqezat_, each with adventure hooks.
 - The sun's disk is _thelqen_: the temple-city is Magu-Thelqen, the Lekhau domain Thelqen'Uqa, and the measure of grain is the _mazgar_, with the Quantity Merchants renamed for it.
-- Galezkara, the Guild notes, Okháris, Bethûa and the Ordo Arcanis now agree with the king-list and the Khelâthi notes about dates, conquests, directions and who is present in the empire.
+- Galezkara, the Guild notes, Okháris, Bethûa and the Thôrdimâlon now agree with the king-list and the Khelâthi notes about dates, conquests, directions and who is present in the empire.
 
 **The Vylarian Calendar**
 

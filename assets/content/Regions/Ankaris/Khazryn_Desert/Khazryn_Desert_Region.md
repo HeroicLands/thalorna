@@ -92,7 +92,7 @@ Along the south the [[place-graznmntns|Grazian Mountains]] stand as a wall of ye
 
 The [[affiliation-ashanpnthn|Āsháian Pantheon]] is the nominal faith of the entire region and the lived faith of the Tellumel, where the Tellumi keep the full pantheon under [[affiliation-ahurdaen|Āhúrdáén]] and the Ātárzád give their devotion to [[affiliation-ataros|Ātáröš]] alone. The tribes honor the Āsháian gods loosely, laid over their own sky-father and earth-mother cults and their shamans. [[affiliation-bahramis|Báhrámiš]] (storms and protection) and [[affiliation-korsadra|Khóršádrä]] (the eternal sky-light) are the two who matter to them, because the sky is the supreme presence in their cosmology and storms are its will. An orqun is raised under open sky, and treaties are sworn before lightning.
 
-The desert itself is charged. Particular mesas, springs and old shrines are holy to whoever lives nearest, and pilgrimage to them is recognized practice in all three peoples, though the three read the sites differently. The [[affiliation-ordoarcanis|Ordo Arcanis]] has almost no presence here; the Tellumi regard it as foreign and the tribes have never heard of it.
+The desert itself is charged. Particular mesas, springs and old shrines are holy to whoever lives nearest, and pilgrimage to them is recognized practice in all three peoples, though the three read the sites differently. The [[affiliation-ordoarcanis|Thôrdimâlon]] has almost no presence here; the Tellumi regard it as foreign and the tribes have never heard of it.
 
 ## Power
 

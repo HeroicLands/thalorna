@@ -1,6 +1,6 @@
 ---
 shortcode: orthemiskorv
-name: {full: Ôrthêmis Kôrvâthândis, aliases: [Prefect Ôrthêmis Kôrvâthândis]}
+name: {full: Ôrthêmis Kôrvâthândis, aliases: [Ûsândôs Ôrthêmis Kôrvâthândis]}
 type: being
 subType: npc
 description: A political appointee from the capital who arrived with orders to strengthen imperial authority in the province.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Prefect
+  occupation: Ûsândôs
   lore: []
   culture: vylarianclt
   homes: []
@@ -36,4 +36,4 @@ data:
 
 # Dossier {#dossier}
 
-Ôrthêmis Kôrvâthândis is a prefect and a political appointee from the capital, sent with orders to strengthen imperial authority in the province. [[being-brakshrlns|Brákôs Hârlânis]] once submitted a report contradicting her claims about bandit activity. Since then Ôrthêmis has quietly obstructed his advancement and spread rumors that he is soft on dissidents.
+Ôrthêmis Kôrvâthândis is an _ûsândôs_ (prefect) and a political appointee from the capital, sent with orders to strengthen imperial authority in the province. [[being-brakshrlns|Brákôs Hârlânis]] once submitted a report contradicting her claims about bandit activity. Since then Ôrthêmis has quietly obstructed his advancement and spread rumors that he is soft on dissidents.

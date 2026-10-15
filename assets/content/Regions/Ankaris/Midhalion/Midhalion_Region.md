@@ -37,7 +37,7 @@ Mídhalión is overwhelmingly human, and its people run the whole range of human
 
 Other peoples are scarce. Small [[lore-flksinale|Sinalë]] enclaves are recorded in Élavendre and in the oldest temples of Aû'Khelâthu, and a handful of [[lore-flkkhazar|Khazári]] halls are rumored in the highland margins. The [[lore-grukarfolk|Grukar]] are known from frontier warnings and nowhere else: their nests send neither traders nor settlers to live under a city's laws, so no port has a Grukar quarter.
 
-The ports have more in common with each other than with the land behind them. A sailor working from [[place-mercavia|Mercavia]] to [[place-byzaris|Byzaris]] to [[place-galezkara|Galezkara]] meets different languages, gods and buildings at every landfall, and the same kind of merchant, the same dockside institutions, and the same easy attitude to other people's religions, marriages and laws. That port culture has its own traditions and its own continuity, distinct from any inland culture that feeds it.
+The ports have more in common with each other than with the land behind them. A sailor working from [[place-mercavia|Dêlâlâra]] to [[place-byzaris|Byzaris]] to [[place-galezkara|Galezkara]] meets different languages, gods and buildings at every landfall, and the same kind of merchant, the same dockside institutions, and the same easy attitude to other people's religions, marriages and laws. That port culture has its own traditions and its own continuity, distinct from any inland culture that feeds it.
 
 ## Religion
 
@@ -54,7 +54,7 @@ The region's politics are the long decline of the [[affiliation-vylarinmpr|Vylar
 - **[[place-tarvenirgn|Tarvénia]]** guards its sovereignty with particular ferocity.
 - **The southern powers**—[[affiliation-empireakhlth|Aû'Khelâthu]], [[affiliation-okharis|Okháris]] and [[affiliation-mtrrchybth|Bethua]]—watch the northern struggle with ancient patience or opportunism by turns. Each is older than Vylaria, and each reckons that whatever northern power comes out on top will need its trade.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] is the one institution that crosses every northern border. It keeps chapters from Vylaria to Tarûzel to Heliónis and claims a continent-wide monopoly on sanctioned arcane practice. Its reach across the water is weak: Aû'Khelâthu and Okháris have mature magical traditions of their own and have never granted the Ordo a foothold. That asymmetry is a standing source of friction, and the southern shore's arcane self-sufficiency is part of why the Ordo's northern monopoly cannot grow past the sea.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] is the one institution that crosses every northern border. It keeps chapters from Vylaria to Tarûzel to Heliónis and claims a continent-wide monopoly on sanctioned arcane practice. Its reach across the water is weak: Aû'Khelâthu and Okháris have mature magical traditions of their own and have never granted the Arcane Order a foothold. That asymmetry is a standing source of friction, and the southern shore's arcane self-sufficiency is part of why the Arcane Order's northern monopoly cannot grow past the sea.
 
 ## Trade
 
@@ -91,7 +91,7 @@ Mídhalión dates by the [[lore-commoncal|Vylarian Calendar]]: years counted Aft
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—dominant southern imperial power
 - [[affiliation-okharis|Okháris]]—southwestern three-flamed kingdom
 - [[affiliation-mtrrchybth|Matriarchy of Bethua]]—matriarchal kingdom of the central southern shore
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—cross-border arcane institution
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—cross-border arcane institution
 - [[skill-valtarlng|Valtári]]—the trade pidgin
 - [[place-ankrscntnnt|Ankaris Continent]]—northern continent
 - [[place-xerathia|Xerathia]]—southern continent

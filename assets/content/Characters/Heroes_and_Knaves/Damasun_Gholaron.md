@@ -463,7 +463,7 @@ Passenger and informal counselor aboard the **Tamzîr**. He claims affiliation w
 
 1. **The Past Arrives**: A stranger in a port city recognizes Kléandir and addresses him by a different name—a name that carries weight and danger. Kléandir's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
 
-2. **The Confessor's Burden**: Kléandir has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Ordo Arcanis]]. He knows more about the organization than he has revealed—perhaps more than is safe. When an opportunity arises to strike at the Ordo's interests, Kléandir has the knowledge to make it possible, but using it would expose who he once was.
+2. **The Confessor's Burden**: Kléandir has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Thôrdimâlon]]. He knows more about the organization than he has revealed—perhaps more than is safe. When an opportunity arises to strike at the Arcane Order's interests, Kléandir has the knowledge to make it possible, but using it would expose who he once was.
 
 3. **Crisis of Faith**: An event aboard the Tamzîr shakes Kléandir's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Kléandir's past may be closer to the surface than anyone realized.
 

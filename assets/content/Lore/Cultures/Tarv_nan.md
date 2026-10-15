@@ -15,7 +15,7 @@ data:
     complexion: {weathered: 4, sun_kissed: 4, ruddy: 1, smooth: 1}
     height: {female: {min: 5' 5", max: 6' 1"}, male: {min: 5' 6", max: 6' 4"}}
 
-# terran_analog: "Central Spain, Andorra and southeastern France up to the southern Alps (a patchwork of feudal kingdoms, free cities and contested mountain marches). Carries over: independent feudal kingdoms and free cities, mercenary swordsmen and crossbowmen, women running holdings while men are under contract. Departs: a deep skepticism of institutional magic and of the Ordo Arcanis."
+# terran_analog: "Central Spain, Andorra and southeastern France up to the southern Alps (a patchwork of feudal kingdoms, free cities and contested mountain marches). Carries over: independent feudal kingdoms and free cities, mercenary swordsmen and crossbowmen, women running holdings while men are under contract. Departs: a deep skepticism of institutional magic and of the Thôrdimâlon."
 ---
 
 Tarvénia is not a country so much as a standing argument that has never been settled and is not going to be: three kingdoms, a free city, a free territory, and a patchwork of fiefdoms between them, bound by a shared tongue, a shared faith, and a shared conviction that nobody is going to tell a Tarvénan what to do. What holds a Tarvénan life together is his own name, the band or household he has sworn to, and the blade he is expected to be able to use.
@@ -30,7 +30,7 @@ It also sets the measure of a man. A Tarvénan is judged on whether he is any go
 
 ## Nobody's Tyrant
 
-The Tarvénans are deeply skeptical of magic, and of the Ordo Arcanis above all. The Ordo keeps a few chapters in the larger cities and operates carefully, since a mage who throws his weight about in Tarvénia tends to end up with a knife between his ribs and the local authorities tend to be slow investigating it.
+The Tarvénans are deeply skeptical of magic, and of the Thôrdimâlon (the Arcane Order) above all. The Arcane Order keeps a few chapters in the larger cities and operates carefully, since a mage who throws his weight about in Tarvénia tends to end up with a knife between his ribs and the local authorities tend to be slow investigating it.
 
 The skepticism is precise and not superstitious. Folk healers, hedge witches and village wise-women are tolerated and often respected: they are neighbors, they are answerable, and if one does harm the village knows exactly where she sleeps. What is not tolerated is institutionalized arcane power, which a Tarvénan regards as one more organization claiming the right to tell him what to do, and no more welcome than a tax-farmer.
 
@@ -66,13 +66,13 @@ Her admiration is not a lesser form of the man's. Sir Dálven keeps a border by 
 
 A Tarvénan can point to a handful of things that bind a company or a valley. **The contract** is the whole of the company's law. **The oath stone** (_goitsára_) is a standing stone older than any shrine, and the oath sworn on it is held to be the oldest kind. **The muster roll** (_theróna_) is the company's list of who marched, and the unnaming strikes a name from it. **The long poem** (_oldémo_) is the history of a company's deeds, sung after supper by someone who was there; the written chronicle is a different thing, and the two are not thought to be the same kind. **The charter** (_zaktéla_) is what a free city buys from the High King, and the Free City of Valthári pays tribute in return for its own courts and its freedom from feudal levies.
 
-The order of the Sealed Word keeps the nearest thing to a national archive: the master register of every contested oath it has ruled on, held at Ólvestria. The Twinblade Order keeps the gates and thresholds, and the Twin Gate of Ólvestria is one of the most consequential in Aurèldía.
+The order of the Sealed Word keeps the nearest thing to a national archive: the master register of every contested oath it has ruled on, held at Ólvestra. The Twinblade Order keeps the gates and thresholds, and the Twin Gate of Ólvestra is one of the most consequential in Aurèldía.
 
 ## Faith Without an Establishment
 
-The Aurèldían pantheon is kept honestly and without much clerical supervision. Tarvénans favor Árdavon of gates and oaths, Karnavos of the wild, and the Sacred Forge, and they are cooler than their neighbors toward the grand temple establishments—the same objection as to the Ordo, applied to priests.
+The Aurèldían pantheon is kept honestly and without much clerical supervision. Tarvénans favor Árdavon of gates and oaths, Karnavos of the wild, and the Sacred Forge, and they are cooler than their neighbors toward the grand temple establishments—the same objection as to the Arcane Order, applied to priests.
 
-A village keeps its shrine, its own priest who is usually a local man, and its own festival calendar, and it resists any attempt to regularize any of the three. Hermit holy-men, wandering mendicants and local shrine-keepers are more common than formal temple priests. Under the gods of the pantheon the mountain villages keep an older one, the Mother (_menútsa_), who is kept in caves (_ikórrata_), where offerings (_itsárde_) are left at the mouth. Her wise-women (_tsingárra_) are the village healers a Tarvénan tolerates, and the Ordo's mage is the one he does not.
+A village keeps its shrine, its own priest who is usually a local man, and its own festival calendar, and it resists any attempt to regularize any of the three. Hermit holy-men, wandering mendicants and local shrine-keepers are more common than formal temple priests. Under the gods of the pantheon the mountain villages keep an older one, the Mother (_menútsa_), who is kept in caves (_ikórrata_), where offerings (_itsárde_) are left at the mouth. Her wise-women (_tsingárra_) are the village healers a Tarvénan tolerates, and the Arcane Order's mage is the one he does not.
 
 An ordinary Tarvénan's observance is plain and local. He swears on a stone, keeps the hearth fire (_karálzo_) and the household gods (_karalzándis_), leaves an offering at a wayside shrine (_nekháimo_) when he passes it, and goes to his village priest for the rites that mark a birth, a marriage or a death. He consults the wise-woman before a mage. Árdavon is revered above all among the warrior class and Lúsinía among farmers, and Brâzêmâs has a significant following among mountain communities and seafarers.
 
@@ -142,7 +142,7 @@ The ladder of a life follows the ladder of the valley. A child is the household'
 
 ## What the Hills Will Not Be Told
 
-Every real culture has a blind spot its own thoughtful members argue about, and the Tarvénans' is the freedom that shelters what it should refuse. A people who will not be told what to do will also not be told to stop. The hill-baronies around Ólvestria have, for political reasons, declined to suppress the Black Flame, and the Ólvestrian cell of the Order of the Ashen Vow, that order's largest, operates under their protection. The Magister of the Sealed Word at Ólvestria died of causes ruled natural, days before he was to issue a major writ against a baron sympathetic to the Black Flame, and the death is still talked about as something less than natural. The Aurèldían crowns maintain standing orders for the order's suppression, and the hill-baronies of Tarvénia are the qualified exception.
+Every real culture has a blind spot its own thoughtful members argue about, and the Tarvénans' is the freedom that shelters what it should refuse. A people who will not be told what to do will also not be told to stop. The hill-baronies around Ólvestra have, for political reasons, declined to suppress the Black Flame, and the Ólvestran cell of the Order of the Ashen Vow, that order's largest, operates under their protection. The Mârendândôs of the Sealed Word at Ólvestra died of causes ruled natural, days before he was to issue a major writ against a baron sympathetic to the Black Flame, and the death is still talked about as something less than natural. The Aurèldían crowns maintain standing orders for the order's suppression, and the hill-baronies of Tarvénia are the qualified exception.
 
 The culture's other blind side runs through the household. Women manage property, hold contracts and run holdings through the long absences, but in the three kingdoms they do it through a husband's name while everybody knows who is actually deciding. Thoughtful Tarvénans dispute whether a people so jealous of every claim on a free man's will can leave so much of its practice unwritten.
 
@@ -159,84 +159,79 @@ The culture's other blind side runs through the household. Women manage property
 
 ## Glossary {#glossary}
 
-Every Tarvéni word and term of art these notes use, with the ranks of the two Árdavonian orders whose mother-houses stand at Ólvestria.
+Every Tarvéni word and term of art these notes use, with the ranks of the two Árdavonian orders whose mother-houses stand at Ólvestra.
 
-| Term                 | Meaning                                                                                                               |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| aipséna              | A taking in; the receiving of a fosterling or a stranger into a household                                             |
-| anzirótho            | Masterless; of a soldier with no contract and no captain                                                              |
-| belártsa             | A threshold                                                                                                           |
-| damólis              | Guilt; a stain on a company's name                                                                                    |
-| darándo              | A sworn man; a soldier under contract                                                                                 |
-| díravo               | The soul                                                                                                              |
-| drengáko             | Warrior                                                                                                               |
-| dun                  | With                                                                                                                  |
-| ek                   | And                                                                                                                   |
-| enthráth             | Between                                                                                                               |
-| ezkóbe               | A lantern for the dead, set on a threshold                                                                            |
-| First Magister       | The chair of the Order of the Sealed Word, chosen by the Magisters for fifteen years; Magister Primus                 |
-| Frater Bifrons       | A Sworn Twinblade                                                                                                     |
-| Frater Senior        | A Senior Brother of the Sealed Word, or a Senior Twinblade                                                            |
-| Frater Signati       | A Sworn Brother of the Seal                                                                                           |
-| gárevárren           | Ancestors                                                                                                             |
-| gatséra              | The night procession; the dead of a valley walking the roads with a light before them                                 |
-| gébrina              | A dowry                                                                                                               |
-| goitsára             | An oath stone; a standing stone sworn upon, older than any shrine                                                     |
-| grándh               | Honor                                                                                                                 |
-| ikéntsa              | The midsummer fire                                                                                                    |
-| ikórrata             | A cave shrine; a cave where the Mother is kept                                                                        |
-| itsárde              | An offering left at a cave mouth                                                                                      |
-| izúrka               | The summer drive; the move of the flocks up to the high meadows                                                       |
-| kámbeza              | A marriage; arranged, and not dictated                                                                                |
-| karalzándis          | The household gods; those of the hearth                                                                               |
-| karálzo              | The hearth fire                                                                                                       |
-| kávren               | River                                                                                                                 |
-| khelmártho           | Accursed; said of a man who broke his contract                                                                        |
-| kiramhárlen          | An earned name; a name a company gives a man                                                                          |
-| kórath               | Heart                                                                                                                 |
-| kóthren              | Brother                                                                                                               |
-| kuthréza             | A penalty; what a broken contract costs                                                                               |
-| lírkheza             | A sling                                                                                                               |
-| lordémo              | A festival                                                                                                            |
-| Magister             | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
-| Magister of the Gate | The leader of a Twinblade chapter house; Magister Portae                                                              |
-| Magister Ordinis     | A Magister of the Sealed Word                                                                                         |
-| Magister Portae      | A Magister of the Gate                                                                                                |
-| Magister Primus      | The First Magister                                                                                                    |
-| Mál Portae Geminae   | The Voice of the Twin Gate                                                                                            |
-| menútsa              | The Mother; the goddess of the earth beneath the later gods                                                           |
-| méro                 | My                                                                                                                    |
-| motsáre              | A charm against the dead                                                                                              |
-| nehárlo              | An unnaming; the striking of a name from a company's roll                                                             |
-| nekháimo             | A wayside shrine                                                                                                      |
-| oath-hearing         | A hearing on a broken oath, convened by the Sealed Word                                                               |
-| oldémo               | A history; the sung account of a company's deeds                                                                      |
-| orhéno               | A debt of honor; an insult that must be answered before the same witnesses                                            |
-| prá                  | For                                                                                                                   |
-| prèdhen              | Peace                                                                                                                 |
-| ratháuna             | A horse fair; the races and trading at the autumn fair                                                                |
-| revótho              | Free                                                                                                                  |
-| rithezándo           | A surgeon                                                                                                             |
-| semnális             | A contract; above all, a company's contract for its service                                                           |
-| Senior Brother       | A brother of the Sealed Word elevated by chapter vote, who may hold hearings alone and sit on the Council of the Seal |
-| Senior Twinblade     | A Twinblade elevated by chapter vote to command a station of importance                                               |
-| sorethándis          | Kin; those of one household, blood or no                                                                              |
-| Sworn Brother        | A working knight of the Sealed Word who rides a circuit or answers petitions                                          |
-| Sworn Twinblade      | A working knight of the Twinblade Order who serves a station or a circuit of stations                                 |
-| theróna              | A muster roll                                                                                                         |
-| thérrá               | Land                                                                                                                  |
-| thórren              | Runs                                                                                                                  |
-| tsingárra            | A wise-woman; a village healer of the Mother's                                                                        |
-| Twinblade            | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
-| udúrtsa              | The evil eye; harm laid by a look, which a wise-woman lifts                                                           |
-| velzóra              | A homecoming; the return from a contract with money in hand                                                           |
-| venthódis            | Banishment                                                                                                            |
-| vérath               | Truth                                                                                                                 |
-| vílkrath             | Blood                                                                                                                 |
-| vókath               | Speaks                                                                                                                |
-| zaktéla              | A royal charter                                                                                                       |
-| zekúdi               | The old ones; the dead of a house                                                                                     |
-| zirótho              | A rank; one step of a company's order                                                                                 |
-| zorkhándo            | The head of a household; whoever runs the holding while the men are away                                              |
+| Term                    | Meaning                                                                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| aipséna                 | A taking in; the receiving of a fosterling or a stranger into a household                                             |
+| anzirótho               | Masterless; of a soldier with no contract and no captain                                                              |
+| belártsa                | A threshold                                                                                                           |
+| damólis                 | Guilt; a stain on a company's name                                                                                    |
+| darándo                 | A sworn man; a soldier under contract                                                                                 |
+| díravo                  | The soul                                                                                                              |
+| drengáko                | Warrior                                                                                                               |
+| dun                     | With                                                                                                                  |
+| ek                      | And                                                                                                                   |
+| enthráth                | Between                                                                                                               |
+| ezkóbe                  | A lantern for the dead, set on a threshold                                                                            |
+| First Mârendândôs       | The chair of the Order of the Sealed Word, chosen by the mârendândoi for fifteen years                                |
+| gárevárren              | Ancestors                                                                                                             |
+| gatséra                 | The night procession; the dead of a valley walking the roads with a light before them                                 |
+| gébrina                 | A dowry                                                                                                               |
+| goitsára                | An oath stone; a standing stone sworn upon, older than any shrine                                                     |
+| grándh                  | Honor                                                                                                                 |
+| hôlzarândôs             | A senior sworn man; a Senior Brother of the Sealed Word, the Ashen Vow or the Iron Cinder, or a Senior Twinblade      |
+| ikéntsa                 | The midsummer fire                                                                                                    |
+| ikórrata                | A cave shrine; a cave where the Mother is kept                                                                        |
+| itsárde                 | An offering left at a cave mouth                                                                                      |
+| izúrka                  | The summer drive; the move of the flocks up to the high meadows                                                       |
+| kámbeza                 | A marriage; arranged, and not dictated                                                                                |
+| karalzándis             | The household gods; those of the hearth                                                                               |
+| karálzo                 | The hearth fire                                                                                                       |
+| kávren                  | River                                                                                                                 |
+| khelmártho              | Accursed; said of a man who broke his contract                                                                        |
+| kiramhárlen             | An earned name; a name a company gives a man                                                                          |
+| kórath                  | Heart                                                                                                                 |
+| kóthren                 | Brother                                                                                                               |
+| kuthréza                | A penalty; what a broken contract costs                                                                               |
+| lírkheza                | A sling                                                                                                               |
+| lordémo                 | A festival                                                                                                            |
+| Mârendândôs             | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
+| Mârendândôs of the Gate | The leader of a Twinblade chapter house                                                                               |
+| menútsa                 | The Mother; the goddess of the earth beneath the later gods                                                           |
+| méro                    | My                                                                                                                    |
+| motsáre                 | A charm against the dead                                                                                              |
+| nehárlo                 | An unnaming; the striking of a name from a company's roll                                                             |
+| nekháimo                | A wayside shrine                                                                                                      |
+| oath-hearing            | A hearing on a broken oath, convened by the Sealed Word                                                               |
+| oldémo                  | A history; the sung account of a company's deeds                                                                      |
+| orhéno                  | A debt of honor; an insult that must be answered before the same witnesses                                            |
+| prá                     | For                                                                                                                   |
+| prèdhen                 | Peace                                                                                                                 |
+| ratháuna                | A horse fair; the races and trading at the autumn fair                                                                |
+| revótho                 | Free                                                                                                                  |
+| rithezándo              | A surgeon                                                                                                             |
+| semnális                | A contract; above all, a company's contract for its service                                                           |
+| Senior Brother          | A brother of the Sealed Word elevated by chapter vote, who may hold hearings alone and sit on the Council of the Seal |
+| Senior Twinblade        | A Twinblade elevated by chapter vote to command a station of importance                                               |
+| sorethándis             | Kin; those of one household, blood or no                                                                              |
+| Sworn Brother           | A working knight of the Sealed Word who rides a circuit or answers petitions                                          |
+| Sworn Twinblade         | A working knight of the Twinblade Order who serves a station or a circuit of stations                                 |
+| theróna                 | A muster roll                                                                                                         |
+| thérrá                  | Land                                                                                                                  |
+| thórren                 | Runs                                                                                                                  |
+| tsingárra               | A wise-woman; a village healer of the Mother's                                                                        |
+| Twinblade               | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
+| udúrtsa                 | The evil eye; harm laid by a look, which a wise-woman lifts                                                           |
+| velzóra                 | A homecoming; the return from a contract with money in hand                                                           |
+| venthódis               | Banishment                                                                                                            |
+| vérath                  | Truth                                                                                                                 |
+| vílkrath                | Blood                                                                                                                 |
+| vókath                  | Speaks                                                                                                                |
+| zaktéla                 | A royal charter                                                                                                       |
+| zarândôs                | A sworn man; a Sworn Brother of the Seal, a Sworn Twinblade or a Sworn Brother of the Ashen Vow                       |
+| zekúdi                  | The old ones; the dead of a house                                                                                     |
+| zirótho                 | A rank; one step of a company's order                                                                                 |
+| zorkhándo               | The head of a household; whoever runs the holding while the men are away                                              |
 
-Ardin (Ard), Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

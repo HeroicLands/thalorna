@@ -1,6 +1,6 @@
 ---
 shortcode: vornantlgn
-name: {full: Vôrnan Tólgen, aliases: []}
+name: {full: Vornàn Tolgèn, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,23 +393,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Vôrnan Tólgen is a 46-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His wide-set brown eyes sit beneath straight brows and give him an open gaze. He has an aquiline nose and thin lips. He has light skin with a smooth complexion. His gray hair is falling in loose waves.
+Vornàn Tolgèn is a 46-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His wide-set brown eyes sit beneath straight brows and give him an open gaze. He has an aquiline nose and thin lips. He has light skin with a smooth complexion. His gray hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Vôrnan Tólgen is a self-taught philosopher of Pirnebrìs, the cherry town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freeman of a carter's family who never saw the inside of an academy and lectures on ethics in the taverns of a town that lives on the frontier war.
+Vornàn Tolgèn is a self-taught philosopher of Pirnebrìs, the cherry town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freeman of a carter's family who never saw the inside of an academy and lectures on ethics in the taverns of a town that lives on the frontier war.
 
-Vôrnan was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of Helionite dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of Aurèliane's academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Pirnebrìs, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Pirnebrìs sells the frontier its boots and carts and nobody there wants a lasting peace, and Vôrnan asks, plainly and repeatedly, what that makes them.
+Vornàn was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of Helionite dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of Aurelàne's academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Pirnebrìs, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Pirnebrìs sells the frontier its boots and carts and nobody there wants a lasting peace, and Vornàn asks, plainly and repeatedly, what that makes them.
 
 ## Psyche
 
 ### Personality
 
-Vôrnan is patient, curious and abstracted, better at a question than at what should be done about it, and given to arguments that lose the room.
+Vornàn is patient, curious and abstracted, better at a question than at what should be done about it, and given to arguments that lose the room.
 
 ### Motivation
 
-Vôrnan wants to understand, and to be understood—to have the people he talks to think for themselves, in a town that has arranged its whole life so as not to.
+Vornàn wants to understand, and to be understood—to have the people he talks to think for themselves, in a town that has arranged its whole life so as not to.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ Deeply read in ethics and philosophy, a compelling talker, good at drawing an au
 
 ## Social
 
-Vôrnan belongs to no academy, guild or faction and has no patron.
+Vornàn belongs to no academy, guild or faction and has no patron.
 
 ## Companions
 
 ### Patrons
 
-Vôrnan's patrons are the tavern-keepers of Pirnebrìs, who feed him because his evenings sell wine, and the town's young, who come to argue and stay to think.
+Vornàn's patrons are the tavern-keepers of Pirnebrìs, who feed him because his evenings sell wine, and the town's young, who come to argue and stay to think.
 
 ### Enemies
 
@@ -431,10 +431,10 @@ The supply merchants of Pirnebrìs, whose trade he has described in public as pr
 
 ## Plot Hooks
 
-1. **The Lecture on Profit**—Vôrnan has announced an evening on what the march owes the men it sends over the passes, the night before the levy musters. The merchants have asked the tavern-keeper to bar the door, and the young officers have said they will come anyway.
+1. **The Lecture on Profit**—Vornàn has announced an evening on what the march owes the men it sends over the passes, the night before the levy musters. The merchants have asked the tavern-keeper to bar the door, and the young officers have said they will come anyway.
 
-2. **The Academic**—A master of rhetoric from Aurèliane has come to hear the tavern philosopher, and has offered him a chair—a room, a stipend and students—on condition he stops talking about the war.
+2. **The Academic**—A master of rhetoric from Aurelàne has come to hear the tavern philosopher, and has offered him a chair—a room, a stipend and students—on condition he stops talking about the war.
 
-3. **The Officer Who Listened**—A junior officer who took Vôrnan's questions seriously has refused an order in the field and is to be tried at the Winter Assize. His defense is what Vôrnan taught him, and the court has sent for the teacher.
+3. **The Officer Who Listened**—A junior officer who took Vornàn's questions seriously has refused an order in the field and is to be tried at the Winter Assize. His defense is what Vornàn taught him, and the court has sent for the teacher.
 
-4. **Shut In**—The alarm has sounded and Pirnebrìs has shut its gates with the flocks and the outlying families inside. Vôrnan is inside with the merchants he has spent ten years accusing.
+4. **Shut In**—The alarm has sounded and Pirnebrìs has shut its gates with the flocks and the outlying families inside. Vornàn is inside with the merchants he has spent ten years accusing.

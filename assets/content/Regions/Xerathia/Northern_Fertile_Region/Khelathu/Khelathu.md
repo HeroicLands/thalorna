@@ -242,7 +242,7 @@ History and theology count from the [[lore-qettelgu|Qet Telgu]], the "[[lore-fir
 
 Years from the Qet Telgu are written ST, "Selqur Qet Telgu," the Year of the First Occasion. The current year is about 2,830 ST, which is 720 AF in the western calendar. The age before it—the time of the gods, before civilization—is simply "before the First Occasion," and the Khelâthi seldom bother to date it. History, as they see it, begins with the Qet Telgu; before it was chaos.
 
-_The year has three seasons of four months_: [[lore-azletssn|Azlet]] (Inundation), [[lore-geletssn|Gelet]] (Emergence) and [[lore-sheluessn|Shelu]] (Harvest). Each month has thirty days, and five intercalary days close the year. Khelâthi astronomers are proud of the system with good cause, and fond of pointing out that its seasons are named for what the river does while the western calendar begins from a senator's coup.
+_The year has three seasons of four months_: [[lore-azletssn|Azlet]] (Inundation), [[lore-geletssn|Gelet]] (Emergence) and [[lore-sheluessn|Shelu]] (Harvest). Each month has thirty days, and five intercalary days close the year. Khelâthi astronomers are proud of the system with good cause, and fond of pointing out that its seasons are named for what the river does while the western calendar begins from a _kurthândôs_'s coup.
 
 [[affiliation-okharis|Okháris]] and the smaller polities of the upper river use the Qet Telgu as a matter of course, the way western Ankaris adopted the Vylarian count. [[place-vedyarargn|Vedyara]] and the [[affiliation-tantsouempr|Empire of Tāntsou]] keep their own systems, as does [[affiliation-mtrrchybth|Bethûa]], though the [[lore-bethuanclt|Bethûan]] system shows strong Khelâthi influence.
 
@@ -262,7 +262,7 @@ Each selat also has its own patron, and the local cults give the empire's religi
 
 Khelâthi magic is priestly, and the line between priest and mage barely exists. Power comes from knowing sacred words, divine names and ritual formulae kept in temple libraries open only to the initiated, and the [[lore-khelunulekha|Khelunu Lekhau]] teach it in temple schools the way the temples teach scribes. The strongest magic is funerary: the workings that protect the dead, guide the soul through the afterlife and ward tombs against desecration.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Aû'Khelâthu and no prospect of one. The empire's own magical establishment is older, more deeply rooted and more closely bound to state power than anything the **Ordo** could build. Ordo agents occasionally visit the ports; the priesthood regards them as arrogant amateurs, and the few who have tried to recruit Khelâthi mages have been politely and firmly expelled.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] has no presence in Aû'Khelâthu and no prospect of one. The empire's own magical establishment is older, more deeply rooted and more closely bound to state power than anything the **Arcane Order** could build. Arcane Order agents occasionally visit the ports; the priesthood regards them as arrogant amateurs, and the few who have tried to recruit Khelâthi mages have been politely and firmly expelled.
 
 ## Relations
 

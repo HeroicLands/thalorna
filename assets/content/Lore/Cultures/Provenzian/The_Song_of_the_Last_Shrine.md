@@ -22,7 +22,7 @@ data:
 
 **The Song of the Last Shrine** is the fourth of the six songs of the long sea song of **Lenthìze**, a fisher's son of [[place-volsather|Volsathèr]] who took his ship past the last shrine of the Wayfarer and came back, and went again. It is sung in eight-line stanzas whose first six lines rhyme in turns and whose last two rhyme together, a form the síladòrs of the south use for nothing but the sea. A síladòr sings it with a bowed instrument across his knee at the autumn equinox, at the Celebration of Arrivals of [[affiliation-pozeras|Pôzêrâs]], when travelers who have come home climb the Wayfarer's temple steps with what they vowed and tell their roads to the priests. Volsathèr sings it on the quay that night as the song for the one who did not arrive, and the singer runs through the first three songs in a stanza before he begins.
 
-The ship is the **Solmère**, which is the word for longing, and the song makes much of that. The headland is the **Last Shrine**, the farthest north and west of the god's way-shrines on the cliff coast of [[place-zuravlenrgn|Zûravlen]], where a keeper kept a lamp and a book of who went past. The song holds that the book is still open at Lenthìze's line. The woman who stands on the cut with a lamp is **Aulìra**, and a line of hers stands in the song twice: Volsathèr says the line came out of the women's songs on the salt pans, and the women sing it there still ([[lore-saltpansongs|The Songs of the Salt Pans]]).
+The ship is the **Solmère**, which is the word for longing, and the song makes much of that. The headland is the **Last Shrine**, the farthest north and west of the god's way-shrines on the cliff coast of [[place-zuravlenrgn|Zuravlèn]], where a keeper kept a lamp and a book of who went past. The song holds that the book is still open at Lenthìze's line. The woman who stands on the cut with a lamp is **Aulìra**, and a line of hers stands in the song twice: Volsathèr says the line came out of the women's songs on the salt pans, and the women sing it there still ([[lore-saltpansongs|The Songs of the Salt Pans]]).
 
 The southern ports sing the song shorter. In Jalnazdàl and Kalvèza, where a patron pays for it, the síladòr ends at the stanza in which Lenthìze sets his men ashore by their cities and pays them twice, and the song is a song of a master who kept the order of what he owed. Volsathèr sings the last five stanzas as well, and both versions close on the short stanza that sends the song to the patron who paid for it.
 
@@ -89,7 +89,7 @@ Kalvèza, a caulker, whose seams were never blamed;
 Jalnazdàl, a clerk to keep the count, whose own
 hand was a notary's; Lizèla, famed
 for salt, a cooper for the casks; from the old stone
-of Aurèliane, a student of the stars
+of Aurelàne, a student of the stars
 who'd read them in a book and not from spars.
 
 Válaren, a sailmaker, to mend what tore;
@@ -290,7 +290,7 @@ and the Last Shrine stands at the end of the road.
 ## See Also
 
 - [[place-volsather|Volsathèr]]—the harbor at the foot of the cut, and the fast boats that leave on the evening wind
-- [[place-zuravlenrgn|Zûravlen Region]]—the cliff coast on the cold ocean
+- [[place-zuravlenrgn|Zuravlèn Region]]—the cliff coast on the cold ocean
 - [[affiliation-pozeras|Faith of Pôzêrâs]]—the Wanderer's Blessing, the Arrivals and the way-shrines
 - [[affiliation-brazemas|Faith of Brâzêmâs]]—the Thunderer, whom sailors invoke beside the Wayfarer
 - [[lore-saltpansongs|The Songs of the Salt Pans]]—the women's songs the lamp line comes from

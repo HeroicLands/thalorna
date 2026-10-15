@@ -18,7 +18,7 @@ data:
 
 **Ôrzâra**, the sovereign's city, which the whole west calls the Great City, is the capital of the [[affiliation-vylarinmpr|Vylarian Empire]], a city of nearly a million built to show the world an empire at its height, and kept that way, street by street, by an empire that is no longer there. It is the largest city in [[place-midhalnrgn|Mídhalión]] and in all of western [[place-ankrscntnnt|Ankaris]]. With about **900,000 souls**, counting both those within the city proper and the sprawling outskirt communities pressed against it, it is outmatched only by the great cities of [[affiliation-tantsouempr|Tāntsou]] and the [[place-kchchkcntnnt|K'ich'chik]] peoples far to the east. To the ordinary subject of the western world it is simply **the Polis**, the City entire, the measure every other city falls short of, and in its own people's eyes the greatest city in [[place-worldthlrn|the world]].
 
-It rises across a cluster of [[place-sixhillsvyl|six hills]] above the eastern bank of the [[place-vylarisrvr|River Vylaris]], the highest of them crowned by the citadel and the palace. From a distance it looks less like a settlement than a mountain range of marble, tile and gilded bronze, under the smoke of a hundred thousand hearths and the glittering domes of the [[affiliation-ordoarcanis|Ordo Arcanis]]. Its people call themselves **Ôrzârans**, and they say the word as though it settles every argument.
+It rises across a cluster of [[place-sixhillsvyl|six hills]] above the eastern bank of the [[place-vylarisrvr|River Vylaris]], the highest of them crowned by the citadel and the palace. From a distance it looks less like a settlement than a mountain range of marble, tile and gilded bronze, under the smoke of a hundred thousand hearths and the glittering domes of the [[affiliation-ordoarcanis|Thôrdimâlon]]. Its people call themselves **Ôrzârans**, and they say the word as though it settles every argument.
 
 A pedicab runner who has worked the avenues for twenty years gives every new arrival the same three warnings before he names a fare: "Keep to the avenues if you want to be carried; four streets in five are stairs. Do not cross the Clearance anywhere but at a gate-road, because the Watch will take you for a thief or a squatter. And unless you are a citizen, or somebody important has signed for you, you sleep outside the Clearance tonight. Everything else in the city you can learn as you go."
 
@@ -57,7 +57,7 @@ Keeping it empty is a perpetual labor, and a fair barometer of the age. In confi
 
 ### The Great Avenues
 
-A handful of immense **avenues** cut through Ôrzâra in broad, deliberate straight lines—the great arteries that bind the Circles together, each running from one Circle to the next so that the monument at the heart of one frames the vista straight down the road to the next. They are built first of all to _impress_: to a traveler stepping through the gates, the avenues are the city's opening argument, a wordless declaration that he has arrived at the crown of the world. They are paved end to end in dressed stone, washed and swept by public work-gangs, and lit after dark by the [[affiliation-ordoarcanis|Ordo's]] glow-lamps, so that the principal ways never truly go black.
+A handful of immense **avenues** cut through Ôrzâra in broad, deliberate straight lines—the great arteries that bind the Circles together, each running from one Circle to the next so that the monument at the heart of one frames the vista straight down the road to the next. They are built first of all to _impress_: to a traveler stepping through the gates, the avenues are the city's opening argument, a wordless declaration that he has arrived at the crown of the world. They are paved end to end in dressed stone, washed and swept by public work-gangs, and lit after dark by the [[affiliation-ordoarcanis|Order's]] glow-lamps, so that the principal ways never truly go black.
 
 No two are alike, for each was raised by a different age and a different ambition. Greatest of all is the **Paldor**, the Triumphal Way, running dead straight from the great gate to the Ôrzâs's Circle beneath the Inner City—wide enough for a cohort to march twenty abreast, for chariots and captured war-engines to roll in column, for the led beasts and chained captives of distant conquests to be paraded before the mob. On a day of triumph the route vanishes beneath spectacle: the carriageway strewn with sand and laurel, the colonnades and rooftops above packed with citizens who shower the marching legions with flower-petals, ribbons, coin, and the shredded white of festival garlands, until the returning army wades to the palace through a slow, falling storm of them. Its whole length is an avenue of victories—rostral columns set with the bronze beaks of captured warships, triumphal pillars crowned with gilded figures, the trophies and inscriptions of three centuries of conquest ranked along the way like a city-long boast.
 
@@ -111,7 +111,7 @@ It is not quite enough. A great fire still comes every generation or two, and th
 
 ### District Law
 
-Ôrzâra is governed by an intricate and jealously enforced body of **district law** that dictates precisely what trade, craft, and commerce may be conducted in each quarter—and, just as much, what may _not_. The foul and the fire-hungry trades are barred from the city entirely: the tanner, the dyer, the fuller, and the smith at his forge have no place inside the city at all. Within the city the law sorts the permitted trades by quarter—a moneylender may not keep a stall in the temple precincts, a cookshop may not smoke beside the perfumers—and it is enforced by the [[affiliation-aediles|Aediles]], civic magistrates whose inspectors can shutter a business, levy a fine, or order a building pulled down. Bribing the Aediles is one of the city's oldest and most reliable industries.
+Ôrzâra is governed by an intricate and jealously enforced body of **district law** that dictates precisely what trade, craft, and commerce may be conducted in each quarter—and, just as much, what may _not_. The foul and the fire-hungry trades are barred from the city entirely: the tanner, the dyer, the fuller, and the smith at his forge have no place inside the city at all. Within the city the law sorts the permitted trades by quarter—a moneylender may not keep a stall in the temple precincts, a cookshop may not smoke beside the perfumers—and it is enforced by the [[affiliation-aediles|Pêlthrâlon]], civic magistrates whose inspectors can shutter a business, levy a fine, or order a building pulled down. Bribing the _pêlthrândoi_ (ward magistrates) is one of the city's oldest and most reliable industries.
 
 ### The Districts
 
@@ -120,34 +120,34 @@ Because the foul and heavy trades are banished and the draft animals stabled out
 - **The Platan District**—the civic heart, in the central saddle below Arvel around the **Circle of Árdavon**: the basilicas of the civic courts, the chambers of the [[affiliation-verdanorzara|Verdan Ôrzâra]], the grandest public baths and libraries, and the platforms from which the city is governed and addressed.
 - **The Grand Market**—the commercial heart, on the central flats around the **Grand Market Circle**: the great licensed markets and the chandlers who retail what the city does not make, the banking houses of the [[affiliation-danvar|Danvar]], and the administrative guild-halls of the [[affiliation-tevran|Tevran Maldor]]'s trades (their workshops, like everything else, kept outside).
 - **The Wharves**—the river port beneath **Nerval** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Tarûzelian, Nordling, and Khelâthi traders.
-- **The Scholars' District**—the [[affiliation-panepistmm|Panepistemium]], on **Mernel** around the Circle of Mârendâs (detailed below).
+- **The Scholars' District**—the [[affiliation-panepistmm|Plûmepistémion]], on **Mernel** around the Circle of Mârendâs (detailed below).
 - **The Gilded Quarter**—the clean, costly trades and the moneyed services, climbing the lower slopes of **Selvin** toward the Heights: the goldsmiths, jewelers, perfumers, fine tailors, apothecaries, and instrument-makers who both make and sell to a wealthy clientele, alongside the physicians, scriveners, and the better baths and inns. The one ward where craft and luxury still keep house together inside the city.
-- **The Heights**—the twin patrician hills, **Torvel** and **Selvin**: walled villas, terraced gardens, and the city-houses of senators and great families who do not lodge in the Inner City, prized for their air and their views and reached only on foot.
+- **The Heights**—the twin patrician hills, **Torvel** and **Selvin**: walled villas, terraced gardens, and the city-houses of _kurthândoi_ (senators) and great families who do not lodge in the Inner City, prized for their air and their views and reached only on foot.
 - **The Warrens**—the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Nerval** above the Wharves: many-storied _tengali_ of brick and timber, crowded and fire-prone, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city (see _Citizens and Residents_).
 
 The city's pleasures keep their own quarters too—the Theatre District and the Racecourse quarter about the **Racecourse Circle**—but those belong to its public life (see _Spectacle and the Public Life_).
 
 ### The Scholars' District
 
-On **Mernel**, around the **Circle of Mârendâs** and its statue of the goddess of wisdom, lies the **Scholars' District**—the main campus of the [[affiliation-panepistmm|Panepistemium]] and the greatest seat of that institution anywhere in the Empire: its colleges, lecture halls, the great reading-library, and the walled residence halls of a student body drawn from the patrician and well-propertied houses. It is a _scholarly_ quarter, not a working one—ordered, expensive, and quietly proud, with no trade or workshop within it. This is the _living_ university; the Panepistemium's small inner [[place-arvon|Compound]] and its Notral Sevan are kept up on Arvel within the citadel. (For the institution itself, see [[affiliation-panepistmm|Panepistemium]].)
+On **Mernel**, around the **Circle of Mârendâs** and its statue of the goddess of wisdom, lies the **Scholars' District**—the main campus of the [[affiliation-panepistmm|Plûmepistémion]] and the greatest seat of that institution anywhere in the Empire: its colleges, lecture halls, the great reading-library, and the walled residence halls of a student body drawn from the patrician and well-propertied houses. It is a _scholarly_ quarter, not a working one—ordered, expensive, and quietly proud, with no trade or workshop within it. This is the _living_ university; the Plûmepistémion's small inner [[place-arvon|Compound]] and its Notral Sevan are kept up on Arvel within the citadel. (For the institution itself, see [[affiliation-panepistmm|Plûmepistémion]].)
 
 ### The Viridarium
 
-Within the city, Ôrzâra keeps one great expanse of open green: the **Viridarium**—_"the Green"_—the city's green heart, a broad park of lawns, groves, ornamental water, and shaded walks set among the civic districts, a deliberate lung for nearly a million crowded souls. It is held under the city's protective principle—building forbidden and commerce barred save under strict, Aedile-policed license—so that, a handful of pavilions, wine-kiosks, and musicians aside, nothing may be built or sold within it, and Ôrzârans of every rank go there to walk, idle, court, and escape the press of the streets. It does not wholly escape the city's quiet decline: in its farther walks the hedges have gone shaggy, a statue or two stands mossed and weather-blunted, and an ornamental pond has been left to silt and reed, while the central lawns the city is seen to use stay trim. (Its far larger counterpart, the Campus Vylaris, lies beyond the Clearance—see below.)
+Within the city, Ôrzâra keeps one great expanse of open green: the **Viridarium**—_"the Green"_—the city's green heart, a broad park of lawns, groves, ornamental water, and shaded walks set among the civic districts, a deliberate lung for nearly a million crowded souls. It is held under the city's protective principle—building forbidden and commerce barred save under strict, _pêlthrândôs_-policed license—so that, a handful of pavilions, wine-kiosks, and musicians aside, nothing may be built or sold within it, and Ôrzârans of every rank go there to walk, idle, court, and escape the press of the streets. It does not wholly escape the city's quiet decline: in its farther walks the hedges have gone shaggy, a statue or two stands mossed and weather-blunted, and an ornamental pond has been left to silt and reed, while the central lawns the city is seen to use stay trim. (Its far larger counterpart, the Campus Vylaris, lies beyond the Clearance—see below.)
 
 ---
 
 ## The Inner City
 
-Crowning **Arvel** behind its own ancient ring of walls stands [[place-arvon|Arvon]]—the Inner City: the Eagle City, sacred and administrative core of the Empire, and the one quarter closed to the common crowd. Entry is controlled; much of it is the preserve of priests, senators, soldiers, magistrates, and the great families. Gathered on the summit are:
+Crowning **Arvel** behind its own ancient ring of walls stands [[place-arvon|Arvon]]—the Inner City: the Eagle City, sacred and administrative core of the Empire, and the one quarter closed to the common crowd. Entry is controlled; much of it is the preserve of priests, _kurthândoi_, soldiers, magistrates, and the great families. Gathered on the summit are:
 
 - the **Temple District**, seat of the [[affiliation-arldnpnthn|Aurèldían]] _Twelve_ and, by ancient toleration-edict, a house for nearly every faith of the known world;
 - the **Palace District** of foreign embassies, among them the ceremonial palace of the [[affiliation-tevran|Tevran Maldor]];
 - the [[affiliation-seldan|Seldan]], where the Senate sits;
 - the [[place-thaurzurgalis|Thaurzûrgalis]], barracks of the [[affiliation-sorvan|Sorvan]] imperial guard;
 - the **Imperial Offices**, the walled compound of the imperial bureaucracy—the [[affiliation-tarmex|treasury]], the [[affiliation-tolvan|fiscal administration]], the imperial tribunals, and the archives;
-- the inner **[[affiliation-panepistmm|Panepistemium]] Compound** with its warded Notral Sevan;
-- and, above all, the [[place-palvar|Grand Palace]], where the [[affiliation-ordoarcanis|Ordo Arcanis]] works its wonders openly.
+- the inner **[[affiliation-panepistmm|Plûmepistémion]] Compound** with its warded Notral Sevan;
+- and, above all, the [[place-palvar|Grand Palace]], where the [[affiliation-ordoarcanis|Thôrdimâlon]] works its wonders openly.
 
 For the full account of the citadel and its precincts, see [[place-arvon|the Inner City]].
 
@@ -175,7 +175,7 @@ The dole is the bargain that recruits the legions and the leash that binds the E
 
 For all its size, Ôrzâra is a city crossed on foot. A metropolis of nearly a million cannot afford to keep beasts of burden within the city in any number—every horse, mule, or ox must be fed, watered, housed, and mucked out, and the dung and carcasses of thousands of animals would foul a dense city beyond bearing. So the draft animals stay outside. Goods arriving by road are hauled to the great transit-yards at the gates, where the teams are stabled out in the outskirts and the cargo is broken down onto handcarts and porters for the journey in. Within the city, ordinary folk walk, and those with coin hire a **pedicab**—the light, human-drawn two-wheeled chairs whose runners are a guild of their own, threading the avenues and lesser lanes at a steady trot.
 
-Animals within the city are a privilege of the state, not the citizen. The only stables of any size inside the city belong to the [[affiliation-sorvan|Sorvan]] in the Inner City and to the City Watch's watch-houses, kept small and provisioned for the needs of order rather than commerce. Even the grandest senator is carried to the Circle in a chair, not drawn by a team; to keep a private stable within the city is a rare and pointed extravagance, licensed and taxed accordingly.
+Animals within the city are a privilege of the state, not the citizen. The only stables of any size inside the city belong to the [[affiliation-sorvan|Sorvan]] in the Inner City and to the City Watch's watch-houses, kept small and provisioned for the needs of order rather than commerce. Even the grandest _kurthândôs_ is carried to the Circle in a chair, not drawn by a team; to keep a private stable within the city is a rare and pointed extravagance, licensed and taxed accordingly.
 
 ### Warehouses, Granaries, and the Daily Bread
 
@@ -189,11 +189,11 @@ Order beyond the Inner City is no business of the [[affiliation-sorvan|Sorvan]]�
 
 ### The Courts
 
-The Watch enforces; it does not judge. Justice in the city proper runs through a tiered civic system—the [[affiliation-aediles|Aediles]] for markets, licenses, and petty order; the **Civil Courts** for civil suits; the **Criminal Tribunal** for theft and violence—all of it crowned by the [[affiliation-verdanorzara|Verdan Ôrzâra]], the five-Curator council that governs Ôrzâra beyond the Inner Wall and hears its gravest cases. Set wholly apart from this stand the **imperial tribunals**—the throne's own courts, which sit within the Inner City in the **Imperial Offices** and answer to the Ôrzâs alone, for any matter touching the nobility, the [[affiliation-seldan|Senate]], or the crown, treason first of all. And as everywhere in the city, the law runs partly on influence: the right friends, the right purse, or the right patron find it accommodating, while those without learn how heavy it can be. (For the council, the civic courts, and the imperial tribunals in full, see [[affiliation-verdanorzara|the Courts of Ôrzâra]].)
+The Watch enforces; it does not judge. Justice in the city proper runs through a tiered civic system—the [[affiliation-aediles|Pêlthrâlon]] for markets, licenses, and petty order; the **Civil Courts** for civil suits; the **Criminal Tribunal** for theft and violence—all of it crowned by the [[affiliation-verdanorzara|Verdan Ôrzâra]], the council of five _vêrâmûsândoi_ that governs Ôrzâra beyond the Inner Wall and hears its gravest cases. Set wholly apart from this stand the **imperial tribunals**—the throne's own courts, which sit within the Inner City in the **Imperial Offices** and answer to the Ôrzâs alone, for any matter touching the nobility, the [[affiliation-seldan|Senate]], or the crown, treason first of all. And as everywhere in the city, the law runs partly on influence: the right friends, the right purse, or the right patron find it accommodating, while those without learn how heavy it can be. (For the council, the civic courts, and the imperial tribunals in full, see [[affiliation-verdanorzara|the Courts of Ôrzâra]].)
 
-## The Hand of the Ordo Arcanis
+## The Hand of the Thôrdimâlon
 
-Magic is part of the city's furniture. The [[affiliation-ordoarcanis|Ordo Arcanis]] is powerful everywhere in the Empire, but it is in the capital, and above all in the Grand Palace, that the Order sets aside its usual discretion and works openly to overawe. Here, arcane craft is a deliberate instrument of imperial majesty: every ambassador, every provincial governor, every barbarian chieftain brought to bow before the throne is _meant_ to leave Ôrzâra convinced that the Empire commands powers beyond the reach of mortal kingdoms.
+Magic is part of the city's furniture. The [[affiliation-ordoarcanis|Thôrdimâlon]] is powerful everywhere in the Empire, but it is in the capital, and above all in the Grand Palace, that the Order sets aside its usual discretion and works openly to overawe. Here, arcane craft is a deliberate instrument of imperial majesty: every ambassador, every provincial _thêrkhôs_ (governor), every barbarian chieftain brought to bow before the throne is _meant_ to leave Ôrzâra convinced that the Empire commands powers beyond the reach of mortal kingdoms.
 
 The signs are everywhere for those who know to look—and many are impossible to miss:
 
@@ -226,7 +226,7 @@ The roar of the Racecourse on a race day can be heard across half the city, and 
 
 ### The Theatre District
 
-A quieter and no less celebrated quarter is the [[place-magntheatredstr|Theatre District]], where great semicircular **theaters and odeons** host tragedies, comedies, recitations, and music. The Vylarian stage is famous across the world; its masked players, its hydraulic stage-machinery (some of it Ordo-touched), and its musicians draw audiences of every class. By night the district is a glittering, slightly disreputable place of performance, patronage, late suppers, and intrigue.
+A quieter and no less celebrated quarter is the [[place-magntheatredstr|Theatre District]], where great semicircular **theaters and odeons** host tragedies, comedies, recitations, and music. The Vylarian stage is famous across the world; its masked players, its hydraulic stage-machinery (some of it Order-touched), and its musicians draw audiences of every class. By night the district is a glittering, slightly disreputable place of performance, patronage, late suppers, and intrigue.
 
 ### Baths, Markets, and Forums
 
@@ -240,7 +240,7 @@ Beyond the Clearance sprawl the **outskirt communities**—the unplanned, half-l
 - **The Gate-Yards.** Ringing each great gate stand the transit-yards—stables, ostlers, caravanserais, and teamsters' lodgings—where the road-caravans halt, the draft animals are housed, and wagon-cargo is broken down onto porters and handcarts for the journey through the gate.
 - **The Garden-Estates.** On the pleasanter hills and riverbanks, well clear of the squalor, lie the **vildori**—the walled suburban pleasure-villas of the very rich, with their gardens and their quiet: the genteel opposite face of the same extramural ground.
 
-It is dirtier, wilder, and more lawless out here than within, beyond the easy reach of the [[affiliation-aediles|Aediles]] and the Watch, and it swells and shrinks with the fortunes of the Empire—a breeding-ground of plague and unrest in bad years, a gathering-place of new blood and restless energy in good ones. Either way its people count themselves Ôrzârans, and they are not wrong to; the city could not survive a week without them.
+It is dirtier, wilder, and more lawless out here than within, beyond the easy reach of the [[affiliation-aediles|Pêlthrâlon]] and the Watch, and it swells and shrinks with the fortunes of the Empire—a breeding-ground of plague and unrest in bad years, a gathering-place of new blood and restless energy in good ones. Either way its people count themselves Ôrzârans, and they are not wrong to; the city could not survive a week without them.
 
 ## The Campus Vylaris
 
@@ -268,7 +268,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 | **Defenses**          | The citadel's Inner Wall; the **thîrûthrimâ** and its hundred-foot **Clearance** (no outer wall); the [[affiliation-vylrnmltry\|City Watch]]; the [[affiliation-sorvan\|Sorvan]] guarding the Inner City  |
 | **Signature marvels** | The [[place-magngndorery\|Grand Orrery]], the [[place-pnthnrldnm\|Temple of the Twelve]], the [[place-rathaunamelvar\|Râthaunâ Mêlvar]], the Twelve Circles                                               |
 | **Dominant faith**    | [[affiliation-arldnpnthn\|Aurèldían Pantheon]] (state religion); all major pantheons represented                                                                                                          |
-| **Arcane presence**   | The [[affiliation-ordoarcanis\|Ordo Arcanis]], openly displayed here as nowhere else                                                                                                                      |
+| **Arcane presence**   | The [[affiliation-ordoarcanis\|Thôrdimâlon]], openly displayed here as nowhere else                                                                                                                       |
 
 ## See Also
 
@@ -282,6 +282,6 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 - [[place-necropolisorzara|Necropolis of Ôrzâra]]—the city of the dead
 - [[affiliation-verdanorzara|Verdan Ôrzâra]]—the council and courts of the city
 - [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen, the resident and the dole
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the arcane order on display here
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the arcane order on display here
 - [[place-midhalnrgn|Mídhalión]]—the region
 - [[place-worldthlrn|The World of Thalorna]]

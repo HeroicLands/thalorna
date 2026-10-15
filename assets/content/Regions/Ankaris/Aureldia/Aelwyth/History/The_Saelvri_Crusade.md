@@ -70,7 +70,7 @@ The Saelvri lived in the valleys and woods of Aelwyth's south-east, among the fo
 
 ## What the Knights Heard
 
-The stated reason was raiding, and the Order's knights, who were sent to answer raids, found little to support it. The knights heard others from the Synod's magisters and from one another: that the Saelvri held a thing the Synod wanted, that they had refused it and that they were dangerous for it. The accounts did not agree and none was confirmed. Most of the Order's Knight-Captains did their duty and have not spoken of it. One of them, [[being-toradhtaravren|Dame Toradh Taravren]], fought in the crusade as a decorated warrior of several campaigns and holds it contrary to the principles of the Order and of [[affiliation-ardavon|Árdavon]], the god it serves. She has said so to no one.
+The stated reason was raiding, and the Order's knights, who were sent to answer raids, found little to support it. The knights heard others from the Synod's _mârendândoi_ (masters) and from one another: that the Saelvri held a thing the Synod wanted, that they had refused it and that they were dangerous for it. The accounts did not agree and none was confirmed. Most of the Order's Knight-Captains did their duty and have not spoken of it. One of them, [[being-toradhtaravren|Dame Toradh Taravren]], fought in the crusade as a decorated warrior of several campaigns and holds it contrary to the principles of the Order and of [[affiliation-ardavon|Árdavon]], the god it serves. She has said so to no one.
 
 ## The Wood
 

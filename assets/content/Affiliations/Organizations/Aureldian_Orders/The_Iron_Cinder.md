@@ -1,6 +1,6 @@
 ---
 shortcode: ironcinder
-name: {full: The Iron Cinder, aliases: [Cinis Ferreus, The Cinderhand, The Black Fist]}
+name: {full: The Iron Cinder, aliases: [Zârgêlzâ, The Cinderhand, The Black Fist]}
 type: affiliation
 subType: order
 description: "Covert strike order of the Black Flame—smaller, more secretive, and unaccountable; deployed when the heresy needs results without trial, debate, or witnesses."
@@ -42,7 +42,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Aurèldían: Cinis Ferreus—"Iron Cinder"_
+_Vylari: **Zârgêlzâ**—"Iron Cinder"_
 
 - **Type:** Covert fighting religious order (heretical to the mainstream Aurèldían faith)
 - **Patron:** [[affiliation-blackflame|The Black Flame]]—Ústaron as the conflagration of the mailed fist
@@ -54,7 +54,7 @@ Where the [[affiliation-ordershnvw|Order of the Ashen Vow]] is the Black Flame's
 
 The Iron Cinder is small. Estimates by the orthodox authorities put its sworn membership at perhaps forty operatives across the whole of Aurèldía, though the precision of these estimates is suspect because the order has been very effective at concealing its own numbers. It is also, by the consistent report of those who have encountered it, capable: members are recruited from the most physically and tactically gifted of Ashen Vow candidates, are trained beyond ordinary order discipline, and operate with a level of professional ruthlessness that orthodox investigators have privately compared to the [[affiliation-velvethand|Velvet Hand]]'s direct-action cadre. The comparison would offend both organizations equally.
 
-The Iron Cinder operates on the central assumption that, if exposed, it will be destroyed. The Sacred Forge would condemn it; the Aurèldían Crowns would suppress it; the Ordo Arcanis would hunt it; the Árdavon orders would refuse it sanctuary; even the Ashen Vow's sympathetic noble protectors would be unable to publicly defend it. The order's structure, its operational discipline, and its working culture all reflect this assumption.
+The Iron Cinder operates on the central assumption that, if exposed, it will be destroyed. The Sacred Forge would condemn it; the Aurèldían Crowns would suppress it; the Thôrdimâlon (the Arcane Order) would hunt it; the Árdavon orders would refuse it sanctuary; even the Ashen Vow's sympathetic noble protectors would be unable to publicly defend it. The order's structure, its operational discipline, and its working culture all reflect this assumption.
 
 ## Membership and Structure
 
@@ -64,10 +64,10 @@ Refusal is rare. Acceptance is permanent.
 
 There are two ranks beneath the First Cinder:
 
-- **Cinder Hand** (_Manus Cineris_)—the working operative; assigned to operations by the First Cinder or by a Senior Cinder; operates alone or in small teams.
-- **Senior Cinder** (_Senior Cineris_)—coordinates regional operations; reports directly to the First Cinder; perhaps four to six at any time.
+- **Cinder Hand**—the working operative; assigned to operations by the First Cinder or by a Senior Cinder; operates alone or in small teams.
+- **Senior Cinder** (_hôlzarândôs_)—coordinates regional operations; reports directly to the First Cinder; perhaps four to six at any time.
 
-The **First Cinder** (_Cinis Primus_) is the order's chair; one position; chosen by the surviving Senior Cinders on the death or incapacity of the prior holder; identity is among the most closely guarded secrets in Aurèldían heretical circles.
+The **First Cinder** is the order's chair; one position; chosen by the surviving Senior Cinders on the death or incapacity of the prior holder; identity is among the most closely guarded secrets in Aurèldían heretical circles.
 
 ## Doctrine and Practice
 
@@ -84,8 +84,8 @@ The order does not maintain weapons of military scale. Operations are conducted 
 ## Notable Operations (attributed; none formally confirmed)
 
 - The arson at the Sacred Forge cathedral library at Provenzal, twelve years ago, that destroyed a substantial portion of the Forge's catalog of suppressed Black Flame doctrine; widely attributed to the Cinder but never investigated to conclusion.
-- The death of the Ólvestrian Magister of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] seven years ago, ruled to be from natural causes; the timing—three days before he was to issue a major writ against a Black Flame-sympathetic baron—has produced persistent suspicion.
-- The disappearance of three Ordo Arcanis investigators in the Tarvénian highlands four years ago; bodies never recovered; investigation closed.
+- The death of the Ólvestran Mârendândôs of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] seven years ago, ruled to be from natural causes; the timing—three days before he was to issue a major writ against a Black Flame-sympathetic baron—has produced persistent suspicion.
+- The disappearance of three Thôrdimâlon investigators in the Tarvénian highlands four years ago; bodies never recovered; investigation closed.
 
 The order has, by its own discipline, neither confirmed nor denied involvement in any of these.
 

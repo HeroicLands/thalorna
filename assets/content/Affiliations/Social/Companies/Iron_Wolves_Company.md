@@ -121,7 +121,7 @@ Operational deployments take the company throughout western Ankaris under whatev
 
 - A two-season campaign in the Provenzian frontier suppressing brigandage on behalf of a coalition of merchant lords.
 - A short, brutal mining strike-breaking operation in a Helionite copper concern.
-- A long-running security contract for a Vylarian provincial governor whose name the company will not disclose.
+- A long-running security contract for a Vylarian provincial _thêrkhôs_ (governor) whose name the company will not disclose.
 - Standing offers from at least two of the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for direct retainer; the company has, so far, declined.
 
 ## Methods

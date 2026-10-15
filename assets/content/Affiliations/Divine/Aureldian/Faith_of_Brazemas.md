@@ -16,7 +16,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Bravsarn above them. The lay faithful keep the feasts without office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the Bravsarnor above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
         title: Banar
@@ -35,11 +35,11 @@ data:
         description: >-
           The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
       - level: 4
-        title: Bravsarn
+        title: Bravsarnor
         description: >-
           High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
     offices:
-      Bravsarn: >-
+      Bravsarnor: >-
         High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
       Bravsar: >-
         The Priests of Storms—thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
@@ -73,13 +73,13 @@ Individual devotion to Brâzêmâs often involves vows and promises. A farmer mi
 
 ## Organization
 
-The priesthood of Brâzêmâs is structured around the **Bravsarn**, the High Priest of the Storm, who is the primary voice of the god and the interpreter of his will as revealed through natural phenomena. The Bravsarn is traditionally a figure of considerable authority, often consulted by kings and city councils on matters affecting agriculture, trade, and maritime ventures. The current Bravsarn, based in Vylaria, maintains an extensive network of weather-watchers throughout the empire who track storm patterns, record rainfall, and report omens to the central temple.
+The priesthood of Brâzêmâs is structured around the **Bravsarnor**, the High Priest of the Storm, who is the primary voice of the god and the interpreter of his will as revealed through natural phenomena. The Bravsarnor is traditionally a figure of considerable authority, often consulted by kings and city councils on matters affecting agriculture, trade, and maritime ventures. The current Bravsarnor, based in Vylaria, maintains an extensive network of weather-watchers throughout the empire who track storm patterns, record rainfall, and report omens to the central temple.
 
-Below the Bravsarn are the **Bravsari**—the Priests of Storms—a body of perhaps thirty to forty ordained clergy dispersed across major cities and coastal settlements. These priests maintain the temples, perform seasonal rituals, and serve as advisors to farmers, merchants, and sailors. They are trained in the interpretation of weather signs and in the theological significance of particular storm patterns. A Priest of Storms in a major port city holds considerable social standing, as maritime captains and merchants depend upon their wisdom in reading the moods of Brâzêmâs.
+Below the Bravsarnor are the **Bravsari**—the Priests of Storms—a body of perhaps thirty to forty ordained clergy dispersed across major cities and coastal settlements. These priests maintain the temples, perform seasonal rituals, and serve as advisors to farmers, merchants, and sailors. They are trained in the interpretation of weather signs and in the theological significance of particular storm patterns. A Priest of Storms in a major port city holds considerable social standing, as maritime captains and merchants depend upon their wisdom in reading the moods of Brâzêmâs.
 
 The **Bravlili**, young acolytes and apprentices, form the foundation of the priesthood. These devotees are typically youths who have survived near-fatal encounters with storms or who have shown unusual sensitivity to weather patterns. Their training emphasizes practical observation—learning to read cloud formations, wind shifts, and atmospheric pressure changes—alongside theological study. Many Bravlili remain in training for years before advancing to full priestly status, and some find their calling lies in becoming specialists: storm-readers who sell their predictions to maritime merchants, or weather-mages who work with [[affiliation-sacredforge|Sacred Forge]] craftsmen to devise protective charms.
 
-The temples of Brâzêmâs are typically positioned on high ground, often incorporating towers and exposed courtyards designed to attract lightning and weather. Some temples maintain elaborate copper conductors and metal structures that serve both practical and spiritual purposes, channeling the god's direct manifestation through lightning into sacred chambers below where inscriptions record the patterns and locations of strikes. These records become part of the priesthood's theological archive, allowing the Bravsarn to discern patterns and meanings in Brâzêmâs's communications across generations.
+The temples of Brâzêmâs are typically positioned on high ground, often incorporating towers and exposed courtyards designed to attract lightning and weather. Some temples maintain elaborate copper conductors and metal structures that serve both practical and spiritual purposes, channeling the god's direct manifestation through lightning into sacred chambers below where inscriptions record the patterns and locations of strikes. These records become part of the priesthood's theological archive, allowing the Bravsarnor to discern patterns and meanings in Brâzêmâs's communications across generations.
 
 The priesthood is funded through donations from those seeking favorable weather, fees paid by merchants and farmers for weather consultation, and in some cases through direct support from kingdoms dependent upon agriculture or maritime trade. Coastal cities and trading centers maintain particularly well-funded Brâzêmâsan temples, recognizing that the priesthood's ability to predict and interpret storms contributes directly to their prosperity and safety.
 

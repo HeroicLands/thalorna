@@ -1,24 +1,24 @@
 ---
 shortcode: tenaspr
-name: {full: "T'éna, the Hearth of Eshálosha", aliases: [The Hearth]}
+name: {full: "T'éna, the Hearth of Ésalosa", aliases: [The Hearth]}
 type: lore
 subType: spirit
-description: "Hearth-kin of the great hall at Eshálosha—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."
+description: "Hearth-kin of the great hall at Ésalosa—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."
 tags: [draft, first-gods]
 data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Hearth-kin, of [[lore-thekindred|the Kindred]]
-- **Seat:** the great ceremonial hall at [[place-eshalshldg|Eshálosha Lodge]]
+- **Seat:** the great ceremonial hall at [[place-eshalshldg|Ésalosa Lodge]]
 - **Territory:** the hall, its fire, and everyone under its roof
 - **Posture:** Venerated
 - **Met through:** [[skill-tenasprt|T'éna Spirit Power]]
 
-T'éna is the hearth-kin of the great hall at Eshálosha, and the oldest continuously tended fire
+T'éna is the hearth-kin of the great hall at Ésalosa, and the oldest continuously tended fire
 in Áelendan country—the Lodge has been inhabited since the earliest Pelwar settlement of the
 interior, and the shamen hold that the fire has not gone out in all of it. She is the only one of
 the named Kindred that is met indoors, and the only one every Áelendan meets, because every tribe
-comes to Eshálosha to gather.
+comes to Ésalosa to gather.
 
 ## Guest-Right
 
@@ -42,7 +42,7 @@ where people keep returning, and thins where they stop.
 
 The Áelendan therefore reckon their settlements by the strength of the hearth-kin each can hold.
 
-- **Eshálosha** holds T'éna, of unbroken standing, because it has never been left.
+- **Ésalosa** holds T'éna, of unbroken standing, because it has never been left.
 - **Tribal villages** hold their own lodge hearth-kin—real, named within the tribe, and of
   generations rather than ages.
 - **Semi-permanent camps**, returned to each season, hold a thin hearth-kin that shamen describe
@@ -69,14 +69,14 @@ elsewhere. A party far from home is understood to be sitting at its own village'
 distance, and to be bound by its protocols while it does.
 
 When a new village is founded, its fire is kindled from a carried ember and not struck fresh. Where
-the ember came from Eshálosha, the new hall's hearth-kin is held to be T'éna's own, and the tribe
+the ember came from Ésalosa, the new hall's hearth-kin is held to be T'éna's own, and the tribe
 of that village stands in a particular relation to the Lodge ever afterward. This is as close as
 the Áelendan come to a political hierarchy, and they would not call it one.
 
-The Dhárgandi are the tribe whose hall was kindled from Eshálosha: they hold that Dhárgan, the founder of their line, died at the Lodge, and that their fire came from its hearth.
+The Dhárgandi are the tribe whose hall was kindled from Ésalosa: they hold that Dhárgan, the founder of their line, died at the Lodge, and that their fire came from its hearth.
 
 The relation obliges three things, and it is precedence and never command:
 
-- **Ember.** A tribe kindled from Eshálosha sends an ember back to the Lodge at each founding it makes.
+- **Ember.** A tribe kindled from Ésalosa sends an ember back to the Lodge at each founding it makes.
 - **Kin.** It sends its young to the Lodge's rites.
 - **Voice.** It is heard first when the Lodge calls the tribes together.

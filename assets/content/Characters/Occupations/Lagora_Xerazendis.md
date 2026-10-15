@@ -1,6 +1,6 @@
 ---
 shortcode: lagrxrznds
-name: {full: Làgôra Xêrâzêndis, aliases: []}
+name: {full: Lagôra Xêrâzêndis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -390,13 +390,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Làgôra Xêrâzêndis is a 23-year-old woman who stands 5'8" tall and is slender. She has a square face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. Her round brown eyes sit beneath arched brows, lending her a candid gaze. A prominent nose and wide lips complete her features. She has light skin with a sallow complexion. Her brown hair is adorned with simple pins.
+Lagôra Xêrâzêndis is a 23-year-old woman who stands 5'8" tall and is slender. She has a square face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. Her round brown eyes sit beneath arched brows, lending her a candid gaze. A prominent nose and wide lips complete her features. She has light skin with a sallow complexion. Her brown hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Làgôra Xêrâzêndis came into the world of the fool through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Lagôra Xêrâzêndis came into the world of the fool through a combination of circumstance and aptitude.
 
-Làgôra grew up in a small village and developed a talent for mischief and humor at an early age. She travels from town to town, performing tricks and stunts to entertain audiences. Làgôra is known for her sharp tongue and playful antics, often using her humor to challenge social norms and expectations. While her jokes can be biting, she uses them to provoke thought and laughter.
+Lagôra grew up in a small village and developed a talent for mischief and humor at an early age. She travels from town to town, performing tricks and stunts to entertain audiences. Lagôra is known for her sharp tongue and playful antics, often using her humor to challenge social norms and expectations. While her jokes can be biting, she uses them to provoke thought and laughter.
 
 ## Psyche
 
@@ -406,7 +406,7 @@ Can be impulsive, sometimes crosses the line with her jokes.
 
 ### Motivation
 
-Làgôra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fool work keep her vigilant and adaptable.
+Lagôra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fool work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -414,15 +414,15 @@ Creative and quick-witted, skilled in sleight of hand, engaging performer.
 
 ## Social
 
-Làgôra is affiliated with None; works independently.
+Lagôra is affiliated with None; works independently.
 
-As a Vylarian fool, Làgôra occupies a recognized social niche within Vylaria society.
+As a Vylarian fool, Lagôra occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Làgôra's primary patron is Local villagers and traveling fairs. This relationship provides both opportunity and obligation.
+Lagôra's primary patron is Local villagers and traveling fairs. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -430,12 +430,12 @@ Those who find her humor inappropriate or offensive.
 
 ## Plot Hooks
 
-1. **The Fool's Dilemma**—Làgôra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Fool's Dilemma**—Lagôra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—Those who find her humor inappropriate or offensive. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Làgôra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Lagôra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Làgôra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Lagôra depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Làgôra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Lagôra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

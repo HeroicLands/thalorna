@@ -397,11 +397,11 @@ Hnirvmýl's runic mastery is unmatched in the northern lands; he can read omens 
 
 **Gnildrmýl Iron-Eye**—A rival seer who claims Hnirvmýl is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildrmýl has placed bounties on Hnirvmýl's head among mercenary bands.
 
-**The Sekran Arcanum**—The Ordo Arcanis enforcement arm has taken an interest in Hnirvmýl's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
+**The Sekran**—The Thôrdimâlon (the Arcane Order) enforcement arm has taken an interest in Hnirvmýl's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
 
 ## Plot Hooks
 
-1. **The Shattered Rune**—Hnirvmýl has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódvar's lost eye. Rival factions—including Gnildrmýl Iron-Eye and agents of the Ordo Arcanis—are also hunting the fragments. The party must help Hnirvmýl recover the pieces before they fall into the wrong hands.
+1. **The Shattered Rune**—Hnirvmýl has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódvar's lost eye. Rival factions—including Gnildrmýl Iron-Eye and agents of the Thôrdimâlon—are also hunting the fragments. The party must help Hnirvmýl recover the pieces before they fall into the wrong hands.
 
 2. **The Silent Ravens**—[[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]] have gone silent. Hnirvmýl can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
 

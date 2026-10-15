@@ -1,15 +1,15 @@
 ---
 shortcode: zevidinzhevr
-name: {full: Zevidîn Zhevrânzát, aliases: [Magister Zevidîn Zhevrânzát]}
+name: {full: Zevidîn Zhevrânzát, aliases: [Mârendândôs Zevidîn Zhevrânzát]}
 type: being
 subType: npc
-description: A magister of the Hydälis Sodalitas and scholar of theoretical thaumaturgy to whom Fodios Rorês was apprenticed at fourteen.
+description: A mârendândôs (master) of the Hydalis Zûlêthâlon and scholar of theoretical thaumaturgy to whom Fodios Rorês was apprenticed at fourteen.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, scholar]
-  occupation: Magister of the Hydälis Sodalitas
+  occupation: Mârendândôs of the Hydalis Zûlêthâlon
   lore: []
   culture: byzarianclt
   homes: []
@@ -36,4 +36,4 @@ Zevidîn Zhevrânzát is a 70-year-old man who stands 5'11" tall with a light bu
 
 # Dossier {#dossier}
 
-Zevidîn Zhevrânzát is a magister of the Hydälis Sodalitas and a scholar of theoretical thaumaturgy, known for his adherence to orthodox magical principle and his mastery of the water-school traditions. [[being-angldsptrks|Fodios Rorês]] was apprenticed to him at fourteen and has since been his most bitter opponent.
+Zevidîn Zhevrânzát is a _mârendândôs_ (master) of the Hydalis Zûlêthâlon (fellowship) and a scholar of theoretical thaumaturgy, known for his adherence to orthodox magical principle and his mastery of the water-school traditions. [[being-angldsptrks|Fodios Rorês]] was apprenticed to him at fourteen and has since been his most bitter opponent.

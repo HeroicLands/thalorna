@@ -19,7 +19,7 @@ country, and it would be of no consequence at all except for what stands in it.
 
 ## The Old Seat
 
-The kings of Aldorath came from here: the first of them, Bréthar, was crowned in the chapel about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The hall at Kingshollow is the dynasty's original seat, kept in
+The kings of Aldorath came from here: the first of them, Dréthar, was crowned in the chapel about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The hall at Kingshollow is the dynasty's original seat, kept in
 repair for six centuries, and though the court moved to [[place-dunmere|Dunmere]] long ago the hall has
 never been given up. Kings are still crowned in the chapel beside it, still keep the midwinter feast
 there when they can, and are still buried in the ground behind it.

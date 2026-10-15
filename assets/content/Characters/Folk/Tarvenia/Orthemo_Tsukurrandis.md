@@ -3,7 +3,7 @@ shortcode: orthemotsuku
 name: {full: Orthémo Tsukurrándis, aliases: [Captain Orthémo Tsukurrándis, Captain Orthémo]}
 type: being
 subType: npc
-description: A merchant captain who credits Pálina Sánriceth's fertility blessing with his ability to father a child.
+description: A merchant captain who credits Pálina Sánriseth's fertility blessing with his ability to father a child.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Orthémo Tsukurrándis is a 38-year-old man who stands 5'11" tall with a medium 
 
 # Dossier {#dossier}
 
-Orthémo Tsukurrándis is a merchant captain who credits the fertility blessing of [[being-palnsnrcth|Pálina Sánriceth]] with his ability to father a child after years of childlessness. His family's loyalty to her is fierce.
+Orthémo Tsukurrándis is a merchant captain who credits the fertility blessing of [[being-palnsnrcth|Pálina Sánriseth]] with his ability to father a child after years of childlessness. His family's loyalty to her is fierce.

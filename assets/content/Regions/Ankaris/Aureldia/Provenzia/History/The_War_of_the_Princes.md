@@ -3,7 +3,7 @@ shortcode: warprinces
 name: {full: The War of the Princes, aliases: [The Céravian Rebellion]}
 type: lore
 subType: history
-description: "From 653 to 655 AF the kingdom of Provènzia fought over the succession after King Pâdran died with no clear heir; Céravel Vale was its battleground, House Dôrgaar was broken, and the war ended with the compromise accession of Dâlenar Lédravren."
+description: "From 653 to 655 AF the kingdom of Provènzia fought over the succession after King Pâdran died with no clear heir; Keravèl Vale was its battleground, House Dorgàl was broken, and the war ended with the compromise accession of Dâlenar Lédravren."
 tags: [history]
 data:
   packFolder: provenzia
@@ -19,7 +19,7 @@ data:
         - place-durvalis
         - place-jalnazdal
       summary: >-
-        King Pâdran dies with no clear heir. One prince is backed by the centralizing houses of the coast, another by the Thânevar country and the regional lords who never loved the Charter; Céravel Vale and the eastern march are the battleground. House Dôrgaar is broken. The war ends with the accession of Dâlenar Lédravren, a compromise both sides can bear.
+        King Pâdran dies with no clear heir. One prince is backed by the centralizing houses of the coast, another by the Thânevar country and the regional lords who never loved the Charter; Keravèl Vale and the eastern march are the battleground. House Dorgàl is broken. The war ends with the accession of Dâlenar Lédravren, a compromise both sides can bear.
       standing: attested
       names:
         - {name: the War of the Princes, by: affiliation-kngdmprvnz}
@@ -44,7 +44,7 @@ data:
       accounts:
         - by: place-ceravelvale
           says: >-
-            It was a rebellion, and Céravel was its field, and its villages are still divided over it.
+            It was a rebellion, and Keravèl was its field, and its villages are still divided over it.
           agrees: full
         - by: affiliation-kngdmprvnz
           says: >-
@@ -53,10 +53,10 @@ data:
           withholds: how many of the Charter's guarantees the compromise king gave up
       unresolved:
         - which prince had the better claim, and whether Pâdran named one
-        - what became of the deeds House Dôrgaar walled up before its seat was burned
+        - what became of the deeds House Dorgàl walled up before its seat was burned
 ---
 
-In Céravel Vale the war is called the **Céravian Rebellion**, and the vale's villages are divided over it still. In the capital it is the War of the Princes and it is not discussed. Both names are for the same two years.
+In Keravèl Vale the war is called the **Céravian Rebellion**, and the vale's villages are divided over it still. In the capital it is the War of the Princes and it is not discussed. Both names are for the same two years.
 
 ## The Heir
 
@@ -64,9 +64,9 @@ In Céravel Vale the war is called the **Céravian Rebellion**, and the vale's v
 
 ## The War
 
-The vale of Céravel lay between the two parties and on the road from the east, and the war was fought there. The villages were divided, and the lords of the manors, who held from the crown in the east and owed it a levy, were forced to choose a prince in front of their tenants. The Tarvénian host that came down the passes in the second year went through the vale unopposed, because there was no army to oppose it.
+The vale of Keravèl lay between the two parties and on the road from the east, and the war was fought there. The villages were divided, and the lords of the manors, who held from the crown in the east and owed it a levy, were forced to choose a prince in front of their tenants. The Tarvénian host that came down the passes in the second year went through the vale unopposed, because there was no army to oppose it.
 
-**House Dôrgaar**, a minor noble family of the vale, chose the wrong prince. When the war ended, its seat was burned and its lands were given to a rival.
+**House Dorgàl**, a minor noble family of the vale, chose the wrong prince. When the war ended, its seat was burned and its lands were given to a rival.
 
 ## The Compromise
 
@@ -75,14 +75,14 @@ The war ended with neither prince. The moderate houses of both parties found a t
 ## What It Left
 
 - **Grudges.** Every great house still nurses a grievance from the war, and the families know which.
-- **Céravel's divided villages.** The Thânevar peasantry and the Provenzian minority remember different wars.
-- **House Dôrgaar's burned seat.** A gutted manor in the Talòthe, whose deeds were walled up in the cellar ([[place-ceravelvale|Céravel Vale]]).
+- **Keravèl's divided villages.** The Thânevar peasantry and the Provenzian minority remember different wars.
+- **House Dorgàl's burned seat.** A gutted manor in the Talòthe, whose deeds were walled up in the cellar ([[place-ceravelvale|Keravèl Vale]]).
 - **Durvalìs.** The fortress town raised to hold the road ([[place-durvalis|Durvalìs]]).
 - **A crown that contests the Council.** The argument over prerogative and taxation that still occupies the court.
 
 ## See Also
 
-- [[place-ceravelvale|Céravel Vale]]—the battleground
+- [[place-ceravelvale|Keravèl Vale]]—the battleground
 - [[place-durvalis|Durvalìs]]—the town raised after it
-- [[being-branwldrgr|Brànwâal Dôrgaar]]—a mercenary captain of the broken house
+- [[being-branwldrgr|Branvàl Dorgàl]]—a mercenary captain of the broken house
 - [[lore-charterwar|The War of the Charter]]—the settlement whose silence on the succession caused it

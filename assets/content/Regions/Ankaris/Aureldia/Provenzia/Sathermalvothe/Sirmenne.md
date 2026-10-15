@@ -37,7 +37,7 @@ things behind when they went—artifacts of considerable power, abandoned rather
 
 Nothing has ever been produced to support this and the rumor has never weakened, which is the usual
 condition of such stories and no argument against them. It is enough to bring a steady trickle of
-treasure-seekers, scholars and agents of the [[affiliation-ordoarcanis|Ordo Arcanis]] into country
+treasure-seekers, scholars and agents of the [[affiliation-ordoarcanis|Thôrdimâlon]] into country
 where both the Áelendan and the Sinalë take a direct interest in visitors.
 
 The Áelendan do not much distinguish between a looter and a licensed antiquarian. See

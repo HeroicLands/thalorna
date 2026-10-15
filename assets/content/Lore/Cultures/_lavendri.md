@@ -78,7 +78,7 @@ The Élavendri admire in him the oath sworn at every crowning, that the crown st
 
 ## The Woman Admired
 
-[[being-ylthklmrth|Yálith Kálmereth]] is the Élavendri's admired bard. She is a traveling singer born at Liranel to a family of performers, named Kálmereth for the clarity of her voice and keeping the name. She sings the ballads of the common folk from village to village and comes home to the timber town only between roads. Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there and has never stayed, and she has turned down a settled place at a lord's table more than once, because the formalities of court sit badly on her and she says so.
+[[being-ylthklmrth|Jálith Kálmereth]] is the Élavendri's admired bard. She is a traveling singer born at Liranel to a family of performers, named Kálmereth for the clarity of her voice and keeping the name. She sings the ballads of the common folk from village to village and comes home to the timber town only between roads. Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there and has never stayed, and she has turned down a settled place at a lord's table more than once, because the formalities of court sit badly on her and she says so.
 
 Her admiration is not a lesser form of Ránthor's. He holds the line between the kingdom and the interior by standing on it, and she holds the account of the ones who crossed it. The Colleges keep the genealogies of the houses that can pay for proofs, and her songs keep the families the genealogies leave out. She belongs to the Minstrels' Guild, which gives her the right to sing for pay in any Élavendri market, and she is as much at ease at the market stall as at the high table. Her cost is the road. A bard who will not take a lord's table has no house, no patron and no College behind her, and the memory she keeps is held by no one but herself.
 
@@ -98,7 +98,7 @@ The rest of the day is the house: the land's stewardship, the work of whatever a
 
 The turning of the seasons is marked by elaborate festivals that honor the gods and the older spirits of the land together. The ones that bind the kingdom are those where its old institutions meet.
 
-- **The hinge-days** are the equinoxes and solstices, when the Grove Council gathers at the great groves. They are for deciding what the forests need, what the fae are owed and what the kingdom must refuse the Ordo.
+- **The hinge-days** are the equinoxes and solstices, when the Grove Council gathers at the great groves. They are for deciding what the forests need, what the fae are owed and what the kingdom must refuse the Order.
 - **The feast**, _lórdemon_, is a gathering with food at which the genealogies are sung. A house gives it on its own occasions and a bard of the house sings the line. It is for renewing a claim of descent in the hearing of everyone who might dispute it.
 - **The autumn fair at Elanmere** brings tribal families down to camp on the lake shore rather than enter the walls, and the high country trades with the low. It is for trade face to face, and for a house's claim of descent to be heard by people who remember the genealogy differently.
 - **The crowning** is where the monarch swears that the crown stops at the tree line. It is for saying again, in the basin, where the kingdom ends.
@@ -111,9 +111,9 @@ Penalty runs from courtesy to the tree line. A house that produces no artists an
 
 ## The Crown, the Circle and the Grove
 
-Authority in Élavendre has no single seat. The monarch rules the cities, the farms and the coast, with the officers of a feudal crown from Chancellor and Justiciar to Sheriff and Coroner. The Bardic Circle is the kingdom's memory and conscience, and the crown consults it on precedent, protocol and lineage. The Grove Council is the religious authority of the fae traditions, holds no charter and is older than the kingdom, and the rural population treats its word as binding. The Aurèldían temples serve the gods of the twelve, and the Áelendan Wardens hold the sacred sites by a jurisdiction the crown does not challenge. The Ordo Arcanis is permitted and limited: it may hold its houses, teach and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest.
+Authority in Élavendre has no single seat. The monarch rules the cities, the farms and the coast, with the officers of a feudal crown from Chancellor and Justiciar to Sheriff and Coroner. The Bardic Circle is the kingdom's memory and conscience, and the crown consults it on precedent, protocol and lineage. The Grove Council is the religious authority of the fae traditions, holds no charter and is older than the kingdom, and the rural population treats its word as binding. The Aurèldían temples serve the gods of the twelve, and the Áelendan Wardens hold the sacred sites by a jurisdiction the crown does not challenge. The Thôrdimâlon (the Arcane Order) is permitted and limited: it may hold its houses, teach and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest.
 
-A case is tried by the royal courts in the cities and shires and by the grove-elder in the villages, and the Wardens' judgment on trespass is final inside sacred ground. The royal magistrate asks first whether a complainant had been warned. The Colleges keep the records of lineage and precedent, and the chancery keeps the crown's writs. The crown collects through its Treasurer and its sheriffs. When the answers conflict the settlement is slow and deliberate, with attention to precedent, prophecy and the counsel of the fae courts. The crown governs the interior only through the Wardens, who answer to the tribes, and a king believed to have taken the Ordo's side would face not a rebellion but the quiet judgment that he had stopped being of the old blood.
+A case is tried by the royal courts in the cities and shires and by the grove-elder in the villages, and the Wardens' judgment on trespass is final inside sacred ground. The royal magistrate asks first whether a complainant had been warned. The Colleges keep the records of lineage and precedent, and the chancery keeps the crown's writs. The crown collects through its Treasurer and its sheriffs. When the answers conflict the settlement is slow and deliberate, with attention to precedent, prophecy and the counsel of the fae courts. The crown governs the interior only through the Wardens, who answer to the tribes, and a king believed to have taken the Order's side would face not a rebellion but the quiet judgment that he had stopped being of the old blood.
 
 ## What Becomes of the Dead
 
@@ -139,7 +139,7 @@ In return a person is owed the house's name and protection, the land's keeping b
 
 The house is the first resort, the lord the second and the village healer the third. A lord whose people go hungry has failed the specific duty his rank exists to discharge. The poor of the cities go to the temples and the groves, and the hedge-affiliate is the Council's eyes and ears in every village. A widow, an orphan or an old relation is placed by the house first and the village second. A child raised by another house is fostered, _íthanersa_, and a person of no line whom a house takes in is seated at its fire by the rule of the guest.
 
-In a bad year the lord's stewardship is the first resort. Commoners live well by the standards of Ankaris, and a bad year draws on that surplus before it draws on anything else. The temples and the groves carry what the lord cannot, and so do the Ordo's chapterhouses, whose healing and legal scholarship the traditional institutions cannot always match. A village that turns the Ordo away may find itself without the medical and administrative help it was quietly receiving.
+In a bad year the lord's stewardship is the first resort. Commoners live well by the standards of Ankaris, and a bad year draws on that surplus before it draws on anything else. The temples and the groves carry what the lord cannot, and so do the Order's chapterhouses, whose healing and legal scholarship the traditional institutions cannot always match. A village that turns the Order away may find itself without the medical and administrative help it was quietly receiving.
 
 ## Those Who Cannot Work
 
@@ -147,7 +147,7 @@ An injured or incapacitated person goes on being the house's, since the house in
 
 ## Shelter, Teaching and Defense
 
-Shelter is the house, then the manor, then the temple and the grove. Teaching is the house's first and the College's after: the children of nobles are taught by tutors and by the Ordo's schools where the house can afford them, and by the bards and grove-elders where it cannot. A grove-elder is chosen in childhood and trained for decades. Defense is the crown's levy and the Wardens' jurisdiction. The eastern hills muster a levy against raiders every year, the Wardens hold the tree line, and the crown's hold on the interior is the Áelendan's consent.
+Shelter is the house, then the manor, then the temple and the grove. Teaching is the house's first and the College's after: the children of nobles are taught by tutors and by the Order's schools where the house can afford them, and by the bards and grove-elders where it cannot. A grove-elder is chosen in childhood and trained for decades. Defense is the crown's levy and the Wardens' jurisdiction. The eastern hills muster a levy against raiders every year, the Wardens hold the tree line, and the crown's hold on the interior is the Áelendan's consent.
 
 ## The Line at Every Age
 
@@ -159,7 +159,7 @@ Membership is by blood proved before the Colleges, by marriage, by fosterage and
 
 Every real culture has a blind spot its own thoughtful members argue about, and the Élavendri's is the descent. A claim to the old blood is the currency of the first rank, and it is maintained gracefully whether or not it is true. Thoughtful Élavendri dispute whether the Colleges' proofs are a courtesy or a fraud, and whether a kingdom whose crown rests on the old blood can afford to ask.
 
-The sin is the welcome. The crown's cordiality to the Ordo is warm and sincere, the University dominates the capital, and the Ordo has taken artifacts out of the sacred sites for as long as it has been permitted into the kingdom. The Áelendan count the permission, and not any single theft, as the offense. The crown profits from an institution that is robbing its own ancestor-people, and the guides it provides are excellent, courteous and do not lead the Ordo anywhere that matters. Everyone concerned understands the arrangement, and the Élavendri call it diplomacy.
+The sin is the welcome. The crown's cordiality to the Order is warm and sincere, the University dominates the capital, and the Order has taken artifacts out of the sacred sites for as long as it has been permitted into the kingdom. The Áelendan count the permission, and not any single theft, as the offense. The crown profits from an institution that is robbing its own ancestor-people, and the guides it provides are excellent, courteous and do not lead the Order anywhere that matters. Everyone concerned understands the arrangement, and the Élavendri call it diplomacy.
 
 ## See Also
 
@@ -172,7 +172,7 @@ The sin is the welcome. The crown's cordiality to the Ordo is warm and sincere, 
 - [[affiliation-alndnwrdns|The Áelendan Wardens]]—the tree line and the sacred sites
 - [[lore-theasking|The Asking]]—the Sinalëan lay of the band that asked the wood
 - [[being-rnthrprdln|Ránthor Párdalen]]—the shaman between the kingdom and the interior
-- [[being-ylthklmrth|Yálith Kálmereth]]—the traveling bard of Liranel
+- [[being-ylthklmrth|Jálith Kálmereth]]—the traveling bard of Liranel
 
 ## Glossary {#glossary}
 
@@ -205,4 +205,4 @@ Every Élavendri word and term of art these notes use, with the Áelendan terms 
 | thal             | Shadow, mystery; an Élavendri root common in names                                         |
 | Tradition Keeper | An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies     |
 
-Ardin (Ard), Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

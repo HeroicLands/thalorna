@@ -14,7 +14,7 @@ data:
   governance:
     model: stratocracy
     summary: >-
-      The emperor's household guard, recruited and promoted apart from the legions under one prefect who answers to the throne alone.
+      The emperor's household guard, recruited and promoted apart from the legions under one thaurûsândôs who answers to the throne alone.
     ranks:
       - level: 0
         title: Cashiered
@@ -37,7 +37,7 @@ data:
         description: >-
           An officer commanding one of the watches, whose loyalty can decide a succession.
       - level: 5
-        title: Prefect of the Guard
+        title: Thaurûsândôs
         description: >-
           Commander of the whole guard, second man in the empire in practice.
     offices:
@@ -63,7 +63,7 @@ The **Sorvan** (_"the guard"_) is the imperial guard: the personal bodyguard of 
 - **Seat:** The Thaurzûrgalis, on the palace hill within the Inner Wall
 - **Answerable to:** The reigning Ôrzâs alone
 
-Its charge is twofold: the imperial person, and the peace of the Inner City. Within Arvon it is guard, garrison and magistrate's arm together. It wards the [[place-palvar|Palvar]], stand the gates and walls of the citadel, and keep order among the senators, priests, magistrates and great families who dwell or do business there. Its writ stops, sharply, at the Inner Wall. The vast city beyond is not the guard's to police. That work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
+Its charge is twofold: the imperial person, and the peace of the Inner City. Within Arvon it is guard, garrison and magistrate's arm together. It wards the [[place-palvar|Palvar]], stand the gates and walls of the citadel, and keep order among the _kurthândoi_ (senators), priests, magistrates and great families who dwell or do business there. Its writ stops, sharply, at the Inner Wall. The vast city beyond is not the guard's to police. That work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
 
 ## The Body That Makes and Unmakes
 
@@ -81,7 +81,7 @@ That closeness to power is also the institution's hazard. The elite standing tha
 
 - **The Ôrzâs**: patron, charge and sole master. The guard answers to the throne directly and to no intermediate command. The relationship is one of mutual dependence and mutual wariness.
 - **The [[affiliation-vylrnmltry|line legions and the Dukran]]**: a separate world. The guard takes no orders from the war command and fights no frontier campaigns. The legions eye the guardsmen's privileges with a mixture of envy and distrust.
-- **The [[affiliation-vylrnmltry|City Watch]]**: the guard's opposite number below the hill. The guard keeps the Inner City and the Watch keeps the rest. The guardsmen look down on the vigiles as glorified street-wardens, and the Watch returns the contempt with the resentment of men who do the unglamorous work of policing a million people.
+- **The [[affiliation-vylrnmltry|City Watch]]**: the guard's opposite number below the hill. The guard keeps the Inner City and the Watch keeps the rest. The guardsmen look down on the watchmen as glorified street-wardens, and the Watch returns the contempt with the resentment of men who do the unglamorous work of policing a million people.
 - **The [[affiliation-verdanorzara|Verdan Ôrzâra]] and the civic courts**: they govern the city beyond the wall. The guard's jurisdiction inside the Inner City sits beside theirs, and above it.
 - **The court factions**: all of them court the guard. Its loyalty, real or purchased, is among the most consequential variables in any contest over the imperial succession.
 
@@ -89,7 +89,7 @@ That closeness to power is also the institution's hazard. The elite standing tha
 
 A guardsman in full harness is unmistakable, and meant to be. The guard wears armor far richer than any line legion's, burnished and gilded and worked with the imperial _ôrkhaimâ_, and it is meant to be seen on the walls and at the palace gates as a standing display of the throne's wealth and reach. Their standards and liveries set them visibly apart from the field army.
 
-The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Imperial Quaestor and the Chief Censor of the [[affiliation-tarmex|Tarmex]] the securing of the imperial strongroom.
+The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Imperial _Târkhêlândôs_ (treasury officer) and the _hôlrôzimândôs_ (chief auditor) of the [[affiliation-tarmex|Tarmex]] the securing of the imperial strongroom.
 
 ## Plot Hooks
 

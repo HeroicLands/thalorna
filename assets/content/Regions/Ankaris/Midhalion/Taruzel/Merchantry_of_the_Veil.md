@@ -48,7 +48,7 @@ The agent wears a ring with a sigil cut into it and says a phrase that sounds li
 
 The Merchantry cultivates mystery. Its membership rolls are not public, its meetings are private, and its agents identify themselves by sigil rings and coded phrases instead of guild badges. The secrecy is partly affectation, since the luxury trade has always traded on exclusivity, and partly necessity. The Merchantry's real business is brokering connections between people who cannot afford to be seen dealing with each other.
 
-Its clients show what that means. A Vylarian senator who needs a message carried to a Tarûzelian rival without either government knowing comes to the Merchantry. So does an [[affiliation-ordoarcanis|Ordo Arcanis]] mage who needs alchemical ingredients banned under imperial law, and so does a fugitive who needs passage out of a Tarûzelian port with no questions asked: the Merchantry knows which captains do not check manifests.
+Its clients show what that means. A Vylarian _kurthândôs_ (senator) who needs a message carried to a Tarûzelian rival without either government knowing comes to the Merchantry. So does an [[affiliation-ordoarcanis|Thôrdimâlon]] mage who needs alchemical ingredients banned under imperial law, and so does a fugitive who needs passage out of a Tarûzelian port with no questions asked: the Merchantry knows which captains do not check manifests.
 
 ## Agents
 
@@ -64,4 +64,4 @@ Of the three, the Merchantry is the one most likely to approach the crew of the 
 
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the parent polity
 - [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]]—the rival guilds
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—an occasional, unwilling client
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—an occasional, unwilling client

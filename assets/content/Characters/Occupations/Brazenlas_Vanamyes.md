@@ -1,6 +1,6 @@
 ---
 shortcode: brznlsvnmys
-name: {full: Bràzenlâs Vânamyês, aliases: []}
+name: {full: Brazenlâs Vânamyês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,23 +396,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Bràzenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and expressive lips. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
+Brazenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and expressive lips. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
 
 # Dossier {#dossier}
 
-Bràzenlâs Vânamyês is an embalmer of Corvinus, the garrison town in the Alyssan heartland of [[place-vylariargn|Vylaría]], a Vylarian freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
+Brazenlâs Vânamyês is an embalmer of Korvênâra, the garrison town in the Alêssan heartland of [[place-vylariargn|Vylaría]], a Vylarian freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
 
-Bràzenlâs holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the guild, who use the quicker preparations from Ôrzâra, find him a reproach.
+Brazenlâs holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the guild, who use the quicker preparations from Ôrzâra, find him a reproach.
 
 ## Psyche
 
 ### Personality
 
-Bràzenlâs is grave, exact and distant, and seems to prefer the dead, whose needs he understands, to the living.
+Brazenlâs is grave, exact and distant, and seems to prefer the dead, whose needs he understands, to the living.
 
 ### Motivation
 
-Bràzenlâs wants every corpse that comes to him prepared correctly, because the soul's passage depends on it. He wants the house to continue after him, and he has no son and has not chosen an apprentice.
+Brazenlâs wants every corpse that comes to him prepared correctly, because the soul's passage depends on it. He wants the house to continue after him, and he has no son and has not chosen an apprentice.
 
 ### Strengths
 
@@ -420,13 +420,13 @@ Experienced, skilled in the traditional rites and preservations, wholly dedicate
 
 ## Social
 
-Bràzenlâs is a master of the Morticians' Guild of Corvinus and attends its meetings to vote against every change in method.
+Brazenlâs is a master of the Morticians' Guild of Korvênâra and attends its meetings to vote against every change in method.
 
 ## Companions
 
 ### Patrons
 
-Bràzenlâs's patrons are the old families of Corvinus, who want the rite their grandparents had, and the garrison's quartermaster, who sends him the legion's dead.
+Brazenlâs's patrons are the old families of Korvênâra, who want the rite their grandparents had, and the garrison's quartermaster, who sends him the legion's dead.
 
 ### Enemies
 
@@ -434,10 +434,10 @@ The younger embalmers of the guild, who use the Ôrzâra preparations and would 
 
 ## Plot Hooks
 
-1. **The Garrison's Dead**—A fever in the barracks has given Bràzenlâs forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
+1. **The Garrison's Dead**—A fever in the barracks has given Brazenlâs forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
 
-2. **A New Rite**—The daughter of an old family wants her father buried with a rite from the capital that Bràzenlâs holds to be worthless and has asked him to perform it because her father trusted no one else.
+2. **A New Rite**—The daughter of an old family wants her father buried with a rite from the capital that Brazenlâs holds to be worthless and has asked him to perform it because her father trusted no one else.
 
-3. **The Body That Should Not Be Embalmed**—A body has come from the garrison with a clerk's tally and a wound that no fever made, and Bràzenlâs has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
+3. **The Body That Should Not Be Embalmed**—A body has come from the garrison with a clerk's tally and a wound that no fever made, and Brazenlâs has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
 
-4. **No Heir**—Bràzenlâs has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.
+4. **No Heir**—Brazenlâs has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.

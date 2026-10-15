@@ -3,7 +3,7 @@ shortcode: commissioncmp
 name: {full: The Commission Compromise, aliases: [The Examination Reform, Under Continuing Review]}
 type: lore
 subType: history
-description: "About 710 AF, after the Dukran's report on the Tarûzelian war leaks to the senatorial houses, the senior Aurelian of his generation brokers a reform that tightens the commoner track's road to Vallar with an examination and gives the Reformist Faction a seat on the Tarmex's audit, leaving purchased commissions untouched."
+description: "About 710 AF, after the Dukran's report on the Tarûzelian war leaks to the senatorial houses, the senior elthêzênôs of his generation brokers a reform that tightens the commoner track's road to Vallar with an examination and gives the Reformist Faction a seat on the Tarmex's audit, leaving purchased commissions untouched."
 tags: [history, vylaria, aftershoals]
 data:
   packFolder: vylaria
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [affiliation-vylrnmltry, affiliation-tarmex, affiliation-vylarinmpr, place-orzara]
       summary: >-
-        The Dukran's after-action report on the Tarûzelian war leaks to the senatorial houses within months of its filing, and the commission system faces its worst challenge in two centuries. The senior Aurelian of his generation brokers a compromise. Candidates from the commoner track for Vallar must pass an examination, the Reformist Faction takes a seat on the Tarmex's yearly audit, and the purchase of noble commissions goes on as before.
+        The Dukran's after-action report on the Tarûzelian war leaks to the senatorial houses within months of its filing, and the commission system faces its worst challenge in two centuries. The senior elthêzênôs of his generation brokers a compromise. Candidates from the commoner track for Vallar must pass an examination, the Reformist Faction takes a seat on the Tarmex's yearly audit, and the purchase of noble commissions goes on as before.
       standing: attested
       names:
         - {name: the Commission Compromise, by: affiliation-vylrnmltry}
@@ -59,9 +59,9 @@ The report leaked to the senatorial houses within months of its filing. It produ
 
 ## The Factions
 
-The Reformist Faction argued for compulsory examinations as a precondition for any commission above Lusel. A coalition of Argentean houses, whose sons had served merit-route careers in the war, stood behind it in private.
+The Reformist Faction argued for compulsory examinations as a precondition for any commission above Lusel. A coalition of _ankhrâzênôs_ (Silver) houses, whose sons had served merit-route careers in the war, stood behind it in private.
 
-The Conservative Faction included most of the Aurelian estate, most of the great commission-holding families and every officeholder whose career depended on the system as it stood. It blocked the reform. The Dukran, the senior Aurelian of his generation, led it and then brokered the compromise.
+The Conservative Faction included most of the _elthêzênôs_ (Gilded) estate, most of the great commission-holding families and every officeholder whose career depended on the system as it stood. It blocked the reform. The Dukran, the senior _elthêzênôs_ of his generation, led it and then brokered the compromise.
 
 ## The Compromise
 
@@ -78,7 +78,7 @@ The Ôrzâs's position is that the matter is "under continuing review." It stays
 ## What It Left
 
 - **The centurions' grievance.** A real and continuing discontent among the army's senior career soldiers.
-- **The Reformist seat.** A voice at the strongroom audit that the Imperial Quaestor cannot block.
+- **The Reformist seat.** A voice at the strongroom audit that the Imperial _Târkhêlândôs_ (treasury officer) cannot block.
 - **"Under continuing review."** The Ôrzâs's answer to every petition on the subject.
 
 ## See Also

@@ -3,7 +3,7 @@ shortcode: pnthnrldnm
 name: {full: Sârkhenâ Dôrêkhis, aliases: [Temple of the Twelve]}
 type: place
 subType: settlement
-description: "Sârkhenâ Dôrêkhis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Vanor of Ôrzâra that honors the whole Aurèldían Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Ordo Arcanis."
+description: "Sârkhenâ Dôrêkhis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Vanor of Ôrzâra that honors the whole Aurèldían Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Thôrdimâlon."
 tags: [temple, aureldian, vylaria, imperial, orzara, precinct]
 data: {demonym: null, lore: [], parents: [vylariargn], population: 400, government: vylarinmpr}
 ---
@@ -16,7 +16,7 @@ A sacristan of the House of the Twelve gives each new novice the same first inst
 
 ### The Dome
 
-What every visitor remembers is the dome. It rises in a single unbroken span so wide that the eye refuses to grant it—a vault of coffered stone that, by every rule the masons of the world know, should have collapsed under its own weight the day the centering was struck. Visiting architects from Provènzia, from Aû'Khelâthu, from the far eastern empires have stood beneath it and declared flatly that it cannot stand. They are not entirely wrong. The dome is the quiet work of the [[affiliation-ordoarcanis|Ordo Arcanis]], whose wards run unseen through the ribs of the stone, and whose mastery the Empire is pleased to display in a building where every subject of the western world will crane their neck and wonder. At the dome's crown a single round oculus is left open to the sky, so that across the day a disc of sunlight wheels slowly down the interior, touching each of the Twelve in turn—and on certain feast-days, by reckonings the priesthood guards closely, falling at the appointed hour upon the god whose festival it is.
+What every visitor remembers is the dome. It rises in a single unbroken span so wide that the eye refuses to grant it—a vault of coffered stone that, by every rule the masons of the world know, should have collapsed under its own weight the day the centering was struck. Visiting architects from Provènzia, from Aû'Khelâthu, from the far eastern empires have stood beneath it and declared flatly that it cannot stand. They are not entirely wrong. The dome is the quiet work of the [[affiliation-ordoarcanis|Thôrdimâlon]], whose wards run unseen through the ribs of the stone, and whose mastery the Empire is pleased to display in a building where every subject of the western world will crane their neck and wonder. At the dome's crown a single round oculus is left open to the sky, so that across the day a disc of sunlight wheels slowly down the interior, touching each of the Twelve in turn—and on certain feast-days, by reckonings the priesthood guards closely, falling at the appointed hour upon the god whose festival it is.
 
 ### The Keepers
 
@@ -33,5 +33,5 @@ The one delicate seam is the niche of [[lore-ustarondty|Ústaron]], the Forge-Lo
 - [[place-arvon|Arvon]]—the Inner City and the Vanor in which the Temple stands
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—_the Twelve_, the state religion honored here
 - [[affiliation-ardavon|Árdavon]]—the keeper-priesthood of the Temple · [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—whose wards hold the impossible dome
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—whose wards hold the impossible dome
 - [[place-orzara|Ôrzâra]] · [[affiliation-vylarinmpr|Vylarian Empire]]

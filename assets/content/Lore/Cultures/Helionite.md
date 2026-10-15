@@ -52,7 +52,7 @@ Feuds are conducted in the open and settled in the open, often in court, occasio
 
 [[being-blnhdrks|Bûlêlon Hâdrîkês]], a scholar of Therádon, is the Helionite ideal at forty-one. He comes of a house that has sat in his city's assembly for six generations, and he took the oligarchs' maxim that a citizen's duty is to know more than anyone else literally. For twenty-five years he has read in the chapterhouse library, which holds texts older than the empire, and walked the old battlefields and the ruins of the mage-warlords' seats to find what the record left out. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. He is gentle, absent, helpless with anything but a text or a student, modest about his findings and immodest about the questions. What he wants is the past kept whole for whoever comes after.
 
-The questions he pursues are the ones the record drops, and it stops, he has found, at the same place every time. A second male exemplar belongs to the histories. The archon Sôthanos Kôshamîdês went out of besieged Thyrenae to the legate and came back with terms: the walls would be breached at one gate and no other, and the libraries and colleges would stand ([[lore-heladthyrsiege|The Siege of Thyrenae]]). The council voted for them. The colleges and the library stand whole, the gate was walled up and never reopened, and the colleges keep the day of the extraction as a day of silence.
+The questions he pursues are the ones the record drops, and it stops, he has found, at the same place every time. A second male exemplar belongs to the histories. The archon Sôthanos Kôshamîdês went out of besieged Thyrenae to the _phêlzândôs_ (legate) and came back with terms: the walls would be breached at one gate and no other, and the libraries and colleges would stand ([[lore-heladthyrsiege|The Siege of Thyrenae]]). The council voted for them. The colleges and the library stand whole, the gate was walled up and never reopened, and the colleges keep the day of the extraction as a day of silence.
 
 ## The Woman Admired
 
@@ -62,7 +62,7 @@ Her admiration is not a lesser form of the man's. Bûlêlon earns his standing b
 
 ## What the Cities Keep
 
-A Helionite can point to a handful of things that belong to a city or to all seven. Each city shows a keel-stone in its agora as proof of its founding ship, and each tells the claim against the others at the Games. The **oath-tablets** of the cities hang in the portico behind the heralds' altar at the Sanctuary of the Games, one to a city, each in the city's own script of the day it was sworn. The **herald's person** is written into every city's offices: inviolable, even among enemies. The **bronze copy of the Pelagoran Treaty** stands in Pelagora's agora, and a Thyrenaean student has chiselled one line from it. The **Library of Thyrenae** and the colleges around it stand whole beside the walled-up Commissioners' Gate. The **law of Korinthea** is kept at the Temple of Árdavon by a line of High Judges that begins in the year of the Turned Working. And the idea of the **Panepistemium**, _synkrysis_, the bringing together of all inquiry, is the nearest thing Heliónis has to a charter: a federation of every kind of knowledge, in which a scholar of ethics stands equal to a scholar of magic.
+A Helionite can point to a handful of things that belong to a city or to all seven. Each city shows a keel-stone in its agora as proof of its founding ship, and each tells the claim against the others at the Games. The **oath-tablets** of the cities hang in the portico behind the heralds' altar at the Sanctuary of the Games, one to a city, each in the city's own script of the day it was sworn. The **herald's person** is written into every city's offices: inviolable, even among enemies. The **bronze copy of the Pelagoran Treaty** stands in Pelagora's agora, and a Thyrenaean student has chiselled one line from it. The **Library of Thyrenae** and the colleges around it stand whole beside the walled-up Commissioners' Gate. The **law of Korinthea** is kept at the Temple of Árdavon by a line of High Judges that begins in the year of the Turned Working. And the idea of the **Plûmepistémion**, _synkrysis_, the bringing together of all inquiry, is the nearest thing Heliónis has to a charter: a federation of every kind of knowledge, in which a scholar of ethics stands equal to a scholar of magic.
 
 ## Faith in the Open
 
@@ -84,7 +84,7 @@ Penalties climb the same ladder downward. The mildest is the face-to-face rebuke
 
 Authority is the city's. The assembly of citizens by descent is sovereign. A council chosen by lot prepares its business for a single year and no one sits twice. Magistrates are elected or allotted to the markets, walls, treasury and courts, and an auditor examines each one's accounts. The _nomophylax_ guards the laws and may halt a decree of the assembly that contradicts them. The herald speaks for the assembly and the city abroad. Priests are civic officers, and the line between them and magistrates is deliberately thin. In Korinthea the council writes the rules and the temple's judges say what they mean when two men disagree, and the High Judge's judgment is final in most cases. In Pelagora the assembly votes on war, trade and law. In Thyrenae a council of senior scholars and the heads of the oldest families governs, and a reputation for learning is the road to power. In Kalydria the patron families rule by paying for what the city comes to see.
 
-The Ordo Arcanis stands outside this order and is kept at arm's length. A Helionite philosopher may study arcane theory and debate magical philosophy without joining the Ordo, so long as he does not practice, and the line between theory and practice is where the tension lives. Conflicts between cities have no tribunal; they are settled by the Games' truce, by diplomacy, or by war.
+The Thôrdimâlon (the Arcane Order) stands outside this order and is kept at arm's length. A Helionite philosopher may study arcane theory and debate magical philosophy without joining the Arcane Order, so long as he does not practice, and the line between theory and practice is where the tension lives. Conflicts between cities have no tribunal; they are settled by the Games' truce, by diplomacy, or by war.
 
 ## What Becomes of the Dead
 
@@ -120,7 +120,7 @@ A citizen who is injured keeps his place on the roll and his vote, because the v
 
 ## Shelter, Teaching and Defense
 
-Teaching is the city's pride. The gymnasium is kept by a patron at his own cost, the academies teach mathematics, natural philosophy, rhetoric, medicine and the theory of magic, and the Panepistemium keeps its original seat in Thyrenae and a chapterhouse in Therádon. The Academy of the Silver Veil takes girls at twelve and trains them for eight years. Defense is the citizen's own: each citizen serves in the militia or the fleet, and in Pelagora every voter has a personal stake in the voyage he votes for. The strategos commands. The herald and the truce keep the cities from destroying one another, and the dead come home.
+Teaching is the city's pride. The gymnasium is kept by a patron at his own cost, the academies teach mathematics, natural philosophy, rhetoric, medicine and the theory of magic, and the Plûmepistémion (the Academy of Knowledge) keeps its original seat in Thyrenae and a chapterhouse in Therádon. The Academy of the Silver Veil takes girls at twelve and trains them for eight years. Defense is the citizen's own: each citizen serves in the militia or the fleet, and in Pelagora every voter has a personal stake in the voyage he votes for. The strategos commands. The herald and the truce keep the cities from destroying one another, and the dead come home.
 
 Shelter is the household's and the friend's. When a family cannot keep its young, the friends bound to it, the patron families and the temples are the recourse, and the academies take students from abroad as metics.
 
@@ -134,7 +134,7 @@ The ladder of a life follows the city's ladder. A boy grows through the gymnasiu
 
 Every real system has a blind spot its own thoughtful members argue about, and the Helionites' is the wrong that the agora cannot see. A culture that proves everything in public has no way to prove what no one witnessed. The Sour Plain is the case: a Korinthean mage-warlord loosed a working that broke a legion and turned back on his own city's levy, and the dead of both armies were left where they fell because no herald could cross the ground. The warlord is named in no Helionite or Vylarian record. Korinthea's assembly lost its standing, the Temple took the law into its keeping, and in all the years since no assembly has voted to say aloud what the city did there. The wrong is concealed, and concealment is the offense the Helionites say they cannot tolerate.
 
-The sin sits beside it. Helionite mages made the Ordo necessary, and the cities are quiet about which Helionite masters the Republic kept when the war was over. Pelagora treated alone and its ships blockaded the cities still fighting, and a Thyrenaean spits on the pavement beside the bronze copy of the Treaty while a Pelagoran spits back.
+The sin sits beside it. Helionite mages made the Arcane Order necessary, and the cities are quiet about which Helionite masters the Republic kept when the war was over. Pelagora treated alone and its ships blockaded the cities still fighting, and a Thyrenaean spits on the pavement beside the bronze copy of the Treaty while a Pelagoran spits back.
 
 The blind spot also runs through the ladder of standing. The examined life is open to those who can enter the agora, and the metic, the freedman and the slave cannot. Thoughtful Helionites argue whether the examined life can be called civic when so many of the city's people are barred from the places where it is lived. High Judge [[being-dumarsrfrs|Dûmàrês Râfîrôs]] of Korinthea shows the failure in a single man: a priest of conviction who judges the poor harshly, finds a moral failing beneath every material one, and runs a refuge content if most of its charges emerge reformed by his standards.
 
@@ -148,19 +148,19 @@ The hetairai occupy a position with no equivalent elsewhere: educated companions
 
 The academies and gymnasia are where the city reproduces itself, and the philosophical tradition here is the oldest and most continuous in Ankaris. Mathematics, natural philosophy, rhetoric, medicine and the theory of magic are all taught, argued over and revised in public.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] was born out of that tradition at the [[affiliation-panepistmm|Panepistemium]], and Helionites have complicated feelings about what it became. They are proud of the parentage and uneasy about the child—an institution that claims authority over knowledge, in the one place on the continent where knowledge has always been settled by argument.
+The [[affiliation-ordoarcanis|Thôrdimâlon]] was born out of that tradition at the [[affiliation-panepistmm|Plûmepistémion]], and Helionites have complicated feelings about what it became. They are proud of the parentage and uneasy about the child—an institution that claims authority over knowledge, in the one place on the continent where knowledge has always been settled by argument.
 
 ## See Also
 
 - [[place-helionis|Heliónis]]—the seven cities and the country around them
 - [[affiliation-ctysttshlns|City-States of Heliónis]]—how the cities govern themselves
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods and the shared festivals
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the order born at the Panepistemium
+- [[affiliation-ordoarcanis|Thôrdimâlon]]—the order born at the Plûmepistémion
 - [[place-sourplain|The Sour Plain]]—the field no herald could cross
 - [[lore-firstgames|The First Games]]—the truce, the herald and the dead brought home
 - [[lore-heladturnedwrk|The Turned Working]]—the battle on the Sour Plain
 - [[lore-heladthyrsiege|The Siege of Thyrenae]]—the terms that kept the colleges
-- [[skill-helonclng|Helonic]]—the tongue of the academies
+- [[skill-helonclng|Helonic]]—the tongue of drama, rhetoric and verse
 
 ## Glossary {#glossary}
 
@@ -181,7 +181,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] was born out of that tradition at t
 | nomophylax   | Guardian of the laws, who may halt a decree of the assembly that contradicts them                                                |
 | plánthis     | One who argues without a first principle, a wanderer                                                                             |
 | strategos    | Elected commander of a city's forces by land and sea, re-electable without limit                                                 |
-| synkrysis    | The bringing together of all inquiry, the idea on which the Panepistemium was founded                                            |
+| synkrysis    | The bringing together of all inquiry, the idea on which the Plûmepistémion was founded                                           |
 | trierarch    | Commander of a Pelagoran war-galley                                                                                              |
 
-Ard, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

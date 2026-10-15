@@ -81,10 +81,10 @@ export const CONFIG = {
         paths: ["Lore/Spirits/Aelendan/"],
         notes: [
             "Skills/Languages/Aelendi.md",
-            "Skills/Scripts/Thuravardh.md",
+            "Skills/Scripts/Thurarth.md",
             "Regions/Ankaris/Aureldia/Elavendre/Aelendan_People.md",
             "Regions/Ankaris/Aureldia/Elavendre/Sorvanda/Aelendan_Tribal_Lands.md",
-            "Regions/Ankaris/Aureldia/Elavendre/Sorvanda/Eshalosha_Lodge.md",
+            "Regions/Ankaris/Aureldia/Elavendre/Sorvanda/Esalosa_Lodge.md",
             "Regions/Ankaris/Aureldia/Elavendre/Sorvanda/Drenavar_Spine.md",
             "Regions/Ankaris/Aureldia/Elavendre/Sorvanda/The_Long_Stair.md",
             "Regions/Ankaris/Aureldia/Elavendre/Sorvanda/The_Owl_Hollow.md",

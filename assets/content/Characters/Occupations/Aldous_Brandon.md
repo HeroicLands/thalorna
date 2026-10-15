@@ -423,11 +423,11 @@ Aldous's patrons are the smiths of the Thornbury harbor, and the armorers who su
 
 ### Enemies
 
-A charcoaler of the coast who draws his kilns early and sells green charcoal cheap under the Aedile's contract for the public forges; and a senator's steward who leases the coppice and has been raising the rent.
+A charcoaler of the coast who draws his kilns early and sells green charcoal cheap under the contract of the _pêlthrândôs_ (ward magistrate) for the public forges; and a senator's steward who leases the coppice and has been raising the rent.
 
 ## Plot Hooks
 
-1. **The Armorers' Contract**—The Senate's contract for the legions' armorers has gone to Aldous's rival, whose charcoal is cheaper, and the armorers say the steel is coming out short. The Quaestor who signed was paid to.
+1. **The Armorers' Contract**—The Senate's contract for the legions' armorers has gone to Aldous's rival, whose charcoal is cheaper, and the armorers say the steel is coming out short. The _târkhêlândôs_ (treasury officer) who signed was paid to.
 
 2. **The Black Fires**—A shrine of the Black Flame, which the town's magistrates are paid not to notice, has asked for a standing supply of Aldous's oak charcoal at a price the smiths could not match.
 

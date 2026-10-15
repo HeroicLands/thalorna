@@ -3,7 +3,7 @@ shortcode: volkhemokald
 name: {full: Volkhémo Kaldremándis, aliases: [Duke Volkhémo]}
 type: being
 subType: npc
-description: A powerful regional lord of the Eastern Marches who has engaged Cárenna Gráveth's services repeatedly.
+description: A powerful regional lord of the Eastern Marches who has engaged Kárenna Gráveth's services repeatedly.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Volkhémo Kaldremándis is a 52-year-old man who stands 5'11" tall with a medium
 
 # Dossier {#dossier}
 
-Volkhémo Kaldremándis is a duke and a powerful regional lord of the Eastern Marches. He has engaged the services of [[being-carengrvth|Cárenna Gráveth]] repeatedly in mediating disputes with neighboring provinces, and views her as a valuable ally and occasional lover, though the relationship is carefully concealed.
+Volkhémo Kaldremándis is a duke and a powerful regional lord of the Eastern Marches. He has engaged the services of [[being-carengrvth|Kárenna Gráveth]] repeatedly in mediating disputes with neighboring provinces, and views her as a valuable ally and occasional lover, though the relationship is carefully concealed.

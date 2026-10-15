@@ -3,7 +3,7 @@ shortcode: zenothenguri
 name: {full: Zênôthen Gûrimândis, aliases: [Brother Zênôthen]}
 type: being
 subType: npc
-description: A priest of Mârendâs at the Temple of Wisdom and confessor to several scholars, named in Azatô Dâemzânis.
+description: A priest of Mârendâs at the Temple of Wisdom and confessor to several scholars, named in Azatô Dâmzânis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Zênôthen Gûrimândis is a 69-year-old man who stands 5'9" tall with a medium 
 
 # Dossier {#dossier}
 
-Zênôthen Gûrimândis is an aging priest of Mârendâs at the Temple of Wisdom and the confessor of several scholars. [[being-azatodmzns|Azatô Dâemzânis]] speaks with him monthly on theological matters, and he is one of the few people with whom [[being-azatodmzns|Azatô Dâemzânis]] engages with something approaching candor. He harbors no illusions about [[being-azatodmzns|Azatô Dâemzânis]]'s capacity for warmth.
+Zênôthen Gûrimândis is an aging priest of Mârendâs at the Temple of Wisdom and the confessor of several scholars. [[being-azatodmzns|Azatô Dâmzânis]] speaks with him monthly on theological matters, and he is one of the few people with whom [[being-azatodmzns|Azatô Dâmzânis]] engages with something approaching candor. He harbors no illusions about [[being-azatodmzns|Azatô Dâmzânis]]'s capacity for warmth.

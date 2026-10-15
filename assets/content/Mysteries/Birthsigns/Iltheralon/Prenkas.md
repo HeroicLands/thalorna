@@ -1,0 +1,49 @@
+---
+shortcode: kentros
+name: {full: Prênkâs, aliases: []}
+type: mystery
+subType: birthsign
+description: "The Goad: restless of body and drawn to hidden things, with no use for field or forge."
+tags: []
+data: {icon: icon-astrology, templatePriority: 0, packFolder: astrokyklos}
+sohl:
+  kbcat: birthsign
+  system:
+    levelBase: 0
+    skillAptitudes:
+      "subType:nature": -10
+      earth: -10
+      physera: -10
+      "subType:script": -10
+      "subType:craft": -10
+      metal: -10
+      sideros: -10
+      "subType:combattechnique": 0
+      "subType:combat": 0
+      fire: 0
+      pyrethos: 0
+      "subType:physical": 10
+      air: 10
+      zepharis: 10
+      "subType:mystical": 10
+      "subType:lore": 10
+      spirit: 10
+      pneumenos: 10
+      "subType:language": 0
+      "subType:social": 0
+      water: 0
+      hydalis: 0
+---
+
+Prênkâs, the Goad, drives its children inward toward hidden things. Strong of frame and drawn to the mysteries and old learning, they have scant patience for the field, the forge, or the written page.
+
+| Element | Skills it claims          | EML |
+| ------- | ------------------------- | --- |
+| Earth   | Nature                    | −10 |
+| Metal   | Craft, Script             | −10 |
+| Fire    | Combat, Combat Techniques | —   |
+| Air     | Physical                  | +10 |
+| Spirit  | Lore, Mystical            | +10 |
+| Water   | Language, Social          | —   |
+
+The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

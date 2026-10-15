@@ -26,7 +26,7 @@ Korinthea's [[place-korinthea2|Temple of Árdavon]] sends a judge each year to w
 
 - **Carters**, who go round it by daylight and give the plain a wide berth.
 - **Scholars**, [[being-blnhdrks|Bûlêlon Hâdrîkês]] of Therádon among them, who come for the ground.
-- **Ordo surveyors**, whom Korinthea refuses at the ring.
+- **Arcane Order surveyors**, whom Korinthea refuses at the ring.
 - **The Black Flame**, which works fields anywhere, and for which a withering that spreads is the work already half done.
 
 ## Hooks

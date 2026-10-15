@@ -8,7 +8,7 @@ name:
     - Merchant Councilor Tulème
 type: being
 subType: npc
-description: The senior merchant representative on the city council, named in Brýgar Lýskal.
+description: The senior merchant representative on the city council, named in Brigàr Liskàl.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -41,4 +41,4 @@ Tulème Serdalandìs is a 60-year-old man who stands 6'0" tall with a medium bui
 
 # Dossier {#dossier}
 
-Tulème Serdalandìs is the senior merchant representative on the city council. His business is in the merchant quarter, and he knows [[being-brygrlyskl|Brýgar Lýskal]] well. As [[being-brygrlyskl|Brýgar Lýskal]]'s patron, he uses his political influence to keep [[being-brygrlyskl|Brýgar Lýskal]]'s assignment stable and to see that the merchant quarter receives adequate resources.
+Tulème Serdalandìs is the senior merchant representative on the city council. His business is in the merchant quarter, and he knows [[being-brygrlyskl|Brigàr Liskàl]] well. As [[being-brygrlyskl|Brigàr Liskàl]]'s patron, he uses his political influence to keep [[being-brygrlyskl|Brigàr Liskàl]]'s assignment stable and to see that the merchant quarter receives adequate resources.

@@ -1,6 +1,6 @@
 ---
 shortcode: hvirnynda
-name: {full: Hvirnynda, aliases: [Magister Hvirnynda]}
+name: {full: Hvirnynda, aliases: [Master Hvirnynda]}
 type: being
 subType: npc
 description: A wealthy scholar who commissions Hvarnthann Stormrót to sail to the Shattered Archipelago in search of ancient ruins of the Old Kingdom.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [scholar]
-  occupation: Magister
+  occupation: Master
   lore: []
   culture: nordheimnclt
   homes: []

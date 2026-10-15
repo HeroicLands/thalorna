@@ -1,30 +1,30 @@
 ---
 shortcode: zuravlenrgn
-name: {full: Zûravlen Region, aliases: [The Peach Country]}
+name: {full: Zuravlèn Region, aliases: [The Peach Country]}
 type: place
 subType: region
 description: "Provènzia's western seaboard on the cold ocean—a long cliff coast, poorer and harder than the sunlit south, named for the barony at its heart whose sheltered valley grows the finest peaches and some of the best wine in Ankaris."
 tags: [region, valley, coastal]
 data:
-  demonym: Zûravlen
+  demonym: Zuravlèn
   lore: []
   parents: [provenzrgn]
   population: 750000
   packFolder: provenzia
 ---
 
-**Zûravlen** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]], in the
+**Zuravlèn** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]], in the
 [[place-provenzrgn|Provènzia Region]]—a short, cliff-bound coast and the long river valley behind
 it, and the source of the finest peaches in Ankaris and some of its more highly regarded wine.
 
 The barony is held of the Crown at [[place-jalnazdal|Jalnazdàl]] by **Álegar alrí Zûravel**, who is
-also Baron of [[place-kyvarel|Kývarel]], and who sits at [[place-elthrembis|Elthrembìs]]. His clan's prominent support of
+also Baron of [[place-kyvarel|Kivarèl]], and who sits at [[place-elthrembis|Elthrembìs]]. His clan's prominent support of
 the Order of the Burning Brand gives a small agricultural barony rather more weight in Provenzian
 affairs than its size would suggest.
 
 ## The Region and the Barony
 
-**Zûravlen** names two things, and Provenzians rarely bother to distinguish them.
+**Zuravlèn** names two things, and Provenzians rarely bother to distinguish them.
 
 The **region** is the whole of Provènzia's western seaboard—some three-quarters of a million people
 along a long cliff coast and the valleys behind it, facing the cold ocean. It is the poorest and
@@ -37,14 +37,14 @@ is why the region has the name at all. Fruit and wine out of that valley are kno
 Ankaris, and no other thing produced on the western coast is known anywhere. So the whole seaboard is
 called after it, which the rest of the seaboard finds by turns convenient and irritating.
 
-What follows describes the barony, which is what anyone means when they say Zûravlen.
+What follows describes the barony, which is what anyone means when they say Zuravlèn.
 
 ## The Three Bands
 
-Everything about Zûravlen follows from the fact that it is three quite different countries within half
+Everything about Zuravlèn follows from the fact that it is three quite different countries within half
 a day's ride of each other, and that the middle one is where the money is.
 
-**The coast.** Zûravlen faces **west**, onto the open ocean—not the warm
+**The coast.** Zuravlèn faces **west**, onto the open ocean—not the warm
 [[place-vylarianse|Vylarian Sea]] that laps Provènzia's southern shore, but the vast cold water beyond
 the continent's western edge. Rocky cliffs stand above deep water and the wind off it is constant:
 hard enough in winter to lay a man down, salt enough year-round to burn the leaves off anything
@@ -61,7 +61,7 @@ and vines**. It is perhaps a tenth of the barony's ground and rather more than h
 **The uplands.** Above the terraces the soil thins into pasture, chestnut and scrub, running up to the
 summer grazing.
 
-The gradient is sharp enough that Zûravlen keeps two calendars and, in a sense, two peoples: the
+The gradient is sharp enough that Zuravlèn keeps two calendars and, in a sense, two peoples: the
 valley reckons the year by blossom and vintage, and the coast reckons it by the weather.
 
 ## Water and Wind
@@ -82,17 +82,17 @@ Cold water against a hot land makes fog, and through the summer it comes in off 
 mornings, drowns Volsathèr to the masts, climbs the cliff—and stops at the ridge. The valley watches
 it arrive and go no further almost every day of the growing season.
 
-Coastal Zûravlen therefore lives half the summer in a gray chill while the terraces four miles inland
+Coastal Zuravlèn therefore lives half the summer in a gray chill while the terraces four miles inland
 are baking, which does more than anything else to keep the two halves of the barony from understanding
 one another.
 
 ## The Peach
 
-The trees are grafted, not grown from stone. Zûravlen stock is worked onto **almond root**, which
+The trees are grafted, not grown from stone. Zuravlèn stock is worked onto **almond root**, which
 tolerates the dry stony ground of the upper terraces where peach root will not thrive, and the grafting
 is done in winter by men whose families have done nothing else for generations. A tree comes into
 bearing in its fourth year and is finished by its twentieth, so a third of the barony's orchards are
-always young, and the Zûravlen describe an orchard by its age before anything else.
+always young, and the Zuravlèn describe an orchard by its age before anything else.
 
 **Fresh fruit does not travel**—overland. A peach picked at Palnebrìs is worth a fortune in Válaren
 and worthless four days later, which for most of the barony's history meant the fresh trade was a
@@ -100,21 +100,21 @@ prestige trade and nothing more. What left the valley in quantity was preserved:
 
 - **Dried halves**, stoned and laid on cane trays in the drying yards, which keep a year and travel
   anywhere.
-- **Fruit in honey**, sealed in crocks—the luxury export, and the reason Zûravlen honey is never sold
+- **Fruit in honey**, sealed in crocks—the luxury export, and the reason Zuravlèn honey is never sold
   outside the barony.
 - **Kernels**, cracked from the stones and sold to confectioners and apothecaries for their bitter
   almond flavor.
 - **Peach spirit**, distilled in small quantities under the apothecaries' eye, expensive and medicinal.
 
 **Volsathèr has changed that**, and the barony has not finished arguing about it. A fast boat out of the
-harbor reaches ports no rider could, and fresh Zûravlen fruit now appears on tables that had only ever
+harbor reaches ports no rider could, and fresh Zuravlèn fruit now appears on tables that had only ever
 seen it dried. Every basket that leaves fresh is a basket that does not pay the baron's drying share—which is his largest single income—so the harbor and the yards are, quietly, in competition, and
 everyone concerned is aware of who owns which.
 
 ## The Vine
 
 Vines climb the same terraces the peaches do, generally above them where the ground is stoniest and the
-fruit trees will not thrive, and Zûravlen wine is well regarded across Provènzia without ever quite
+fruit trees will not thrive, and Zuravlèn wine is well regarded across Provènzia without ever quite
 being fashionable in Jalnazdàl.
 
 The vine is the barony's answer to its own worst problem. **Vintage falls in autumn, after the peach
@@ -124,12 +124,12 @@ anybody's goodwill; and a vine bears for a lifetime where a peach tree is finish
 a frost year—when the blossom is lost and there is no fruit at all—the vines usually come through,
 because they break bud later than the peach does.
 
-Zûravlen's orchardists regard the vines as insurance and say so. Its vignerons regard that as an
+Zuravlèn's orchardists regard the vines as insurance and say so. Its vignerons regard that as an
 insult and have said so for four hundred years.
 
 ## The Rest of the Year
 
-The peach bears for eight weeks. The barony eats for fifty-two, and an outsider who thinks Zûravlen is
+The peach bears for eight weeks. The barony eats for fifty-two, and an outsider who thinks Zuravlèn is
 an orchard has seen it in August.
 
 - **Grain**—wheat and barley on the valley floor, which is what the barony actually lives on.
@@ -139,7 +139,7 @@ an orchard has seen it in August.
 - **Fish and salt**—the coastal living. Salt from the pans above Volsathèr goes to the fish, to the
   cheese, and increasingly into the preserving trades inland, which had bought it from outside for
   generations and resents having a local monopoly instead.
-- **Honey and wax**—bee-boles beside every orchard. Nobody in Zûravlen will explain why beyond that
+- **Honey and wax**—bee-boles beside every orchard. Nobody in Zuravlèn will explain why beyond that
   it has always been done, and the honey is needed for the preserving in any case. The wax goes to the
   churches.
 - **Olives** on the lower slopes, for local use rather than export.
@@ -182,10 +182,10 @@ with the Order of the Burning Brand.
 
 ## Faith
 
-Provènzia is [[affiliation-arldnpnthn|Aurèldían]], and Zûravlen's devotion falls naturally to two of
+Provènzia is [[affiliation-arldnpnthn|Aurèldían]], and Zuravlèn's devotion falls naturally to two of
 the Twelve: [[affiliation-olvenia|Ólvenía]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
-[[affiliation-lizelas|Lîzêlâs]], the Nurturer, who owns the blossom and the vigil. The Zûravlen
+[[affiliation-lizelas|Lîzêlâs]], the Nurturer, who owns the blossom and the vigil. The Zuravlèn
 hold that the two goddesses divide the year between them, and that Ólvenía gets the credit for what
 Lîzêlâs saved.
 
@@ -200,17 +200,17 @@ inland.
   boats that are quietly undoing the drying yards.
 - [[place-palnebris|Palnebrìs]]—the great orchard manor of the upper terraces, and the richest and
   most anxious place in the barony.
-- [[place-blavera|Blavéra]]—a mixed manor of the valley floor: grain, fold and a little fruit.
-  The ordinary model, and the one most of Zûravlen actually resembles.
+- [[place-blavera|Blavèra]]—a mixed manor of the valley floor: grain, fold and a little fruit.
+  The ordinary model, and the one most of Zuravlèn actually resembles.
 - [[place-estivren|Estivren]]—the upland sheep manor, oldest of the three, poorest in coin and
   least interested in peaches.
 
-## Adventuring in Zûravlen
+## Adventuring in Zuravlèn
 
 The barony is small, rich, and utterly dependent on a crop that can be destroyed in one cold night—which makes it unusually easy to hurt and unusually worth hurting. Water-turns, folding rights,
 drying-yard shares, salt, the harbor cut and the grading table at Elthrembìs are all worth killing
 over on a small scale, and all of them are written down somewhere that could be altered. See
-[[scenario-pechszrvln|The Peaches of Zûravlen]].
+[[scenario-pechszrvln|The Peaches of Zuravlèn]].
 
 ## See Also
 

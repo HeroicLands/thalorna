@@ -1,9 +1,9 @@
 ---
 shortcode: kandrol
-name: {full: The Kandrol, aliases: [The Chartering of the Ordo Arcanis]}
+name: {full: The Kandrol, aliases: [The Chartering of the Thôrdimâlon]}
 type: lore
 subType: history
-description: "In 73 BF the surviving masters draft their own terms and the Senate takes them—the Ordo Arcanis chartered under the Kandrol, the Sekran constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
+description: "In 73 BF the surviving masters draft their own terms and the Senate takes them—the Thôrdimâlon chartered under the Kandrol, the Sekran constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,18 +13,18 @@ data:
       depth: world
       sources: [affiliation-ordoarcanis]
       summary: >-
-        The surviving masters—a few score, Helionite and Vylarian together—draft their own terms and the Senate takes them, because there is nobody else to ask. The Ordo Arcanis accepts the monopoly and its enforcement, registration of every talent, and war service on demand; in exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as men. The Sekran is constituted in the same instrument and a clause earlier, its first commission to establish what happened at Alyssa. The six Sodalitates begin as six sealed workshops rebuilding the burned corpus, one to each current, sealed from each other on the Sekran's order.
+        The surviving masters—a few score, Helionite and Vylarian together—draft their own terms and the Senate takes them, because there is nobody else to ask. The Thôrdimâlon accepts the monopoly and its enforcement, registration of every talent, and war service on demand; in exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as men. The Sekran is constituted in the same instrument and a clause earlier, its first commission to establish what happened at Alêssâ. The six Zûlêthâlâr begin as six sealed workshops rebuilding the burned corpus, one to each current, sealed from each other on the Sekran's order.
       standing: attested
       names:
         - name: the Kandrol
           by: affiliation-vylarinmpr
-          gloss: the instrument, which the Ordo reckons its foundation from
+          gloss: the instrument, which the Order reckons its foundation from
       where:
         locus: [place-vylariargn]
         reach:
           - place: place-helionis
             how: >-
-              the new body has authority and no right to hold property or teach in its own name outside Vylaria, so it never leaves the Epistemium, and the sign over every chapter house door is the Epistemium's because the legal right to the door is
+              the new body has authority and no right to hold property or teach in its own name outside Vylaria, so it never leaves the Epistémion, and the sign over every chapter house door is the Epistémion's because the legal right to the door is
             knowledge: named
           - place: place-midhalnrgn
             how: >-
@@ -52,31 +52,31 @@ data:
           withholds: what the Sekran's first clause is looking for, which is written nowhere in the file, and which of the drafters wrote the property clause
         - by: place-helionis
           says: >-
-            The founding date is debated, the Ordo's own records from the period being suspiciously incomplete.
+            The founding date is debated, the Order's own records from the period being suspiciously incomplete.
           agrees: disputes
         - by: affiliation-panepistmm
           says: >-
-            The Ordo technically remains the College of Arcane Philosophy to this day. In practice it controls the institution.
+            The Order technically remains the College of Arcane Philosophy to this day. In practice it controls the institution.
           agrees: partly
       unresolved:
         - what the Sekran's first commission is looking for, which its own founding file does not name
-        - why the Ordo's most absolute anathema is the binding of a soul, which it has never explained
+        - why the Order's most absolute anathema is the binding of a soul, which it has never explained
 ---
 
 A Senate that had just lost control of its own generals discovered it had also lost every man who
-could tell it whether [[lore-recensio|Alyssa]] would happen again. The survivors drafted their own
+could tell it whether [[lore-recensio|Alêssâ]] would happen again. The survivors drafted their own
 terms and the Senate took them.
 
-_The bargain is the Ordo's politics for the nearly eight centuries since._ It accepts the duties—the
+_The bargain is the Order's politics for the nearly eight centuries since._ It accepts the duties—the
 monopoly and its enforcement, mandatory registration of every talent, war service on demand—and in
 exchange holds its own property, elects its own head, tries its own members in its own court, and
 answers to the state as a body and never as men. It is a corporation chartered by a Republic that no longer exists, and every Ôrzâs since has inherited a
 privilege he did not grant and cannot withdraw.
 
-_Why it is still a college of the Panepistemium._ The Kandrol chartered the Ordo inside the
-Panepistemium, not beside it: on paper the Ordo Arcanis is the College of Arcane Philosophy within the Epistemium to this
-day, and the sign over every chapter-house door is the Epistemium's because the legal right to the
-door is. What the Lex took out of the Panepistemium's hands was the work. The philosophers would not
+_Why it is still a college of the Plûmepistémion._ The Kandrol chartered the Order inside the
+Plûmepistémion (the Academy of Knowledge), not beside it: on paper the Thôrdimâlon (the Arcane Order) is the College of Arcane Philosophy within the Epistémion (the Academy) to this
+day, and the sign over every chapter-house door is the Epistémion's because the legal right to the
+door is. What the Lex took out of the Plûmepistémion's hands was the work. The philosophers would not
 take it: the Kandrol requires registration, seizure and, in its fifth clause, killing, and the
 colleges of Ethics and Law would not put a federation's seal on it. And a conquered Helionite
 federation cannot hold an imperial police power—the Senate would not license a body seated in a
@@ -86,12 +86,12 @@ that neither has ever admitted to.
 
 _Why a college has an inquisition._ It does not. The inquisition has a college. The Sekran is
 constituted a clause earlier, and its commission is not the suppression of unsanctioned magic—that
-is its second clause. Its first is to establish what happened at Alyssa and who did it, and it has
+is its second clause. Its first is to establish what happened at Alêssâ and who did it, and it has
 never been closed. The enforcement remit is the inquiry's corollary: the founding working theory is
 that the release was set by a hand not on the register, so every hand not on the register is
 doctrinally a party to a crime nearly eight centuries old.
 
-_Why the Sodalitates are six and are by element._ The corpus had burned, and what could be recovered
+_Why the Zûlêthâlâr are six and are by element._ The corpus had burned, and what could be recovered
 was what living masters could write back down. A master reliably reconstructs only the work of the
 current he has internalized, so the salvage was run as six sealed workshops, one to each current,
 sealed from one another because the inquiry could not rule out that the release had been set from

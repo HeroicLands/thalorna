@@ -84,7 +84,7 @@ _Gloss._ The master of a household answers at law for everyone under his roof: w
 
 **13. A hand that cannot answer cannot hold.**
 
-_Gloss._ A guardian who wastes a ward's estate loses the ward. The province of Hylen keeps a case on this rule that the schools teach as its proof, in which a widow took her son's guardianship from his uncle by sitting at a patron's door until she was heard.
+_Gloss._ A guardian who wastes a ward's estate loses the ward. The province of Hilen keeps a case on this rule that the schools teach as its proof, in which a widow took her son's guardianship from his uncle by sitting at a patron's door until she was heard.
 
 **14. The hand opens once.**
 
@@ -149,6 +149,6 @@ _Another master._ The rule itself was written before the fire, and is known only
 - [[lore-archivefire|The Archive Fire]]—the fire the books did not survive
 - [[lore-vylarirpbl|The Vylarian Republic]]—the courts and the roll the jurist served
 - [[affiliation-imprlscrblgld|Imperial Scribal Guild]]—the keepers of everything written after the fire
-- [[lore-maskspraise|The Praise of the Masks]]—the widow of Hylen and the guardianship the gloss cites
+- [[lore-maskspraise|The Praise of the Masks]]—the widow of Hilen and the guardianship the gloss cites
 - [[skill-vylarilng|Vylari]]—the reported construction and the distance it keeps
 - [[lore-vylarianclt|Vylarian]]—the record, the hand and the name

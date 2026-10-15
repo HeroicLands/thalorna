@@ -27,7 +27,7 @@ southern Provènzia's business is actually settled, over dinners, well away from
 
 The other life is quieter and older. Palvòthe is the last place with an inn, a market and a road
 before the Thúravel Hills, and everyone going into that country outfits here: shepherds, foresters,
-and—increasingly—scholars, antiquarians and agents of the [[affiliation-ordoarcanis|Ordo Arcanis]]
+and—increasingly—scholars, antiquarians and agents of the [[affiliation-ordoarcanis|Thôrdimâlon]]
 looking for the [[place-shrinethuravelhills|shrine]].
 
 The townspeople take their money and give directions of a quality that varies with how the visitor has

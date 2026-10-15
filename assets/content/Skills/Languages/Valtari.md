@@ -249,7 +249,7 @@ Valtári is **rarely written**. When it is, speakers employ:
 
 - **[[skill-merazanscrpt|Merâzan]] letters**: Common in southern ports and Tarûzeli-dominated cities
 - **[[skill-helnkscrpt|Helónika]] letters**: Used in northern ports and Helonic trading centers
-- **[[skill-semrnscrpt|Sêmarion]] letters**: Used in Vylarian and Aurèldían harbors, and by any factor with an imperial education
+- **[[skill-semrnscrpt|Sêmarôn]] letters**: Used in Vylarian and Aurèldían harbors, and by any factor with an imperial education
 - **Improvisational symbols**: Abbreviated marks and hastily invented notation for quick transaction records
 
 There is **no standardized Valtári orthography**. A word like _kiromu_ might be written as _kiromu_, _kyromu_, _chiromu_, or _kiromou_ depending on the scribe's native language and knowledge. This orthographic chaos reflects Valtári's nature: a language of the moment, not preserved in books.

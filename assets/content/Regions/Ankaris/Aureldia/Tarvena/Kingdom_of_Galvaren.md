@@ -130,7 +130,7 @@ The Kingdom of Galváren holds the land of [[place-galvaren|Galváren]]. The Gal
 
 ## Character
 
-Where [[affiliation-kngdmstrth|Astúrath]] looks inward to its mountains and [[affiliation-kingdmlnrk|Léonrik]] to its fields, Galváren looks outward to the sea. Galváreni sailors are legendarily fearless—or foolhardy, depending on who you ask—and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
+Where [[affiliation-kngdmstrth|Astúrath]] looks inward to its mountains and [[affiliation-kingdmlnrk|Liénrik]] to its fields, Galváren looks outward to the sea. Galváreni sailors are legendarily fearless—or foolhardy, depending on who you ask—and the kingdom produces a disproportionate number of the navigators, sea captains, and explorers who push the boundaries of the known world.
 
 The kingdom has a distinctive folk culture that blends mainstream Tarvénan warrior traditions with something older and stranger. The western coast is littered with ancient stone circles, standing stones, and passage graves that predate the Tarvéni migration, and the local people maintain a complex body of folk belief about the spirits of the dead, the sea, and the liminal places where the mortal world thins. Ghost stories, fairy tales, and tales of drowned cities are taken more seriously here than in the rest of Tarvénia. The [[affiliation-arldnpnthn|Aurèldían]] priests tolerate these folk traditions with varying degrees of patience.
 
@@ -145,5 +145,5 @@ Kingdom of Galváren uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ar
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
 - [[place-galvaren|Galváren]]—The land the kingdom holds
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—Sister kingdoms
+- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—Sister kingdoms
 - [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan regions

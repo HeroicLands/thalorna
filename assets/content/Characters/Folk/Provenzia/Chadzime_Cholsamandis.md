@@ -3,7 +3,7 @@ shortcode: chadzimechol
 name: {full: Chadzìme Cholsamandìs, aliases: [Merchant-Prince Chadzìme Cholsamandìs]}
 type: being
 subType: npc
-description: A wealthy merchant who profits considerably from the wine and luxury goods trade, named in Kêlena Stýlgon.
+description: A wealthy merchant who profits considerably from the wine and luxury goods trade, named in Kêlena Estilgòn.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Chadzìme Cholsamandìs is a 60-year-old man who stands 6'0" tall with a light b
 
 # Dossier {#dossier}
 
-Chadzìme Cholsamandìs is a wealthy merchant who profits considerably from the wine and luxury goods trade. He views [[being-kelnstylgn|Kêlena Stýlgon]] as an investment and a source of status in high society, giving her gifts and access to merchant circles in exchange for her presence at his events.
+Chadzìme Cholsamandìs is a wealthy merchant who profits considerably from the wine and luxury goods trade. He views [[being-kelnstylgn|Kêlena Estilgòn]] as an investment and a source of status in high society, giving her gifts and access to merchant circles in exchange for her presence at his events.

@@ -8,7 +8,7 @@ data: {banner: null}
 # terran_analog: Áelendi is patterned on a conservative mountain branch of a family whose lowland daughters changed fast, with a deep layer of borrowings from a neighbor it shares nothing else with, in the way the Celtic tongues of the uplands kept old sounds and took words from their neighbors. Every inherited word is derived by the tables below from an ancient Vylari root, and every loan from a row of the Sinalë lexicon; none is checked by eye alone, and every word is checked against Earth word lists.
 ---
 
-At a gathering in [[place-eshalshldg|Eshálosha]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinalë, and the Áelendan count them as their own.
+At a gathering in [[place-eshalshldg|Ésalosa]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinalë, and the Áelendan count them as their own.
 
 This is the word-hoard of [[skill-aelendlng|Áelendi]], the tongue of the [[lore-aelendnppl|Áelendan]]. It is the daughter of ancient Vylari that left first and changed least: it still says the clicked stops the empire's speech gave up, and it lost only the sounds made with the lips. It is also the only daughter that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinalë]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. The tables give every word with its source, the rules that turn an ancient word or a Sinalë one into Áelendi, and the pieces the names are built from.
 
@@ -74,7 +74,7 @@ The ancient tongue had a fourth gender for the gods and what was hallowed. Áele
 
 ## Sounds and spelling
 
-Áelendi is written in these pages in the romanization the Ordo's scholars use, which follows the Áelendan scribes' own marks. One mark stands on the first vowel of a word of two syllables or more, because the stress always falls there: an acute where that vowel is short, a circumflex where it is long. A long vowel keeps its circumflex in the first syllable of a word of one syllable too. Nothing marks any later vowel, because no later vowel is long.
+Áelendi is written in these pages in the romanization the Arcane Order's scholars use, which follows the Áelendan scribes' own marks. One mark stands on the first vowel of a word of two syllables or more, because the stress always falls there: an acute where that vowel is short, a circumflex where it is long. A long vowel keeps its circumflex in the first syllable of a word of one syllable too. Nothing marks any later vowel, because no later vowel is long.
 
 ### Letters
 
@@ -510,7 +510,7 @@ The grassland people had a word for a wood and not much more, and the Áelendan 
 
 Nearly every word here is Sinalë, and the Áelendan do not count a single one of them as foreign. The lore of the veil came with the keeping of the wood, and a thing that is kept is part of the people that keeps it. _Áudhi_ is the veil, _sírnasto_ a thin place where it wears, and _órthi_ a ward. The fae themselves are _pénallanu_, one at a time; the tongue has a plural for them and the highlands do not say it.
 
-The art the empire calls magic is _símme_ here, the Sinalë word, and the Áelendi words for it share nothing with the [[affiliation-ordoarcanis|Ordo Arcanis]]'s. The Ordo's scholars, who come up the valleys to study what the tribes exist to keep, have never been taught these words, and this is the field they most want.
+The art the empire calls magic is _símme_ here, the Sinalë word, and the Áelendi words for it share nothing with the [[affiliation-ordoarcanis|Thôrdimâlon]]'s. The Arcane Order's scholars, who come up the valleys to study what the tribes exist to keep, have never been taught these words, and this is the field they most want.
 
 | Form            | Source                 | Class | Gloss                                                                                               | Built from          | Attested |
 | --------------- | ---------------------- | ----- | --------------------------------------------------------------------------------------------------- | ------------------- | -------- |
@@ -567,7 +567,7 @@ A rite is done the way the Sinalë showed it, so its words are theirs, and the b
 
 The Kindred Pact lives in the mouth, and the people who carry it are the Tradition Keepers, the _lôresand_: the word the empire uses for a lecturer at its University, and which here means a reciter, one who says the old words aloud at the gathering exactly as they were said to him. To recite is _lôresathen_; an account of what was done, which in the empire is a history book, is _ôldhemon_, a recitation that is never written down.
 
-Letters are a borrowing, and late. The Áelendan cut a few words in [[skill-thrvrdhscrpt|Thúravardh]], their own rune-row, and a stave of it is _sêmarson_, the word the empire uses for one letter of its script. What they write with ink they write in the Sinalë hand, the [[skill-clthndscrpt|Veldirno]], which they call _példirno_; its scribe is _példinno_, and a roll of names kept in it _sírnerno_. These words came with the hand, a band of loans later than the rest.
+Letters are a borrowing, and late. The Áelendan cut a few words in [[skill-thrvrdhscrpt|Thúrarth]], their own rune-row, and a stave of it is _sêmarson_, the word the empire uses for one letter of its script. What they write with ink they write in the Sinalë hand, the [[skill-clthndscrpt|Veldirno]], which they call _példirno_; its scribe is _példinno_, and a roll of names kept in it _sírnerno_. These words came with the hand, a band of loans later than the rest.
 
 | Form           | Source               | Class | Gloss                                                                    | Built from | Attested |
 | -------------- | -------------------- | ----- | ------------------------------------------------------------------------ | ---------- | -------- |
@@ -669,7 +669,7 @@ The verbs are almost all inherited, and every inherited verb closes on the old i
 
 ### Numbers and grammar words
 
-The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. A few of them have worn further than the changes alone would take them, and these are marked as worn, with the ancient form they come from. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of Alyssa.
+The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. A few of them have worn further than the changes alone would take them, and these are marked as worn, with the ancient form they come from. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of Alêssâ.
 
 | Form       | Source          | Class | Gloss                                 | Built from | Attested |
 | ---------- | --------------- | ----- | ------------------------------------- | ---------- | -------- |
@@ -717,16 +717,23 @@ Every name in the scope of the Áelendi tongue—the Áelendan, their spirits an
 | **Warden**                                | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
 | **Elder Warden**                          | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
 | **Runner**                                | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
-| **Sálenda of the Long Stair**             | [[lore-salendaspr\|Sálenda of the Long Stair]]            | `aelendi`     | —          |
-| **Úrnel, the Bear of the High Corries**   | [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]    | `aelendi`     | —          |
-| **Gílpand, the West Wind**                | [[lore-gilpandspr\|Gílpand, the West Wind]]               | `aelendi`     | —          |
-| **Pórsand, the Grey Wolf of the Ridge**   | [[lore-porsandspr\|Pórsand, the Grey Wolf of the Ridge]]  | `aelendi`     | —          |
-| **Tîpel, the Hawk of the Spine**          | [[lore-tipelspr\|Tîpel, the Hawk of the Spine]]           | `aelendi`     | —          |
-| **Óssenda, the White Owl of the Hollow**  | [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]] | `aelendi`     | —          |
-| **Kíltas, the Red Fox of the Lower Wood** | [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]] | `aelendi`     | —          |
-| **T'éna, the Hearth of Eshálosha**        | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]          | `aelendi`     | —          |
-| **The Hearth**                            | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]          | `translation` | —          |
-| **T'éna**                                 | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]          | `aelendi`     | —          |
+| **Sálenda of the Long Stair**             | [[lore-salendaspr\|Sálenda of the Long Stair]]            | `translation` | —          |
+| **Sálenda**                               | [[lore-salendaspr\|Sálenda of the Long Stair]]            | `aelendi`     | —          |
+| **Úrnel, the Bear of the High Corries**   | [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]    | `translation` | —          |
+| **Úrnel**                                 | [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]    | `aelendi`     | —          |
+| **Gíldand, the West Wind**                | [[lore-gilpandspr\|Gíldand, the West Wind]]               | `translation` | —          |
+| **Gíldand**                               | [[lore-gilpandspr\|Gíldand, the West Wind]]               | `aelendi`     | —          |
+| **Kórsand, the Grey Wolf of the Ridge**   | [[lore-porsandspr\|Kórsand, the Grey Wolf of the Ridge]]  | `translation` | —          |
+| **Kórsand**                               | [[lore-porsandspr\|Kórsand, the Grey Wolf of the Ridge]]  | `aelendi`     | —          |
+| **Tîmel, the Hawk of the Spine**          | [[lore-tipelspr\|Tîmel, the Hawk of the Spine]]           | `translation` | —          |
+| **Tîmel**                                 | [[lore-tipelspr\|Tîmel, the Hawk of the Spine]]           | `aelendi`     | —          |
+| **Óssenda, the White Owl of the Hollow**  | [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]] | `translation` | —          |
+| **Óssenda**                               | [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]] | `aelendi`     | —          |
+| **Kíltas, the Red Fox of the Lower Wood** | [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]] | `translation` | —          |
+| **Kíltas**                                | [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]] | `aelendi`     | —          |
+| **T'éna, the Hearth of Ésalosa**          | [[lore-tenaspr\|T'éna, the Hearth of Ésalosa]]            | `translation` | —          |
+| **The Hearth**                            | [[lore-tenaspr\|T'éna, the Hearth of Ésalosa]]            | `translation` | —          |
+| **T'éna**                                 | [[lore-tenaspr\|T'éna, the Hearth of Ésalosa]]            | `aelendi`     | —          |
 | **The Ûron Tékhi**                        | [[lore-uronspr\|The Ûron Tékhi]]                          | `aelendi`     | —          |
 | **Áelendan People**                       | [[lore-aelendnppl\|Áelendan People]]                      | `translation` | —          |
 | **People of the Pact**                    | [[lore-aelendnppl\|Áelendan People]]                      | `translation` | —          |
@@ -734,18 +741,18 @@ Every name in the scope of the Áelendi tongue—the Áelendan, their spirits an
 | **Tribal Lands**                          | [[place-alndntrblnds\|Áelendan Tribal Lands]]             | `translation` | —          |
 | **The Interior**                          | [[place-alndntrblnds\|Áelendan Tribal Lands]]             | `translation` | —          |
 | **The Drenavar Spine**                    | [[place-drenavrspn\|The Drenavar Spine]]                  | `translation` | —          |
-| **The Drenavar**                          | [[place-drenavrspn\|The Drenavar Spine]]                  | `aelendi`     | —          |
+| **The Drenavar**                          | [[place-drenavrspn\|The Drenavar Spine]]                  | `translation` | —          |
 | **Drenavar Mountains**                    | [[place-drenavrspn\|The Drenavar Spine]]                  | `translation` | —          |
-| **Eshálosha Lodge**                       | [[place-eshalshldg\|Eshálosha Lodge]]                     | `translation` | —          |
-| **Eshálosha**                             | [[place-eshalshldg\|Eshálosha Lodge]]                     | `aelendi`     | —          |
+| **Ésalosa Lodge**                         | [[place-eshalshldg\|Ésalosa Lodge]]                       | `translation` | —          |
+| **Ésalosa**                               | [[place-eshalshldg\|Ésalosa Lodge]]                       | `aelendi`     | —          |
 | **The Long Stair**                        | [[place-longstair\|The Long Stair]]                       | `translation` | —          |
 | **Sálenda's Stair**                       | [[place-longstair\|The Long Stair]]                       | `translation` | —          |
 | **The Owl Hollow**                        | [[place-owlhollow\|The Owl Hollow]]                       | `translation` | —          |
 | **Óssenda's Hollow**                      | [[place-owlhollow\|The Owl Hollow]]                       | `translation` | —          |
 | **Áelendi Language**                      | [[skill-aelendlng\|Áelendi Language]]                     | `translation` | —          |
 | **Áelendi**                               | [[skill-aelendlng\|Áelendi Language]]                     | `aelendi`     | —          |
-| **Thúravardh Script**                     | [[skill-thrvrdhscrpt\|Thúravardh Script]]                 | `translation` | —          |
-| **Thúravardh**                            | [[skill-thrvrdhscrpt\|Thúravardh Script]]                 | `aelendi`     | —          |
+| **Thúrarth Script**                       | [[skill-thrvrdhscrpt\|Thúrarth Script]]                   | `translation` | —          |
+| **Thúrarth**                              | [[skill-thrvrdhscrpt\|Thúrarth Script]]                   | `aelendi`     | —          |
 | **Dhárgan**                               | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
 | **Néla**                                  | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
 | **Sîlor**                                 | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
@@ -769,9 +776,9 @@ A retired name is one the setting does not write. Each stands below with the nam
 | ------------------- | --------------- | -------------------------------------------------- |
 | `Aranwy`            | `Sálenda`       | a name borrowed from an Earth tongue               |
 | `Arthgen`           | `Úrnel`         | a name borrowed from an Earth tongue               |
-| `Awelon`            | `Gílpand`       | a name borrowed from an Earth tongue               |
-| `Cadwyr`            | `Pórsand`       | a name borrowed from an Earth tongue               |
-| `Gwalchen`          | `Tîpel`         | a name borrowed from an Earth tongue               |
+| `Awelon`            | `Gíldand`       | a name borrowed from an Earth tongue               |
+| `Cadwyr`            | `Kórsand`       | a name borrowed from an Earth tongue               |
+| `Gwalchen`          | `Tîmel`         | a name borrowed from an Earth tongue               |
 | `Nyfain`            | `Óssenda`       | a name borrowed from an Earth tongue               |
 | `Rhysgen`           | `Kíltas`        | a name borrowed from an Earth tongue               |
 | `Tanwen`            | `T'éna`         | a name borrowed from an Earth tongue               |
@@ -780,3 +787,8 @@ A retired name is one the setting does not write. Each stands below with the nam
 | `Wyrd`              | `Tékhi`         | a name borrowed from an Earth tongue               |
 | `wyrd`              | `nelth`         | an Earth word; the Nordmal word is written instead |
 | `Ceridwen's Hollow` | `Kélpasi`       | a name borrowed from an Earth tongue               |
+| `Gílpand`           | `Gíldand`       | a name with a lip sound the tongue does not make   |
+| `Pórsand`           | `Kórsand`       | a name with a lip sound the tongue does not make   |
+| `Tîpel`             | `Tîmel`         | a name with a lip sound the tongue does not make   |
+| `Eshálosha`         | `Ésalosa`       | a name with a letter and a stress the tongue lacks |
+| `Thúravardh`        | `Thúrarth`      | a name with a lip sound the tongue does not make   |

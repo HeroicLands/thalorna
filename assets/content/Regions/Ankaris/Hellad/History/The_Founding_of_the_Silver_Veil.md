@@ -3,7 +3,7 @@ shortcode: heladsilverveil
 name: {full: The Founding of the Silver Veil, aliases: [The First Rule of Kalydria]}
 type: lore
 subType: history
-description: "About 260 BF, half a century after the conquest, the patron families of Kalydria found an academy to train companions in music, philosophy, rhetoric and the social arts for the households of Vylarian governors and senators, on the principle that a city that could not keep its freedom by arms would keep it by conversation."
+description: "About 260 BF, half a century after the conquest, the patron families of Kalydria found an academy to train companions in music, philosophy, rhetoric and the social arts for the households of Vylarian thêrkhoi and kurthândoi, on the principle that a city that could not keep its freedom by arms would keep it by conversation."
 tags: [history, hellad, provinceage]
 data:
   packFolder: helionis
@@ -13,7 +13,7 @@ data:
       depth: region
       sources: [place-helionis, affiliation-kalydria, place-kalydria2, affiliation-velvethand]
       summary: >-
-        Half a century after the conquest, the patron families of Kalydria found an academy to train companions in music, philosophy, rhetoric and the social arts for the households of Vylarian governors and senators. The founder, Lékhisîra Kálîdês, states the purpose in the Academy's first rule: the city could not keep its freedom by arms and would keep it by conversation.
+        Half a century after the conquest, the patron families of Kalydria found an academy to train companions in music, philosophy, rhetoric and the social arts for the households of Vylarian thêrkhoi and kurthândoi. The founder, Lékhisîra Kálîdês, states the purpose in the Academy's first rule: the city could not keep its freedom by arms and would keep it by conversation.
       standing: attested
       names: [{name: the First Rule, by: affiliation-kalydria}]
       where:
@@ -45,9 +45,9 @@ A graduate of the Academy of the Silver Veil asked why Kalydria teaches its daug
 
 ## The Founding
 
-By about 260 BF the war was fifty years over. Kalydria had come under the Republic with the rest of Heliónis, and it kept its council, its theaters and its patron families. What it did not keep was any influence over the men who now governed Heliónis from the Republic's seat. The governors and the senators who came to the province were not educated men, and their households were not educated households. The patron families saw that whoever taught those households would be heard in the Senate.
+By about 260 BF the war was fifty years over. Kalydria had come under the Republic with the rest of Heliónis, and it kept its council, its theaters and its patron families. What it did not keep was any influence over the men who now governed Heliónis from the Republic's seat. The _thêrkhoi_ (governors) and the _kurthândoi_ (senators) who came to the province were not educated men, and their households were not educated households. The patron families saw that whoever taught those households would be heard in the Senate.
 
-**Lékhisîra Kálîdês**, of a patron family, founded the Academy to do the teaching. She took girls from the city's best houses and trained them in music, philosophy, rhetoric and the social arts, and she placed them as companions in the households of governors and senators. Each was educated to be better company than anyone else in the house.
+**Lékhisîra Kálîdês**, of a patron family, founded the Academy to do the teaching. She took girls from the city's best houses and trained them in music, philosophy, rhetoric and the social arts, and she placed them as companions in the households of _thêrkhoi_ and _kurthândoi_. Each was educated to be better company than anyone else in the house.
 
 ## The First Rule
 

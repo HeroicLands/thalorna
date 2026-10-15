@@ -3,7 +3,7 @@ shortcode: heladcitadel
 name: {full: The Siege of the Silver Citadel, aliases: [The Two Winters]}
 type: lore
 subType: history
-description: "From about 212 to about 214 AF the pass-city of Argýrteíkhos holds for two years against the legions under Mathirkâr Gheraníkot, fed by its mines' tunnels after the road is cut, and surrenders on terms that leave it its walls, its own garrison and a seat beside an imperial prefect."
+description: "From about 212 to about 214 AF the pass-city of Argýrteíkhos holds for two years against the legions under Mathirkâr Gheraníkot, fed by its mines' tunnels after the road is cut, and surrenders on terms that leave it its walls, its own garrison and a seat beside an imperial ûsândôs."
 tags: [history, hellad, peaceage]
 data:
   packFolder: byzaria
@@ -18,7 +18,7 @@ data:
         - place-eastrnmrch
         - affiliation-vylarinmpr
       summary: >-
-        The pass-city holds for two years under Mathirkâr Gheraníkot, fed by its mines' tunnels after the road is cut. It surrenders on terms: the city keeps its walls and its own garrison under an imperial prefect of the pass, who sits with the city council. The prefect's office survives the Empire as the military governor's seat on the League council.
+        The pass-city holds for two years under Mathirkâr Gheraníkot, fed by its mines' tunnels after the road is cut. It surrenders on terms: the city keeps its walls and its own garrison under an imperial ûsândôs of the pass, who sits with the city council. The ûsândôs's office survives the Empire as the military governor's seat on the League council.
       standing: attested
       names:
         - {name: the Two Winters, by: affiliation-argyrteikhos}
@@ -63,7 +63,7 @@ When the legions came over the pass the commander of the citadel, **Mathirkâr G
 
 ## The Terms
 
-The Citadel surrendered on terms. The city kept its walls and its own garrison, and the Empire placed over it an imperial prefect of the pass, who sat with the city council and spoke for the Ôrzâs. The prefect's office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the League beside the merchant-princes.
+The Citadel surrendered on terms. The city kept its walls and its own garrison, and the Empire placed over it an imperial _ûsândôs_ (prefect) of the pass, who sat with the city council and spoke for the Ôrzâs. The _ûsândôs_'s office outlasted the Empire's rule: when the legions marched away it became the **military governor**, and the governor sits to this day on the council of the League beside the merchant-princes.
 
 ## What the Siege Left
 

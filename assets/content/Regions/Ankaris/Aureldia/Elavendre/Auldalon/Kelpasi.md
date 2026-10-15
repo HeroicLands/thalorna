@@ -20,7 +20,7 @@ the same period. Kélpasi has been reached twice in three hundred years, and bot
 talked about.
 
 The consequence is a village that is old, continuous and unusually intact—its families, its customs
-and its memory all older than the walls of [[place-valdun|Valdûn]].
+and its memory all older than the walls of [[place-valdun|Váldun]].
 
 ## The Observances
 
@@ -35,9 +35,9 @@ older acquaintance than either side discusses.
 ## Life
 
 Sheep, ponies, oats and barley on the valley floor, charcoal off the slopes, and a great deal of
-weaving through the winter. Kélpasi's cloth is good and reaches Valdûn's fairs under other people's
+weaving through the winter. Kélpasi's cloth is good and reaches Váldun's fairs under other people's
 names.
 
 ## See Also
 
-- [[place-auldalon|Áuldalon]] · [[place-valdun|Valdûn]]
+- [[place-auldalon|Áuldalon]] · [[place-valdun|Váldun]]

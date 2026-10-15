@@ -16,11 +16,11 @@ data:
 
 **Hárivren** is the great city of Provènzia's **western march**—inland, on the river that gathers the
 coastal valleys before they run down to the sea, at the point where the roads out of
-[[place-zuravlenrgn|Zûravlen]] and the northern coast meet the highway south.
+[[place-zuravlenrgn|Zuravlèn]] and the northern coast meet the highway south.
 
 It is not a port and never has been; the western coast has almost no harbors worth the name. What
 Hárivren has instead is _convergence_. Everything the west produces—wool, salt-fish, timber, hides,
-and the fruit and wine of the Zûravlen valley—is carried inland to Hárivren, sorted, taxed and sold
+and the fruit and wine of the Zuravlèn valley—is carried inland to Hárivren, sorted, taxed and sold
 there, and goes south from there to the rich Vylarian coast. Some thirty-four thousand people live on
 the proceeds.
 
@@ -32,7 +32,7 @@ still follow the line the first ones did.
 
 Hárivren is the seat of **Avaârl alrí Zylávren, Earl of Hárivren**, who holds the western march for the
 Crown and commands great respect and considerable power. Among his vassals is **Álegar alrí Zûravel**,
-Baron of Zûravlen and [[place-kyvarel|Kývarel]]; the fruit and wine that make Zûravlen famous pass through Avaârl's city
+Baron of Zuravlèn and [[place-kyvarel|Kivarèl]]; the fruit and wine that make Zuravlèn famous pass through Avaârl's city
 and pay his tolls.
 
 He is also **the most senior noble of the [[affiliation-blackflame|Black Flame]] in Provènzia**, and he
@@ -62,7 +62,7 @@ greatest festival of martial prowess and athletic excellence, drawing competitor
 across Provènzia and well beyond it.
 
 For the months around the Games the city triples. Nobles negotiate alliances, debts and revenge in the
-open; enormous sums are wagered; the [[affiliation-ordoarcanis|Ordo Arcanis]] keeps an official
+open; enormous sums are wagered; the [[affiliation-ordoarcanis|Thôrdimâlon]] keeps an official
 presence to watch for magical interference, and finds enough of it to justify returning. Rumors of
 poison and arranged defeat circulate every cycle and are occasionally true.
 
@@ -72,5 +72,5 @@ generations—are the subject of a complaint the Sacred Forge renews every five 
 
 ## See Also
 
-- [[place-zuravlenrgn|Zûravlen Region]] · [[place-provenzrgn|Provènzia Region]]
+- [[place-zuravlenrgn|Zuravlèn Region]] · [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-blackflame|The Black Flame]] · [[scenario-prvnzngrndgms|The Provenzian Grand Games]]

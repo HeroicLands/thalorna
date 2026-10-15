@@ -56,7 +56,7 @@ The party must gather information about the ghost ships' identities and origins:
 - Investigate the locations and patterns of appearances (do they follow routes, circle areas, seek ports?)
 - Determine if there's a connection between the ships (same era, same fate, same crew)
 - Uncover if someone recently disturbed a graveyard, tomb, or wreck (triggering the haunting)
-- Check whether the [[affiliation-ordoarcanis|Ordo Arcanis]] or a practitioner of dark magic is involved
+- Check whether the [[affiliation-ordoarcanis|Thôrdimâlon]] or a practitioner of dark magic is involved
 
 **Complications:**
 
@@ -95,7 +95,7 @@ The party discovers the ghost ships' origin and nature:
 - **Deliberate Curse:** Someone cursed the ships and crews, either recently or long ago, for a specific purpose
 - **Magical Accident:** An arcane experiment or spell gone wrong awakened or created the ghost ships
 - **Fae Entanglement:** The ships are trapped between worlds due to fae manipulation or interference
-- **The Ordo Arcanis Involvement:** The organization deliberately created or summoned the ships to achieve a goal
+- **The Thôrdimâlon Involvement:** The organization deliberately created or summoned the ships to achieve a goal
 
 **What the Ghosts Seek:**
 
@@ -159,7 +159,7 @@ The party must decide how to address the ghost ships. Options include:
 - Not all ghosts are appeased; some may continue to haunt specific locations
 - The party may be bound by oath to fulfill the ghosts' final wishes
 - The ghost ships' origins reveal larger historical or political secrets
-- If the [[affiliation-ordoarcanis|Ordo Arcanis]] was involved, they may seek to continue their work or eliminate the party
+- If the [[affiliation-ordoarcanis|Thôrdimâlon]] was involved, they may seek to continue their work or eliminate the party
 
 **If the party fails:**
 
@@ -173,5 +173,5 @@ The party must decide how to address the ghost ships. Options include:
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
 - [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Ordo Arcanis]]
+- [[affiliation-ordoarcanis|Thôrdimâlon]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]
