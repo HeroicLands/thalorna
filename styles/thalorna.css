@@ -47,3 +47,14 @@
     text-underline-offset: 0.15em;
     cursor: help;
 }
+
+/*
+ * A name the text marks as one, written `[Ravenmoor]{.name}` in a note.
+ *
+ * Scoped to journal page text inside a sheet the module script marks as this
+ * module's (`.thalorna`): Foundry's own interface and the system's sheets use
+ * `.name` for their own elements, and they keep their styling.
+ */
+.thalorna .journal-page-content .name {
+    font-weight: var(--thalorna-name-weight, 700);
+}

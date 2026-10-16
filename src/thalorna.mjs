@@ -16,8 +16,10 @@
  *
  * This module is almost entirely content: its packs are compiled from
  * `assets/content/` at build time and Foundry loads them from `module.json`
- * without any code running. The one thing code does is offer the Common
- * Calendar to a world that has no calendar of its own.
+ * without any code running. Code does two things: it offers the Common
+ * Calendar to a world that has no calendar of its own, and it marks the sheet
+ * of every document from this module with the `thalorna` class, so
+ * `styles/thalorna.css` styles that document's text and nothing else.
  *
  * It is deliberately usable **without** Song of Heroic Lands. The Item and
  * Actor packs are system-specific and Foundry hides them outside SoHL, but the
@@ -61,4 +63,24 @@ Hooks.once("init", () => {
     }
     CONFIG.time.worldCalendarConfig = worldCalendar;
     console.log(`${MODULE_ID} | world calendar set to ${worldCalendar.name}`);
+});
+
+/**
+ * Whether a document comes from this module: it sits in one of the module's
+ * compendiums, or it was imported from one, which Foundry records as the
+ * compendium source. An embedded document follows the document that holds it.
+ *
+ * @param {foundry.abstract.Document|undefined} document
+ * @returns {boolean}
+ */
+function fromThisModule(document) {
+    const root = document?.parent ?? document;
+    if (!root) return false;
+    if (root.pack?.startsWith(`${MODULE_ID}.`)) return true;
+    return root._stats?.compendiumSource?.startsWith(`Compendium.${MODULE_ID}.`) ?? false;
+}
+
+// Every document sheet, of any type and any system, fires this hook on render.
+Hooks.on("renderDocumentSheetV2", (application, element) => {
+    if (fromThisModule(application.document)) element.classList.add(MODULE_ID);
 });
