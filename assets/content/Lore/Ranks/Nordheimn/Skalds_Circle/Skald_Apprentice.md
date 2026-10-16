@@ -1,6 +1,6 @@
 ---
 shortcode: skaldapprntrnk
-name: {full: "Apprentice", aliases: []}
+name: {full: "Geldrir", aliases: []}
 type: lore
 subType: law
 description: "A master's pupil for ten to fifteen years, entitled to present a geldra, in the Skalds' Circle."

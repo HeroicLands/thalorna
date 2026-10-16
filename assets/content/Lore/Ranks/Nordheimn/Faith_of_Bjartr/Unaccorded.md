@@ -1,6 +1,6 @@
 ---
 shortcode: unaccordedrnk
-name: {full: "Unaccorded", aliases: []}
+name: {full: "Hluskmadr", aliases: []}
 type: lore
 subType: law
 description: "Withheld the Aulirarno's accord, in the faith of Bjart."

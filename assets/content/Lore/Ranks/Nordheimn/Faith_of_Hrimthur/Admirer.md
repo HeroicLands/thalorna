@@ -1,6 +1,6 @@
 ---
 shortcode: admirerrnk
-name: {full: "Admirer", aliases: []}
+name: {full: "Draskmadr", aliases: []}
 type: lore
 subType: law
 description: "Holds Hrimthur's work in awe without attaching to any faction, in the faith of Hrimthur."

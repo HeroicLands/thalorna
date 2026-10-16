@@ -109,6 +109,11 @@ confers, since ranks read in the reader's tongue as bynames do. A title changes
 where it names the wrong kind of standing, where it is out of its period, or
 where the culture's own notes already name the standing natively.
 
+A rank note's full name is never a bare common English word such as _King_ or
+_Thrall_: a bold use of that word anywhere in the setting would match it. The
+note takes the culture's own word, entered in that language's dictionary, and
+the English word stays in its description.
+
 ## Aliases
 
 An alias is an explanatory phrase or a genuine other name: an exonym, a folk
@@ -126,6 +131,12 @@ of` or `Ritual:`, keeps the bare name as an alias because the printed index
   files a note only under the first word of its full name.
 - A former name is not an alias. A note answers to its current name; renames
   are recorded in the concordance and in git, and links resolve by address.
+
+## Demonyms
+
+A people's adjective or demonym, such as _Vylarian_, _Vedyari_ or _Helionite_, is
+an ordinary word, not a name. It is never marked as a name, and nothing requires
+it to be linked; link it to its culture note only where that helps a reader.
 
 ## Rank-note scope
 

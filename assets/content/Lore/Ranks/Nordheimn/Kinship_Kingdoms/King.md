@@ -1,6 +1,6 @@
 ---
 shortcode: konungrnk
-name: {full: "King", aliases: []}
+name: {full: "Hringsveld", aliases: []}
 type: lore
 subType: law
 description: "The sovereign, chosen from the royal clans and acclaimed at the ting, in the five kingdoms."
