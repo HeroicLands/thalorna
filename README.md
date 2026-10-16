@@ -20,6 +20,11 @@ assembled package holds only what current sources produce; a renamed or deleted
 asset leaves nothing behind. The individual `build:*` commands write into the
 stage as it stands.
 
+`npm run build:db` fetches dependencies, builds the content index, calendars and
+assets, then runs frontmatter validation, link checks and pack compilation in
+one content session. `npm run build:content` runs that session with the prepared
+inputs; `lint:addresses` and `lint:content-links` run either check independently.
+
 A plain checkout is all that is needed. There is no sibling repository to clone
 and no `HEROICLANDS_VAULT` to set — this repository owns its content outright,
 and everything it ships is generated from it.

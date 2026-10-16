@@ -1,37 +1,8 @@
-# Run the checks on the pull request that broke them, not on the release
-# afterwards.
-#
-# The four content repositories run this same file. What differs between them
-# is only what they have to check: `lint:lang` appears where there is a
-# `lang/` tree and not otherwise, because a step with nothing to check is not
-# parity — it is a green tick that means nothing.
-#
-# ## Named steps, not one `npm run lint`
-#
-# `npm run lint` chains with `run-s`, which stops at the first failure, so a
-# single step reports whichever check failed first and says nothing about the
-# rest — the checks past the break have no known state. Each step here runs
-# under `if: \${{ !cancelled() }}`, so one failure does not hide the others,
-# and a red run is a worklist rather than a wall.
-#
-# The retired-name sweep is deliberately absent. `npm run lint:retired` reports
-# old names surviving in prose, and `lint:nordmal-concordance` judges the table
-# it reads. Each reports the names a renaming has not yet reached, so each is
-# red by design while that renaming is in progress, and holding the whole tree
-# red on one culture's backlog tells a contributor nothing about the change in
-# front of them. They are run on demand.
-#
-# ## The compile is a second job
-#
-# It is the only check here that reaches the network — a satellite fetches the
-# pinned system release its actors resolve against — so it has a failure surface
-# none of the lint steps have, and mixing the two would make a third party's
-# outage read as a content failure. And a compile failure and a lint failure are
-# both worth seeing in one run, rather than whichever comes first hiding the
-# other.
-#
-# Every run is cold: `build/` is gitignored and holds the dependency catalogue
-# too, so a runner starts with nothing.
+# Formatting, prose, and registry checks run beside the shared content run.
+# The build job fetches pinned dependencies, prepares the content index,
+# calendars and assets, then checks frontmatter and links and compiles packs
+# in one content session. build/ is gitignored, so content builds start cold.
+# Retired-name and concordance sweeps run on demand.
 name: Lint
 
 on:
@@ -61,25 +32,8 @@ jobs:
                   node-version: 24
                   cache: npm
 
-            # Most of what follows reads the tracked tree and needs only the
-            # toolchain. Two checks do not: `lint:addresses` and
-            # `lint:content-links` resolve addresses into `sohl`, whose content
-            # index is fetched rather than vendored, so this job reaches the
-            # network exactly once — in the step after this one. It still
-            # compiles no pack.
             - name: Install dependencies
               run: npm ci
-
-            # Both address checks need it and refuse to run rather than guess:
-            #
-            #     sohl is a declared dependency but its content index has not
-            #     been fetched. Run `content-build deps fetch` first.
-            #
-            # Without this step they fail for a reason with nothing to do with
-            # the tree being checked, which is a red check a reader learns to
-            # ignore. The compile job fetches by way of `build:db`.
-            - name: Fetch the dependency content index
-              run: npm run build:deps
 
             # Prettier over the whole tree.
             - name: Check formatting
@@ -96,16 +50,6 @@ jobs:
             - name: Check localization files
               if: ${{ !cancelled() }}
               run: npm run lint:lang
-
-            # Frontmatter against the schema each note's type declares.
-            - name: Check addresses and frontmatter
-              if: ${{ !cancelled() }}
-              run: npm run lint:addresses
-
-            # Every anchor link lands and every qualified address resolves.
-            - name: Check content links
-              if: ${{ !cancelled() }}
-              run: npm run lint:content-links
 
             # A named person the prose leans on resolves to a note.
             - name: Check reference people
@@ -136,8 +80,7 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
-            # Stages the tree, compiles every pack, and emits the content index
-            # — the cold build a tree that has already built once cannot
-            # perform on itself.
+            # Prepare dependencies and assets, then validate and compile the
+            # content in one session.
             - name: Compile the content packs
               run: npm run build:db

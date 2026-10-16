@@ -1138,8 +1138,8 @@ data:
     heldFrom:
       - {source: the ground alone, takes: stem}
       - {source: a god, takes: godName, clip: first}
-      - {source: a god dwelling there, takes: godName, genitive: [-s, -a]}
-      - {source: a founder, takes: givenName, genitive: [-s, -a]}
+      - {source: a god dwelling there, takes: godName, joining: [-s, -a]}
+      - {source: a founder, takes: givenName, joining: [-s, -a]}
       - source: the ting and its law
         takes: element
         elements: [ting-, log-, mál-, hring-, dóms-]
@@ -1153,42 +1153,42 @@ data:
       position: closing
       kind: place
       sense: a stronghold on a height
-      genitive: -borgar
-    - {form: -brekka, position: closing, kind: place, sense: a slope, genitive: -brekkar}
-    - {form: -dal, position: closing, kind: place, sense: a dale, genitive: -dalar}
-    - {form: -ey, position: closing, kind: place, sense: an island, genitive: -eyjar}
-    - {form: -fell, position: closing, kind: place, sense: a bare hill, genitive: -fellar}
-    - {form: -fjall, position: closing, kind: place, sense: a mountain, genitive: -fjallar}
-    - {form: -fjord, position: closing, kind: place, sense: a fjord, genitive: -fjordar}
+      joining: -borgar
+    - {form: -brekka, position: closing, kind: place, sense: a slope, joining: -brekkar}
+    - {form: -dal, position: closing, kind: place, sense: a dale, joining: -dalar}
+    - {form: -ey, position: closing, kind: place, sense: an island, joining: -eyjar}
+    - {form: -fell, position: closing, kind: place, sense: a bare hill, joining: -fellar}
+    - {form: -fjall, position: closing, kind: place, sense: a mountain, joining: -fjallar}
+    - {form: -fjord, position: closing, kind: place, sense: a fjord, joining: -fjordar}
     - form: -gard
       position: closing
       kind: place
       sense: an enclosed yard and its buildings
-      genitive: -gardar
-    - {form: -havn, position: closing, kind: place, sense: a haven, genitive: -havnar}
+      joining: -gardar
+    - {form: -havn, position: closing, kind: place, sense: a haven, joining: -havnar}
     - form: -heim
       position: closing
       kind: place
       sense: "a home, and a settled place"
-      genitive: -heimar
-    - {form: -holm, position: closing, kind: place, sense: an islet, genitive: -holmar}
-    - {form: -holl, position: closing, kind: place, sense: a great hall, genitive: -hallar}
+      joining: -heimar
+    - {form: -holm, position: closing, kind: place, sense: an islet, joining: -holmar}
+    - {form: -holl, position: closing, kind: place, sense: a great hall, joining: -hallar}
     - form: -mark
       position: closing
       kind: place
       sense: "a march, ground held at an edge"
-      genitive: -markar
-    - {form: -nes, position: closing, kind: place, sense: a headland, genitive: -nesar}
-    - {form: -sal, position: closing, kind: place, sense: a hall, genitive: -salar}
-    - {form: -stead, position: closing, kind: place, sense: a farmstead, genitive: -stadar}
+      joining: -markar
+    - {form: -nes, position: closing, kind: place, sense: a headland, joining: -nesar}
+    - {form: -sal, position: closing, kind: place, sense: a hall, joining: -salar}
+    - {form: -stead, position: closing, kind: place, sense: a farmstead, joining: -stadar}
     - form: -thul
       position: closing
       kind: place
       sense: a seat where the law is recited
-      genitive: -thular
-    - {form: -vangr, position: closing, kind: place, sense: an open field, genitive: -vangar}
-    - {form: -vatn, position: closing, kind: place, sense: a lake, genitive: -vatnar}
-    - {form: -vík, position: closing, kind: place, sense: an inlet, genitive: -víkar}
+      joining: -thular
+    - {form: -vangr, position: closing, kind: place, sense: an open field, joining: -vangar}
+    - {form: -vatn, position: closing, kind: place, sense: a lake, joining: -vatnar}
+    - {form: -vík, position: closing, kind: place, sense: an inlet, joining: -víkar}
 # terran_analog: the place-name layers follow Scandinavian toponymy: theophoric names such as Odensvi, Torsberg and Ullevi, a founder's name as in Grimsstadir, and the assembly's as in Thingvellir and Logberg.
 sohl:
   system:
@@ -1419,7 +1419,7 @@ FROM affixes WHERE language = 'thalorna-note-skill-nordmalng' AND kind IS NULL A
 
 An **element** is a piece that means something and does not stand alone as a word. Every compound name is elements and nothing else, so the lexicon is the whole of what a compound may be made of. The thirty-four name-stems are elements too, and the ones that carry the most weight: a place or a person named from a stem is named from the stock the halls themselves are named from.
 
-Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a genitive `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr; that seam genitive belongs to an element, and § _Place names_ gives the two genitives a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
+Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a joining `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr; those endings join an element to the next piece, and § _Place names_ gives the joining forms a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
 
 **A kept word is not an element.** The words in _The words the tongue keeps_
 are given whole, and no compound is built from one. An element that shares a
@@ -1450,14 +1450,14 @@ GROUP BY gloss ORDER BY min(position)
 
 ### Place names
 
-A place name is an element and a generic, and the generic says what kind of place it is. The generic is what makes it a place rather than a person, and it is never the piece that changes. A generic is a closing element like any other, so the same piece that names a place can close a god's name or an order's. The third column gives the generic in the genitive, which is the form a place name takes when it governs another word.
+A place name is an element and a generic, and the generic says what kind of place it is. The generic is what makes it a place rather than a person, and it is never the piece that changes. A generic is a closing element like any other, so the same piece that names a place can close a god's name or an order's. The third column gives the generic's joining form, used when a place name stands beside another word to connect it with that place.
 
 ```sql
-SELECT '`' || form || '`' AS "generic", sense AS "what it names", '`' || genitive || '`' AS "in the genitive"
+SELECT '`' || form || '`' AS "generic", sense AS "what it names", '`' || joining || '`' AS "joining form"
 FROM elements WHERE language = 'thalorna-note-skill-nordmalng' AND kind = 'place' ORDER BY position
 ```
 
-**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is Thrunborg and his mountain Thrumufjall. Ground the god dwells on rather than merely holds takes the name whole instead, with a genitive `-s` or `-a` at the seam, so Odvar's hall is Ódvarsholl and Solrún's is Sólrunsholl. A founder's given name enters whole, with a genitive at the seam in the same way. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].
+**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is Thrunborg and his mountain Thrumufjall. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so Odvar's hall is Ódvarsholl and Solrún's is Sólrunsholl. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].
 
 ```sql
 SELECT source AS "held from",
@@ -1465,18 +1465,18 @@ SELECT source AS "held from",
                   WHEN 'element' THEN array_to_string(list_transform(elements, x -> '`' || x || '`'), ', ')
                   ELSE (CASE takes WHEN 'godName' THEN 'that god''s ' || CASE WHEN clip IS NULL THEN 'whole name' ELSE 'name' END ELSE 'that founder''s given name' END)
                        || coalesce(', clipped to its ' || clip || ' element', '')
-                       || coalesce(', with a genitive ' || array_to_string(list_transform(genitive, x -> '`' || x || '`'), ' or '), '')
+                       || coalesce(', with a joining ending ' || array_to_string(list_transform(joining, x -> '`' || x || '`'), ' or '), '')
        END AS "what stands first"
 FROM held_from WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY position
 ```
 
-**Only a god's name stands there whole.** The row admits the name of one of the north's own gods, built the way § _Theonyms_ builds one, and admits nothing else. An element in the genitive is not a god's name and neither is a name-stem in the genitive, so neither opens a place name by this row—the row above it and the founder's row say what those do. A word carrying a genitive `-s` before a generic is a place name held from a god only where that word is a god's name entire.
+**Only a god's name stands there whole.** The row admits the name of one of the north's own gods, built the way § _Theonyms_ builds one, and admits nothing else. An element with a joining ending is not a god's name and neither is a name-stem with that ending, so neither opens a place name by this row—the row above it and the founder's row say what those do. A word carrying a joining `-s` before a generic is a place name held from a god only where that word is a god's name entire.
 
 **The clause reaches place names and nothing else.** In every other compound—an office, an order, a god's own name, an earned clan name—the first element is an element from the lexicon, and a god's or a founder's name does not stand there. A place is held from a god and the name records the holding; a station is held from a king, so an office built on a god's name would say something the rank ladder does not mean, and an earned name built on one would have a hall claiming descent from a god.
 
-**A place name in the genitive inflects on its generic.** The generic is the noun the name is built on and the first element only describes it, so the first element never changes and the ending falls on the generic alone. The ending is `-ar`. A generic closing on a vowel drops it before the ending and a generic carrying the strong `-r` drops that, which gives `-brekka` the genitive `brekkar` and `-vangr` the genitive `vangar`. Three generics change more than their ending: `-ey` takes a linking `j` for `eyjar`, and `-holl` and `-stead` open their vowel to `a` for `hallar` and `stadar`. Every generic's own genitive stands in the third column of the table above, so a reader inflects Nalthmark to Nalthmarkar and Dvalgheim to Dvalgheimar by reading the row rather than working the change out.
+**A place name's joining form changes only its generic.** The first element stays as written. The joining form ends in `-ar`, replacing a final vowel or the strong `-r`: `-brekka` gives `brekkar` and `-vangr` gives `vangar`. The table also gives `eyjar` for `-ey`, `hallar` for `-holl` and `stadar` for `-stead`. Every generic's joining form stands in the third column above, so Nalthmark gives Nalthmarkar and Dvalgheim gives Dvalgheimar by following the row.
 
-**The genitive of a place name is a word and not a piece of one.** It governs what follows it across a space and joins nothing at a seam, so the Voice of Logstead is _Logstadar Mal_ in two words and the man who holds the seat is Knilthvir Logstadar. Three genitives are in play in this section and they do different work: an element's `-s` or `-a` joins the seam inside one word, a god's whole name takes the same `-s` or `-a` and joins the seam in the same way, and a place name's `-ar` stands free. The last is the only one that inflects a whole name without compounding it, and it is the only one that changes a stem.
+**A place name's joining form stands as a separate word.** It connects another word with the place across a space, so the Voice of Logstead is _Logstadar Mal_ in two words and the man who holds the seat is Knilthvir Logstadar. The joining forms here do different work: an element's `-s` or `-a` joins pieces inside one word, a god's whole name takes the same `-s` or `-a` at that seam, and a place name's `-ar` stands free beside another word.
 
 ### Ranks, offices and orders
 
@@ -1559,21 +1559,21 @@ Althendik, Braldaruk, Brildendik, Bruldumak, Draskendik, Driskumak, Druskidrok, 
 
 A standing compound names the claim its body grants. An empty level in a ladder grants no claim of its own. The oath compounds serve the fighting orders where their candidate, senior-peer and expelled standings exist; the Green Wardens admit candidates directly to the sworn standing.
 
-| Compound      | Elements                         | Sense                            |
-| ------------- | -------------------------------- | -------------------------------- |
-| Eidefnir      | `eid-` + `-efnir`                | One in the making for the oath   |
-| Eidhofding    | `eid-` + `-hofding`              | Senior among the sworn peers     |
-| Eidvargr      | `eid-` + `-vargr`                | Outlaw whose sworn vows are void |
-| Skaldefnir    | `skald-` + `-efnir`              | A skald in the making            |
-| Skaldavargr   | `skalda-` + `-vargr`             | The skalds' outlaw               |
-| Bandlagsmadr  | `bandlag-` + genitive + `-madr`  | Man on the league's roll         |
-| Bandlagsvargr | `bandlag-` + genitive + `-vargr` | The league's outlaw              |
-| Hofudvald     | `hofud-` + `-vald`               | The head who wields authority    |
-| Hrimmadr      | `hrím-` + `-madr`                | Man of the rime's station        |
-| Hrimvin       | `hrím-` + `-vin`                 | Friend of the rime               |
-| Bletlok       | `blet-` + `-lok`                 | The sacrifice closed to him      |
-| Navargr       | `ná-` + `-vargr`                 | The corpse-goddess's outlaw      |
-| Bjartgengir   | `bjart-` + `-gengir`             | Those who go to the light        |
-| Bjartlok      | `bjart-` + `-lok`                | The light closed to him          |
+| Compound      | Elements                             | Sense                            |
+| ------------- | ------------------------------------ | -------------------------------- |
+| Eidefnir      | `eid-` + `-efnir`                    | One in the making for the oath   |
+| Eidhofding    | `eid-` + `-hofding`                  | Senior among the sworn peers     |
+| Eidvargr      | `eid-` + `-vargr`                    | Outlaw whose sworn vows are void |
+| Skaldefnir    | `skald-` + `-efnir`                  | A skald in the making            |
+| Skaldavargr   | `skalda-` + `-vargr`                 | The skalds' outlaw               |
+| Bandlagsmadr  | `bandlag-` + joining `-s` + `-madr`  | Man on the league's roll         |
+| Bandlagsvargr | `bandlag-` + joining `-s` + `-vargr` | The league's outlaw              |
+| Hofudvald     | `hofud-` + `-vald`                   | The head who wields authority    |
+| Hrimmadr      | `hrím-` + `-madr`                    | Man of the rime's station        |
+| Hrimvin       | `hrím-` + `-vin`                     | Friend of the rime               |
+| Bletlok       | `blet-` + `-lok`                     | The sacrifice closed to him      |
+| Navargr       | `ná-` + `-vargr`                     | The corpse-goddess's outlaw      |
+| Bjartgengir   | `bjart-` + `-gengir`                 | Those who go to the light        |
+| Bjartlok      | `bjart-` + `-lok`                    | The light closed to him          |
 
 `-vargr` names membership revoked from someone received; `-lok` names admission withheld. `-hofding` names seniority among peers who choose a chair; `-stjóri` names a master's office. **Lidstjori**, `lid-` + `-stjóri`, means master of a company and is deliberately unused as a Compact rung: its Signed Captain is a standing before the league, while the league's administrative chair is its Speaker. The Giant's Children's senior standing is not Eidhofding: their Fathers of the Halls choose the chair by virtue of office.

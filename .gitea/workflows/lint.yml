@@ -1,54 +1,11 @@
-# Run the checks on the pull request that broke them, not on the release
-# afterwards.
+# Formatting, prose, and registry guards run beside the shared content run.
+# The build job fetches pinned dependencies, prepares the content index,
+# calendars and assets, then checks frontmatter and links and compiles packs
+# in one content session. Both required checks include content failures.
 #
-# The four content repositories run this same file. What differs between them
-# is only what they have to check: `lint:lang` appears where there is a
-# `lang/` tree and not otherwise, because a step with nothing to check is not
-# parity — it is a green tick that means nothing.
-#
-# ## Named steps, not one `npm run lint`
-#
-# `npm run lint` chains with `run-s`, which stops at the first failure, so a
-# single step reports whichever check failed first and says nothing about the
-# rest — the checks past the break have no known state. Each check here runs
-# under `if: \${{ !cancelled() }}`, so one failure does not hide the others,
-# and a red run is a worklist rather than a wall.
-#
-# ## Thalorna's checks run as parallel jobs
-#
-# The other content repositories run these checks as steps of one job.
-# Thalorna's tree is large enough that the single job ran close to the runner's
-# 30-minute limit and was killed there, so its checks are four jobs that run
-# side by side on separate workers, and the lint takes as long as the slowest
-# of them. A final job, `Content, prose, and registry checks`, waits for all
-# four and fails when any of them failed; it is the name branch protection
-# requires, so the checks report as one. Each job pays its own checkout and
-# a dependency restore.
-#
-# The retired-name sweep is deliberately absent. `npm run lint:retired` reports
-# old names surviving in prose, and `lint:nordmal-concordance` judges the table
-# it reads. Each reports the names a renaming has not yet reached, so each is
-# red by design while that renaming is in progress, and holding the whole tree
-# red on one culture's backlog tells a contributor nothing about the change in
-# front of them. They are run on demand.
-#
-# ## The compile runs beside the checks
-#
-# It is the only job here that reaches the network — a satellite fetches the
-# pinned system release its actors resolve against — and it is the longest, so
-# it starts with the checks rather than after them: a green run takes as long
-# as the slowest single job. `Content pack compile` is its own required check,
-# so a red compile blocks the merge as a red check does.
-#
-# Every run is cold for `build/`: it is gitignored and holds the dependency
-# catalogue too, so a runner starts with nothing there.
-#
-# ## Dependencies are cached
-#
-# Every job restores `node_modules` keyed on the Node version and the hash of
-# `package-lock.json`, and runs `npm ci` only on a miss. The `prepare` script
-# only points git hooks at the installed package, which a CI job never uses, so
-# a restore needs no further step.
+# Each job restores node_modules by Node version and package-lock.json hash;
+# npm ci runs on cache misses. build/ is gitignored, so content builds start cold.
+# Retired-name and concordance sweeps run on demand.
 name: Lint
 
 on:
@@ -105,78 +62,6 @@ jobs:
               if: ${{ !cancelled() }}
               run: npm run lint:lang
 
-    addresses:
-        name: Addresses and frontmatter
-        runs-on: lint
-
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-
-            - name: Setup Node
-              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
-              with:
-                  node-version: 24
-                  cache: npm
-
-            # Restored on an unchanged lockfile and Node version; the install
-            # runs only on a miss. A restore leaves `node_modules/.bin` intact.
-            - name: Cache node_modules
-              id: modules
-              uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
-              with:
-                  path: node_modules
-                  key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
-
-            - name: Install dependencies
-              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
-              run: npm ci
-
-            # `sohl`'s content index is fetched, not vendored, and both address
-            # checks refuse to run without it rather than guess.
-            - name: Fetch the dependency content index
-              run: npm run build:deps
-
-            # Frontmatter against the schema each note's type declares.
-            - name: Check addresses and frontmatter
-              run: npm run lint:addresses
-
-    links:
-        name: Content links
-        runs-on: lint
-
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-
-            - name: Setup Node
-              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
-              with:
-                  node-version: 24
-                  cache: npm
-
-            # Restored on an unchanged lockfile and Node version; the install
-            # runs only on a miss. A restore leaves `node_modules/.bin` intact.
-            - name: Cache node_modules
-              id: modules
-              uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
-              with:
-                  path: node_modules
-                  key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
-
-            - name: Install dependencies
-              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
-              run: npm ci
-
-            # `sohl`'s content index is fetched, not vendored, and both address
-            # checks refuse to run without it rather than guess.
-            - name: Fetch the dependency content index
-              run: npm run build:deps
-
-            # Every anchor link lands and every qualified address resolves.
-            - name: Check content links
-              run: npm run lint:content-links
-
     guards:
         name: Reference people and utility tests
         runs-on: lint
@@ -222,7 +107,7 @@ jobs:
     lint:
         name: Content, prose, and registry checks
         runs-on: lint
-        needs: [format, addresses, links, guards]
+        needs: [format, guards, build]
         if: ${{ !cancelled() }}
 
         steps:
@@ -261,8 +146,7 @@ jobs:
               if: ${{ steps.modules.outputs.cache-hit != 'true' }}
               run: npm ci
 
-            # Stages the tree, compiles every pack, and emits the content index
-            # — the cold build a tree that has already built once cannot
-            # perform on itself.
+            # Prepare dependencies and assets, then validate and compile the
+            # content in one session.
             - name: Compile the content packs
               run: npm run build:db
